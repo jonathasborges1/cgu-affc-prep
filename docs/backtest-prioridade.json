@@ -1,13 +1,64 @@
 {
-  "modelo": "backtest-temporal-v1",
+  "modelo": "backtest-temporal-v2",
   "n_itens_classificados": 93,
-  "folds": [],
+  "folds_banco": [],
+  "p1_rotulos": {
+    "rotulos": 650,
+    "folds": [
+      {
+        "ano_teste": 2017,
+        "treino": 104,
+        "teste": 31,
+        "mae_share": 0.052003396476955635,
+        "recall_top5": 0.3225806451612903
+      },
+      {
+        "ano_teste": 2021,
+        "treino": 185,
+        "teste": 18,
+        "mae_share": 0.03881007731006574,
+        "recall_top5": 0.5555555555555556
+      },
+      {
+        "ano_teste": 2022,
+        "treino": 218,
+        "teste": 24,
+        "mae_share": 0.03941212779405861,
+        "recall_top5": 0.5
+      },
+      {
+        "ano_teste": 2023,
+        "treino": 260,
+        "teste": 53,
+        "mae_share": 0.025616174955505153,
+        "recall_top5": 0.5094339622641509
+      },
+      {
+        "ano_teste": 2024,
+        "treino": 361,
+        "teste": 124,
+        "mae_share": 0.017086396067112222,
+        "recall_top5": 0.5564516129032258
+      },
+      {
+        "ano_teste": 2025,
+        "treino": 621,
+        "teste": 16,
+        "mae_share": 0.03797465697122359,
+        "recall_top5": 0.375
+      }
+    ],
+    "itens_teste": 266,
+    "mae_share_medio": 0.027596024984689778,
+    "recall_top5_medio": 0.5037593984962406,
+    "gate_dados_minimos": true
+  },
   "resumo": {
     "folds": 0,
     "itens_teste": 0,
     "mae_share_medio": 0.0,
     "recall_top5_medio": 0.0
   },
-  "gate_dados_minimos": false,
-  "conclusao": "dados classificados insuficientes para validar previsao"
+  "gate_dados_minimos": true,
+  "conclusao": "P1 avaliavel; P2/P3 ainda sem rotulos temporais suficientes"
 }
