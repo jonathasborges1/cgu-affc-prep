@@ -1,0 +1,461 @@
+{
+  "banco": 178,
+  "nucleos": 79,
+  "erros_criticos": [],
+  "avisos": [
+    {
+      "linha": 11,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "51"
+    },
+    {
+      "linha": 12,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "54"
+    },
+    {
+      "linha": 13,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "55"
+    },
+    {
+      "linha": 14,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "56"
+    },
+    {
+      "linha": 15,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "57"
+    },
+    {
+      "linha": 16,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "58"
+    },
+    {
+      "linha": 17,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "59"
+    },
+    {
+      "linha": 18,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "60"
+    },
+    {
+      "linha": 19,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "61"
+    },
+    {
+      "linha": 20,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "62"
+    },
+    {
+      "linha": 21,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "113"
+    },
+    {
+      "linha": 22,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "63"
+    },
+    {
+      "linha": 23,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "100"
+    },
+    {
+      "linha": 24,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "97"
+    },
+    {
+      "linha": 25,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "98"
+    },
+    {
+      "linha": 26,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "99"
+    },
+    {
+      "linha": 27,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "101"
+    },
+    {
+      "linha": 28,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "102"
+    },
+    {
+      "linha": 29,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "103"
+    },
+    {
+      "linha": 30,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "67"
+    },
+    {
+      "linha": 31,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "68"
+    },
+    {
+      "linha": 32,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "69"
+    },
+    {
+      "linha": 33,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "72"
+    },
+    {
+      "linha": 34,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "73"
+    },
+    {
+      "linha": 35,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "74"
+    },
+    {
+      "linha": 36,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "110"
+    },
+    {
+      "linha": 37,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "114"
+    },
+    {
+      "linha": 38,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "115"
+    },
+    {
+      "linha": 39,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "116"
+    },
+    {
+      "linha": 40,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "117"
+    },
+    {
+      "linha": 41,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "118"
+    },
+    {
+      "linha": 42,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-rn-2026",
+      "item": "119"
+    },
+    {
+      "linha": 43,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "113"
+    },
+    {
+      "linha": 44,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "114"
+    },
+    {
+      "linha": 45,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "115"
+    },
+    {
+      "linha": 46,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "116"
+    },
+    {
+      "linha": 47,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "117"
+    },
+    {
+      "linha": 48,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "118"
+    },
+    {
+      "linha": 49,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "119"
+    },
+    {
+      "linha": 50,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "120"
+    },
+    {
+      "linha": 51,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "127"
+    },
+    {
+      "linha": 52,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "128"
+    },
+    {
+      "linha": 53,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "138"
+    },
+    {
+      "linha": 54,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "143"
+    },
+    {
+      "linha": 55,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "142"
+    },
+    {
+      "linha": 56,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "148"
+    },
+    {
+      "linha": 57,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "153"
+    },
+    {
+      "linha": 58,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "154"
+    },
+    {
+      "linha": 59,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "159"
+    },
+    {
+      "linha": 60,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "139"
+    },
+    {
+      "linha": 61,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "144"
+    },
+    {
+      "linha": 62,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "149"
+    },
+    {
+      "linha": 63,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "162"
+    },
+    {
+      "linha": 64,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "132"
+    },
+    {
+      "linha": 65,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "135"
+    },
+    {
+      "linha": 66,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "151"
+    },
+    {
+      "linha": 67,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "157"
+    },
+    {
+      "linha": 68,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "158"
+    },
+    {
+      "linha": 69,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "160"
+    },
+    {
+      "linha": 70,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "161"
+    },
+    {
+      "linha": 71,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "125"
+    },
+    {
+      "linha": 72,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "177"
+    },
+    {
+      "linha": 73,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "178"
+    },
+    {
+      "linha": 74,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "179"
+    },
+    {
+      "linha": 75,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tcu-2026",
+      "item": "180"
+    },
+    {
+      "linha": 79,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 64
+    },
+    {
+      "linha": 82,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 72
+    },
+    {
+      "linha": 85,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 83
+    },
+    {
+      "linha": 88,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 87
+    },
+    {
+      "linha": 89,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 89
+    },
+    {
+      "linha": 90,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tce-ac-2024-c11-sistemas-informacao",
+      "item": 92
+    },
+    {
+      "linha": 95,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tema-p3-seg-1",
+      "item": "66"
+    },
+    {
+      "linha": 96,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tema-p3-seg-1",
+      "item": "68"
+    },
+    {
+      "linha": 97,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tema-p3-seg-1",
+      "item": "71"
+    },
+    {
+      "linha": 103,
+      "tipo": "pendente_classificacao",
+      "fonte": "oficial-tema-p3-seg-1",
+      "item": "115"
+    }
+  ],
+  "resumo": {
+    "erros_criticos": 0,
+    "pendentes_classificacao": 75
+  }
+}

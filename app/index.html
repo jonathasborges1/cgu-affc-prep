@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CGU Treino</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0f1419;color:#e6edf3;font:15px/1.55 "Segoe UI",Arial,sans-serif}
+header{display:flex;align-items:center;gap:6px;padding:10px 18px;background:#161b22;border-bottom:1px solid #30363d;position:sticky;top:0;z-index:5}
+header b{color:#58a6ff;margin-right:14px;font-size:17px}nav button{background:none;border:0;color:#8b949e;padding:8px 14px;border-radius:6px;cursor:pointer;font:600 14px inherit}nav button.on{background:#1f6feb33;color:#79c0ff}
+main{max-width:1000px;margin:0 auto;padding:22px 18px 80px}h2{color:#58a6ff;margin:0 0 12px}h3{color:#7ee787;margin:20px 0 8px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px}.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px;color:#8b949e;font-size:12px}.card b{display:block;font-size:26px;color:#e6edf3}
+table{border-collapse:collapse;width:100%;font-size:13.5px;margin:6px 0 14px}th{background:#1f6feb33;color:#79c0ff;text-align:left}td,th{border:1px solid #30363d;padding:6px 9px;vertical-align:top}
+.tagok{color:#3fb950;font-size:13px}.bar{height:8px;background:#21262d;border-radius:4px;overflow:hidden;min-width:80px}.bar i{display:block;height:8px;background:#3fb950}.bar i.r{background:#f85149}
+button.p,a.btn{background:#238636;color:#fff;border:0;border-radius:6px;padding:7px 14px;cursor:pointer;font:600 14px inherit;text-decoration:none;display:inline-block}button.s{background:#21262d;color:#e6edf3;border:1px solid #30363d;border-radius:6px;padding:7px 14px;cursor:pointer;font:600 14px inherit}
+input,select{background:#0d1117;color:#e6edf3;border:1px solid #30363d;border-radius:6px;padding:7px 10px;font:14px inherit}
+.q{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px 18px;margin:10px 0}.tg span{display:inline-block;background:#1f6feb33;color:#79c0ff;border-radius:8px;padding:0 8px;font-size:12px;margin:0 5px 4px 0}.tg .t{background:#d2992233;color:#e3b341}
+.enun{font-size:17px;margin:10px 0 16px}.meta{font-size:12px;color:#8b949e;word-break:break-all}.row{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0}
+.row button{flex:1;min-width:120px;padding:12px;font-size:16px}.c{background:#1a7f37!important}.e{background:#b62324!important}.b{background:#484f58!important}
+.ok{border-left:4px solid #3fb950;background:#0f2a18;padding:10px 14px;border-radius:6px;margin-top:10px}.no{border-left:4px solid #f85149;background:#2d1517;padding:10px 14px;border-radius:6px;margin-top:10px}.bl{border-left:4px solid #8b949e;background:#1c2128;padding:10px 14px;border-radius:6px;margin-top:10px}
+.muted{color:#8b949e;font-size:13px}pre{background:#161b22;border:1px solid #30363d;border-radius:6px;padding:10px;font-size:12px;color:#ffa657;white-space:pre-wrap;max-height:240px;overflow:auto}
+.sim{background:#3d1f1f;border:1px solid #f85149;border-radius:8px;padding:8px 12px;margin:8px 0;color:#ffb3ad;font-size:13px}
+
+.et{display:flex;gap:12px;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 14px;margin:8px 0;align-items:flex-start}.et .n{font:700 18px inherit;color:#58a6ff;min-width:22px}.et.claude{border-left:4px solid #bc8cff}.et.mecanica{border-left:4px solid #3fb950}
+.tag{font-size:11px;padding:1px 7px;border-radius:8px;background:#21262d;color:#8b949e}.tag.ok{background:#0f2a18;color:#3fb950}.tag.erro{background:#2d1517;color:#f85149}.tag.rodando{background:#3d2f00;color:#d29922}
+#log,.chatbox{background:#010409;border:1px solid #30363d;border-radius:8px;padding:10px;font:12.5px/1.5 Consolas,monospace;height:300px;overflow:auto;white-space:pre-wrap}
+.l-agente{color:#bc8cff}.l-skill{color:#f778ba}.l-ferramenta{color:#79c0ff}.l-negado{color:#f85149}.l-custo{color:#d29922}.l-fase{color:#7ee787}.l-texto{color:#e6edf3}
+.msg{margin:8px 0;padding:8px 12px;border-radius:8px;background:#161b22;font:14px/1.5 "Segoe UI",sans-serif;white-space:pre-wrap}.msg.eu{background:#1f6feb33}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 4px;max-height:210px;overflow:auto}.chip{background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:14px;padding:3px 11px;font:12.5px inherit;cursor:pointer}.chip.tem{border-color:#2ea043;color:#7ee787}.chip:hover{background:#1f6feb33;border-color:#58a6ff}.chip.on{background:#1f6feb;color:#fff;border-color:#58a6ff}
+.lv-info{color:#c9d1d9}.lv-ok{color:#3fb950}.lv-aviso{color:#d29922}.lv-erro{color:#f85149}.lh{color:#6e7681}.mini{display:inline-block;width:64px;height:6px;background:#21262d;border-radius:3px;vertical-align:middle;overflow:hidden}.mini i{display:block;height:6px;background:#3fb950}#log{height:340px}
+</style></head><body>
+<header><b>CGU Treino</b><nav id="nav"></nav><span style="flex:1"></span><span id="ver" class="tag" title="Versão do app (sobe a cada atualização)">v?</span><button class="s" onclick="reiniciar()" title="Reinicia o servidor (use após atualizações)">⟳ Reiniciar</button><button class="s" onclick="encerrar()" title="Desliga o app">⏻ Encerrar</button></header><main id="m"></main>
+<script>
+const $=s=>document.querySelector(s),m=$('#m');
+const H=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const api=async(u,o)=>(await fetch(u,o)).json();
+const post=(u,d)=>api(u,{method:'POST',body:JSON.stringify(d)});
+const tabs=[['painel','Painel'],['treino','Treino'],['progresso','Progresso'],['programa','Programa'],['edital','Edital'],['universo','Provas'],['workflow','Workflow'],['aulas','Aulas'],['prioridade','Prioridade'],['banco','Banco'],['como','Como funciona']];
+function nav(t){$('#nav').innerHTML=tabs.map(([k,n])=>`<button class="${k==t?'on':''}" onclick="go('${k}')">${n}</button>`).join('')}
+let NOMES={};const RT=s=>(NOMES[s]||{}).r||s,RC=s=>(NOMES[s]||{}).c||s;const capi=s=>String(s||'').charAt(0)+String(s||'').slice(1).toLowerCase();
+let CUR='painel',VOLTA='treino';const NOMEABA=t=>(tabs.find(x=>x[0]==t)||[t,t])[1];
+async function go(t){CUR=t;for(let i=0;i<4;i++){try{const n=await api('/api/nomes');if(n&&!n.erro&&Object.keys(n).length){NOMES=n;break}}catch(e){}await new Promise(r=>setTimeout(r,500))}try{history.replaceState(null,'','#'+t)}catch(e){}nav(t);m.innerHTML='<p class="muted">carregando…</p>';try{await({painel,treino,progresso,programa,edital,universo,workflow,aulas,prioridade,banco,como})[t]()}catch(e){m.innerHTML='<h2>Erro nesta aba</h2><pre>'+H(e&&e.message||e)+'</pre><p class="muted">Se disser que algo é undefined, o servidor está desatualizado: feche e abra o iniciar.bat.</p>'}}
+const pct=(a,b)=>b?Math.round(100*a/b):0;
+async function painel(){const r=await api('/api/resumo');const est=Object.entries(r.provas);const tot=est.reduce((s,[,n])=>s+n,0);
+m.innerHTML=`<h2>Painel</h2><div class="cards"><div class="card"><b>${r.itens}</b>itens no banco</div><div class="card"><b>${r.nucleos}</b>núcleos</div><div class="card"><b>${r.respondidas}</b>itens respondidos</div><div class="card"><b>${r.pontos}</b>nota líquida (+1/−1)</div><div class="card"><b>${r.aulas_lidas}</b>aulas lidas</div></div>
+<h3>Provas por etapa do workflow</h3><table><tr><th>Estado</th><th>Provas</th><th></th></tr>${est.map(([e,n])=>`<tr><td>${H(e)}</td><td>${n}</td><td><div class="bar"><i style="width:${pct(n,tot)}%"></i></div></td></tr>`).join('')}</table>
+<h3>Itens por seção do edital</h3><table><tr><th>Seção</th><th>Itens</th><th></th></tr>${r.secoes.map(([s,n])=>`<tr><td>${H(RT(s))}</td><td>${n}</td><td><div class="bar"><i style="width:${pct(n,r.itens)}%"></i></div></td></tr>`).join('')}</table>
+<h3>Últimas linhas do log</h3><pre>${H(r.log.join('\n')||'(sem log)')}</pre>`}
+
+async function reiniciar(){if(!confirm('Reiniciar o servidor? Jobs em execução serão interrompidos.'))return;await post('/api/reiniciar',{}).catch(()=>{});m.innerHTML='<h2>Reiniciando…</h2><p class="muted">aguarde, a página recarrega sozinha.</p>';
+let n=0;const iv=setInterval(async()=>{n++;try{const r=await fetch('/api/resumo');if(r.ok&&n>2){clearInterval(iv);salvaEstado();location.reload()}}catch(e){}if(n>40){clearInterval(iv);m.innerHTML='<h2>Não voltou</h2><p>Abra reiniciar.bat manualmente.</p>'}},1000)}
+async function encerrar(){if(!confirm('Encerrar o app? Para voltar, abra iniciar.bat.'))return;await post('/api/encerrar',{}).catch(()=>{});m.innerHTML='<h2>App encerrado</h2><p class="muted">Para voltar, abra iniciar.bat. Pode fechar esta aba.</p>'}
+
+async function universo(){const u=await api('/api/universo');if(!u.funil)throw new Error(u.erro||'servidor desatualizado');const f=u.funil,e=u.edital,hh=u.heuristica;
+const B=(n,t,c)=>`<div class="bar"><i class="${c||''}" style="width:${pct(n,t)}%"></i></div>`;
+const FN=[['Eventos no catálogo Cebraspe (2016+)',f.eventos,f.eventos],['Provas (cargos) descobertas',f.provas_descobertas,f.provas_descobertas],['Universo-alvo (relevantes ao edital)',f.universo_alvo,f.provas_descobertas],['… já medidas (baixadas e comparadas ao edital)',f.alvo_medidas,f.universo_alvo],['Provas em andamento no workflow',f.em_workflow,f.universo_alvo],['Provas com itens no banco',f.provas_no_banco,f.universo_alvo]];
+m.innerHTML=`<h2>Provas: universo × banco</h2>
+<div class="cards"><div class="card"><b>${f.provas_descobertas}</b>provas descobertas</div><div class="card"><b>${f.universo_alvo}</b>no universo-alvo</div><div class="card"><b>${f.alvo_a_varrer}</b>do alvo ainda não medidas</div><div class="card"><b>${f.provas_no_banco}</b>provas no banco</div><div class="card"><b>${f.itens_no_banco}</b>itens no banco</div><div class="card"><b>${f.pdfs_locais}</b>PDFs de provas locais</div></div>
+<h3>Funil</h3><table>${FN.map(([n,v,t])=>`<tr><td>${n}</td><td>${v}</td><td style="width:35%">${B(v,t)}</td></tr>`).join('')}</table>
+<p class="muted">Banco por estado do workflow: ${Object.entries(f.estados_workflow).map(([k,v])=>k+': '+v).join(' · ')}</p>
+<h3>Nosso edital</h3><p>${e.pdf?'✔ edital-oficial.pdf presente ('+e.tamanho_kb+' KB, sha256 '+e.sha256+'…)':'✘ edital-oficial.pdf ausente'} · ${e.topicos} tópicos do programa em ${e.secoes} seções · programa.md ${e.programa_md?'✔':'✘'} · regras da prova ${e.regras_md?'✔':'✘'} · léxico de classificação ${e.lexico?'✔':'✘'}</p>
+<h3>Como o universo-alvo é escolhido</h3><p class="muted">Cada prova recebe um <i>prior</i> por metadados (palavras do cargo/órgão). Medimos ${f.varridas} provas: contamos os itens "fortes" (que casam com o programa). O rendimento por faixa de prior vira previsão para as não medidas; abaixo da menor faixa medida o rendimento é suposto cair 40% por faixa (faixa "estimada", a corrigir com amostras). Entram no alvo as provas com ≥ ${hh.min_esperado} itens fortes esperados, até ${Math.round(hh.cobertura_massa*100)}% da massa esperada.</p>
+<table><tr><th>Faixa de prior</th><th>Candidatas</th><th>Medidas</th><th>Itens fortes/prova</th><th>Origem</th></tr>${Object.entries(hh.faixas).map(([b,x])=>`<tr><td>${b}–${+b+1}</td><td>${x.candidatas}</td><td>${x.n_medidas}</td><td>${x.rend}</td><td>${x.origem=='medida'?'medida':'<span style="color:#d29922">estimada</span>'}</td></tr>`).join('')}</table>
+<p class="muted">Dica: varrer 8–10 provas da faixa 2–3 (aba Workflow → varrer) mede esses rendimentos de verdade e ajusta o universo sozinho.</p>
+<h3>Representação do edital (seções)</h3><table><tr><th>Seção</th><th>Tema</th><th>Itens compatíveis nas provas medidas</th><th>No banco</th></tr>${u.secoes.map(s=>`<tr><td>${H(capi(s.bloco))}</td><td>${H(s.codigo.split(' ').pop())} ${H(tit(s.topico))}</td><td>${s.compat}${s.compat<10?' ⚠':''}</td><td>${s.banco}</td></tr>`).join('')}</table>
+<p class="muted">⚠ = pouco material nas provas medidas: buscar outras provas/bancas para essa seção.</p>
+<h3>Provas do universo-alvo (top 300 por rendimento esperado)</h3><input id="fu" placeholder="filtrar por órgão/cargo/estado" oninput="fU()" style="width:100%"><table id="tu"></table>`;
+window._U=u.alvo;fU()}
+function fU(){const q=(document.getElementById('fu').value||'').toLowerCase();document.getElementById('tu').innerHTML='<tr><th>Ano</th><th>Órgão</th><th>Cargo</th><th>Prior</th><th>Fortes</th><th>Estado</th></tr>'+window._U.filter(r=>(r.orgao+r.cargo+r.estado).toLowerCase().includes(q)).slice(0,120).map(r=>`<tr><td>${r.ano}</td><td>${H(r.orgao)}</td><td>${H((r.cargo||'').slice(0,90))}</td><td>${r.prior}</td><td>${r.esperado}${r.tipo=='estimado'?' ~':''}</td><td>${H(r.estado)}${r.no_banco?' ✔banco':''}</td></tr>`).join('')}
+
+let ED=null,EDSEL=null;
+async function edital(){const d=await api('/api/edital');if(!d.topicos)throw new Error(d.erro||'servidor desatualizado');ED=d;const c=d.classificacao;
+m.innerHTML=`<h2>Edital × questões</h2>
+<div class="cards"><div class="card"><b>${c.itens_extraidos}</b>itens extraídos (${c.provas_varridas} provas)</div><div class="card"><b>${c.compativeis}</b>compatíveis com o edital</div><div class="card"><b>${c.fortes}</b>compatibilidade forte</div><div class="card"><b>${c.no_banco}</b>classificados no banco</div><div class="card"><b>${c.com_tags}</b>com tags de pegadinha</div><div class="card"><b>${c.com_nucleo}</b>com núcleo</div></div>
+<p class="muted">Classificação é por lote: só entra no banco o que foi classificado e verificado em duas passagens. Itens extraídos mas ainda não classificados aparecem como "pendentes" em cada tópico. Fora do mapeamento: ${c.sem_codigo_edital} itens do banco sem código do edital (legado) e ${c.fora_do_edital} marcados FORA do edital.</p>
+<div style="display:grid;grid-template-columns:minmax(380px,1fr) minmax(380px,1.2fr);gap:16px;align-items:start"><div id="arv"></div><div id="det" style="position:sticky;top:60px;max-height:85vh;overflow:auto"><p class="muted">Clique em um tópico para ver as questões.</p></div></div>`;
+const g={};d.topicos.forEach(t=>{(g[t.prova]=g[t.prova]||{});(g[t.prova][t.bloco_titulo]=g[t.prova][t.bloco_titulo]||[]).push(t)});
+const NM={P1:'P1 – Conhecimentos básicos',P2:'P2 – Complementares',P3:'P3 – Específicos (TI)'};
+$('#arv').innerHTML=Object.entries(g).map(([p,bl])=>`<h3>${NM[p]||p}</h3>`+Object.entries(bl).map(([b,ts])=>{const tb=ts.filter(t=>t.nivel==1).reduce((s,t)=>s+t.banco,0),tc=ts.filter(t=>t.nivel==1).reduce((s,t)=>s+t.compat,0);
+return `<details ${p=='P3'?'open':''}><summary style="cursor:pointer;padding:4px 0"><b>${H(b)}</b> <span class="tag">banco ${tb}</span> <span class="tag">compat. ${tc}</span></summary>${ts.map(t=>`<div onclick="edSel('${t.codigo}')" style="cursor:pointer;margin:2px 0 2px ${(t.nivel-1)*18}px;padding:5px 8px;border-radius:6px;background:${t.codigo==EDSEL?'#1f6feb33':'#161b22'};border-left:3px solid ${t.banco?'#3fb950':(t.compat?'#d29922':'#30363d')}">
+<span class="muted">${H(t.num)}</span> ${H(t.texto.length>120?t.texto.slice(0,120)+'…':t.texto)} <span class="tag ${t.banco?'ok':''}">${t.banco} no banco</span>${t.compat>t.banco?` <span class="tag rodando">${t.compat-t.banco} pendentes</span>`:''}${t.nucleos?` <span class="tag">${t.nucleos} núcleos</span>`:''}</div>`).join('')}</details>`}).join('')).join('')}
+async function edSel(cod){EDSEL=cod;const t=ED.topicos.find(x=>x.codigo==cod);const r=await api('/api/edital-itens?cod='+encodeURIComponent(cod));
+$('#det').innerHTML=`<div class="q"><b>${H(RT(cod))}</b><div class="muted" title="${H(cod)}">${H(t.texto)}</div><p class="muted">${r.itens.length} questões no banco · ${t.compat} itens compatíveis encontrados nas provas · ${r.nucleos.length} núcleos</p>
+${r.nucleos.length?`<h3>Núcleos (o que a banca testa)</h3><ul>${r.nucleos.map(n=>`<li>${H(n.texto)}</li>`).join('')}</ul>`:''}
+<h3>Questões</h3>${r.itens.map(i=>`<div class="q" style="margin:6px 0"><div class="muted">${H(i.ref||'')} · item ${H(i.item)} · ${H(i.nivel||'')}</div><div style="margin:6px 0">${H(i.enunciado)}</div><div class="tg">${i.tags.map(x=>`<span>${H(x)}</span>`).join('')}<span>gabarito: ${H(i.gabarito)}</span></div><div class="meta"><a href="${H(i.url)}" target="_blank" style="color:#58a6ff">${H(i.url)}</a></div></div>`).join('')||'<p class="muted">Nenhuma questão classificada neste tópico ainda (veja Workflow → classificação).</p>'}</div>`;
+document.querySelectorAll('#arv div[onclick]').forEach(e=>e.style.background=e.getAttribute('onclick').includes("'"+cod+"'")?'#1f6feb33':'#161b22')}
+let VER=null;api('/api/versao').then(r=>{if(r.versao)document.getElementById('ver').textContent='v'+r.versao}).catch(()=>{});setInterval(async()=>{try{const r=await api('/api/versao');const v=r.v;if(r.versao)document.getElementById('ver').textContent='v'+r.versao;if(VER===null)VER=v;else if(v&&v!==VER){salvaEstado();location.reload()}}catch(e){}},3000);
+
+async function programa(){const d=await api('/api/edital');if(!d.topicos)throw new Error(d.erro||'servidor desatualizado');const c=d.concurso||{},cg=c.cargo||{},po=c.provas_objetivas||{};
+const META=10;const sec=d.topicos.filter(t=>t.nivel==1);
+const NM={P1:'P1 – Conhecimentos básicos',P2:'P2 – Conhecimentos complementares',P3:'P3 – Conhecimentos específicos (TI – Desenvolvimento de Sistemas)'};
+const tot=p=>{const s=sec.filter(t=>t.prova==p);return {n:s.length,b:s.reduce((a,t)=>a+t.banco,0),ok:s.filter(t=>t.banco>=META).length,com:s.filter(t=>t.banco>0).length}};
+m.innerHTML=`<h2>Programa do cargo-alvo</h2>
+<div class="q"><b>${H(cg.nome||'Auditor Federal de Finanças e Controle')}</b> — ${H(cg.especialidade||'')}<div class="muted">${H(c.orgao||'')} · ${H(c.edital||'')} · banca ${H(c.banca||'')} · prova em ${H((c.prova||{}).data||'13/12/2026')}</div>
+<div class="muted">Certo/Errado; item errado desconta o valor do acerto. ${['P1','P2','P3'].map(p=>po[p]?`${p}: ${po[p].itens} itens × ${po[p].pontos_por_item} pt, mínimo ${po[p].minimo}`:'').filter(Boolean).join(' · ')}</div></div>
+${['P3','P2','P1'].map(p=>{const t=tot(p);return `<h3>${NM[p]}</h3><p class="muted">${t.n} seções · ${t.com} com questões classificadas · ${t.ok} com pelo menos ${META} (meta de referência nossa) · ${t.b} questões no banco</p>
+<table><tr><th>Seção do edital</th><th style="width:90px">Classificadas</th><th style="width:150px">Meta ${META}</th><th style="width:90px">Pendentes</th></tr>
+${sec.filter(s=>s.prova==p).map(s=>{const subs=d.topicos.filter(x=>x.nivel>1&&x.codigo.startsWith(s.codigo+'.'));return `<tr><td><details><summary style="cursor:pointer"><span class="muted" style="font-size:11.5px">${H(s.bloco_titulo)}</span><br><b>${H(s.num)}</b> ${H(tit(s.texto))}</summary><ul class="muted" style="margin:6px 0">${subs.map(x=>`<li>${H(x.num)} ${H(x.texto)} <span class="tag ${x.banco?'ok':''}">${x.banco}</span></li>`).join('')}</ul></details></td><td>${s.banco}</td><td><div class="bar"><i class="${s.banco?'':'r'}" style="width:${Math.min(100,pct(s.banco,META))}%"></i></div></td><td>${Math.max(0,s.compat-s.banco)}</td></tr>`}).join('')}</table>`}).join('')}
+<p class="muted">"Classificadas" = questões reais já classificadas e verificadas no banco. "Pendentes" = itens compatíveis achados nas provas e ainda sem classificação. A meta de ${META} por seção é só uma referência; para estudar, o que importa é a seção ter amostra suficiente e cobrir seus núcleos.</p>`}
+
+let POLL=null;
+const tit=s=>String(s||'').replace(/\.\s*$/,'');
+let WF={off:0,evs:[],c:{}};
+const WF_ET=['','Descoberta','Download e extração','Escopo e duplicatas','Classificação','Verificação','Persistência','Priorização','Aula'];
+const idadeTxt=s=>s==null?'':s<60?s+' s':s<3600?Math.floor(s/60)+' min':Math.floor(s/3600)+' h';
+function wfSet(id,html){if(WF.c[id]===html)return;const e=document.getElementById(id);if(e){e.innerHTML=html;WF.c[id]=html}}
+function wfLinha(e){const p=(e.total?` <span class="mini"><i style="width:${Math.min(100,Math.round(100*(e.feito??0)/e.total))}%"></i></span> <span class="muted">[${e.feito??0}/${e.total}]</span>`:'');return `<div class="lv-${H(e.nivel||'info')}"><span class="lh">${e.t?new Date(e.t*1000).toLocaleTimeString('pt-BR'):H(e.h||'')}</span> <span class="tag">${e.etapa?'E'+e.etapa:H(e.fonte||'')}</span> ${e.lote?'<span class="tag">'+H(e.lote)+'</span> ':''}${H(e.msg)}${p}</div>`}
+function wfFiltra(e){const fe=document.getElementById('wf-fe').value,fn=document.getElementById('wf-fn').value;return(!fe||String(e.etapa)==fe)&&(!fn||e.nivel==fn)}
+function wfRepinta(){const L=document.getElementById('log');if(!L)return;const v=WF.evs.filter(wfFiltra);L.innerHTML=v.map(wfLinha).join('')||'<div class="muted">(nenhum evento com este filtro)</div>';document.getElementById('wf-cont').textContent=v.length+' de '+WF.evs.length+' eventos';if(document.getElementById('wf-seg').checked)L.scrollTop=L.scrollHeight}
+function montaWorkflow(){m.innerHTML=`<h2>Workflow <span class="muted" style="font-size:12px;font-weight:400">somente leitura · ao vivo (2 s) · <span id="wf-ts"></span> <span id="wf-pulse" style="color:#3fb950">●</span></span></h2>
+<p class="muted">Esta aba só <b>mostra</b>. Cada alteração nos arquivos do projeto e cada linha do <code>execucao.log</code> viram um evento; o Claude e os scripts também podem registrar eventos (<code>scripts/evento.py</code>).</p>
+<div class="card" id="wf-resumo" style="margin:8px 0"></div>
+<h3>Eventos</h3>
+<div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:6px 0">
+<label class="muted"><input type="checkbox" id="wf-pausa"> pausar</label>
+<label class="muted"><input type="checkbox" id="wf-seg" checked> seguir o fim</label>
+<select id="wf-fe"><option value="">todas as etapas</option>${WF_ET.slice(1).map((n,i)=>`<option value="${i+1}">${i+1} ${n}</option>`).join('')}</select>
+<select id="wf-fn"><option value="">todos os níveis</option><option>info</option><option>ok</option><option>aviso</option><option>erro</option></select>
+<span id="wf-cont" class="muted"></span></div>
+<div id="log"></div>
+<h3>Funil de provas</h3><div id="wf-funil"></div>
+<h3>Etapas</h3><div id="wf-et"></div>
+<h3>Lotes de tema</h3><div id="wf-lotes"></div>
+<h3>Arquivos alterados (últimos 30 min)</h3><div id="wf-arq"></div>`;
+const L=document.getElementById('log');L.onscroll=()=>{document.getElementById('wf-seg').checked=(L.scrollTop+L.clientHeight>=L.scrollHeight-24)};
+document.getElementById('wf-fe').onchange=document.getElementById('wf-fn').onchange=wfRepinta}
+async function workflow(){clearInterval(POLL);WF.off=0;WF.evs=[];WF.c={};montaWorkflow();await pintaWorkflow();POLL=setInterval(()=>{if(!document.getElementById('wf-et')){clearInterval(POLL);return}pintaWorkflow()},2000)}
+async function pintaWorkflow(){
+let w,l,a,ev=null;const pausa=document.getElementById('wf-pausa')&&document.getElementById('wf-pausa').checked;
+try{[w,l,a]=await Promise.all([api('/api/workflow'),api('/api/lotes'),api('/api/atividade')]);if(!pausa)ev=await api('/api/eventos?desde='+WF.off)}
+catch(e){const p=document.getElementById('wf-pulse');if(p){p.style.color='#f85149';p.title='servidor fora do ar: tentando de novo'}return}
+if(!document.getElementById('wf-et'))return;
+const p=document.getElementById('wf-pulse');if(p){p.style.color='#3fb950';p.title=''}
+document.getElementById('wf-ts').textContent=w.agora;
+if(ev){if(ev.reinicio){WF.evs=[];WF.off=0}
+ if(ev.eventos&&ev.eventos.length){WF.evs=WF.evs.concat(ev.eventos).slice(-1500);WF.off=ev.prox;
+  const L=document.getElementById('log');if(WF.evs.length===ev.eventos.length||ev.reinicio)wfRepinta();
+  else{const novos=ev.eventos.filter(wfFiltra);if(novos.length){L.insertAdjacentHTML('beforeend',novos.map(wfLinha).join(''));while(L.children.length>1500)L.removeChild(L.firstChild);if(document.getElementById('wf-seg').checked)L.scrollTop=L.scrollHeight}
+   document.getElementById('wf-cont').textContent=WF.evs.filter(wfFiltra).length+' de '+WF.evs.length+' eventos'}}
+ else if(ev.prox!==undefined&&!WF.evs.length){WF.off=ev.prox;wfRepinta()}}
+const barra=(f,t)=>t?`<span class="mini"><i style="width:${Math.min(100,Math.round(100*f/t))}%"></i></span> <span class="muted">${f}/${t}</span>`:'';
+const pb=(x,k)=>{const g=x.prog;if(!g||!g.total)return '';return '<div>'+(k=='c'?barra(g.classificados,g.total)+(g.em_revisao?'<div class="muted">'+g.em_revisao+' em revisão</div>':''):barra(g.verificados,g.total))+'</div>'};
+const ativas=w.etapas.filter(e=>e.ativo),ult=WF.evs.length?WF.evs[WF.evs.length-1]:null,age=ult?Math.max(0,Math.round(Date.now()/1000-ult.t)):null;
+wfSet('wf-resumo',`<b>${ativas.length?'● Em andamento: '+ativas.map(e=>e.n+' '+H(e.nome)).join(' · '):'○ Nada em andamento nos últimos 2 minutos'}</b><div class="muted" style="margin-top:4px">${ult?'último evento: '+(ult.t?new Date(ult.t*1000).toLocaleTimeString('pt-BR'):H(ult.h))+' (há '+idadeTxt(age)+') · '+H(ult.msg.slice(0,110)):'sem eventos ainda'}</div>${l.lotes.filter(x=>x.prog&&x.idade<900).slice(0,3).map(x=>`<div style="margin-top:6px"><b>${H(x.lote)}</b> · classificação ${barra(x.prog.classificados,x.prog.total)} · verificação ${barra(x.prog.verificados,x.prog.total)}${x.prog.em_revisao?' · <span style="color:#d29922">'+x.prog.em_revisao+' em revisão</span>':''}</div>`).join('')}`);
+const ordem=['extraida','classificada','verificada','aplicada','persistida'],ks=Object.keys(w.provas||{}).sort((x,y)=>(ordem.indexOf(x)<0?9:ordem.indexOf(x))-(ordem.indexOf(y)<0?9:ordem.indexOf(y))),tot=ks.reduce((s,k)=>s+w.provas[k],0)||1;
+wfSet('wf-funil',`<table>${ks.map(k=>`<tr><td>${H(k)}</td><td>${w.provas[k]}</td><td style="width:60%"><div class="bar"><i style="width:${Math.round(100*w.provas[k]/tot)}%"></i></div></td></tr>`).join('')||'<tr><td class="muted">sem provas no estado do workflow</td></tr>'}</table>`);
+wfSet('wf-et',w.etapas.map(e=>`<div class="et ${e.quem=='Claude'?'claude':'mecanica'}" style="${e.ativo?'border-color:#3fb950':''}"><div class="n">${e.n}</div><div style="flex:1"><b>${H(e.nome)}</b> <span class="tag">${H(e.quem)}</span> ${e.ativo?'<span class="tag rodando">ativa agora</span>':''}
+<div class="muted">${H(e.desc)}</div><div>${H(e.info)}</div><div class="muted" style="font-size:11.5px">${e.ultima?'última alteração: '+H(e.ultima)+' (há '+idadeTxt(e.idade)+') · ':''}${e.arquivos} arquivo(s) observado(s)</div></div></div>`).join(''));
+const cel=x=>x?`${H(x.quando.slice(-8))}${x.linhas!=null?' · '+x.linhas+' linhas':''} <span class="muted">${x.kb} KB</span>`:'<span class="muted">—</span>';
+wfSet('wf-lotes',`<table><tr><th>Lote</th><th>Estado</th><th>Escopo</th><th>Pacote</th><th>Classificação</th><th>Verificação</th><th>Atividade</th></tr>${l.lotes.map(x=>`<tr style="${x.ativo?'background:#0f2a1855':''}"><td>${H(x.lote)}</td><td><span class="tag ${x.cor=='ok'?'ok':x.cor=='aviso'?'erro':'rodando'}">${H(x.estado)}</span></td><td>${cel(x.etapas.e)}</td><td>${cel(x.etapas.p)}</td><td>${cel(x.etapas.c)}${pb(x,'c')}</td><td>${cel(x.etapas.v)}${pb(x,'v')}</td><td>${x.ativo?'● ':''}há ${idadeTxt(x.idade)}</td></tr>`).join('')||'<tr><td colspan="7" class="muted">nenhum lote ainda</td></tr>'}</table><div class="muted" style="font-size:11.5px">${l.total} lote(s) no total; mostrando os 40 mais recentes</div>`);
+wfSet('wf-arq',`<table><tr><th>Quando</th><th>Arquivo</th><th>KB</th></tr>${a.arquivos.map(f=>`<tr><td>${H(f.quando)}</td><td>${H(f.arquivo)}</td><td>${f.kb}</td></tr>`).join('')||'<tr><td colspan="3" class="muted">nenhuma alteração recente</td></tr>'}</table>`)}
+let S=null;
+async function treino(){const P=await api('/api/planos');
+if(!P.length){m.innerHTML=`<h2>Treino</h2><p>Nenhum plano ainda.</p><button class="p" onclick="gerar()">Conferir prontidão de ${RT('P3·SEG 1')}</button><pre id="out"></pre>`;return}
+m.innerHTML='<h2>Treino</h2>'+`<button class="s" onclick="refazer()">↻ Refazer meus erros</button> <button class="s" onclick="gerar()">Conferir prontidão de ${RT('P3·SEG 1')}</button><pre id="out" style="display:none"></pre>`+P.map(p=>`<h3>${H(RT(p.tema))} <span class="muted">${p.n_itens} itens no banco</span></h3>${p.simulacao?'<div class="sim">Plano SIMULADO</div>':''}`+p.aulas.map(a=>`<div class="q"><b>Micro-aula ${a.k}</b> ${a.lida?'<span class="muted">· aula lida ✔</span>':''}<div class="muted">${a.nucleos.map(H).join(' · ')}</div><div class="row" style="margin-top:10px">${a.cadernos.map(c=>`<button class="s" style="flex:0 0 auto;min-width:0;font-size:14px;padding:8px 12px" onclick="abrir('${p.id}',${a.k},'${c.nome}')">Caderno ${c.nome} · ${c.feitas}/${c.total}${c.erros?' · ✘'+c.erros:''}</button>`).join('')}</div></div>`).join('')).join('')}
+async function gerar(){const o=$('#out');o.style.display='block';o.textContent='conferindo…';const r=await post('/api/gerar-plano',{tema:'P3·SEG 1'});o.textContent=r.saida;setTimeout(treino,1500)}
+function refazer(){abrir('','',  'R')}
+async function abrir(plano,aula,caderno){VOLTA=CUR||'treino';const d=await api(`/api/caderno?plano=${encodeURIComponent(plano)}&aula=${aula}&caderno=${caderno}`);
+if(!d.itens||!d.itens.length){m.innerHTML=`<p>${caderno=='R'?'Nenhum erro na fila. 🎉':'Caderno vazio.'}</p><button class="s" onclick="go(VOLTA)">Voltar</button>`;return}
+S={d,i:0,pontos:0,ac:0,er:0,br:0,t0:Date.now(),respondidas:new Set()};quest()}
+function quest(){const x=S.d.itens[S.i];if(!x){fim();return}
+m.innerHTML=`<button class="s" onclick="go(VOLTA)">← Voltar${VOLTA=='aulas'?' às aulas':''}</button> <span class="muted">Caderno ${H(S.d.caderno)} · item ${S.i+1} de ${S.d.itens.length} · placar ${S.pontos>0?'+':''}${S.pontos}</span>
+<div class="q"><div class="tg"><span>${H(x.nivel)}</span><span title="${H(x.edital||'')}">${H(RC(x.edital||''))}</span></div><div class="enun">${H(x.enunciado)}</div>
+<div class="muted">Confiança: <select id="conf"><option value="">—</option><option value="1">baixa</option><option value="2">média</option><option value="3">alta</option></select></div>
+<div class="row"><button class="p c" onclick="resp('C')">Certo</button><button class="p e" onclick="resp('E')">Errado</button><button class="p b" onclick="resp('B')">Em branco</button></div><div id="fb"></div></div>`;S.t=Date.now()}
+async function resp(r){if(S.travado)return;S.travado=true;const x=S.d.itens[S.i];const conf=+($('#conf').value)||null;
+const o=await post('/api/resposta',{k:x.k,resposta:r,ms:Date.now()-S.t,conf,caderno:S.d.caderno});S.pontos+=o.pontos;if(o.correta===1)S.ac++;else if(o.correta===0)S.er++;else S.br++;
+const cl=o.correta===1?'ok':o.correta===0?'no':'bl',tt=o.correta===1?'✔ Acertou (+1)':o.correta===0?'✘ Errou (−1)':'Em branco (0)';
+$('#fb').innerHTML=`<div class="${cl}"><b>${tt}</b><br>${H(o.comentario)}<div class="meta" style="margin-top:6px">Ref.: ${H(x.ref)} · item ${H(x.item)}<br>Prova: <a href="${H(x.url)}" target="_blank" style="color:#58a6ff">${H(x.url)}</a><br>Gab.: ${H(x.url_gab)}</div></div><div class="row" style="margin-top:10px"><button class="p" style="flex:0 0 auto" onclick="prox()">Próximo →</button></div>`;
+document.querySelectorAll('.row button').forEach(b=>{if(b.textContent!='Próximo →')b.disabled=true})}
+function prox(){S.travado=false;S.i++;quest()}
+function fim(){const n=S.d.itens.length;m.innerHTML=`<h2>Caderno ${H(S.d.caderno)} concluído</h2><div class="cards"><div class="card"><b>${S.pontos}</b>nota líquida</div><div class="card"><b>${S.ac}</b>acertos</div><div class="card"><b>${S.er}</b>erros</div><div class="card"><b>${S.br}</b>em branco</div></div><p class="muted">Cada resposta já foi gravada. Os erros entram na fila "Refazer".</p><button class="p" onclick="go(VOLTA)">Voltar ${VOLTA=='treino'?'ao treino':'às '+H(NOMEABA(VOLTA))}</button> <button class="s" onclick="go('progresso')">Ver progresso</button>`}
+async function progresso(){const p=await api('/api/progresso'),r=await api('/api/resumo');
+m.innerHTML=`<h2>Progresso</h2><div class="cards"><div class="card"><b>${r.respondidas}</b>respondidos</div><div class="card"><b>${r.acertos}</b>acertos</div><div class="card"><b>${r.erros}</b>erros</div><div class="card"><b>${r.brancos}</b>em branco</div><div class="card"><b>${p.fila_refazer}</b>na fila de revisão</div></div>
+<h3>Núcleos com mais erro ou branco</h3>${p.nucleos.length?`<table><tr><th>Núcleo</th><th>✔</th><th>✘</th><th>branco</th><th>Domínio</th></tr>${p.nucleos.slice(0,15).map(n=>`<tr><td>${H(n.texto)}</td><td>${n.ac}</td><td>${n.er}</td><td>${n.br}</td><td><div class="bar"><i style="width:${pct(n.ac,n.ac+n.er+n.br)}%"></i></div></td></tr>`).join('')}</table>`:'<p class="muted">Responda um caderno para ver.</p>'}
+<h3>Erros por tipo de pegadinha</h3>${p.tags.length?`<table><tr><th>Etiqueta</th><th>✔</th><th>✘</th><th>branco</th></tr>${p.tags.map(t=>`<tr><td>${H(t.tag)}</td><td>${t.ac}</td><td>${t.er}</td><td>${t.br}</td></tr>`).join('')}</table>`:'<p class="muted">Sem dados ainda.</p>'}
+<h3>Últimos dias</h3><table><tr><th>Dia</th><th>Itens</th><th>Nota líquida</th></tr>${p.dias.map(d=>`<tr><td>${d.d}</td><td>${d.n}</td><td>${d.p}</td></tr>`).join('')}</table>`}
+const UP=p=>p.split('/').map(encodeURIComponent).join('/');
+async function aulas(){const A=await api('/api/aulas');let CV=[];try{CV=await api('/api/cobertura')}catch(e){}const cvt={};CV.forEach(c=>cvt[c.tema]=c);window.CVD=cvt;
+const card=a=>{const cs=a.cadernos||[];const feitos=cs.filter(c=>c.total&&c.feitas>=c.total).length;
+const st=a.lida?'<span class="tagok">lida ✔</span>':'<span class="muted">não lida</span>';
+const cad=cs.map(c=>{const pct=c.total?Math.round(100*c.feitas/c.total):0;return `<div class="row" style="align-items:center;gap:10px;margin:6px 0"><b style="min-width:84px">Caderno ${H(c.nome)}</b><span class="muted" style="min-width:210px">${c.total} questões · ${c.feitas}/${c.total} feitas${c.erros?' · ✘'+c.erros:''}${c.feitas&&!c.erros?' · ✔'+c.acertos:''}</span><div class="bar" style="flex:1;min-width:80px"><i style="width:${pct}%"></i></div>${c.plano?`<button class="s" style="flex:0 0 auto;min-width:0;padding:6px 12px" onclick="abrir('${c.plano}',${a.num||1},'${c.nome}')">Treinar</button>`:''}${c.pdf?`<a class="btn" style="flex:0 0 auto;background:#21262d;padding:6px 12px" href="/aula-pdf/${UP(a.dir)}/caderno${c.nome}.pdf" target="_blank">PDF</a>`:''}</div>`}).join('');
+const nuc=(a.nucleos||[]).map(n=>`<span class="tag" title="${H(n)}">${H(n.length>46?n.slice(0,44)+'…':n)}</span>`).join(' ');
+return `<div class="q"><div class="row" style="align-items:baseline;gap:8px"><b style="font-size:17px">Aula ${a.num||''} · ${H(a.curto)}</b><span class="tag">${H(a.tema)}</span>${a.versao>1?`<span class="tag">v${a.versao}</span>`:''}${st}</div>
+<div class="muted" style="margin:4px 0 8px">gerada em ${H(a.data)}${cs.length?` · cadernos concluídos ${feitos}/${cs.length}`:''}</div>
+${nuc?`<details style="margin:6px 0"><summary class="muted">O que esta aula ensina (${a.nucleos.length} conteúdos)</summary><div style="margin-top:6px;line-height:1.9">${nuc}</div></details>`:''}
+<div class="row" style="margin:10px 0"><a class="btn" style="flex:0 0 auto" href="/aula/${UP(a.dir)}" target="_blank">Ler aula</a>${a.pdf?`<a class="btn" style="flex:0 0 auto;background:#21262d" href="/aula-pdf/${UP(a.dir)}" target="_blank">PDF da aula</a>`:''}<button class="s" style="flex:0 0 auto;min-width:0" onclick="marcaLida('${H(a.chave_lida).replace(/'/g,"\\'")}',${a.lida?'false':'true'})">${a.lida?'Desmarcar como lida':'Marcar como lida'}</button></div>
+${cs.length?`<div style="border-top:1px solid #30363d;padding-top:8px"><div class="muted">Questões reais do Cebraspe ligadas ao conteúdo desta aula</div>${cad}</div>`:'<div class="muted">Sem cadernos associados ainda.</div>'}</div>`};
+const painel_cv=c=>{if(!c)return '';const pc=c.total?Math.round(100*c.cobertas/c.total):0;
+const metaTxt=c.meta?` · meta ${c.meta} questões treináveis: ${Math.min(100,Math.round(100*c.cobertas/c.meta))}% atingida`:'';
+const minis=c.minis.map(k=>`<div class="q" style="border-color:${k.vale?'#d29922':'#30363d'};margin:6px 0"><div class="row" style="align-items:center;gap:10px"><b>${H(k.nome)} (sugerida)</b><span class="tag">${k.questoes} questões sem aula</span>${k.vale?'<span style="color:#d29922">vale criar: cobre ≥ '+c.minimo+' questões</span>':'<span class="muted">poucas questões (&lt; '+c.minimo+'): junte com outra ou espere mais provas minerarem</span>'}<button class="s" style="flex:0 0 auto;min-width:0;padding:6px 12px" onclick="pedeAula('${H(c.tema)}',${c.minis.indexOf(k)})">${k.vale?'Copiar pedido':'Copiar pedido (aula curta)'}</button></div><div style="margin-top:6px;line-height:1.9">${k.nucleos.map(n=>`<span class="tag" title="${H(n.texto)}">${H(n.texto.length>52?n.texto.slice(0,50)+'…':n.texto)} · ${n.q}</span>`).join(' ')}</div></div>`).join('');
+return `<div class="q" style="border-color:#58a6ff"><b>Cobertura do tema</b> <span class="muted">· ${c.aulas} aula(s) feita(s)${metaTxt}</span>
+<div class="row" style="gap:14px;align-items:baseline;margin:8px 0"><span><b style="font-size:24px">${c.total}</b> <span class="muted">questões no banco</span></span><span style="color:#3fb950"><b style="font-size:24px">${c.cobertas}</b> abordadas pelas aulas</span><span style="color:${c.descobertas?'#f85149':'#3fb950'}"><b style="font-size:24px">${c.descobertas}</b> sem aula</span><span class="muted">${c.nucleos_cobertos}/${c.nucleos_total} conteúdos ensinados</span></div>
+<div style="display:flex;height:14px;border-radius:7px;overflow:hidden;background:#21262d"><div style="width:${pc}%;background:#3fb950"></div><div style="width:${100-pc}%;background:#f85149"></div></div>
+<div class="muted" style="margin:4px 0 8px">${pc}% do banco deste tema já tem aula${c.descobertas?'. O vermelho é o que ainda não é treinado.':'. Nada a criar por enquanto.'}</div>
+${c.descobertas?`<div class="row" style="margin:6px 0"><button class="p" style="flex:0 0 auto" onclick="pedeAula('${H(c.tema)}',-1)">Copiar pedido: criar as ${c.minis.length} mini-aula(s) que faltam</button><details style="flex:1"><summary class="muted">ver o texto do pedido</summary><pre id="ped-${H(c.tema).replace(/[^A-Za-z0-9]/g,'')}" style="white-space:pre-wrap;font-size:12px"></pre></details></div><div class="muted" style="margin-bottom:4px">Divisão sugerida em mini-aulas (quanto mais questões por mini-aula, mais ela compensa):</div>${minis}`:''}</div>`};
+const por={};A.forEach(a=>(por[a.tema]=por[a.tema]||[]).push(a));
+m.innerHTML='<h2>Aulas</h2>'+(A.length?Object.keys(por).map(t=>`<h3 title="${H(RT(t))}">${H(t)} <span class="muted">· ${por[t].length} aula(s)</span></h3>`+painel_cv(cvt[t])+por[t].map(card).join('')).join(''):'<p class="muted">Nenhuma aula registrada.</p>')}
+function textoPedido(c,idx){const slug=c.tema.toLowerCase().replace(/·/g,'-').replace(/\s+/g,'-');const ms=idx<0?c.minis:[c.minis[idx]];
+const lista=ms.map(k=>`### ${k.nome} (${k.questoes} questões do banco ainda sem aula)\n`+k.nucleos.map(n=>`- [${n.id}] ${n.texto} — ${n.q} questão(ões)`).join('\n')).join('\n\n');
+return `Crie ${ms.length>1?'as '+ms.length+' mini-aulas':'a '+ms[0].nome} do tema ${c.tema} do projeto CGU/AFFC, para cobrir o que ainda está sem aula. Hoje o tema tem ${c.total} questões no banco, ${c.cobertas} abordadas e ${c.descobertas} sem aula.\n\nConteúdo a ensinar (núcleos e quantas questões reais do banco cada um alcança):\n\n${lista}\n\nFluxo a seguir, uma mini-aula por vez${ms.length>1?' (pare ao fim de cada uma e espere eu dizer "próxima")':''}:\n1. Leia aulas/${slug}/ (manifest.json da Aula 1 e corpo.html) para manter o estilo e não repetir o que já foi ensinado.\n2. Escreva a mini-aula do zero, com raciocínio intuitivo antes da definição, esquemas/diagramas, "como a banca cobra" (Certo/Errado, pegadinhas), técnica de prova, resumo de revisão. PDF em dark mode.\n3. Salve em aulas/${slug}/aula${c.aulas+1}${ms.length>1?' (e aula'+(c.aulas+2)+', ... para as seguintes)':''}/ com manifest.json: aula=N, versao=1 e "ensina" = só os núcleos que a mini-aula ensina de fato.\n4. Rode scripts/associar.py aula <pasta> --gravar para associar as questões por conteúdo; monte cadernos de no máximo 10 itens, só com questões reais (URL da prova e do gabarito, tema, nível, referência), com gabarito comentado, em PDF dark.\n5. Registre no manifest (campo cadernos) e no ledger, copie os PDFs para a pasta da aula e suba a versão do app.\n6. Ao final diga quantas questões a mini-aula passou a cobrir e quanto falta para o tema.`}
+async function pedeAula(tema,idx){const c=(window.CVD||{})[tema];if(!c)return;const t=textoPedido(c,idx);const pre=document.getElementById('ped-'+tema.replace(/[^A-Za-z0-9]/g,''));if(pre&&idx<0)pre.textContent=t;try{await navigator.clipboard.writeText(t);alert('Pedido copiado. Cole no chat do Claude e envie.')}catch(e){prompt('Copie o pedido:',t)}}
+async function marcaLida(k,v){await post('/api/aula-lida',{aula:k,lida:v});aulas()}
+async function banco(){m.innerHTML=`<h2>Banco de questões</h2><div class="row"><input id="q" placeholder="buscar no enunciado ou núcleo" style="flex:2"><input id="ed" placeholder="edital (ex.: P3·SEG 1)" style="flex:1"><select id="nv"><option value="">nível</option><option>facil</option><option>medio</option><option>dificil</option></select><input id="tg" placeholder="etiqueta (ex.: ABSOLUTO)" style="flex:1"><button class="p" style="flex:0 0 auto;min-width:0" onclick="buscar()">Buscar</button></div><div id="res"></div>`;buscar()}
+async function buscar(){const u=new URLSearchParams({q:$('#q').value,edital:$('#ed').value,nivel:$('#nv').value,tag:$('#tg').value});const r=await api('/api/banco?'+u);
+$('#res').innerHTML=`<p class="muted">${r.total_filtrado} itens (máx. 100)</p>`+r.itens.map(x=>`<div class="q"><div class="tg"><span title="${H(x.edital||'')}">${H(RT(x.edital||''))}</span><span>${H(x.nivel)}</span><span>gab: ${x.gabarito=='C'?'Certo':'Errado'}</span>${x.tags.map(t=>`<span class="t">${H(t)}</span>`).join('')}</div><div>${H(x.enunciado)}</div><div class="meta">${H(x.ref)} · <a href="${H(x.url)}" target="_blank" style="color:#58a6ff">prova</a></div></div>`).join('')}
+function salvaEstado(){try{const o={y:window.scrollY,f:{}};document.querySelectorAll('input[id],select[id],textarea[id]').forEach(e=>{if(e.value)o.f[e.id]=e.value});sessionStorage.setItem('cgu-estado',JSON.stringify(o))}catch(e){}}
+function restauraEstado(){try{const o=JSON.parse(sessionStorage.getItem('cgu-estado')||'null');if(!o)return;sessionStorage.removeItem('cgu-estado');Object.entries(o.f).forEach(([id,v])=>{const e=document.getElementById(id);if(e&&!e.value)e.value=v});if(o.y)window.scrollTo(0,o.y)}catch(e){}}
+function pedePri(o){const l=(window.PRL||[]).find(x=>x.ordem==o);if(!l)return;const t=`${l.codigo} (${RT(l.codigo)!=l.codigo?RT(l.codigo):l.texto})`;
+ const P={vermelho:`Minere mais provas para o assunto ${t} do projeto CGU/AFFC: rode scripts/minerar.py (CDN oficial do Cebraspe, um PDF por vez, pausa de 3 s) priorizando provas que tragam esse assunto. Motivo: ${l.motivo}. No fim diga se o assunto ficou suficiente (scripts/suficiencia.py).`,
+ amarelo:`Classifique os itens do assunto ${t} do projeto CGU/AFFC: monte o recorte (scripts/descobrir.py tema "${l.codigo}"), classifique em núcleos com o agente classificador e confira com o verificador, e grave no banco. No fim diga quantos itens ficaram classificados e quantos núcleos surgiram.`,
+ verde:`Crie a próxima aula (ou mini-aula) do assunto ${t} do projeto CGU/AFFC, do zero, em PDF dark, com caderno de até 10 questões reais, seguindo o fluxo de aulas (scripts/associar.py, ledger, versão do app). ${l.motivo}. Uma por vez; pare ao fim e espere eu dizer "próxima".`,
+ azul:`Gere o caderno de revisão e um resumo de véspera de prova do assunto ${t} do projeto CGU/AFFC.`,
+ cinza:`Crie a aula do assunto ${t} do projeto CGU/AFFC a partir da base legal do edital, do zero, em PDF dark, marcando claramente que não há questões históricas.`}[l.cor];
+ const ok=()=>{const b=event&&event.target;if(b){const x=b.textContent;b.textContent='copiado ✔';setTimeout(()=>b.textContent=x,1500)}};
+ try{navigator.clipboard.writeText(P).then(ok,()=>{prompt('Copie o pedido:',P)})}catch(e){prompt('Copie o pedido:',P)}}
+
+function animaFluxo(root,d){
+if(!root)return;
+if(window.__an&&window.__an.stop)window.__an.stop();
+d=d||{};
+const N=x=>Number(x||0).toLocaleString('pt-BR');
+const ET=[['📚','Provas','a','baixar e extrair'],['🎯','Triagem','a','mede contra o edital'],['⚖️','Prioridade','a','peso e semáforo'],['🏷️','Classificar','i','IA + verificador'],['🎓','Aula','p','só sob pedido'],['📝','Caderno','p','só sob pedido']];
+const CN=[['provas_varridas','provas varridas'],['itens_extraidos','itens extraídos'],['itens_compat','compatíveis'],['itens_fortes','fortes'],['banco_classificados','classificados'],['aulas','aulas'],['cadernos','cadernos']];
+const T=16;
+const kept=i=>i%4<2, forte=i=>i%4===0, fx=i=>((i%8)-3.5)*17, fy=i=>10+Math.floor(i/8)*20;
+const SC=[
+{st:0,cn:[0,1],t:'1 · Tudo começa em provas reais',x:'O app só usa provas oficiais do Cebraspe, com gabarito definitivo. Os PDFs são baixados e cada item Certo/Errado é extraído. Nenhuma questão é inventada.',
+ l:i=>[0,fx(i),fy(i),'a',1]},
+{st:1,cn:[2,3],t:'2 · Triagem: o que tem a ver com o edital?',x:'Sem IA, só por termos: cada questão é medida contra o edital. As que não têm relação saem do caminho (caem). É barata e erra bastante, por isso é só um filtro.',
+ l:i=>kept(i)?[1,fx(i),fy(i),forte(i)?'f':'c',1]:[1,fx(i),104,'x',.25]},
+{st:2,cn:[3],t:'3 · Prioridade: o que pesa e se a amostra basta',x:'Os itens se agrupam por assunto. O semáforo diz: minerar mais provas, classificar ou criar aula. Se a amostra é pequena, o fluxo volta e busca mais provas.',sem:1,back:1,
+ l:i=>kept(i)?[2,((i>>2)-1.5)*21,14+(i%4)*34,forte(i)?'f':'c',1]:[1,fx(i),104,'x',.25]},
+{st:3,cn:[4],t:'4 · Classificar: aqui entra a IA',x:'Só nos temas escolhidos. A IA marca assunto, núcleo e pegadinha. Outro verificador, em contexto separado, confere uma amostra. Itens em dúvida passam por você.',ver:1,
+ l:i=>forte(i)?[3,((i>>2)-1.5)*21,22,'k',1]:kept(i)?[2,((i>>2)-1.5)*21,48,'c',.3]:[1,fx(i),104,'x',.2]},
+{st:4,cn:[4],t:'5 · Parada 🔒: o app espera você',x:'Até aqui tudo foi automático. A estrutura-base é conferida só em leitura e nada é criado. Aula e caderno só nascem quando você pede.',bub:[4,'⏸ o app para aqui'],
+ l:i=>forte(i)?[4,((i>>2)-1.5)*21,70,'k',1]:kept(i)?[2,((i>>2)-1.5)*21,48,'c',.3]:[1,fx(i),104,'x',.2]},
+{st:4,cn:[5],t:'6 · Pedido 1: a aula',x:'Você pede a aula de um tema, uma por vez. Ela é montada pelos núcleos que as questões realmente cobram, em PDF dark mode, com questões de prova ao final.',bub:[4,'👆 você: “aula do tema”'],open4:1,
+ l:i=>forte(i)?[4,((i>>2)-1.5)*10,64+(i>>2)*3,'g',1]:kept(i)?[2,((i>>2)-1.5)*21,48,'c',.3]:[1,fx(i),104,'x',.2]},
+{st:5,cn:[6],t:'7 · Pedido 2: o caderno',x:'Depois da aula, se você pedir de novo, sai o caderno: no máximo 10 questões reais, cada uma com referência e URL. Questão já usada não se repete.',bub:[5,'👆 você: “caderno”'],open4:1,open5:1,
+ l:i=>{if(!kept(i))return[1,fx(i),104,'x',.2];const k=(i>>2)*2+(i%4);return[5,((k%4)-1.5)*21,44+Math.floor(k/4)*26,'g',1]}},
+{st:-1,cn:[],t:'8 · E o ciclo continua',x:'Terminado um tema, o fluxo volta ao painel de prioridade para o próximo. A aba Workflow mostra isso ao vivo; esta tela só mostra, não roda nada.',open4:1,open5:1,sweep:1,
+ l:i=>{if(!kept(i))return[1,fx(i),104,'x',.15];const k=(i>>2)*2+(i%4);return[5,((k%4)-1.5)*21,44+Math.floor(k/4)*26,'g',.8]}}
+];
+root.innerHTML=`<style>
+.an{font-size:13px}.an .ct{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-bottom:10px}
+.an button,.an select{background:#161b22;border:1px solid #30363d;color:#e6edf3;border-radius:8px;padding:5px 11px;font-size:13px;cursor:pointer}.an button:hover{border-color:#58a6ff}
+.an .dots{display:flex;gap:6px;margin-left:8px}.an .dots i{width:11px;height:11px;border-radius:50%;background:#30363d;cursor:pointer;display:block}.an .dots i.don{background:#58a6ff;box-shadow:0 0 0 3px #58a6ff33}.an .dots i.dok{background:#3fb950}
+.an .ast{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}.an .sb{position:relative;background:#161b22;border:1px solid #30363d;border-top:4px solid #3fb950;border-radius:10px;padding:8px 4px;text-align:center;opacity:.5;transition:all .5s}
+.an .sb.i{border-top-color:#d29922}.an .sb.p{border-top-color:#f0883e;border-style:dashed;background:#2a1d10}.an .sb.on{opacity:1;transform:translateY(-4px);box-shadow:0 6px 18px #0008,0 0 0 1px #58a6ff88}.an .sb.pas{opacity:.85}
+.an .sb .ae{font-size:22px}.an .sb b{display:block;font-size:12.5px}.an .sb small{display:block;font-size:10.5px;color:#8b949e;line-height:1.2}.an .sb .lk{position:absolute;top:2px;right:5px;font-size:13px;transition:transform .4s}.an .sb.sw{animation:answ .6s}
+@keyframes answ{50%{box-shadow:0 0 0 3px #58a6ffaa;transform:translateY(-4px)}}
+.an .lane{position:relative;height:150px;margin-top:8px;background:linear-gradient(#0d1117,#0d1117) padding-box;border:1px dashed #30363d;border-radius:10px;overflow:hidden}
+.an .lane:before{content:"";position:absolute;left:4%;right:4%;top:50%;border-top:2px dashed #58a6ff55;animation:anfl 1.2s linear infinite}
+@keyframes anfl{to{border-top-color:#58a6ffaa}}
+.an .atk{position:absolute;width:16px;height:16px;border-radius:4px;margin-left:-8px;background:#6e7681;transition:left .9s cubic-bezier(.4,0,.2,1),top .9s cubic-bezier(.4,0,.2,1),opacity .6s,background .5s,box-shadow .5s;z-index:2}
+.an .atk.ta{background:#6e7681}.an .atk.tc{background:#58a6ff}.an .atk.tf{background:#3fb950;box-shadow:0 0 6px #3fb95099}.an .atk.tx{background:#6e7681}.an .atk.tk{background:#d29922;box-shadow:0 0 7px #d2992299}.an .atk.tg{background:#3fb950;box-shadow:0 0 7px #3fb950aa}
+.an .dc{position:absolute;opacity:0;transition:opacity .5s;font-size:12px;white-space:nowrap;transform:translateX(-50%);z-index:3}.an .dc.v{opacity:1}
+.an .sem span{display:inline-block;width:12px;height:12px;border-radius:50%;margin:0 2px;background:#30363d}.an .sem span:nth-child(1){background:#f85149aa}.an .sem span:nth-child(2){background:#d29922aa}.an .sem span:nth-child(3){background:#3fb950;animation:anp 1s infinite}
+@keyframes anp{50%{box-shadow:0 0 0 5px #3fb95033}}
+.an .bub{background:#2a1d10;border:1px solid #f0883e;border-radius:10px;padding:4px 9px;color:#ffd8b0;animation:anb 1.4s ease-in-out infinite}@keyframes anb{50%{transform:translateX(-50%) translateY(-3px)}}
+.an .bk{left:25%;color:#d29922}.an .vr{color:#3fb950}
+.an .cn{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}.an .cn span{background:#161b22;border:1px solid #30363d;border-radius:20px;padding:3px 11px;color:#8b949e;transition:all .4s}.an .cn span.on{border-color:#58a6ff;color:#e6edf3;background:#0d2238}.an .cn b{color:#58a6ff}
+.an .cap{background:#161b22;border:1px solid #30363d;border-left:4px solid #58a6ff;border-radius:10px;padding:10px 14px}.an .cap b{display:block;font-size:14.5px;margin-bottom:3px}.an .cap span{color:#c9d1d9}
+.an.pz .lane:before{animation-play-state:paused}.an.pz .bub,.an.pz .sem span{animation-play-state:paused}.an.rm *{transition:none!important;animation:none!important}
+</style><div class="an"><div class="ct"><button data-a="play" title="pausar / continuar">⏸ Pausar</button><button data-a="prev" title="passo anterior">◀</button><button data-a="next" title="próximo passo">▶</button><button data-a="rst" title="recomeçar">↻</button><select data-a="spd" title="velocidade"><option value="0.6">lento</option><option value="1" selected>normal</option><option value="1.8">rápido</option></select><span class="dots"></span></div>
+<div class="ast"></div><div class="lane"></div><div class="cn"></div><div class="cap" aria-live="polite"><b></b><span></span></div></div>`;
+const A=root.querySelector('.an'),AST=A.querySelector('.ast'),LN=A.querySelector('.lane'),CNE=A.querySelector('.cn'),CB=A.querySelector('.cap b'),CS=A.querySelector('.cap span'),DT=A.querySelector('.dots'),BP=A.querySelector('[data-a=play]');
+const rm=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;if(rm)A.classList.add('rm');
+AST.innerHTML=ET.map((e,i)=>`<div class="sb ${e[2]}"><span class="lk"></span><div class="ae">${e[0]}</div><b>${e[1]}</b><small>${e[3]}</small></div>`).join('');
+const SB=[...AST.children];
+const cx=c=>`calc(${(c+.5)*100/6}%`;
+LN.innerHTML=Array.from({length:T},(_,i)=>`<i class="atk" style="transition-delay:${i*22}ms"></i>`).join('')
++`<div class="dc sem" style="left:${(2.5)*100/6}%;top:112px"><span></span><span></span><span></span></div>`
++`<div class="dc vr" style="left:${(3.5)*100/6}%;top:112px">✓ verificador confere</div>`
++`<div class="dc bk" style="left:${(1.5)*100/6}%;top:128px">↩ amostra pequena? busca mais provas</div>`
++`<div class="dc bub" style="left:${(4.5)*100/6}%;top:6px"></div>`;
+const TK=[...LN.querySelectorAll('.atk')],DSEM=LN.querySelector('.sem'),DVER=LN.querySelector('.vr'),DBK=LN.querySelector('.bk'),DBUB=LN.querySelector('.bub');
+CNE.innerHTML=CN.map(c=>`<span><b data-k="${c[0]}">0</b> ${c[1]}</span>`).join('');
+const CE=[...CNE.children];
+DT.innerHTML=SC.map((s,i)=>`<i data-i="${i}" title="${s.t.replace(/"/g,'')}"></i>`).join('');
+let idx=0,playing=!rm,tm=0,dead=false,spd=1;
+function cup(el,to){cancelAnimationFrame(el.__r||0);if(rm){el.textContent=N(to);return}const t0=performance.now(),D=900;const f=t=>{if(dead)return;const p=Math.min(1,(t-t0)/D);el.textContent=N(Math.round(to*(1-Math.pow(1-p,3))));if(p<1)el.__r=requestAnimationFrame(f)};el.__r=requestAnimationFrame(f)}
+function show(i){
+ idx=(i+SC.length)%SC.length;const s=SC[idx];
+ SB.forEach((b,k)=>{b.classList.toggle('on',k===s.st);b.classList.toggle('pas',k<s.st||s.st<0);b.classList.remove('sw')});
+ SB[4].querySelector('.lk').textContent=s.open4?'🔓':'🔒';SB[5].querySelector('.lk').textContent=s.open5?'🔓':'🔒';
+ TK.forEach((t,k)=>{const p=s.l(k);t.className='atk t'+p[3];t.style.left=`calc(${(p[0]+.5)*100/6}% + ${p[1]}px)`;t.style.top=p[2]+'px';t.style.opacity=p[4]});
+ DSEM.classList.toggle('v',!!s.sem);DVER.classList.toggle('v',!!s.ver);DBK.classList.toggle('v',!!s.back);
+ if(s.bub){DBUB.textContent=s.bub[1];DBUB.style.left=((s.bub[0]+.5)*100/6)+'%';DBUB.classList.add('v')}else DBUB.classList.remove('v');
+ if(s.sweep)SB.forEach((b,k)=>setTimeout(()=>{if(!dead&&idx===SC.length-1)b.classList.add('sw')},k*450));
+ CE.forEach((c,k)=>{const on=s.cn.includes(k),bb=c.querySelector('b');c.classList.toggle('on',on);if(on)cup(bb,d[CN[k][0]]);else{cancelAnimationFrame(bb.__r||0);const mn=s.cn.length?Math.min(...s.cn):99;bb.textContent=k<mn?N(d[CN[k][0]]):'0'}});
+ CB.textContent=s.t;CS.textContent=s.x;
+ [...DT.children].forEach((e,k)=>{e.className=k===idx?'don':(k<idx?'dok':'')});
+}
+function sched(){clearTimeout(tm);if(!playing||dead)return;tm=setTimeout(()=>{if(!root.isConnected){stop();return}show(idx+1);sched()},5600/spd)}
+function setPlay(v){playing=v;A.classList.toggle('pz',!v);BP.textContent=v?'⏸ Pausar':'▶ Continuar';sched()}
+function stop(){dead=true;clearTimeout(tm);CE.forEach(c=>cancelAnimationFrame(c.querySelector('b').__r||0))}
+A.addEventListener('click',e=>{const t=e.target.closest('[data-a],[data-i]');if(!t)return;
+ if(t.dataset.i!==undefined){show(+t.dataset.i);sched();return}
+ const a=t.dataset.a;if(a==='play')setPlay(!playing);else if(a==='next'){show(idx+1);sched()}else if(a==='prev'){show(idx-1);sched()}else if(a==='rst'){show(0);if(!playing)setPlay(true);else sched()}});
+A.querySelector('[data-a=spd]').addEventListener('change',e=>{spd=+e.target.value;sched()});
+window.__an={stop};
+show(0);setPlay(playing);
+}
+async function como(){const d=await api('/api/doc');if(!d.k)throw new Error(d.erro||'servidor desatualizado');const k=d.k,N=x=>Number(x).toLocaleString('pt-BR');
+const fun=(L)=>{const mx=Math.max(...L.map(x=>x[1]),1);return L.map(x=>`<div class="fn"><span class="fl">${x[0]}</span><span class="fb"><i style="width:${Math.max(3,Math.round(100*Math.sqrt(x[1]/mx)))}%;background:${x[2]}"></i></span><b class="fv">${N(x[1])}</b></div>`).join('')};
+const ST=(ic,t,quem,txt,num)=>`<div class="st ${quem}"><div class="si">${ic}</div><b>${t}</b><div class="sx">${txt}</div>${num?`<div class="sn">${num}</div>`:''}</div>`;
+const AR='<div class="ar">➜</div>';
+m.innerHTML=`<style>
+.cm .fl{width:150px;font-size:12.5px;color:#8b949e;flex:none}.cm .fn{display:flex;align-items:center;gap:8px;margin:5px 0}.cm .fb{flex:1;background:#161b22;border-radius:5px;height:16px;overflow:hidden}.cm .fb i{display:block;height:16px;border-radius:5px}.cm .fv{width:64px;text-align:right;font-size:13px}
+.cm .fluxo{display:flex;flex-wrap:wrap;align-items:stretch;gap:6px;margin:10px 0}.cm .st{flex:1 1 118px;min-width:118px;background:#161b22;border:1px solid #30363d;border-top:4px solid #3fb950;border-radius:10px;padding:10px;text-align:center}
+.cm .st.ia{border-top-color:#d29922}.cm .st.pedido{border-top-color:#f0883e;background:#2a1d10;border-style:dashed}.cm .si{font-size:26px}.cm .sx{font-size:12px;color:#8b949e;margin-top:4px}.cm .sn{margin-top:6px;font-size:12px;color:#58a6ff;font-weight:700}
+.cm .ar{align-self:center;color:#58a6ff;font-size:18px}.cm .lg{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}.cm .lg>span{background:#161b22;border:1px solid #30363d;border-radius:20px;padding:5px 12px;font-size:13px}
+.cm .dot{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px;vertical-align:middle}.cm .faixa{display:flex;height:26px;border-radius:6px;overflow:hidden;font-size:12px;font-weight:700;color:#0d1117}.cm .faixa div{display:flex;align-items:center;justify-content:center}
+.cm .abas{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}.cm .abas a{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;color:#e6edf3;cursor:pointer;font-size:12.5px;text-decoration:none}.cm .abas a b{display:block;color:#58a6ff}
+.cm .dec{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}.cm .dec>div{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:12px;font-size:13px}.cm .dec h4{margin:0 0 6px;color:#79c0ff;font-size:14px}
+.cm .sep{display:flex;align-items:center;gap:8px;margin:14px 0 4px;color:#8b949e;font-size:12px}.cm .sep:before,.cm .sep:after{content:"";flex:1;border-top:1px dashed #30363d}
+</style><div class="cm"><h2>Como o app funciona</h2>
+<p class="muted">Do PDF da prova até a aula. Números lidos dos arquivos agora.</p>
+<h3>Veja o fluxo em movimento</h3><div class="q" id="anim"></div>
+<div class="q"><b>Em uma imagem:</b> provas reais → descobrimos <u>o que mais cai</u> → só então gastamos IA nos assuntos escolhidos → <b>aula</b> → <b>caderno</b> de questões reais.<div class="fluxo">
+${ST('📚','Provas','auto','baixar e extrair PDFs',N(d.provas_varridas)+' provas')}${AR}${ST('🎯','Triagem','auto','mede cada questão contra o edital',N(d.itens_fortes)+' fortes')}${AR}${ST('⚖️','Prioridade','auto','quanto cada assunto pesa e se a amostra basta','semáforo')}${AR}${ST('🏷️','Classificar','ia','assunto, núcleo, pegadinha (IA + verificador)',N(d.banco_classificados)+' itens')}${AR}${ST('🎓','Aula','pedido','só quando você pede','1 por vez')}${AR}${ST('📝','Caderno','pedido','última etapa, novo pedido','≤10 questões')}</div>
+<div class="lg"><span><span class="dot" style="background:#3fb950"></span>automático, sem IA</span><span><span class="dot" style="background:#d29922"></span>usa IA, nos temas escolhidos</span><span><span class="dot" style="background:#f0883e"></span>🔒 só sob pedido seu</span></div></div>
+<h3>O funil em números</h3>
+<div class="q"><div class="muted">Provas</div>${fun([['Eventos no catálogo',d.eventos,'#6e7681'],['Provas candidatas',d.candidatas,'#58a6ff'],['Provas varridas',d.provas_varridas,'#3fb950']])}
+<div class="sep">questões</div>${fun([['Itens extraídos',d.itens_extraidos,'#6e7681'],['Compatíveis (triagem)',d.itens_compat,'#58a6ff'],['Fortes',d.itens_fortes,'#3fb950'],['Classificados no banco',d.banco_classificados,'#d29922']])}
+<div class="sep">produto final</div>${fun([['Núcleos',d.nucleos,'#a371f7'],['Aulas',d.aulas,'#3fb950'],['Cadernos',d.cadernos,'#f0883e']])}
+<p class="muted" style="margin:8px 0 0">Barras em escala de raiz quadrada, para caber tudo. Triagem = por termos, barata, erra bastante (~40% dos "fortes" se confirmam). Classificação = IA + verificador, só nos temas que vamos ensinar.</p></div>
+<h3>Regra de parada 🔒</h3>
+<div class="q"><div class="fluxo">${ST('🧱','Estrutura-base','auto','provas, itens, núcleos, inéditos: conferida só em leitura','nada é criado')}${AR}${ST('🎓','Aula','pedido','você pede, 1 por vez','pedido 1')}${AR}${ST('📝','Caderno','pedido','depois da aula, só se pedir de novo','pedido 2')}</div>
+<div class="muted">Os comandos que criam caderno (<code>plano</code>, <code>registrar</code>, <code>associar --gravar</code>) recusam rodar sem <code>--confirmar-caderno</code>.</div></div>
+<h3>Como decidimos</h3><div class="dec">
+<div><h4>1 · Amostra basta?</h4>🔹 estável: incerteza ≤ ±${k.tol_itens} item ou ±${Math.round(100*k.rel)}%<br>🔹 massa: ≥${k.min_forte} fortes em ≥${k.min_provas} provas<br>🔹 ou raro (&lt; ${k.raro} item esperado)<div class="muted">Senão: minerar mais provas.</div></div>
+<div><h4>2 · Semáforo</h4><span class="dot" style="background:#f85149"></span>minerar<br><span class="dot" style="background:#d29922"></span>classificar (&lt;${k.min_classif} itens)<br><span class="dot" style="background:#3fb950"></span>criar aula (cobertura &lt;${Math.round(100*k.cob_ok)}%)<br><span class="dot" style="background:#58a6ff"></span>caderno e revisão<br><span class="dot" style="background:#8b949e"></span>base legal (&lt;3 fortes)</div>
+<div><h4>3 · Faixas</h4><div class="faixa"><div style="width:50%;background:#3fb950">A 50%</div><div style="width:30%;background:#d29922">B 30%</div><div style="width:20%;background:#6e7681">C</div></div><div class="muted" style="margin-top:6px">Participação acumulada dentro de P1, P2 ou P3. Não compare blocos.</div></div>
+<div><h4>4 · Caderno por conteúdo</h4>Questão só entra se <b>todos</b> os núcleos dela estão na aula (≤${k.max_nuc_pack} núcleos por mini-aula, ≥${k.min_miniaula} questões).</div></div>
+<h3>Mapa das abas</h3><div class="abas">${[['painel','Painel','visão geral'],['treino','Treino','Certo/Errado e erros'],['progresso','Progresso','por assunto e pegadinha'],['programa','Programa','edital e contagens'],['universo','Provas','funil de mineração'],['workflow','Workflow','etapas ao vivo'],['aulas','Aulas','aulas, PDFs, cobertura'],['prioridade','Prioridade','peso e semáforo'],['banco','Banco','busca nas questões']].map(a=>`<a onclick="go('${a[0]}')"><b>${a[1]}</b>${a[2]}</a>`).join('')}</div>
+<h3>Detalhes (abrir se precisar)</h3>
+<details class="q"><summary><b>Regras fixas e limites</b></summary><ul style="padding-left:18px">
+<li>Fonte: só o CDN oficial do Cebraspe. Nenhuma questão inventada: sem prova e gabarito oficial, o item é rejeitado.</li>
+<li>Classificador e verificador em contextos separados; itens em dúvida passam por você.</li>
+<li>Participação não é previsão. As provas são de outros cargos e o edital da CGU é novo.</li>
+<li>Limiares (${k.min_forte} itens, ${k.min_provas} provas, ${k.min_classif} classificados, ${Math.round(100*k.cob_ok)}% de cobertura) são regras iniciais, ajustáveis em scripts/suficiencia.py.</li>
+<li>A discursiva (P4) tem aulas próprias. Conteúdo sem questão histórica vira aula pela base legal.</li></ul></details>
+<details class="q"><summary><b>Pastas e comandos</b></summary><pre>cgu-bd/
+  provas/&lt;id&gt;/  extraidos/&lt;id&gt;.jsonl     PDFs e itens extraídos
+  concursos/&lt;concurso&gt;/   descoberta/ escopo/ classificacoes/ banco.jsonl nucleos.jsonl
+  aulas/&lt;tema&gt;/aulaN/     corpo.html aula.pdf caderno*.pdf manifest.json
+  aulas/cadernos_usados.jsonl   ledger (não repete questão)
+  scripts/  app/
+
+python3 scripts/minerar.py
+python3 scripts/suficiencia.py
+python3 scripts/aula.py preparar "P1·ADM 4.1"       (só leitura)
+python3 scripts/associar.py aula aulas/p1-adm-4.1/aula3                       (simula)
+python3 scripts/associar.py aula aulas/p1-adm-4.1/aula3 --gravar --confirmar-caderno   (cria, sob pedido)</pre></details></div>`;animaFluxo(m.querySelector('#anim'),d)}
+
+let PRI={b:'P1',n:1,c:{}};
+function priSet(k,v){PRI[k]=v;go('prioridade')}
+const NN=x=>Number(x).toLocaleString('pt-BR');
+async function prioridade(){
+ if(!PRI.c[PRI.n])PRI.c[PRI.n]=await api('/api/prioridade?nivel='+PRI.n);
+ const D=PRI.c[PRI.n];if(D.erro){m.innerHTML='<h2>Prioridade</h2><pre>'+H(D.erro)+'</pre>';return}
+ let L=D.linhas.filter(l=>l.prova==PRI.b);const REAL=PRI.n==1&&L.length&&L.every(l=>l.prec&&l.prec.ordem);
+ const mx=Math.max(...L.map(l=>l.hi),.01),N=D.itens_prova[PRI.b];
+ window.PRL=L;const CR={vermelho:'#f85149',amarelo:'#d29922',verde:'#3fb950',azul:'#58a6ff',cinza:'#8b949e',roxo:'#a371f7'},cor={A:'#3fb950',B:'#d29922',C:'#6e7681'},P=x=>(100*x).toFixed(x>=.095?0:1).replace('.',',')+'%',I=x=>Number(x||0).toFixed(1).replace('.',',');
+ const nA=L.filter(l=>l.faixa=='A'),aA=nA.filter(l=>l.cobertura&&l.cobertura.aulas>0).length,tot=L.reduce((s,l)=>s+l.forte,0),ex=L[0]||{};
+ const med=L.filter(l=>l.prec),bt=(k,v,t)=>`<button class="${PRI[k]==v?'p':'s'}" onclick="priSet('${k}',${typeof v=='number'?v:"'"+v+"'"})">${t}</button>`;
+ const pq=l=>{const r=l.prec;if(!r)return null;const q=r.no_assunto/r.n;return {q,ic:r.ic90,c:q>=.6?'#3fb950':q>=.3?'#d29922':'#f85149',i:q>=.6?'🟢':q>=.3?'🟡':'🔴',r}};
+ const ZZ=L.map(l=>`<div title="${H(l.codigo)} · ${P(l.share)}" style="width:${100*l.forte/tot}%;background:${cor[l.faixa]};opacity:${.55+.45*(l.ordem%2)};min-width:2px"></div>`).join('');
+ const st=(n,t,x)=>`<div class="st" style="border-top-color:#58a6ff"><div class="si" style="font:700 22px inherit;color:#58a6ff">${n}</div><b>${t}</b><div class="sx">${x}</div></div>`;
+ m.innerHTML=`<style>.pr .st{flex:1 1 170px;background:#161b22;border:1px solid #30363d;border-top:4px solid #58a6ff;border-radius:10px;padding:10px;text-align:center}.pr .st .sx{font-size:12.5px;color:#8b949e;margin-top:4px}.pr .fluxo{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.pr .sb{display:flex;height:30px;border-radius:6px;overflow:hidden;margin:6px 0}.pr td,.pr th{font-size:13px}</style><div class="pr"><h2>Prioridade de estudo</h2>
+<div class="row" style="align-items:center">${['P1','P2','P3'].map(b=>bt('b',b,b+' · '+D.itens_prova[b]+' itens')).join(' ')} <span class="muted">&nbsp;nível:</span> ${bt('n',1,'assunto')} ${bt('n',2,'subitem')}</div>
+<h3>Como a ordem é feita, em 3 passos</h3>
+<div class="fluxo">${st(1,'Contar',`Cada questão de prova anterior que casa com o edital é "forte". Em ${PRI.b} são <b>${NN(tot)}</b>. Ex.: <b>${H((ex.codigo||'').split('·')[1]||'')}</b> tem <b>${ex.forte||0}</b>.`)}${st(2,'Virar peso',`Peso = questões do assunto ÷ total. Ex.: ${ex.forte||0} ÷ ${NN(tot)} = <b>${P(ex.share||0)}</b>. Como ${PRI.b} tem ${N} itens, ≈ <b>${I(ex.esp||0)} itens</b> na prova.`)}${st(3,'Agrupar em faixas',`Do maior para o menor, somo os pesos: <b style="color:#3fb950">A</b> até 50%, <b style="color:#d29922">B</b> até 80%, <b style="color:#6e7681">C</b> o resto. A é o que estudar primeiro.`)}</div>
+<div class="muted">Peso de cada assunto dentro de ${PRI.b} (cada fatia = um assunto, na ordem da tabela):</div><div class="sb">${ZZ}</div>
+<div class="lg" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px"><span class="tag" style="color:#3fb950">■ faixa A: ${nA.length} assuntos</span><span class="tag" style="color:#d29922">■ faixa B: ${L.filter(l=>l.faixa=='B').length}</span><span class="tag">■ faixa C: ${L.filter(l=>l.faixa=='C').length}</span><span class="tag">${aA} de ${nA.length} da faixa A já têm aula</span></div>
+${REAL?`<div class="bl"><b>Ordem de P1 medida em ${NN(L.reduce((t,l)=>t+l.prec.n,0))} questões lidas uma a uma.</b> Só ${NN(Math.round(L.reduce((t,l)=>t+l.prec.real,0)))} das ${NN(tot)} "fortes" tratam mesmo de algo do edital de P1; a coluna <b>Peso real</b> usa isso (faixas A/B/C recalculadas). <b style="color:#3fb950">✔ firme</b> = a posição quase não muda ao reamostrar; <b style="color:#d29922">≈ empate</b> = não dá para separar de vizinhos. <b>Hoje só os 3 primeiros são firmes</b> (Administração: ADM 4, ADM 3, ADM 2). Limites: mede só itens que a triagem marcou como fortes (questões de P1 fora dessa lista não entram) e a base vem de provas de TI, que têm poucas questões de P1. Para firmar o restante falta minerar provas com bloco básico de controle/gestão.</div>`:`<div class="bl"><b>⚠ Atenção: o passo 1 erra bastante.</b> A contagem vem de uma comparação por palavras, não de alguém que leu a questão. Quando classificamos uma amostra, muitas "fortes" não tratavam do assunto (coluna <b>A triagem acerta?</b>). Quanto menor esse acerto, mais o peso está inflado. A coluna <b>Peso ajustado</b> multiplica o peso pelo acerto medido. Medido em <b>${med.length} de ${L.length}</b> assuntos de ${PRI.b}; nos demais aparece <b>?</b>, e a ordem deles ainda não é confiável. <span class="muted">Base atual: ${D.n_provas} provas (inclui provas de controle mineradas depois); as taxas de acerto foram medidas em amostras da base anterior, de 244 provas.</span></div>`}
+<div class="bl"><b>Modelo ${H(D.modelo||'provisório')}:</b> a ordem usa retorno por hora, pontos por item, domínio observado e risco dos mínimos. ${L.every(l=>l.calibrado)?'<b style="color:#3fb950">Triagem calibrada neste bloco.</b>':'<b style="color:#a371f7">Ordem provisória:</b> itens sem amostra rotulada exigem calibração.'} <span class="muted">Incidência estimada não é chamada de probabilidade enquanto o recall dos descartados não for medido.</span></div>
+<div style="overflow-x:auto"><table><tr><th>#</th><th>Assunto</th><th>Faixa</th><th>Peso pela triagem</th><th>A triagem acerta?</th><th>${REAL?'Peso real (medido)':'Peso ajustado'}</th><th>Próxima ação</th></tr>
+${L.map(l=>{const c=l.cobertura,pt=100*l.share/mx,pr=pq(l),adj=pr?l.esp*pr.q:null,sem=!c||!c.aulas;
+ return `<tr><td>${l.ordem}</td><td><b>${H(l.codigo.split('·')[1])}</b><div class="muted">${H(RT(l.codigo)!=l.codigo?RT(l.codigo):l.texto)}</div></td>
+<td><b style="color:${cor[l.faixa]};font-size:15px">${l.faixa}</b></td>
+<td style="min-width:150px"><b>${P(l.share)}</b> ≈ ${I(l.esp)} itens<div style="position:relative;height:8px;background:#21262d;border-radius:4px;width:130px;margin:3px 0"><i style="position:absolute;left:0;width:${pt}%;height:8px;background:#58a6ff;border-radius:4px"></i></div><span class="muted" title="intervalo de 90% reamostrando provas: ${P(l.lo)} a ${P(l.hi)}">${l.forte} questões · ${l.provas} provas</span></td>
+<td>${pr?`<b style="color:${pr.c}">${pr.i} ${Math.round(100*pr.q)}%</b><div class="muted">${pr.r.no_assunto} de ${pr.r.n} tratam do tema</div>`:'<span class="muted">? não medido</span>'}</td>
+<td>${REAL?`<b>${P(l.prec.part)}</b> ≈ ${I(l.prec.part*N)} itens<div class="muted">${P(l.prec.part_ic[0])} a ${P(l.prec.part_ic[1])}</div><div>${l.prec.firme?'<b style="color:#3fb950">✔ posição firme</b>':'<span style="color:#d29922">≈ empate</span>'} <span class="muted">(posição ${l.prec.rank[0]}–${l.prec.rank[2]})</span></div>`:pr?`<b>≈ ${I(adj)} itens</b><div class="muted">${I(l.esp*pr.ic[0])} a ${I(l.esp*pr.ic[1])}</div>`:'<span class="muted">—</span>'}</td>
+<td><b style="color:${CR[l.cor]}">● ${H(l.acao)}</b><div class="muted" style="max-width:230px">${H(l.motivo)}</div><div><b>índice ${I(l.score_estudo)}</b> · domínio ${P(l.dominio||0)} · ${I(l.horas_estimadas)} h <span class="muted">(${H(l.horas_origem||'')})</span></div><div>${sem?(l.faixa=='A'?'<span class="tag erro">sem aula</span>':''):`<span class="muted">${c.aulas} aula(s) · ${c.cobertas}/${c.total} questões</span>`} <button class="s" style="padding:2px 8px;font-size:12px" onclick="pedePri(${l.ordem})">copiar pedido</button></div></td></tr>`}).join('')}</table></div>
+<details class="q"><summary><b>Regras e limites (abrir se precisar)</b></summary><ul style="padding-left:18px;font-size:13px">
+<li><b>Amostra suficiente?</b> Refaço a conta 300 vezes sorteando provas. Se o peso quase não muda (±1 item ou ±35%) e há massa (≥20 questões fortes em ≥8 provas, ou assunto raro), basta; senão, minerar mais provas.</li>
+<li><b>Próxima ação, em ordem:</b> amostra suficiente? senão <b style="color:#f85149">minerar</b>. ≥15 itens classificados? senão <b style="color:#d29922">classificar</b>. Aula cobre ≥70% das questões? senão <b style="color:#3fb950">criar aula</b>; se sim <b style="color:#58a6ff">caderno e revisão</b>.</li>
+<li><b>Limites:</b> as provas são de outros cargos e o edital da CGU é novo. Isto mostra onde a banca costuma cobrar; não prevê a prova. Só compare assuntos dentro do mesmo bloco.</li>
+<li><b>Fonte do acerto:</b> amostras de 15 questões por assunto, classificadas pelo agente; o intervalo é de 90% e é largo porque a amostra é pequena.</li></ul></details></div>`}
+
+const _T=(location.hash||'').slice(1);go(tabs.some(x=>x[0]==_T)?_T:'painel').then(restauraEstado);
+</script></body></html>

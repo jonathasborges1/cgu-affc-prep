@@ -1,0 +1,13 @@
+{
+  "modelo": "backtest-temporal-v1",
+  "n_itens_classificados": 93,
+  "folds": [],
+  "resumo": {
+    "folds": 0,
+    "itens_teste": 0,
+    "mae_share_medio": 0.0,
+    "recall_top5_medio": 0.0
+  },
+  "gate_dados_minimos": false,
+  "conclusao": "dados classificados insuficientes para validar previsao"
+}

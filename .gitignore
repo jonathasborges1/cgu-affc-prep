@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+_novo/
+logs/*.log
+progresso/
+*.db
+*.db-shm
+*.db-wal
+*.part

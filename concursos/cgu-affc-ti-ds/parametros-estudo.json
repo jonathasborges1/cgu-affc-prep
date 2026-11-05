@@ -1,0 +1,8 @@
+{
+  "versao": 1,
+  "horas_padrao": 1.0,
+  "forca_minimo": 2.0,
+  "fator_discursiva": {"P1": 1.0, "P2": 1.0, "P3": 1.0},
+  "topicos": {},
+  "nota": "Preencha topicos.<codigo>.horas com o tempo estimado. Sem override, o score usa 1 hora e informa que a origem e padrao."
+}
