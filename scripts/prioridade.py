@@ -88,7 +88,7 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
         l['score_conservador']=piso
         pc=(c or {}).get('posicao_ic90') or [l.get('ordem',0)]*3
         l['posicao_ic90']=pc; l['ordem_exata_confiavel']=bool((c or {}).get('posicao_firme'))
-        l['posicao_exibida']=str((c or {}).get('ordem_validada')) if l['ordem_exata_confiavel'] else ('%s–%s'%(pc[0],pc[-1]))
+        l['posicao_exibida']=str((c or {}).get('ordem_validada')) if l['ordem_exata_confiavel'] else ('%s–%s'%(pc[0],pc[-1]) if c and c.get('posicao_ic90') else 'provisoria')
         por_bloco[l['prova']].append(l)
     linhas=[]
     for bloco,L in por_bloco.items():
@@ -114,6 +114,13 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
                      'recall_medido':bool(rec),'amostra_descartados':rec,'confiavel_para_ordem_global':False,
                      'P1':{'calibrados':p1ok,'total':len(p1),'ordem_por_faixas_confiavel':p1ok==len(p1) and bool(rec),
                            'ordem_exata_confiavel':sum(l['ordem_exata_confiavel'] for l in p1)}}
+    for bloco, itens in por_bloco.items():
+        if bloco == 'P1': continue
+        r['calibracao'][bloco] = {
+            'calibrados': sum(l['calibrado'] for l in itens), 'total': len(itens),
+            'ordem_por_faixas_confiavel': False,
+            'ordem_exata_confiavel': sum(l['ordem_exata_confiavel'] for l in itens),
+            'motivo': 'Falta validar amostra rotulada, descartados e estabilidade das posicoes.'}
     r['formula_score']='itens_esperados * pontos_item * (1-dominio) * fator_discursiva * fator_minimo / horas'
     return r
 

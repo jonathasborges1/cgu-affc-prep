@@ -1,0 +1,225 @@
+{
+  "modelo": "p1-tfidf-svm-v1",
+  "rotulos": 593,
+  "itens_unicos": 18872,
+  "validacao_temporal": {
+    "n": 466,
+    "curvas": [
+      {
+        "limiar": 0,
+        "aceitos": 51,
+        "cobertura": 0.10944206008583691,
+        "precisao": 0.6666666666666666,
+        "top3": 0.8627450980392157
+      },
+      {
+        "limiar": 0.05,
+        "aceitos": 43,
+        "cobertura": 0.09227467811158799,
+        "precisao": 0.7674418604651163,
+        "top3": 0.8837209302325582
+      },
+      {
+        "limiar": 0.1,
+        "aceitos": 41,
+        "cobertura": 0.08798283261802575,
+        "precisao": 0.7560975609756098,
+        "top3": 0.8780487804878049
+      },
+      {
+        "limiar": 0.15,
+        "aceitos": 38,
+        "cobertura": 0.0815450643776824,
+        "precisao": 0.7368421052631579,
+        "top3": 0.868421052631579
+      },
+      {
+        "limiar": 0.2,
+        "aceitos": 34,
+        "cobertura": 0.07296137339055794,
+        "precisao": 0.8235294117647058,
+        "top3": 0.9117647058823529
+      },
+      {
+        "limiar": 0.25,
+        "aceitos": 31,
+        "cobertura": 0.06652360515021459,
+        "precisao": 0.9032258064516129,
+        "top3": 0.967741935483871
+      },
+      {
+        "limiar": 0.3,
+        "aceitos": 27,
+        "cobertura": 0.05793991416309013,
+        "precisao": 0.9259259259259259,
+        "top3": 1.0
+      },
+      {
+        "limiar": 0.4,
+        "aceitos": 21,
+        "cobertura": 0.045064377682403435,
+        "precisao": 0.9523809523809523,
+        "top3": 1.0
+      },
+      {
+        "limiar": 0.5,
+        "aceitos": 16,
+        "cobertura": 0.034334763948497854,
+        "precisao": 0.9375,
+        "top3": 1.0
+      },
+      {
+        "limiar": 0.6,
+        "aceitos": 11,
+        "cobertura": 0.023605150214592276,
+        "precisao": 0.9090909090909091,
+        "top3": 1.0
+      },
+      {
+        "limiar": 0.8,
+        "aceitos": 3,
+        "cobertura": 0.006437768240343348,
+        "precisao": 1.0,
+        "top3": 1.0
+      },
+      {
+        "limiar": 1.0,
+        "aceitos": 1,
+        "cobertura": 0.002145922746781116,
+        "precisao": 1.0,
+        "top3": 1.0
+      },
+      {
+        "limiar": 1.25,
+        "aceitos": 0,
+        "cobertura": 0.0,
+        "precisao": 0.0,
+        "top3": 0.0
+      },
+      {
+        "limiar": 1.5,
+        "aceitos": 0,
+        "cobertura": 0.0,
+        "precisao": 0.0,
+        "top3": 0.0
+      }
+    ],
+    "escolhido": {
+      "limiar": 0.25,
+      "aceitos": 31,
+      "cobertura": 0.06652360515021459,
+      "precisao": 0.9032258064516129,
+      "top3": 0.967741935483871
+    }
+  },
+  "detector_p1": {
+    "curvas": [
+      {
+        "limiar": 0,
+        "aceitos": 260,
+        "precisao": 0.6692307692307692,
+        "cobertura_positivos": 0.7767857142857143
+      },
+      {
+        "limiar": 0.1,
+        "aceitos": 220,
+        "precisao": 0.6909090909090909,
+        "cobertura_positivos": 0.6785714285714286
+      },
+      {
+        "limiar": 0.2,
+        "aceitos": 171,
+        "precisao": 0.7192982456140351,
+        "cobertura_positivos": 0.5491071428571429
+      },
+      {
+        "limiar": 0.3,
+        "aceitos": 143,
+        "precisao": 0.7342657342657343,
+        "cobertura_positivos": 0.46875
+      },
+      {
+        "limiar": 0.4,
+        "aceitos": 97,
+        "precisao": 0.7628865979381443,
+        "cobertura_positivos": 0.33035714285714285
+      },
+      {
+        "limiar": 0.5,
+        "aceitos": 75,
+        "precisao": 0.7333333333333333,
+        "cobertura_positivos": 0.24553571428571427
+      },
+      {
+        "limiar": 0.6,
+        "aceitos": 47,
+        "precisao": 0.851063829787234,
+        "cobertura_positivos": 0.17857142857142858
+      },
+      {
+        "limiar": 0.8,
+        "aceitos": 10,
+        "precisao": 0.8,
+        "cobertura_positivos": 0.03571428571428571
+      },
+      {
+        "limiar": 1,
+        "aceitos": 3,
+        "precisao": 0.6666666666666666,
+        "cobertura_positivos": 0.008928571428571428
+      },
+      {
+        "limiar": 1.25,
+        "aceitos": 1,
+        "precisao": 1.0,
+        "cobertura_positivos": 0.004464285714285714
+      },
+      {
+        "limiar": 1.5,
+        "aceitos": 0,
+        "precisao": 0.0,
+        "cobertura_positivos": 0.0
+      },
+      {
+        "limiar": 2,
+        "aceitos": 0,
+        "precisao": 0.0,
+        "cobertura_positivos": 0.0
+      }
+    ],
+    "auto_escolhido": null,
+    "candidato_revisao": {
+      "limiar": 0.6,
+      "aceitos": 47,
+      "precisao": 0.851063829787234,
+      "cobertura_positivos": 0.17857142857142858
+    },
+    "descartados_provaveis_p1": 406
+  },
+  "auto_total": 280,
+  "auto_p1": 280,
+  "auto_outro": 0,
+  "revisao": 18592,
+  "por_topico": {
+    "P1·ETICA 4": 3,
+    "P1·ADM 3": 30,
+    "P1·ADM 5": 4,
+    "P1·ETICA 2": 6,
+    "P1·SOC 3": 2,
+    "P1·ADM 4": 144,
+    "P1·ESTADO 1": 1,
+    "P1·ETICA 5": 1,
+    "P1·ESTADO 6": 2,
+    "P1·ADM 2": 25,
+    "P1·ETICA 3": 1,
+    "P1·ESTADO 5": 6,
+    "P1·ESTADO 3": 8,
+    "P1·SOC 5": 14,
+    "P1·SOC 4": 4,
+    "P1·ESTADO 4": 3,
+    "P1·ESTADO 2": 3,
+    "P1·ADM 1": 6,
+    "P1·ESTADO 9": 17
+  },
+  "gate": "precisao >= 85%, >=30 aceitos no holdout e concordancia SVM+triagem"
+}

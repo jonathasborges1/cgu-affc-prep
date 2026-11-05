@@ -298,6 +298,10 @@ def api_prioridade(nivel=1):
     except Exception: prec = {}
     for l in out['linhas']: l['prec'] = prec.get(l['codigo'])
     out['dominio_amostras'] = {k: {'acertos':v[0], 'tentativas':v[1], 'dominio':dominio[k]} for k,v in stats.items()}
+    try: out['classificador_p1'] = json.loads((BASE / 'docs' / 'classificador-p1.json').read_text(encoding='utf-8'))
+    except Exception: out['classificador_p1'] = None
+    try: out['confiabilidade_blocos'] = json.loads((BASE / 'docs' / 'confiabilidade-blocos.json').read_text(encoding='utf-8'))
+    except Exception: out['confiabilidade_blocos'] = None
     return out
 
 def api_cobertura():

@@ -1,0 +1,37 @@
+{
+  "criterios": {
+    "rotulos_por_assunto": 30,
+    "precisao_minima": 0.85,
+    "recall_top5_minimo": 0.75,
+    "folds_temporais_minimos": 3
+  },
+  "blocos": {
+    "P1": {
+      "amostra": 650,
+      "rotulados": 650,
+      "assuntos": 24,
+      "assuntos_completos": 24,
+      "pacotes": 13,
+      "confiavel": true,
+      "motivo": "calibracao e backtest concluidos; ordem exata apenas nas posicoes firmes"
+    },
+    "P2": {
+      "amostra": 679,
+      "rotulados": 0,
+      "assuntos": 25,
+      "assuntos_completos": 0,
+      "pacotes": 14,
+      "confiavel": false,
+      "motivo": "amostra cega gerada, aguardando classificacao independente e backtest"
+    },
+    "P3": {
+      "amostra": 544,
+      "rotulados": 0,
+      "assuntos": 19,
+      "assuntos_completos": 0,
+      "pacotes": 11,
+      "confiavel": false,
+      "motivo": "amostra cega gerada, aguardando classificacao independente e backtest"
+    }
+  }
+}

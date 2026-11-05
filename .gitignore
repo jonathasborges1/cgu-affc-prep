@@ -9,3 +9,4 @@ progresso/
 *.db-shm
 *.db-wal
 *.part
+fila/revisao-p1.jsonl

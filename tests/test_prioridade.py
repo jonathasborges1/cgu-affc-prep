@@ -1,4 +1,5 @@
 import sys, unittest
+import json
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -28,6 +29,14 @@ class PrioridadeTests(unittest.TestCase):
         self.assertFalse(l['calibrado'])
         self.assertEqual(l['acao'],'Calibrar triagem')
 
+    def test_p2_nao_exibe_posicao_como_validada(self):
+        linhas = [l for l in self.resultado['linhas'] if l['prova']=='P2']
+        self.assertTrue(linhas)
+        self.assertFalse(self.resultado['calibracao']['P2']['ordem_por_faixas_confiavel'])
+        for l in linhas:
+            self.assertEqual(l['posicao_exibida'], 'provisoria')
+            self.assertFalse(l['ordem_exata_confiavel'])
+
     def test_censo_pequeno_conta_como_calibrado(self):
         l=self.linha('P1·ETICA 1')
         self.assertTrue(l['calibrado'])
@@ -46,5 +55,11 @@ class PrioridadeTests(unittest.TestCase):
     def test_prova_antiga_pesa_menos(self):
         var={'nova':{'prior':8,'ano':2026},'velha':{'prior':8,'ano':2016}}
         self.assertGreater(S.peso_prova('nova',var,{}),S.peso_prova('velha',var,{}))
+
+    def test_classificador_automatico_passou_no_gate(self):
+        d=json.loads((ROOT/'docs'/'classificador-p1.json').read_text(encoding='utf-8'))
+        self.assertGreaterEqual(d['validacao_temporal']['escolhido']['precisao'],.85)
+        self.assertGreaterEqual(d['validacao_temporal']['escolhido']['aceitos'],30)
+        self.assertGreater(d['auto_p1'],0)
 
 if __name__=='__main__': unittest.main()

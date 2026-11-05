@@ -1,0 +1,133 @@
+# PACOTE p2-verif-1-13 (50 itens): pertinência ao edital de P2
+
+Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P2 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
+Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
+
+## CÓDIGOS (escolha UM por item; dentro de cada assunto estão os subitens do edital)
+- **P2·AUD 1**: 1 Propósito, serviços e papéis. | 1.1 Contribuição da auditoria para a governança, os riscos, os controles e os resultados. | 1.2 Avaliação e consultoria como serviços de auditoria interna governamental; apuração de atos e fatos com indícios de ilegalidade ou irregularidade na utilização de recursos | 1.3 Finalidades e diferenças entre as três formas de atuação da SFC; relação com a gestão, correição e avaliação de políticas. | 1.4 Independência, objetividade, diligência e ceticismo; papéis de gestão, supervisão e auditoria no modelo das três linhas.
+- **P2·AUD 2**: 2 Ciclo do trabalho. | 2.1 Planejamento, execução, comunicação e monitoramento; finalidade de objetivos, escopo, critérios e perguntas. | 2.2 Priorização por risco, materialidade e relevância social em nível conceitual; adequação do trabalho às finalidades de avaliação, consultoria ou apuração. | 2.3 Apoio à melhoria da gestão com preservação da autonomia técnica e das responsabilidades de decisão e execução dos gestores.
+- **P2·AUD 3**: 3 Evidência e conclusão. | 3.1 Suficiência, adequação e confiabilidade; noção de achado e de limitações. | 3.2 Distinção entre sinal de risco, evidência e conclusão; necessidade de aprofundamento e proporcionalidade da afirmação.
+- **P2·AUD 4**: 4 Comunicação e acompanhamento. | 4.1 Clareza, contexto e utilidade dos resultados; publicidade e proteção de pessoas e informações. | 4.2 Recomendações relacionadas a causas e riscos; distinção entre plano de ação, implementação, resultado e benefício.
+- **P2·AUD 5**: 5 Integração entre funções da CGU. | 5.1 Denúncias e informações de ouvidoria e transparência como insumos de risco; achados como subsídios para admissibilidade correcional e responsabilização de entes privados. | 5.2 Resultados do controle como insumos de integridade e melhoria de serviços; compartilhamento lícito, devolutivas e proteção. 15.2.4 CONHECIMENTOS ESPECÍFICOS
+- **P2·DIR 1**: 1 Decisão administrativa. | 1.1 Competência, finalidade, motivação, proporcionalidade e segurança jurídica; consideração das consequências e das condições de atuação. | 1.2 Dever de fundamentação e limites ao exercício do poder e à revisão de decisões.
+- **P2·DIR 2**: 2 Processo e garantias. | 2.1 Devido processo, contraditório, defesa e imparcialidade; finalidade da instrução e da prova. | 2.2 Distinção entre procedimento investigativo e processo sancionador; proteção de direitos e necessidade de fundamentar conclusões.
+- **P2·DIR 3**: 3 Funções de controle e melhoria da gestão. | 3.1 Finalidades do controle interno, externo e social; inserção institucional da CGU no Poder Executivo federal. | 3.2 Avaliação da ação governamental e apoio ao aprimoramento da gestão, da governança, dos controles e dos resultados das políticas públicas; prevenção, detecção e correção d | 3.3 Autonomia técnica e responsabilidades dos gestores; diferenças de competências e complementaridade com o controle externo exercido pelo Congresso Nacional com o auxílio d | 3.4 Distinção entre avaliar a gestão, apurar fatos e aplicar sanções; cooperação e compartilhamento lícito de informações.
+- **P2·DIR 4**: 4 Responsabilização em nível introdutório. | 4.1 Distinção entre indício, falha de gestão, irregularidade e responsabilidade. | 4.2 Finalidades e diferenças entre responsabilização de agentes públicos e de pessoas jurídicas; noções de admissibilidade, processo disciplinar, processo administrativo de r
+- **P2·DIR 5**: 5 Proteção e encaminhamento. | 5.1 Distinção entre acolhimento, medidas de proteção, apuração de fatos e conclusão sancionadora, especialmente diante de assédio e discriminação; finalidades e garantias de 
+- **P2·EVID 1**: 1 Perguntas e fontes. | 1.1 Relação entre problema, pergunta e informação necessária; fontes documentais, administrativas, estatísticas e de participação social. | 1.2 Distinção entre dado, evidência, interpretação e juízo de valor; verificação de origem e confronto de fontes.
+- **P2·EVID 2**: 2 Leitura de dados e indicadores. | 2.1 Interpretação de tabelas, gráficos, proporções, taxas e medidas descritivas; denominadores, qualidade e comparabilidade. | 2.2 Distinção entre indicadores de percepção, experiência, denúncias, detecção e sanções na análise da corrupção; subnotificação e limites de inferência sobre sua ocorrência.
+- **P2·EVID 3**: 3 Inferências e erros de raciocínio. | 3.1 Associação e causalidade; seleção e representatividade; explicações alternativas e incerteza. | 3.2 Generalizações indevidas, falácia ecológica e viés de confirmação; falsos positivos e falsos negativos.
+- **P2·EVID 4**: 4 Integridade da evidência e proteção. | 4.1 Rastreabilidade e verificação de informações; comunicação proporcional dos resultados e limites. | 4.2 Escuta sem indução, confidencialidade e risco de identificação indireta. | 4.3 Distinção entre as condições e os regimes de proteção de entrevistados em auditoria, participantes de pesquisa e denunciantes.
+- **P2·EVID 5**: 5 Uso responsável de inteligência artificial. | 5.1 Possibilidades de classificação, busca, síntese e apoio à análise; escolha entre IA, solução simples e revisão humana. | 5.2 Erros, conteúdo não sustentado, vieses e efeitos sobre grupos; proteção de informações, supervisão, rastreabilidade e contestação. | 5.3 Verificação de fontes e limites da automação de decisões que afetam direitos.
+- **P2·GOV 1**: 1 Governança e responsabilidades. | 1.1 Distinção entre direção, gestão, controle e prestação de contas; papéis, supervisão, transparência e responsabilização. Relação entre decisões organizacionais, finalidade
+- **P2·GOV 2**: 2 Riscos e controles essenciais. | 2.1 Risco, causa, consequência e controle; prevenção e detecção; proporcionalidade dos controles, segregação de funções e risco residual. | 2.2 Identificação de vulnerabilidades e de controles compatíveis com situações usuais, a partir dos dados fornecidos.
+- **P2·GOV 3**: 3 Integridade pública. | 3.1 Finalidades dos programas e medidas de integridade; compromisso da liderança, orientação ética, identificação de riscos, canais de relato e acompanhamento de ações. | 3.2 Prevenção de favorecimento, assédio e discriminação; ambiente seguro e não retaliação.
+- **P2·GOV 4**: 4 Integridade privada. | 4.1 Finalidades dos programas de integridade e sua relação com o poder público; compromisso da direção, registros confiáveis, controles, diligência proporcional sobre terceir | 4.2 Diferença entre existência documental, implementação e efetividade dos mecanismos.
+- **P2·GOV 5**: 5 Prevenção e melhoria institucional. | 5.1 Cultura, incentivos e confiança; diferenças de capacidade entre organizações; orientação e medidas proporcionais. | 5.2 Denúncias e resultados de controle como insumos de melhoria. | 5.3 Distinção entre baixa ocorrência e baixa detecção de problemas; leitura de evidências simples sobre funcionamento e resultados das medidas.
+- **P2·TRANSP 1**: 1 Acesso à informação. | 1.1 Transparência ativa e passiva; finalidade de pedidos e recursos; publicidade como regra e motivação das restrições. | 1.2 Distinção conceitual entre informação classificada, sigilos previstos em lei, informação pessoal e documento preparatório; acesso parcial e comunicação clara da decisão.
+- **P2·TRANSP 2**: 2 Transparência e proteção de dados. | 2.1 Compatibilização entre acesso à informação e proteção de dados pessoais; finalidade, necessidade e salvaguardas. | 2.2 Diferença entre dados pessoais e dados pessoais sensíveis; noções de tarjamento, anonimização e risco de reidentificação.
+- **P2·TRANSP 3**: 3 Ouvidoria e proteção das pessoas. | 3.1 Finalidades das manifestações; acolhimento, encaminhamento e resposta ao usuário; acessibilidade e linguagem cidadã. | 3.2 Proteção da identidade e prevenção de retaliação. | 3.3 Distinção entre receber um relato, apurar fatos e decidir sobre responsabilidade.
+- **P2·TRANSP 4**: 4 Participação e melhoria de serviços. | 4.1 Participação e controle social; conselhos, consultas e escuta de usuários; representatividade e barreiras à participação. | 4.2 Recorrências em manifestações como sinais de problemas. | 4.2.1 Subnotificação. | 4.3 Transparência ativa, dados abertos e Portal da Transparência como meios de acesso e controle; qualidade, atualização, cobertura e limites da informação. | 4.4 Papel da CGU na orientação e no monitoramento da transparência e do acesso à informação, em nível de finalidade institucional.
+- **P2·TRANSP 5**: 5 Integridade da informação e comunicação. | 5.1 Confiabilidade e contexto das fontes; distinção entre fato, alegação e interpretação. | 5.2 Desinformação e efeitos sobre políticas públicas; comunicação de incertezas e correção de erros. | 5.3 Liberdade de expressão e pluralismo. | 5.3.1 Distinção entre crítica legítima e desinformação.
+
+## ITENS
+### v1-13-01 | gab=E
+A remuneração do auditor de controle externo do Tribunal de Contas do Distrito Federal não poderá exceder, em espécie, o subsídio mensal do chefe do Poder Executivo.
+### v1-13-02 | gab=C
+Fontes de informação sobre eficiência, confiabilidade e comprometimento de fornecedores envolvem o acompanhamento, pelo setor de compras, dos registros de compras realizadas, entregas, devoluções e alterações de preço.
+### v1-13-03 | gab=C
+Quando se assume que a remuneração prometida por um título público seja considerada como sem risco, as taxas oferecidas por todas as demais aplicações que excedem à taxa desse título podem ser interpretadas como um prêmio pelo risco. A tabela a seguir exibe as informações apresentadas no balanço patrimonial da empresa Alfa Ltda. ativo circulante R$ 4.000.000 ativo não circulante R$ 10.000.000 passivo circulante R$ 5.000.000 passivo não circulante R$ 7.000.000 patrimônio líqui
+### v1-13-04 | gab=E [texto-base: A respeito de APIs, web services e JSON, julgue os itens a seguir. 75   import json Considerando o código em Python precedente, é correto afirmar que sua execuç]
+A utilização de padrões como XML, SOAP, WSDL e UDDI em web services visa garantir a interoperabilidade entre aplicações desenvolvidas em plataformas distintas, sendo o padrão UDDI utilizado especificamente para a definição formal das mensagens trocadas entre cliente e servidor.
+### v1-13-05 | gab=E [texto-base: A respeito de aspectos pertinentes aos agentes públicos, julgue os próximos itens. evitar o retrabalho e especializar o atendimento em locais específicos, de fo]
+Conforme disposições constitucionais, servidor público pela cultura digital, destaca-se a importância do desenvolvimento contínuo, representado pela expressão life long learning, uma estratégia de aprendizagem que se caracteriza pela educação linear e direcionada, com uma trilha comum a todos da organização. DIMENSIONAMENTO, PROVIMENTO E MOVIMENTAÇÃO DA FORÇA DE TRABALHO
+### v1-13-06 | gab=E
+A inteligência artificial amplia a inclusão digital ao personalizar experiências e eliminar barreiras de acesso à informação. Quando treinada com dados diversos e aplicada com rigor técnico, sua automação neutraliza vieses preexistentes, o que garante equidade para grupos historicamente marginalizados.
+### v1-13-07 | gab=C
+O revestimento de tratamento superficial duplo com capa selante é adequado para o número N de projeto da situação em apreço, já que apresenta desempenho suficiente para suportar os esforços repetidos de tração na flexão, correspondente ao tráfego.
+### v1-13-08 | gab=C [texto-base: Julgue os itens a seguir, acerca das competências tributárias e das repartições de receitas, com base nas disposições constitucionais e na jurisprudência do STF]
+A imunidade tributária religiosa abrange o ICMS importação, devendo, para tanto, haver a comprovação de que os bens se destinam à finalidade essencial da entidade. JUSTIFICATIVA - Certo. A assertiva está de acordo com o entendimento do STF firmado no ARE 1.244.093 AgR, relator Edson Fachin, Segunda Turma, julgado em 15/5/2020, Processo Eletrônico DJe-150, divulgado em 16/6/2020, publicado em 17/6/2020.
+### v1-13-09 | gab=E
+Aprendizado de máquina e mineração de dados são termos idênticos em relação aos seus objetivos e funções, pois ambos lidam com algoritmos de inteligência artificial para padrões em grandes conjuntos de dados em busca de conhecimento.
+### v1-13-10 | gab=C
+A teoria das relações humanas foi pioneira ao considerar, na administração das organizações, a importância da integração social dos empregados, a importância do conteúdo do cargo para os trabalhadores e a atenção a formas de recompensas não materiais.
+### v1-13-11 | gab=C
+A capacidade do processo é representada por um conjunto de atributos de processo descrito em termos de resultados esperados; atingindo a unidade organizacional maior nível de capacidade para desempenhar o processo à medida que evolui nos níveis de maturidade.
+### v1-13-12 | gab=C
+O ciclo de vida de um projeto contempla o conjunto das ações desenvolvidas desde o início do projeto até a entrega final de seus resultados. À luz da Lei n.º 12.527/2011 (Lei de Acesso à Informação) e da Lei Complementar n.º 131/2009 (Lei da Transparência), julgue os itens seguintes.
+### v1-13-13 | gab=E
+A ISO 27002 recomenda evitar a encriptação de cópias de segurança (becape), em benefício da celeridade em eventuais processos de recuperação, especialmente quando o sistema de becape for um componente chave nos planos de continuidade de negócio.
+### v1-13-14 | gab=E
+Design patterns é um conjunto de soluções generalistas para problemas recorrentes durante o desenvolvimento de um software; trata-se de um framework ou código pronto, e não de uma definição de alto nível de como um problema comum pode ser solucionado.
+### v1-13-15 | gab=E [texto-base: Julgue os itens seguintes, a respeito das Leis n.º 12.527/2011 (Lei de Acesso à Informação – LAI), n.º 12.737/2012 (Lei de Delitos Informáticos), n.º 12.965/201]
+À luz da Lei n.º 12.965/2014, é assegurado ao usuário o direito ao sigilo de suas comunicações privadas armazenadas; entretanto, tal direito não é garantido em relação ao fluxo de suas comunicações pela Internet.
+### v1-13-16 | gab=E
+Denomina-se fluxograma o esquema gráfico que representa os níveis hierárquicos de uma organização e as inter-relações entre suas unidades constitutivas ou seus departamentos.
+### v1-13-17 | gab=C
+A gestão por resultados caracteriza-se pela cultura e pelo conjunto de ferramentas de gestão, orientados ao aumento da eficácia, eficiência e produtividade no uso de recursos organizacionais para melhoria de resultados no desempenho institucional e de colaboradores.
+### v1-13-18 | gab=E
+Pedidos de outorga de direito de uso de recursos hídricos de domínio da União devem ser publicados no Diário Oficial da União.
+### v1-13-19 | gab=C [texto-base: •    Cada um dos itens das provas objetivas está vinculado ao com que cada um deles esteja vinculado, marque, na Folha de Res julgue o item CERTO; ou o campo de]
+A “grande questão” mencionada no primeiro período do terceiro parágrafo retoma a pergunta apresentada no início do texto. mando que imediatamente o antecede. De acordo com o comando a spostas, para cada item: o campo designado com o código C, caso o E, caso julgue o item ERRADO. A ausência de marcação ou a ão receberão pontuação negativa. Para as devidas marcações, use a as suas provas objetivas. onhecimentos de informática e(ou) tecnologia da informação, a considere que todo
+### v1-13-20 | gab=E [texto-base: Acerca do planejamento de políticas públicas, formulação de projetos, tipos de avaliação, indicadores e interpretação de informações, julgue os itens seguintes.]
+Os indicadores sociais de políticas públicas exercem uma função descritiva quando agregam informações de juízo de valor à situação analisada.
+### v1-13-21 | gab=E
+É considerado segurado obrigatório da previdência social, na condição de empregado, o servidor público ocupante de cargo em comissão, ainda que possua vínculo efetivo com o poder público federal.
+### v1-13-22 | gab=C
+A estrutura de dados do tipo quadtree exige capacidade de armazenamento maior que a estrutura matricial simples, embora o tempo de processamento daquela estrutura para a busca de um atributo seja menor que o desta.
+### v1-13-23 | gab=E
+Uma técnica viável a ser adotada para a proteção da confidencialidade é a geração de pares de chaves, a partir dos quais se obtém a identidade dos arquivos com comprimento fixo, independentemente do tamanho do bloco de dados a ser criptografado.
+### v1-13-24 | gab=E
+Uma VPN é um tipo de serviço de segurança de rede que cria uma rede física sobre fluxos de dados lógicos em que os pacotes de dados se movem através de cabeçalhos dos protocolos de transporte criptografados. EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024 À luz da Lei Geral de Proteção de Dados (LGPD), que define dado pessoal e dado pessoal sensível, julgue os itens que se seguem.
+### v1-13-25 | gab=E
+Uma obrigação no setor público pode ser definida como um passivo independentemente se a sua liquidação ou extinção exigir uma saída de recursos.
+### v1-13-26 | gab=E [texto-base: 648003_01N260343 -- CONHECIMENTO No que se refere o plano de organização, métodos e medidas adotados pelas entidades para proteger seus ativos, garantir retorno]
+Salvaguarda de ativos refere-se aos controles de prevenção, de detecção de aquisições, de uso ou de baixa de boa fé, ou por má decisão de negócio, que poderiam ter efeito material sobre as demonstrações financeiras.
+### v1-13-27 | gab=E
+Uma tabela de fatos descreve as entidades de um negócio e apresenta uma ou mais colunas-chave que funcionam como um identificador único exclusivo, bem como colunas descritivas adicionais.
+### v1-13-28 | gab=C
+No controle judicial da atividade administrativa, notadamente no que se refere às políticas públicas, devem-se observar limites que impeçam uma substituição do administrador pelo julgador, especialmente no que envolva a discricionariedade.
+### v1-13-29 | gab=C
+Ainda que exista um comitê de auditoria, é recomendável a contratação de um auditor independente a fim de avaliar os controles internos utilizados pela administração para a elaboração de demonstrativos financeiros.
+### v1-13-30 | gab=C
+Os bancos de dados ampliam as possibilidades de recuperação da informação para suas bases, oferecendo inclusive recursos para análises estatísticas e bibliométricas.
+### v1-13-31 | gab=E
+Situação hipotética: Em determinada organização, há necessidade de instalar ferramenta com capacidade de negar, a uma parte não autorizada, uma tentativa de acesso a dados ou serviço de rede, de modo a impedir a usurpação dos dados, detectando o ataque por meio de assinaturas, anomalias de protocolo ou heurística. Assertiva: Para atender esses requisitos, é suficiente instalar um SIEM (Security Information and Event Management).
+### v1-13-32 | gab=C
+Os conselhos de administração presentes em empresas estatais constituem elementos de governança corporativa na administração pública. GOVERNO ELETRÔNICO, TRANSPARÊNCIA E CONTROLE SOCIAL
+### v1-13-33 | gab=E
+A ação civil pública, um dos meios ou instrumentos de controle jurisdicional da administração pública, objetiva proteger os interesses individuais, como, por exemplo, a defesa dos direitos do consumidor.
+### v1-13-34 | gab=E [texto-base: Julgue os próximos itens, relativos ao que estabelecem as Leis n.º 13.303/2016 e n.º 10.520/2002. A fase externa do pregão será iniciada desde que haja pelo men]
+A análise de riscos se inicia na fase de gestão do contrato, na qual a equipe de fiscalização do contrato, sob coordenação do gestor do contrato, realiza a análise dos principais riscos e acompanha as ações de tratamento desses riscos.
+### v1-13-35 | gab=E
+O ECM (enterprise content management) é definido especificamente como um sistema que, voltado para a gestão de conhecimento, abrange módulos de apoio às áreas funcionais da organização por meio da integração de informações importantes para a empresa.
+### v1-13-36 | gab=E
+Quanto ao estudo prévio de impacto de vizinhança (EIV), o Estatuto das Cidades prevê que a análise do adensamento populacional, da demanda por transporte público e da valorização imobiliária é suficiente para se realizar a apreciação dos efeitos positivos ou negativos que determinado empreendimento acarretará à qualidade de vida da população residente nas proximidades.
+### v1-13-37 | gab=E [texto-base: Com relação a agentes públicos, atos administrativos, poderes da administração pública e responsabilidade civil do Estado, julgue os itens subsequentes.]
+Mesmo que determinada lei tenha sido declarada inconstitucional pelo Supremo Tribunal Federal, entende-se que não é viável a responsabilização do Estado pela edição da referida norma, uma vez que o Poder Legislativo é dotado de soberania no exercício da atividade legiferante.
+### v1-13-38 | gab=C [texto-base: Julgue os itens que se seguem, pertinentes aos procedimentos auxiliares das licitações e contratações dispostos na Lei de Licitações e Contratos Administrativos]
+Na hipótese de cumprimento de obrigação legal ou regulatória pelo controlador, o tratamento de dados pessoais sensíveis pode ocorrer independentemente de consentimento legal do seu titular.
+### v1-13-39 | gab=E [texto-base: Com base nessas informações, julgue os itens a seguir, considerando que os resultados do teorema do limite central são fundamentais para embasar a análise da qu]
+Para um valor 0 < ( < 1, o intervalo de confiança, com confiança 1 − (, para a estimativa de E = , utilizando-se o estimador )*௡ , será assintoticamente ( → ∞) dado por " ௡ − +ఈ ⁄√ ,  ௡ + +ఈ ⁄√ #, em que +ఈ é o quantil ( da distribuição %0, 1. Um modelo de regressão linear entre uma variável aleatória (dependente) e uma variável não aleatória  (independente) é definido por = ,଴ + ,ଵ  + -, em que -, denominado erro aleatório, é uma variável aleatória independente d
+### v1-13-40 | gab=E
+É correto afirmar que o fluxograma do primeiro pavimento ilustr assim, a casa possui duas suítes no primeiro pavimento. Cargo: AUDITOR DE CONTROLE EXTERNO - ÁREA: FISCALIZAÇÃO - ESPECIALID de Paris. Projeto de Le Corbusier. Figura II Legenda primeiro pavimento: 1 – quarto; 2 – quarto; 3 – escritório; 4 – banho; 5 – quarto de hóspedes; 6 – WC; 7 – terraço; 8 – cozinha; 9 – despensa; 10 – sala de estar; 11 – hall. Figura IV: carta solar da região de Paris es. Sudoeste, é corret
+### v1-13-41 | gab=E [texto-base: Considerando a legislação e as normatizações aplicadas à segurança e à privacidade da informação na administração pública federal, julgue os itens a seguir.]
+Conforme a definição de dado pessoal sensível estabelecida na Lei Geral de Proteção de Dados Pessoais (LGPD), no conjunto de dados de uma pessoa natural constituído por nome, religião, CPF, nacionalidade, RG, cidade onde mora e estilo musical preferido, são considerados dados sensíveis apenas os relativos à religião e à nacionalidade.
+### v1-13-42 | gab=C
+O conceito de governança está intimamente relacionado à prática de accountability, o que se deve, principalmente, à exigência — distinta conforme a natureza da entidade envolvida —, de prestação de contas; tal conceito deve ser norteado pelo princípio da transparência, em benefício da sociedade, consolidando-se, assim, a relação superavitária necessária da conformidade e do desempenho.
+### v1-13-43 | gab=E [texto-base: Com relação à organização político-administrativa do Estado federal brasileiro, à União, aos estados federados e aos municípios, julgue os próximos itens.]
+Caso pretenda consultar o povo para deliberar sobre matéria de acentuada relevância de natureza legislativa, o presidente da República poderá convocar plebiscito, mediante decreto presidencial.
+### v1-13-44 | gab=C
+A finalidade, a motivação, a segurança jurídica, a razoabilidade e o interesse público são princípios expressamente previstos na Lei n.º 9.784/1999.
+### v1-13-45 | gab=E
+Situação hipotética: A partir de denúncia formulada à ouvidoria de um órgão federal, constatou-se que determinado imóvel rural situado no Pantanal Mato-grossense não estava cumprindo sua função social. Após oitiva de testemunhas e realização de inspeção no local, agentes governamentais confirmaram que o proprietário não estava utilizando adequadamente os recursos naturais disponíveis de forma a preservar o equilíbrio do ambiente. A União pretende desapropriar o imóvel em ques
+### v1-13-46 | gab=C
+A colaboração é um elemento central dessas teorias, na medida em que a eficácia de políticas públicas é maximizada quando há uma participação ativa e um compromisso de todos os stakeholders envolvidos, pois isso facilita a criação de soluções inovadoras, a identificação e mitigação de riscos e a implementação de intervenções mais efetivas e sustentáveis.
+### v1-13-47 | gab=C
+O processo orçamentário envolve a fase de elaboração das leis orçamentárias e a fase de execução orçamentária. O orçamento público constitui um poderoso instrumento de controle dos recursos financeiros gerados pela sociedade. A respeito desse tema, julgue os itens que se seguem, com base na doutrina e nas disposições legais sobre orçamento e finanças públicas.
+### v1-13-48 | gab=C
+Em geral, ao se conectar o anodo de um LED ao terminal negativo e o catodo ao terminal positivo de uma fonte de corrente contínua, o dispositivo tende a não emitir luz.
+### v1-13-49 | gab=C
+Na produção antecipada de provas, não se admite defesa ou recurso, salvo contra decisão que indeferir totalmente a produção de prova pleiteada pelo requerente originário.
+### v1-13-50 | gab=E
+Conforme a Lei Orgânica do Tribunal de Contas do Distrito Federal, esse tribunal tem a competência de expedir atos e instruções a respeito de matéria de suas atribuições e da organização dos processos que lhe devam ser submetidos. Assim, o Tribunal de Contas do Distrito Federal pode estabelecer rito próprio para o julgamento de suas próprias contas, estabelecendo, por exemplo, quórum qualificado para a sua aprovação. MENTOS II -- Por meio de uma decisão, o plenário do Tribuna

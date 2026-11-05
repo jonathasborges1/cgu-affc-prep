@@ -1,0 +1,133 @@
+# PACOTE p2-verif-1-7 (50 itens): pertinência ao edital de P2
+
+Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P2 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
+Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
+
+## CÓDIGOS (escolha UM por item; dentro de cada assunto estão os subitens do edital)
+- **P2·AUD 1**: 1 Propósito, serviços e papéis. | 1.1 Contribuição da auditoria para a governança, os riscos, os controles e os resultados. | 1.2 Avaliação e consultoria como serviços de auditoria interna governamental; apuração de atos e fatos com indícios de ilegalidade ou irregularidade na utilização de recursos | 1.3 Finalidades e diferenças entre as três formas de atuação da SFC; relação com a gestão, correição e avaliação de políticas. | 1.4 Independência, objetividade, diligência e ceticismo; papéis de gestão, supervisão e auditoria no modelo das três linhas.
+- **P2·AUD 2**: 2 Ciclo do trabalho. | 2.1 Planejamento, execução, comunicação e monitoramento; finalidade de objetivos, escopo, critérios e perguntas. | 2.2 Priorização por risco, materialidade e relevância social em nível conceitual; adequação do trabalho às finalidades de avaliação, consultoria ou apuração. | 2.3 Apoio à melhoria da gestão com preservação da autonomia técnica e das responsabilidades de decisão e execução dos gestores.
+- **P2·AUD 3**: 3 Evidência e conclusão. | 3.1 Suficiência, adequação e confiabilidade; noção de achado e de limitações. | 3.2 Distinção entre sinal de risco, evidência e conclusão; necessidade de aprofundamento e proporcionalidade da afirmação.
+- **P2·AUD 4**: 4 Comunicação e acompanhamento. | 4.1 Clareza, contexto e utilidade dos resultados; publicidade e proteção de pessoas e informações. | 4.2 Recomendações relacionadas a causas e riscos; distinção entre plano de ação, implementação, resultado e benefício.
+- **P2·AUD 5**: 5 Integração entre funções da CGU. | 5.1 Denúncias e informações de ouvidoria e transparência como insumos de risco; achados como subsídios para admissibilidade correcional e responsabilização de entes privados. | 5.2 Resultados do controle como insumos de integridade e melhoria de serviços; compartilhamento lícito, devolutivas e proteção. 15.2.4 CONHECIMENTOS ESPECÍFICOS
+- **P2·DIR 1**: 1 Decisão administrativa. | 1.1 Competência, finalidade, motivação, proporcionalidade e segurança jurídica; consideração das consequências e das condições de atuação. | 1.2 Dever de fundamentação e limites ao exercício do poder e à revisão de decisões.
+- **P2·DIR 2**: 2 Processo e garantias. | 2.1 Devido processo, contraditório, defesa e imparcialidade; finalidade da instrução e da prova. | 2.2 Distinção entre procedimento investigativo e processo sancionador; proteção de direitos e necessidade de fundamentar conclusões.
+- **P2·DIR 3**: 3 Funções de controle e melhoria da gestão. | 3.1 Finalidades do controle interno, externo e social; inserção institucional da CGU no Poder Executivo federal. | 3.2 Avaliação da ação governamental e apoio ao aprimoramento da gestão, da governança, dos controles e dos resultados das políticas públicas; prevenção, detecção e correção d | 3.3 Autonomia técnica e responsabilidades dos gestores; diferenças de competências e complementaridade com o controle externo exercido pelo Congresso Nacional com o auxílio d | 3.4 Distinção entre avaliar a gestão, apurar fatos e aplicar sanções; cooperação e compartilhamento lícito de informações.
+- **P2·DIR 4**: 4 Responsabilização em nível introdutório. | 4.1 Distinção entre indício, falha de gestão, irregularidade e responsabilidade. | 4.2 Finalidades e diferenças entre responsabilização de agentes públicos e de pessoas jurídicas; noções de admissibilidade, processo disciplinar, processo administrativo de r
+- **P2·DIR 5**: 5 Proteção e encaminhamento. | 5.1 Distinção entre acolhimento, medidas de proteção, apuração de fatos e conclusão sancionadora, especialmente diante de assédio e discriminação; finalidades e garantias de 
+- **P2·EVID 1**: 1 Perguntas e fontes. | 1.1 Relação entre problema, pergunta e informação necessária; fontes documentais, administrativas, estatísticas e de participação social. | 1.2 Distinção entre dado, evidência, interpretação e juízo de valor; verificação de origem e confronto de fontes.
+- **P2·EVID 2**: 2 Leitura de dados e indicadores. | 2.1 Interpretação de tabelas, gráficos, proporções, taxas e medidas descritivas; denominadores, qualidade e comparabilidade. | 2.2 Distinção entre indicadores de percepção, experiência, denúncias, detecção e sanções na análise da corrupção; subnotificação e limites de inferência sobre sua ocorrência.
+- **P2·EVID 3**: 3 Inferências e erros de raciocínio. | 3.1 Associação e causalidade; seleção e representatividade; explicações alternativas e incerteza. | 3.2 Generalizações indevidas, falácia ecológica e viés de confirmação; falsos positivos e falsos negativos.
+- **P2·EVID 4**: 4 Integridade da evidência e proteção. | 4.1 Rastreabilidade e verificação de informações; comunicação proporcional dos resultados e limites. | 4.2 Escuta sem indução, confidencialidade e risco de identificação indireta. | 4.3 Distinção entre as condições e os regimes de proteção de entrevistados em auditoria, participantes de pesquisa e denunciantes.
+- **P2·EVID 5**: 5 Uso responsável de inteligência artificial. | 5.1 Possibilidades de classificação, busca, síntese e apoio à análise; escolha entre IA, solução simples e revisão humana. | 5.2 Erros, conteúdo não sustentado, vieses e efeitos sobre grupos; proteção de informações, supervisão, rastreabilidade e contestação. | 5.3 Verificação de fontes e limites da automação de decisões que afetam direitos.
+- **P2·GOV 1**: 1 Governança e responsabilidades. | 1.1 Distinção entre direção, gestão, controle e prestação de contas; papéis, supervisão, transparência e responsabilização. Relação entre decisões organizacionais, finalidade
+- **P2·GOV 2**: 2 Riscos e controles essenciais. | 2.1 Risco, causa, consequência e controle; prevenção e detecção; proporcionalidade dos controles, segregação de funções e risco residual. | 2.2 Identificação de vulnerabilidades e de controles compatíveis com situações usuais, a partir dos dados fornecidos.
+- **P2·GOV 3**: 3 Integridade pública. | 3.1 Finalidades dos programas e medidas de integridade; compromisso da liderança, orientação ética, identificação de riscos, canais de relato e acompanhamento de ações. | 3.2 Prevenção de favorecimento, assédio e discriminação; ambiente seguro e não retaliação.
+- **P2·GOV 4**: 4 Integridade privada. | 4.1 Finalidades dos programas de integridade e sua relação com o poder público; compromisso da direção, registros confiáveis, controles, diligência proporcional sobre terceir | 4.2 Diferença entre existência documental, implementação e efetividade dos mecanismos.
+- **P2·GOV 5**: 5 Prevenção e melhoria institucional. | 5.1 Cultura, incentivos e confiança; diferenças de capacidade entre organizações; orientação e medidas proporcionais. | 5.2 Denúncias e resultados de controle como insumos de melhoria. | 5.3 Distinção entre baixa ocorrência e baixa detecção de problemas; leitura de evidências simples sobre funcionamento e resultados das medidas.
+- **P2·TRANSP 1**: 1 Acesso à informação. | 1.1 Transparência ativa e passiva; finalidade de pedidos e recursos; publicidade como regra e motivação das restrições. | 1.2 Distinção conceitual entre informação classificada, sigilos previstos em lei, informação pessoal e documento preparatório; acesso parcial e comunicação clara da decisão.
+- **P2·TRANSP 2**: 2 Transparência e proteção de dados. | 2.1 Compatibilização entre acesso à informação e proteção de dados pessoais; finalidade, necessidade e salvaguardas. | 2.2 Diferença entre dados pessoais e dados pessoais sensíveis; noções de tarjamento, anonimização e risco de reidentificação.
+- **P2·TRANSP 3**: 3 Ouvidoria e proteção das pessoas. | 3.1 Finalidades das manifestações; acolhimento, encaminhamento e resposta ao usuário; acessibilidade e linguagem cidadã. | 3.2 Proteção da identidade e prevenção de retaliação. | 3.3 Distinção entre receber um relato, apurar fatos e decidir sobre responsabilidade.
+- **P2·TRANSP 4**: 4 Participação e melhoria de serviços. | 4.1 Participação e controle social; conselhos, consultas e escuta de usuários; representatividade e barreiras à participação. | 4.2 Recorrências em manifestações como sinais de problemas. | 4.2.1 Subnotificação. | 4.3 Transparência ativa, dados abertos e Portal da Transparência como meios de acesso e controle; qualidade, atualização, cobertura e limites da informação. | 4.4 Papel da CGU na orientação e no monitoramento da transparência e do acesso à informação, em nível de finalidade institucional.
+- **P2·TRANSP 5**: 5 Integridade da informação e comunicação. | 5.1 Confiabilidade e contexto das fontes; distinção entre fato, alegação e interpretação. | 5.2 Desinformação e efeitos sobre políticas públicas; comunicação de incertezas e correção de erros. | 5.3 Liberdade de expressão e pluralismo. | 5.3.1 Distinção entre crítica legítima e desinformação.
+
+## ITENS
+### v1-7-01 | gab=C
+Em regra, o servidor público concursado, mesmo quando chegar ao nível máximo de sua carreira, não poderá ser transposto para outra carreira mediante procedimento interno.
+### v1-7-02 | gab=C
+Passo crucial em uma boa análise bioinformática é o controle de qualidade dos dados, que pode ser realizada pelo FASTQC. Tendo em vista que a genômica e a bioinformática são fundamentais para o desenvolvimento e a aplicação da medicina personalizada e de precisão, assim como no auxílio para a transferência de informações a médicos especialistas, julgue os itens a seguir, relativos a medicina de precisão.
+### v1-7-03 | gab=C
+Acompanhar e avaliar as entrevistas de gestores ou membros da organização são ações que possibilitam ao assessor de imprensa identificar vícios de fala ou eventuais erros de informação.
+### v1-7-04 | gab=C
+Suponha que, após fiscalização realizada pela ANM e conclusão de processo administrativo sancionatório, tenha sido constatado que determinada empresa de mineração realizava lavra ilegal, tendo sido apreendidos os equipamentos e as substâncias minerais dela provenientes. Nessa situação, é permitido à ANM, amparada em resolução aprovada por sua Diretoria Colegiada, celebrar termo de ajustamento de conduta com vistas a autorizar que a infratora promova a venda dos bens apreendid
+### v1-7-05 | gab=E
+Os servidores estáveis e os que estejam em estágio probatório fazem jus à gratificação por encargo de curso ou concurso caso participem, em caráter eventual, de comissão de concurso público para correção de provas discursivas. JUSTIFICATIVA - Errado. A gratificação por encargo de curso ou concurso só pode ser recebida pelos servidores que já tiverem adquirido a estabilidade no serviço público, nos termos do art. 100 da LC n.º 840/2011. O Conselho Administrativo da Região Inte
+### v1-7-06 | gab=C
+O gênero documental, ou seja, a configuração da informação no documento de acordo com o sistema de signos utilizado na comunicação do documento, inclui-se entre os requisitos mínimos exigidos para os documentos digitalizados por pessoas jurídicas de direito público interno. JUSTIFICATIVA - Certo. Os metadados mínimos exigidos para documentos digitalizados por pessoas jurídicas de direito público interno incluem o gênero, definido como “a configuração da informação no document
+### v1-7-07 | gab=C
+Suponha que, no sítio eletrônico de determinada instituição de fomento à pós-graduação, conste a seguinte frase entre as informações acerca da instituição: “Fomentar a pós-graduação no país a partir da concessão de bolsas e de recursos financeiros para estimular a formação de pessoal qualificado em nível superior e atender ao crescimento do Sistema Nacional de Pós-Graduação, promovendo-se, assim, a qualidade da pós-graduação brasileira.”. Nesse caso, é correto considerar tal 
+### v1-7-08 | gab=C [texto-base: Com base nessa situação, e considerando que o rotor do giroscópio seja um disco fino e que a aceleração da gravidade é 10 m/s2, julgue os itens seguintes.]
+O momento angular do rotor em relação ao seu eixo de rotação é de 0,1 kgm2/s. Uma usina hidrelétrica está operando com uma vazão de água constante que passa pelas turbinas para gerar energia. O sistema está em regime estacionário, e o volume de controle é definido em torno de uma turbina específica. A equação da quantidade de movimento para esse volume de controle inercial é utilizada para analisar as forças atuantes no sistema. A partir da situação hipotética apresentada, j
+### v1-7-09 | gab=E
+No modelo operacional triangular, um dos três elementos da SOA é o registro do serviço, que determina o comportamento do dono do serviço e é o responsável por fornecer toda a infraestrutura de acesso e responder a requisições internas e externas.
+### v1-7-10 | gab=C [texto-base: A respeito da escrituração fiscal digital (EFD), da nota fiscal eletrônica (NFe) e da utilização de sistemas gerenciadores de bancos de dados (SGBD) em auditori]
+Na auditoria da EFD e da NFe, o auditor fiscal deve verificar não apenas a consistência das informações declaradas, mas também a sua conformidade com as regras e a legislação tributária aplicáveis, garantindo que não haja omissões, subfaturamento ou outras irregularidades que possam resultar em sonegação fiscal.
+### v1-7-11 | gab=E
+O Código de Ética Profissional do Psicólogo permite que o psicólogo compartilhe informações confidenciais de cliente, mesmo sem o seu consentimento, sempre que considerar que a divulgação dessas informações pode beneficiar o tratamento e garantir um prognóstico mais preciso para o caso. JUSTIFICATIVA - Errado. O Código de Ética Profissional do Psicólogo (Resolução CFP n.º 010/2005, arts. 9.º e 10, parágrafo único) estabelece que o psicólogo deve garantir o sigilo profissional
+### v1-7-12 | gab=C
+O empregador é responsável por garantir que qualquer trabalho em altura só se inicie depois de adotadas as medidas de proteção, bem como por assegurar a suspensão das atividades se houver condição de risco cuja eliminação ou neutralização imediata não seja possível.
+### v1-7-13 | gab=E
+A ênfase dada ao enfoque técnico, e não ao comportamental, buscando-se um nível de operacionalização com os melhores resultados estatísticos, é uma importante característica da abordagem da administração conhecida como relações humanas.
+### v1-7-14 | gab=C [texto-base: Acerca do DevOps, julgue os itens seguintes. Os recursos de monitoramento são de responsabilidade privativa, nessa abordagem, da equipe de operações no processo]
+A inteligência artificial generativa é capaz de criar novos conteúdos e áudios.
+### v1-7-15 | gab=E
+A partir dos dados da tabela, infere-se que as grandezas carga e número de repetições são, tecnicamente falando, inversamente proporcionais.
+### v1-7-16 | gab=E
+Na gestão de riscos, o nível de risco refere-se à significância de um risco, demonstrada pela combinação das consequências e de seu impacto.
+### v1-7-17 | gab=E
+O controle externo é exercido mediante provocação, ao passo que o controle interno é exercido apenas por iniciativa própria.
+### v1-7-18 | gab=E
+Encarregado é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+### v1-7-19 | gab=C
+O incentivo à participação popular nos processos de elaboração da Lei de Diretrizes Orçamentárias e o acompanhamento em tempo real sobre a execução financeira e orçamentária em meios eletrônicos de acesso público estão previstos em lei complementar.
+### v1-7-20 | gab=C
+O desvio padrão amostral da variável resposta é igual a 2. Um órgão governamental está desenvolvendo um estudo para avaliar a opinião dos moradores da região Nordeste do Brasil sobre a mudança de sua qualidade de vida após a transposição do Rio São Francisco. Na coleta de dados da pesquisa, feita por meio de questionário, os moradores participantes devem responder apenas se estão satisfeitos ou insatisfeitos com a transposição. Com base nessa situação hipotética e nos conceit
+### v1-7-21 | gab=E
+Transportes, manutenção de estoques e processamento de pedidos são atividades básicas de logística que visam à otimização e à melhoria dos serviços, desconsiderando-se os custos envolvidos nas operações.
+### v1-7-22 | gab=E
+Em Big Data, a análise preditiva visa recomendar ações específicas para a identificação de situações em que os resultados da análise podem ser usados para melhorar a eficiência, a eficácia e a produtividade das empresas. JUSTIFICATIVA - Errado. O objetivo na coleta e manutenção de uma grande quantidade de dados é a geração de valor, por isso são realizadas análises com objetivos específicos.  Análise descritiva: nesse tipo de análise, os dados são usados para descrever o que
+### v1-7-23 | gab=C
+No trecho “podemos ter quase certeza de que o erro nos acompanhará para sempre” (terceiro parágrafo), o pronome “nos” funciona como complemento da forma verbal “acompanhará”. Information technology (IT) serves a critical role in state operations. State agencies and higher education institutions are increasingly reliant on the automated processing of information. It is important that the IT applications that process information have controls to ensure and protect the accuracy,
+### v1-7-24 | gab=C
+São princípios fundamentais dos serviços públicos de saneamento básico, entre outros, a universalização do acesso e a efetiva prestação do serviço, a transparência das ações, o controle social, a segurança, a qualidade, a regularidade, a continuidade e a integração dos serviços com a gestão eficiente dos recursos hídricos.
+### v1-7-25 | gab=C [texto-base: 89300201590493 No que diz respeito às normas programáticas, aos direitos políticos e ao mandado de segurança, julgue os itens que se seguem. Em casos de manifes]
+Caso um requerimento de acesso a informação seja indeferido, a decisão será passível de recurso, a ser dirigido à autoridade hierarquicamente superior ao agente que indeferiu o pedido, de acordo com a Lei de Acesso à Informação.
+### v1-7-26 | gab=E
+São necessários, pelo menos, cinco pedreiros para preparar 100 m3 de concreto estrutural em um prazo de cinquenta horas. ||356_PMJPCGM_002_01N601569|| Em auditoria interna para averiguar possíveis irregularidades na elaboração do orçamento para licitação de uma obra pública em determinado órgão público, foi observado, entre outros assuntos, que algumas fichas de composição de custos unitários de serviço apresentavam encargos sociais que incidiam sobre a mão de obra horista e 
+### v1-7-27 | gab=C
+Segundo a teoria das relações humanas, ao contrário do que concebia a teoria clássica, o ser humano não é somente um ser que se motiva pelo dinheiro, mas um ser dotado de sentimentos e percepções.
+### v1-7-28 | gab=C
+Classifica-se como extraorçamentária a despesa correspondente à devolução de valores de terceiros temporariamente em poder do ente público. ||332_TCEPE_003_01N149607|| No final do primeiro semestre de 2017, a companhia Alfa possuía R$ 20,4 milhões em recursos a sua disposição e patrimônio líquido de R$ 6,8 milhões. Em relação ao endividamento dessa empresa, um analista financeiro apresentou o gráfico precedente. A partir das informações e do gráfico apresentados, julgue os it
+### v1-7-29 | gab=E
+No âmbito da administração pública federal, a classificação de sigilo de informações no grau ultrassecreto é competência exclusiva do Presidente da República.
+### v1-7-30 | gab=E [texto-base: -- CONHECIMENTOS LEGISLAÇÃO FEDERAL E ESTADUAL DO CEARÁ ESPECÍFICA SOBRE A TEMÁTICA (LEIS, DECRETOS E DEMAIS NORMATIVAS DISPONIBILIZADAS NA INTERNET) Com base n]
+Segundo a LGPD, o tratamento de dados pessoais deve observar, entre outros, o princípio da finalidade, segundo o qual deve ser atestada a compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.
+### v1-7-31 | gab=C [texto-base: Em relação a extranet e intranet, bem como à arquitetura orientada a serviços, julgue os itens a seguir. WSDL é uma tecnologia que padroniza a descrição da inte]
+Uma extranet funciona como extensão de determinada intranet a computadores que estejam fora dos domínios físicos da intranet, podendo o acesso a esses computadores ocorrer por uma rede privada virtual, que cria uma conexão segura via tunelamento entre o dispositivo fora da intranet e a intranet propriamente dita.
+### v1-7-32 | gab=C
+É proibido negar acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais.
+### v1-7-33 | gab=C
+A adoção da contratação integrada do regime diferenciado de contratações públicas (RDC) será considerada irregular se, entre outros fatores, não houver a efetiva demonstração das vantagens técnicas e econômicas auferidas pela sua utilização, comparativamente com outros regimes de execução previstos em lei.
+### v1-7-34 | gab=C [texto-base: Com base na Resolução CNMP n.º 102/2013, a qual disciplina procedimentos relativos à contratação de soluções de tecnologia da informação no âmbito do Ministério]
+Plano de inserção é o documento que prevê as atividades de alocação de recursos necessários para a contratada iniciar o fornecimento da solução de tecnologia da informação.
+### v1-7-35 | gab=E
+Na administração pública do estado do Ceará, o planejamento passou a ser uma atividade básica a partir da promulgação da Constituição Estadual de 1967, tendo sido o primeiro plano formal o Plano de Ação Integrada de Governo (PLAIG), vigente entre 1967 e 1970.
+### v1-7-36 | gab=C
+Para fins de aplicação dos limites da dívida consolidada municipal, devem ser considerados os precatórios judiciais não pagos durante a execução do orçamento no qual houverem sido incluídos. ||251TCEPA_026_01N686090|| A sociedade empresária XYZ, que tem por objeto social o comércio de roupas e acessórios, encontra estabelecida em Belém – PA. No desenvolvimento de sua atividade empresarial, essa pessoa jurídica prestava as declarações exigidas pela legislação tributária relati
+### v1-7-37 | gab=E
+Um dos objetivos do processo de entrega contínua é garantir a continuidade da aplicação em produção, por meio de aumento do tempo entre os deploys, minimizando o seu impacto no que está funcionando.
+### v1-7-38 | gab=E
+Em organizações públicas, cujo desempenho depende da qualidade da prestação de serviços à sociedade, os objetivos e as metas das unidades de gestão de pessoas impactam diretamente na relação entre as organizações e os cidadãos.
+### v1-7-39 | gab=C [texto-base: A respeito de conceitos fundamentais da etnobotânica, da relação entre etnobotânica e sustentabilidade, de ferramentas de estudo e de fundamentos éticos da pesq]
+A gestão da área de comunicação e marketing deve entender a nova dinâmica do ambiente e se pautar na transparência de ações, na hipervelocidade da disseminação da informação e no empoderamento do público.
+### v1-7-40 | gab=E
+De acordo com o texto, a administração pública, representada, no contexto, pela Receita Federal, deve ter acesso irrestrito a dados financeiros dos contribuintes pessoas físicas e jurídicas, inclusive os dados relativos à origem e ao destino dos recursos.
+### v1-7-41 | gab=E [texto-base: Acerca dos sistemas agroflorestais, julgue os itens seguintes. O uso de sistemas agroflorestais pode causar diversos impactos na qualidade do solo, como: manute]
+Em sistemas convencionais de cultivo, apenas dois terços de nitrogênio e fósforo aplicados via solo são, de fato, absorvidos pelas plantas. Nesse contexto, a implantação de sistemas agroflorestais com espécies dotadas de radiculares profundos pode absorver o excesso de nutrientes lixiviados em campos de culturas agrícolas convencionais.
+### v1-7-42 | gab=E
+Na camada de aplicação do TCP/IP, é usado o protocolo SSH, que, por ser específico para garantir a segurança na troca de arquivos entre cliente-servidor de Internet, não faz uso da criptografia de 256 bites.
+### v1-7-43 | gab=E
+No gerenciamento de riscos, deve-se identificar os riscos relevantes aos objetivos das demonstrações contábeis, estimar a sua significância e decidir sobre as ações em resposta a esses riscos, independentemente de avaliar a probabilidade de sua ocorrência.
+### v1-7-44 | gab=E
+Sem prejuízo para o sentido original e para a correção gramatical do texto, a oração “apesar de ter trazido inúmeros benefícios” (último período do último parágrafo) poderia ser reescrita da seguinte forma: ainda que tragam inúmeros benefícios. Pedro requereu informações acerca de uma contratação direta promovida, com amparo em cláusula de inexigibilidade de licitação, por uma empresa pública estadual, a qual, entretanto, negou-lhe acesso a tais informações, sob o fundamento 
+### v1-7-45 | gab=E
+A fase fazer (do) do PDCA consiste na comparação de novos dados aos dados de linha de base para determinar se houve uma melhoria e se as medidas no enunciado do objetivo foram atingidas, podendo-se fazer uso de ferramentas como gráficos de Pareto, histogramas, gráficos de execução, gráficos de dispersão e gráficos de controle para auxiliar nessa análise.
+### v1-7-46 | gab=E
+Os efeitos negativos da falta de autonomia, da baixa complexidade das tarefas e da pressão por resultados na produtividade dos funcionários podem ser corrigidos com a introdução de ações assistencialistas de qualidade de vida no trabalho, tais como ginásticas laborais, treinamentos psicoeducativos e programas de apoio psicossocial.
+### v1-7-47 | gab=C
+DW representa um sistema que fornece armazenamento para dados que serão usados para análise, possibilitando embasar e agilizar tomadas de decisões.
+### v1-7-48 | gab=E
+A entrevista formal, mecanismo básico de coleta de informações do jornalista, existe desde o início do jornalismo.
+### v1-7-49 | gab=E
+Considere que, durante a fase de planejamento da contratação de um serviço de TI, determinada equipe tenha produzido o mapa de gerenciamento de riscos, com a identificação e a análise dos principais riscos encontrados, bem como o registro e o acompanhamento das ações de tratamento dos riscos. Nesse caso, o mapa de gerenciamento de risco deve ser recusado, uma vez que não é cabível a inserção do registro e do acompanhamento das ações de tratamento dos riscos na fase de planeja
+### v1-7-50 | gab=E
+Multa financeira e atuação em trabalhos sociais são as penas previstas para interrupção ou perturbação de serviço de informação de utilidade pública.
