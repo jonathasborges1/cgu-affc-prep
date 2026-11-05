@@ -1,0 +1,18 @@
+{
+  "metodo": "amostra aleatoria de itens nao recuperados pela triagem forte de P1",
+  "arquivo_amostra": "fila/calibracao-p1-complemento.jsonl",
+  "rotulos": {
+    "p1c-001": "OUTRO", "p1c-002": "OUTRO", "p1c-003": "OUTRO",
+    "p1c-004": "P1·ADM 5", "p1c-005": "OUTRO", "p1c-006": "OUTRO",
+    "p1c-007": "P1·ADM 4", "p1c-008": "OUTRO", "p1c-009": "P1·ADM 4",
+    "p1c-010": "OUTRO", "p1c-011": "P1·ADM 4", "p1c-012": "OUTRO",
+    "p1c-013": "P1·ADM 5", "p1c-014": "OUTRO", "p1c-015": "OUTRO",
+    "p1c-016": "OUTRO", "p1c-017": "P1·ADM 4", "p1c-018": "OUTRO",
+    "p1c-019": "OUTRO", "p1c-020": "OUTRO", "p1c-021": "OUTRO",
+    "p1c-022": "OUTRO", "p1c-023": "OUTRO", "p1c-024": "OUTRO",
+    "p1c-025": "P1·ADM 4", "p1c-026": "P1·ADM 2", "p1c-027": "OUTRO",
+    "p1c-028": "OUTRO", "p1c-029": "P1·ESTADO 9", "p1c-030": "OUTRO"
+  },
+  "resumo": {"n": 30, "p1": 9, "taxa_p1_nos_descartados": 0.3},
+  "nota": "Rotulagem independente do codigo previsto. A taxa e global; nao deve ser aplicada como correcao pontual por assunto."
+}

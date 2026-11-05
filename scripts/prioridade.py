@@ -32,6 +32,7 @@ def calibracoes():
     for cod,x in p.items():
         n=int(x.get('n') or 0); ac=int(x.get('no_assunto') or 0)
         out[cod]={'n':n,'acertos':ac,'precisao':ac/max(1,n),'precisao_ic90':x.get('ic90'),
+                  'pool':int(x.get('pool') or 0),'censo_completo':bool(x.get('pool') and n>=int(x.get('pool'))),
                   'participacao':x.get('part'),'participacao_ic90':x.get('part_ic'),
                   'ordem_validada':x.get('ordem'),'faixa_validada':x.get('faixa'),
                   'posicao_ic90':x.get('rank'),'posicao_firme':bool(x.get('firme')),
@@ -72,7 +73,7 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
     por_bloco={b:[] for b in SU.ITENS_PROVA}
     for original in r['linhas']:
         l=dict(original); c=cal.get(l['codigo']); l['calibracao']=c
-        l['calibrado']=bool(c and c['n']>=MIN_CALIBRACAO)
+        l['calibrado']=bool(c and (c['n']>=MIN_CALIBRACAO or c.get('censo_completo')))
         if c and c.get('participacao') is not None:
             l['share_bruto']=l['share']; l['share']=float(c['participacao'])
             ic=c.get('participacao_ic90') or [l['share'],l['share']]
@@ -81,20 +82,38 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
             l['fonte_estimativa']='triagem_ponderada_provisoria'
         l['itens_esperados']=l['share']*SU.ITENS_PROVA[l['prova']]
         l['esp']=l['itens_esperados']; l['esp_lo']=l['lo']*SU.ITENS_PROVA[l['prova']]; l['esp_hi']=l['hi']*SU.ITENS_PROVA[l['prova']]
-        l.update(_score(l,dom,p)); por_bloco[l['prova']].append(l)
+        l.update(_score(l,dom,p))
+        # Para decisao, usa o piso do IC90. A media continua exposta como incidencia.
+        piso=max(0.0,l['esp_lo'])*l['pontos_item']*(1-l['dominio'])*l['fator_discursiva']*l['fator_minimo']/l['horas_estimadas']
+        l['score_conservador']=piso
+        pc=(c or {}).get('posicao_ic90') or [l.get('ordem',0)]*3
+        l['posicao_ic90']=pc; l['ordem_exata_confiavel']=bool((c or {}).get('posicao_firme'))
+        l['posicao_exibida']=str((c or {}).get('ordem_validada')) if l['ordem_exata_confiavel'] else ('%s–%s'%(pc[0],pc[-1]))
+        por_bloco[l['prova']].append(l)
     linhas=[]
     for bloco,L in por_bloco.items():
-        L.sort(key=lambda x:(-x['score_estudo'],-x['share'],x['codigo'])); acum=0
+        def chave_ordem(x):
+            c=x.get('calibracao') or {}; firme=x.get('ordem_exata_confiavel') and (c.get('ordem_validada') or 999)<=3
+            return (0,c.get('ordem_validada')) if firme else (1,-x['score_conservador'],-x['score_estudo'],-x['share'],x['codigo'])
+        L.sort(key=chave_ordem); acum=0
         for i,l in enumerate(L,1):
             l['ordem_estudo']=i; l['ordem']=i
+            if l['prova']=='P1':
+                med=(l.get('calibracao') or {}).get('ordem_validada') or i
+                l['grupo_prioridade']='A essencial' if l['ordem_exata_confiavel'] and med<=3 else ('B alta' if med<=12 else ('C media' if med<=18 else 'D baixa'))
+            else: l['grupo_prioridade']='provisoria'
             l['faixa']='A' if acum<.5 else ('B' if acum<.8 else 'C'); acum+=l['share']
             if (l.get('calibracao') or {}).get('faixa_validada'):
                 l['faixa_incidencia']=l['calibracao']['faixa_validada']
             l['cor'],l['acao'],l['motivo']=_recomendar(l); linhas.append(l)
     r=dict(r); r['linhas']=linhas; total=len(linhas); ok=sum(1 for l in linhas if l['calibrado'])
     r['modelo']='prioridade-v2'; r['rotulo_estimativa']='incidencia estimada (nao probabilidade)'
+    rec=_json(BASE/'docs'/'rotulos-p1-descartados.json',{}).get('resumo') or {}
+    p1=[l for l in linhas if l['prova']=='P1']; p1ok=sum(l['calibrado'] for l in p1)
     r['calibracao']={'topicos_calibrados':ok,'topicos_total':total,'cobertura':ok/max(1,total),
-                     'recall_medido':False,'confiavel_para_ordem_global':False}
+                     'recall_medido':bool(rec),'amostra_descartados':rec,'confiavel_para_ordem_global':False,
+                     'P1':{'calibrados':p1ok,'total':len(p1),'ordem_por_faixas_confiavel':p1ok==len(p1) and bool(rec),
+                           'ordem_exata_confiavel':sum(l['ordem_exata_confiavel'] for l in p1)}}
     r['formula_score']='itens_esperados * pontos_item * (1-dominio) * fator_discursiva * fator_minimo / horas'
     return r
 

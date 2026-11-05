@@ -27,6 +27,8 @@ itens_esperados * pontos_por_item * (1 - dominio)
 
 Sem os gates 3 e 4, a ordem aparece como provisoria e a acao e `Calibrar triagem`. O sistema nao recomenda aula com base somente em casamento lexical.
 
+Em P1, um topico com menos de 15 rotulos tambem e considerado calibrado quando todos os candidatos do seu universo foram lidos (censo completo). A decisao usa o limite inferior do IC90, nao apenas a media. Posicao exata so e mostrada para os tres assuntos cuja posicao ficou firme; os demais aparecem como intervalo e grupo de prioridade.
+
 ## Peso das provas
 
 As provas nao contam mais igualmente. A massa e ponderada por meia-vida de quatro anos e pela compatibilidade calculada na descoberta, limitada para nao dominar o conjunto. Esses parametros sao heuristicas transparentes e so devem ser ajustados depois de backtests suficientes.

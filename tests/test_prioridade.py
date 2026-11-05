@@ -28,6 +28,16 @@ class PrioridadeTests(unittest.TestCase):
         self.assertFalse(l['calibrado'])
         self.assertEqual(l['acao'],'Calibrar triagem')
 
+    def test_censo_pequeno_conta_como_calibrado(self):
+        l=self.linha('P1·ETICA 1')
+        self.assertTrue(l['calibrado'])
+        self.assertTrue(l['calibracao']['censo_completo'])
+
+    def test_p1_tem_ordem_conservadora_por_faixas(self):
+        self.assertTrue(self.resultado['calibracao']['P1']['ordem_por_faixas_confiavel'])
+        self.assertEqual(self.resultado['calibracao']['P1']['calibrados'],24)
+        self.assertEqual(self.resultado['calibracao']['P1']['ordem_exata_confiavel'],3)
+
     def test_p3_vale_dois_pontos(self):
         base={'prova':'P1','codigo':'x','itens_esperados':1}
         p1=P._score(base,{},{}); base['prova']='P3'; p3=P._score(base,{}, {})
