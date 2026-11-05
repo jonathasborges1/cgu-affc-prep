@@ -17,21 +17,35 @@
     },
     "P2": {
       "amostra": 679,
-      "rotulados": 0,
+      "rotulados": 50,
       "assuntos": 25,
       "assuntos_completos": 0,
       "pacotes": 14,
       "confiavel": false,
-      "motivo": "amostra cega gerada, aguardando classificacao independente e backtest"
+      "motivo": "classificacao cega em andamento; prioridade permanece bloqueada ate todos os gates passarem",
+      "progresso": 0.07363770250368189,
+      "precisao_triagem_parcial": 0.16,
+      "gates": {
+        "amostra_completa": false,
+        "sem_duplicados": true,
+        "precisao_minima_0_85": false,
+        "tres_folds_temporais": false,
+        "recall_top5_minimo_0_75": false
+      },
+      "backtest_temporal": {
+        "folds": [],
+        "recall_top5": null,
+        "itens_teste": 0
+      }
     },
     "P3": {
-      "amostra": 544,
-      "rotulados": 0,
-      "assuntos": 19,
+      "amostra": 221,
+      "rotulados": 15,
+      "assuntos": 16,
       "assuntos_completos": 0,
-      "pacotes": 11,
+      "pacotes": 15,
       "confiavel": false,
-      "motivo": "amostra cega gerada, aguardando classificacao independente e backtest"
+      "motivo": "classificacao cega em andamento; prioridade permanece bloqueada ate todos os gates passarem"
     }
   }
 }

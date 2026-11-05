@@ -1,0 +1,50 @@
+{"id":"v1-1-01","codigo":"P2·EVID 3","rel":"alta","motivo":"revocação, falsos positivos e desempenho de classificação"}
+{"id":"v1-1-02","codigo":"P2·AUD 5","rel":"alta","motivo":"denúncia como insumo para auditoria e inspeção"}
+{"id":"v1-1-03","codigo":"OUTRO","rel":"fora","motivo":"estrutura de dados espaciais e SIG"}
+{"id":"v1-1-04","codigo":"OUTRO","rel":"fora","motivo":"política contábil e demonstrações contábeis"}
+{"id":"v1-1-05","codigo":"P2·TRANSP 4","rel":"baixa","motivo":"inclusão digital e participação social tangencial"}
+{"id":"v1-1-06","codigo":"P2·EVID 5","rel":"alta","motivo":"avaliação de modelo de classificação e IA generativa"}
+{"id":"v1-1-07","codigo":"P2·TRANSP 1","rel":"alta","motivo":"divulgação de informação pessoal na Lei de Acesso à Informação"}
+{"id":"v1-1-08","codigo":"OUTRO","rel":"fora","motivo":"controle de privacidade no NIST RMF e segurança de sistemas"}
+{"id":"v1-1-09","codigo":"OUTRO","rel":"fora","motivo":"fisiologia vegetal e agronomia"}
+{"id":"v1-1-10","codigo":"OUTRO","rel":"fora","motivo":"procedimento recursal em licitação"}
+{"id":"v1-1-11","codigo":"P2·GOV 1","rel":"media","motivo":"transparência e prestação de contas de empresa estatal"}
+{"id":"v1-1-12","codigo":"OUTRO","rel":"fora","motivo":"uso do Excel"}
+{"id":"v1-1-13","codigo":"OUTRO","rel":"fora","motivo":"programa estadual para aposentados"}
+{"id":"v1-1-14","codigo":"P2·GOV 1","rel":"alta","motivo":"princípios de governança, transparência e accountability"}
+{"id":"v1-1-15","codigo":"P2·AUD 4","rel":"baixa","motivo":"prestação de contas e alcance de resultados, apenas tangencial"}
+{"id":"v1-1-16","codigo":"P2·EVID 2","rel":"alta","motivo":"medidas descritivas, estimação e qualidade da inferência"}
+{"id":"v1-1-17","codigo":"OUTRO","rel":"fora","motivo":"controle de praga agrícola"}
+{"id":"v1-1-18","codigo":"P2·TRANSP 3","rel":"alta","motivo":"requisitos para manifestação perante ouvidoria"}
+{"id":"v1-1-19","codigo":"P2·GOV 3","rel":"alta","motivo":"conflito de interesses e fraude em programa de integridade"}
+{"id":"v1-1-20","codigo":"OUTRO","rel":"fora","motivo":"direitos fundamentais e tratados internacionais"}
+{"id":"v1-1-21","codigo":"OUTRO","rel":"fora","motivo":"interpretação de texto literário"}
+{"id":"v1-1-22","codigo":"OUTRO","rel":"fora","motivo":"gerenciamento de projetos e papéis funcionais"}
+{"id":"v1-1-23","codigo":"OUTRO","rel":"fora","motivo":"propriedade industrial e marcas"}
+{"id":"v1-1-24","codigo":"OUTRO","rel":"fora","motivo":"direito de greve de servidor público"}
+{"id":"v1-1-25","codigo":"P2·TRANSP 4","rel":"alta","motivo":"transparência ativa da execução orçamentária e financeira"}
+{"id":"v1-1-26","codigo":"OUTRO","rel":"fora","motivo":"grupos de processos de gerenciamento de projetos"}
+{"id":"v1-1-27","codigo":"OUTRO","rel":"fora","motivo":"arquitetura de telecomunicações móveis"}
+{"id":"v1-1-28","codigo":"OUTRO","rel":"fora","motivo":"matriz SWOT e vantagem competitiva"}
+{"id":"v1-1-29","codigo":"OUTRO","rel":"fora","motivo":"formato JSON"}
+{"id":"v1-1-30","codigo":"OUTRO","rel":"fora","motivo":"planejamento de tecnologia da informação"}
+{"id":"v1-1-31","codigo":"P2·TRANSP 4","rel":"alta","motivo":"dados abertos e interoperabilidade da INDA"}
+{"id":"v1-1-32","codigo":"P2·EVID 5","rel":"baixa","motivo":"apoio computacional à decisão, tangencial ao uso responsável de automação"}
+{"id":"v1-1-33","codigo":"OUTRO","rel":"fora","motivo":"fontes do direito e desuso da lei"}
+{"id":"v1-1-34","codigo":"P2·AUD 4","rel":"baixa","motivo":"prestação de contas a tribunal de contas, tangencial ao acompanhamento"}
+{"id":"v1-1-35","codigo":"P2·DIR 3","rel":"alta","motivo":"conceito e finalidade do controle externo"}
+{"id":"v1-1-36","codigo":"OUTRO","rel":"fora","motivo":"gestão de educação a distância"}
+{"id":"v1-1-37","codigo":"P2·AUD 3","rel":"alta","motivo":"distinção entre achado, evidência e conclusão de auditoria"}
+{"id":"v1-1-38","codigo":"OUTRO","rel":"fora","motivo":"segurança cibernética e BAS"}
+{"id":"v1-1-39","codigo":"P2·TRANSP 4","rel":"alta","motivo":"participação do usuário e controle social"}
+{"id":"v1-1-40","codigo":"OUTRO","rel":"fora","motivo":"competências do Conselho Nacional de Justiça"}
+{"id":"v1-1-41","codigo":"OUTRO","rel":"fora","motivo":"contratação de solução de tecnologia da informação"}
+{"id":"v1-1-42","codigo":"OUTRO","rel":"fora","motivo":"design e diagramação de periódicos"}
+{"id":"v1-1-43","codigo":"OUTRO","rel":"fora","motivo":"redes e roteamento IP"}
+{"id":"v1-1-44","codigo":"OUTRO","rel":"fora","motivo":"ciclo orçamentário e plano plurianual"}
+{"id":"v1-1-45","codigo":"P2·DIR 3","rel":"media","motivo":"controle interno e externo durante o ciclo orçamentário"}
+{"id":"v1-1-46","codigo":"P2·GOV 1","rel":"alta","motivo":"distinção entre governança e gestão"}
+{"id":"v1-1-47","codigo":"P2·GOV 2","rel":"alta","motivo":"conceito de risco residual após tratamento"}
+{"id":"v1-1-48","codigo":"OUTRO","rel":"fora","motivo":"conceito de arbitragem"}
+{"id":"v1-1-49","codigo":"P2·DIR 1","rel":"baixa","motivo":"limites do controle judicial de atos internos"}
+{"id":"v1-1-50","codigo":"OUTRO","rel":"fora","motivo":"matriz RACI em gerenciamento de projetos"}
