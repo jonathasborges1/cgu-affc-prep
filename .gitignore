@@ -10,3 +10,4 @@ progresso/
 *.db-wal
 *.part
 fila/revisao-p1.jsonl
+_to_delete/

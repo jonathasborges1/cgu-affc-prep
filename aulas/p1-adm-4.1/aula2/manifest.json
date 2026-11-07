@@ -1,0 +1,59 @@
+{
+ "tema": "P1·ADM 4.1",
+ "aula": 2,
+ "versao": 1,
+ "titulo": "Aula 2 – Sistema de planejamento, arcabouço fiscal, classificação funcional, despesa e dívida (P1·ADM 4.1)",
+ "origem": "mini-aula",
+ "data": "2026-11-05",
+ "nucleos": [
+  "n-sistema-planejamento-orcamento",
+  "n-arcabouco-fiscal",
+  "n-classificacao-funcional",
+  "n-despesa-conceitos",
+  "n-divida-publica-fundada"
+ ],
+ "ensina": [
+  "n-sistema-planejamento-orcamento",
+  "n-arcabouco-fiscal",
+  "n-classificacao-funcional",
+  "n-despesa-conceitos",
+  "n-divida-publica-fundada"
+ ],
+ "estado": {
+  "n-sistema-planejamento-orcamento": [
+   "tce-ac-2024-c14-administracao#99|C",
+   "tce-sc-auditor-2021-c01-administracao#85|E"
+  ],
+  "n-arcabouco-fiscal": [
+   "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5|E"
+  ],
+  "n-classificacao-funcional": [
+   "codevasf-2024-c01-administracao#101|C"
+  ],
+  "n-despesa-conceitos": [
+   "mp-to-servidor-2024-c01-administracao-banco-dados#111|E"
+  ],
+  "n-divida-publica-fundada": [
+   "tce-sc-auditor-2021-c01-administracao#97|C"
+  ]
+ },
+ "hash": "5e8f3b72d7d7",
+ "cadernos": {
+  "1": [
+   "tce-ac-2024-c14-administracao#99",
+   "tce-sc-auditor-2021-c01-administracao#85",
+   "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
+   "codevasf-2024-c01-administracao#101",
+   "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+   "tce-sc-auditor-2021-c01-administracao#97"
+  ]
+ },
+ "caderno": [
+  "tce-ac-2024-c14-administracao#99",
+  "tce-sc-auditor-2021-c01-administracao#85",
+  "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
+  "codevasf-2024-c01-administracao#101",
+  "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+  "tce-sc-auditor-2021-c01-administracao#97"
+ ]
+}

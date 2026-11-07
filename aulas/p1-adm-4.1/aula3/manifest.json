@@ -1,0 +1,56 @@
+{
+ "tema": "P1·ADM 4.1",
+ "aula": 3,
+ "versao": 1,
+ "titulo": "Aula 3 – Funções do Estado, modelos e princípios do orçamento, regime da receita (P1·ADM 4.1)",
+ "origem": "mini-aula",
+ "data": "2026-11-05",
+ "nucleos": [
+  "n-funcoes-estado-musgrave",
+  "n-orcamento-base-zero",
+  "n-orcamento-tradicional",
+  "n-principios-orcamentarios",
+  "n-receita-estagios-regime"
+ ],
+ "ensina": [
+  "n-funcoes-estado-musgrave",
+  "n-orcamento-base-zero",
+  "n-orcamento-tradicional",
+  "n-principios-orcamentarios",
+  "n-receita-estagios-regime"
+ ],
+ "estado": {
+  "n-funcoes-estado-musgrave": [
+   "inpi-2023-cc1#78|E"
+  ],
+  "n-orcamento-base-zero": [
+   "tce-ac-2024-c14-administracao#91|C"
+  ],
+  "n-orcamento-tradicional": [
+   "tce-ac-2024-c14-administracao#93|C"
+  ],
+  "n-principios-orcamentarios": [
+   "tce-sc-auditor-2021-c01-administracao#81|E"
+  ],
+  "n-receita-estagios-regime": [
+   "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31|E"
+  ]
+ },
+ "hash": "fe328a9d9e3b",
+ "cadernos": {
+  "1": [
+   "tce-ac-2024-c14-administracao#91",
+   "tce-ac-2024-c14-administracao#93",
+   "inpi-2023-cc1#78",
+   "tce-sc-auditor-2021-c01-administracao#81",
+   "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31"
+  ]
+ },
+ "caderno": [
+  "tce-ac-2024-c14-administracao#91",
+  "tce-ac-2024-c14-administracao#93",
+  "inpi-2023-cc1#78",
+  "tce-sc-auditor-2021-c01-administracao#81",
+  "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31"
+ ]
+}

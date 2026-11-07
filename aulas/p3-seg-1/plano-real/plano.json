@@ -1,0 +1,1641 @@
+{
+ "tema": "P3·SEG 1",
+ "n_itens": 43,
+ "n_nucleos": 34,
+ "alvo_amostra": 12,
+ "fracao": 0.28,
+ "teto": 6,
+ "max_nucleos": 5,
+ "simulacao": false,
+ "aulas": [
+  {
+   "k": 1,
+   "nucleos": [
+    {
+     "id": "n-csrf-acao-indesejada-sessao",
+     "texto": "CSRF induz o navegador de um usuário autenticado a enviar requisição que executa ação indesejada na aplicação alvo usando suas credenciais.",
+     "edital": "P3·SEG 1.1",
+     "massa": 3,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c08-planejamento-ti#89"
+     ],
+     "reserva": [
+      "tce-ac-2024-c20-tecnico-informatica#90",
+      "tce-ac-2024-c10-seguranca-informacao#64"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-injecao-ldap",
+     "texto": "LDAP injection manipula consultas LDAP inserindo código malicioso na entrada, que passa a ser interpretado de forma diferente do esperado.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c08-planejamento-ti#87"
+     ],
+     "reserva": [
+      "tce-ac-2024-c20-tecnico-informatica#93"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-xss-alvo-usuario-navegador",
+     "texto": "XSS injeta scripts em páginas web que são executados no navegador de outros usuários; não explora execução de consultas em banco de dados (isso é SQL injection).",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#94"
+     ],
+     "reserva": [
+      "tce-ac-2024-c08-planejamento-ti#88"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-ddos-mitigacao-especifica",
+     "texto": "Mitigação eficiente de DDoS exige soluções específicas (anti-DDoS, CDN, filtragem upstream); firewall de borda tradicional não basta contra ataques de camada de aplicação.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "susep-2025-c04-tecnologia-informacao-ciencia-dados#81"
+     ],
+     "reserva": [
+      "tce-ac-2024-c08-planejamento-ti#93"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-sqli-entrada-sem-validacao",
+     "texto": "SQL injection explora formulários e entradas que não validam ou sanitizam dados, permitindo enviar comandos maliciosos ao banco.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#92"
+     ],
+     "reserva": [
+      "tc-df-auditor-2024-c03-auditor-controle-externo-area#125"
+     ],
+     "saturou": false
+    }
+   ],
+   "massa": 11,
+   "amostra": 5,
+   "reserva": 6,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#81",
+      "prova_id": "susep-2025-c04-tecnologia-informacao-ciencia-dados",
+      "item": "81",
+      "ref": "Cebraspe SUSEP_25 2025 · CARGO 4: ANALISTA TÉCNICO – ÁREA: TECNOLOGIA DA INFORMAÇÃO E CIÊNCIA DE DADOS ",
+      "url": "https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/065_SUSEP_004_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/Gab_Definitivo_065_SUSEP_004_01.pdf",
+      "ano": 2025,
+      "enunciado": "Por concepção, firewalls perimetrais convencionais são suficientes para bloquear ataques DDoS baseados em amplificação DNS, desempenhando autonomamente o conjunto de funções necessárias à mitigação desse tipo de ataque em redes distribuídas, de forma equivalente às soluções especializadas.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Afirma que firewalls convencionais bastam contra DDoS por amplificação DNS",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ddos-mitigacao-especifica",
+      "nucleo_texto": "Mitigação eficiente de DDoS exige soluções específicas (anti-DDoS, CDN, filtragem upstream); firewall de borda tradicional não basta contra ataques de camada de aplicação."
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#64",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "64",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Cross-site request forgery é um vetor de ataque que faz que o navegador web execute uma ação indesejada na aplicação web alvo onde a vítima está logada.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Definição correta de CSRF.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-csrf-acao-indesejada-sessao",
+      "nucleo_texto": "CSRF induz o navegador de um usuário autenticado a enviar requisição que executa ação indesejada na aplicação alvo usando suas credenciais."
+     },
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#93",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "93",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "A injeção de LDAP é um vetor de ciberataque sofisticado que visa às vulnerabilidades da camada de aplicação dos sistemas que utilizam o protocolo LDAP. Particularmente, aplicações Web com backends LDAP estão imunes a esse tipo de ataque, e os riscos associados à injeção de LDAP se limitam à exposição de dados.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "INVERSAO"
+      ],
+      "padrao": "Afirma imunidade de aplicações web com backend LDAP e limita risco à exposição de dados.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-injecao-ldap",
+      "nucleo_texto": "LDAP injection manipula consultas LDAP inserindo código malicioso na entrada, que passa a ser interpretado de forma diferente do esperado."
+     },
+     {
+      "k": "tc-df-auditor-2024-c03-auditor-controle-externo-area#125",
+      "prova_id": "tc-df-auditor-2024-c03-auditor-controle-externo-area",
+      "item": "125",
+      "ref": "Cebraspe TC_DF_24_AUDITOR 2024 · ESPECIALIDADE 3: AUDITOR DE CONTROLE EXTERNO – ÁREA ESPECIALIZADA – ESPECIALIDADE TECNOLOGIA DA INFORMAÇÃO – ORIENTAÇÃO MICROINFORMÁTICA E INFRAESTRUTURA DE TI",
+      "url": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/012_TCDF_AUDITOR_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/GAB_DEFINITIVO_012_TCDF_AUDITOR_003_01.PDF",
+      "ano": 2024,
+      "enunciado": "Um ataque do tipo SQL injection requer a existência de uma falha na aplicação relacionada com a sanitização de parâmetros, de modo que um hacker possa enviar comandos SQL para o banco de dados por meio da aplicação exposta. JUSTIFICATIVA - Certo. O ataque SQL injection é um tipo de ataque por meio do qual o atacante envia comandos SQL para a aplicação e esta não faz a sanitização de parâmetros, sendo esse código enviado para o banco de dados como se fosse legítimo.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Exige falha de sanitização de parâmetros; item correto.",
+      "edital": "P3·SEG 1.2",
+      "nucleo": "n-sqli-entrada-sem-validacao",
+      "nucleo_texto": "SQL injection explora formulários e entradas que não validam ou sanitizam dados, permitindo enviar comandos maliciosos ao banco."
+     }
+    ]
+   }
+  },
+  {
+   "k": 2,
+   "nucleos": [
+    {
+     "id": "n-dos-ddos-distribuido",
+     "texto": "DDoS usa múltiplas origens distribuídas para tornar o serviço indisponível; antivírus não é suficiente para preveni-lo.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tc-df-auditor-2024-c03-auditor-controle-externo-area#126"
+     ],
+     "reserva": [
+      "tce-ac-2024-c20-tecnico-informatica#113"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-ataques-injecao",
+     "texto": "SQL injection, LDAP injection e XSS são ataques de injeção de código.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c10-seguranca-informacao#63"
+     ],
+     "reserva": [
+      "tce-ac-2024-c10-seguranca-informacao#66"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-ddos-afeta-disponibilidade",
+     "texto": "A principal consequência de um ataque DDoS é a perda de disponibilidade do serviço, não de integridade dos dados.",
+     "edital": "P3·SEG 1.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c10-seguranca-informacao#71"
+     ],
+     "reserva": [
+      "tce-ac-2024-c10-seguranca-informacao#70"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-owasp-quebra-controle-acesso",
+     "texto": "Quebra de controle de acesso é falha de restrições sobre o que usuários autenticados podem fazer; o ataque que analisa entrada XML é o XXE",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c11-sistemas-informacao#105"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-owasp-top10-vs-samm",
+     "texto": "O OWASP Top 10 descreve os riscos mais críticos em aplicações web; o OWASP SAMM é um modelo de maturidade de garantia de software.",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#99"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 8,
+   "amostra": 5,
+   "reserva": 3,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "tc-df-auditor-2024-c03-auditor-controle-externo-area#126",
+      "prova_id": "tc-df-auditor-2024-c03-auditor-controle-externo-area",
+      "item": "126",
+      "ref": "Cebraspe TC_DF_24_AUDITOR 2024 · ESPECIALIDADE 3: AUDITOR DE CONTROLE EXTERNO – ÁREA ESPECIALIZADA – ESPECIALIDADE TECNOLOGIA DA INFORMAÇÃO – ORIENTAÇÃO MICROINFORMÁTICA E INFRAESTRUTURA DE TI",
+      "url": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/012_TCDF_AUDITOR_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/GAB_DEFINITIVO_012_TCDF_AUDITOR_003_01.PDF",
+      "ano": 2024,
+      "enunciado": "Em um ataque DDoS, que é normalmente volumétrico e torna os sistemas indisponíveis para usuários legítimos, pode haver vários IPs de origem e um ou múltiplos endereços IPs de destino na rede do alvo. JUSTIFICATIVA - Certo. Um ataque DDoS pode ter vários IPs de origem direcionados a um ou vários IPs de destino. Normalmente, é um ataque volumétrico, que gera a indisponibilidade do sistema atacado.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Característica do DDoS: vários IPs de origem e um ou mais destinos.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-dos-ddos-distribuido",
+      "nucleo_texto": "DDoS usa múltiplas origens distribuídas para tornar o serviço indisponível; antivírus não é suficiente para preveni-lo."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#63",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "63",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "SQL injection, LDAP injection e XSS (cross‐site scripting) são ataques do tipo injeção de código que podem ser explorados por hackers ou criminosos.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Classifica corretamente os três como injeção.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ataques-injecao",
+      "nucleo_texto": "SQL injection, LDAP injection e XSS são ataques de injeção de código."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#71",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "71",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Infere-se da situação que o ataque DDoS afeta a disponibilidade do serviço web da empresa de e-commerce.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "DDoS afeta disponibilidade; item correto.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ddos-afeta-disponibilidade",
+      "nucleo_texto": "A principal consequência de um ataque DDoS é a perda de disponibilidade do serviço, não de integridade dos dados."
+     }
+    ],
+    "B1": [
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#99",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "99",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "O OWASP SAMM, documento de conscientização padrão para desenvolvedores voltado à segurança de aplicações web, descreve os riscos de segurança mais críticos e aponta as principais medidas a serem adotadas pelos desenvolvedores para mitigar esses riscos.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca OWASP Top 10 por SAMM.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-owasp-top10-vs-samm",
+      "nucleo_texto": "O OWASP Top 10 descreve os riscos mais críticos em aplicações web; o OWASP SAMM é um modelo de maturidade de garantia de software."
+     }
+    ],
+    "C1": [
+     {
+      "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#81",
+      "prova_id": "susep-2025-c04-tecnologia-informacao-ciencia-dados",
+      "item": "81",
+      "ref": "Cebraspe SUSEP_25 2025 · CARGO 4: ANALISTA TÉCNICO – ÁREA: TECNOLOGIA DA INFORMAÇÃO E CIÊNCIA DE DADOS ",
+      "url": "https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/065_SUSEP_004_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/SUSEP_25/arquivos/Gab_Definitivo_065_SUSEP_004_01.pdf",
+      "ano": 2025,
+      "enunciado": "Por concepção, firewalls perimetrais convencionais são suficientes para bloquear ataques DDoS baseados em amplificação DNS, desempenhando autonomamente o conjunto de funções necessárias à mitigação desse tipo de ataque em redes distribuídas, de forma equivalente às soluções especializadas.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Afirma que firewalls convencionais bastam contra DDoS por amplificação DNS",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ddos-mitigacao-especifica",
+      "nucleo_texto": "Mitigação eficiente de DDoS exige soluções específicas (anti-DDoS, CDN, filtragem upstream); firewall de borda tradicional não basta contra ataques de camada de aplicação."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#66",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "66",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "O SQL injection e o cross‐site scripting utilizam a linguagem JavaScript.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "Generaliza JavaScript para SQL injection.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ataques-injecao",
+      "nucleo_texto": "SQL injection, LDAP injection e XSS são ataques de injeção de código."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#70",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "70",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "A principal consequência de um ataque DDoS é a perda de integralidade dos dados armazenados no servidor atacado.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca disponibilidade por integridade.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ddos-afeta-disponibilidade",
+      "nucleo_texto": "A principal consequência de um ataque DDoS é a perda de disponibilidade do serviço, não de integridade dos dados."
+     }
+    ]
+   }
+  },
+  {
+   "k": 3,
+   "nucleos": [
+    {
+     "id": "n-xss-refletido",
+     "texto": "No XSS refletido a carga útil vai na requisição, é refletida na resposta HTTP e executada no navegador da vítima, normalmente induzida por engenharia social.",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#96"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dns-cache-poisoning-ddos",
+     "texto": "Envenenamento de cache DNS pode redirecionar tráfego e ser usado em ataques associados a DDoS.",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c10-seguranca-informacao#69"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-phishing-engenharia-social",
+     "texto": "Phishing é engenharia social que induz a vítima a fornecer dados e pode comprometer confidencialidade, integridade e autenticidade, não apenas confidencialidade.",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c10-seguranca-informacao#73"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-xss-tipos-refletido-armazenado-dom",
+     "texto": "XSS tem variações (refletido, armazenado e baseado em DOM) e não se limita a formulários de cadastro",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#190"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-ssrf-sem-credenciais-admin",
+     "texto": "SSRF induz o servidor vulnerável a fazer requisições a destinos escolhidos pelo atacante, sem exigir credenciais administrativas",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "trf6-2024-c03-apoio-especializado-especialidade-an#116"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#96",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "96",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "No cross-site scripting refletido (não persistente), a carga útil do invasor deve fazer parte da solicitação enviada ao servidor da Web. Em seguida, é refletida de volta, de maneira que a resposta HTTP inclua a carga útil da solicitação HTTP. Os invasores usam técnicas de engenharia social para induzir a vítima a fazer uma solicitação ao servidor. A carga útil XSS refletida é, então, executada no navegador do usuário.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Descrição correta do XSS refletido.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-refletido",
+      "nucleo_texto": "No XSS refletido a carga útil vai na requisição, é refletida na resposta HTTP e executada no navegador da vítima, normalmente induzida por engenharia social."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#69",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "69",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Envenenamento de cache DNS pode ser uma técnica associada a ataques DDoS.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Relação entre envenenamento de DNS e DDoS.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-dns-cache-poisoning-ddos",
+      "nucleo_texto": "Envenenamento de cache DNS pode redirecionar tráfego e ser usado em ataques associados a DDoS."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#73",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "73",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Phishing é um ataque que compromete confidencialidade das informações. apenas a",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Palavra 'apenas' restringe o impacto do phishing.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-phishing-engenharia-social",
+      "nucleo_texto": "Phishing é engenharia social que induz a vítima a fornecer dados e pode comprometer confidencialidade, integridade e autenticidade, não apenas confidencialidade."
+     }
+    ],
+    "B1": [
+     {
+      "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#190",
+      "prova_id": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao",
+      "item": "190",
+      "ref": "Cebraspe TCE RJ 21 ANALISTA 2021 · ANALISTA DE CONTROLE EXTERNO – ÁREA ORGANIZACIONAL – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_21_ANALISTA/arquivos/676_TCERJ_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_21_ANALISTA/arquivos/GAB_DEFINITIVO_676_TCERJ_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "A característica principal do ataque cross-site scripting (XSS) é que ele é realizado somente de um modo: por meio do envio de códigos JavaScript pelos formulários de cadastro de uma aplicação web com a finalidade de manipular as informações no navegador do usuário.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Restringe XSS a um único modo ('somente')",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-tipos-refletido-armazenado-dom",
+      "nucleo_texto": "XSS tem variações (refletido, armazenado e baseado em DOM) e não se limita a formulários de cadastro"
+     },
+     {
+      "k": "trf6-2024-c03-apoio-especializado-especialidade-an#116",
+      "prova_id": "trf6-2024-c03-apoio-especializado-especialidade-an",
+      "item": "116",
+      "ref": "Cebraspe TRF6 24 2024 · Cargo 3: Analista Judiciário – Área: Apoio Especializado – Especialidade: Análise de Sistemas de Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/034_TRF6_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/GAB_DEFINITIVO_034_TRF6_003_01.PDF",
+      "ano": 2024,
+      "enunciado": "O SSRF (server-side request forgery) só pode ser explorado se o atacante tiver credenciais administrativas no servidor de destino, pois ele depende de permissões elevadas para realizar requisições internas e externas.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "CAUSA_CONSEQUENCIA"
+      ],
+      "padrao": "Exige credencial administrativa para SSRF, o que não é necessário",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ssrf-sem-credenciais-admin",
+      "nucleo_texto": "SSRF induz o servidor vulnerável a fazer requisições a destinos escolhidos pelo atacante, sem exigir credenciais administrativas"
+     }
+    ],
+    "C1": [
+     {
+      "k": "tc-df-auditor-2024-c03-auditor-controle-externo-area#126",
+      "prova_id": "tc-df-auditor-2024-c03-auditor-controle-externo-area",
+      "item": "126",
+      "ref": "Cebraspe TC_DF_24_AUDITOR 2024 · ESPECIALIDADE 3: AUDITOR DE CONTROLE EXTERNO – ÁREA ESPECIALIZADA – ESPECIALIDADE TECNOLOGIA DA INFORMAÇÃO – ORIENTAÇÃO MICROINFORMÁTICA E INFRAESTRUTURA DE TI",
+      "url": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/012_TCDF_AUDITOR_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TC_DF_24_AUDITOR/arquivos/GAB_DEFINITIVO_012_TCDF_AUDITOR_003_01.PDF",
+      "ano": 2024,
+      "enunciado": "Em um ataque DDoS, que é normalmente volumétrico e torna os sistemas indisponíveis para usuários legítimos, pode haver vários IPs de origem e um ou múltiplos endereços IPs de destino na rede do alvo. JUSTIFICATIVA - Certo. Um ataque DDoS pode ter vários IPs de origem direcionados a um ou vários IPs de destino. Normalmente, é um ataque volumétrico, que gera a indisponibilidade do sistema atacado.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Característica do DDoS: vários IPs de origem e um ou mais destinos.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-dos-ddos-distribuido",
+      "nucleo_texto": "DDoS usa múltiplas origens distribuídas para tornar o serviço indisponível; antivírus não é suficiente para preveni-lo."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#63",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "63",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "SQL injection, LDAP injection e XSS (cross‐site scripting) são ataques do tipo injeção de código que podem ser explorados por hackers ou criminosos.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Classifica corretamente os três como injeção.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ataques-injecao",
+      "nucleo_texto": "SQL injection, LDAP injection e XSS são ataques de injeção de código."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#71",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "71",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Infere-se da situação que o ataque DDoS afeta a disponibilidade do serviço web da empresa de e-commerce.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "DDoS afeta disponibilidade; item correto.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ddos-afeta-disponibilidade",
+      "nucleo_texto": "A principal consequência de um ataque DDoS é a perda de disponibilidade do serviço, não de integridade dos dados."
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#99",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "99",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "O OWASP SAMM, documento de conscientização padrão para desenvolvedores voltado à segurança de aplicações web, descreve os riscos de segurança mais críticos e aponta as principais medidas a serem adotadas pelos desenvolvedores para mitigar esses riscos.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca OWASP Top 10 por SAMM.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-owasp-top10-vs-samm",
+      "nucleo_texto": "O OWASP Top 10 descreve os riscos mais críticos em aplicações web; o OWASP SAMM é um modelo de maturidade de garantia de software."
+     }
+    ]
+   }
+  },
+  {
+   "k": 4,
+   "nucleos": [
+    {
+     "id": "n-ataques-passivos-confidencialidade",
+     "texto": "Escuta e análise de tráfego são ataques passivos contra a confidencialidade; modificação e falsificação ameaçam a integridade",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-c33-informatica-especialidade-analista-s#53"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-spear-phishing-direcionado",
+     "texto": "Spear phishing é direcionado a vítima ou grupo específico com mensagem personalizada; o phishing comum é em massa",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-c33-informatica-especialidade-analista-s#61"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-vulnerabilidade-independe-ameaca",
+     "texto": "Vulnerabilidade é fragilidade explorável que existe independentemente de ameaça ativa; o risco combina ameaça e vulnerabilidade",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mp-to-servidor-2024-c19-tecnico-informatica#71"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-wardriving-vs-ap-spoofing",
+     "texto": "Wardriving mapeia redes sem fio circulando por uma região; access point spoofing cria ponto de acesso falso para enganar usuários",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "stj-2024-c18-apoio-especializado-especialidade-su#106"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-mitre-attack-aplicacoes",
+     "texto": "MITRE ATT&CK é base de táticas e técnicas de adversários usada em entendimento de ameaças, caça a ameaças, resposta a incidentes e avaliação de controles",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "stj-2024-c18-apoio-especializado-especialidade-su#112"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "tce-pa-2016-c33-informatica-especialidade-analista-s#61",
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "item": "61",
+      "ref": "Cebraspe TCE/PA 2016 2016 · Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Analista de Segurança",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_033_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_033_01.pdf",
+      "ano": 2016,
+      "enunciado": "Diferentemente dos golpes de phishing, os ataques de spear phishing são realizados mediante o envio aleatório e em massa de emails enganosos para múltiplos usuários, para a obtenção de informações bancárias das vítimas ou apropriação da identidade delas.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "INVERSAO",
+       "TROCA_TERMO"
+      ],
+      "padrao": "Atribui ao spear phishing a característica do phishing em massa",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-spear-phishing-direcionado",
+      "nucleo_texto": "Spear phishing é direcionado a vítima ou grupo específico com mensagem personalizada; o phishing comum é em massa"
+     },
+     {
+      "k": "mp-to-servidor-2024-c19-tecnico-informatica#71",
+      "prova_id": "mp-to-servidor-2024-c19-tecnico-informatica",
+      "item": "71",
+      "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 19: Técnico Ministerial Especializado – Área de atuação: Técnico em Informática",
+      "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_019_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_019_01.PDF",
+      "ano": 2024,
+      "enunciado": "Para que se caracterize a existência de vulnerabilidade, é necessária a ocorrência de uma ameaça ativa que seja considerada risco para a segurança da informação.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "CAUSA_CONSEQUENCIA",
+       "INVERSAO"
+      ],
+      "padrao": "Exige ameaça ativa para existir vulnerabilidade",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-vulnerabilidade-independe-ameaca",
+      "nucleo_texto": "Vulnerabilidade é fragilidade explorável que existe independentemente de ameaça ativa; o risco combina ameaça e vulnerabilidade"
+     },
+     {
+      "k": "stj-2024-c18-apoio-especializado-especialidade-su#112",
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "item": "112",
+      "ref": "Cebraspe STJ 24 2024 · Cargo 18: Analista Judiciário – Área: Apoio Especializado – Especialidade: Suporte em Tecnologia da Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/018_STJ_018_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/GAB_DEFINITIVO_018_STJ_018_01.PDF",
+      "ano": 2024,
+      "enunciado": "O framework de segurança da informação e segurança cibernética MITRE ATT&CK oferece as seguintes aplicações práticas: melhoramento do entendimento das ameaças, testes de penetração, priorização de ameaças e riscos, melhoria dos controles de segurança, caça a ameaças e resposta a incidentes, avaliação de soluções de segurança, pesquisa e desenvolvimento.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Lista aplicações práticas do MITRE ATT&CK",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-mitre-attack-aplicacoes",
+      "nucleo_texto": "MITRE ATT&CK é base de táticas e técnicas de adversários usada em entendimento de ameaças, caça a ameaças, resposta a incidentes e avaliação de controles"
+     }
+    ],
+    "B1": [
+     {
+      "k": "tce-pa-2016-c33-informatica-especialidade-analista-s#53",
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "item": "53",
+      "ref": "Cebraspe TCE/PA 2016 2016 · Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Analista de Segurança",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_033_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_033_01.pdf",
+      "ano": 2016,
+      "enunciado": "Escuta, análise de tráfego e falsificação são exemplos de ataques que ameaçam a integridade dos dados.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Atribui à integridade ataques que afetam a confidencialidade",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ataques-passivos-confidencialidade",
+      "nucleo_texto": "Escuta e análise de tráfego são ataques passivos contra a confidencialidade; modificação e falsificação ameaçam a integridade"
+     },
+     {
+      "k": "stj-2024-c18-apoio-especializado-especialidade-su#106",
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "item": "106",
+      "ref": "Cebraspe STJ 24 2024 · Cargo 18: Analista Judiciário – Área: Apoio Especializado – Especialidade: Suporte em Tecnologia da Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/018_STJ_018_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/GAB_DEFINITIVO_018_STJ_018_01.PDF",
+      "ano": 2024,
+      "enunciado": "Nos ataques do tipo access point spoofing, os invasores circulam fisicamente por regiões onde desejam realizar os ataques e descobrem as redes que existem por ali, bem como os equipamentos físicos através dos quais poderão realizar as invasões posteriormente.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Descreve wardriving como se fosse access point spoofing",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-wardriving-vs-ap-spoofing",
+      "nucleo_texto": "Wardriving mapeia redes sem fio circulando por uma região; access point spoofing cria ponto de acesso falso para enganar usuários"
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#96",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "96",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "No cross-site scripting refletido (não persistente), a carga útil do invasor deve fazer parte da solicitação enviada ao servidor da Web. Em seguida, é refletida de volta, de maneira que a resposta HTTP inclua a carga útil da solicitação HTTP. Os invasores usam técnicas de engenharia social para induzir a vítima a fazer uma solicitação ao servidor. A carga útil XSS refletida é, então, executada no navegador do usuário.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Descrição correta do XSS refletido.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-refletido",
+      "nucleo_texto": "No XSS refletido a carga útil vai na requisição, é refletida na resposta HTTP e executada no navegador da vítima, normalmente induzida por engenharia social."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#69",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "69",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Envenenamento de cache DNS pode ser uma técnica associada a ataques DDoS.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [],
+      "padrao": "Relação entre envenenamento de DNS e DDoS.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-dns-cache-poisoning-ddos",
+      "nucleo_texto": "Envenenamento de cache DNS pode redirecionar tráfego e ser usado em ataques associados a DDoS."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#73",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "73",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Phishing é um ataque que compromete confidencialidade das informações. apenas a",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Palavra 'apenas' restringe o impacto do phishing.",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-phishing-engenharia-social",
+      "nucleo_texto": "Phishing é engenharia social que induz a vítima a fornecer dados e pode comprometer confidencialidade, integridade e autenticidade, não apenas confidencialidade."
+     },
+     {
+      "k": "trf6-2024-c03-apoio-especializado-especialidade-an#116",
+      "prova_id": "trf6-2024-c03-apoio-especializado-especialidade-an",
+      "item": "116",
+      "ref": "Cebraspe TRF6 24 2024 · Cargo 3: Analista Judiciário – Área: Apoio Especializado – Especialidade: Análise de Sistemas de Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/034_TRF6_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/GAB_DEFINITIVO_034_TRF6_003_01.PDF",
+      "ano": 2024,
+      "enunciado": "O SSRF (server-side request forgery) só pode ser explorado se o atacante tiver credenciais administrativas no servidor de destino, pois ele depende de permissões elevadas para realizar requisições internas e externas.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "CAUSA_CONSEQUENCIA"
+      ],
+      "padrao": "Exige credencial administrativa para SSRF, o que não é necessário",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ssrf-sem-credenciais-admin",
+      "nucleo_texto": "SSRF induz o servidor vulnerável a fazer requisições a destinos escolhidos pelo atacante, sem exigir credenciais administrativas"
+     },
+     {
+      "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#190",
+      "prova_id": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao",
+      "item": "190",
+      "ref": "Cebraspe TCE RJ 21 ANALISTA 2021 · ANALISTA DE CONTROLE EXTERNO – ÁREA ORGANIZACIONAL – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_21_ANALISTA/arquivos/676_TCERJ_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_21_ANALISTA/arquivos/GAB_DEFINITIVO_676_TCERJ_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "A característica principal do ataque cross-site scripting (XSS) é que ele é realizado somente de um modo: por meio do envio de códigos JavaScript pelos formulários de cadastro de uma aplicação web com a finalidade de manipular as informações no navegador do usuário.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Restringe XSS a um único modo ('somente')",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-tipos-refletido-armazenado-dom",
+      "nucleo_texto": "XSS tem variações (refletido, armazenado e baseado em DOM) e não se limita a formulários de cadastro"
+     }
+    ]
+   }
+  },
+  {
+   "k": 5,
+   "nucleos": [
+    {
+     "id": "n-xss-xxe-sao-vulnerabilidades",
+     "texto": "XSS e XXE são vulnerabilidades/ataques, não controles; boas práticas incluem validação, codificação de saída e desativar entidades externas XML",
+     "edital": "P3·SEG 1.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "bcb-2023-c02-tecnologia-informacao#79"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-frameworks-nao-dispensam-testes",
+     "texto": "Frameworks e bibliotecas com validação contra injeção reduzem riscos mas não dispensam testes automatizados e manuais de segurança.",
+     "edital": "P3·SEG 1.4",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#100"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-analise-vulnerabilidades-continua",
+     "texto": "Análise de vulnerabilidades deve ser contínua, ao longo de todo o ciclo de vida da aplicação, inclusive em produção.",
+     "edital": "P3·SEG 1.4",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#105"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-red-blue-team",
+     "texto": "Red team simula ataques para identificar falhas; blue team defende e monitora",
+     "edital": "P3·SEG 1.4",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#103"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-sast-dast-sca-diferencas",
+     "texto": "SAST analisa código sem executá-lo, DAST testa a aplicação em execução e SCA identifica componentes de terceiros vulneráveis; nenhuma garante software livre de vulnerabilidades",
+     "edital": "P3·SEG 1.4",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "trt10-2024-c11-apoio-especializado-especialidade-te#102"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#100",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "100",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "No desenvolvimento seguro de aplicações, o emprego de frameworks e bibliotecas que realizem validações contra a injeção de código malicioso nas aplicações dispensa a adoção de simuladores e de testes automatizados e manuais, conferindo ao processo maior produtividade.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "Afirma que frameworks dispensam testes.",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-frameworks-nao-dispensam-testes",
+      "nucleo_texto": "Frameworks e bibliotecas com validação contra injeção reduzem riscos mas não dispensam testes automatizados e manuais de segurança."
+     },
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#105",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "105",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "A análise de vulnerabilidades em aplicações web deve ser realizada apenas durante a fase de desenvolvimento do aplicativo.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Palavra 'apenas' restringe indevidamente a fase.",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-analise-vulnerabilidades-continua",
+      "nucleo_texto": "Análise de vulnerabilidades deve ser contínua, ao longo de todo o ciclo de vida da aplicação, inclusive em produção."
+     },
+     {
+      "k": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#103",
+      "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+      "item": "103",
+      "ref": "Cebraspe BDMG_24 2024 · ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/031_BDMG_002_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/Gab_Definitivo_031_BDMG_002_01.PDF",
+      "ano": 2024,
+      "enunciado": "O red team defende os sistemas e monitora atividades suspeitas, enquanto o blue team simula ataques para identificar vulnerabilidades e falhas nos sistemas.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "Troca os papéis de red team e blue team",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-red-blue-team",
+      "nucleo_texto": "Red team simula ataques para identificar falhas; blue team defende e monitora"
+     }
+    ],
+    "B1": [
+     {
+      "k": "bcb-2023-c02-tecnologia-informacao#79",
+      "prova_id": "bcb-2023-c02-tecnologia-informacao",
+      "item": "79",
+      "ref": "Cebraspe BCB 24 2023 · CARGO 2: ANALISTA – ÁREA: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/959_BCB_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/GAB_DEFINITIVO_959_BCB_002_01.PDF",
+      "ano": 2023,
+      "enunciado": "XSS (Cross-site scripting) e entidades externas de XML são exemplos de controles e boas práticas para o desenvolvimento seguro.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Apresenta vulnerabilidades como se fossem boas práticas",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-xxe-sao-vulnerabilidades",
+      "nucleo_texto": "XSS e XXE são vulnerabilidades/ataques, não controles; boas práticas incluem validação, codificação de saída e desativar entidades externas XML"
+     },
+     {
+      "k": "trt10-2024-c11-apoio-especializado-especialidade-te#102",
+      "prova_id": "trt10-2024-c11-apoio-especializado-especialidade-te",
+      "item": "102",
+      "ref": "Cebraspe TRT10_24 2024 · CARGO 11: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRT10_24/arquivos/050_TRT10_011_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TRT10_24/arquivos/Gab_Definitivo_050_TRT10_011_01.pdf",
+      "ano": 2024,
+      "enunciado": "SAST (static application security testing), DAST (dynamic application security testing) e SCA (software composition analysis) são técnicas de análise do comportamento dinâmico das aplicações em tempo de execução, com a finalidade de garantir que todos os componentes do software sejam seguros e livres de vulnerabilidades.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO",
+       "ABSOLUTO"
+      ],
+      "padrao": "Trata SAST e SCA como análise dinâmica e promete software livre de vulnerabilidades",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-sast-dast-sca-diferencas",
+      "nucleo_texto": "SAST analisa código sem executá-lo, DAST testa a aplicação em execução e SCA identifica componentes de terceiros vulneráveis; nenhuma garante software livre de vulnerabilidades"
+     }
+    ],
+    "C1": [
+     {
+      "k": "mp-to-servidor-2024-c19-tecnico-informatica#71",
+      "prova_id": "mp-to-servidor-2024-c19-tecnico-informatica",
+      "item": "71",
+      "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 19: Técnico Ministerial Especializado – Área de atuação: Técnico em Informática",
+      "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_019_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_019_01.PDF",
+      "ano": 2024,
+      "enunciado": "Para que se caracterize a existência de vulnerabilidade, é necessária a ocorrência de uma ameaça ativa que seja considerada risco para a segurança da informação.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "CAUSA_CONSEQUENCIA",
+       "INVERSAO"
+      ],
+      "padrao": "Exige ameaça ativa para existir vulnerabilidade",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-vulnerabilidade-independe-ameaca",
+      "nucleo_texto": "Vulnerabilidade é fragilidade explorável que existe independentemente de ameaça ativa; o risco combina ameaça e vulnerabilidade"
+     },
+     {
+      "k": "stj-2024-c18-apoio-especializado-especialidade-su#106",
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "item": "106",
+      "ref": "Cebraspe STJ 24 2024 · Cargo 18: Analista Judiciário – Área: Apoio Especializado – Especialidade: Suporte em Tecnologia da Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/018_STJ_018_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/GAB_DEFINITIVO_018_STJ_018_01.PDF",
+      "ano": 2024,
+      "enunciado": "Nos ataques do tipo access point spoofing, os invasores circulam fisicamente por regiões onde desejam realizar os ataques e descobrem as redes que existem por ali, bem como os equipamentos físicos através dos quais poderão realizar as invasões posteriormente.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Descreve wardriving como se fosse access point spoofing",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-wardriving-vs-ap-spoofing",
+      "nucleo_texto": "Wardriving mapeia redes sem fio circulando por uma região; access point spoofing cria ponto de acesso falso para enganar usuários"
+     },
+     {
+      "k": "stj-2024-c18-apoio-especializado-especialidade-su#112",
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "item": "112",
+      "ref": "Cebraspe STJ 24 2024 · Cargo 18: Analista Judiciário – Área: Apoio Especializado – Especialidade: Suporte em Tecnologia da Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/018_STJ_018_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/STJ_24/arquivos/GAB_DEFINITIVO_018_STJ_018_01.PDF",
+      "ano": 2024,
+      "enunciado": "O framework de segurança da informação e segurança cibernética MITRE ATT&CK oferece as seguintes aplicações práticas: melhoramento do entendimento das ameaças, testes de penetração, priorização de ameaças e riscos, melhoria dos controles de segurança, caça a ameaças e resposta a incidentes, avaliação de soluções de segurança, pesquisa e desenvolvimento.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Lista aplicações práticas do MITRE ATT&CK",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-mitre-attack-aplicacoes",
+      "nucleo_texto": "MITRE ATT&CK é base de táticas e técnicas de adversários usada em entendimento de ameaças, caça a ameaças, resposta a incidentes e avaliação de controles"
+     },
+     {
+      "k": "tce-pa-2016-c33-informatica-especialidade-analista-s#53",
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "item": "53",
+      "ref": "Cebraspe TCE/PA 2016 2016 · Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Analista de Segurança",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_033_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_033_01.pdf",
+      "ano": 2016,
+      "enunciado": "Escuta, análise de tráfego e falsificação são exemplos de ataques que ameaçam a integridade dos dados.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Atribui à integridade ataques que afetam a confidencialidade",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-ataques-passivos-confidencialidade",
+      "nucleo_texto": "Escuta e análise de tráfego são ataques passivos contra a confidencialidade; modificação e falsificação ameaçam a integridade"
+     },
+     {
+      "k": "tce-pa-2016-c33-informatica-especialidade-analista-s#61",
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "item": "61",
+      "ref": "Cebraspe TCE/PA 2016 2016 · Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Analista de Segurança",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_033_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_033_01.pdf",
+      "ano": 2016,
+      "enunciado": "Diferentemente dos golpes de phishing, os ataques de spear phishing são realizados mediante o envio aleatório e em massa de emails enganosos para múltiplos usuários, para a obtenção de informações bancárias das vítimas ou apropriação da identidade delas.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "INVERSAO",
+       "TROCA_TERMO"
+      ],
+      "padrao": "Atribui ao spear phishing a característica do phishing em massa",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-spear-phishing-direcionado",
+      "nucleo_texto": "Spear phishing é direcionado a vítima ou grupo específico com mensagem personalizada; o phishing comum é em massa"
+     }
+    ]
+   }
+  },
+  {
+   "k": 6,
+   "nucleos": [
+    {
+     "id": "n-registro-incidentes-formal",
+     "texto": "Incidentes de segurança devem ser reportados e seu registro mantido de forma formal e documentada após o tratamento.",
+     "edital": "P3·SEG 1.6",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#99"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-sigilo-incidentes-controlado",
+     "texto": "Plano de gestão de incidentes prevê comunicação controlada e confidencialidade das informações, mas não sigilo absoluto, pois há comunicações obrigatórias.",
+     "edital": "P3·SEG 1.6",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c10-seguranca-informacao#116"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-owasp-logging-monitoramento",
+     "texto": "Para evitar falhas de registro e monitoramento, registrar falhas de login, acesso e validação com contexto suficiente e retê-las tempo suficiente para análise",
+     "edital": "P3·SEG 1.6",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c08-gestao-seguranca-informacao-orcament#79"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-resposta-incidentes-analise-forense",
+     "texto": "Pela ISO 27002, a resposta a incidentes inclui, quando necessária, a análise forense de segurança da informação",
+     "edital": "P3·SEG 1.6",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "anm-2024-c24-tecnologia-informacao-ciencia-dados#84"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-requisitos-seguranca-aplicacao",
+     "texto": "Requisitos de segurança de aplicações incluem identificação de dados sensíveis, restrição de acesso, autenticação e autorização.",
+     "edital": "P3·SEG 1.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#98"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#79",
+      "prova_id": "mpo-2024-c08-gestao-seguranca-informacao-orcament",
+      "item": "79",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 8: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DA SEGURANÇA DA INFORMAÇÃO ORÇAMENTÁRIA",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_008_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_008_01.PDF",
+      "ano": 2024,
+      "enunciado": "De acordo com o OWASP Top 10, para prevenir falhas de registro e monitoramento de segurança, uma das medidas recomendadas aos desenvolvedores é garantir que todas as falhas de login, controle de acesso e validação de entrada no lado do servidor possam ser registradas com contexto de usuário suficiente para a identificação de contas suspeitas ou maliciosas, bem como que possam ser mantidas por tempo suficiente para permitir análise forense posterior.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Medida de prevenção de falhas de registro e monitoramento, cópia fiel da orientação OWASP",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-owasp-logging-monitoramento",
+      "nucleo_texto": "Para evitar falhas de registro e monitoramento, registrar falhas de login, acesso e validação com contexto suficiente e retê-las tempo suficiente para análise"
+     },
+     {
+      "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#84",
+      "prova_id": "anm-2024-c24-tecnologia-informacao-ciencia-dados",
+      "item": "84",
+      "ref": "Cebraspe ANM 24 2024 · CARGO 24: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – CIÊNCIA DE DADOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_024_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/Gab_Definitivo_038_ANM_024_01.PDF",
+      "ano": 2024,
+      "enunciado": "Conforme a ABNT NBR ISO/IEC 27002, a resposta a incidentes de segurança da informação deve incluir, quando necessária, a análise forense de segurança da informação.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Resposta a incidentes inclui análise forense quando necessária",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-resposta-incidentes-analise-forense",
+      "nucleo_texto": "Pela ISO 27002, a resposta a incidentes inclui, quando necessária, a análise forense de segurança da informação"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#98",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "98",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Identificação de dados sensíveis, restrições de acesso, autenticação e autorização são exemplos de requisitos de segurança relacionados ao desenvolvimento seguro de aplicações.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Lista correta de requisitos de segurança.",
+      "edital": "P3·SEG 1.2",
+      "nucleo": "n-requisitos-seguranca-aplicacao",
+      "nucleo_texto": "Requisitos de segurança de aplicações incluem identificação de dados sensíveis, restrição de acesso, autenticação e autorização."
+     }
+    ],
+    "B1": [
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#99",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "99",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "Convém que os incidentes de segurança da informação de uma organização sejam reportados e, assim que eles tenham sido tratados, seu registro seja mantido, mesmo que informalmente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca registro formal por informal.",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-registro-incidentes-formal",
+      "nucleo_texto": "Incidentes de segurança devem ser reportados e seu registro mantido de forma formal e documentada após o tratamento."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#116",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "116",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Um plano de gestão de incidentes de segurança da informação deve garantir, entre outras coisas, o sigilo absoluto dos fatos ocorridos após a detecção e contenção do incidente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO",
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "'Sigilo absoluto' ignora comunicações necessárias e exceções legais.",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-sigilo-incidentes-controlado",
+      "nucleo_texto": "Plano de gestão de incidentes prevê comunicação controlada e confidencialidade das informações, mas não sigilo absoluto, pois há comunicações obrigatórias."
+     }
+    ],
+    "C1": [
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#100",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "100",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "No desenvolvimento seguro de aplicações, o emprego de frameworks e bibliotecas que realizem validações contra a injeção de código malicioso nas aplicações dispensa a adoção de simuladores e de testes automatizados e manuais, conferindo ao processo maior produtividade.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "Afirma que frameworks dispensam testes.",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-frameworks-nao-dispensam-testes",
+      "nucleo_texto": "Frameworks e bibliotecas com validação contra injeção reduzem riscos mas não dispensam testes automatizados e manuais de segurança."
+     },
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#105",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "105",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "A análise de vulnerabilidades em aplicações web deve ser realizada apenas durante a fase de desenvolvimento do aplicativo.",
+      "gabarito": "E",
+      "nivel": "facil",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Palavra 'apenas' restringe indevidamente a fase.",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-analise-vulnerabilidades-continua",
+      "nucleo_texto": "Análise de vulnerabilidades deve ser contínua, ao longo de todo o ciclo de vida da aplicação, inclusive em produção."
+     },
+     {
+      "k": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#103",
+      "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+      "item": "103",
+      "ref": "Cebraspe BDMG_24 2024 · ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/031_BDMG_002_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/Gab_Definitivo_031_BDMG_002_01.PDF",
+      "ano": 2024,
+      "enunciado": "O red team defende os sistemas e monitora atividades suspeitas, enquanto o blue team simula ataques para identificar vulnerabilidades e falhas nos sistemas.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "Troca os papéis de red team e blue team",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-red-blue-team",
+      "nucleo_texto": "Red team simula ataques para identificar falhas; blue team defende e monitora"
+     },
+     {
+      "k": "trt10-2024-c11-apoio-especializado-especialidade-te#102",
+      "prova_id": "trt10-2024-c11-apoio-especializado-especialidade-te",
+      "item": "102",
+      "ref": "Cebraspe TRT10_24 2024 · CARGO 11: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRT10_24/arquivos/050_TRT10_011_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TRT10_24/arquivos/Gab_Definitivo_050_TRT10_011_01.pdf",
+      "ano": 2024,
+      "enunciado": "SAST (static application security testing), DAST (dynamic application security testing) e SCA (software composition analysis) são técnicas de análise do comportamento dinâmico das aplicações em tempo de execução, com a finalidade de garantir que todos os componentes do software sejam seguros e livres de vulnerabilidades.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO",
+       "ABSOLUTO"
+      ],
+      "padrao": "Trata SAST e SCA como análise dinâmica e promete software livre de vulnerabilidades",
+      "edital": "P3·SEG 1.4",
+      "nucleo": "n-sast-dast-sca-diferencas",
+      "nucleo_texto": "SAST analisa código sem executá-lo, DAST testa a aplicação em execução e SCA identifica componentes de terceiros vulneráveis; nenhuma garante software livre de vulnerabilidades"
+     },
+     {
+      "k": "bcb-2023-c02-tecnologia-informacao#79",
+      "prova_id": "bcb-2023-c02-tecnologia-informacao",
+      "item": "79",
+      "ref": "Cebraspe BCB 24 2023 · CARGO 2: ANALISTA – ÁREA: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/959_BCB_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/GAB_DEFINITIVO_959_BCB_002_01.PDF",
+      "ano": 2023,
+      "enunciado": "XSS (Cross-site scripting) e entidades externas de XML são exemplos de controles e boas práticas para o desenvolvimento seguro.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Apresenta vulnerabilidades como se fossem boas práticas",
+      "edital": "P3·SEG 1.1",
+      "nucleo": "n-xss-xxe-sao-vulnerabilidades",
+      "nucleo_texto": "XSS e XXE são vulnerabilidades/ataques, não controles; boas práticas incluem validação, codificação de saída e desativar entidades externas XML"
+     }
+    ]
+   }
+  },
+  {
+   "k": 7,
+   "nucleos": [
+    {
+     "id": "n-validacao-entrada-lista-permitida",
+     "texto": "Validar entradas aceitando apenas dados conhecidamente válidos (lista de permissão) previne injeções como SQL injection.",
+     "edital": "P3·SEG 1.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c20-tecnico-informatica#95"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-owasp-componentes-vulneraveis",
+     "texto": "Uso de componentes com vulnerabilidades conhecidas e desserialização insegura são categorias distintas do OWASP Top 10.",
+     "edital": "P3·SEG 1.3",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c08-planejamento-ti#91"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-seguranca-todo-ciclo-desenvolvimento",
+     "texto": "Segurança deve ser tratada ao longo de todo o ciclo de desenvolvimento (shift left), não apenas nas etapas finais",
+     "edital": "P3·SEG 1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "trf6-2024-c27-apoio-especializado-especialidade-de#97"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-api-terceiros-responsabilidade-seguranca",
+     "texto": "O desenvolvedor segue responsável pela segurança e proteção dos dados ao usar APIs de terceiros; o provedor não a garante automaticamente",
+     "edital": "P3·SEG 1.5",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "anm-2024-c21-geologia-geografia-geofisica-engenha#94"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 4,
+   "amostra": 4,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#95",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "95",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "Uma das formas de prevenção à vulnerabilidade SQL injection consiste em realizar a validação dos dados digitados pelo usuário mediante a aceitação de somente dados que sejam conhecidamente válidos.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Validação por lista de permissão; item correto.",
+      "edital": "P3·SEG 1.2",
+      "nucleo": "n-validacao-entrada-lista-permitida",
+      "nucleo_texto": "Validar entradas aceitando apenas dados conhecidamente válidos (lista de permissão) previne injeções como SQL injection."
+     },
+     {
+      "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#94",
+      "prova_id": "anm-2024-c21-geologia-geografia-geofisica-engenha",
+      "item": "94",
+      "ref": "Cebraspe ANM 24 2024 · CARGO 21: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: GEOLOGIA, GEOGRAFIA, GEOFÍSICA, ENGENHARIA DE MINAS, AGRONÔMICA, FLORESTAL, CIVIL, AMBIENTAL, ARQUITETURA OU TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_021_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/Gab_Definitivo_038_ANM_021_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os desenvolvedores que utilizam APIs para criar aplicações em plataformas GeoWEB geralmente não precisam se preocupar com a segurança e a proteção dos dados, pois esses aspectos são automaticamente gerenciados pela própria API, independentemente do provedor de serviços.",
+      "gabarito": "E",
+      "nivel": "Fácil",
+      "tags": [
+       "ABSOLUTO",
+       "ESCOPO"
+      ],
+      "padrao": "Afirma que a API cuida automaticamente de segurança e proteção de dados",
+      "edital": "P3·SEG 1.5",
+      "nucleo": "n-api-terceiros-responsabilidade-seguranca",
+      "nucleo_texto": "O desenvolvedor segue responsável pela segurança e proteção dos dados ao usar APIs de terceiros; o provedor não a garante automaticamente"
+     }
+    ],
+    "B1": [
+     {
+      "k": "trf6-2024-c27-apoio-especializado-especialidade-de#97",
+      "prova_id": "trf6-2024-c27-apoio-especializado-especialidade-de",
+      "item": "97",
+      "ref": "Cebraspe TRF6 24 2024 · Cargo 27: Técnico Judiciário – Área: Apoio Especializado – Especialidade: Desenvolvimento de Sistemas de Informação",
+      "url": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/034_TRF6_027_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TRF6_24/arquivos/GAB_DEFINITIVO_034_TRF6_027_01.PDF",
+      "ano": 2024,
+      "enunciado": "A metodologia OWASP (open web application security project) propõe um modelo de escopo de segurança restrito às etapas finais do desenvolvimento de software, focando principalmente na detecção e na mitigação de vulnerabilidades em produtos já prontos.",
+      "gabarito": "E",
+      "nivel": "Médio",
+      "tags": [
+       "ESCOPO",
+       "ABSOLUTO"
+      ],
+      "padrao": "Restringe o OWASP às etapas finais do desenvolvimento",
+      "edital": "P3·SEG 1",
+      "nucleo": "n-seguranca-todo-ciclo-desenvolvimento",
+      "nucleo_texto": "Segurança deve ser tratada ao longo de todo o ciclo de desenvolvimento (shift left), não apenas nas etapas finais"
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c20-tecnico-informatica#99",
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "item": "99",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 20: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO EM INFORMÁTICA",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF",
+      "ano": 2024,
+      "enunciado": "Convém que os incidentes de segurança da informação de uma organização sejam reportados e, assim que eles tenham sido tratados, seu registro seja mantido, mesmo que informalmente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca registro formal por informal.",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-registro-incidentes-formal",
+      "nucleo_texto": "Incidentes de segurança devem ser reportados e seu registro mantido de forma formal e documentada após o tratamento."
+     },
+     {
+      "k": "tce-ac-2024-c10-seguranca-informacao#116",
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "item": "116",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 10: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: SEGURANÇA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_010_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_010_01.PDF",
+      "ano": 2024,
+      "enunciado": "Um plano de gestão de incidentes de segurança da informação deve garantir, entre outras coisas, o sigilo absoluto dos fatos ocorridos após a detecção e contenção do incidente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO",
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "'Sigilo absoluto' ignora comunicações necessárias e exceções legais.",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-sigilo-incidentes-controlado",
+      "nucleo_texto": "Plano de gestão de incidentes prevê comunicação controlada e confidencialidade das informações, mas não sigilo absoluto, pois há comunicações obrigatórias."
+     },
+     {
+      "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#79",
+      "prova_id": "mpo-2024-c08-gestao-seguranca-informacao-orcament",
+      "item": "79",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 8: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DA SEGURANÇA DA INFORMAÇÃO ORÇAMENTÁRIA",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_008_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_008_01.PDF",
+      "ano": 2024,
+      "enunciado": "De acordo com o OWASP Top 10, para prevenir falhas de registro e monitoramento de segurança, uma das medidas recomendadas aos desenvolvedores é garantir que todas as falhas de login, controle de acesso e validação de entrada no lado do servidor possam ser registradas com contexto de usuário suficiente para a identificação de contas suspeitas ou maliciosas, bem como que possam ser mantidas por tempo suficiente para permitir análise forense posterior.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Medida de prevenção de falhas de registro e monitoramento, cópia fiel da orientação OWASP",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-owasp-logging-monitoramento",
+      "nucleo_texto": "Para evitar falhas de registro e monitoramento, registrar falhas de login, acesso e validação com contexto suficiente e retê-las tempo suficiente para análise"
+     },
+     {
+      "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#84",
+      "prova_id": "anm-2024-c24-tecnologia-informacao-ciencia-dados",
+      "item": "84",
+      "ref": "Cebraspe ANM 24 2024 · CARGO 24: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – CIÊNCIA DE DADOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_024_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/Gab_Definitivo_038_ANM_024_01.PDF",
+      "ano": 2024,
+      "enunciado": "Conforme a ABNT NBR ISO/IEC 27002, a resposta a incidentes de segurança da informação deve incluir, quando necessária, a análise forense de segurança da informação.",
+      "gabarito": "C",
+      "nivel": "Fácil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Resposta a incidentes inclui análise forense quando necessária",
+      "edital": "P3·SEG 1.6",
+      "nucleo": "n-resposta-incidentes-analise-forense",
+      "nucleo_texto": "Pela ISO 27002, a resposta a incidentes inclui, quando necessária, a análise forense de segurança da informação"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#98",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "98",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Identificação de dados sensíveis, restrições de acesso, autenticação e autorização são exemplos de requisitos de segurança relacionados ao desenvolvimento seguro de aplicações.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [],
+      "padrao": "Lista correta de requisitos de segurança.",
+      "edital": "P3·SEG 1.2",
+      "nucleo": "n-requisitos-seguranca-aplicacao",
+      "nucleo_texto": "Requisitos de segurança de aplicações incluem identificação de dados sensíveis, restrição de acesso, autenticação e autorização."
+     }
+    ]
+   }
+  }
+ ]
+}

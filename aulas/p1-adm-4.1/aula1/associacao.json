@@ -1,0 +1,366 @@
+{
+ "aula": "Aula 1 – PPA, LDO e LOA: como as três leis se encaixam (P1·ADM 4.1)",
+ "ensina": [
+  "n-creditos-adicionais",
+  "n-emendas-loa",
+  "n-encadeamento-ppa-ldo-loa",
+  "n-ldo-limites-poderes",
+  "n-ldo-orienta-loa-metas-fiscais",
+  "n-loa-exclusividade",
+  "n-loa-tres-orcamentos",
+  "n-lrf-impacto-despesa",
+  "n-orcamento-autorizativo",
+  "n-planos-setoriais-ppa",
+  "n-ppa-programa-acoes",
+  "n-receita-conceitos"
+ ],
+ "cadernos": [
+  [
+   {
+    "k": "legado-930-inpi-cc1-01#83",
+    "prova_id": "legado-930-inpi-cc1-01",
+    "item": "83",
+    "ref": "Cebraspe · INPI (Edital nº 1/2023, aplicada em 04/02/2024) · cargos de nível superior · caderno 930_INPI_CC1, item 83",
+    "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+    "ano": 2023,
+    "enunciado": "O Congresso Nacional poderá emendar o projeto de LOA, desde que a alteração seja compatível com o PPA e indique os recursos necessários para tal, como, por exemplo, a anulação de despesa relativa aos serviços da dívida.",
+    "gabarito": "E",
+    "nivel": "Difícil",
+    "tags": [
+     "EXCECAO_OMITIDA"
+    ],
+    "padrao": "Emenda exige compatibilidade e anulação de despesa, mas a CF exclui pessoal, serviço da dívida e transferências (art. 166, §3º, II). O exemplo do item é a exceção proibida.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-emendas-loa",
+    "nucleo_texto": "Emendas à LOA exigem compatibilidade com PPA/LDO e fonte por anulação, com exclusões previstas",
+    "comentario": "A emenda precisa ser compatível com o PPA (e com a LDO) e indicar recursos provenientes de <b>anulação de despesa</b>, mas a CF (art. 166, §3º, II) <b>exclui</b> dotações para pessoal e encargos, serviço da dívida e transferências tributárias constitucionais. O exemplo dado no item é justamente uma fonte proibida."
+   },
+   {
+    "k": "legado-038-anm-023-01#51",
+    "prova_id": "legado-038-anm-023-01",
+    "item": "51",
+    "ref": "Cebraspe · ANM (Edital 2024, aplicada em 16/02/2025) · Analista Administrativo / Especialista em Recursos Minerais · caderno 038_ANM_023, item 51",
+    "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_023_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/GAB_DEFINITIVO_038_ANM_023_01.PDF",
+    "ano": 2024,
+    "enunciado": "O ciclo orçamentário brasileiro é composto pelo plano plurianual (PPA), pela lei de diretrizes orçamentárias (LDO) e pela lei orçamentária anual (LOA), que devem estar interligados para garantir coerência na alocação de recursos públicos e no cumprimento das metas fiscais.",
+    "gabarito": "C",
+    "nivel": "Fácil",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Afirmação geral de encadeamento PPA→LDO→LOA (CF art. 165). Sem pegadinha; erra quem desconfia da palavra 'ciclo'.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-encadeamento-ppa-ldo-loa",
+    "nucleo_texto": "PPA, LDO e LOA são encadeadas: a LDO traduz o PPA em metas anuais e a LOA obedece a ambas",
+    "comentario": "As três leis formam o sistema de planejamento e orçamento da CF (art. 165) e são encadeadas: a LDO traduz o PPA em metas e prioridades do ano, e a LOA obedece a ambas. As metas fiscais ficam na LDO (LRF, art. 4º). O item foi mantido CERTO no gabarito definitivo. Atenção: a banca usou \"ciclo orçamentário\" em sentido amplo; o foco é a interligação das três leis."
+   },
+   {
+    "k": "legado-038-anm-002-01#55",
+    "prova_id": "legado-038-anm-002-01",
+    "item": "55",
+    "ref": "Cebraspe · ANM (Edital 2024, aplicada em 16/02/2025) · Analista Administrativo / Especialista em Recursos Minerais · caderno 038_ANM_002, item 55",
+    "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_002_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/GAB_DEFINITIVO_038_ANM_002_01.PDF",
+    "ano": 2024,
+    "enunciado": "Durante a fase de elaboração do projeto de lei orçamentária, o Poder Executivo está autorizado a proceder aos ajustes das propostas orçamentárias encaminhadas pelo Poder Judiciário que estiverem em desacordo com os limites estipulados na lei de diretrizes orçamentárias (LDO).",
+    "gabarito": "C",
+    "nivel": "Médio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "LDO fixa limites das propostas do Judiciário e o Executivo ajusta (CF art. 99, §§1º e 4º). Item literal, mas pouco intuitivo.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-ldo-limites-poderes",
+    "nucleo_texto": "A LDO fixa os limites das propostas orçamentárias do Judiciário; o Executivo ajusta",
+    "comentario": "A LDO fixa, em conjunto com os Poderes, os limites das propostas do Judiciário (CF, art. 99, §1º). Se a proposta vier acima, o Executivo faz os ajustes necessários para consolidar o projeto (art. 99, §4º). É um exemplo de a LDO \"orientar\" a elaboração da LOA também em relação aos demais Poderes."
+   },
+   {
+    "k": "legado-958-mpo-analista-001-01#21",
+    "prova_id": "legado-958-mpo-analista-001-01",
+    "item": "21",
+    "ref": "Cebraspe · MPO (Edital 2024, STDI/SOF/MPO) · Analista de Planejamento e Orçamento · caderno 958_MPO_ANALISTA_001, item 21",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "As diretrizes de política fiscal e as metas fiscais para o exercício em vigor, em consonância com trajetória sustentável da dívida pública, devem orientar a elaboração da lei orçamentária anual.",
+    "gabarito": "C",
+    "nivel": "Médio",
+    "tags": [
+     "ESCOPO"
+    ],
+    "padrao": "LDO orienta a LOA e traz metas fiscais. Imprecisão ('exercício em vigor') foi mantida CERTA: o foco cobrado é a relação LDO→LOA.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+    "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)",
+    "comentario": "Papel central da LDO: orientar a elaboração da LOA (CF, art. 165, §2º), trazendo as metas fiscais (LRF, art. 4º). A expressão \"exercício em vigor\" é imprecisa (a LDO é feita no ano anterior ao do orçamento), mas o gabarito definitivo manteve CERTO: o que o item cobra é a relação LDO → LOA."
+   },
+   {
+    "k": "legado-930-inpi-cc1-01#79",
+    "prova_id": "legado-930-inpi-cc1-01",
+    "item": "79",
+    "ref": "Cebraspe · INPI (Edital nº 1/2023, aplicada em 04/02/2024) · cargos de nível superior · caderno 930_INPI_CC1, item 79",
+    "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+    "ano": 2023,
+    "enunciado": "O Brasil adota o princípio da exclusividade orçamentária, segundo o qual a LOA não poderá conter dispositivo estranho à previsão da receita e à fixação da despesa, ressalvando-se as hipóteses expressamente previstas na Constituição Federal de 1988.",
+    "gabarito": "C",
+    "nivel": "Fácil",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Cópia quase literal do art. 165, §8º da CF (exclusividade da LOA). Item de leitura direta.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-loa-exclusividade",
+    "nucleo_texto": "A LOA não conterá dispositivo estranho à previsão da receita e fixação da despesa",
+    "comentario": "É a redação do art. 165, §8º, da CF. As ressalvas são a autorização para abrir créditos suplementares e a contratação de operações de crédito, inclusive por antecipação de receita. Sem pegadinha: item de leitura direta da norma."
+   },
+   {
+    "k": "codevasf-2024-c01-administracao#94",
+    "prova_id": "codevasf-2024-c01-administracao",
+    "item": "94",
+    "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A lei orçamentária anual (LOA) não segue o princípio da totalidade, pois é composta por três orçamentos, assim não obedece à lógica pela qual o orçamento deve ser uno, com todas as receitas previstas e despesas fixadas, em cada exercício financeiro, integrando um único documento legal no âmbito de cada nível federativo.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "INVERSAO",
+     "CAUSA_CONSEQUENCIA"
+    ],
+    "padrao": "Nega a totalidade por haver três orçamentos; a LOA é una e segue a totalidade",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-loa-tres-orcamentos",
+    "nucleo_texto": "A LOA compreende o orçamento fiscal, o da seguridade social e o de investimento das estatais em que a União detenha a maioria do capital votante, e respeita a totalidade",
+    "comentario": null
+   },
+   {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#99",
+    "prova_id": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas",
+    "item": "99",
+    "ref": "Cebraspe SEPLAG/CE 24 2024 · CARGO 1: ANALISTA DE GESTÃO PÚBLICA – ÁREA DE ATUAÇÃO: GESTÃO E DESENVOLVIMENTO DE PESSOAS",
+    "url": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/982_SEPLAG_CE_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/GAB_DEFINITIVO_982_SEPLAG_CE_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A criação de ação governamental que acarrete aumento de despesa deve ser acompanhada da estimativa do impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes, sendo a apresentação de tal estimativa uma das condições prévias para a realização de empenho e licitação de serviços.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Estimativa de impacto no exercício e nos dois seguintes (LRF art. 16)",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-lrf-impacto-despesa",
+    "nucleo_texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)",
+    "comentario": null
+   },
+   {
+    "k": "legado-930-inpi-cc1-01#80",
+    "prova_id": "legado-930-inpi-cc1-01",
+    "item": "80",
+    "ref": "Cebraspe · INPI (Edital nº 1/2023, aplicada em 04/02/2024) · cargos de nível superior · caderno 930_INPI_CC1, item 80",
+    "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+    "ano": 2023,
+    "enunciado": "O orçamento público no Brasil é exclusivamente autorizativo, o que permite ao Poder Executivo contingenciar as dotações previstas na LOA, visando alcançar a meta de resultado primário estabelecida na LDO.",
+    "gabarito": "E",
+    "nivel": "Difícil",
+    "tags": [
+     "ABSOLUTO",
+     "PARTE_CERTA_PARTE_ERRADA"
+    ],
+    "padrao": "Parte verdadeira (contingenciamento por meta da LDO) + palavra absoluta 'exclusivamente' que torna o item errado.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-orcamento-autorizativo",
+    "nucleo_texto": "Orçamento é autorizativo; despesas obrigatórias não podem ser contingenciadas livremente",
+    "comentario": "A segunda parte está certa: a limitação de empenho (contingenciamento) segue critérios da LDO para cumprir metas (LRF, art. 9º). O erro está em \"<b>exclusivamente</b>\": há despesas obrigatórias (pessoal, benefícios previstos em lei) e emendas parlamentares de execução obrigatória. Palavra absoluta que derruba um item com parte verdadeira."
+   },
+   {
+    "k": "legado-038-anm-002-01#61",
+    "prova_id": "legado-038-anm-002-01",
+    "item": "61",
+    "ref": "Cebraspe · ANM (Edital 2024, aplicada em 16/02/2025) · Analista Administrativo / Especialista em Recursos Minerais · caderno 038_ANM_002, item 61",
+    "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_002_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/GAB_DEFINITIVO_038_ANM_002_01.PDF",
+    "ano": 2024,
+    "enunciado": "Se o Poder Executivo federal encaminhar um plano decenal setorial da área de minas e energia e este for aprovado pelo Congresso Nacional, o plano plurianual deverá ser adaptado para que esteja em consonância com o referido plano.",
+    "gabarito": "E",
+    "nivel": "Médio",
+    "tags": [
+     "INVERSAO"
+    ],
+    "padrao": "Seta invertida: planos setoriais se adaptam ao PPA (CF art. 165, §4º), não o contrário.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-planos-setoriais-ppa",
+    "nucleo_texto": "Planos e programas setoriais se compatibilizam com o PPA, não o contrário",
+    "comentario": "A seta está invertida. A CF (art. 165, §4º) manda que os planos e programas nacionais, regionais e setoriais sejam elaborados <b>em consonância com o PPA</b>, não o contrário. O PPA é o plano-mestre de médio prazo; os setoriais se encaixam nele."
+   },
+   {
+    "k": "legado-958-mpo-analista-001-01#8",
+    "prova_id": "legado-958-mpo-analista-001-01",
+    "item": "8",
+    "ref": "Cebraspe · MPO (Edital 2024, STDI/SOF/MPO) · Analista de Planejamento e Orçamento · caderno 958_MPO_ANALISTA_001, item 8",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A integração da lei orçamentária anual (LOA) ao plano plurianual (PPA) é expressa por meio dos projetos.",
+    "gabarito": "E",
+    "nivel": "Difícil",
+    "tags": [
+     "TROCA_TERMO"
+    ],
+    "padrao": "Troca de termo: o elo LOA–PPA é o programa, não o 'projeto'. Justificativa oficial não publicada; leitura é inferência.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-ppa-programa-acoes",
+    "nucleo_texto": "No PPA, programa é o conjunto de ações (orçamentárias e não orçamentárias) coordenadas; é o elo PPA–LOA",
+    "comentario": "Gabarito definitivo: ERRADO. O Cebraspe não publica a justificativa; a leitura mais coerente é que o elo entre as duas leis é o <b>programa</b> (o programa do PPA reaparece na LOA, detalhado em ações), e \"projeto\" é apenas um dos tipos de ação orçamentária. Se a explicação do elo ficar em dúvida na prova, este é um item para ponderar o risco."
+   }
+  ],
+  [
+   {
+    "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#24",
+    "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+    "item": "24",
+    "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+    "ano": 2024,
+    "enunciado": "Em relação ao conceito de receita pública, às suas classificações e aos seus estágios, bem como aos tributos e às contribuições sociais, julgue os itens a seguir. São consideradas derivadas as receitas públicas obtidas pelo poder público por intermédio da sua soberania estatal, tais como as receitas decorrentes de impostos, tarifas, contribuições e empréstimos compulsórios.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Receitas derivadas decorrem da soberania estatal",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-receita-conceitos",
+    "nucleo_texto": "Receita orçamentária é a prevista na LOA; a receita se classifica (originária/derivada, corrente/capital) e a previsão pertence ao planejamento, não aos estágios de execução",
+    "comentario": null
+   },
+   {
+    "k": "codevasf-2024-c01-administracao#71",
+    "prova_id": "codevasf-2024-c01-administracao",
+    "item": "71",
+    "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A lei de diretrizes orçamentárias (LDO) estabelece regras para a execução orçamentária do ano em curso e define exclusivamente regras para despesas dos Poderes Executivo e Legislativo.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "ABSOLUTO"
+    ],
+    "padrao": "\"Exclusivamente\" Executivo e Legislativo; a LDO alcança todos os Poderes, MP e Defensoria",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-ldo-limites-poderes",
+    "nucleo_texto": "A LDO fixa os limites das propostas orçamentárias do Judiciário; o Executivo ajusta",
+    "comentario": null
+   },
+   {
+    "k": "legado-958-mpo-analista-001-01#17",
+    "prova_id": "legado-958-mpo-analista-001-01",
+    "item": "17",
+    "ref": "Cebraspe · MPO (Edital 2024, STDI/SOF/MPO) · Analista de Planejamento e Orçamento · caderno 958_MPO_ANALISTA_001, item 17",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A LDO, em consonância com a Lei de Responsabilidade Fiscal (LRF), estabelece, anualmente, as diretrizes da política fiscal e as respectivas metas para a garantia sustentável da dívida pública.",
+    "gabarito": "C",
+    "nivel": "Médio",
+    "tags": [
+     "CONCEITO_MISTURADO"
+    ],
+    "padrao": "Conteúdo fiscal na LDO (LRF art. 4º). A banca testa quem atribui metas fiscais ao PPA ou à LOA.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+    "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)",
+    "comentario": "A LRF (art. 4º) colocou conteúdo fiscal na LDO: Anexo de Metas Fiscais (metas anuais de receita, despesa, resultados primário e nominal e dívida) e Anexo de Riscos Fiscais. \"Anualmente\" combina com a natureza da LDO (1 ano). Quem erra costuma achar que isso é papel do PPA."
+   },
+   {
+    "k": "legado-930-inpi-cc1-01#84",
+    "prova_id": "legado-930-inpi-cc1-01",
+    "item": "84",
+    "ref": "Cebraspe · INPI (Edital nº 1/2023, aplicada em 04/02/2024) · cargos de nível superior · caderno 930_INPI_CC1, item 84",
+    "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+    "ano": 2023,
+    "enunciado": "Os programas do PPA representam o conjunto coordenado de ações governamentais que, financiadas por recursos orçamentários e não orçamentários, visam à concretização do seu objetivo.",
+    "gabarito": "C",
+    "nivel": "Médio",
+    "tags": [
+     "TROCA_TERMO"
+    ],
+    "padrao": "Programa do PPA: a banca pode trocar 'orçamentários e não orçamentários' por 'somente orçamentários' para derrubar o item.",
+    "edital": "P1 · Adm. pública 4.1",
+    "nucleo": "n-ppa-programa-acoes",
+    "nucleo_texto": "No PPA, programa é o conjunto de ações (orçamentárias e não orçamentárias) coordenadas; é o elo PPA–LOA",
+    "comentario": "Programa é a unidade de organização do PPA: reúne ações coordenadas para alcançar um objetivo. O detalhe \"orçamentários e não orçamentários\" confere: o PPA olha o conjunto da política, inclusive fontes que não passam pela LOA (ex.: financiamentos e renúncias). A armadilha seria trocar por \"somente recursos orçamentários\"."
+   },
+   {
+    "k": "tce-ac-2024-c14-administracao#101",
+    "prova_id": "tce-ac-2024-c14-administracao",
+    "item": "101",
+    "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+    "ano": 2024,
+    "enunciado": "De acordo com a LRF, a lei de diretrizes orçamentárias deve dispor sobre critérios e forma de limitação de empenho, normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos e demais condições e exigências para transferências de recursos a entidades públicas e privadas. No que tange à receita pública, julgue os itens subsequentes.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "LDO dispõe sobre limitação de empenho e controle de custos (LRF art. 4º)",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+    "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)",
+    "comentario": null
+   },
+   {
+    "k": "seplan-rr-2022-c02-tecnologia-informacao#66",
+    "prova_id": "seplan-rr-2022-c02-tecnologia-informacao",
+    "item": "66",
+    "ref": "Cebraspe SEPLAN RR 2022 · CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/781_SEPLAN_RR_002_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/GAB_DEFINITIVO_781_SEPLAN_RR_002_01.PDF",
+    "ano": 2022,
+    "enunciado": "A estrutura programática do orçamento reflete-se na estruturação da despesa em programas compostos por ações voltadas à solução de um problema ou atendimento de uma necessidade social.",
+    "gabarito": "C",
+    "nivel": "facil",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Estrutura programática: programas compostos por ações",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-ppa-programa-acoes",
+    "nucleo_texto": "No PPA, programa é o conjunto de ações (orçamentárias e não orçamentárias) coordenadas; é o elo PPA–LOA",
+    "comentario": null
+   },
+   {
+    "k": "tce-sc-auditor-2021-c01-administracao#87",
+    "prova_id": "tce-sc-auditor-2021-c01-administracao",
+    "item": "87",
+    "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+    "ano": 2021,
+    "enunciado": "A LDO, de acordo com a LRF, deverá dispor tanto sobre critérios e forma de limitação de empenho quanto sobre normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "LDO dispõe sobre limitação de empenho e controle de custos (LRF art. 4º)",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+    "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)",
+    "comentario": null
+   }
+  ]
+ ],
+ "lacunas": []
+}

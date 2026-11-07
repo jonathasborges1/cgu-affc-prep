@@ -1,0 +1,1107 @@
+{
+ "tema": "P1·ADM 4.1",
+ "n_itens": 27,
+ "n_nucleos": 18,
+ "alvo_amostra": 8,
+ "fracao": 0.28,
+ "teto": 6,
+ "max_nucleos": 5,
+ "simulacao": false,
+ "aulas": [
+  {
+   "k": 1,
+   "nucleos": [
+    {
+     "id": "n-ldo-orienta-loa-metas-fiscais",
+     "texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)",
+     "edital": "P1·ADM 4.1",
+     "massa": 4,
+     "cota": 1,
+     "amostra": [
+      "codevasf-2024-c01-administracao#99"
+     ],
+     "reserva": [
+      "codevasf-2024-c01-administracao#115",
+      "tce-ac-2024-c14-administracao#101",
+      "tce-sc-auditor-2021-c01-administracao#87"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-lrf-impacto-despesa",
+     "texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)",
+     "edital": "P1·ADM 4.1",
+     "massa": 3,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#38"
+     ],
+     "reserva": [
+      "codevasf-2024-c01-administracao#116",
+      "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#99"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-emendas-loa",
+     "texto": "Emendas à LOA exigem compatibilidade com PPA/LDO e fonte por anulação, com exclusões previstas",
+     "edital": "P1·ADM 4.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#20"
+     ],
+     "reserva": [
+      "tce-ac-2024-c14-administracao#94"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-receita-conceitos",
+     "texto": "Receita orçamentária é a prevista na LOA; a receita se classifica (originária/derivada, corrente/capital) e a previsão pertence ao planejamento, não aos estágios de execução",
+     "edital": "P1·ADM 4.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#24"
+     ],
+     "reserva": [
+      "seplan-rr-2022-c02-tecnologia-informacao#70"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-creditos-adicionais",
+     "texto": "Suplementar reforça dotação existente; especial atende despesa sem dotação específica; extraordinário só para despesa urgente e imprevisível (guerra, comoção, calamidade)",
+     "edital": "P1·ADM 4.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "codevasf-2024-c01-administracao#103"
+     ],
+     "reserva": [
+      "tce-sc-auditor-2021-c01-administracao#86"
+     ],
+     "saturou": false
+    }
+   ],
+   "massa": 13,
+   "amostra": 5,
+   "reserva": 8,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "codevasf-2024-c01-administracao#99",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "99",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei de diretrizes orçamentárias (LDO) compreende as metas e prioridades da administração pública, estabelece as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orienta a elaboração da LOA, dispõe sobre as alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Conteúdo da LDO (CF art. 165 §2º)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+      "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)"
+     }
+    ],
+    "B1": [
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#38",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "38",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "A ampliação de despesa obrigatória por prazo superior a dois exercícios financeiros deverá ser precedida da estimativa do seu impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes e da comprovação de que a despesa criada ou aumentada não afetará as metas de resultados fiscais, devendo, de forma exclusiva, seus efeitos ser compensados pelo aumento permanente de receita.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"De forma exclusiva\" compensada por aumento de receita; a LRF admite também redução permanente de despesa",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-lrf-impacto-despesa",
+      "nucleo_texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#20",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "20",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "As emendas ao projeto de lei do orçamento propostas por parlamentares devem conter indicações dos recursos, que podem ser originados de anulações de despesas ou do superávit financeiro do exercício anterior.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ESCOPO"
+      ],
+      "padrao": "Admite \"superávit financeiro\" como fonte; a CF só admite anulação de despesa (com exclusões)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-emendas-loa",
+      "nucleo_texto": "Emendas à LOA exigem compatibilidade com PPA/LDO e fonte por anulação, com exclusões previstas"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#24",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "24",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Em relação ao conceito de receita pública, às suas classificações e aos seus estágios, bem como aos tributos e às contribuições sociais, julgue os itens a seguir. São consideradas derivadas as receitas públicas obtidas pelo poder público por intermédio da sua soberania estatal, tais como as receitas decorrentes de impostos, tarifas, contribuições e empréstimos compulsórios.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Receitas derivadas decorrem da soberania estatal",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-receita-conceitos",
+      "nucleo_texto": "Receita orçamentária é a prevista na LOA; a receita se classifica (originária/derivada, corrente/capital) e a previsão pertence ao planejamento, não aos estágios de execução"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#103",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "103",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "As despesas decorrentes da criação de novos órgãos públicos inexistentes quando da aprovação da LOA do exercício serão suplantadas por meio de créditos adicionais suplementares.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Órgão novo sem dotação exige crédito especial, não suplementar",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-creditos-adicionais",
+      "nucleo_texto": "Suplementar reforça dotação existente; especial atende despesa sem dotação específica; extraordinário só para despesa urgente e imprevisível (guerra, comoção, calamidade)"
+     }
+    ],
+    "C1": [
+     {
+      "k": "codevasf-2024-c01-administracao#115",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "115",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "O anexo de metas fiscais da lei de diretrizes orçamentárias (LDO) deverá conter quadro demonstrativo do cálculo da meta do resultado primário, em que se evidenciem os principais agregados de receitas e despesas, os resultados, comparados com os valores programados para o exercício em curso e os realizados nos dois exercícios anteriores, e as estimativas para o exercício a que se referem e para os subsequentes.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Conteúdo do anexo de metas fiscais (LRF art. 4º §2º)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+      "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)"
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#101",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "101",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "De acordo com a LRF, a lei de diretrizes orçamentárias deve dispor sobre critérios e forma de limitação de empenho, normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos e demais condições e exigências para transferências de recursos a entidades públicas e privadas. No que tange à receita pública, julgue os itens subsequentes.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "LDO dispõe sobre limitação de empenho e controle de custos (LRF art. 4º)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+      "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#116",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "116",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A criação da despesa obrigatória de caráter continuado depende da compensação de seu impacto pelo aumento permanente da receita ou pela redução permanente da despesa, que poderá ser realizada durante a sua execução.",
+      "gabarito": "E",
+      "nivel": "dificil",
+      "tags": [
+       "PARTE_CERTA_PARTE_ERRADA"
+      ],
+      "padrao": "A compensação deve ser comprovada no ato de criação, não \"durante a execução\"",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-lrf-impacto-despesa",
+      "nucleo_texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)"
+     },
+     {
+      "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#99",
+      "prova_id": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas",
+      "item": "99",
+      "ref": "Cebraspe SEPLAG/CE 24 2024 · CARGO 1: ANALISTA DE GESTÃO PÚBLICA – ÁREA DE ATUAÇÃO: GESTÃO E DESENVOLVIMENTO DE PESSOAS",
+      "url": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/982_SEPLAG_CE_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/GAB_DEFINITIVO_982_SEPLAG_CE_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A criação de ação governamental que acarrete aumento de despesa deve ser acompanhada da estimativa do impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes, sendo a apresentação de tal estimativa uma das condições prévias para a realização de empenho e licitação de serviços.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Estimativa de impacto no exercício e nos dois seguintes (LRF art. 16)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-lrf-impacto-despesa",
+      "nucleo_texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)"
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#94",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "94",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "É vedada a aprovação de emendas parlamentares que acrescentem novas programações ao projeto de lei orçamentária anual e que não indiquem os recursos necessários, seja por meio de anulações de despesas, seja por meio de receitas erradas ou omitidas.",
+      "gabarito": "E",
+      "nivel": "dificil",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Emendas só são vedadas sem indicação de recursos; erros ou omissões são exceção admitida",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-emendas-loa",
+      "nucleo_texto": "Emendas à LOA exigem compatibilidade com PPA/LDO e fonte por anulação, com exclusões previstas"
+     },
+     {
+      "k": "seplan-rr-2022-c02-tecnologia-informacao#70",
+      "prova_id": "seplan-rr-2022-c02-tecnologia-informacao",
+      "item": "70",
+      "ref": "Cebraspe SEPLAN RR 2022 · CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/781_SEPLAN_RR_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/GAB_DEFINITIVO_781_SEPLAN_RR_002_01.PDF",
+      "ano": 2022,
+      "enunciado": "Receita orçamentária é toda receita que tenha sido prevista na lei orçamentária anual.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Receita orçamentária é a prevista na LOA",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-receita-conceitos",
+      "nucleo_texto": "Receita orçamentária é a prevista na LOA; a receita se classifica (originária/derivada, corrente/capital) e a previsão pertence ao planejamento, não aos estágios de execução"
+     },
+     {
+      "k": "tce-sc-auditor-2021-c01-administracao#87",
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "item": "87",
+      "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "A LDO, de acordo com a LRF, deverá dispor tanto sobre critérios e forma de limitação de empenho quanto sobre normas relativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "LDO dispõe sobre limitação de empenho e controle de custos (LRF art. 4º)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+      "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)"
+     },
+     {
+      "k": "tce-sc-auditor-2021-c01-administracao#86",
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "item": "86",
+      "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "Os créditos adicionais especiais são aqueles destinados a despesas para as quais não haja dotação orçamentária específica, inclusive as urgentes e imprevistas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Descreve crédito extraordinário com o nome de especial",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-creditos-adicionais",
+      "nucleo_texto": "Suplementar reforça dotação existente; especial atende despesa sem dotação específica; extraordinário só para despesa urgente e imprevisível (guerra, comoção, calamidade)"
+     }
+    ]
+   }
+  },
+  {
+   "k": 2,
+   "nucleos": [
+    {
+     "id": "n-sistema-planejamento-orcamento",
+     "texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa",
+     "edital": "P1·ADM 4.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c14-administracao#99"
+     ],
+     "reserva": [
+      "tce-sc-auditor-2021-c01-administracao#85"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-funcoes-estado-musgrave",
+     "texto": "O setor público exerce funções alocativa (bens públicos e meritórios), distributiva e estabilizadora; a alocação não se resume ao orçamento",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "inpi-2023-cc1#78"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-arcabouco-fiscal",
+     "texto": "O regime fiscal sustentável (LC 200/2023) limita o crescimento das despesas primárias da União, sem a vigência fixa de 40 exercícios",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-receita-estagios-regime",
+     "texto": "A receita orçamentária é reconhecida pelo regime de caixa (arrecadação); seus estágios de execução são lançamento, arrecadação e recolhimento, e a previsão pertence ao planejamento",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-despesa-conceitos",
+     "texto": "Toda despesa orçamentária depende de autorização legislativa (dotação na LOA ou crédito adicional) e segue empenho, liquidação e pagamento; despesas de exercícios anteriores têm regra própria",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "mp-to-servidor-2024-c01-administracao-banco-dados#111"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 6,
+   "amostra": 5,
+   "reserva": 1,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "tce-ac-2024-c14-administracao#99",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "99",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os órgãos setoriais e específicos ficam sujeitos à orientação normativa e à supervisão técnica do órgão central do sistema de planejamento e orçamento federal, sem prejuízo da subordinação ao órgão em cuja estrutura administrativa estiverem integrados.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Órgão central orienta e supervisiona órgãos setoriais e específicos (Lei 10.180/2001)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-sistema-planejamento-orcamento",
+      "nucleo_texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa"
+     },
+     {
+      "k": "inpi-2023-cc1#78",
+      "prova_id": "inpi-2023-cc1",
+      "item": "78",
+      "ref": "Cebraspe INPI 2023 conhecimentos comuns (CC1)",
+      "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+      "ano": 2023,
+      "enunciado": "A função alocativa do setor público está relacionada ao uso exclusivo do orçamento público para o provisionamento de bens públicos e bens meritórios em complemento àqueles produzidos pelo mercado.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Uso exclusivo do orçamento\" para a função alocativa; a alocação usa também regulação e tributação",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-funcoes-estado-musgrave",
+      "nucleo_texto": "O setor público exerce funções alocativa (bens públicos e meritórios), distributiva e estabilizadora; a alocação não se resume ao orçamento"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "5",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Com o propósito de viabilizar o controle dos gastos públicos, principalmente os relacionados a gastos com pessoal e despesas correntes, o chamado Novo Regime Fiscal Sustentável (NAF), aprovado em dezembro de 2023, vigorará por quarenta exercícios financeiros, estabelecendo, para cada exercício, limites globais para as despesas primárias do orçamento federal. mando que imediatamente o antecede. De acordo com o comando a spostas, para cada item: o campo designado com o código C, caso o E, caso julgue o item ERRADO. A ausência de marcação ou a ão receberão pontuação negativa. Para as devidas marcações, use a a sua prova objetiva. conhecimentos de informática e(ou) tecnologia da informação, considere que todos os programas mencionados estão em e funcionamento e de uso em relação aos programas, arquivos, o “Espaço livre” — que constarem deste caderno de prova poderão BJETIVA P2 -- OS ESPECÍFICOS -A respeito do planejamento governamental no Brasil, incluído o planejamento orçamentário, julgue os itens a seguir.",
+      "gabarito": "E",
+      "nivel": "dificil",
+      "tags": [
+       "DETALHE_NUMERICO"
+      ],
+      "padrao": "Prazo de vigência inventado (\"quarenta exercícios\"); a LC 200/2023 não fixa esse prazo",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-arcabouco-fiscal",
+      "nucleo_texto": "O regime fiscal sustentável (LC 200/2023) limita o crescimento das despesas primárias da União, sem a vigência fixa de 40 exercícios"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "31",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Pelo regime orçamentário, a receita é reconhecida a partir do momento de sua arrecadação, que necessariamente coincide com o momento da ocorrência do seu fato gerador.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Necessariamente coincide\" com o fato gerador; o regime orçamentário reconhece a receita na arrecadação",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-receita-estagios-regime",
+      "nucleo_texto": "A receita orçamentária é reconhecida pelo regime de caixa (arrecadação); seus estágios de execução são lançamento, arrecadação e recolhimento, e a previsão pertence ao planejamento"
+     },
+     {
+      "k": "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+      "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+      "item": "111",
+      "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de Banco de Dados",
+      "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A elaboração do contrato e a execução da contratação prescindem de disponibilidade orçamentária prévia; dessa forma, os serviços poderão ser licitados sem que haja previsão de recursos orçamentários no exercício financeiro em curso, desde que a despesa integre o exercício financeiro subsequente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CAUSA_CONSEQUENCIA",
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "Contratação exige previsão de recursos orçamentários no exercício",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-despesa-conceitos",
+      "nucleo_texto": "Toda despesa orçamentária depende de autorização legislativa (dotação na LOA ou crédito adicional) e segue empenho, liquidação e pagamento; despesas de exercícios anteriores têm regra própria"
+     }
+    ],
+    "C1": [
+     {
+      "k": "codevasf-2024-c01-administracao#99",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "99",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei de diretrizes orçamentárias (LDO) compreende as metas e prioridades da administração pública, estabelece as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orienta a elaboração da LOA, dispõe sobre as alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Conteúdo da LDO (CF art. 165 §2º)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-orienta-loa-metas-fiscais",
+      "nucleo_texto": "A LDO orienta a elaboração da LOA e traz as metas fiscais (LRF art. 4º)"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#38",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "38",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "A ampliação de despesa obrigatória por prazo superior a dois exercícios financeiros deverá ser precedida da estimativa do seu impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes e da comprovação de que a despesa criada ou aumentada não afetará as metas de resultados fiscais, devendo, de forma exclusiva, seus efeitos ser compensados pelo aumento permanente de receita.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"De forma exclusiva\" compensada por aumento de receita; a LRF admite também redução permanente de despesa",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-lrf-impacto-despesa",
+      "nucleo_texto": "Criar ou aumentar despesa exige estimativa de impacto no exercício e nos dois seguintes (LRF art. 16); despesa obrigatória de caráter continuado exige compensação por aumento permanente de receita ou redução permanente de despesa (art. 17)"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#20",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "20",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "As emendas ao projeto de lei do orçamento propostas por parlamentares devem conter indicações dos recursos, que podem ser originados de anulações de despesas ou do superávit financeiro do exercício anterior.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ESCOPO"
+      ],
+      "padrao": "Admite \"superávit financeiro\" como fonte; a CF só admite anulação de despesa (com exclusões)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-emendas-loa",
+      "nucleo_texto": "Emendas à LOA exigem compatibilidade com PPA/LDO e fonte por anulação, com exclusões previstas"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#24",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "24",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Em relação ao conceito de receita pública, às suas classificações e aos seus estágios, bem como aos tributos e às contribuições sociais, julgue os itens a seguir. São consideradas derivadas as receitas públicas obtidas pelo poder público por intermédio da sua soberania estatal, tais como as receitas decorrentes de impostos, tarifas, contribuições e empréstimos compulsórios.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Receitas derivadas decorrem da soberania estatal",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-receita-conceitos",
+      "nucleo_texto": "Receita orçamentária é a prevista na LOA; a receita se classifica (originária/derivada, corrente/capital) e a previsão pertence ao planejamento, não aos estágios de execução"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#103",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "103",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "As despesas decorrentes da criação de novos órgãos públicos inexistentes quando da aprovação da LOA do exercício serão suplantadas por meio de créditos adicionais suplementares.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Órgão novo sem dotação exige crédito especial, não suplementar",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-creditos-adicionais",
+      "nucleo_texto": "Suplementar reforça dotação existente; especial atende despesa sem dotação específica; extraordinário só para despesa urgente e imprevisível (guerra, comoção, calamidade)"
+     },
+     {
+      "k": "tce-sc-auditor-2021-c01-administracao#85",
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "item": "85",
+      "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "No sistema de planejamento e de orçamento federal, são órgãos setoriais as unidades de planejamento e orçamento dos Ministérios, bem como as vinculadas ou subordinadas ao órgão central do Sistema, cuja missão está voltada para as atividades de planejamento e orçamento.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "Troca órgão setorial por específico (vinculados ou subordinados ao órgão central)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-sistema-planejamento-orcamento",
+      "nucleo_texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa"
+     }
+    ]
+   }
+  },
+  {
+   "k": 3,
+   "nucleos": [
+    {
+     "id": "n-ldo-limites-poderes",
+     "texto": "A LDO fixa os limites das propostas orçamentárias do Judiciário; o Executivo ajusta",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "codevasf-2024-c01-administracao#71"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-loa-tres-orcamentos",
+     "texto": "A LOA compreende o orçamento fiscal, o da seguridade social e o de investimento das estatais em que a União detenha a maioria do capital votante, e respeita a totalidade",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "codevasf-2024-c01-administracao#94"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-classificacao-funcional",
+     "texto": "A classificação funcional (função e subfunção) agrega as áreas de atuação do setor público; a subfunção pode combinar com funções diferentes; função não se confunde com programa",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "codevasf-2024-c01-administracao#101"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-orcamento-base-zero",
+     "texto": "No orçamento base-zero toda despesa é reavaliada e justificada a cada ciclo, sem direito adquirido ao gasto do ano anterior",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c14-administracao#91"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-orcamento-tradicional",
+     "texto": "O orçamento tradicional é lei que estima receita e fixa despesa, como autorização política sem foco em resultados",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c14-administracao#93"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "tce-ac-2024-c14-administracao#91",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "91",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "No orçamento base-zero, é realizado um reexame crítico das despesas de cada área governamental, de modo que não há direitos adquiridos em relação aos montantes gastos ou ao nível de atividade da ação governamental realizada no ano anterior.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Base-zero: sem direitos adquiridos sobre o gasto do ano anterior",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-orcamento-base-zero",
+      "nucleo_texto": "No orçamento base-zero toda despesa é reavaliada e justificada a cada ciclo, sem direito adquirido ao gasto do ano anterior"
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#93",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "93",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "O orçamento público, em sua concepção tradicional, consistia em uma autorização para que o Poder Executivo arrecadasse tributos e realizasse despesas, de modo que o aspecto econômico era de importância secundária para o Poder Legislativo.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Orçamento tradicional: autorização com ênfase política, não econômica",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-orcamento-tradicional",
+      "nucleo_texto": "O orçamento tradicional é lei que estima receita e fixa despesa, como autorização política sem foco em resultados"
+     }
+    ],
+    "B1": [
+     {
+      "k": "codevasf-2024-c01-administracao#71",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "71",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei de diretrizes orçamentárias (LDO) estabelece regras para a execução orçamentária do ano em curso e define exclusivamente regras para despesas dos Poderes Executivo e Legislativo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Exclusivamente\" Executivo e Legislativo; a LDO alcança todos os Poderes, MP e Defensoria",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-limites-poderes",
+      "nucleo_texto": "A LDO fixa os limites das propostas orçamentárias do Judiciário; o Executivo ajusta"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#94",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "94",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei orçamentária anual (LOA) não segue o princípio da totalidade, pois é composta por três orçamentos, assim não obedece à lógica pela qual o orçamento deve ser uno, com todas as receitas previstas e despesas fixadas, em cada exercício financeiro, integrando um único documento legal no âmbito de cada nível federativo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO",
+       "CAUSA_CONSEQUENCIA"
+      ],
+      "padrao": "Nega a totalidade por haver três orçamentos; a LOA é una e segue a totalidade",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-loa-tres-orcamentos",
+      "nucleo_texto": "A LOA compreende o orçamento fiscal, o da seguridade social e o de investimento das estatais em que a União detenha a maioria do capital votante, e respeita a totalidade"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#101",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "101",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A classificação     funcional é formada por funções e subfunções: enquanto a função diz respeito ao maior nível de agregação das diversas áreas de atuação do setor público e deve estar relacionada à missão institucional do órgão de atuação, a subfunção é relacionada à área da despesa na qual a ação será executada.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Função e subfunção na classificação funcional",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-classificacao-funcional",
+      "nucleo_texto": "A classificação funcional (função e subfunção) agrega as áreas de atuação do setor público; a subfunção pode combinar com funções diferentes; função não se confunde com programa"
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c14-administracao#99",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "99",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os órgãos setoriais e específicos ficam sujeitos à orientação normativa e à supervisão técnica do órgão central do sistema de planejamento e orçamento federal, sem prejuízo da subordinação ao órgão em cuja estrutura administrativa estiverem integrados.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Órgão central orienta e supervisiona órgãos setoriais e específicos (Lei 10.180/2001)",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-sistema-planejamento-orcamento",
+      "nucleo_texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "5",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Com o propósito de viabilizar o controle dos gastos públicos, principalmente os relacionados a gastos com pessoal e despesas correntes, o chamado Novo Regime Fiscal Sustentável (NAF), aprovado em dezembro de 2023, vigorará por quarenta exercícios financeiros, estabelecendo, para cada exercício, limites globais para as despesas primárias do orçamento federal. mando que imediatamente o antecede. De acordo com o comando a spostas, para cada item: o campo designado com o código C, caso o E, caso julgue o item ERRADO. A ausência de marcação ou a ão receberão pontuação negativa. Para as devidas marcações, use a a sua prova objetiva. conhecimentos de informática e(ou) tecnologia da informação, considere que todos os programas mencionados estão em e funcionamento e de uso em relação aos programas, arquivos, o “Espaço livre” — que constarem deste caderno de prova poderão BJETIVA P2 -- OS ESPECÍFICOS -A respeito do planejamento governamental no Brasil, incluído o planejamento orçamentário, julgue os itens a seguir.",
+      "gabarito": "E",
+      "nivel": "dificil",
+      "tags": [
+       "DETALHE_NUMERICO"
+      ],
+      "padrao": "Prazo de vigência inventado (\"quarenta exercícios\"); a LC 200/2023 não fixa esse prazo",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-arcabouco-fiscal",
+      "nucleo_texto": "O regime fiscal sustentável (LC 200/2023) limita o crescimento das despesas primárias da União, sem a vigência fixa de 40 exercícios"
+     },
+     {
+      "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31",
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "item": "31",
+      "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+      "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+      "ano": 2024,
+      "enunciado": "Pelo regime orçamentário, a receita é reconhecida a partir do momento de sua arrecadação, que necessariamente coincide com o momento da ocorrência do seu fato gerador.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Necessariamente coincide\" com o fato gerador; o regime orçamentário reconhece a receita na arrecadação",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-receita-estagios-regime",
+      "nucleo_texto": "A receita orçamentária é reconhecida pelo regime de caixa (arrecadação); seus estágios de execução são lançamento, arrecadação e recolhimento, e a previsão pertence ao planejamento"
+     },
+     {
+      "k": "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+      "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+      "item": "111",
+      "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de Banco de Dados",
+      "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A elaboração do contrato e a execução da contratação prescindem de disponibilidade orçamentária prévia; dessa forma, os serviços poderão ser licitados sem que haja previsão de recursos orçamentários no exercício financeiro em curso, desde que a despesa integre o exercício financeiro subsequente.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CAUSA_CONSEQUENCIA",
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "Contratação exige previsão de recursos orçamentários no exercício",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-despesa-conceitos",
+      "nucleo_texto": "Toda despesa orçamentária depende de autorização legislativa (dotação na LOA ou crédito adicional) e segue empenho, liquidação e pagamento; despesas de exercícios anteriores têm regra própria"
+     },
+     {
+      "k": "inpi-2023-cc1#78",
+      "prova_id": "inpi-2023-cc1",
+      "item": "78",
+      "ref": "Cebraspe INPI 2023 conhecimentos comuns (CC1)",
+      "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+      "ano": 2023,
+      "enunciado": "A função alocativa do setor público está relacionada ao uso exclusivo do orçamento público para o provisionamento de bens públicos e bens meritórios em complemento àqueles produzidos pelo mercado.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Uso exclusivo do orçamento\" para a função alocativa; a alocação usa também regulação e tributação",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-funcoes-estado-musgrave",
+      "nucleo_texto": "O setor público exerce funções alocativa (bens públicos e meritórios), distributiva e estabilizadora; a alocação não se resume ao orçamento"
+     }
+    ]
+   }
+  },
+  {
+   "k": 4,
+   "nucleos": [
+    {
+     "id": "n-ppa-programa-acoes",
+     "texto": "No PPA, programa é o conjunto de ações (orçamentárias e não orçamentárias) coordenadas; é o elo PPA–LOA",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "seplan-rr-2022-c02-tecnologia-informacao#66"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-principios-orcamentarios",
+     "texto": "Princípios orçamentários: unidade (harmonia entre PPA, LDO e LOA), universalidade (todas as receitas e despesas na LOA) e exclusividade; a LOA não condiciona a cobrança de tributos",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-sc-auditor-2021-c01-administracao#81"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-divida-publica-fundada",
+     "texto": "Operação de crédito com prazo inferior a 12 meses cuja receita tenha constado do orçamento integra a dívida consolidada",
+     "edital": "P1·ADM 4.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-sc-auditor-2021-c01-administracao#97"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 3,
+   "amostra": 3,
+   "reserva": 0,
+   "cadernos": {
+    "A1": [
+     {
+      "k": "seplan-rr-2022-c02-tecnologia-informacao#66",
+      "prova_id": "seplan-rr-2022-c02-tecnologia-informacao",
+      "item": "66",
+      "ref": "Cebraspe SEPLAN RR 2022 · CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/781_SEPLAN_RR_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAN_RR_22/arquivos/GAB_DEFINITIVO_781_SEPLAN_RR_002_01.PDF",
+      "ano": 2022,
+      "enunciado": "A estrutura programática do orçamento reflete-se na estruturação da despesa em programas compostos por ações voltadas à solução de um problema ou atendimento de uma necessidade social.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Estrutura programática: programas compostos por ações",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ppa-programa-acoes",
+      "nucleo_texto": "No PPA, programa é o conjunto de ações (orçamentárias e não orçamentárias) coordenadas; é o elo PPA–LOA"
+     }
+    ],
+    "B1": [
+     {
+      "k": "tce-sc-auditor-2021-c01-administracao#81",
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "item": "81",
+      "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "O princípio da universalidade estabelece a necessidade de todas as receitas e despesas estarem previstas na LOA, de modo que, atualmente, há a necessidade do cumprimento desse princípio para exigir tributos.",
+      "gabarito": "E",
+      "nivel": "dificil",
+      "tags": [
+       "CAUSA_CONSEQUENCIA"
+      ],
+      "padrao": "Liga a universalidade à exigência de tributos; a cobrança não depende do princípio",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-principios-orcamentarios",
+      "nucleo_texto": "Princípios orçamentários: unidade (harmonia entre PPA, LDO e LOA), universalidade (todas as receitas e despesas na LOA) e exclusividade; a LOA não condiciona a cobrança de tributos"
+     },
+     {
+      "k": "tce-sc-auditor-2021-c01-administracao#97",
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "item": "97",
+      "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+      "ano": 2021,
+      "enunciado": "Se, em janeiro de determinado ano, o Estado de Santa Catarina realizou operação de crédito para pagamento no mês de setembro desse ano, cuja receita estava prevista na LOA, então, é correto afirmar que, de acordo com a LRF, a operação será considerada no cálculo da dívida pública fundada. No que diz respeito à LRF, julgue os itens que se seguem.",
+      "gabarito": "C",
+      "nivel": "dificil",
+      "tags": [
+       "DETALHE_NUMERICO"
+      ],
+      "padrao": "Operação de nove meses com receita prevista na LOA entra na dívida fundada",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-divida-publica-fundada",
+      "nucleo_texto": "Operação de crédito com prazo inferior a 12 meses cuja receita tenha constado do orçamento integra a dívida consolidada"
+     }
+    ],
+    "C1": [
+     {
+      "k": "codevasf-2024-c01-administracao#71",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "71",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei de diretrizes orçamentárias (LDO) estabelece regras para a execução orçamentária do ano em curso e define exclusivamente regras para despesas dos Poderes Executivo e Legislativo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Exclusivamente\" Executivo e Legislativo; a LDO alcança todos os Poderes, MP e Defensoria",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-ldo-limites-poderes",
+      "nucleo_texto": "A LDO fixa os limites das propostas orçamentárias do Judiciário; o Executivo ajusta"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#94",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "94",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A lei orçamentária anual (LOA) não segue o princípio da totalidade, pois é composta por três orçamentos, assim não obedece à lógica pela qual o orçamento deve ser uno, com todas as receitas previstas e despesas fixadas, em cada exercício financeiro, integrando um único documento legal no âmbito de cada nível federativo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO",
+       "CAUSA_CONSEQUENCIA"
+      ],
+      "padrao": "Nega a totalidade por haver três orçamentos; a LOA é una e segue a totalidade",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-loa-tres-orcamentos",
+      "nucleo_texto": "A LOA compreende o orçamento fiscal, o da seguridade social e o de investimento das estatais em que a União detenha a maioria do capital votante, e respeita a totalidade"
+     },
+     {
+      "k": "codevasf-2024-c01-administracao#101",
+      "prova_id": "codevasf-2024-c01-administracao",
+      "item": "101",
+      "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+      "ano": 2024,
+      "enunciado": "A classificação     funcional é formada por funções e subfunções: enquanto a função diz respeito ao maior nível de agregação das diversas áreas de atuação do setor público e deve estar relacionada à missão institucional do órgão de atuação, a subfunção é relacionada à área da despesa na qual a ação será executada.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Função e subfunção na classificação funcional",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-classificacao-funcional",
+      "nucleo_texto": "A classificação funcional (função e subfunção) agrega as áreas de atuação do setor público; a subfunção pode combinar com funções diferentes; função não se confunde com programa"
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#91",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "91",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "No orçamento base-zero, é realizado um reexame crítico das despesas de cada área governamental, de modo que não há direitos adquiridos em relação aos montantes gastos ou ao nível de atividade da ação governamental realizada no ano anterior.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Base-zero: sem direitos adquiridos sobre o gasto do ano anterior",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-orcamento-base-zero",
+      "nucleo_texto": "No orçamento base-zero toda despesa é reavaliada e justificada a cada ciclo, sem direito adquirido ao gasto do ano anterior"
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#93",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "93",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "O orçamento público, em sua concepção tradicional, consistia em uma autorização para que o Poder Executivo arrecadasse tributos e realizasse despesas, de modo que o aspecto econômico era de importância secundária para o Poder Legislativo.",
+      "gabarito": "C",
+      "nivel": "facil",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "Orçamento tradicional: autorização com ênfase política, não econômica",
+      "edital": "P1·ADM 4.1",
+      "nucleo": "n-orcamento-tradicional",
+      "nucleo_texto": "O orçamento tradicional é lei que estima receita e fixa despesa, como autorização política sem foco em resultados"
+     }
+    ]
+   }
+  }
+ ]
+}

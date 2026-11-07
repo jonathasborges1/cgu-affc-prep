@@ -1,0 +1,136 @@
+{
+ "aula": "Aula 2 – Sistema de planejamento, arcabouço fiscal, classificação funcional, despesa e dívida (P1·ADM 4.1)",
+ "ensina": [
+  "n-arcabouco-fiscal",
+  "n-classificacao-funcional",
+  "n-despesa-conceitos",
+  "n-divida-publica-fundada",
+  "n-sistema-planejamento-orcamento"
+ ],
+ "cadernos": [
+  [
+   {
+    "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
+    "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+    "item": "5",
+    "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+    "ano": 2024,
+    "enunciado": "Com o propósito de viabilizar o controle dos gastos públicos, principalmente os relacionados a gastos com pessoal e despesas correntes, o chamado Novo Regime Fiscal Sustentável (NAF), aprovado em dezembro de 2023, vigorará por quarenta exercícios financeiros, estabelecendo, para cada exercício, limites globais para as despesas primárias do orçamento federal. mando que imediatamente o antecede. De acordo com o comando a spostas, para cada item: o campo designado com o código C, caso o E, caso julgue o item ERRADO. A ausência de marcação ou a ão receberão pontuação negativa. Para as devidas marcações, use a a sua prova objetiva. conhecimentos de informática e(ou) tecnologia da informação, considere que todos os programas mencionados estão em e funcionamento e de uso em relação aos programas, arquivos, o “Espaço livre” — que constarem deste caderno de prova poderão BJETIVA P2 -- OS ESPECÍFICOS -A respeito do planejamento governamental no Brasil, incluído o planejamento orçamentário, julgue os itens a seguir.",
+    "gabarito": "E",
+    "nivel": "dificil",
+    "tags": [
+     "DETALHE_NUMERICO"
+    ],
+    "padrao": "Prazo de vigência inventado (\"quarenta exercícios\"); a LC 200/2023 não fixa esse prazo",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-arcabouco-fiscal",
+    "nucleo_texto": "O regime fiscal sustentável (LC 200/2023) limita o crescimento das despesas primárias da União, sem a vigência fixa de 40 exercícios",
+    "comentario": null
+   },
+   {
+    "k": "codevasf-2024-c01-administracao#101",
+    "prova_id": "codevasf-2024-c01-administracao",
+    "item": "101",
+    "ref": "Cebraspe codevasf_24 2024 · CARGO 1: ANALISTA EM DESENVOLVIMENTO REGIONAL – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/989_CODEVASF_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/CODEVASF_24/arquivos/GAB_DEFINITIVO_989_CODEVASF_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A classificação     funcional é formada por funções e subfunções: enquanto a função diz respeito ao maior nível de agregação das diversas áreas de atuação do setor público e deve estar relacionada à missão institucional do órgão de atuação, a subfunção é relacionada à área da despesa na qual a ação será executada.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Função e subfunção na classificação funcional",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-classificacao-funcional",
+    "nucleo_texto": "A classificação funcional (função e subfunção) agrega as áreas de atuação do setor público; a subfunção pode combinar com funções diferentes; função não se confunde com programa",
+    "comentario": null
+   },
+   {
+    "k": "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+    "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+    "item": "111",
+    "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de Banco de Dados",
+    "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_001_01.PDF",
+    "ano": 2024,
+    "enunciado": "A elaboração do contrato e a execução da contratação prescindem de disponibilidade orçamentária prévia; dessa forma, os serviços poderão ser licitados sem que haja previsão de recursos orçamentários no exercício financeiro em curso, desde que a despesa integre o exercício financeiro subsequente.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "CAUSA_CONSEQUENCIA",
+     "EXCECAO_OMITIDA"
+    ],
+    "padrao": "Contratação exige previsão de recursos orçamentários no exercício",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-despesa-conceitos",
+    "nucleo_texto": "Toda despesa orçamentária depende de autorização legislativa (dotação na LOA ou crédito adicional) e segue empenho, liquidação e pagamento; despesas de exercícios anteriores têm regra própria",
+    "comentario": null
+   },
+   {
+    "k": "tce-sc-auditor-2021-c01-administracao#97",
+    "prova_id": "tce-sc-auditor-2021-c01-administracao",
+    "item": "97",
+    "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+    "ano": 2021,
+    "enunciado": "Se, em janeiro de determinado ano, o Estado de Santa Catarina realizou operação de crédito para pagamento no mês de setembro desse ano, cuja receita estava prevista na LOA, então, é correto afirmar que, de acordo com a LRF, a operação será considerada no cálculo da dívida pública fundada. No que diz respeito à LRF, julgue os itens que se seguem.",
+    "gabarito": "C",
+    "nivel": "dificil",
+    "tags": [
+     "DETALHE_NUMERICO"
+    ],
+    "padrao": "Operação de nove meses com receita prevista na LOA entra na dívida fundada",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-divida-publica-fundada",
+    "nucleo_texto": "Operação de crédito com prazo inferior a 12 meses cuja receita tenha constado do orçamento integra a dívida consolidada",
+    "comentario": null
+   },
+   {
+    "k": "tce-ac-2024-c14-administracao#99",
+    "prova_id": "tce-ac-2024-c14-administracao",
+    "item": "99",
+    "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+    "ano": 2024,
+    "enunciado": "Os órgãos setoriais e específicos ficam sujeitos à orientação normativa e à supervisão técnica do órgão central do sistema de planejamento e orçamento federal, sem prejuízo da subordinação ao órgão em cuja estrutura administrativa estiverem integrados.",
+    "gabarito": "C",
+    "nivel": "medio",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Órgão central orienta e supervisiona órgãos setoriais e específicos (Lei 10.180/2001)",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-sistema-planejamento-orcamento",
+    "nucleo_texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa",
+    "comentario": null
+   },
+   {
+    "k": "tce-sc-auditor-2021-c01-administracao#85",
+    "prova_id": "tce-sc-auditor-2021-c01-administracao",
+    "item": "85",
+    "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+    "ano": 2021,
+    "enunciado": "No sistema de planejamento e de orçamento federal, são órgãos setoriais as unidades de planejamento e orçamento dos Ministérios, bem como as vinculadas ou subordinadas ao órgão central do Sistema, cuja missão está voltada para as atividades de planejamento e orçamento.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "TROCA_TERMO"
+    ],
+    "padrao": "Troca órgão setorial por específico (vinculados ou subordinados ao órgão central)",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-sistema-planejamento-orcamento",
+    "nucleo_texto": "No sistema federal de planejamento e orçamento, o órgão central orienta e supervisiona tecnicamente os órgãos setoriais e específicos, sem prejuízo da subordinação administrativa",
+    "comentario": null
+   }
+  ]
+ ],
+ "lacunas": []
+}

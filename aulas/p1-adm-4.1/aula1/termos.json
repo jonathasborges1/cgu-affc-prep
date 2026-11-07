@@ -1,0 +1,61 @@
+{
+ "isentas": [
+  "1",
+  "11",
+  "12",
+  "13",
+  "14"
+ ],
+ "termos": [
+  {
+   "nome": "crédito adicional",
+   "pat": "cr[ée]ditos? adicion",
+   "def": 7
+  },
+  {
+   "nome": "tipos de crédito adicional",
+   "pat": "cr[ée]ditos? (suplementar|especia|extraordin)",
+   "def": 7
+  },
+  {
+   "nome": "superávit financeiro",
+   "pat": "super[áa]vit financeiro",
+   "def": 7
+  },
+  {
+   "nome": "excesso de arrecadação",
+   "pat": "excesso de arrecada",
+   "def": 7
+  },
+  {
+   "nome": "anulação de despesa",
+   "pat": "anula[çc][ãa]o de despesa",
+   "def": 5
+  },
+  {
+   "nome": "transferências tributárias",
+   "pat": "transfer[êe]ncias tribut",
+   "def": 5
+  },
+  {
+   "nome": "limitação de empenho",
+   "pat": "limita[çc][ãa]o de empenho",
+   "def": 3
+  },
+  {
+   "nome": "resultado primário",
+   "pat": "resultado prim[áa]rio",
+   "def": 3
+  },
+  {
+   "nome": "exclusividade",
+   "pat": "exclusividade",
+   "def": 10
+  },
+  {
+   "nome": "orçamento autorizativo",
+   "pat": "or[çc]amento (\\w+ )?autorizativo|car[áa]ter autorizativo",
+   "def": 10
+  }
+ ]
+}

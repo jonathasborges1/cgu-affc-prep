@@ -1,0 +1,218 @@
+{
+ "PPA": {
+  "nome": "Plano Plurianual",
+  "def": "Lei de médio prazo (4 anos) com diretrizes, objetivos e metas da administração, organizadas em programas (CF art. 165, I)."
+ },
+ "LDO": {
+  "nome": "Lei de Diretrizes Orçamentárias",
+  "def": "Lei anual com as metas e prioridades do ano; orienta a LOA e traz os anexos de metas e riscos fiscais (CF art. 165, §2º)."
+ },
+ "LOA": {
+  "nome": "Lei Orçamentária Anual",
+  "def": "Lei que prevê a receita e fixa a despesa do ano; reúne o orçamento fiscal, o da seguridade social e o de investimento das estatais."
+ },
+ "LRF": {
+  "nome": "Lei de Responsabilidade Fiscal",
+  "def": "Lei Complementar nº 101/2000: regras de planejamento, limite de despesa e transparência da gestão fiscal."
+ },
+ "CF": {
+  "nome": "Constituição Federal",
+  "def": "Constituição da República Federativa do Brasil, de 1988."
+ },
+ "ADCT": {
+  "nome": "Ato das Disposições Constitucionais Transitórias",
+  "def": "Parte final da Constituição com regras de transição; fixa, por exemplo, os prazos provisórios do PPA, da LDO e da LOA (art. 35)."
+ },
+ "CMO": {
+  "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+  "def": "Comissão do Congresso que examina e dá parecer sobre PPA, LDO e LOA antes do plenário."
+ },
+ "ARO": {
+  "nome": "Antecipação de Receita Orçamentária",
+  "def": "Operação de crédito de curto prazo para cobrir falta temporária de caixa durante o exercício; pode ser autorizada na própria LOA."
+ },
+ "MP": {
+  "nome": "Medida Provisória ou Ministério Público",
+  "def": "Depende do contexto: \"abrir crédito por MP\" = Medida Provisória; \"Judiciário, MP e Defensoria\" = Ministério Público."
+ },
+ "MPO": {
+  "nome": "Ministério do Planejamento e Orçamento",
+  "def": "Órgão federal que coordena o planejamento e o orçamento; aparece aqui como fonte de questões."
+ },
+ "CODEVASF": {
+  "nome": "Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba",
+  "def": "Empresa pública federal; seu concurso de 2024 (Cebraspe) é fonte de questões."
+ },
+ "TCE-AC": {
+  "nome": "Tribunal de Contas do Estado do Acre",
+  "def": "Órgão de controle externo estadual; concurso de 2024 (Cebraspe) usado como fonte de questões."
+ },
+ "TCE-SC": {
+  "nome": "Tribunal de Contas do Estado de Santa Catarina",
+  "def": "Órgão de controle externo estadual; concurso de 2021 (Cebraspe) usado como fonte de questões."
+ },
+ "TCE-RN": {
+  "nome": "Tribunal de Contas do Estado do Rio Grande do Norte",
+  "def": "Órgão de controle externo estadual; concurso de 2026 (Cebraspe) usado como fonte de questões."
+ },
+ "TCU": {
+  "nome": "Tribunal de Contas da União",
+  "def": "Órgão de controle externo que auxilia o Congresso Nacional na fiscalização das contas públicas federais."
+ },
+ "SEPLAN-RR": {
+  "nome": "Secretaria de Planejamento do Estado de Roraima",
+  "def": "Órgão estadual cujo concurso de 2022 (Cebraspe) é fonte de questões."
+ },
+ "CGU": {
+  "nome": "Controladoria-Geral da União",
+  "def": "Órgão do Poder Executivo federal responsável por controle interno, auditoria, correição, ouvidoria e transparência."
+ },
+ "AFFC": {
+  "nome": "Auditor Federal de Finanças e Controle",
+  "def": "Cargo do concurso da CGU para o qual você está estudando."
+ },
+ "Cebraspe": {
+  "nome": "Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos",
+  "def": "Banca organizadora do concurso; usa itens Certo/Errado em que o erro anula um acerto."
+ },
+ "CDN": {
+  "nome": "Content Delivery Network",
+  "def": "Rede de distribuição de conteúdo; é onde o Cebraspe hospeda os PDFs oficiais das provas."
+ },
+ "URL": {
+  "nome": "Uniform Resource Locator",
+  "def": "Endereço de uma página ou arquivo na internet."
+ },
+ "PDF": {
+  "nome": "Portable Document Format",
+  "def": "Formato de documento que mantém o mesmo layout em qualquer aparelho."
+ },
+ "TI": {
+  "nome": "Tecnologia da Informação",
+  "def": "Área do seu cargo na CGU."
+ },
+ "IPTU": {
+  "nome": "Imposto Predial e Territorial Urbano",
+  "def": "Imposto municipal sobre imóveis urbanos; receita orçamentária corrente, tributária."
+ },
+ "UBS": {
+  "nome": "Unidade Básica de Saúde",
+  "def": "Posto de atenção básica do SUS; usado como exemplo de projeto e de atividade."
+ },
+ "DF": {
+  "nome": "Distrito Federal",
+  "def": "Unidade federativa que reúne competências de Estado e de Município."
+ },
+ "art.": {
+  "nome": "artigo",
+  "def": "Divisão básica das leis e da Constituição."
+ },
+ "§": {
+  "nome": "parágrafo",
+  "def": "Subdivisão de um artigo."
+ },
+ "inc.": {
+  "nome": "inciso",
+  "def": "Subdivisão de um artigo ou parágrafo, numerada em algarismos romanos."
+ },
+ "TROCA_TERMO": {
+  "nome": "Pegadinha: troca de termo",
+  "def": "Um termo técnico é substituído por outro parecido (projeto × programa, suplementar × especial)."
+ },
+ "ABSOLUTO": {
+  "nome": "Pegadinha: palavra absoluta",
+  "def": "Palavra como sempre, nunca, apenas, somente, exclusivamente ou qualquer torna o item falso."
+ },
+ "INVERSAO": {
+  "nome": "Pegadinha: inversão",
+  "def": "Troca o sentido da relação (quem se ajusta a quem, causa e efeito)."
+ },
+ "ESCOPO": {
+  "nome": "Pegadinha: escopo",
+  "def": "Generaliza ou restringe além do que a regra permite."
+ },
+ "CAUSA_CONSEQUENCIA": {
+  "nome": "Pegadinha: causa e consequência",
+  "def": "Relação de causa e efeito invertida ou inventada."
+ },
+ "EXCECAO_OMITIDA": {
+  "nome": "Pegadinha: exceção omitida",
+  "def": "Regra correta, mas ignora a exceção que a norma prevê."
+ },
+ "NORMA_LITERAL": {
+  "nome": "Padrão: norma literal",
+  "def": "Cópia ou paráfrase fiel de um artigo; geralmente Certo, e o erro vem da troca de uma só palavra."
+ },
+ "CONCEITO_MISTURADO": {
+  "nome": "Pegadinha: conceito misturado",
+  "def": "Atribui a um instituto o conteúdo de outro (metas fiscais no PPA, por exemplo)."
+ },
+ "PARTE_CERTA_PARTE_ERRADA": {
+  "nome": "Pegadinha: parte certa, parte errada",
+  "def": "Item composto: uma metade verdadeira e outra falsa. Basta uma parte falsa para o item ser Errado."
+ },
+ "DETALHE_NUMERICO": {
+  "nome": "Pegadinha: detalhe numérico",
+  "def": "Prazo, percentual ou quantidade alterados."
+ },
+ "NORMA_DESATUALIZADA": {
+  "nome": "Pegadinha: norma desatualizada",
+  "def": "O item depende de norma revogada ou alterada."
+ },
+ "API": {
+  "nome": "Application Programming Interface",
+  "def": "Interface pela qual um programa usa funções ou dados de outro."
+ },
+ "REST": {
+  "nome": "Representational State Transfer",
+  "def": "Estilo de API web baseado em recursos, URLs e verbos HTTP."
+ },
+ "JSON": {
+  "nome": "JavaScript Object Notation",
+  "def": "Formato de texto leve para trocar dados estruturados."
+ },
+ "XML": {
+  "nome": "eXtensible Markup Language",
+  "def": "Formato de marcação para dados estruturados, mais verboso que o JSON."
+ },
+ "CSV": {
+  "nome": "Comma-Separated Values",
+  "def": "Arquivo de texto em tabela, com valores separados por vírgula ou ponto e vírgula."
+ },
+ "SQL": {
+  "nome": "Structured Query Language",
+  "def": "Linguagem para consultar e manipular bancos de dados relacionais."
+ },
+ "JPA": {
+  "nome": "Jakarta Persistence API",
+  "def": "Especificação Java para mapear objetos em tabelas de banco de dados."
+ },
+ "ETL": {
+  "nome": "Extract, Transform, Load",
+  "def": "Extrair, transformar e carregar: os dados são transformados antes de entrar no destino."
+ },
+ "ELT": {
+  "nome": "Extract, Load, Transform",
+  "def": "Extrair, carregar e transformar: os dados entram primeiro e são transformados no destino."
+ },
+ "OAuth": {
+  "nome": "Open Authorization",
+  "def": "Protocolo de autorização delegada (acesso a recursos); não é, por si só, autenticação."
+ },
+ "OIDC": {
+  "nome": "OpenID Connect",
+  "def": "Camada de autenticação federada construída sobre o OAuth 2.0."
+ },
+ "JWT": {
+  "nome": "JSON Web Token",
+  "def": "Token assinado que carrega informações (claims) do usuário."
+ },
+ "LGPD": {
+  "nome": "Lei Geral de Proteção de Dados Pessoais",
+  "def": "Lei nº 13.709/2018, sobre o tratamento de dados pessoais."
+ },
+ "SLA": {
+  "nome": "Service Level Agreement",
+  "def": "Acordo de nível de serviço: metas de qualidade e prazo de um serviço contratado."
+ }
+}

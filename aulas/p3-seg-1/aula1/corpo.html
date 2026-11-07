@@ -1,0 +1,203 @@
+<!-- CAPA -->
+<div class="pg cover">
+<div class="small">CGU · AFFC · TI – Desenvolvimento de Sistemas · Cebraspe · Edital 1/2026</div>
+<h1 style="font-size:32pt;margin-top:6mm">Aula 1<br>Ataques a aplicações web</h1>
+<p style="font-size:13pt;color:#8b949e">Injeção (SQL e LDAP), XSS, CSRF, negação de serviço (DDoS) e o OWASP Top 10</p>
+<div class="box"><b class="t">Seção do edital</b>P3 · Desenvolvimento seguro, qualidade e gestão da entrega — item 1: Segurança de aplicações (1.1 Ameaças e vulnerabilidades em aplicações e interfaces; 1.2 Validação de entradas e controles de acesso; 1.3 Dependências).</div>
+<div class="box ok"><b class="t">Por que esta aula primeiro</b>Foi montada de trás para frente, a partir de itens reais do Cebraspe (TCE-AC 2024). Os temas desta aula concentram a maior parte da "massa" de itens já mapeados na seção: CSRF, DDoS, LDAP injection, XSS e SQL injection.</div>
+<div class="small" style="margin-top:8mm">Base: 43 itens reais classificados nesta seção; 18 deles passaram em dupla verificação independente. O caderno final usa só itens reais, com link da prova oficial no CDN do Cebraspe.</div>
+</div>
+
+<!-- PAG 2 -->
+<div class="pg">
+<h2>1. Objetivo e mapa da aula</h2>
+<p>Ao final você deve conseguir olhar um item Certo/Errado sobre ataques web e responder: <b>qual ataque é esse, quem é a vítima, o que ele quebra (confidencialidade, integridade ou disponibilidade) e qual defesa realmente funciona</b>.</p>
+<table><tr><th>Bloco</th><th>Pergunta que ele responde</th><th>Palavra-chave da prova</th></tr>
+<tr><td>A. Ideia central</td><td>Por que existem ataques de injeção?</td><td>dado tratado como comando</td></tr>
+<tr><td>B. SQL e LDAP injection</td><td>Quem é atacado? Como se previne?</td><td>validação / sanitização de entrada</td></tr>
+<tr><td>C. XSS</td><td>O alvo é o servidor ou o usuário?</td><td>usuário / navegador</td></tr>
+<tr><td>D. CSRF</td><td>O que o atacante precisa que a vítima tenha?</td><td>sessão autenticada ativa</td></tr>
+<tr><td>E. DoS × DDoS</td><td>O que é perdido? Firewall resolve?</td><td>disponibilidade / distribuído</td></tr>
+<tr><td>F. OWASP Top 10</td><td>Quais categorias a banca mistura?</td><td>controle de acesso, componentes, XXE</td></tr></table>
+<h3>Linha do raciocínio</h3>
+<svg viewBox="0 0 640 110" width="100%"><defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#58a6ff"/></marker></defs>
+<rect x="5" y="30" width="110" height="50" rx="8" fill="#161b22" stroke="#58a6ff"/><text x="60" y="60" fill="#e6edf3" text-anchor="middle" font-size="13">Entrada</text>
+<rect x="170" y="30" width="130" height="50" rx="8" fill="#161b22" stroke="#d29922"/><text x="235" y="52" fill="#e6edf3" text-anchor="middle" font-size="12">Validar /</text><text x="235" y="68" fill="#e6edf3" text-anchor="middle" font-size="12">sanitizar?</text>
+<rect x="355" y="30" width="120" height="50" rx="8" fill="#161b22" stroke="#3fb950"/><text x="415" y="60" fill="#e6edf3" text-anchor="middle" font-size="13">Interpretador</text>
+<rect x="530" y="30" width="105" height="50" rx="8" fill="#161b22" stroke="#f85149"/><text x="582" y="52" fill="#e6edf3" text-anchor="middle" font-size="12">Dano: C, I</text><text x="582" y="68" fill="#e6edf3" text-anchor="middle" font-size="12">ou D</text>
+<line x1="115" y1="55" x2="168" y2="55" stroke="#58a6ff" stroke-width="2" marker-end="url(#a)"/><line x1="300" y1="55" x2="353" y2="55" stroke="#58a6ff" stroke-width="2" marker-end="url(#a)"/><line x1="475" y1="55" x2="528" y2="55" stroke="#58a6ff" stroke-width="2" marker-end="url(#a)"/></svg>
+<p class="cap">Quase tudo desta aula é uma entrada que passou sem filtro e foi interpretada por alguém (banco, diretório, navegador).</p>
+
+<h2 style="margin-top:6mm">2. Do zero: como uma página web funciona</h2>
+<p><b>Analogia:</b> um restaurante. O cliente (navegador) entrega um pedido (requisição) ao garçom (servidor web). O garçom leva à cozinha (banco de dados) e traz o prato (resposta). Para não pedir a senha a cada prato, o restaurante dá uma <b>pulseira</b> ao cliente que entrou: é a <b>sessão</b> (normalmente um cookie). Quem tem a pulseira é tratado como o cliente autenticado.</p>
+<ul><li><b>Requisição:</b> o que o navegador envia (endereço, campos de formulário).</li><li><b>Resposta:</b> o que o servidor devolve (HTML, que o navegador executa).</li><li><b>Sessão/cookie:</b> a pulseira que prova "já me autentiquei".</li></ul>
+<div class="box tip"><b class="t">Duas regras que explicam tudo</b>1) Se o servidor monta um comando juntando texto vindo do usuário, o usuário pode escrever o comando. (<b>injeção</b>)  2) Se o navegador executa o que o site devolve, e o site devolveu texto do usuário, o usuário pode escrever um programa. (<b>XSS</b>)  Além disso, o navegador envia a pulseira sozinho a cada pedido ao site, e isso permite o <b>CSRF</b>.</div>
+
+<h2 style="page-break-before:always">3. Injeção: SQL e LDAP</h2>
+<h3>3.1 Construindo o raciocínio com exemplos crescentes</h3>
+<p><b>Exemplo 1 – o formulário honesto.</b> Um login monta a consulta juntando o que foi digitado:</p>
+<pre>"SELECT * FROM usuarios WHERE nome='" + nome + "' AND senha='" + senha + "'"</pre>
+<p>Se o nome for <span class="c">ana</span> e a senha <span class="c">123</span>, o banco recebe: <span class="c">... nome='ana' AND senha='123'</span>. Funciona.</p>
+<p><b>Exemplo 2 – o texto que parece comando.</b> E se o campo nome for <span class="c">ana'--</span>? O texto vira:</p>
+<pre>... WHERE nome='ana'--' AND senha=''</pre>
+<p>As aspas fecham o texto e <span class="c">--</span> comenta o resto: a verificação da senha desaparece. A entrada deixou de ser <b>dado</b> e virou <b>comando</b>.</p>
+<p><b>Exemplo 3 – o mesmo problema, outro alvo.</b> Um diretório (LDAP) é uma "lista telefônica" corporativa. A busca monta um filtro como <span class="c">(&amp;(uid=ana)(senha=123))</span>. Inserindo caracteres especiais do filtro, o atacante muda o sentido da busca. Isso é <b>LDAP injection</b>: <i>manipular as consultas LDAP, inserindo código malicioso que é interpretado de forma diferente do esperado</i>.</p>
+<div class="box"><b class="t">Conclusão deduzida</b>SQL injection e LDAP injection são o mesmo defeito (entrada sem validação/sanitização) aplicado a interpretadores diferentes. Por isso a banca os agrupa como <b>ataques de injeção de código</b>, junto com XSS.</div>
+
+<h3>3.2 Defesas (o que a banca trata como correto)</h3>
+<table><tr><th>Defesa</th><th>Ideia</th></tr>
+<tr><td>Validar a entrada com lista de permissão</td><td>Aceitar só o formato esperado (ex.: só dígitos num campo numérico).</td></tr>
+<tr><td>Consultas parametrizadas</td><td>O comando e os dados seguem por canais separados; o dado nunca vira comando.</td></tr>
+<tr><td>Privilégio mínimo no banco</td><td>Mesmo com falha, o dano é menor.</td></tr>
+<tr><td>Frameworks que validam</td><td>Ajudam, mas <b>não dispensam testes</b> automatizados e manuais.</td></tr></table>
+<div class="box warn"><b class="t">Pegadinha clássica</b>"O uso de framework que valida injeção dispensa testes" → <span class="err">Errado</span>. Palavra de alerta: <i>dispensa</i>.</div>
+
+<h2 style="margin-top:6mm">4. XSS (Cross-Site Scripting)</h2>
+<p><b>Ideia:</b> o atacante coloca um script em um lugar que o site depois mostra a <b>outras pessoas</b>. O navegador da vítima executa o script achando que veio do site confiável. O alvo direto é o <b>usuário</b>, não o servidor nem o banco.</p>
+<table><tr><th>Tipo</th><th>Como o script chega</th></tr>
+<tr><td>Refletido (não persistente)</td><td>Vai na requisição e volta na resposta HTTP; a vítima é induzida a clicar num link.</td></tr>
+<tr><td>Armazenado (persistente)</td><td>Fica gravado no site (comentário, perfil) e atinge quem abrir.</td></tr>
+<tr><td>Baseado em DOM</td><td>O próprio script da página manipula o conteúdo do lado do cliente.</td></tr></table>
+<div class="box warn"><b class="t">Confusão provocada pela banca</b>XSS explorando "como o banco de dados executa consultas" → isso é a definição de <b>SQL injection</b>. Troca de definição = <span class="err">Errado</span>.</div>
+
+<h2>5. CSRF (Cross-Site Request Forgery)</h2>
+<p><b>Voltando ao restaurante:</b> o cliente está dentro com a pulseira. Um golpista deixa um bilhete ("transfira R$ 100") no caminho dele, e o garçom, ao ver a pulseira, obedece. A vítima <b>nunca decidiu</b> aquela ação.</p>
+<p>Passo a passo: (1) a vítima está autenticada no site do banco; (2) abre outra página maliciosa; (3) essa página faz o navegador enviar uma requisição ao banco; (4) o navegador anexa o cookie sozinho; (5) o banco executa. Definição da banca: <i>induz o usuário a usar, sem querer, suas credenciais/sessão para invocar uma ação indesejada</i>.</p>
+<svg viewBox="0 0 640 160" width="100%">
+<defs><marker id="b" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#f85149"/></marker></defs>
+<rect x="10" y="60" width="130" height="50" rx="8" fill="#161b22" stroke="#58a6ff"/><text x="75" y="82" fill="#e6edf3" text-anchor="middle" font-size="12">Vítima</text><text x="75" y="98" fill="#8b949e" text-anchor="middle" font-size="10">sessão ativa no banco</text>
+<rect x="255" y="5" width="140" height="45" rx="8" fill="#161b22" stroke="#f85149"/><text x="325" y="32" fill="#e6edf3" text-anchor="middle" font-size="12">Página maliciosa</text>
+<rect x="490" y="60" width="140" height="50" rx="8" fill="#161b22" stroke="#3fb950"/><text x="560" y="90" fill="#e6edf3" text-anchor="middle" font-size="12">Site do banco</text>
+<line x1="140" y1="72" x2="255" y2="38" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="4"/><text x="170" y="40" fill="#8b949e" font-size="10">1 abre</text>
+<line x1="140" y1="95" x2="490" y2="95" stroke="#f85149" stroke-width="2" marker-end="url(#b)"/><text x="260" y="115" fill="#f85149" font-size="11">2 navegador envia requisição + cookie</text>
+<text x="500" y="135" fill="#3fb950" font-size="11">3 executa a ação</text></svg>
+<div class="box warn"><b class="t">Pegadinha real (TCE-AC 2024)</b>"Para o CSRF funcionar, <i>basta</i> que a vítima tenha conectado <i>em algum momento</i> sua conta" → <span class="err">Errado</span>. É preciso a sessão/credencial <b>válida no momento</b> do ataque. Padrões: <i>basta</i> (absoluto) + omissão da condição.</div>
+
+<h3>XSS × CSRF em uma tabela</h3>
+<table><tr><th></th><th>XSS</th><th>CSRF</th></tr>
+<tr><td>O que o atacante explora</td><td>Confiança do usuário no site</td><td>Confiança do site no navegador do usuário</td></tr>
+<tr><td>Executa script na vítima?</td><td>Sim</td><td>Não necessariamente: só força um pedido</td></tr>
+<tr><td>Precisa de sessão ativa?</td><td>Não obrigatoriamente</td><td>Sim</td></tr>
+<tr><td>Alvo direto</td><td>Usuário</td><td>Ação feita em nome do usuário</td></tr></table>
+
+<h2 style="margin-top:6mm">6. Negação de serviço: DoS e DDoS</h2>
+<p><b>Analogia:</b> uma loja. DoS = uma pessoa fica parada na porta e impede a entrada. DDoS = mil pessoas, vindas de lugares diferentes, lotam a porta. Não é mais possível bloquear "aquela pessoa".</p>
+<svg viewBox="0 0 640 120" width="100%">
+<rect x="10" y="40" width="90" height="40" rx="6" fill="#161b22" stroke="#d29922"/><text x="55" y="65" fill="#e6edf3" text-anchor="middle" font-size="11">1 origem (DoS)</text>
+<line x1="100" y1="60" x2="250" y2="60" stroke="#d29922" stroke-width="2"/><rect x="250" y="35" width="90" height="50" rx="6" fill="#161b22" stroke="#58a6ff"/><text x="295" y="65" fill="#e6edf3" text-anchor="middle" font-size="11">Servidor</text>
+<g fill="#161b22" stroke="#f85149"><rect x="400" y="5" width="70" height="25" rx="5"/><rect x="400" y="40" width="70" height="25" rx="5"/><rect x="400" y="75" width="70" height="25" rx="5"/><rect x="520" y="22" width="70" height="25" rx="5"/><rect x="520" y="62" width="70" height="25" rx="5"/></g>
+<text x="435" y="22" fill="#e6edf3" text-anchor="middle" font-size="10">bot</text><text x="435" y="57" fill="#e6edf3" text-anchor="middle" font-size="10">bot</text><text x="435" y="92" fill="#e6edf3" text-anchor="middle" font-size="10">bot</text><text x="555" y="39" fill="#e6edf3" text-anchor="middle" font-size="10">bot</text><text x="555" y="79" fill="#e6edf3" text-anchor="middle" font-size="10">bot</text>
+<text x="500" y="115" fill="#f85149" text-anchor="middle" font-size="11">várias origens (DDoS)</text></svg>
+
+<h3>O que o DDoS atinge e como se defende</h3>
+<ul><li><b>Pilar afetado: disponibilidade</b> (o serviço fica fora do ar). Não é integridade nem confidencialidade. A banca troca o pilar: "perda de integralidade dos dados" → <span class="err">Errado</span>.</li>
+<li><b>Volumétrico:</b> enche o link de tráfego. Também há ataques de camada de aplicação, que parecem usuários legítimos.</li>
+<li><b>Amplificação/reflexão:</b> o atacante usa servidores de terceiros (por exemplo, DNS) para multiplicar o tráfego. <b>Envenenamento de cache DNS</b> pode estar associado a esses ataques.</li>
+<li><b>Mitigação:</b> exige soluções específicas (filtragem de tráfego, serviços anti-DDoS, CDN, limitação de taxa, escala). <b>Um firewall de borda sozinho não basta</b>, e antivírus não resolve.</li></ul>
+<div class="box warn"><b class="t">Pegadinhas reais</b>• "DoS e DDoS usam <i>apenas um</i> computador… <i>apenas</i> um antivírus" → Errado (confunde DoS com DDoS + absoluto).<br>• "Firewall de borda mitiga DDoS de maneira <i>eficiente</i>" → Errado (ignora a camada de aplicação).</div>
+
+<h2 style="margin-top:6mm">7. OWASP Top 10: o que a banca mistura</h2>
+<p>O OWASP Top 10 é uma lista de <b>categorias de riscos</b> mais críticos em aplicações web. A banca costuma pegar uma categoria e trocar sua causa ou seu exemplo por outra.</p>
+<table><tr><th>Categoria</th><th>Em uma frase</th><th>Troca típica da banca</th></tr>
+<tr><td>Quebra de controle de acesso</td><td>Usuário autenticado consegue fazer o que não deveria (acessar dado de outro, executar função de admin).</td><td>Chamar de "ataque que analisa entrada XML" (isso é <b>XXE</b>).</td></tr>
+<tr><td>Componentes vulneráveis/desatualizados</td><td>Usar biblioteca com falha conhecida e sem atualização.</td><td>Dizer que "resulta da desserialização" (é outra categoria).</td></tr>
+<tr><td>Desserialização insegura</td><td>Aceitar objetos serializados de fonte não confiável.</td><td>Misturar com componentes.</td></tr>
+<tr><td>XXE (entidades externas de XML)</td><td>Parser XML processa entidades externas e expõe dados/recursos.</td><td>Chamar de "controle ou boa prática".</td></tr>
+<tr><td>Falhas de log e monitoramento</td><td>Registrar falhas de login/acesso com contexto e reter por tempo suficiente.</td><td>Pedir "logs mínimos" ou sem retenção.</td></tr></table>
+<div class="box tip"><b class="t">Cuidado com versões</b>A lista foi reorganizada entre edições (por exemplo, XXE e desserialização aparecem de forma diferente de uma edição para outra). Em prova, apoie-se no enunciado: a banca cobra a <b>definição da categoria</b>, não a numeração. Confirme a edição da lista no documento oficial do OWASP ao revisar.</div>
+
+<h2 style="page-break-before:always">8. Como a banca cobra (padrões)</h2>
+<table><tr><th>Padrão</th><th>Exemplo de redação</th><th>Veredito</th></tr>
+<tr><td>Troca de definição</td><td>"XSS explora a execução de consultas do banco"</td><td class="err">Errado</td></tr>
+<tr><td>Troca de pilar (CIA)</td><td>"DDoS causa perda de integridade"</td><td class="err">Errado</td></tr>
+<tr><td>Absoluto</td><td>"basta…", "apenas…", "dispensa…", "somente…"</td><td class="err">quase sempre Errado</td></tr>
+<tr><td>Condição omitida</td><td>CSRF "em algum momento" conectado</td><td class="err">Errado</td></tr>
+<tr><td>Definição limpa</td><td>"LDAP injection manipula consultas LDAP inserindo código"</td><td class="cert">Certo</td></tr>
+<tr><td>Classificação correta</td><td>"SQLi, LDAPi e XSS são injeções de código"</td><td class="cert">Certo</td></tr></table>
+
+<h2>9. Técnica para a prova Certo/Errado</h2>
+<ul>
+<li><b>Errar desconta o mesmo que acertar.</b> Se o item está fora do seu domínio e você não consegue separar em partes, deixar em branco vale 0; um chute vale esperança 0 quando você acerta 50%.</li>
+<li><b>Separe o item em duas metades:</b> (sujeito) + (afirmação). Nos itens desta aula, o erro quase sempre está numa das metades: o sujeito (qual ataque) ou o pilar (C, I ou D).</li>
+<li><b>Sublinhe palavras absolutas:</b> basta, apenas, somente, nunca, sempre, dispensa, qualquer.</li>
+<li><b>Itens de definição curta e sem absoluto</b> costumam ser Certos (o examinador reaproveita o conceito certo). Nesta aula: LDAP injection, CSRF e SQLi definidos corretamente apareceram como Certos.</li>
+<li><b>Quando arriscar:</b> se você eliminou o erro de definição e de pilar e sobrou dúvida pequena, arrisque. Se tem dúvida na definição, deixe em branco.</li></ul>
+
+<h2 style="margin-top:6mm">10. Resumo de revisão (na ponta da língua)</h2>
+<div class="box ok">
+<ul>
+<li>Injeção = entrada sem validação/sanitização interpretada como comando. SQL, LDAP e XSS são injeções de código.</li>
+<li>SQLi: alvo = banco. LDAP injection: alvo = consulta ao diretório. XSS: alvo = <b>usuário/navegador</b>.</li>
+<li>Defesa de injeção: validação por lista de permissão + consultas parametrizadas. Framework <b>não dispensa testes</b>.</li>
+<li>XSS: refletido (volta na resposta), armazenado, DOM.</li>
+<li>CSRF: ação indesejada com a <b>sessão ativa</b> da vítima. "Basta ter conectado alguma vez" = Errado.</li>
+<li>DoS = uma origem; DDoS = várias. Afeta <b>disponibilidade</b>. Firewall de borda e antivírus sozinhos não bastam.</li>
+<li>OWASP: não misture quebra de controle de acesso, XXE, desserialização e componentes vulneráveis.</li></ul></div>
+</div>
+
+<!-- CADERNO -->
+<div class="pg">
+<h2>Caderno de questões – Aula 1</h2>
+<p class="small">10 itens reais do Cebraspe (TCE-AC 2024). Julgue Certo ou Errado; o gabarito comentado vem depois. Cada item traz tema, nível, referência e a URL da prova oficial (PDF do CDN do Cebraspe); o gabarito definitivo está na URL indicada em "gab.".</p>
+
+<div class="q"><span class="tag">1</span><span class="tag">Injeção › LDAP</span><span class="tag">fácil</span>
+<p>O objetivo do ataque de LDAP injection é manipular as consultas LDAP, por meio da inserção de um código malicioso na consulta, que passa a ser interpretado de forma diferente do esperado.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 8 (Analista de TI – Planejamento de TI) · item 87<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_008_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_008_01.PDF</div></div>
+
+<div class="q"><span class="tag">2</span><span class="tag">XSS</span><span class="tag">fácil</span>
+<p>XSS (Cross-site scripting) é um método pelo qual um invasor explora vulnerabilidades na maneira como um banco de dados executa consultas de pesquisa.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 8 (Analista de TI – Planejamento de TI) · item 88<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_008_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_008_01.PDF</div></div>
+
+<div class="q"><span class="tag">3</span><span class="tag">CSRF</span><span class="tag">fácil</span>
+<p>Um ataque de cross‐site request forgery é aquele que induz um usuário a usar acidentalmente suas credenciais para invocar uma ação indesejada.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 8 (Analista de TI – Planejamento de TI) · item 89<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_008_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_008_01.PDF</div></div>
+</div>
+
+<div class="pg">
+<div class="q"><span class="tag">4</span><span class="tag">OWASP › componentes</span><span class="tag">médio</span>
+<p>O uso de componentes com vulnerabilidades conhecidas é uma das categorias de riscos de segurança do OWASP Top 10 que resulta da desserialização de dados de fontes não confiáveis.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 8 (Analista de TI – Planejamento de TI) · item 91<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_008_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_008_01.PDF</div></div>
+
+<div class="q"><span class="tag">5</span><span class="tag">DDoS › mitigação</span><span class="tag">médio</span>
+<p>Um firewall de borda é considerado como o elemento capaz de fazer a mitigação de ataques DDoS de maneira eficiente, já que o tráfego da camada de aplicação tem que ser bloqueado na entrada da rede.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 8 (Analista de TI – Planejamento de TI) · item 93<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_008_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_008_01.PDF</div></div>
+
+<div class="q"><span class="tag">6</span><span class="tag">SQL injection</span><span class="tag">fácil</span>
+<p>Em função de muitos sites e aplicativos da Web dependerem de bancos de dados SQL, um ataque SQL injection pode gerar sérias consequências, porque boa parte dos formulários da Web não consegue impedir a entrada de informações adicionais, o que propicia a exploração desse ponto fraco e o uso das caixas de entrada no formulário para envio de solicitações maliciosas ao banco de dados.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 20 (Técnico de Controle Externo – Informática) · item 92<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF</div></div>
+
+<div class="q"><span class="tag">7</span><span class="tag">CSRF</span><span class="tag">médio</span>
+<p>Para que um ataque de cross-site request forgery funcione em aplicações web, basta que a vítima tenha conectado, em algum momento, sua conta original ao disparar a requisição maliciosa.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 20 (Técnico de Controle Externo – Informática) · item 90<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF</div></div>
+</div>
+
+<div class="pg">
+<div class="q"><span class="tag">8</span><span class="tag">XSS</span><span class="tag">médio</span>
+<p>Um ataque de XSS (cross-site scripting) não tem como alvo direto o próprio aplicativo, mas sim os usuários do aplicativo da Web.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 20 (Técnico de Controle Externo – Informática) · item 94<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF</div></div>
+
+<div class="q"><span class="tag">9</span><span class="tag">DoS × DDoS</span><span class="tag">fácil</span>
+<p>Os ataques de DoS e DDoS utilizam apenas um único computador para sobrecarregar um servidor de rede, tornando-o indisponível, sendo necessário apenas um software antivírus para prevenir e combater esses ataques.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 20 (Técnico de Controle Externo – Informática) · item 113<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_020_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_020_01.PDF</div></div>
+
+<div class="q"><span class="tag">10</span><span class="tag">OWASP › controle de acesso</span><span class="tag">médio</span>
+<p>Entre os riscos de segurança incluídos no relatório OWASP Top 10, a quebra de controle de acesso é um ataque contra um aplicativo web que analisa a entrada XML.</p>
+<div class="meta">Ref.: Cebraspe · TCE-AC · 2024 · Cargo 11 (Analista de TI – Sistemas de Informação) · item 105<br>Prova: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_011_01.PDF<br>Gab.: https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_011_01.PDF</div></div>
+</div>
+
+<div class="pg">
+<h2>Gabarito comentado</h2>
+<table><tr><th style="width:8%">Item</th><th style="width:10%">Gab.</th><th>Comentário (estilo Cebraspe)</th></tr>
+<tr><td>1</td><td class="cert">Certo</td><td>Definição correta de LDAP injection: manipulação da consulta ao diretório por código inserido na entrada.</td></tr>
+<tr><td>2</td><td class="err">Errado</td><td>Troca de definição: explorar a execução de consultas do banco é <b>SQL injection</b>. O XSS mira o navegador do usuário.</td></tr>
+<tr><td>3</td><td class="cert">Certo</td><td>CSRF faz o usuário (sem perceber) usar sua sessão/credencial para uma ação indesejada.</td></tr>
+<tr><td>4</td><td class="err">Errado</td><td>Mistura de categorias: componentes vulneráveis não "resultam da desserialização"; a desserialização insegura é outro risco. Padrão: causa/consequência trocada.</td></tr>
+<tr><td>5</td><td class="err">Errado</td><td>Firewall de borda não mitiga DDoS de forma eficiente, pois há ataques de camada de aplicação e volumétricos; exige soluções específicas.</td></tr>
+<tr><td>6</td><td class="cert">Certo</td><td>Descrição correta: a falha está na entrada sem validação/sanitização, que chega ao banco.</td></tr>
+<tr><td>7</td><td class="err">Errado</td><td>"Basta… em algum momento": falta a condição de <b>sessão válida no momento do ataque</b>. Absoluto + omissão.</td></tr>
+<tr><td>8</td><td class="cert">Certo</td><td>No XSS o alvo direto é o usuário (o app é o veículo).</td></tr>
+<tr><td>9</td><td class="err">Errado</td><td>DDoS é distribuído (várias origens); antivírus não é solução única. Absoluto ("apenas") e conceito misturado.</td></tr>
+<tr><td>10</td><td class="err">Errado</td><td>Quebra de controle de acesso é falha de restrições sobre o que usuários autenticados podem fazer. O ataque que analisa entrada XML é o <b>XXE</b>.</td></tr></table>
+<div class="box"><b class="t">Contagem de gabarito</b>Certos: 1, 3, 6, 8. Errados: 2, 4, 5, 7, 9, 10. Os gabaritos são os definitivos do Cebraspe, conforme registrados no banco.</div>
+<div class="box tip"><b class="t">Fontes</b>Itens: provas do Cebraspe/TCE-AC 2024 (CDN oficial). Conceitos: OWASP Top 10 e documentação OWASP sobre injection, XSS e CSRF; definições usadas apenas para ensino.</div>
+</div>

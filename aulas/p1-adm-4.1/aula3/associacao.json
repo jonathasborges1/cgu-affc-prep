@@ -1,0 +1,115 @@
+{
+ "aula": "Aula 3 – Funções do Estado, modelos e princípios do orçamento, regime da receita (P1·ADM 4.1)",
+ "ensina": [
+  "n-funcoes-estado-musgrave",
+  "n-orcamento-base-zero",
+  "n-orcamento-tradicional",
+  "n-principios-orcamentarios",
+  "n-receita-estagios-regime"
+ ],
+ "cadernos": [
+  [
+   {
+    "k": "inpi-2023-cc1#78",
+    "prova_id": "inpi-2023-cc1",
+    "item": "78",
+    "ref": "Cebraspe INPI 2023 conhecimentos comuns (CC1)",
+    "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+    "ano": 2023,
+    "enunciado": "A função alocativa do setor público está relacionada ao uso exclusivo do orçamento público para o provisionamento de bens públicos e bens meritórios em complemento àqueles produzidos pelo mercado.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "ABSOLUTO"
+    ],
+    "padrao": "\"Uso exclusivo do orçamento\" para a função alocativa; a alocação usa também regulação e tributação",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-funcoes-estado-musgrave",
+    "nucleo_texto": "O setor público exerce funções alocativa (bens públicos e meritórios), distributiva e estabilizadora; a alocação não se resume ao orçamento",
+    "comentario": null
+   },
+   {
+    "k": "tce-ac-2024-c14-administracao#91",
+    "prova_id": "tce-ac-2024-c14-administracao",
+    "item": "91",
+    "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+    "ano": 2024,
+    "enunciado": "No orçamento base-zero, é realizado um reexame crítico das despesas de cada área governamental, de modo que não há direitos adquiridos em relação aos montantes gastos ou ao nível de atividade da ação governamental realizada no ano anterior.",
+    "gabarito": "C",
+    "nivel": "facil",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Base-zero: sem direitos adquiridos sobre o gasto do ano anterior",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-orcamento-base-zero",
+    "nucleo_texto": "No orçamento base-zero toda despesa é reavaliada e justificada a cada ciclo, sem direito adquirido ao gasto do ano anterior",
+    "comentario": null
+   },
+   {
+    "k": "tce-ac-2024-c14-administracao#93",
+    "prova_id": "tce-ac-2024-c14-administracao",
+    "item": "93",
+    "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+    "ano": 2024,
+    "enunciado": "O orçamento público, em sua concepção tradicional, consistia em uma autorização para que o Poder Executivo arrecadasse tributos e realizasse despesas, de modo que o aspecto econômico era de importância secundária para o Poder Legislativo.",
+    "gabarito": "C",
+    "nivel": "facil",
+    "tags": [
+     "NORMA_LITERAL"
+    ],
+    "padrao": "Orçamento tradicional: autorização com ênfase política, não econômica",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-orcamento-tradicional",
+    "nucleo_texto": "O orçamento tradicional é lei que estima receita e fixa despesa, como autorização política sem foco em resultados",
+    "comentario": null
+   },
+   {
+    "k": "tce-sc-auditor-2021-c01-administracao#81",
+    "prova_id": "tce-sc-auditor-2021-c01-administracao",
+    "item": "81",
+    "ref": "Cebraspe TCE SC 21 AUDITOR 2021 · Cargo 1: Auditor Fiscal de Controle Externo – Área: Administração",
+    "url": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/660_TCESC_001_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_SC_21_AUDITOR/arquivos/GAB_DEFINITIVO_660_TCESC_001_01.PDF",
+    "ano": 2021,
+    "enunciado": "O princípio da universalidade estabelece a necessidade de todas as receitas e despesas estarem previstas na LOA, de modo que, atualmente, há a necessidade do cumprimento desse princípio para exigir tributos.",
+    "gabarito": "E",
+    "nivel": "dificil",
+    "tags": [
+     "CAUSA_CONSEQUENCIA"
+    ],
+    "padrao": "Liga a universalidade à exigência de tributos; a cobrança não depende do princípio",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-principios-orcamentarios",
+    "nucleo_texto": "Princípios orçamentários: unidade (harmonia entre PPA, LDO e LOA), universalidade (todas as receitas e despesas na LOA) e exclusividade; a LOA não condiciona a cobrança de tributos",
+    "comentario": null
+   },
+   {
+    "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#31",
+    "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+    "item": "31",
+    "ref": "Cebraspe MPO 24 2024 · CARGO 4: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO DE SISTEMAS ORÇAMENTÁRIOS",
+    "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_004_01.PDF",
+    "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_004_01.PDF",
+    "ano": 2024,
+    "enunciado": "Pelo regime orçamentário, a receita é reconhecida a partir do momento de sua arrecadação, que necessariamente coincide com o momento da ocorrência do seu fato gerador.",
+    "gabarito": "E",
+    "nivel": "medio",
+    "tags": [
+     "ABSOLUTO"
+    ],
+    "padrao": "\"Necessariamente coincide\" com o fato gerador; o regime orçamentário reconhece a receita na arrecadação",
+    "edital": "P1·ADM 4.1",
+    "nucleo": "n-receita-estagios-regime",
+    "nucleo_texto": "A receita orçamentária é reconhecida pelo regime de caixa (arrecadação); seus estágios de execução são lançamento, arrecadação e recolhimento, e a previsão pertence ao planejamento",
+    "comentario": null
+   }
+  ]
+ ],
+ "lacunas": []
+}

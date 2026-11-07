@@ -1,0 +1,74 @@
+{
+ "tema": "P3·SEG 1",
+ "aula": 1,
+ "versao": 1,
+ "titulo": "Aula 1 – Ataques a aplicações web (P3·SEG 1)",
+ "origem": "workflow",
+ "data": "2026-11-04",
+ "nucleos": [
+  "n-csrf-acao-indesejada-sessao",
+  "n-ddos-mitigacao-especifica",
+  "n-injecao-ldap",
+  "n-xss-alvo-usuario-navegador",
+  "n-sqli-entrada-sem-validacao",
+  "n-dos-ddos-distribuido",
+  "n-ataques-injecao",
+  "n-ddos-afeta-disponibilidade",
+  "n-owasp-quebra-controle-acesso",
+  "n-owasp-componentes-vulneraveis"
+ ],
+ "estado": {
+  "n-csrf-acao-indesejada-sessao": [
+   "tce-ac-2024-c08-planejamento-ti#89|C",
+   "tce-ac-2024-c10-seguranca-informacao#64|C",
+   "tce-ac-2024-c20-tecnico-informatica#90|E"
+  ],
+  "n-ddos-mitigacao-especifica": [
+   "susep-2025-c04-tecnologia-informacao-ciencia-dados#81|E",
+   "tce-ac-2024-c08-planejamento-ti#93|E"
+  ],
+  "n-injecao-ldap": [
+   "tce-ac-2024-c08-planejamento-ti#87|C",
+   "tce-ac-2024-c20-tecnico-informatica#93|E"
+  ],
+  "n-xss-alvo-usuario-navegador": [
+   "tce-ac-2024-c08-planejamento-ti#88|E",
+   "tce-ac-2024-c20-tecnico-informatica#94|C"
+  ],
+  "n-sqli-entrada-sem-validacao": [
+   "tc-df-auditor-2024-c03-auditor-controle-externo-area#125|C",
+   "tce-ac-2024-c20-tecnico-informatica#92|C"
+  ],
+  "n-dos-ddos-distribuido": [
+   "tc-df-auditor-2024-c03-auditor-controle-externo-area#126|C",
+   "tce-ac-2024-c20-tecnico-informatica#113|E"
+  ],
+  "n-ataques-injecao": [
+   "tce-ac-2024-c10-seguranca-informacao#63|C",
+   "tce-ac-2024-c10-seguranca-informacao#66|E"
+  ],
+  "n-ddos-afeta-disponibilidade": [
+   "tce-ac-2024-c10-seguranca-informacao#70|E",
+   "tce-ac-2024-c10-seguranca-informacao#71|C"
+  ],
+  "n-owasp-quebra-controle-acesso": [
+   "tce-ac-2024-c11-sistemas-informacao#105|E"
+  ],
+  "n-owasp-componentes-vulneraveis": [
+   "tce-ac-2024-c08-planejamento-ti#91|E"
+  ]
+ },
+ "hash": "17a83063ae61",
+ "caderno": [
+  "tce-ac-2024-c08-planejamento-ti#87",
+  "tce-ac-2024-c08-planejamento-ti#88",
+  "tce-ac-2024-c08-planejamento-ti#89",
+  "tce-ac-2024-c08-planejamento-ti#91",
+  "tce-ac-2024-c08-planejamento-ti#93",
+  "tce-ac-2024-c20-tecnico-informatica#92",
+  "tce-ac-2024-c20-tecnico-informatica#90",
+  "tce-ac-2024-c20-tecnico-informatica#94",
+  "tce-ac-2024-c20-tecnico-informatica#113",
+  "tce-ac-2024-c11-sistemas-informacao#105"
+ ]
+}
