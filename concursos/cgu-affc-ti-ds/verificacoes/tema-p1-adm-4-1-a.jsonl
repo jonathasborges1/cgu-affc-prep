@@ -1,0 +1,28 @@
+{"item": "14", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-emendas-loa", "nucleo_texto": null, "tags": ["EXCECAO_OMITIDA", "ESCOPO"], "nivel": "dificil"}
+{"item": "42", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-emendas-loa", "nucleo_texto": null, "tags": ["TROCA_TERMO", "CONCEITO_MISTURADO"], "nivel": "dificil"}
+{"item": "19", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-receita-estagios-regime", "nucleo_texto": null, "tags": ["ABSOLUTO", "CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "21", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-lrf-impacto-despesa", "nucleo_texto": null, "tags": ["ABSOLUTO", "EXCECAO_OMITIDA"], "nivel": "medio"}
+{"item": "40", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-orcamento-base-zero", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "41", "edital": "P1·ADM 4.1", "relevancia": "media", "nucleo_id": "n-orcamento-tradicional", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "43", "edital": "P1·ADM 4.1", "relevancia": "media", "nucleo_id": "n-sistema-planejamento-orcamento", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "45", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ldo-orienta-loa-metas-fiscais", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "48", "edital": "P2·DIR 3.1", "relevancia": "media", "nucleo_id": "n-controle-interno-finalidades", "nucleo_texto": null, "tags": ["ABSOLUTO", "ESCOPO"], "nivel": "facil"}
+{"item": "54", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-receita-conceitos", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "64", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ldo-orienta-loa-metas-fiscais", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "67", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-divida-publica-fundada", "nucleo_texto": null, "tags": ["DETALHE_NUMERICO"], "nivel": "dificil"}
+{"item": "2", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-funcoes-estado-musgrave", "nucleo_texto": null, "tags": ["ABSOLUTO"], "nivel": "medio"}
+{"item": "11", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-arcabouco-fiscal", "nucleo_texto": null, "tags": ["DETALHE_NUMERICO"], "nivel": "medio"}
+{"item": "16", "edital": "P1·ADM 4.1", "relevancia": "media", "nucleo_id": "n-receita-conceitos", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "26", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ldo-limites-poderes", "nucleo_texto": null, "tags": ["ABSOLUTO"], "nivel": "medio"}
+{"item": "30", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ldo-orienta-loa-metas-fiscais", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "31", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-classificacao-funcional", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "35", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ldo-orienta-loa-metas-fiscais", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "36", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-lrf-impacto-despesa", "nucleo_texto": null, "tags": ["PARTE_CERTA_PARTE_ERRADA"], "nivel": "medio"}
+{"item": "37", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-lrf-impacto-despesa", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "63", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-creditos-adicionais", "nucleo_texto": null, "tags": ["TROCA_TERMO"], "nivel": "facil"}
+{"item": "25", "edital": "P1·ADM 4.1", "relevancia": "baixa", "nucleo_id": "n-despesa-conceitos", "nucleo_texto": null, "tags": ["CAUSA_CONSEQUENCIA"], "nivel": "medio"}
+{"item": "27", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-loa-tres-orcamentos", "nucleo_texto": null, "tags": ["CAUSA_CONSEQUENCIA"], "nivel": "medio"}
+{"item": "32", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-creditos-adicionais", "nucleo_texto": null, "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "52", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-ppa-programa-acoes", "nucleo_texto": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "60", "edital": "P1·ADM 4.1", "relevancia": "alta", "nucleo_id": "n-principios-orcamentarios", "nucleo_texto": null, "tags": ["CAUSA_CONSEQUENCIA"], "nivel": "medio"}
+{"item": "62", "edital": "P1·ADM 4.1", "relevancia": "media", "nucleo_id": "n-sistema-planejamento-orcamento", "nucleo_texto": null, "tags": ["TROCA_TERMO"], "nivel": "dificil"}

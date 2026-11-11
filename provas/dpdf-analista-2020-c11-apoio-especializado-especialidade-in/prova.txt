@@ -1,0 +1,412 @@
+CEBRASPE | DPDF – Edital: 2020
+
+548011_01N203205
+
+Nos itens que avaliarem conhecimentos de informática e(ou) tecnologia da informação, a menos que seja explicitamente
+informado o contrário, considere que todos os programas mencionados estão em configuração padrão e que não há restrições de
+proteção, de funcionamento e de uso em relação aos programas, arquivos, diretórios, recursos e equipamentos mencionados.
+
+-- CONHECIMENTOS ESPECIALIZADOS -Julgue os itens subsequentes, a respeito da administração de
+sistemas operacionais Linux, considerando que o sistema esteja
+logado com o usuário root.
+51
+
+Para atualizar pacotes apenas para versões que contenham as
+atualizações de segurança mais recentes, deve ser utilizado o
+seguinte comando.
+yum update-minimal --security
+
+52
+
+O systemd é capaz de gerenciar serviços; o comando a
+seguir permite listar os status de todos os serviços no sistema
+operacional.
+systemctl list-units --type target --anyway
+
+53
+
+Se 022 é o umask padrão para todos os usuários, então o
+comando a seguir modificará o umask para 227 somente
+para o usuário roberto.
+echo 'umask 227' >> /home/roberto/.bashrc
+
+54
+
+O comando timedatectl list --zone é capaz de listar
+os timezones disponíveis para a configuração de fuso horário
+no sistema operacional.
+
+55
+
+O comando setfacl é usado para verificar a existência de
+listas de controles de acesso (ACL) no sistema de arquivos e
+diretórios.
+
+Acerca de segurança da informação, julgue os itens seguintes.
+56
+
+O algoritmo de hash é capaz de verificar e validar a
+integridade de um arquivo.
+
+57
+
+Se um arquivo deve ser transmitido entre dois computadores
+por meio da Internet, então, para agregar confidencialidade
+na transmissão, é correto aplicar um algoritmo de
+criptografia de chave simétrica.
+
+58
+
+O uso de certificados digitais garante a autenticidade e a
+integridade de dados transmitidos entre duas redes de
+computadores, porém não oferece recursos de não repúdio na
+transmissão.
+
+59
+
+Para detectar um ataque malicioso a um computador e
+fornecer evidências desse ataque, é correto utilizar um
+registro de logs externo a esse computador.
+
+60
+
+Um
+IDS
+(intrusion
+detection
+system),
+quando
+disponibilizado para oferecer detecção somente no servidor
+da rede onde ele está instalado, é denominado NIDS
+(network intrusion detection system).
+
+61
+
+O registro de logs e a desinstalação de software
+desnecessário para o funcionamento do servidor são
+considerados ações do processo de hardening do sistema
+operacional.
+
+Com base na norma ABNT NBR ISO/IEC 27002, julgue os itens
+subsequentes.
+62 O documento de política de segurança da informação deve
+ser aprovado pela alta direção da organização e ser parte
+integrante do documento de planejamento estratégico
+organizacional.
+63 A análise crítica da política de segurança da informação,
+realizada em intervalos regulares, deve fornecer como uma
+das saídas as recomendações fornecidas por autoridades
+relevantes.
+64 A segurança da informação deve ser incluída no processo de
+gestão da continuidade de negócio, sendo uma das diretrizes
+de implementação testar e atualizar regularmente os planos e
+processos implantados.
+65 Os logs, registros de atividades dos usuários para fins de
+auditoria, devem registrar informações relevantes, como uso
+de privilégios, arquivos acessados e tipo de acesso.
+A respeito de banco de dados, julgue os itens a seguir.
+66 A criação de tabelas e as restrições de integridade são
+atividades de administração de banco de dados descritas
+como DDL (data definition language).
+67 Em uma arquitetura do tipo banco de dados distribuídos,
+quando um servidor de banco de dados não tem os dados
+solicitados em uma consulta, ele obtém esses dados em outro
+servidor e devolve o resultado de forma transparente.
+68 Na arquitetura do tipo standalone, um servidor denominado
+backend executa consultas no banco de dados e, em seguida,
+retorna os resultados ao cliente.
+Julgue os próximos itens, relativos a armazenamento de dados.
+69 Em uma SAN (storage area network), o armazenamento é
+externalizado e pode ser funcionalmente distribuído por toda
+a organização, pois o dispositivo de armazenamento é
+conectado diretamente à rede.
+70 Os switches fibre channel são projetados para alto
+desempenho e baixa latência, com velocidades acima de 10
+Gpbs, e, por serem voltados para NAS (network attached
+storages), são incompatíveis com SAN (storage area
+network).
+71 ISL (Inter Switch Link) é um protocolo voltado para a
+manutenção da informação VLAN, tem capacidade de
+trunking e utiliza encapsulamento para levar dados de
+múltiplas VLAN sobre enlaces de tronco.
+72 Trunk é uma solução para interligar switches e transmitir
+informações de VLAN entre eles; nesse caso, o uso do
+protocolo IEEE 802.1Q permite que as informações de
+VLAN sejam incluídas em cada quadro, conforme ele
+trafegue pela linha de tronco.
+73 Zoneamento é um mecanismo de segurança de SAN (storage
+area network) usado para restringir o acesso ao
+armazenamento, sendo a comunicação organizada de modo
+que os dispositivos fiquem isolados uns dos outros,
+melhorando, assim, a segurança e o gerenciamento de
+recursos.
+74 O uso do RAID 1 permite replicar os dados em vários discos,
+uma vez que, assim, os dados nos discos são espelhados, o
+que proporciona tolerância a falha de disco e melhora no
+desempenho de leitura.
+
+548011_01N203205
+
+75
+
+O RAID 5+0 combina a paridade distribuída, do RAID 5,
+com striping, do RAID 0, e requer no mínimo 4 discos, além
+de que, em comparação ao RAID 5, proporciona maior
+proteção de dados e melhora no desempenho de gravação,
+ainda que o desempenho da leitura seja prejudicado.
+
+Julgue os itens seguintes, a respeito da formatação de dados.
+76 Para que os usuários finais possam interagir com aplicativos
+baseados em mainframe, nas operações de fluxo de dados
+3270 entre um aplicativo e um monitor 3270, todos os
+caracteres e números são representados por meio do
+EBCDIC (Extended Binary Coded Decimal Interchange
+Code).
+77 A tag <meta charset="UTF-8"> define o conjunto de
+caracteres usado na página, nesse caso, o UTF-8, que é o
+padrão para HTML5.
+78 Nos códigos em XML a seguir, sexo é um atributo no
+código A e um elemento no código B, mas ambos os códigos
+fornecem as mesmas informações.
+código A
+
+<pessoa sexo="fem">
+<nome>Maria</nome>
+<sobrenome>Silva</sobrenome>
+</pessoa>
+
+código B
+
+<pessoa>
+<sexo>fem</sexo>
+<nome>Maria</nome>
+<sobrenome>Silva</sobrenome>
+</pessoa>
+
+Acerca de RISC e CISC, julgue os itens a seguir.
+79 O CISC possui como características operações registradorpara-registrador, uma instrução por ciclo de clock e um
+número maior de instruções, bem como instruções mais
+complexas, quando comparado ao RISC.
+80 Uma arquitetura com conjunto de instruções RISC utiliza a
+técnica de desvio atrasado, na qual instruções de desvio são
+rearranjadas com outras instruções para melhorar a eficiência
+do pipeline.
+Espaço livre
+
+CEBRASPE | DPDF – Edital: 2020
+
+A alta administração de uma organização elencou os seguintes
+requisitos, visando à aplicação de boas práticas de gerenciamento
+de serviços:
+I oficializar acordos entre um provedor de serviço de TI e
+outra parte da mesma organização, estipulando as
+responsabilidades de ambas as partes;
+II possuir um documento que defina e descreva todos
+serviços que a TI provê em seu portfólio para seus
+clientes;
+III executar ações que implementem as políticas de
+segurança
+da
+informação,
+garantindo
+a
+confidencialidade, a integridade e a disponibilidade dos
+ativos;
+IV possuir um banco de dados ou documento que contenha
+informação sobre os serviços que estejam no funil de
+serviço (em desenvolvimento), em produção e os
+obsoletos;
+V implantar ações que permitam gerenciar os aplicativos
+relacionados a gestão de serviços comprados ou
+desenvolvidos pela organização durante o seu ciclo de
+vida;
+VI implantar processo que vise restaurar os serviços ao seu
+nível normal no caso de uma interrupção não planejada.
+A partir dessa situação hipotética, julgue os itens seguintes, à luz
+da ITIL (versão 3).
+81 Para o atendimento do requisito I, deve-se formalizar um
+acordo de nível de serviço (ANS), que documenta as metas
+de nível de serviço e especifica as responsabilidades das
+partes envolvidas.
+82 Para atendimento do requisito VI, deve-se implantar o
+processo cumprimento de requisição, que garantirá que a
+operação normal de um serviço seja restaurada tão
+rapidamente quanto possível, minimizando-se impactos ao
+negócio.
+83 O pacote de desenho de serviço (PDS) é um documento
+adequado para atender o requisito II, pois faz a ligação entre
+as fases de estratégia de serviços e de desenho de serviços.
+84 A execução do processo gerenciamento de segurança da
+informação da fase desenho de serviço atenderia o requisito
+III.
+85 O requisito IV será atendido se for implementado o processo
+gerenciamento de catálogo de serviço, o qual é responsável
+por manter as informações do catálogo de serviços que
+contém todos os serviços listados nesse requisito.
+86 Constante na fase de operação de serviços, a função
+gerenciamento técnico atenderia o requisito V, pois é
+responsável por gerenciar aplicativos, ajudando a TI a
+planejar e manter uma infraestrutura que suporte os
+processos de negócio da organização.
+Acerca de consolidação de servidores e virtualização, julgue os
+próximos itens.
+87 Na virtualização com arquitetura do tipo bare metal, a
+máquina virtual é executada diretamente sobre o hardware,
+sem necessidade de um sistema operacional hospedeiro.
+88 Ocorre a chamada consolidação de servidores quando vários
+servidores virtuais são executados em um mesmo
+equipamento de processamento e armazenamento.
+89 A virtualização de desktop consiste em destinar uma
+máquina física para cada usuário, de forma que o
+computador possa ser acessado remotamente.
+
+548011_01N203205
+
+A respeito de mensageria e de integração entre plataformas altas
+e baixas, julgue os itens a seguir.
+90 Quando a mensageria é utilizada com linguagem Java, as
+requisições são processadas exclusivamente de forma
+síncrona.
+91 No tipo de mensageria P2P (point-to-point), a mensagem
+enviada é recebida por um ou mais receptores.
+92 A mensageria é uma arquitetura flexível que permite o
+processamento de requisições em ambientes diferentes, como
+mainframe e cliente-servidor.
+Com relação a data warehouse e data mining, julgue os itens
+subsequentes.
+93 A etapa de estratificação da técnica de árvore de decisão é
+responsável por determinar as regras para a designação dos
+casos identificados a uma categoria existente mais adequada
+no data mining.
+94 Um ambiente de data warehouse permite acessos
+simultâneos ao mesmo registro, para consulta e(ou)
+atualização, sem a preocupação com bloqueios de deadlock.
+95 A análise de data mining por padrão sequencial visa à
+identificação de fatos que geram outros fatos, sempre
+ocorrendo causa e consequência em momentos adjacentes.
+Julgue os itens que se seguem, a respeito de computação em grid
+e em nuvem.
+96 Em termos de arquitetura, cloud computing é considerada
+descentralizada, pois suas aplicações são executadas em
+ambientes distintos.
+97 A computação em nuvem oferece uma infraestrutura elástica
+e escalável para os sistemas que são executados em seus
+ambientes, sem necessidade de customizações.
+98 Em comparação aos modelos IaaS (infrastructure as a
+service) e SaaS (software as a service), a implantação do
+modelo PaaS (platform as a service) exige um investimento
+inicial menor, por serem desnecessários, por exemplo,
+investimentos com infraestrutura.
+No que se refere a servidores de aplicação, julgue os itens a
+seguir.
+99 JBoss é um servidor de aplicação que combina estruturas de
+hardware e de software para permitir a criação de aplicações
+web.
+100 O servidor de aplicação Tomcat é responsável por questões
+comuns a todas as aplicações que nele são executadas, como
+disponibilidade, tratamento de exceções, balanceamento de
+carga e segurança.
+Com relação a clusterização, julgue os próximos itens.
+101 O percentual de disponibilidade de um cluster é calculado
+por meio de uma fórmula que envolve a quantidade de nós
+disponíveis e a quantidade de falhas ocorridas nas últimas 24
+horas.
+102 Em um cluster de alto desempenho, o sistema operacional
+organiza e distribui as tarefas entre os nós do cluster por
+meio da planificação.
+Acerca de backup e recuperação de dados, julgue os itens
+subsecutivos.
+103 O backup incremental tem como característica a cópia
+apenas dos dados alterados ou criados desde o último backup
+completo.
+104 O método de backup 3-2-1 consiste em manter três cópias
+dos dados (a original e dois backups), utilizar dois tipos
+diferentes de mídia e deixar uma cópia remota.
+
+CEBRASPE | DPDF – Edital: 2020
+
+Acerca da contratação de bens e serviços de TI, julgue os
+próximos itens.
+105 De acordo com a Lei n.º 8.666/1993 e suas alterações, nas
+contratações para aperfeiçoamento de sistemas de TI
+considerados estratégicos em ato do Poder Executivo federal,
+a licitação poderá ser restrita a bens e serviços com
+tecnologia desenvolvida no Brasil.
+106 Segundo a Lei n.º 8.666/1993 e suas alterações, o tipo de
+licitação melhor técnica deve ser utilizado exclusivamente
+para serviços de natureza predominantemente intelectual,
+como fiscalização e elaboração de estudos técnicos
+preliminares, não se aplicando às contratações de bens e
+serviços de informática.
+107 De acordo com a Lei n.º 10.520/2002, na fase externa do
+pregão, será vencedor o autor da oferta de menor valor,
+porém, ainda no curso da sessão, todos os concorrentes que
+tenham oferecido preços até 10% superiores à oferta
+vencedora poderão oferecer novos lances, desde que o valor
+desses novos lances seja inferior a 10% da melhor oferta.
+Julgue os itens a seguir, relativos a elaboração e fiscalização de
+contratos de tecnologia da informação e comunicação (TIC), de
+acordo com a Instrução Normativa n.º 1/2019 do MPOG/SLTI.
+108 A contratação de solução de TIC depende da apreciação e
+aprovação do documento de oficialização da demanda pelo
+fiscal administrativo do contrato, que avaliará o alinhamento
+de tal documento com o plano diretor de tecnologia da
+informação e comunicação (PDTIC).
+109 A equipe de planejamento da contratação é responsável por
+avaliar a necessidade de contratações separadas para os itens
+que, devido a sua natureza, possam ser divididos em tantas
+parcelas quantas se comprovarem tecnicamente viáveis, pois
+mais de uma solução de TIC não poderá ser objeto de um
+único contrato.
+110 Nos casos em que o objeto de contratação seja destinado
+para apoio à fiscalização de solução de TIC, a contratada que
+provê a solução de TIC não poderá ser a mesma que apoia a
+fiscalização.
+111 No modelo de execução do contrato, devem constar a
+fixação dos critérios de aceitação dos serviços e os valores
+dos níveis mínimos de serviços prestados, assim como os
+procedimentos a serem adotados na hipótese de a contratada
+não atingir os valores fixados nesses critérios.
+112 O modelo de gestão do contrato deverá contemplar a fixação
+dos critérios de aceitação dos serviços prestados, incluindo
+métricas e níveis mínimos de serviços com os valores
+aceitáveis dos elementos que compõem a solução contratada.
+113 Em se tratando da gestão do contrato, se a contratada não
+produzir os resultados ou deixar de executar as atividades
+contratadas, será permitida a fixação dos valores ou a glosa
+no pagamento, sendo vedados, nesse caso, procedimentos
+que ensejem a retenção no pagamento.
+Acerca do papel dos responsáveis pela fiscalização e pelo
+acompanhamento de contratos, julgue os seguintes itens.
+114 Em caso de compra de computadores por ente
+governamental, caberá ao gestor do contrato receber,
+diligenciar e responder eventual questionamento técnico
+relacionado ao modelo dos processadores incorporados aos
+computadores adquiridos.
+115 O fiscal administrativo do contrato é servidor com
+atribuições gerenciais designado para coordenar e comandar
+o processo de gestão e fiscalização da execução contratual.
+
+548011_01N203205
+
+CEBRASPE | DPDF – Edital: 2020
+
+Na vigência de um contrato de prestação de serviços de TI firmado pelo governo federal, a contratada tem prestado serviços
+com evidente baixa qualidade, não tem cumprido sistematicamente os prazos e tem entregado produtos com deficiência funcional
+generalizada.
+Considerando a situação hipotética precedente, julgue os itens a seguir.
+116 A avaliação da qualidade dos serviços realizados, a partir da aplicação de listas de verificação e de acordo com os critérios de
+aceitação definidos em contrato, é reponsabilidade do fiscal administrativo do contrato.
+117 Eventual aplicação das sanções de advertência e multa é responsabilidade da área administrativa, ao passo que as sanções de
+suspensão temporária de participação em licitação e de declaração de inidoneidade, quando cabíveis, são de competência
+exclusiva de ministro de Estado.
+118 É responsabilidade do gestor do contrato, com base na avaliação de fiscalização, indicar à área administrativa as glosas e sanções
+legais aplicáveis à contratada.
+À luz da Lei n.º 12.527/2011 — Lei de Acesso à Informação, julgue os itens subsequentes.
+119 É vedada pela Lei de Acesso à Informação a restrição de acesso a documentos que versem sobre condutas relacionadas à violação
+dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas.
+120 Sociedades de economia mista e entidades controladas direta ou indiretamente pela União, pelos estados, pelo Distrito Federal e
+pelos municípios subordinam-se à Lei de Acesso à Informação.
+Espaço livre
+
+

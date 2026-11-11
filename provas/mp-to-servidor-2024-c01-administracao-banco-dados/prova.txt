@@ -1,0 +1,348 @@
+                                  -- CONHECIMENTO
+Julgue os itens a seguir, referentes a banco de dados.
+51 Um caso típico de fragmentação em vários bancos de dados
+   é o particionamento de registros correspondentes a diferentes
+   usuários em uma coleção de bancos de dados.
+52 Um sistema gerenciador de banco de dados resolve
+   problemas de integridade para evitar que a mesma
+   informação esteja duplicada em vários locais.
+53   No modelo de dados físico, que é criado como parte do
+     processo de coleta de requisitos iniciais do projeto, é
+     possível obter uma visualização geral do conteúdo do
+     sistema, da forma como esse conteúdo será organizado e das
+     regras de negócios que estão envolvidas.
+54   ADABAS (adaptable data base system) é um sistema
+     gerenciador de banco de dados que se baseia em tabelas no
+     formato JSON, cujas características permitem que as
+     aplicações modelem informações e que os dados sejam
+     alinhados em hierarquias complexas mantendo-se indexáveis
+     e fáceis de buscar.
+55   Em um banco de dados relacional, uma chave primária é o
+     conjunto de um ou mais campos utilizados para identificar
+     um único registro na tabela.
+
+A respeito de modelagem relacional, modelagem dimensional e
+normalização das estruturas de dados, julgue os itens que se
+seguem.
+56   Na modelagem dimensional, as métricas estão contidas na
+     tabela de fatos, enquanto o caráter quantitativo das
+     informações descritivas está armazenado na tabela
+     dimensões.
+57   Chave estrangeira é um campo que aponta para a chave
+     primária de outra tabela ou da mesma tabela, dessa forma,
+     passa a existir uma relação entre duplas de duas tabelas ou de
+     uma única tabela.
+58   No modelo relacional de dados, o termo relação é usado para
+     fazer referência a uma tabela, enquanto o termo tupla é
+     utilizado para se referir a uma linha da tabela.
+
+Julgue os itens subsequentes, com relação à linguagem de
+consulta estruturada (SQL).
+59   O comando HAVING é usado para unir duas ou mais tabelas.
+60   O comando TRUNCATE é usado para remover todas as linhas
+     de uma tabela.
+
+Julgue os itens a seguir, a respeito dos conceitos de NoSQL.
+61   Os bancos de dados NoSQL, por armazenarem dados em
+     uma estrutura de dados, oferecem rápida escalabilidade para
+     gerenciamento de conjuntos de dados grandes e normalmente
+     não estruturados, pois não requerem um esquema.
+62   Latência é o atraso entre a solicitação de acesso aos dados e
+     a resposta da aplicação.
+
+                            CEBRASPE – MPTO – Edital: 2024
+
+OS ESPECÍFICOS --
+ No que se refere a dados estruturados e não estruturados e a
+ técnicas de integração e ingestão de dados, julgue os próximos
+ itens.
+ 63 Dados estruturados normalmente são armazenados em
+      arquivos dos tipos doc, wmv, mpw, mp3, wav, jpg; grandes
+      volumes de dados estruturados são armazenados em
+      data lakes, os quais podem ser acessados quando necessário.
+ 64 O ETL (extract, transform and load) pode ser utilizado para
+      armazenar dados legados ou para agregar dados para analisar
+      e impulsionar as decisões de negócios.
+ A respeito de arquitetura de bancos de dados, julgue os itens a
+ seguir.
+ 65 Na arquitetura de três esquemas, o nível externo apresenta
+     uma série de visões do usuário.
+ 66 Uma das características de um sistema gerenciador de banco
+     de dados (SGBD) é a independência de dados, ou seja, o
+     entendimento dos dados pelo SGBD ocorre mesmo sem uma
+     aplicação.
+ 67 As propriedades autenticidade, consistência, isolamento e
+     durabilidade garantem confiabilidade às transações
+     executadas em um banco de dados.
+ 68 Diferentemente do multithreading, um SGBD multiprocesso
+     atende cada conexão por meio de um processo distinto no
+     sistema operacional.
+ 69 O esquema do banco de dados é alterado a cada comando de
+     INSERT, UPDATE ou DELETE em uma de suas tabelas.
+
+ Quanto a linguagens de consulta, julgue os próximos itens.
+ 70 Em uma consulta SQL, tuplas duplicadas são
+    automaticamente eliminadas pelo SGBD, com o objetivo de
+    aumentar o desempenho.
+ 71 Em uma tabela com 100 registros, uma consulta SQL com a
+    cláusula WHERE pode apresentar resultados com quantidade
+    variando de zero a 100 linhas.
+ 72 A SQL permite a consulta simultânea de atributos com o
+    mesmo nome, desde que a ordem desses atributos seja a
+    mesma da ordem das tabelas onde eles estão armazenados.
+ Com relação a bancos de dados distribuídos, julgue os itens que
+ se seguem.
+ 73 Bancos de dados distribuídos trabalham com escalabilidade
+      horizontal, na qual ocorre a expansão da capacidade de
+      armazenamento de um nó específico.
+ 74 Os nós de um banco de dados distribuído podem estar em
+      uma mesma rede local ou separados geograficamente por
+      grandes distâncias, desde que estejam conectados por uma
+      rede remota.
+ 75 Uma das condições para que um banco de dados seja
+      considerado distribuído é a necessidade de homogeneidade
+      entre os nós conectados, no que diz respeito a hardware
+      e software.
+ Julgue os itens subsequentes, a respeito de administração de
+ bancos de dados.
+ 76 A clusterização de uma tabela consiste em ordenar
+     fisicamente os dados, segundo um índice específico.
+ 77 As roles do PostgreSQL estão relacionadas com os usuários
+     do sistema operacional onde o SGBD está instalado.
+ 78 No PostgreSQL, o dump de uma base de dados, conhecido
+     como becape lógico, gera um arquivo com os comandos para
+     reconstruir a base, caso ocorra algum problema no becape.
+
+Julgue os itens a seguir a respeito de governança no setor
+público.
+79   A governança envolve as atividades de planejar operações,
+     executar planos e controlar o desempenho dos agentes
+     envolvidos.
+80   Uma das diretrizes da governança é a definição formal e a
+     comunicação clara dos papéis e responsabilidades das
+     instâncias internas e de apoio à governança.
+81   As    instâncias   externas    de   governança    realizam      a
+     comunicação entre as partes interessadas e a administração e
+     avaliam os processos de governança e de gestão de riscos e
+     controles, comunicando quaisquer disfunções identificadas à
+     alta administração.
+
+Julgue os itens que se seguem com relação a COBIT 5 e
+governança de tecnologia de informação.
+82   O habilitador de informação do COBIT 5 destaca as
+     seguintes fases: construir, entregar, monitorar e descartar.
+83   O princípio segundo o qual o COBIT 5 permite abordagem
+     holística se alinha a outros padrões e modelos e, portanto,
+     pode servir como modelo unificado para a governança e
+     gestão de TI da organização.
+
+Julgue os itens seguintes acerca de gerenciamento de serviços e
+de conceitos de ITIL.
+84   O design de serviços ITIL provê direcionamento para
+     entregar e suportar serviços e produtos de forma efetiva e
+     eficiente, garantindo a entrega de valor para o cliente.
+85   O gerenciamento de capacidade ITIL tem como objetivo
+     entender os requisitos de capacidade do negócio e controlar a
+     entrega dessa capacidade no presente e no futuro, e é o
+     processo responsável por indicar as vantagens potenciais que
+     as novas tecnologias podem trazer para a organização.
+
+No que se refere a conceitos de qualidade de software, julgue os
+itens subsequentes.
+86   O acordo de nível de serviço (SLA) é uma medida que
+     permite a avaliação de atividades e produtos de trabalho,
+     com base em critérios que minimizem a subjetividade e o
+     viés do revisor, por grupo que não esteve envolvido
+     diretamente na execução dessas atividades nem                  na
+     elaboração desses produtos de trabalho.
+87   No MR-MPS-SW, a capacidade do processo expressa o grau
+     de refinamento e institucionalização com que o processo é
+     executado na organização ou na unidade organizacional.
+88   O MR-MPS-SW define sete níveis de maturidade: A (em
+     otimização), B (gerenciado quantitativamente), C (definido),
+     D (largamente definido), E (parcialmente definido), F
+     (gerenciado), e G (parcialmente gerenciado).
+
+                             CEBRASPE – MPTO – Edital: 2024
+Com pertinência a gestão de segurança da informação, julgue os
+itens subsecutivos.
+89   O principal objetivo da norma ABNT NBR ISO/IEC 27001,
+     que é a norma de gestão das regras para coleta,
+     armazenamento e tratamento de dados de pessoas físicas e
+     jurídicas, é garantir a privacidade, a dignidade e a intimidade
+     de indivíduos e empresas.
+90   Segundo a ABNT NBR ISO/IEC 27005 de segurança da
+     informação, no processo de gestão de riscos a eficácia do
+     tratamento do risco depende dos resultados do processo de
+     avaliação de riscos.
+91   Segundo a norma ABNT NBR ISO/IEC 27002, no que se
+     refere ao controle de pessoas, a seleção serve para assegurar
+     que cada candidato seja elegível e adequado para os papéis
+     para os quais é considerado e que cada um que for
+     selecionado permaneça elegível e adequado durante o
+     período que durar sua contratação.
+92   Vulnerabilidades são falhas que permitem o surgimento de
+     deficiências na segurança geral do computador ou da rede, e
+     podem ser criadas devido a configurações incorretas no
+     computador ou na segurança.
+
+Julgue os itens que se seguem, relativos a políticas de segurança
+da informação.
+93   A política de segurança da informação deve ser boa o
+     suficiente para prever tendências de ameaças e
+     vulnerabilidades, bem como prováveis mudanças do
+     ambiente organizacional, sem que haja a necessidade de
+     reavaliação de seu conteúdo.
+94   Na definição do escopo da política de segurança da
+     informação, devem-se detalhar os limites de sua aplicação,
+     especificando os ambientes físicos, lógicos e organizacionais
+     que são aplicáveis e os tipos de usuários.
+95   Na política de segurança são definidos os papéis de cada
+     membro da organização no que tange à informação, além de
+     serem listados os direitos, os deveres e as punições aplicadas
+     diante do não cumprimento da política.
+
+Quanto aos procedimentos de segurança e gerenciamento de
+redes de computadores, julgue os itens seguintes.
+96   Por meio de acesso de rede confiável (ZTNA), as
+     organizações podem usar políticas de controle de acesso de
+     confiança zero para conectar usuários remotos com
+     segurança, sem que eles tenham acesso a toda a rede.
+97   WPA (wi-fi protected access), especificado no padrão
+     IEEE 802.11, é o mais antigo algoritmo de segurança de rede
+     sem fio, e protege apenas os dados (payload) de quadros, ou
+     seja, os quadros de gerenciamento, de controle e o próprio
+     cabeçalho de quadros de dados não são protegidos.
+98   Na segurança de redes de computadores, além da
+     preservação da confidencialidade, da integridade e da
+     disponibilidade, deve-se incluir também o não repúdio, que
+     trata do rastreamento do histórico dos fatos de um evento
+     assim como a identificação dos envolvidos.
+
+No que se refere a vulnerabilidades e ataques a sistemas
+computacionais e criptografia, julgue os próximos itens.
+99   Bug é o ataque de negação de serviço realizado de forma
+     distribuída e coordenada.
+100 Projetado para velocidade, simplicidade e segurança, o
+     algoritmo MD (message digest) produz um valor de hash de
+     128 bites para um tamanho arbitrário da mensagem inserida.
+
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de
+Dados Pessoais), julgue os itens subsequentes.
+101 O tratamento de dados pessoais sensíveis somente poderá
+     ocorrer quando o titular consentir, de forma específica e
+     destacada, para finalidades específicas.
+102 Encarregado é a pessoa natural ou jurídica, de direito público
+     ou privado, que realiza o tratamento de dados pessoais em
+     nome do controlador.
+103 A lei não se aplica ao tratamento de dados pessoais
+     provenientes de fora do território nacional que não sejam
+     objeto de uso compartilhado de dados com agentes de
+     tratamento brasileiros, desde que o país de proveniência
+     proporcione grau de proteção de dados pessoais adequado ao
+     previsto na lei.
+
+Com fulcro na Lei n.º 12.527/2011 (Lei de Acesso à Informação),
+julgue os itens subsecutivos.
+104 O órgão ou a entidade pode cobrar exclusivamente o valor
+     necessário ao ressarcimento dos custos quando o serviço de
+     fornecimento       da    informação    exigir   reprodução    de
+     documentos.
+105 A informação em poder dos órgãos e entidades públicas,
+     observado o seu teor e em razão de sua imprescindibilidade à
+     segurança da sociedade ou do Estado, pode ser classificada
+     como secreta ou reservada, com prazo máximo de restrição
+     de acesso por 10 anos.
+106 Os procedimentos dessa lei destinam-se a assegurar o direito
+     fundamental de acesso à informação com a observância da
+     publicidade como preceito geral e do sigilo como exceção.
+
+Julgue os próximos itens, relativos a gestão de contratação de
+soluções de tecnologia da informação (TI).
+107 O modelo de gestão do contrato, definido a partir do modelo
+     de execução do objeto, descreve como a execução do objeto
+     será fiscalizada pela organização e define os atores da
+     organização que participarão das atividades de fiscalização.
+108 Cabe ao fiscal setorial emitir documento comprobatório da
+     avaliação    realizada     pelo   fiscal   técnico   quanto   ao
+     cumprimento de obrigações assumidas pela empresa
+     contratada, com menção ao seu desempenho na execução
+     contratual, que deve estar baseado nas cláusulas contratuais.
+
+                            CEBRASPE – MPTO – Edital: 2024
+Julgue os itens a seguir, referentes à elaboração e à fiscalização
+de contratos de TI.
+109 O objeto do contrato deve ser detalhado em termo de
+    referência, que é o documento indispensável para a
+    contratação de bens e serviços, não sendo prevista a inclusão
+    de elementos de adequação orçamentária no referido termo.
+110 A equipe de planejamento da contratação deve elaborar um
+    plano de necessidade de contratação, relacionando o objeto
+    da contratação com as atividades da organização, a partir da
+    justificativa, pela área requisitante, da necessidade da
+    contratação, devendo tal justificativa embasar-se no
+    documento de formalização de demanda.
+111 A elaboração do contrato e a execução da contratação
+    prescindem de disponibilidade orçamentária prévia; dessa
+    forma, os serviços poderão ser licitados sem que haja
+    previsão de recursos orçamentários no exercício financeiro
+    em curso, desde que a despesa integre o exercício financeiro
+    subsequente.
+112 Caso    sejam identificadas demandas complexas, a
+    administração pode interagir com a iniciativa privada por
+    meio de diálogo competitivo ou contratação integrada para a
+    elaboração de estudo técnico preliminar.
+
+Julgue os itens a seguir, a respeito de critérios de remuneração.
+113 Não há vedação absoluta à adoção de métrica homem-hora,
+    ou à remuneração por horas trabalhadas em detrimento da
+    remuneração por resultados, contudo, na remuneração
+    por horas trabalhadas, o órgão deve providenciar o
+    detalhamento do grau de qualidade exigido em relação aos
+    serviços e fazer a prévia estimativa da quantidade de horas
+    necessárias à sua execução.
+114 Quando o objeto do contrato visar à implantação de processo
+    de racionalização, a contratada poderá receber, a título de
+    remuneração, pagamento ajustado em base percentual sobre
+    o valor economizado em determinada despesa.
+115 Na contratação de fornecimento e serviços, com exceção nos
+    afetos à engenharia, poderá ser estabelecida remuneração
+    variável vinculada ao desempenho do contratado desde que
+    definida no edital de licitação e no contrato.
+
+No que se refere a indicadores de nível de serviço, julgue os itens
+seguintes.
+116 É de responsabilidade do fiscal técnico do contrato a
+    avaliação da qualidade dos serviços realizados de acordo
+    com os critérios de aceitação em contrato, e a rejeição parcial
+    em virtude de descumprimento de nível mínimo de serviço
+    acordado pode implicar adequação do valor a ser pago ao
+    contratado, com glosa no pagamento, sem prejuízo das
+    sanções cabíveis.
+117 Deve haver definições relacionadas ao nível de serviço
+    desejado no termo de referência e no contrato, não sendo elas
+    necessárias no anteprojeto, uma vez que essa peça técnica
+    deve, primordialmente, demonstrar e justificar a demanda do
+    público-alvo e a motivação técnico-econômico-social do
+    empreendimento.
+
+Julgue os itens subsequentes, que tratam dos papéis desempenhados
+118 Qualquer pessoa tem legitimidade para impugnar edital de l
+    ainda, para solicitar esclarecimento a respeito dos seus termos.
+119 O fiscal administrativo do contrato compõe a equipe de fiscaliz
+    contratual e realização do recebimento definitivo do serviço.
+120 Constituem deveres do fiscal técnico do contrato: fiscalizar
+    estabelecidas e receber do preposto, no caso de inclusão de em
+    empregados contratados.
+Espaço livre
+
+                              CEBRASPE – MPTO – Edital: 2024
+
+  s na contratação de serviços de TI.
+ licitação por irregularidade na aplicação da Lei de Licitações ou,
+
+ zação do contrato, sendo responsável pela fiscalização da execução
+
+ a execução do contrato para que sejam cumpridas as condições
+mpregados da contratada, os termos de ciência assinados pelos novos
+

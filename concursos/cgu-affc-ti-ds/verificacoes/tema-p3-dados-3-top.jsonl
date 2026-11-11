@@ -1,0 +1,6 @@
+{"item": "1", "edital": "P3·DADOS 3.4", "relevancia": "alta", "nucleo_id": "n-rest-json-vs-soap-xml", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "2", "edital": "P3·DADOS 3.4", "relevancia": "media", "nucleo_id": "n-json-substitui-xml-uddi", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "4", "edital": "P3·DADOS 3.4", "relevancia": "media", "nucleo_id": "n-json-xml-estrutura-chave-valor", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "10", "edital": "P3·DADOS 3.2", "relevancia": "alta", "nucleo_id": "n-etl-vs-elt-diferenca-etapas", "tags": ["ABSOLUTO", "TROCA_TERMO"], "nivel": "medio"}
+{"item": "14", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "15", "edital": "P3·DADOS 3.5", "relevancia": "media", "nucleo_id": "n-etl-qualidade-conformidade-duplicados", "tags": ["TROCA_TERMO"], "nivel": "dificil"}

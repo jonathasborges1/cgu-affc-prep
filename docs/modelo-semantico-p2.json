@@ -1,0 +1,68 @@
+{
+  "treino": {
+    "n": 4140,
+    "positivos": 1255,
+    "limiar_predefinido_por_oof": -0.665792606171666,
+    "oof": {
+      "n": 4140,
+      "positivos": 1255,
+      "aceitos": 2939,
+      "tp": 1147,
+      "fn": 108,
+      "fp": 1792,
+      "recall": 0.9139442231075697,
+      "recall_ic90": [
+        0.9000159983669229,
+        0.9260915157548211
+      ],
+      "precisao": 0.39026879891119426
+    }
+  },
+  "holdouts": {
+    "descartados_auditados": {
+      "n": 300,
+      "positivos": 97,
+      "aceitos": 162,
+      "tp": 72,
+      "fn": 25,
+      "fp": 90,
+      "recall": 0.7422680412371134,
+      "recall_ic90": [
+        0.6633450304636367,
+        0.8080430024559059
+      ],
+      "precisao": 0.4444444444444444,
+      "assunto_top1": 0.5051546391752577,
+      "assunto_top3": 0.7422680412371134,
+      "assunto_top3_ic90": [
+        0.6633450304636367,
+        0.8080430024559059
+      ]
+    },
+    "tail3": {
+      "n": 150,
+      "positivos": 43,
+      "aceitos": 64,
+      "tp": 28,
+      "fn": 15,
+      "fp": 36,
+      "recall": 0.6511627906976745,
+      "recall_ic90": [
+        0.5259124165762908,
+        0.7585169768310235
+      ],
+      "precisao": 0.4375,
+      "assunto_top1": 0.5116279069767442,
+      "assunto_top3": 0.7209302325581395,
+      "assunto_top3_ic90": [
+        0.597941000528321,
+        0.8177634975285228
+      ]
+    }
+  },
+  "gates": {
+    "recall_binario_holdouts": false,
+    "assunto_top3_holdouts": false
+  },
+  "aprovado": false
+}

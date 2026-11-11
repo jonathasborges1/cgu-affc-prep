@@ -1,0 +1,1010 @@
+{
+  "inicio": "2026-11-10T15:55:17-04:00",
+  "concurso": "cgu-affc-ti-ds",
+  "prompt": "PROMPT_EXECUCAO_1_ITERACAO.md",
+  "ciclos": [
+    {
+      "ciclo": 1,
+      "tarefas": [
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\auditar_prioridade_cega.py",
+          "returncode": 0,
+          "stdout": "{\n  \"P2\": {\n    \"bloco\": \"P2\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 1,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.10178374402353807,\n    \"precisao_ic90\": [\n      0.0507539536594336,\n      0.16963957337256347\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  },\n  \"P3\": {\n    \"bloco\": \"P3\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 2,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.5347611202635915,\n    \"precisao_ic90\": [\n      0.43130148270181223,\n      0.6385502471169687\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  }\n}\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py catalogo --tempo 90",
+          "returncode": 0,
+          "stdout": "catalogo: 458 eventos em cache (0 novos); alvo 319\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py ranquear",
+          "returncode": 0,
+          "stdout": "ista – Especialidade: Sistemas \n\nde Controle com Foco em Eletrô\n 6.40 2024 ANM 24 | CARGO 25: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: TECNOLOGIA DA INFOR\n 6.40 2024 BDMG_24 | conhecimentos gerais (bloco comum)\n 6.40 2024 MPO 24 | CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO I\n 6.40 2024 MPO 24 | CARGO 3: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GOVERNANÇA E GEST\n 6.40 2024 MPO 24 | CARGO 5: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE INFRAES\n 6.40 2024 MPO 24 | CARGO 6: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE DADOS O\n 6.40 2024 MPO 24 | CARGO 7: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE CONTRAT\n 6.40 2024 MPO 24 | CARGO 8: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DA SEGURAN\n 6.40 2024 MPTO SERVIDOR | Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 MPTO SERVIDOR | Cargo 2: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 PC DF 24 ADM | CARGO 2: GESTOR DE APOIO ÀS ATIVIDADES POLICIAIS CIVIS – ESPECIALIDADE: ANALISTA\n 6.40 2024 STJ 24 | Cargo 3: Analista Judiciário – Área: Apoio Especializado – Especialidade: Anális\n 6.35 2021 TCE RJ 21 ANALISTA | ANALISTA DE CONTROLE EXTERNO – ÁREA ORGANIZACIONAL – ESPECIALIDADE: TECNOLOGIA D\n 6.20 2022 SECONT ES 22 | CARGO 6: AUDITOR DO ESTADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO\n 6.05 2023 AGER MT 23 | CARGO 5: ANALISTA REGULADOR – PERFIL: CIÊNCIAS DA COMPUTAÇÃO E(OU) SISTEMAS DE I\n 6.05 2023 CNMP 23 | Cargo 8: Analista do CNMP – Área: Tecnologia da Informação e Comunicação – Espec\n 6.00 2016 TCE/PA 2016 | Cargo 40: Auxiliar Técnico de Controle Externo - Área: Informática\n 6.00 2016 TCE/PA 2016 | Cargo 36: Auditor de Controle Externo - Área: Informática - Especialidade: Web D\n 6.00 2016 TCE/PA 2016 | Cargo 35: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 34: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 32: Auditor de Controle Externo - Área: Informática - Especialidade: Admin\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 40: auxiliar técnico de contr\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 32: auditor de controle exter\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py varrer --max-provas 3 --tempo 150 --forte 10 --fraco 8 --ganho-min -1 --alvo-total 1000000",
+          "returncode": 0,
+          "stdout": "rito_ilegivel): cagepa-2024-c13-engenheiro-mecanico\npulada (gabarito_ilegivel): cagepa-2024-c14-engenheiro-quimico\npulada (gabarito_ilegivel): cagepa-2024-c15-jornalista\npulada (gabarito_ilegivel): cagepa-2024-c16-medico-trabalho\npulada (gabarito_ilegivel): cagepa-2024-c17-psicologo\npulada (gabarito_ilegivel): cagepa-2024-c19-tecnico-eletronica\npulada (gabarito_ilegivel): cagepa-2024-c20-tecnico-eletrotecnica\npulada (gabarito_ilegivel): cagepa-2024-c21-tecnico-enfermagem-trabalho\npulada (gabarito_ilegivel): cagepa-2024-c22-tecnico-geoprocessamento\npulada (gabarito_ilegivel): cagepa-2024-c24-tecnico-mecanica\npulada (gabarito_ilegivel): cagepa-2024-c25-tecnico-saneamento\npulada (gabarito_ilegivel): cagepa-2024-c26-tecnico-seguranca-trabalho\npulada (gabarito_ilegivel): cnj-2024-x-prova-objetiva-conhecimentos-basicos\npulada (gabarito_ilegivel): cnj-2024-c01-administrativa-especialidade-pedagog\npulada (gabarito_ilegivel): cnj-2024-c03-apoio-especializado-especialidade-ar\npulada (gabarito_ilegivel): cnj-2024-c04-apoio-especializado-especialidade-ci\npulada (gabarito_ilegivel): cnj-2024-c05-apoio-especializado-especialidade-en\npulada (gabarito_ilegivel): cnj-2024-c06-judiciaria\npulada (gabarito_ilegivel): cnj-2024-c07-administrativa\npulada (gabarito_ilegivel): cpnuje-2024-x-prova-objetiva-conhecimentos-basicos\npulada (gabarito_ilegivel): cpnuje-2024-c01-administrativa\npulada (gabarito_ilegivel): cpnuje-2024-c02-administrativa-especialidade-contabi\npulada (gabarito_ilegivel): cpnuje-2024-c03-apoio-especializado-especialidade-ar\npulada (gabarito_ilegivel): cpnuje-2024-c04-apoio-especializado-especialidade-ar\npulada (gabarito_ilegivel): cpnuje-2024-c05-apoio-especializado-especialidade-bi\npulada (gabarito_ilegivel): cpnuje-2024-c06-apoio-especializado-especialidade-en\npulada (gabarito_ilegivel): cpnuje-2024-c07-apoio-especializado-especialidade-en\npulada (gabarito_ilegivel): cpnuje-2024-c08-apoio-especializado-especialidade-en\npulada (gabarito_ilegivel): cpnuje-2024-c09-apoio-especializado-especialidade-en\npulada (gabarito_ilegivel): cpnuje-2024-c10-apoio-especializado-especialidade-es\npulada (gabarito_ilegivel): cpnuje-2024-c11-apoio-especializado-especialidade-me\npulada (gabarito_ilegivel): cpnuje-2024-c12-apoio-especializado-especialidade-me\npulada (gabarito_ilegivel): cpnuje-2024-c13-apoio-especializado-especialidade-me\npulada (gabarito_ilegivel): cpnuje-2024-c14-apoio-especializado-especialidade-od\nparada: tempo da chamada (rode de novo, continua de onde parou)\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\classificar_p1_sklearn.py",
+          "returncode": 0,
+          "stdout": "\n        \"precisao\": 0.6692307692307692,\n        \"cobertura_positivos\": 0.7767857142857143\n      },\n      {\n        \"limiar\": 0.1,\n        \"aceitos\": 220,\n        \"precisao\": 0.6909090909090909,\n        \"cobertura_positivos\": 0.6785714285714286\n      },\n      {\n        \"limiar\": 0.2,\n        \"aceitos\": 171,\n        \"precisao\": 0.7192982456140351,\n        \"cobertura_positivos\": 0.5491071428571429\n      },\n      {\n        \"limiar\": 0.3,\n        \"aceitos\": 143,\n        \"precisao\": 0.7342657342657343,\n        \"cobertura_positivos\": 0.46875\n      },\n      {\n        \"limiar\": 0.4,\n        \"aceitos\": 97,\n        \"precisao\": 0.7628865979381443,\n        \"cobertura_positivos\": 0.33035714285714285\n      },\n      {\n        \"limiar\": 0.5,\n        \"aceitos\": 75,\n        \"precisao\": 0.7333333333333333,\n        \"cobertura_positivos\": 0.24553571428571427\n      },\n      {\n        \"limiar\": 0.6,\n        \"aceitos\": 47,\n        \"precisao\": 0.851063829787234,\n        \"cobertura_positivos\": 0.17857142857142858\n      },\n      {\n        \"limiar\": 0.8,\n        \"aceitos\": 10,\n        \"precisao\": 0.8,\n        \"cobertura_positivos\": 0.03571428571428571\n      },\n      {\n        \"limiar\": 1,\n        \"aceitos\": 3,\n        \"precisao\": 0.6666666666666666,\n        \"cobertura_positivos\": 0.008928571428571428\n      },\n      {\n        \"limiar\": 1.25,\n        \"aceitos\": 1,\n        \"precisao\": 1.0,\n        \"cobertura_positivos\": 0.004464285714285714\n      },\n      {\n        \"limiar\": 1.5,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      },\n      {\n        \"limiar\": 2,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      }\n    ],\n    \"auto_escolhido\": null,\n    \"candidato_revisao\": {\n      \"limiar\": 0.6,\n      \"aceitos\": 47,\n      \"precisao\": 0.851063829787234,\n      \"cobertura_positivos\": 0.17857142857142858\n    },\n    \"descartados_provaveis_p1\": 417\n  },\n  \"auto_total\": 280,\n  \"auto_p1\": 280,\n  \"auto_outro\": 0,\n  \"revisao\": 18793,\n  \"por_topico\": {\n    \"P1·ETICA 4\": 3,\n    \"P1·ADM 3\": 30,\n    \"P1·ADM 5\": 4,\n    \"P1·ETICA 2\": 6,\n    \"P1·SOC 3\": 2,\n    \"P1·ADM 4\": 144,\n    \"P1·ESTADO 1\": 1,\n    \"P1·ETICA 5\": 1,\n    \"P1·ESTADO 6\": 2,\n    \"P1·ADM 2\": 25,\n    \"P1·ETICA 3\": 1,\n    \"P1·ESTADO 5\": 6,\n    \"P1·ESTADO 3\": 8,\n    \"P1·SOC 5\": 14,\n    \"P1·SOC 4\": 4,\n    \"P1·ESTADO 4\": 3,\n    \"P1·ESTADO 2\": 3,\n    \"P1·ADM 1\": 6,\n    \"P1·ESTADO 9\": 17\n  },\n  \"gate\": \"precisao >= 85%, >=30 aceitos no holdout e concordancia SVM+triagem\"\n}\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\ml_triagem.py validar",
+          "returncode": 0,
+          "stdout": "rotulados com texto: 793 | P3: 543 | classes: 36\nassunto: n=407 top1=0.39 top3=0.62\n  margem>=0.0 cobertura 1.00 precisao 0.39\n  margem>=0.2 cobertura 0.37 precisao 0.55\n  margem>=0.3 cobertura 0.21 precisao 0.71\n  margem>=0.4 cobertura 0.15 precisao 0.75\n  margem>=0.5 cobertura 0.09 precisao 0.82\n  margem>=0.6 cobertura 0.07 precisao 0.86\n  margem>=0.8 cobertura 0.02 precisao 1.00\ndetector: n=622 AUC=0.846\n  p>=0.3 aceita 0.90 precisao 0.76 recall 0.98\n  p>=0.4 aceita 0.78 precisao 0.82 recall 0.92\n  p>=0.5 aceita 0.66 precisao 0.88 recall 0.82\n  p>=0.6 aceita 0.50 precisao 0.92 recall 0.66\n  p>=0.7 aceita 0.36 precisao 0.94 recall 0.48\n  p>=0.8 aceita 0.19 precisao 0.94 recall 0.25\n  p>=0.9 aceita 0.05 precisao 0.97 recall 0.07\nlimiar auto-aceite (margem): None\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\ml_triagem.py recall",
+          "returncode": 0,
+          "stdout": "rotulados com texto: 793 | P3: 543 | classes: 36\ndescartadas lidas: 110, com P3: 16 (14.5%), AUC=0.826\nP3 escondidas no pool de 8228: amostral 1197 | modelo calibrado 1328 (IC90 942-1693)\n",
+          "stderr": ""
+        }
+      ],
+      "confianca": {
+        "P1": {
+          "assuntos_calibrados": 24,
+          "assuntos_total": 24,
+          "ordem_por_faixas_confiavel": true,
+          "ordem_exata_confiavel": 3
+        },
+        "P2": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 25,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        },
+        "P3": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 19,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        }
+      }
+    },
+    {
+      "ciclo": 2,
+      "tarefas": [
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\auditar_prioridade_cega.py",
+          "returncode": 0,
+          "stdout": "{\n  \"P2\": {\n    \"bloco\": \"P2\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 1,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.10178374402353807,\n    \"precisao_ic90\": [\n      0.0507539536594336,\n      0.16963957337256347\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  },\n  \"P3\": {\n    \"bloco\": \"P3\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 2,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.5347611202635915,\n    \"precisao_ic90\": [\n      0.43130148270181223,\n      0.6385502471169687\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  }\n}\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py catalogo --tempo 90",
+          "returncode": 0,
+          "stdout": "catalogo: 458 eventos em cache (0 novos); alvo 319\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py ranquear",
+          "returncode": 0,
+          "stdout": "ista – Especialidade: Sistemas \n\nde Controle com Foco em Eletrô\n 6.40 2024 ANM 24 | CARGO 25: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: TECNOLOGIA DA INFOR\n 6.40 2024 BDMG_24 | conhecimentos gerais (bloco comum)\n 6.40 2024 MPO 24 | CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO I\n 6.40 2024 MPO 24 | CARGO 3: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GOVERNANÇA E GEST\n 6.40 2024 MPO 24 | CARGO 5: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE INFRAES\n 6.40 2024 MPO 24 | CARGO 6: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE DADOS O\n 6.40 2024 MPO 24 | CARGO 7: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE CONTRAT\n 6.40 2024 MPO 24 | CARGO 8: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DA SEGURAN\n 6.40 2024 MPTO SERVIDOR | Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 MPTO SERVIDOR | Cargo 2: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 PC DF 24 ADM | CARGO 2: GESTOR DE APOIO ÀS ATIVIDADES POLICIAIS CIVIS – ESPECIALIDADE: ANALISTA\n 6.40 2024 STJ 24 | Cargo 3: Analista Judiciário – Área: Apoio Especializado – Especialidade: Anális\n 6.35 2021 TCE RJ 21 ANALISTA | ANALISTA DE CONTROLE EXTERNO – ÁREA ORGANIZACIONAL – ESPECIALIDADE: TECNOLOGIA D\n 6.20 2022 SECONT ES 22 | CARGO 6: AUDITOR DO ESTADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO\n 6.05 2023 AGER MT 23 | CARGO 5: ANALISTA REGULADOR – PERFIL: CIÊNCIAS DA COMPUTAÇÃO E(OU) SISTEMAS DE I\n 6.05 2023 CNMP 23 | Cargo 8: Analista do CNMP – Área: Tecnologia da Informação e Comunicação – Espec\n 6.00 2016 TCE/PA 2016 | Cargo 40: Auxiliar Técnico de Controle Externo - Área: Informática\n 6.00 2016 TCE/PA 2016 | Cargo 36: Auditor de Controle Externo - Área: Informática - Especialidade: Web D\n 6.00 2016 TCE/PA 2016 | Cargo 35: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 34: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 32: Auditor de Controle Externo - Área: Informática - Especialidade: Admin\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 40: auxiliar técnico de contr\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 32: auditor de controle exter\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py varrer --max-provas 3 --tempo 150 --forte 10 --fraco 8 --ganho-min -1 --alvo-total 1000000",
+          "returncode": 0,
+          "stdout": "o_ilegivel): embrapa-2024-c15-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c16-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c17-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c18-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c19-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c20-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c21-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c22-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c23-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c24-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c25-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c26-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c27-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c28-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c29-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c30-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c31-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c33-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c34-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c35-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c36-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c38-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c37-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c39-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c40-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c41-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c32-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c42-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c43-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c44-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c45-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c46-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c47-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c48-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c49-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c50-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c51-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c52-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c53-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c54-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c55-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c56-pesquisador\npulada (gabarito_ilegivel): embrapa-2024-c57-pesquisador\nparada: tempo da chamada (rode de novo, continua de onde parou)\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\classificar_p1_sklearn.py",
+          "returncode": 0,
+          "stdout": "\n        \"precisao\": 0.6692307692307692,\n        \"cobertura_positivos\": 0.7767857142857143\n      },\n      {\n        \"limiar\": 0.1,\n        \"aceitos\": 220,\n        \"precisao\": 0.6909090909090909,\n        \"cobertura_positivos\": 0.6785714285714286\n      },\n      {\n        \"limiar\": 0.2,\n        \"aceitos\": 171,\n        \"precisao\": 0.7192982456140351,\n        \"cobertura_positivos\": 0.5491071428571429\n      },\n      {\n        \"limiar\": 0.3,\n        \"aceitos\": 143,\n        \"precisao\": 0.7342657342657343,\n        \"cobertura_positivos\": 0.46875\n      },\n      {\n        \"limiar\": 0.4,\n        \"aceitos\": 97,\n        \"precisao\": 0.7628865979381443,\n        \"cobertura_positivos\": 0.33035714285714285\n      },\n      {\n        \"limiar\": 0.5,\n        \"aceitos\": 75,\n        \"precisao\": 0.7333333333333333,\n        \"cobertura_positivos\": 0.24553571428571427\n      },\n      {\n        \"limiar\": 0.6,\n        \"aceitos\": 47,\n        \"precisao\": 0.851063829787234,\n        \"cobertura_positivos\": 0.17857142857142858\n      },\n      {\n        \"limiar\": 0.8,\n        \"aceitos\": 10,\n        \"precisao\": 0.8,\n        \"cobertura_positivos\": 0.03571428571428571\n      },\n      {\n        \"limiar\": 1,\n        \"aceitos\": 3,\n        \"precisao\": 0.6666666666666666,\n        \"cobertura_positivos\": 0.008928571428571428\n      },\n      {\n        \"limiar\": 1.25,\n        \"aceitos\": 1,\n        \"precisao\": 1.0,\n        \"cobertura_positivos\": 0.004464285714285714\n      },\n      {\n        \"limiar\": 1.5,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      },\n      {\n        \"limiar\": 2,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      }\n    ],\n    \"auto_escolhido\": null,\n    \"candidato_revisao\": {\n      \"limiar\": 0.6,\n      \"aceitos\": 47,\n      \"precisao\": 0.851063829787234,\n      \"cobertura_positivos\": 0.17857142857142858\n    },\n    \"descartados_provaveis_p1\": 417\n  },\n  \"auto_total\": 280,\n  \"auto_p1\": 280,\n  \"auto_outro\": 0,\n  \"revisao\": 18793,\n  \"por_topico\": {\n    \"P1·ETICA 4\": 3,\n    \"P1·ADM 3\": 30,\n    \"P1·ADM 5\": 4,\n    \"P1·ETICA 2\": 6,\n    \"P1·SOC 3\": 2,\n    \"P1·ADM 4\": 144,\n    \"P1·ESTADO 1\": 1,\n    \"P1·ETICA 5\": 1,\n    \"P1·ESTADO 6\": 2,\n    \"P1·ADM 2\": 25,\n    \"P1·ETICA 3\": 1,\n    \"P1·ESTADO 5\": 6,\n    \"P1·ESTADO 3\": 8,\n    \"P1·SOC 5\": 14,\n    \"P1·SOC 4\": 4,\n    \"P1·ESTADO 4\": 3,\n    \"P1·ESTADO 2\": 3,\n    \"P1·ADM 1\": 6,\n    \"P1·ESTADO 9\": 17\n  },\n  \"gate\": \"precisao >= 85%, >=30 aceitos no holdout e concordancia SVM+triagem\"\n}\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\ml_triagem.py validar",
+          "returncode": 0,
+          "stdout": "rotulados com texto: 793 | P3: 543 | classes: 36\nassunto: n=407 top1=0.39 top3=0.62\n  margem>=0.0 cobertura 1.00 precisao 0.39\n  margem>=0.2 cobertura 0.37 precisao 0.55\n  margem>=0.3 cobertura 0.21 precisao 0.71\n  margem>=0.4 cobertura 0.15 precisao 0.75\n  margem>=0.5 cobertura 0.09 precisao 0.82\n  margem>=0.6 cobertura 0.07 precisao 0.86\n  margem>=0.8 cobertura 0.02 precisao 1.00\ndetector: n=622 AUC=0.846\n  p>=0.3 aceita 0.90 precisao 0.76 recall 0.98\n  p>=0.4 aceita 0.78 precisao 0.82 recall 0.92\n  p>=0.5 aceita 0.66 precisao 0.88 recall 0.82\n  p>=0.6 aceita 0.50 precisao 0.92 recall 0.66\n  p>=0.7 aceita 0.36 precisao 0.94 recall 0.48\n  p>=0.8 aceita 0.19 precisao 0.94 recall 0.25\n  p>=0.9 aceita 0.05 precisao 0.97 recall 0.07\nlimiar auto-aceite (margem): None\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\ml_triagem.py recall",
+          "returncode": 0,
+          "stdout": "rotulados com texto: 793 | P3: 543 | classes: 36\ndescartadas lidas: 110, com P3: 16 (14.5%), AUC=0.826\nP3 escondidas no pool de 8228: amostral 1197 | modelo calibrado 1328 (IC90 950-1690)\n",
+          "stderr": ""
+        }
+      ],
+      "confianca": {
+        "P1": {
+          "assuntos_calibrados": 24,
+          "assuntos_total": 24,
+          "ordem_por_faixas_confiavel": true,
+          "ordem_exata_confiavel": 3
+        },
+        "P2": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 25,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        },
+        "P3": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 19,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        }
+      }
+    },
+    {
+      "ciclo": 3,
+      "tarefas": [
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\auditar_prioridade_cega.py",
+          "returncode": 0,
+          "stdout": "{\n  \"P2\": {\n    \"bloco\": \"P2\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 1,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.10178374402353807,\n    \"precisao_ic90\": [\n      0.0507539536594336,\n      0.16963957337256347\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  },\n  \"P3\": {\n    \"bloco\": \"P3\",\n    \"metodo\": \"auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral\",\n    \"n_manifesto\": 60,\n    \"n_rotulado\": 60,\n    \"n_ambiguo\": 2,\n    \"erros_integridade\": [],\n    \"precisao_ponderada\": 0.5347611202635915,\n    \"precisao_ic90\": [\n      0.43130148270181223,\n      0.6385502471169687\n    ],\n    \"recall_ponderado\": null,\n    \"recall_ic90\": null,\n    \"recall_status\": \"nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados\",\n    \"regra\": \"sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis\",\n    \"amostra_ids\": 60\n  }\n}\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py catalogo --tempo 90",
+          "returncode": 0,
+          "stdout": "catalogo: 458 eventos em cache (0 novos); alvo 319\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py ranquear",
+          "returncode": 0,
+          "stdout": "ista – Especialidade: Sistemas \n\nde Controle com Foco em Eletrô\n 6.40 2024 ANM 24 | CARGO 25: ESPECIALISTA EM RECURSOS MINERAIS – ESPECIALIDADE: TECNOLOGIA DA INFOR\n 6.40 2024 BDMG_24 | conhecimentos gerais (bloco comum)\n 6.40 2024 MPO 24 | CARGO 2: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: DESENVOLVIMENTO I\n 6.40 2024 MPO 24 | CARGO 3: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GOVERNANÇA E GEST\n 6.40 2024 MPO 24 | CARGO 5: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE INFRAES\n 6.40 2024 MPO 24 | CARGO 6: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE DADOS O\n 6.40 2024 MPO 24 | CARGO 7: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DE CONTRAT\n 6.40 2024 MPO 24 | CARGO 8: ANALISTA DE PLANEJAMENTO E ORÇAMENTO – ESPECIALIDADE: GESTÃO DA SEGURAN\n 6.40 2024 MPTO SERVIDOR | Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 MPTO SERVIDOR | Cargo 2: Analista Ministerial Especializado – Área de atuação: Administração de \n 6.40 2024 PC DF 24 ADM | CARGO 2: GESTOR DE APOIO ÀS ATIVIDADES POLICIAIS CIVIS – ESPECIALIDADE: ANALISTA\n 6.40 2024 STJ 24 | Cargo 3: Analista Judiciário – Área: Apoio Especializado – Especialidade: Anális\n 6.35 2021 TCE RJ 21 ANALISTA | ANALISTA DE CONTROLE EXTERNO – ÁREA ORGANIZACIONAL – ESPECIALIDADE: TECNOLOGIA D\n 6.20 2022 SECONT ES 22 | CARGO 6: AUDITOR DO ESTADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO\n 6.05 2023 AGER MT 23 | CARGO 5: ANALISTA REGULADOR – PERFIL: CIÊNCIAS DA COMPUTAÇÃO E(OU) SISTEMAS DE I\n 6.05 2023 CNMP 23 | Cargo 8: Analista do CNMP – Área: Tecnologia da Informação e Comunicação – Espec\n 6.00 2016 TCE/PA 2016 | Cargo 40: Auxiliar Técnico de Controle Externo - Área: Informática\n 6.00 2016 TCE/PA 2016 | Cargo 36: Auditor de Controle Externo - Área: Informática - Especialidade: Web D\n 6.00 2016 TCE/PA 2016 | Cargo 35: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 34: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 33: Auditor de Controle Externo - Área: Informática - Especialidade: Anali\n 6.00 2016 TCE/PA 2016 | Cargo 32: Auditor de Controle Externo - Área: Informática - Especialidade: Admin\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 40: auxiliar técnico de contr\n 6.00 2016 TCE/PA 2016 |  Caderno de provas - Conhecimentos Básicos - cargo 32: auditor de controle exter\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\descobrir.py varrer --max-provas 3 --tempo 150 --forte 10 --fraco 8 --ganho-min -1 --alvo-total 1000000",
+          "returncode": 0,
+          "stdout": "ofessor-educacao-basica-peb\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c18-professor-educacao-basica-peb\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c19-professor-educacao-basica-peb\npulada (gabarito_ilegivel): pref-cachoeiro-2024-x-prova-objetiva-conhecimentos-especif\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c21-psicologo\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c22-terapeuta-ocupacional\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c23-cuidador\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c24-tecnico-enfermagem\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c25-tecnico-enfermagem-trabalho\npulada (gabarito_ilegivel): pref-cachoeiro-2024-c26-tecnico-radiologia\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-x-prova-objetiva-conhecimentos-basicos\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c02-arquiteto\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c03-assistente-social\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c11-bibliotecario\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c12-biologo\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c13-contador\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c14-engenheiro-agrimensor\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c15-engenheiro-agronomo\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c16-engenheiro-ambiental\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c17-engenheiro-civil\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c18-engenheiro-minas\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c19-engenheiro-transito-trafego\npref-cachoeiro-adm-2024-c20-engenheiro-eletricista itens= 40/ 40 compat= 9 (fortes  4) prior=1.4 [normal] | CARGO 20: ENGENHEIRO ELETRICISTA\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c21-engenheiro-florestal\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c22-agente-administrativo\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c23-agente-apoio-educacional\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c24-tecnico-laboratorio-analises-clinica\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c25-tecnico-seguranca-trabalho\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c27-topografo\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c28-auxiliar-administrativo\npulada (gabarito_ilegivel): pref-cachoeiro-adm-2024-c29-auxiliar-educacao\npulada (gabarito_ilegivel): pref-cachoeiro-procurador-2024-c01-procurador\nparada: tempo da chamada (rode de novo, continua de onde parou)\n",
+          "stderr": ""
+        },
+        {
+          "comando": "C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\python.exe C:\\Users\\jonathas.000\\Documents\\provas\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\cgu-bd\\scripts\\classificar_p1_sklearn.py",
+          "returncode": null,
+          "erro": "Command '['C:\\\\Users\\\\jonathas.000\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe', 'C:\\\\Users\\\\jonathas.000\\\\Documents\\\\provas\\\\CGU-AFFC-Auditor-Fiscal-Financas-Controle\\\\cgu-bd\\\\scripts\\\\classificar_p1_sklearn.py']' timed out after 11.61225000000195 seconds"
+        }
+      ],
+      "confianca": {
+        "P1": {
+          "assuntos_calibrados": 24,
+          "assuntos_total": 24,
+          "ordem_por_faixas_confiavel": true,
+          "ordem_exata_confiavel": 3
+        },
+        "P2": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 25,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        },
+        "P3": {
+          "assuntos_calibrados": 0,
+          "assuntos_total": 19,
+          "ordem_por_faixas_confiavel": false,
+          "ordem_exata_confiavel": 0
+        }
+      }
+    }
+  ],
+  "objetivo_atingido": false,
+  "bloqueios": [
+    "P2: gates de confiança da ordem ainda não aprovados",
+    "P3: gates de confiança da ordem ainda não aprovados"
+  ],
+  "confianca_final": {
+    "P1": {
+      "assuntos_calibrados": 24,
+      "assuntos_total": 24,
+      "ordem_por_faixas_confiavel": true,
+      "ordem_exata_confiavel": 3
+    },
+    "P2": {
+      "assuntos_calibrados": 0,
+      "assuntos_total": 25,
+      "ordem_por_faixas_confiavel": false,
+      "ordem_exata_confiavel": 0
+    },
+    "P3": {
+      "assuntos_calibrados": 0,
+      "assuntos_total": 19,
+      "ordem_por_faixas_confiavel": false,
+      "ordem_exata_confiavel": 0
+    }
+  },
+  "provas_novas": 0,
+  "pendencias_semanticas": [
+    {
+      "prova_id": "inpi-2023-cc1",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c08-planejamento-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bdmg-2024-c01-gestao-financas-controladorias",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c06-gestao-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c07-infraestrutura-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c09-projetos-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pref-mossoro-rn-2024-c07-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tc-df-auditor-2024-c03-auditor-controle-externo-area",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anm-2024-c25-tecnologia-informacao-governanca-ino",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bdmg-2024-cg-bloco-comum",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c02-desenvolvimento-institucional",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c03-governanca-gestao-projetos-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c05-gestao-infraestrutura-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c06-gestao-dados-orcamentarios",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c07-gestao-contratos-ti",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-c08-gestao-seguranca-informacao-orcament",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c02-administracao-infraestrutura-tecnolo",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c02-analista-informatica-area-atuacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tema-p3-seg-1-b",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "stj-2024-c03-apoio-especializado-especialidade-an",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "secont-es-2022-c06-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c01-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "seplag-ce-2024-c03-ciencia-computacao-ou-afins",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c01-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "trf6-2024-c27-apoio-especializado-especialidade-de",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnpq-2023-c02-desenvolvimento",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnpq-2023-c05-gestao-governanca",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c40-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c36-informatica-especialidade-web-design",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c35-informatica-especialidade-analista-s",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c34-informatica-especialidade-analista-s",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c32-informatica-especialidade-administra",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-informatica-especialidade-administra",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c07-desenvolvimento-software",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c12-estrategia-governanca",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c09-a9-gestao-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c10-a10-gestao-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c11-a11-gestao-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tbg-2023-c04-desenvolvimento-software",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tc-df-auditor-2024-cg-bloco-comum",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "seplan-rr-2022-c02-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dpdf-analista-2020-c10-apoio-especializado-especialidade-in",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anm-2024-c21-geologia-geografia-geofisica-engenha",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anm-2024-c24-tecnologia-informacao-ciencia-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anm-2024-c26-tecnologia-informacao-operacoes",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bdmg-2024-c03-engenharias",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mp-go-servidor-2024-c05-analista-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mpo-2024-cg-bloco-comum",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c04-analise-sistemas",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c19-tecnico-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c01-analista-informatica-area-atuacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c03-analista-informatica-area-atuacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "trt10-2024-c11-apoio-especializado-especialidade-te",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "petrobras-ns-2021-c04-analista-sistemas-engenharia-softwar",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "fub-2025-c14-sistemas-telecomunicacoes",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "fub-2025-c18-tecnico-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "stm-2025-c03-apoio-especializado-especialidade-an",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "stm-2025-c06-apoio-especializado-especialidade-su",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "susep-2025-c04-tecnologia-informacao-ciencia-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "secont-es-2022-c01-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "bcb-2023-c02-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cge-rj-2023-cg-bloco-comum",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c38-planejamento-especialidade-economia",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c37-planejamento-especialidade-administr",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c20-fiscalizacao-especialidade-administr",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-c03-administrativa-especialidade-adminis",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-fiscalizacao-especialidade-administr",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-pe-2017-c04-administracao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anatel-2024-c02-ciencias-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "anm-2024-c22-qualquer-area-formacao-fiscalizacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnj-2024-c02-apoio-especializado-especialidade-an",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnj-2024-c08-apoio-especializado-especialidade-pr",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c02-contabilidade",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c03-economia",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c04-engenharia-civil",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c05-engenharia-mecanica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c06-engenharia-pesca-aquicultura",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c07-estatistica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c08-geologia",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c09-jornalismo",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c10-publicidade-propaganda",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "codevasf-2024-c11-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cpnuje-2024-c17-apoio-especializado-especialidade-te",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cpnuje-2024-c21-apoio-especializado-especialidade-pr",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pref-cachoeiro-adm-2024-c01-analista-sistemas",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pref-cachoeiro-adm-2024-c26-tecnico-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "seplag-ce-2024-cg-bloco-comum",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c02-contabilidade",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c03-direito",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c04-engenharia-civil",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c05-pedagogia",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c13-direito",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c15-arquitetura",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c16-contabilidade",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c17-direito",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c18-engenharia-civil",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-ac-2024-c19-tecnico-administrativo-especialidade",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "trf6-2024-c02-apoio-especializado-especialidade-an",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "trf6-2024-c22-apoio-especializado-especialidade-te",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "fub-2025-c03-auditor",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "banco-do-nordeste-2022-c02-infraestrutura-seguranca-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "mcom-2022-c01-tecnicas-complexidade-gerencial-tecn",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "capes-2023-c05-informatica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cau-br-2023-c03-analista-infraestrutura-tecnologia-i",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cau-br-2023-c10-assistente-tecnologia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnpq-2023-c03-gestao-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cnpq-2023-c07-infraestrutura",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "cti-2023-c06-tecnologias-habilitadoras-area-atuac",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c02-advocacia",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c03-analise-negocio",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c04-arquitetura-engenharia-tecnologica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c05-comunicacao-social",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c06-contabilidade",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c08-engenharia-civil",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c11-engenheiro-dados",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c13-gestao-pessoas",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c14-gestao-servicos-tic",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c15-gestao-economico-financeira",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c16-infraestrutura-operacoes-facilities",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c17-inteligencia-informacao",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c18-logistica-aquisicoes-contratos",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c20-seguranca",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c21-sustentacao-tecnologica",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c12-p1-biologia-celular-molecular",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c14-p3-redes-comunicacao-sem",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inpi-2023-c15-p4-processamento-sinais-processament",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao",
+      "estado": "classificada",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "dataprev-2023-c19-seguranca-cibernetica",
+      "estado": "classificada",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "trf6-2024-c03-apoio-especializado-especialidade-an",
+      "estado": "classificada",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "banco-do-nordeste-2022-c01-desenvolvimento-sistemas",
+      "estado": "classificada",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "inoversasul-2024-c26-secretaria-administrativa-diretoria",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    },
+    {
+      "prova_id": "pref-cachoeiro-adm-2024-c20-engenheiro-eletricista",
+      "estado": "extraida",
+      "proximo": "classificação semântica/verificação independente exige revisão dedicada"
+    }
+  ],
+  "fim": "2026-11-10T16:05:20-04:00",
+  "observacao": "O orquestrador concluiu a invocação. Isto não equivale a atingir o objetivo quando objetivo_atingido=false."
+}

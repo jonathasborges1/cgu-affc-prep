@@ -1,0 +1,15 @@
+{
+  "lote": "p2-dir-3",
+  "status": "concluida",
+  "itens": 36,
+  "pacotes": [
+    "concursos/cgu-affc-ti-ds/pacotes/tema-p2-dir-3-1.md",
+    "concursos/cgu-affc-ti-ds/pacotes/tema-p2-dir-3-2.md"
+  ],
+  "etapas": [
+    {"nome": "classificar", "status": "concluida", "itens": 36},
+    {"nome": "verificar", "status": "concluida", "aprovados": 36},
+    {"nome": "aplicar_no_banco", "status": "concluida", "inseridos": 34, "duplicados": 2}
+  ],
+  "proximo_comando": "DIR 3 concluído. Próximo passo: iniciar a classificação do próximo tema prioritário da P2, começando por GOV 2."
+}

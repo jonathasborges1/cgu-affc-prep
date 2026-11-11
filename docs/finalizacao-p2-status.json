@@ -1,0 +1,70 @@
+{
+  "historico": [
+    {
+      "consolidacao": {
+        "concluida": true,
+        "itens": 300,
+        "concordancia": 0.69,
+        "divergencias": 93,
+        "divergencias_pendentes": 0,
+        "rotulos_auditados": "fila\\calibracao-p2-descartados.rotulos-auditados.json"
+      },
+      "diagnostico": {
+        "objetivo_atingido": true,
+        "gates": {
+          "amostra_completa": true,
+          "sem_duplicados": true,
+          "estabilidade_faixas_fixas_0_80": true,
+          "temporal_recencia_ponderado_0_85": true,
+          "pior_periodo_recente_0_70": true,
+          "amostragem_probabilistica_aprovada": true
+        },
+        "valores": {
+          "estabilidade": 0.85,
+          "instaveis": [
+            "P2·TRANSP 4",
+            "P2·DIR 1",
+            "P2·DIR 5"
+          ],
+          "temporal_recente": 0.856,
+          "temporal_todos_periodos": 0.845,
+          "pior_periodo_recente": 0.864,
+          "pior_periodo_historico": 0.632,
+          "folds": 4,
+          "recall_lido_diagnostico": 0.527,
+          "amostra_cauda": 525,
+          "margem_maxima_90": 0.0359
+        },
+        "confiavel_publicado": true
+      }
+    }
+  ],
+  "final": {
+    "objetivo_atingido": true,
+    "gates": {
+      "amostra_completa": true,
+      "sem_duplicados": true,
+      "estabilidade_faixas_fixas_0_80": true,
+      "temporal_recencia_ponderado_0_85": true,
+      "pior_periodo_recente_0_70": true,
+      "amostragem_probabilistica_aprovada": true
+    },
+    "valores": {
+      "estabilidade": 0.85,
+      "instaveis": [
+        "P2·TRANSP 4",
+        "P2·DIR 1",
+        "P2·DIR 5"
+      ],
+      "temporal_recente": 0.856,
+      "temporal_todos_periodos": 0.845,
+      "pior_periodo_recente": 0.864,
+      "pior_periodo_historico": 0.632,
+      "folds": 4,
+      "recall_lido_diagnostico": 0.527,
+      "amostra_cauda": 525,
+      "margem_maxima_90": 0.0359
+    },
+    "confiavel_publicado": true
+  }
+}

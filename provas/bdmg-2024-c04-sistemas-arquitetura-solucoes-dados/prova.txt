@@ -1,0 +1,422 @@
+-- CONHECIMENTO
+Julgue os próximos itens, acerca de análise de requisitos, UML e
+conceitos relativos à orientação a objetos.
+49
+
+No seguinte diagrama de classes, os métodos e atributos das
+classes Ave e Mamífero são herdados da classe Animal e o
+método falar(), nas classes BemTeVi, Papagaio, Vaca e
+Cachorro, é um exemplo de polimorfismo.
+
+50
+
+No diagrama de caso de uso apresentado a seguir, o ator
+estudante internacional herda do ator estudante, e, ao se
+acionar o caso de uso matrícula em seminário, o caso de uso
+matrícula na universidade é obrigatoriamente acionado.
+
+51
+
+O design thinking converge com a engenharia de requisitos e
+com a UX (experiência do usuário), especialmente em sua
+etapa de prototipação, quando são produzidas as ideias e é
+incentivada a criatividade, de modo que se possa fazer
+imersão no que o usuário espera do software.
+
+52
+
+Em um diagrama UML, o símbolo
+dentro da atividade.
+
+indica interrupção
+
+Julgue os seguintes itens, no que se refere a testes de software.
+O teste de integração é utilizado para descobrir erros
+associados a interfaces, a fim de que seja possível a
+construção de uma estrutura de programa determinada pelo
+projeto, a partir de componentes testados em unidade.
+54 O teste unitário concentra o esforço de verificação no
+componente ou módulo de software, usando como guia a
+descrição de projeto no nível de componente. Nesse
+processo, caminhos de controle importantes são testados para
+descobrir erros dentro dos limites do módulo, conforme
+implementado no código-fonte.
+53
+
+
+CEBRASPE – BDMG – Edital: 2024
+
+OS ESPECÍFICOS -Julgue os itens a seguir, relativos ao Kanban e ao Scrum.
+55 No scrum team, o product owner é hierarquicamente
+superior ao scrum master e aos developers, porém os
+developers podem formar times menores, por serem
+multifuncionais.
+56 No Kanban, a aplicação da prática WIP (work in progress)
+define a quantidade máxima de trabalho que pode existir em
+cada status de um fluxo de trabalho.
+Julgue os itens subsequentes, com relação a DevOps e
+DevSecOps.
+57 O conceito de shift-left do DevSecOps refere-se à criação de
+um processo separado para avaliação de riscos e exposições
+de segurança ao final da fase build, com somente a aplicação
+de testes de segurança e de forma concentrada na fase test.
+58 Sabendo-se que o DevOps possui as fases plan, code, build,
+test, release, deploy, operate e monitor, necessariamente
+nessa sequência, e que o pipeline CI/CD é o processo que
+orienta o desenvolvimento de software pelo caminho de
+codificação, testes e implementação do código, é correto
+afirmar que o CI engloba até a fase test e o CD engloba até a
+fase deploy.
+Em relação a ferramentas e práticas em DevOps, julgue os itens
+subsequentes.
+59 A colaboração entre equipes de desenvolvimento e operações
+no DevOps limita-se à comunicação via ferramentas de chat,
+sem necessidade de integração de ferramentas de automação
+ou feedback loops.
+60 No Jenkins, a função Replay pode ser invocada em
+pipelines ainda em progresso, permitindo alterações e
+reexecuções imediatas.
+61 O Terraform lida automaticamente com todas as
+compatibilidades de provedores e módulos utilizados,
+eliminando a necessidade de gerenciar explicitamente
+versões.
+62 O DevOps exige implementação de pipelines de integração
+contínua (CI) e entrega contínua (CD), além de mentalidade
+de falha rápida para promover inovação constante e
+eficiência operacional.
+63 O Prometheus utiliza modelo de dados de séries temporais
+no qual dados são identificados por um conjunto de rótulos
+chave-valor.
+Julgue os itens que se seguem, a respeito de gerenciamento e
+orquestração de contêineres, implementação de práticas DevOps
+em ambientes de nuvem e configuration management tools.
+64 O Puppet utiliza linguagem de domínio específico (DSL) que
+não suporta a definição de dependências entre recursos e a
+ordenação de execuções.
+65 O Docker não suporta a montagem de volumes persistentes,
+exigindo que todos os dados sejam armazenados dentro do
+contêiner e se percam quando o contêiner for removido.
+66 No Azure DevOps, um step dentro de uma pipeline só pode
+estar em uma destas duas situações: sucesso ou falha.
+67 O Docker permite a criação de redes personalizadas para
+contêineres, o que possibilita a comunicação entre
+contêineres em diferentes hosts por meio da funcionalidade
+de overlay network.
+68 O Azure DevOps permite a implementação de pipelines
+multiestágios, em que cada estágio pode representar um
+ambiente diferente.
+
+
+Acerca de manutenção de sistemas legados, julgue os itens a
+seguir.
+69
+
+A análise de fluxo de controle é dispensável na manutenção
+de sistemas legados, pois o código, por ser antigo, não possui
+complexidades que justifiquem o mapeamento de seus
+caminhos de execução.
+
+70
+
+A descompilação de sistemas legados geralmente ocasiona a
+geração de um código incompleto, pois metadados como
+nomes de variáveis e comentários são perdidos durante a
+compilação.
+
+A respeito de estratégias de migração de sistema, julgue os itens
+subsequentes.
+71
+
+Na estratégia de paralelismo, sistemas legados e novos são
+executados de forma independente, o que reduz custos
+operacionais e elimina a necessidade de sincronização de
+dados, garantindo migração eficiente e sem duplicação de
+esforços.
+
+72
+
+A estratégia de big bang, por sua natureza de migração única
+e completa, elimina riscos de inconsistência de dados e
+downtime e garante transição contínua e sem interrupções
+para usuários finais.
+
+No que se refere à integração de sistemas, julgue os itens que se
+seguem.
+73
+
+APIs RESTful exigem que clientes façam múltiplas
+requisições para buscarem dados relacionados, sem suporte a
+consultas personalizadas ou tipagem de dados.
+
+74
+
+O GraphQL permite que clientes definam exatamente os
+dados de precisam em uma única consulta, reduzindo
+over-fetching e under-fetching.
+
+75
+
+O middleware orientado a serviços, implementado por um
+ESB (enterprise service bus), centraliza a integração de
+sistemas
+
+heterogêneos,
+
+oferecendo
+
+roteamento,
+
+transformação de dados e suporte a protocolos como SOAP,
+REST e JMS.
+76
+
+JMS é uma API que permite mensageria assíncrona,
+suportando filas e tópicos, com garantia de entrega,
+persistência e transações.
+
+Julgue os itens a seguir, relativos à modernização de sistemas.
+77
+
+A adoção de microsserviços aumenta o acoplamento entre os
+componentes de um sistema, porém dificulta a escalabilidade
+e a implementação de atualizações independentes.
+
+78
+
+A reescrita de sistemas legados envolve a migração do
+código existente para uma arquitetura moderna, utilizando-se
+frameworks e padrões atuais.
+
+
+CEBRASPE – BDMG – Edital: 2024
+
+Julgue os próximos itens, relativos a visualização de dados,
+banco de dados e BI (business intelligence).
+79 Em bancos de dados multidimensionais, a relação entre
+dados é sempre representada em estrutura tabular
+bidimensional, sem suporte a modelos de dados hierárquicos
+ou de rede.
+80 O Power BI permite a criação de dashboards interativos que
+podem ser compartilhados com outros usuários.
+81 Dashboards de BI permitem a visualização em tempo real de
+dados importantes para tomadas de decisão.
+82 Relatórios gerados em ferramentas de BI são sempre
+estáticos e não podem ser atualizados com novos dados.
+83 Bancos de dados NoSQL, como MongoDB, são projetados
+para lidar com grandes volumes de dados não estruturados e
+são altamente escaláveis horizontalmente, enquanto bancos
+de dados SQL, como MySQL, são mais adequados para
+dados estruturados, suportando transações ACID.
+84 O OLAP (online analytical processing) é utilizado
+principalmente para transações de alta velocidade e alto
+volume de dados operacionais.
+85 Índices em colunas frequentemente usadas em cláusulas
+WHERE podem melhorar significativamente a performance de
+consultas SQL em bancos de dados relacionais.
+86 Na terceira forma normal (3FN), a existência de dependência
+transitiva entre atributos não chave é permitida desde que os
+atributos estejam em tabelas diferentes.
+87 As bibliotecas NumPy, Pandas, SciPy e Statsmodels são
+frequentemente usadas para manipulação e análise de dados
+em Python, enquanto Matplotlib, Seaborn e Plotly são
+amplamente utilizadas para visualização de dados,
+permitindo a criação de gráficos e plots interativos.
+88 No Power BI, um dashboard pode ser criado utilizando-se
+apenas dados estáticos, e não é possível configurar
+atualizações automáticas para mantê-los sempre atualizados.
+Considerando os conceitos de ML (machine learning), julgue os
+itens a seguir.
+89 Os algoritmos supervisionados de ML do tipo regressão
+linear são capazes de prever uma variável dependente
+contínua usando determinado conjunto de variáveis
+independentes.
+90 Nos algoritmos supervisionados de ML, o modelo é treinado
+apenas com dados de entrada, e as saídas são geradas
+automaticamente pelo algoritmo com base nos padrões
+inferidos, sem necessidade de dados de saída rotulados.
+Julgue o próximo item, relativo a redes neurais e suas
+arquiteturas.
+91 O perceptron multicamada (MLP) é um tipo de rede neural
+artificial constituída de várias camadas de neurônios que
+utilizam funções de ativação não lineares, permitindo que
+essa rede aprenda padrões complexos acerca de dados de
+entrada.
+Julgue os itens a seguir, referentes aos modelos de linguagem
+da IA generativa.
+92 O VAE (variational autoencoder) é um autoencoder cuja
+distribuição de codificações é regularizada somente após o
+treinamento, o que garante que seu espaço latente tenha boas
+propriedades e maior dimensão para capturar padrões
+subjacentes, permitindo a geração de novos dados.
+93 Em uma rede adversária generativa (GAN), o gerador cria
+dados e o discriminador avalia se esses dados pertencem ao
+conjunto de treinamento real.
+
+
+Acerca de LLM, IA generativa e data science, julgue os itens
+subsequentes.
+94
+
+As redes neurais convolucionais são especialmente
+adequadas para o processamento de dados sequenciais, como
+séries temporais e texto, devido à sua capacidade de capturar
+dependências ao longo de sequências.
+
+95
+
+No contexto da IA generativa, o conceito de latent space
+refere-se a um espaço vetorial multidimensional em que
+características abstratas de dados de entrada são
+representadas e manipuladas para gerarem novos dados.
+
+Relativamente aos conceitos de CRISP-DM, MLOps e Python,
+julgue os seguintes itens.
+96
+
+O SciPy é uma biblioteca que inclui ferramentas avançadas
+de aprendizado de máquina, como árvores de decisão, redes
+neurais e algoritmos de reforço.
+
+97
+
+No CRISP-DM, a etapa de data understanding inclui a
+construção e a validação de modelos preditivos, garantindo
+que os resultados estejam alinhados aos objetivos do
+negócio.
+
+98
+
+O monitoramento contínuo em MLOps é utilizado para
+identificar desvios de desempenho de modelos em produção,
+incluindo mudanças na distribuição de dados usados em
+comparação a dados de treinamento.
+
+A respeito de metodologias ágeis em projetos de TI e de
+indicadores de desempenho, julgue os próximos itens.
+99
+
+Entre os indicadores-chave de desempenho (KPIs) de
+projetos, os indicadores de antecipação medem entregas ou
+eventos do projeto, tais como número de entregas
+concluídas, cronograma ou variação de custo.
+
+100 No refinamento de histórias conforme a metodologia Scrum,
+
+as equipes devem detalhar histórias grandes sprint a sprint
+ou nas fases iniciais de liberação, durante as reuniões de
+planejamento de sprint (sprint planning).
+101 Na abordagem balanced team do Scrum, um grupo central
+
+de participantes da equipe de desenvolvimento faz reuniões
+de pré-planejamento semanalmente, sendo necessária a
+participação da equipe completa apenas na última semana do
+pré-planejamento da sprint atual.
+As métricas de produtividade são utilizadas para avaliar a
+eficiência e a eficácia das equipes e dos processos de
+desenvolvimento de software. A respeito dessas métricas, julgue
+os itens a seguir.
+102 O índice de desempenho de prazos indica se são válidas as
+
+estimativas da quantidade de trabalho e de tempo que o
+trabalho consome.
+103 O tempo de entrega corresponde ao período transcorrido
+
+desde a entrada de uma história ou bloco de trabalho no
+backlog até a sua conclusão na iteração ou liberação.
+
+
+CEBRASPE – BDMG – Edital: 2024
+
+Em relação à gestão de projetos ágeis e a práticas de melhoria
+contínua, julgue os itens que se seguem.
+104 Em processos de desenvolvimento de software, a maneira
+
+mais rápida de concluir dois projetos que utilizem os
+mesmos
+recursos
+é
+fazê-los
+paralelamente,
+compartilhando-se esses recursos.
+105 No ART (agile release train), o planejamento de PI (program
+
+increment) é um evento estratégico que busca sincronizar
+equipes ágeis e liderança no que diz respeito à missão, à visão e
+aos planos compartilhados.
+Com base no PMBOK (7.ª edição), julgue os seguintes itens,
+acerca de modelos de complexidade, conflitos e processos de
+gerenciamento de projetos.
+106 Grupos de processos representam as fases do projeto, e o
+
+número de iterações e interações entre processos pode variar
+conforme as necessidades específicas de cada projeto.
+107 A matriz de Stacey é utilizada para analisar a complexidade
+
+de um projeto com base em duas dimensões: a incerteza dos
+requisitos e a incerteza da tecnologia utilizada para a entrega.
+108 A imposição é uma possível forma de resolver conflitos, com
+
+foco no poder relativo, mas não deve ser a principal
+abordagem caso o objetivo seja manter um bom
+relacionamento entre os envolvidos.
+Julgue os próximos itens, a respeito de blockchain e inteligência
+artificial.
+109 No sistema bancário, sensores podem ser utilizados para
+
+identificar as emoções dos clientes e direcionar a sua
+abordagem.
+110 Um dos recursos do blockchain é o consenso, no qual novas
+
+transações financeiras só podem ser registradas quando a
+maioria dos participantes der o seu consentimento.
+111 Em blockchain, ledger é um banco de dados distribuído, no
+
+qual os participantes podem inserir novas transações e alterar
+e excluir transações já registradas.
+A respeito de Open Finance, julgue os itens subsequentes.
+112 O redirecionamento app-to-app permite que uma instituição
+
+envie detalhes de uma solicitação para a função de login de
+outra instituição, por meio de um deep-link.
+113 No Open Finance, a camada de transporte é responsável
+
+pelos processos de gateway e manager para gerenciar
+a publicação das APIs.
+114 No Open Finance, a implementação mais simples do OpenID
+
+Connect permite que clients de todos os tipos, incluindo
+aqueles baseados em navegador, celulares e clients
+Javascript, solicitem e recebam informações sobre
+identidades e sessões atualmente autenticadas.
+115 Open Finance utiliza OpenID Connect como protocolo de
+
+autenticação, por meio de APIs do tipo REST.
+
+
+Acerca de API, julgue os itens que se seguem.
+116 A execução de uma API é feita por meio da seguinte sequênc
+recebe e processa a solicitação; o servidor autentica o cliente; e o
+117 Quando uma sequência de APIs REST deve ser executada n
+depende da primeira, e, assim, sucessivamente.
+118 A autenticação do portador na API REST é feita pelo servidor
+da solicitação.
+
+Considerando as tendências de mercado, julgue os itens que se segu
+119 Na tecnologia blockchain, as partes podem fazer inserções e co
+120 Nas aplicações que usam blockchain, a entidade que inseriu
+outra parte, desde que devidamente justificado.
+Espaço livre
+
+
+CEBRASPE – BDMG – Edital: 2024
+
+cia de etapas: o cliente envia a solicitação ao servidor; o servidor
+o servidor retorna a resposta ao cliente.
+no servidor para atender um mesmo processo, a segunda chamada
+por meio da verificação do token enviado pelo cliente no cabeçalho
+
+uem.
+onsultas, sem a necessidade de replicação entre elas.
+um registro pode alterá-lo, sem necessidade de consentimento de
+
+

@@ -1,0 +1,310 @@
+     548009_01N562771
+
+Nos itens que avaliarem conhecimentos de informática e(ou)
+informado o contrário, considere que todos os programas mencio
+proteção, de funcionamento e de uso em relação aos programas, arq
+
+                              -- CONHECIMENTOS
+Julgue os próximos itens, a respeito de conceitos básicos e
+noções de administração de banco de dados.
+
+51   A operação de definição de um banco de dados compreende
+     especificar os tipos, as estruturas e as restrições dos dados
+     que serão armazenados em dispositivos como discos
+     (storage).
+
+52   Um sistema gerenciador de banco de dados permite que
+     sejam realizadas diversas ações no banco de dados, como,
+     por exemplo, construir e manipular objetos.
+53   Um banco de dados é, especificamente, um conjunto
+     aleatório de dados não relacionados que refletem algo do
+     mundo real.
+
+54   No catálogo denominado metadados, podem ser encontradas
+     informações sobre uma tabela ou algum outro objeto que
+     faça parte da estrutura do banco de dados.
+
+55   Em um banco de dados relacional, todos os usuários devem
+     possuir uma mesma visão (view) do banco de dados, o que é
+     necessário para garantir a consistência dos dados.
+
+Acerca de ambientes de replicação, balanceamento de carga e
+failover, julgue os itens que se seguem.
+
+56   Failover é um processo que é acionado automaticamente
+     quando há indisponibilidade de um banco de dados primário,
+     não sendo possível configurar o seu acionamento no modo
+     manual.
+
+57   Em um ambiente distribuído, a replicação de dados busca,
+     entre outros objetivos, melhorar o desempenho de um
+     serviço e aumentar sua disponibilidade.
+
+58   A principal vantagem do modelo de replicação passiva ou
+     backup primário é a ausência de sobrecargas no sistema: se o
+     gerenciador primário falhar, o servidor secundário é
+     promovido automaticamente para atuar como primário.
+
+59   O balanceamento de carga distribui conexões entre os nós
+     ativos menos congestionados em um cluster.
+
+60   Logo após o failover, o banco de dados secundário passa a
+     ser o novo banco de dados primário e fica inativo até ser
+     iniciado pelo administrador, por meio de comandos.
+
+                              CEBRASPE | DPDF – Edital: 2020
+
+) tecnologia da informação, a menos que seja explicitamente
+onados estão em configuração padrão e que não há restrições de
+quivos, diretórios, recursos e equipamentos mencionados.
+
+ ESPECIALIZADOS --
+  No que diz respeito à otimização de consultas em bancos de
+  dados relacionais, julgue os itens seguintes.
+  61   Uma das vantagens do uso da otimização automática,
+       realizada pelos sistemas gerenciadores de banco de dados,
+       está no fato de que os usuários não necessitam se preocupar
+       com a melhor forma de expressar suas consultas para obter o
+       melhor desempenho do sistema.
+  62   A otimização semântica é uma das técnicas mais utilizadas
+       para melhorar o desempenho das consultas em banco de
+       dados; no entanto, nem toda restrição de integridade
+       referencial pode ser usada, em princípio, nessa técnica.
+  63   Algumas características do sistema, como, por exemplo, a
+       presença de linhas duplicadas, prejudicam o trabalho do
+       otimizador.
+  64   O processo de otimização fornece segurança ao
+       desenvolvedor do banco de dados e garante que a estratégia
+       de implementação do sistema escolhida por ele será ótima,
+       ou seja, será sempre a melhor em todos os contextos.
+  65   No processo de otimização, são usadas estatísticas do banco
+       de dados que contribuem para a construção dos planos de
+       consulta e para a escolha do plano mais econômico.
+
+  Acerca da arquitetura e de aplicações de data warehouse, julgue
+  os itens a seguir.
+  66 Normalmente, todas as soluções de data warehouse são
+     iguais em relação a seus dados, mas nem todas são
+     caracterizadas por componentes padronizados, vitais para a
+     exibição de dados.
+  67 Aplicativos de data warehouse são projetados para oferecer
+     suporte aos requisitos de dados do usuário.
+  68 Em sistemas de produção, um banco de dados de data
+     warehouse é constantemente atualizado a partir dos sistemas
+     de fontes de dados, em horário comercial, em tempo real e
+     com queries diretas aos bancos em produção.
+
+  Julgue os itens subsecutivos, a respeito da modelagem de bases
+  de dados multidimensionais.
+  69 Em um cubo de dados, os dados são visualizados em
+     somente uma dimensão.
+  70 Um cubo de dados permite que os dados sejam modelados
+     em várias dimensões.
+  71 Na modelagem de dados, normalmente se cria uma tabela de
+     fatos que contém os nomes dos fatos ou as medidas das
+     tabelas dimensionais relacionadas.
+
+  Considerando o processamento voltado para ETL (extract,
+  transform, load), julgue os itens seguintes.
+  72 Transformação é o processo de gravar os dados no banco de
+     dados de destino.
+  73 A extração converte registros de seu formato de origem
+     operacional em um formato específico de data warehouse.
+  74 Extração pode ser definida como a operação de extrair
+     informações de um sistema de origem para uso posterior em
+     um ambiente de data warehouse.
+
+    548009_01N562771
+
+Julgue os itens subsequentes, referentes a otimização de bases de
+dados multidimensionais.
+75 A indexação total de uma grande tabela com um índice
+    B-tree tradicional pode ser custosa em termos de espaço em
+    disco, porque os índices podem ser várias vezes maiores do
+    que os dados na tabela.
+76 Índices de bitmap não permitem linhas com valores NULL.
+77 Um administrador de bases de dados pode criar índices de
+    bitmap em tabelas particionadas, e esses índices podem ser
+    globais.
+Com relação a OLAP (online analytical processing), julgue os
+itens que se seguem.
+78 OLAP possui a vantagem de não requerer reestruturação de
+     dados em um esquema estrela/snowflake.
+79 Mudanças em um cubo OLAP requerem uma atualização
+     completa desse cubo.
+80 De maneira geral, OLAP é capaz de implementar análise
+     multidimensional de informações de negócios e suportar a
+     capacidade de estimativas complexas.
+Com relação à arquitetura MVC (model-view-controller), julgue
+os itens a seguir.
+81 As funções do model (modelo) incluem armazenar e persistir
+     os dados.
+82 View (visão) serve para exibir as informações enviadas pelo
+     controller, sendo recomendado pelo padrão que, na camada
+     view, exista regra de negócio.
+83 Controller (controlador), além de ser responsável pela lógica
+     do sistema, também faz a mediação entre o modelo e a visão.
+Julgue os próximos itens, a respeito de proxy reverso para
+aplicações dinâmicas.
+84 Um proxy reverso não é adequado para ofertar conteúdo
+     estático, mas, sim, dinâmico.
+85 Normalmente, um proxy reverso não gera ou hospeda os
+     dados, sendo o conteúdo obtido por um ou vários servidores
+     backend relacionados com a aplicação web.
+86 Segurança, alta disponibilidade, balanceamento de carga e
+     autenticação/autorização centralizada são alguns motivos
+     para a utilização de proxy reverso.
+Acerca de arquitetura orientada a serviços (SOA), julgue os itens
+seguintes.
+87 O barramento de serviços corporativos (ESB) é o
+    componente que implementa a arquitetura estabelecida pelo
+    padrão SOA.
+88 Geralmente, SOA lida com requisitos de baixo acoplamento
+    e desenvolvimento baseado em padrões, além de considerar
+    computação distribuída independente de protocolo e
+    integração de aplicações.
+89 A principal característica das interfaces no padrão SOA
+    consiste em disponibilizar os recursos quando a
+    implementação do serviço é amplamente conhecida.
+Quanto ao domain driven design (DDD), julgue os itens a seguir.
+90 O DDD permite o desenvolvimento de software com base no
+   conhecimento e na modelagem do negócio.
+91 O modelo é estático no DDD; caso ele se torne complexo,
+   caberá aos desenvolvedores transferirem a abstração da
+   complexidade para o software.
+92 Devido a sua simplicidade, o DDD não permite a
+   representação do modelo por meio de artefatos de software
+   bem definidos.
+
+                             CEBRASPE | DPDF – Edital: 2020
+
+Acerca de microsserviços, julgue os itens subsecutivos.
+93 A arquitetura de microsserviços estrutura um aplicativo
+    como uma coleção de serviços que são fracamente
+    acoplados.
+94 Os microsserviços criam vários serviços, cada qual
+    executando em seu próprio processo, mas que não podem ser
+    implantados de forma independente.
+95 Considerando-se a estrutura de microsserviços, os serviços
+    podem ser escritos em diferentes linguagens de
+    programação, mas devem usar a mesma técnica de
+    armazenamento de dados.
+Julgue os itens subsequentes, a respeito da arquitetura
+cliente-servidor tradicional.
+96 Em ambiente cliente-servidor, os clientes se conectam aos
+     servidores para obter acesso aos recursos compartilhados.
+97 Com o advento dos processadores modernos, o desempenho
+     relacionado a tarefas complexas deixou de ser uma diferença
+     considerada significativa entre um servidor e um cliente.
+98 Chamadas de procedimento remoto (RPC — do inglês
+     remote procedure call) são uma forma de comunicação entre
+     processos na qual diferentes processos têm diferentes
+     espaços de endereço.
+REST é um estilo de arquitetura de software que define um
+conjunto de restrições a ser usado para a criação de serviços web.
+Acerca desse assunto, julgue os itens a seguir.
+99 Em um serviço web REST, as solicitações feitas ao URI
+    (uniform resource identifier) de um recurso obterão uma
+    resposta com uma carga formatada em HTML, XML, JSON
+    ou em outro formato suportado.
+100 Em geral, um serviço web REST fornece interoperabilidade
+    entre sistemas de computadores em redes com TCP/IP.
+Julgue os itens a seguir, a respeito de otimização e desempenho
+de banco de dados.
+101 Para o processo de tuning, o PostgreSQL possui um
+    parâmetro denominado shared_buffer, para melhoria de
+    desempenho de entrada/saída (I/O, do inglês input/output) do
+    banco de dados, parâmetro esse que é ajustável e fornece I/O
+    direto aos dados, sem usar buffer de kernel.
+102 Com o PostgreSQL, obtêm-se melhores ganhos em
+    operações de classificações (sort) complexas ao se aumentar
+    o valor da variável work_men.
+Acerca de gerenciamento de conteúdo e automação de processos,
+julgue os itens seguintes.
+103 O BPM se adapta perfeitamente a situações em que os
+    processos são repetidos, sendo uma das suas principais
+    vantagens a inexistência de limitações nas inovações, devido
+    a sua estrutura altamente rígida.
+104 ECM trata de conteúdos não estruturados, que não estão
+    armazenados em tabelas de banco de dados, mas em
+    diferentes tipos de estruturas, como celulares, arquivos,
+    email e canais de atendimentos.
+105 ECM e CMS (content management system) possuem o
+    mesmo conjunto de funções e tarefas comuns, competem
+    entre si e são usados no gerenciamento de conteúdo.
+106 O BPM usa uma abordagem centrada em dados e orientada a
+    tarefas, enquanto o gerenciamento de casos tem uma
+    abordagem centrada em processos.
+107 Utilizado na padronização de processos para garantia de
+    maior agilidade nas operações, o BPM agrupa diversas
+    ferramentas com o objetivo de controlar e monitorar o
+    desenvolvimento, o andamento e a conclusão dos processos.
+
+     548009_01N562771
+
+No que se refere à mineração de dados, julgue os itens que se
+seguem.
+108 A mineração de dados tem como objetivos identificar
+    padrões nos dados, classificar dados de partição em classes e
+    otimizar o uso de recursos limitados, como tempo, espaço e
+    materiais.
+109 No SQL, SELECT * FROM table é uma consulta de banco
+    de dados e exibe informações da tabela do banco de dados,
+    portanto é correto considerá-la uma mineração de dados.
+110 Entre as técnicas de mineração de dados que podem ajudar a
+    criar resultados ideais se inclui a association rule learning,
+    que se refere à observação, em um conjunto de dados, de
+    itens que não correspondem a um padrão ou comportamento
+    esperado.
+Julgue os itens subsequentes, a respeito de inteligência artificial.
+111 Machine learning é um tipo de aprendizado de máquina que
+    executa entradas por meio de uma arquitetura de rede neural
+    de inspiração biológica.
+112 A inteligência artificial geralmente se enquadra em duas
+    categorias abrangentes: narrow AI, às vezes referida como
+    weak AI, que é uma simulação da inteligência humana e
+    opera dentro de um contexto limitado; e AGI (artificial
+    general intelligence), que é uma máquina com inteligência
+    geral e, assim como um ser humano, pode aplicar essa
+    inteligência para resolver qualquer problema.
+113 Computação cognitiva, um subcampo da inteligência
+    artificial, refere-se à computação que se concentra no
+    raciocínio e na compreensão em alto nível, sendo análoga à
+    cognição, à lógica e ao julgamento humanos.
+Com relação ao desenvolvimento de software seguro e à
+arquitetura de aplicativos, julgue os itens a seguir.
+114 São exemplos de estruturas de plataforma cruzada para o
+    desenvolvimento de aplicativos o React Native, que é um kit
+    de ferramentas de desenvolvimento completo, e Felgo, que é
+    apenas um framework.
+115 Systems Security Engineering – Capability Maturity Model
+    (SSE-CMM) é um modelo de processo que pode ser usado
+    para melhorar e avaliar a capacidade de engenharia de
+    segurança de uma organização.
+116 Team Software Process for Secure Software Development
+    (TSP) consiste em um framework com métodos
+    disciplinados e um conjunto de processos para aplicar
+    princípios de engenharia de software em nível de equipe ou
+    individual.
+117 Antes de escolher uma arquitetura de aplicativo específica
+    para smartphones, é importante avaliar o tipo de dispositivo
+    e suas características, como resolução e tamanho da tela e
+    recursos da CPU.
+118 O design da arquitetura de aplicativos móveis geralmente
+    consiste em múltiplas camadas, entre as quais a principal é a
+    camada de negócios, que compreende utilitários de dados,
+    componentes de acesso a dados e agentes de serviço.
+Acerca de computação em nuvem, julgue os próximos itens.
+119 Computação em nuvem pode ser considerada uma estratégia
+    em que recursos altamente escaláveis relacionados à
+    tecnologia da informação são fornecidos como um serviço
+    para vários clientes externos, mediante tecnologias de
+    Internet.
+120 Computação em nuvem envolve uma série de serviços de
+    negócios online que são classificados em nuvem pública,
+    privada, sob demanda e grade.
+
+               CEBRASPE | DPDF – Edital: 2020
+
+Espaço livre
+

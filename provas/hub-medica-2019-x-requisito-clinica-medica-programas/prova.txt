@@ -1,0 +1,808 @@
+•   Cada um dos itens da prova objetiva está vinculado ao comando q
+    um deles esteja vinculado, marque, na Folha de Respostas, par
+    CERTO; ou o campo designado com o código E, caso julgue o
+    os campos não serão apenadas, ou seja, não receberão pontuaçã
+    único documento válido para a correção da sua prova objetiva.
+•   No(s) item(ns) eventualmente constituído(s) pela estrutura Situ
+    como situação hipotética deverão ser considerados premissa(s)
+•   Eventuais espaços livres — identificados ou não pela expressão
+    utilizados para rascunhos.
+
+                                                    PROVA O
+        Uma paciente de sessenta e oito anos de idade, com
+hipertensão arterial sistêmica, foi despertada do sono por dor
+abdominal aguda e intensa, seguida de necessidade de evacuar,
+havia uma hora. A paciente estava em uso de ácido acetilsalicílico
+100 mg e atenolol 50 mg, ambos uma vez ao dia. No exame clínico,
+verificou-se pressão arterial de 168 mmHg × 88 mmHg,
+ritmo   cardíaco   irregular   em   dois   tempos   sem   sopros,
+abdome discretamente tenso, sem dor à descompressão brusca
+e com ruídos hidroaéros presentes. Constatou-se que a sua dor
+era desproporcional aos achados do exame físico. Os demais
+dados do exame físico foram normais. Os exames laboratoriais
+de rotina foram normais, incluindo a pesquisa de sangue nas fezes,
+amilase, lipase e lactato sérico. A seguir, é apresentado
+o eletrocardiograma dessa paciente (com calibração padrão).
+
+
+
+
+Acerca desse quadro clínico, julgue os próximos itens.
+
+1   A radiografia simples de abdome normal seria incompatível
+    com esse caso.
+
+2   Está indicada a realização de uma tomografia computadorizada
+    de abdome com contraste oral.
+
+3   Recomendam-se analgesia e o uso de antibióticos de largo
+    espectro.
+
+4   Em casos semelhantes, a maioria dos pacientes poderá
+    falecer se não for prontamente tratada.
+
+                      CESPE | CEBRASPE – RM – Aplicação: 2018
+
+ que imediatamente o antecede. De acordo com o comando a que cada
+ra cada item: o campo designado com o código C, caso julgue o item
+o item ERRADO. A ausência de marcação ou a marcação de ambos
+ ão negativa. Para as devidas marcações, use a Folha de Respostas,
+
+uação hipotética: ... seguida de Assertiva: ..., os dados apresentados
+ para o julgamento da assertiva proposta.
+ “Espaço livre” — que constarem deste caderno de prova poderão ser
+
+
+OBJETIVA
+   Com relação à reanimação cardiopulmonar (RCP), julgue os itens
+   a seguir.
+
+   5    Durante a RCP, a pressão de perfusão coronária efetiva,
+        que corresponde à pressão arterial diastólica, deve ser superior
+        a 30 mmHg.
+   6    Os benefícios do uso de epinefrina incluem a redução
+        do déficit neurológico, o aumento da taxa de alta hospitalar
+        e da chance de sobrevida de pacientes após a parada cardíaca
+        por fibrilação ventricular ou a taquicardia ventricular
+        sem pulso.
+   7    A atividade elétrica sem pulso é o mecanismo de parada
+        cardíaca mais frequente encontrada no quadro de commotio
+        cordis.
+   8    Quando a hipoxemia for o motivo da parada cardiorrespiratória
+        por atividade elétrica sem pulso, a instalação de uma
+        via aérea definitiva terá prioridade em relação à obtenção
+        de um acesso venoso.
+   9    Nos indivíduos em que o tempo do colapso até a primeira
+        tentativa de desfibrilação tenha sido maior que 5 min,
+        recomenda-se terminar os esforços de RCP caso a medida
+        do CO2 ao final da expiração (ETCO2) seja inferior
+        a 10 mmHg após 10 min de RCP.
+
+   Julgue os próximos itens, a respeito de asma.
+
+   10   A resposta inflamatória alérgica é iniciada com a interação
+        entre linfócitos Th2 e alérgenos ambientais. Além de
+        processarem e apresentarem os alérgenos na forma de antígeno
+        a outras células do sistema imunológico, esses linfócitos
+        contribuem para o início e a manutenção do processo
+        inflamatório, produzindo interleucina 4 (IL-4), que tem
+        papel importante no aumento da produção de anticorpos IgE
+        específicos ao alérgeno.
+   11   A asma é mais prevalente em regiões de clima seco do que
+        em regiões de clima úmido.
+   12   O omalizumabe, indicado para casos de asma alérgica
+        persistente moderada a grave, é um anticorpo monoclonal IgG1
+        hom anticitocina odimérica TH2 que neutraliza os efeitos
+        da interleucina-5.
+
+         Uma viúva com setenta e sete anos de idade, portadora
+de doença pulmonar obstrutiva crônica (DPOC) severa, foi
+atendida no pronto-socorro com piora da dispneia e da tosse
+produtiva. Ela recebeu a segunda alta hospitalar neste ano,
+havia três semanas, devido a DPOC exacerbada. A paciente vivia
+só e realizava as atividades habituais diariamente sem auxílio.
+Estava em uso regular de indacaterol e glicopirrônio. No exame
+físico, apresentava saturação de oxigênio (em ar ambiente)
+de 87%, frequência respiratória de 32 irpm, pressão arterial
+de 134 mmHg × 74 mmHg (média de três medidas), frequência
+cardíaca de 102 bpm e ritmo cardíaco regular em dois tempos
+sem sopros. A ausculta respiratória revelou ruídos adventícios
+presentes com estertores crepitantes em bases e sibilos esparsos.
+O restante do exame físico foi normal. Após três nebulizações
+com brometo de ipratrópio e bromidrato de fenoterol, houve
+melhora da frequência respiratória para 28 irpm e da saturação
+de oxigênio (em ar ambiente) para 89%. O exame físico
+não apresentou modificações significativas.
+Acerca desse caso clínico, julgue os itens subsecutivos.
+13   Para melhorar a função pulmonar e reduzir o risco de recaída
+     precoce, pode-se indicar o uso de corticoide sistêmico
+     por breve período.
+14   Recomenda-se a substituição do glicopirrônio pelo brometo
+     de ipratrópio, alta do pronto-socorro e retorno ao
+     pneumologista em até três dias.
+15   O resultado da prova de função pulmonar, demonstrando
+     volume expiratório forçado no primeiro segundo (VEF1)
+     pós-broncodilatador menor que 80% e maior ou igual a 50%
+     do predito, seria compatível com o caso clínico descrito.
+16   A N-acetilcisteína é uma opção terapêutica segura, visando
+     à redução do número de exacerbações futuras.
+17   A vacina anual contra influenza deve ser administrada
+     considerando que ela não aumenta o risco de exacerbação
+     aguda.
+No que se refere à cardiomiopatia de Takotsubo, julgue os itens
+que se seguem.
+18   A cardiomiopatia de Takotsubo caracteriza-se pela necrose
+     de miócitos por lesão citoplasmática e nuclear, em decorrência
+     de produtos do estresse oxidativo e efeitos das interleucinas 1
+     e 2, do interferon γ e do fator de necrose tumoral, e pela
+     ativação do sistema imunológico com importante infiltrado
+     inflamatório de células natural killer e macrófagos.
+19   Os principais achados clínicos e de exames complementares
+     dessa doença são presença de dor torácica, dispneia e síncope,
+     inversão da onda T, supradesnivelamento do segmento ST,
+     ondas Q patológicas e elevação dos níveis de troponinas
+     cardíacas.
+20   A ventriculografia esquerda geralmente demonstra
+     abaulamento apical com acinesia ou discinesia, acometendo
+     de metade a dois terços do ventrículo esquerdo, e está
+     associada à hiperdinamia dos segmentos basais.
+21   Betabloqueador, inibidor da enzima de conversão da
+     angiotensina e anticoagulação oral são recomendados
+     rotineiramente, com o objetivo de reduzir as principais
+     complicações clínicas, como insuficiência cardíaca,
+     taquicardia ventricular e fenômenos tromboembólicos.
+
+                  CESPE | CEBRASPE – RM – Aplicação: 2018
+
+         Uma mulher com cinquenta e sete anos de idade, branca,
+casada, aposentada, natural e procedente de Brasília, foi atendida
+em um hospital com queixa de episódios súbitos de taquicardia,
+sudorese, náusea e palidez, havia dez meses. Tais episódios
+ocorriam cerca de duas a três vezes por semana, com duração
+aproximada de 20 min, de início súbito, sem fatores
+desencadeantes ou de alívio. Ela trouxe um relatório de alta
+hospitalar devido a internação por urgência hipertensiva e cefaleia
+havia dois meses e, desde então, usava losartana 100 mg e
+hidroclorotiazida 25 mg, ambos uma vez ao dia. Negou
+comorbidades. No exame físico, apresentou pressão arterial de
+138 mmHg × 86 mmHg (posição sentada) e 112 mmHg × 64 mmHg
+(posição ortostática), frequência cardíaca de 96 bpm e ritmo
+cardíaco regular em dois tempos sem sopros. O restante do exame
+físico foi normal. Os resultados dos exames laboratoriais
+mostraram glicemia = 108 mg/dL, creatinina = 0,9 mg/dL,
+sódio = 140 mEq/L e potássio = 4,9 mEq/L. O eletrocardiograma
+revelou hipertrofia ventricular esquerda e os demais exames
+laboratoriais de rotina foram normais.
+
+A respeito desse caso clínico, julgue os próximos itens.
+
+22   Para confirmar o diagnóstico, deve-se indicar o tilt test
+     e o holter de 24 h.
+23   Recomenda-se a substituição da hidroclorotiazida pelo
+     metoprolol.
+24   Recomenda-se o uso de fluoxetina.
+
+Considerando as diretrizes da American Stroke Association de 2018
+para acidente vascular cerebral isquêmico (AVCI), julgue os itens
+a seguir.
+
+25   Devido ao maior risco de transformação hemorrágica,
+     a alteplase intravenosa está contraindicada dentro de 3 h do
+     início dos sintomas de AVCI para indivíduos com pontuação
+     maior que 20 na NIHSS (National Institute of Health
+     Stroke Scale).
+26   Ter idade maior que oitenta anos, com diagnóstico de acidente
+     cerebral prévio, em uso de anticoagulantes orais e com
+     exame de imagem que contenha evidência de lesão isquêmica
+     em mais de um terço do território da artéria cerebral média,
+     são critérios para excluir o uso de alteplase intravenosa de
+     três até quatro horas e meia do início dos sintomas de AVCI.
+27   Quando a alteplase intravenosa está indicada para pacientes
+     em uso de terapia antiplaquetária combinada, recomenda-se
+     substituir o uso da aspirina e do clopidogrel por um agente
+     antiplaquetário intravenoso que iniba o receptor glicoproteína
+     IIb / IIIa, permitindo, assim, pronta reversão em caso
+     de hemorragia.
+28   A compressão pneumática intermitente, além de cuidados
+     rotineiros, reduz o risco de trombose venosa profunda em
+     pacientes acamados com AVCI e sem contraindicações para
+     o seu uso.
+
+Com relação à síndrome da imunodeficiência adquirida (AIDS),
+julgue os itens subsecutivos.
+29   O uso de agentes antimicrobianos é a estratégia mais
+     importante para prevenir as infecções oportunistas nessa
+     síndrome.
+30   A recorrência de infeções sexualmente transmissíveis
+     em homens que se relacionam sexualmente com outros
+     homens é um critério de indicação de profilaxia pré-exposição
+     com a combinação dos antirretrovirais fumarato de tenofovir
+     desoproxila e entricitabina.
+A respeito de hipertensão arterial e de acordo com a 7.ª Diretriz
+Brasileira de Hipertensão Arterial, julgue os itens a seguir.
+31   Hipertensão arterial é uma condição clínica caracterizada
+     somente por picos pressóricos acima de 140 mmHg e(ou)
+     90 mmHg.
+32   Quando houver suspeita de hipotensão ortostática, a pressão
+     arterial deve ser medida novamente, com o paciente em pé,
+     três minutos depois da primeira aferição feita com o paciente
+     sentado.
+33   A manobra de Osler é considerada positiva quando a artéria
+     radial permanece palpável mesmo após a insuflação do
+     manguito em 30 mmHg acima do desaparecimento do pulso
+     radial.
+34   Um paciente com pressão arterial de 166 mmHg × 102 mmHg
+     pode ser classificado com hipertensão no estágio 1.
+35   A terapia farmacológica nos pacientes muito idosos,
+     acima de setenta e nove anos de idade, deve ser indicada
+     para aqueles com pressão sistólica maior que 159 mmHg.
+36   O consumo regular de bebida alcóolica eleva os níveis de
+     pressão arterial, enquanto o consumo excessivo de álcool está
+     associado ao aumento da incidência de hipertensão arterial.
+Segundo as recomendações do Ministério da Saúde relativas ao
+calendário vacinal, julgue os itens que se seguem.
+37   A vacina dupla adulto (dT), que protege contra tétano
+     e coqueluche, deve ser aplicada em adultos maiores de vinte
+     anos de idade e reforçada a cada dez anos daí em diante.
+38   Após a vigésima semana de cada uma de suas gestações,
+     a gestante indígena deve tomar uma dose de dTpa
+     como proteção contra difteria, tétano e coqueluche.
+         Uma mulher de cinquenta e quatro anos de idade
+deu entrada no pronto-socorro com quadro de dor, calor, rubor
+e edema no hálux esquerdo, sintomas que, segundo ela, se iniciaram
+na madrugada e pioraram ao longo do dia. Ela relatou ter
+participado de um churrasco no dia anterior, quando consumiu
+grande quantidade de carne vermelha e bebida destilada.
+Negou trauma local. A paciente é obesa e apresenta resistência
+à insulina e hipertensão arterial, para as quais faz uso de
+metiformina e hidroclorotiazida. Negou alergias medicamentosas
+e outras comorbidades. Foram solicitados exames laboratoriais
+e punção do líquido articular para auxiliar no diagnóstico
+e tratamento.
+A respeito desse quadro clínico, julgue os próximos itens.
+39   A hipótese diagnóstica mais provável é uma crise aguda
+     de gota.
+40   O diagnóstico padrão-ouro nesse caso é a presença de cristais
+     de oxalato de cálcio à microscopia óptica com luz polarizada
+     apresentando birrefringência positiva.
+
+                  CESPE | CEBRASPE – RM – Aplicação: 2018
+
+41   O tratamento dessa paciente deve incluir compressa morna
+     no local afetado três vezes ao dia por cinco dias,
+     e administração de cefalexina 500 mg de 6 h em 6 h por
+     dez dias e de ibuprofeno 600 mg de 8 h em 8 h por cinco dias.
+42   A paciente possui pelo menos três fatores de risco para
+     a afecção que ela apresenta: obesidade, consumo excessivo
+     de bebida alcoólica e uso de hidroclorotiazida.
+
+         Um homem de sessenta e oito anos de idade, que sofre
+de doença pulmonar obstrutiva crônica (DPOC) e em
+acompanhamento ambulatorial com clínico geral, foi atendido
+por um médico em consulta de rotina. Apresentou espirometria
+recente, com VEF1 pós BD = 45%, dispneia de grau 2 pela escala
+mMRC e estado de saúde na classificação DPOC avaliado
+com escore CAT igual a 18. O paciente relatou ter usado antibiótico
+três vezes nos últimos seis meses por causa de “piora do catarro”.
+
+Considerando esse caso clínico e as recomendações da Sociedade
+Brasileira de Pneumologia e Tissologia sobre DPOC, julgue
+os itens seguintes.
+
+43   O paciente em questão deve ser classificado como portador
+     de DPOC moderada.
+44   No caso clínico em apreço, como se trata de paciente
+     considerado um exacerbador frequente, deve ser indicada
+     para ele terapia tripla para tratamento do DPOC.
+45   O roflumilaste está indicado para pacientes com DPOC de leve
+     a moderada na dose de 300 µg ao dia por via inalatória,
+     antes de se tentar a associação de β2 agonista de longa
+     duração e curta duração.
+46   As vacinas anti-influenza e pneumocócica polivalente
+     estão indicadas para todos os pacientes com DPOC e devem
+     ser repetidas anualmente.
+
+De acordo com as orientações do Ministério da Saúde acerca
+do rastreamento de cânceres, julgue os itens a seguir.
+
+47   O rastreamento do câncer de colo de útero é feito com
+     o exame de Papanicolau a cada ano e está indicado apenas
+     para mulheres entre os trinta e os sessenta anos de idade,
+     com vida sexual.
+48   O exame clínico das mamas deve ser feito anualmente
+     em todas as mulheres acima de quarenta anos de idade.
+     Nesse exame, o médico avaliará o aspecto da pele, presença
+     de nodulações palpáveis, retração do mamilo, feridas
+     e descarga papilar.
+49   O rastreamento do câncer colo retal deve ser iniciado aos
+     quarenta e cinco anos de idade, com a solicitação de pesquisa
+     de sangue oculto nas fezes anualmente e, após os cinquenta
+     e cinco anos de idade, todos os pacientes devem fazer
+     colonoscopia a cada cinco anos.
+
+          Um homem de quarenta e dois anos de idade foi atendido
+no pronto-socorro com relato de dois episódios de hematêmese
+ocorridos duas horas antes. Contou que estava previamente
+saudável, mas que estava tomando um anti-inflamatório não
+esteroidal (AINE) há quatro dias devido a uma queda sofrida
+em um jogo de futebol. Confirmou ser tabagista e etilista, além
+de fazer uso esporádico de ácido acetilsalicílico (AAS) para
+cefaleia, e negou alergia medicamentosa.
+Considerando esse caso clínico, julgue os itens que se seguem.
+50   A primeira providência a ser tomada é determinar que
+     o paciente passe por uma endoscopia digestiva alta para
+     que se possa identificar a causa da hemorragia.
+51   Se a causa da hemorragia digestiva alta for por úlcera péptica,
+     a administração de inibidor de bomba de prótons deve
+     ser iniciada, preferencialmente por via endovenosa.
+52   Após receber alta hospitalar, o paciente deverá fazer uso
+     de inibidor de bomba de prótons por, no mínimo, oito semanas
+     e evitar uso de AINE e AAS.
+Com base nas Diretrizes da Sociedade Brasileira de Diabetes
+de 2017-2018, julgue os itens seguintes.
+53   A insuficiência renal aguda é a principal causa de óbito entre
+     as pessoas com diabetes.
+54   O diabetes melito do tipo 1A é definido como doença
+     autoimune decorrente da destruição de células β pancreáticas
+     confirmada pela positividade de um ou mais autoanticorpos,
+     como, por exemplo: o anti-ilhota, o anti-insulina e o
+     antitranspostador de zinco.
+55   Situação hipotética: Um paciente deu entrada no
+     pronto-socorro com quadro clínico de poliúria, polidipsia,
+     polifagia e emagrecimento recente. Sua glicemia no momento
+     da admissão era de 453 mg/dL. Assertiva: Nessa situação,
+     o diagnóstico mais provável é de diabetes melito, não
+     havendo necessidade de segunda dosagem de glicemia.
+56   O exame padrão-ouro para o acompanhamento do indivíduo
+     com diabetes melito é a medida da hemoglobina glicada,
+     que deve ser feita a cada dois meses com o objetivo
+     de alcançar o resultado maior que 7,5%.
+57   O principal objetivo da prática de exercícios físicos para
+     idosos com diabetes melito do tipo 2 é o emagrecimento com
+     redução de massa gorda para melhorar a resistência à insulina.
+          Um homem de cinquenta e oito anos de idade deu
+entrada na emergência com quadro clínico de dor intensa
+em andar superior do abdome que irradiava para dorso e era
+acompanhada de náuseas, vômitos e febre não medida com
+termômetro. Os sintomas iniciaram-se havia dois dias e pioraram
+nas duas horas anteriores à chegada ao hospital. No exame físico,
+o paciente apresentou dor à palpação de andar superior do abdome,
+com defesa muscular e distensão abdominal; murmúrio vesicular
+abolido na base pulmonar esquerda; FC = 124 bpm;
+PA = 90 mmHg × 60 mmHg; e Tax = 38,2 C. Os exames
+laboratoriais apresentaram os seguintes resultados:
+leucócitos = 18.400/mm3 com 7% de bastões; ALT = 178 UI/L;
+amilase = 230 U/L; lipase = 480 U/L; glicose = 240 mg/dL;
+triglicérides = 183 mg/dL.
+Considerando o caso clínico exposto, julgue os itens subsequentes.
+58   De acordo com os critérios de Ranson para classificação
+     de gravidade da pancreatite aguda, esse paciente pode
+     ser classificado como paciente com pancreatite aguda grave.
+
+                   CESPE | CEBRASPE – RM – Aplicação: 2018
+
+59   O tratamento inicial para o paciente deve consistir em
+     suspensão da dieta oral e suporte clínico mediante reposição
+     volêmica vigorosa, manutenção da saturação de oxigênio
+     maior que 95% e analgesia adequada.
+60   A principal hipótese diagnóstica para a causa da pancreatite
+     aguda nesse paciente é hipertrigliceridemia.
+         Uma paciente de setenta e um anos de idade compareceu
+ao atendimento médico com o seguinte quadro clínico: hipertensa
+e diabética, dispneia e desconforto gástrico iniciados havia
+20 min. Na avaliação médica inicial, apresentava-se vígil,
+porém taquipneica, com sudorese profusa e fala entrecortada.
+Seus sinais vitais eram os seguintes: PA: 80 mmHg × 50 mmHg;
+FC: 92 bpm; FR: 28 irpm; SpO2: 94% em ar ambiente;
+glicemia capilar: 320 mg/dL. A ausculta respiratória e a cardíaca
+estavam normais. No exame cardiovascular, constatou-se turgência
+de jugulares. O eletrocardiograma mostrou supradesnivelamentos
+discretos do segmento ST em D3 e aVF e acentuado em V1.
+Havia, ainda, derivações especiais V3R e V4R, com importante
+supradesnivelamento do ponto J e do segmento ST. A primeira
+dosagem sérica de troponina apresentou valores normais,
+embora a mioglobina estivesse aumentada.
+Acerca desse caso clínico e aspectos diversos a ele relacionados,
+julgue os itens a seguir.
+61   A elevação do segmento ST é uma alteração
+     eletrocardiográfica permanente no infarto do ventrículo direito.
+62   No caso apresentado, o resultado da troponina sérica normal
+     é suficiente para indicar que a paciente tem baixo risco
+     de desenvolver complicações secundárias ao infarto agudo
+     do miocárdio.
+63   A mioglobina é o marcador de necrose miocárdica mais
+     precoce, além de ser cardioespecífico.
+64   No tratamento do infarto do ventrículo direito, é indicada
+     a manutenção precoce da pré-carga, mas não o uso de nitratos
+     e diuréticos.
+65   No caso clínico descrito, seria adequado realizar expansão
+     volêmica com solução salina fisiológica e, caso não houvesse
+     resposta clínica favorável, iniciar suporte inotrópico com
+     dobutamina.
+          Um homem de sessenta e sete anos de idade,
+obeso mórbido, hipertenso e diabético, apresentava, havia um dia,
+quadro de dor intensa em andar superior do abdome, associada
+a náuseas e vômitos, após ter consumido grandes quantidades
+de alimentos em uma refeição. No exame físico, estava
+taquicárdico FC: 121 bpm, taquipneico            FR: 22 irpm,
+hipotenso PA: 90 mmHg × 50 mmHg e saturando 92% com
+máscara não reinalante FiO2: 100%. No exame do abdome,
+constatou-se dor à palpação do andar superior. Os exames
+laboratoriais evidenciaram hemoglobina de 18 g/dL;
+hematócrito = 57,3%; leucócitos = 17.200; plaquetas = 351.000,
+glicemia = 283 mg/dL; Ureia = 98 mg/dL; creatinina = 1,85 mg/dL;
+DHL = 762 U/L; bilirrubina total = 5,2 mg/dL;
+bilirrubina direta = 4,4 mg/dL; triglicerídios = 400 mg/dL;
+amilase = 2.058 U/L e lipase = 15.897 U/L. A gasometria arterial
+mostrou pH = 7,36; pO2 = 58; pCO2 = 41,4; HCO3 = 22,8;
+e lactato = 2,6.
+Com relação ao caso clínico apresentado e a aspectos diversos
+a ele relacionados, julgue os itens seguintes.
+66   Valores de lipase e amilase três ou mais vezes acima
+     da normalidade são suficientes para confirmar o diagnóstico
+     de pancreatite aguda.
+67   A hemoconcentração e a azotemia são sinais clínicos preditores
+     de doença grave.
+
+68   O quadro clínico descrito sugere que o paciente sofre
+     de pancreatite em terceira fase de evolução.
+
+69   A hipertrigliceridemia é a causa mais provável para o quadro
+     de pancreatite aguda do paciente em questão.
+
+          Uma paciente com setenta e dois anos de idade, hipertensa,
+foi admitida no serviço de emergência após sofrer queda da própria
+altura e consequente trauma craniencefálico leve. Familiares
+informaram que já havia três dias que a paciente estava mais
+lentificada, com dificuldade para caminhar e um pouco confusa.
+Durante a internação, o quadro da paciente evoluiu para cefaleia,
+náusea, vômitos e crises convulsivas generalizadas. No exame
+físico, constatou-se PA = 130 mmHg × 90 mmHg; FC = 52 bpm;
+FR = 11 irpm e SpO2 = 88% em ar ambiente. Observou-se ainda
+que a paciente estava normocorada e hidratada. A ausculta
+respiratória evidenciou murmúrio vesicular globalmente reduzido.
+No exame neurológico, a paciente mostrava-se disártrica, sonolenta,
+confusa e desorientada no tempo e no espaço. Os resultados dos
+exames de hemograma, glicemia e funções renal e hepática
+estavam normais. A dosagem de eletrólitos evidenciou
+hiponatremia com dosagem sérica de 118 mEq/L.
+
+Considerando o caso clínico apresentado e aspectos diversos
+a ele relacionados, julgue os itens subsequentes.
+
+70   O diagnóstico mais provável da paciente em questão é
+     de hiponatremia crônica.
+
+71   Há grande probabilidade de os sinais de insuficiência
+     respiratória apresentados pela paciente estarem relacionados
+     a um quadro de edema pulmonar neurogênico.
+
+72   A condição clínica em apreço corresponde a um caso de
+     hiponatremia euvolêmica, quadro no qual se espera uma
+     dosagem de sódio urinário menor que 20 mEq/L.
+
+73   O nível sérico de glicose deve ser desconsiderado na
+     determinação da natremia.
+
+74   Em casos de hiponatremia secundária com secreção
+     inapropriada do hormônio antidiurético, os pacientes
+     podem apresentar hipouricemia com nível de ácido úrico
+     sérico menor que 4 mg/dL.
+
+75   Complicação comum nos pacientes com hiponatremia
+     crônica, a síndrome da desmielinização osmótica é
+     desencadeada após correções na concentração plasmática
+     de sódio menores que 10 mEq/L em 24 h.
+
+76   Um     paciente   com      hiponatremia     hipervolêmica   em
+     consequência      de   insuficiência      cardíaca   congestiva
+     pode melhorar após instituição ou intensificação de terapia
+     com inibidores da enzima conversora de angiotensina.
+
+                  CESPE | CEBRASPE – RM – Aplicação: 2018
+
+A respeito de estados pró-trombóticos, julgue os itens que
+se seguem.
+
+77   As duas mutações genéticas autossômicas dominantes
+     mais comuns são o fator V de Leiden e a mutação do gene
+     da protrombina.
+78   A redução dos níveis de homocisteína com folato, vitamina B6
+     ou vitamina B12 diminui a incidência de tromboembolismo
+     venoso.
+79   A síndrome do anticorpo antifosfolipídio é uma causa rara
+     de trombofilia de etiologia genética e está associada
+     à ocorrência de trombose arterial.
+          Uma paciente com trinta anos de idade, sem comorbidades
+prévias conhecidas, procurou atendimento médico devido
+a história de febre que se mantinha havia mais de um mês
+e que havia evoluído com dispneia e tosse seca nas duas semanas
+anteriores ao atendimento. No exame físico, a paciente estava
+hipocorada, apresentava mal estado geral e os seguintes sinais
+vitais: FC = 110 bpm; FR = 26 irpm; SpO2 = 94% em ar
+ambiente e PA = 130 mmHg × 90 mmHg. A ausculta
+respiratória mostrou que o murmúrio vesicular era abolido nos
+dois terços inferiores do hemitórax direito. O resultado do
+hemograma evidenciava anemia normocítica e normocrômica,
+linfopenia e plaquetopenia. Os exames laboratoriais mostraram
+creatinina de 1,51 mg/dL, albumina sérica de 2,1 g/dL, VHS de 152
+e dosagem de proteína C reativa normal. A tomografia
+computadorizada do tórax evidenciou volumoso derrame pleural
+à direita e derrame pericárdico. A pesquisa de anti-dsDNA
+foi positiva e a quantidade de C3 estava diminuída.
+
+Com relação a esse caso clínico descrito e a aspectos diversos
+a ele relacionados, julgue os itens subsequentes.
+
+80   A anemia hemolítica microangiopática é uma forma
+     de apresentação de hemólise no lúpus eritematoso sistêmico
+     na qual o resultado do teste de Coombs é negativo e podem
+     ser encontrados esquizócitos no sangue periférico.
+81   A presença de serosite em vigência de insuficiência renal
+     é suficiente para caracterizar a síndrome de Evans.
+82   A plaquetopenia pode ser manifestação da síndrome
+     antifosfolípide secundária associada ao lúpus e, nesse caso,
+     o risco de sangramento grave está aumentado.
+83   O achado de albumina sérica baixa é consistente com
+     proteinúria persistente e glomerulonefrite proliferativa.
+84   Os níveis de C3 e C4 podem ser usados na monitorização
+     da atividade da doença e de sua resposta terapêutica.
+85   A manifestação pulmonar mais comum do lúpus eritematoso
+     sistêmico é o derrame pleural, enquanto a cardíaca é a
+     pericardite.
+86   A quantificação das concentrações do anticorpo
+     anti-dsDNA pode ser útil no acompanhamento da atividade
+     inflamatória da doença, particularmente da nefrite.
+
+A intubação de sequência rápida (ISR) pressupõe risco de aspiração
+de conteúdo gástrico e incorpora medicações e técnicas para
+minimizar esse risco. A respeito desse assunto, julgue os próximos
+itens.
+87   A ISR tem como característica básica a administração
+     de um hipnótico e de um bloqueador neuromuscular,
+     após uma pré-oxigenação realizada com ventilação pulmonar
+     de pressão positiva.
+88   Na ISR, a infusão de drogas deve ser feita aos poucos e por
+     repetidas vezes, com vistas a evitar efeitos adversos malignos,
+     como a síndrome do tórax rígido.
+89   O fentanil e a lidocaína agem reduzindo os efeitos simpáticos
+     da laringoscopia e podem ser usados em casos de pacientes
+     com hipertensão intracraniana.
+90   A quetamina é uma droga hipnótica com propriedades
+     broncodilatadoras, sendo, portanto, a droga de escolha
+     para pacientes com grave broncoespasmo.
+         Uma paciente do sexo feminino, previamente hígida, de
+27 anos de idade, iniciou quadro de disúria, polaciúria e hematúria
+havia 3 semanas. Fez uso de medicação, sem prescrição médica,
+com melhora parcial. Procurou a emergência de um hospital
+para atendimento, após piora do estado geral, apresentando
+dor lombar à direita, febre, náuseas e vômitos. A paciente foi
+submetida a exames, que evidenciaram o quadro a seguir.
+GEG (grave estado geral): mucosas secas e hipocoradas; edema
+de membros inferiores (+/+4); perfusão periférica débil;
+febre (38,5°); PA = 80 mmHg/60 mmHg; pulso = 120 batimentos
+por minuto; FR = 28 incursões respiratórias por minuto;
+peso = 60 quilogramas.
+Aparelho respiratório: pulmões limpos, esforço respiratório
+e uso de musculatura acessória, Sat O2 90% (máscara de venturi
+50% e 10 litros por minuto).
+Aparelho cardiovascular: bulhas         rítmicas,       normofonéticas
+e taquicárdicas, sem sopros.
+Aparelho digestório:      Giordano     positivo     à    direita,   sem
+visceromegalias.
+Sistema nervoso: pupilas isocóricas e fotorreagentes, obnubilada,
+escala de coma de Glasgow 13.
+Diurese: 300 mL/12h.
+Os exames admissionais obtiveram os seguintes resultados.
+Hemograma: Hb = 10; leucograma = 3500; bastão = 500;
+plaquetas = 105.000; ureia = 85; creatinina = 1,8; Na = 144;
+K = 5,1; Cl = 102.
+Gasometria arterial: pH = 7,2; HCO3 = 16; PCO2 = 28; PO2 =75 Sat
+O2 = 91%; lactato = 2,6.
+A partir do caso clínico precedente, julgue os itens a seguir.
+91   Durante a primeira hora, desde a chegada da paciente na
+     unidade hospitalar, devem ter sido realizados os seguintes
+     procedimentos: expansão volêmica com cristaloide
+     (30 mL/quilograma de peso); coleta de hemoculturas;
+     início de antibioticoterapia de amplo espectro; coleta de
+     lactato sérico e início de vasoamina, para pressão arterial
+     média maior ou igual a 65 mmHg.
+92   As alterações laboratoriais no hemograma justificam como
+     principal suspeita diagnóstica do quadro clínico uma disfunção
+     prévia de medula óssea, o que demanda uma propedêutica
+     específica para a avaliação dessa disfunção.
+
+                   CESPE | CEBRASPE – RM – Aplicação: 2018
+
+93    A gasometria arterial é compatível com a história clínica
+      e evidencia um padrão de normoxemia e acidose metabólica
+      normoclorêmica descompensada.
+94    Por apresentar quick SOFA (q SOFA) maior que 2,
+      a paciente constitui o grupo de alto risco para mortalidade.
+      Ademais, é possível apontar ao menos uma disfunção de órgão.
+95    No cenário atual, a paciente possui diagnóstico de lesão renal,
+      provável etiologia aguda, com indicação de terapia renal
+      substitutiva.
+96    Na terapêutica do caso em análise, a intubação traqueal
+      poderá ser postergada e outras opções de suporte ventilatório
+      deverão ser utilizadas.
+          Uma paciente de 39 anos de idade, com antecedente
+de transtorno afetivo bipolar (TAB), sob acompanhamento
+psiquiátrico havia oito anos, deu entrada na emergência de um
+hospital, trazida por familiares. A paciente apresentava o seguinte
+quadro clínico: lentificação psicomotora, fala empastada,
+emagrecimento de 6 kg em 1 mês, polidipsia e poliúria, sem outras
+comorbidades. Ela fazia uso, nos últimos 12 meses, de
+carbamazepina 1.200 mg/dia, carbonato de lítio 1.800 mg/dia,
+hidroclorotiazida 25 mg/dia e enalapril 10 mg/dia. Ao ser
+examinada, apresentou regular estado geral, mucosas coradas
+e desidratadas (++/4+), estava afebril e acianótica. O exame
+neurológico mostrou escala de coma de Glasgow 11 (abertura
+ocular: 3; resposta motora: 5; resposta verbal: 3), sem outras
+alterações neurológicas, sem sinais de irritação meníngea.
+Os demais exames apresentaram os seguintes resultados.
+Pressão arterial de 130 mmHg/80 mmHg; frequência cardíaca
+de 122 bpm; frequência respiratória de 24 incursões respiratórias
+por minuto; saturação de oxigênio (ar ambiente) de 95%.
+Não houve outras anormalidades.
+Exames laboratoriais na admissão: creatinina = 1,66; ureia = 59;
+K = 2,8; Na = 193; pH = 7,31; HCO3 = 17,9; pCO2 = 30; pO2 = 84;
+e lactato = 26.
+
+A respeito desse caso clínico, julgue os itens seguintes.
+
+97    No plano terapêutico, até a melhora clínica, deve constar
+      a suspensão da hidroclorotiazida, do enalapril e do carbonato
+      de lítio que, nesse último caso, ocorrerá mediante orientação
+      do psiquiatra, caso exista uma opção terapêutica psiquiátrica
+      alternativa ao tratamento.
+98    A administração de ddAVP (acetato de desmopressina)
+      promoverá a correção da poliúria, da hipocalemia e da
+      hipernatremia.
+99    A alteração neurológica torna indispensável o exame
+      de imagem do sistema nervoso central, independentemente
+      da correção da hipernatremia.
+100   Após restabelecimento da volemia com cristaloide, deverá ser
+      instituída solução hipotônica associada ao diurético amilorida.
+101   No caso em tela, a insuficiência renal possui, ao menos,
+      dois mecanismos etiológicos.
+102   O diagnóstico etiológico gasométrico é compatível com o caso
+      clínico e possui as seguintes bases fisiopatológicas:
+      comprometimento da função renal tubular em regenerar
+      bicarbonato e consumo de bicarbonato, por hiperlactatemia.
+
+         Um homem de 46 anos de idade, não fumante, procedente
+do domicílio, foi admitido na emergência com tosse, escarro
+purulento, dispneia e febre, havia 3 dias. Negou comorbidades
+prévias e uso de medicações de uso contínuo. A radiografia de tórax
+evidenciou múltiplas opacidades alveolares com broncograma
+aéreo em terço médio de hemitórax direito e terço inferior de
+hemitórax esquerdo. Após a administração de oxigênio por máscara
+de venturi 50%, obteve-se a seguinte gasometria arterial: pH = 7,31;
+PCO2 = 50; PaO2 = 87; saturação de O2 = 94%; HCO3 = 25.
+Nesse momento, a frequência respiratória era de 26 incursões
+respiratórias por minuto.
+Com relação ao caso clínico precedente, julgue os próximos itens.
+103 Trata-se de um mecanismo misto para a insuficiência
+    respiratória aguda, no qual a hipoventilação alveolar é,
+    necessariamente, um deles.
+104 A fadiga diafragmática, possivelmente ocorrida no decorrer
+    da instalação da insuficiência respiratória aguda, não justifica,
+    por si, a hipercapnia.
+105 É correto afirmar que existe shunt pulmonar.
+106 Na impossibilidade de uma radiografia pulmonar, a realização
+    de ultrassonografia pulmonar, à beira do leito, confirmaria
+    o diagnóstico de pneumonia, pois seriam identificadas as
+    linhas C, que representam a reverberação da interface
+    pleuropulmonar, são equidistantes umas das outras e cada
+    vez menos ecogênicas na profundidade.
+107 A utilização de antibioticoterapia, de amplo espectro, com
+    cobertura, necessariamente para pneumococo, justifica-se pela
+    gravidade do caso clínico e pela disfunção orgânica. Nesse
+    contexto, a utilização de ventilação invasiva está proscrita.
+108 O padrão radiológico e a história clínica desse paciente
+    sugerem infecção bacteriana por Staphylococcus aureus.
+    Nesse caso, deve-se indicar a antibioticoterapia, até o resultado
+    das culturas.
+         Um homem de 43 anos de idade, aposentado, que
+trabalhou em indústria de cimento, tinha hábitos alcoólicos
+superiores a 50 gramas/dia, nos últimos 20 anos. Notou,
+pela primeira vez, havia 3 anos, aumento do volume abdominal,
+edemas dos membros inferiores e face. Associado a esse quadro,
+apresentou parestesias dos quatro membros com evolução
+progressiva e, um mês antes da internação, necessitou ficar
+acamado por fadiga e adinamia. Foi internado na emergência
+para investigação. Durante o exame físico, o paciente estava
+consciente, orientado, com 41,9 quilogramas de peso e altura
+de l,69 metros. A pele apresentava rarefação pilosa e telangiectasias
+da face. As mucosas estavam úmidas e hipocoradas (+2/+4),
+e perfusão periférica com tempo de enchimento capilar menor
+que 2 segundos. Foram verificados, ainda, tórax e abdome com
+circulação colateral, edema da parede abdominal e dos quatro
+membros (+3/+4). Abdome ascítico, hepatomegalia de bordas lisas,
+indolor, palpável 4 centímetros abaixo do rebordo costal direito.
+O hábito intestinal do paciente era de uma evacuação a cada
+dois dias. Com relação ao sistema nervoso central, os membros
+superiores apresentavam hipoestesia bilateral em luva até os
+cotovelos e os inferiores, hipoestesia em meia até os joelhos,
+além de incapacidade de marcha. O paciente referiu inversão
+do ciclo sono e vigília.
+Considerando o caso clínico apresentado, julgue os itens a seguir.
+109 De acordo com as informações desse caso clínico, o médico
+    deve indicar terapia de substituição renal, terlipressina
+    e albumina.
+110 A propedêutica do caso deverá contemplar sorologias para
+    hepatites virais, ultrassonografia abdominal, dosagem do perfil
+    de ferro, eletroneuromiografia e análise do líquido ascítico.
+
+                   CESPE | CEBRASPE – RM – Aplicação: 2018
+
+111   Ao utilizar o critério de gravidade, conclui-se que o paciente
+      do referido caso clínico possui encefalopatia hepática
+      estágio II.
+112   Se esse paciente não for vegetariano estrito, as causas
+      clínicas de sua anemia, associadas à carência de vitamina
+      em sua dieta, incluem déficit de vitamina B12, há meses,
+      e de folato, há anos.
+113   Na hipótese de o paciente ser portador de infecção pelo vírus
+      da hepatite C, o risco relativo de progressão para cirrose
+      hepática será aumentado, em mais de duas vezes, devido
+      ao consumo etílico prévio.
+114   A permanência do consumo de álcool pelo paciente é uma
+      das causas mais comuns de descompensação aguda, da doença
+      hepática instalada. Porém, caso a doença no paciente em
+      questão evolua com insuficiência hepática, precipitada pelo
+      álcool, o prognóstico tende a ser melhor que aqueles cuja
+      evolução foi precipitada por hemorragia digestiva alta ou
+      por infecções.
+Situação 1
+         Uma mulher de 35 anos de idade procurou a emergência
+havia duas horas e meia, com intensa cefaleia, inicialmente
+frontotemporal direita, depois holocraniana, pulsátil, acompanhada
+de náuseas, vômitos e fotofobia. A dor era agravada por
+movimentos da cabeça e deambulação. Na história patológica
+pregressa, referiu múltiplos episódios semelhantes prévios,
+com várias idas ao hospital devido à baixa resposta aos
+tratamentos ambulatoriais. Apresentava, também, crises de cefaleia
+mais leves, holocranianas, tipo peso, sem sintomas acompanhantes,
+que cediam à utilização de analgésicos comuns, com duração
+de várias horas, sem necessidade de procurar ajuda hospitalar.
+Ao exame neurológico, foi observado nível e qualidade
+da consciência normais, sem sinais meníngeos, sem déficits
+motores nos membros e sem febre.
+Situação 2
+        Após dois meses, a mesma paciente retornou à emergência,
+com um quadro de cefaleia holocraniana severa, pulsátil,
+acompanhada de vômitos, com evolução de cerca de 1 hora.
+O acompanhante relatou que nunca a tinha visto tão mal. Ao exame
+neurológico, foi observado nível e qualidade da consciência
+normais, sem sinais meníngeos, sem déficits motores nos membros
+e sem febre.
+A respeito das duas situações relacionadas ao caso clínico em tela,
+julgue os itens subsequentes.
+115   Na situação 1, se não houver melhora no quadro da paciente
+      após a administração de dipirona, recomenda-se, para
+      a próxima medicação, o uso de opioide.
+116   Na situação 2, se a paciente for portadora de doença renal
+      crônica estágio IV, a segunda medicação de escolha deverá
+      ser a clorpromazina.
+117   A propedêutica da paciente, na situação 2, deverá contemplar
+      a solicitação de exame de imagem (tomografia
+      computadorizada de crânio, sem contraste), como primeira
+      conduta a ser feita, após o exame físico.
+118   Infere-se, com referência à situação 1, que a paciente possui
+      mais de um tipo de cefaleia.
+119   Nas situações I e II, pode-se administrar clorpromazina,
+      endovenosa, por até três vezes, com o cuidado de monitorar
+      a estabilidade hemodinâmica.
+
+120   Após a correta sequência de administração de medicamentos, h
+      sintomas na situação 2, a tomografia de crânio sem contraste
+      neurologista.
+Espaço livre
+
+                    CESPE | CEBRASPE – RM – Aplicação: 2018
+
+havendo melhora total dos sintomas na situação 1 e permanência dos
+e deverá ser realizada, sendo necessário o acompanhamento de um
+

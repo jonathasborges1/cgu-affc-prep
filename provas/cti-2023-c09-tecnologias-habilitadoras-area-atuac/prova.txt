@@ -1,0 +1,279 @@
+                                  -- CONHECIMENTO
+Acerca do modelo de entidade e relacionamento e do diagrama
+de entidade e relacionamento (DER), julgue os itens a seguir.
+51 No DER, as entidades são mostradas como retângulos e seus
+   atributos podem ser associados diretamente a esses
+   retângulos, o que simplifica a notação e torna o diagrama
+   mais claro e compreensível.
+52 O principal objetivo do modelo de entidade e relacionamento
+   é facilitar o projeto do banco de dados, possibilitando
+   especificar a estrutura física geral do banco de dados.
+
+A respeito da normalização de dados no design de bancos de
+dados relacionais, julgue os itens que se seguem.
+53   Uma tabela estará na segunda forma normal (2NF) se estiver
+     na primeira forma normal (1NF) e se cada atributo não chave
+     da tabela depender apenas da chave primária.
+54   Considere a seguinte tabela ItemVenda e seus atributos.
+
+     Tabela ItemVenda
+     • CodVenda: chave primária
+     • CodProduto: chave primária
+     • Qtd
+     • PrecoProduto
+
+     Se a coluna PrecoProduto depender do valor da coluna
+     CodProduto, que é parte da chave primária da tabela
+     ItemVenda, então, haverá dependência funcional total.
+
+Considerando as linguagens e os fundamentos de bancos de
+dados relacionais, julgue os itens subsequentes.
+55   No DML (data manipulation language), a instrução
+     TRUNCATE elimina todas as linhas de uma tabela
+     simultaneamente, enquanto a instrução DELETE oferece a
+     possibilidade de excluir dados específicos ou todos os dados.
+56   Uma VIEW é uma representação virtual de dados que se
+     comporta como uma tabela, formada a partir de uma consulta
+     em tabelas relacionadas.
+
+Acerca de arquitetura do sistema de arquivos distribuído, julgue
+os itens subsecutivos.
+57 Apache Spark é um sistema de processamento de dados
+   paralelos muito utilizado para aplicações de Big Data, porém
+   ele não suporta operações algébricas.
+58 Uma das desvantagens do sistema de arquivos distribuído
+   Hadoop File System é a impossibilidade de conectá-lo ao
+   sistema de arquivos local de uma máquina.
+59 O Hadoop MapReduce permite que os arquivos de entrada e
+   saída sejam armazenados em um sistema de arquivos
+   distribuído, de modo que várias máquinas leiam e gravem
+   dados em paralelo.
+60 O núcleo do Hadoop File System é um servidor executado
+   em uma máquina chamada NameNode, que recebe e
+   coordena todas as solicitações do sistema de arquivos.
+61   Ao se executar db.nomeDaColecao.delete() no
+     MongoDB, a coleção especificada é removida
+     completamente, incluindo-se sua estrutura e todos os
+     documentos armazenados.
+
+                                 CEBRASPE – CTI – Edital: 2023
+
+OS ESPECÍFICOS --
+ Relativamente à administração de servidores Linux, julgue os
+ itens seguintes.
+ 62   O   comando route add 192.168.1.0 netmask
+      255.255.255.0 gw 192.168.1.1 instrui o computador a
+      enviar todo tráfego à rede 192.168.1.0/24 por meio do
+      gateway 192.168.1.1.
+ 63   A criação de um processo não garante sua execução
+      imediata, pois processos de menor prioridade podem ser
+      suspensos para que se priorizem processos de maior
+      prioridade, de acordo com o critério de escalonamento
+      definido.
+ 64   O comando ls -la é usado para listar detalhes dos arquivos
+      e diretórios no diretório atual, incluindo-se arquivos ocultos.
+ 65 Na estrutura de diretórios padrão no Linux, o /usr é
+    utilizado para armazenar os arquivos pessoais de cada
+    usuário, como, por exemplo, documentos, fotografias,
+    músicas e vídeos.
+ 66 No sistema operacional Linux, quando um processo está em
+    estado “parado”, significa que o processo está aguardando
+    algum recurso para ser executado.
+
+ Julgue os próximos itens, relativos à administração de servidores
+ Windows.
+ 67 Para implementar volumes em servidores que hospedam
+    vários recursos e funções do Windows Server, é necessário
+    utilizar o sistema NTFS.
+ 68 As florestas de ESAE (Enterprise Security Administrative
+    Environment) representam uma abordagem em que uma
+    floresta administrativa dedicada do Active Directory hospeda
+    contas, grupos e estações de trabalho com acesso
+    privilegiado.
+ 69 No Windows, é possível limitar o status da conta
+    administrativa ao status de uma conta de usuário padrão por
+    meio do recurso UAC (controle de conta de usuário).
+ 70 O protocolo de autenticação e autorização KERBEROS
+    utiliza usuário e senha para representar a identidade do
+    usuário.
+
+ Com relação à administração de rede de dados, julgue os itens
+ a seguir.
+ 71   Em ambiente com aplicações que têm requisitos de largura
+      de banda diferentes, como tráfego de VoIP e streaming de
+      vídeo, é irrelevante a implementação de QoS (Quality of
+      Service) para administrar a largura de banda dos serviços.
+ 72   Em uma rede TCP/IP, o endereçamento IP é responsável
+      pela identificação única de cada dispositivo na rede.
+ 73   O protocolo IPv6 foi desenvolvido principalmente para
+      aumentar a velocidade da transmissão de dados na Internet.
+ 74   DNS (Domain Name System) é um sistema que traduz
+      nomes de domínio e hosts em endereços IP.
+ 75   Os switches desempenham funções na camada de transporte
+      do modelo OSI, gerenciando o controle de congestionamento
+      e a ordenação de pacotes.
+ 76   A redundância de rede e a implementação de protocolos de
+      failover são práticas essenciais para garantir a alta
+      disponibilidade da rede.
+
+Julgue os próximos itens, a respeito da gestão de segurança da
+informação.
+77   O uso de firewalls é uma opção secundária para a proteção
+     de redes de dados que lidam com informações sensíveis, ou
+     seja, não é requisito essencial para essa finalidade, pois
+     existem tecnologias de segurança mais adequadas.
+78   Para a identificação de ameaças à segurança da informação,
+     recomenda-se a realização de avaliações de risco
+     regularmente.
+79   Em um ambiente de segurança da informação bem
+     gerenciado, é opcional a documentação de procedimentos
+     para o controle de acesso a sistemas e informações, devendo
+     o foco estar na implementação prática de controles.
+80   As organizações devem, obrigatoriamente, implementar
+     recursos criptográficos para proteger dados pessoais em
+     todos os sistemas.
+81   A política de segurança da informação deve ser revisada
+     periodicamente e atualizada conforme necessário.
+82   As organizações devem definir claramente as responsabilidades
+     de segurança da informação para os seus colaboradores.
+83   É considerado uma boa prática usar a senha padrão fornecida
+     pelo fabricante em equipamentos de rede.
+84   A segregação de funções é uma prática recomendada para
+     reduzir o risco de fraudes e erros.
+Com base na Lei Geral de Proteção de Dados Pessoais (LGPD),
+julgue os itens subsequentes.
+85   Submete-se à LGPD o tratamento de dados pessoais
+     realizado exclusivamente com a finalidade de promover
+     atividades de investigação e de repressão de infrações penais.
+86   Para o processamento de dados pessoais de crianças e
+     adolescentes, é necessário o consentimento de ambos os pais
+     ou, na falta deles, do responsável legal.
+87   A LGPD se aplica a operações de tratamento de dados
+     pessoais      que     sejam    realizadas    por     empresa,
+     independentemente do país onde esteja sediada, desde que
+     tais dados objeto do tratamento tenham sido coletados
+     no Brasil.
+88   A atividade de tratamento de dados pessoais deve obedecer,
+     entre outros princípios, ao princípio da finalidade, que
+     consiste na compatibilidade entre o tratamento e a finalidade
+     informada ao titular do dado pessoal.
+89   O titular dos dados pessoais que serão objeto de tratamento
+     deverá manifestar seu consentimento de forma livre,
+     informada e inequívoca, devendo este ser feito por escrito ou
+     por outro meio que demonstre a manifestação de vontade
+     do titular.
+90   A LGPD exige que, na realização de operações de
+     tratamento de dados pessoais, o controlador indique um
+     encarregado pelo tratamento desses dados.
+Em relação a conceitos-chave definidos no guia PMBOK 7.ª
+edição, julgue os itens a seguir.
+91 Os programas são definidos como sistemas de software que
+   devem ser gerenciados de forma coordenada para a obtenção
+   de benefícios que não estariam disponíveis na sua gestão
+   individual.
+92 Um gestor de projeto é a pessoa designada pela organização
+   executora para liderar a equipe de projeto responsável por
+   atingir os objetivos do projeto.
+
+                              CEBRASPE – CTI – Edital: 2023
+A respeito dos componentes de entrega de valor do PMBOK
+7.ª edição, julgue os itens que se seguem.
+93 Portfólios e programas são exemplos de componentes que
+     devem ser utilizados individual ou coletivamente para criar
+     valor.
+94 Os vários componentes que entregam valor funcionam como
+     um sistema e devem estar alinhados às estratégias da
+     organização.
+Acerca dos princípios e valores que o guia PMBOK, em sua 7.ª
+edição, identifica como importantes para a comunidade de
+gerenciamento de projetos, julgue os itens seguintes.
+95 Embora sejam relevantes preceitos éticos, responsabilidade e
+    respeito não estão entre os valores considerados importantes
+    para a comunidade de gerenciamento de projetos, segundo o
+    referido guia PMBOK.
+96 Em uma organização, pode haver a sobreposição entre os
+    princípios gerais de gerenciamento e os princípios de
+    gerenciamento de projetos.
+No que se refere aos princípios listados no guia PMBOK
+7.ª edição, julgue os itens subsequentes.
+97 No gerenciamento de projetos, deve-se obedecer aos pesos e
+     à ordem dos princípios definidos no referido guia.
+98 Demonstrar comportamentos de liderança é um dos
+     princípios do PMBOK, e a liderança deve adaptar-se às
+     necessidades do time.
+Julgue os próximos itens, a respeito do Scrum.
+99 O Scrum master promove um ambiente em que um
+    product owner ordena o trabalho de um problema complexo
+    em um product backlog.
+100 O time Scrum transforma uma seleção do trabalho em um
+    incremento de valor durante uma daily.
+A respeito das características de um time Scrum, julgue os itens
+subsequentes.
+101 O time Scrum é fixo e consiste em um Scrum master, dois
+    product owners e três desenvolvedores.
+102 Não existem subequipes ou hierarquias dentro de um time
+    Scrum.
+Acerca dos eventos Scrum, julgue os itens subsecutivos.
+103 A meta do produto é o objetivo de longo prazo do time
+    Scrum, que deve cumprir ou abandonar um objetivo antes de
+    assumir o próximo.
+104 O objetivo da retrospectiva sprint é aumentar o reúso de
+    código.
+105 O objetivo da sprint review é inspecionar o resultado da
+    sprint e impedir adaptações futuras.
+A respeito da ABNT:NBR ISO/IEC 20000, julgue os itens
+subsequentes.
+106 A certificação da ISO 20000 será concedida para todas as
+    organizações interessadas e que atendam a todos os
+    requisitos da norma, independentemente de possuírem
+    gerenciamento de serviços de TI.
+107 A ISO 20000 visa garantir a qualidade do processo, do
+    serviço, do produto e da organização.
+108 Entre os processos da ISO 20000, o processo de controle
+    inclui o gerenciamento de configuração e de mudança.
+109 A ISO 20000 é o primeiro padrão mundial especificamente
+    focado no gerenciamento de serviços de TI.
+110 A ISO 20000 formaliza a inclusão das práticas da ITIL v4.
+111 O padrão de qualidade para o gerenciamento de serviços da
+    ISO 20000 procura se fixar no ciclo de Deming.
+
+No que se refere à norma ABNT:NBR ISO/IEC 20000 e à bibliotec
+112 Orçamento e contabilidade na ABNT:NBR ISO/IEC 20000 cor
+113 A biblioteca ITIL serve como guia para as melhores práticas
+    voltada para o conhecimento coletivo, enquanto a norma oferec
+Com relação à biblioteca ITIL julgue os itens a seguir.
+114 Os acordos de nível de serviços são necessários para garantir
+    cliente e o provedor, sejam cumpridos na prática.
+115 Suporte a serviços e entrega de serviços são as duas áreas funda
+116 O suporte a serviços preocupa-se com o planejamento e a melh
+117 O objetivo do gerenciamento de problemas é restabelecer a
+    mínimo de interrupção do negócio, assegurando, assim, a
+    pretendidos.
+118 O gerenciamento da capacidade de serviço dispensa o conhecim
+119 Durante as etapas de planejamento, construção, teste e implem
+    o gerenciamento de grandes projetos e programas empresariais
+120 O gerenciamento da capacidade garante que a provisão das cap
+    as crescentes demandas do negócio de forma efetiva e no prazo
+Espaço livre
+
+                                CEBRASPE – CTI – Edital: 2023
+
+ca ITIL, julgue os próximos itens.
+rrespondem a gerenciamento financeiro na ITIL.
+ s no gerenciamento de serviços de TI e oferece uma certificação
+ce certificação independente, voltada para a provisão de serviços.
+
+
+r que os objetivos do acordo de nível operacional, firmado entre o
+
+ amentais da ITIL.
+horia da prestação de serviços de TI em longo prazo.
+ operação normal do serviço o mais rapidamente possível com o
+  manutenção dos melhores níveis de disponibilidade e serviço
+
+mento de níveis de serviço e SLA (service level agreement).
+ entação, o gerenciamento de mudanças não deve ser integrado com
+s.
+pacidades de processamento e de armazenamento da TI acompanhe
+o adequado.
+

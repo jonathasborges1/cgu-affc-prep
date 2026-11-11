@@ -1,0 +1,6 @@
+{"item": "1", "edital": "P3·ARQ 5.1", "relevancia": "alta", "nucleo_id": "n-serverless-sobre-kubernetes", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "8", "edital": "P3·ARQ 5.1", "relevancia": "alta", "nucleo_id": "n-kubernetes-orquestracao-conteineres", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "10", "edital": "P3·ARQ 5.5", "relevancia": "alta", "nucleo_id": "n-cluster-failover-disponibilidade", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "15", "edital": "P3·ARQ 5.3", "relevancia": "media", "nucleo_id": "n-zonas-disponibilidade-baixa-latencia", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "17", "edital": "P3·ARQ 5.1", "relevancia": "media", "nucleo_id": "n-responsabilidade-compartilhada-nuvem", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "18", "edital": "P3·ARQ 5.1", "relevancia": "alta", "nucleo_id": "n-kubernetes-orquestracao-conteineres", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

@@ -1,0 +1,427 @@
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Com referência à elaboração de demonstrações contábeis pela
+legislação societária e pelos pronunciamentos técnicos do Comitê
+de Pronunciamentos Contábeis, julgue os itens subsequentes.
+51 Os resultados abrangentes que afetaram o patrimônio líquido
+ao longo do exercício são apresentados tanto na
+demonstração do resultado do exercício quanto na
+demonstração dos resultados abrangentes.
+52 Independentemente do método adotado, direto ou indireto, a
+demonstração dos fluxos de caixa apresenta, de forma
+estática e dedutiva, o modo como foi constituído o saldo de
+caixa do fim de exercício.
+53 O grupo de exigibilidades do balanço patrimonial é dividido
+em circulante e não circulante, apresentando-se o resultado
+dos exercícios futuros neste último grupo.
+Acerca da mensuração ao valor justo, julgue os itens seguintes.
+54 O valor justo é o preço pelo qual uma entidade vende seu
+produto em um mercado competitivo em dado momento.
+55 A relação entre o preço e o lucro de uma ação, utilizada
+pelos agentes econômicos para precificar o valor de uma
+ação, é uma técnica de mercado para avaliação do valor justo
+do ativo.
+56 Havendo dois valores para determinado bem no mercado, o
+valor justo será o valor do melhor uso que o agente
+econômico interessado poderá fazer desse bem.
+Julgue os itens seguintes, a respeito de procedimentos contábeis
+aplicáveis a operações de empréstimos, ativos contingentes e
+combinações de negócios.
+57 Uma sociedade anônima que obtiver recursos oriundos de
+um empréstimo bancário no valor de R$ 100.000,
+comprometendo-se a pagá-lo integralmente no prazo de
+24 meses pelo montante de R$ 150.000, deverá proceder ao
+reconhecimento contábil do referido empréstimo por meio de
+um registro a débito de uma conta do ativo circulante e a
+crédito de conta do passivo não circulante, no valor
+de R$ 150.000.
+58 A fusão é uma combinação de negócios em que duas ou mais
+sociedades se unem para formar uma nova sociedade,
+devendo os direitos e as obrigações dessas sociedades ser
+transferidos para o patrimônio da nova sociedade.
+59 O ativo contingente, que não deve ser objeto de
+reconhecimento pela contabilidade, surge de um evento que
+dá origem à possibilidade de entrada de benefícios futuros
+para a entidade, a depender da ocorrência de um ou mais
+eventos futuros cujo desfecho seja incerto.
+Julgue os próximos itens, referentes à distribuição de resultados,
+ao cálculo do custo dos produtos e à consolidação de
+demonstrações contábeis.
+60 No processo de consolidação de demonstrações contábeis, os
+saldos das transações efetuadas entre a controladora e as suas
+controladas, representativas de direitos e obrigações
+recíprocos, devem ser apresentados no balanço consolidado
+em contas destacadas do ativo e do passivo, respectivamente.
+61 A principal vantagem da distribuição de resultados por meio
+de juros sobre o capital próprio comparativamente à
+distribuição de dividendos está no benefício fiscal decorrente
+da dedutibilidade dos referidos juros para fins de apuração
+do lucro real.
+62 No custeio por absorção, os gastos incorridos para se efetuar
+a venda dos produtos fabricados pela empresa devem ser
+contemplados no cálculo do custo dos produtos.
+
+À luz das Normas Brasileiras de Contabilidade de Auditoria
+(NBC TA e NBC PA), julgue os próximos itens, a respeito da
+condução da auditoria, de testes de observância e de evidências
+de auditoria.
+63 Ao conduzir uma auditoria de demonstrações contábeis, o
+auditor deve aplicar o julgamento e o ceticismo profissional
+ao longo de todo o trabalho, considerando a possibilidade de
+fraude ao avaliar as evidências obtidas e ao formar suas
+conclusões sobre as demonstrações contábeis.
+64 As evidências de auditoria obtidas de fontes externas são
+sempre menos confiáveis que as evidências geradas
+internamente pela entidade auditada.
+65 Os testes de observância em auditoria têm como objetivo
+principal verificar a eficácia dos controles internos
+implementados pela entidade, com o intuito de assegurar que
+eles estejam sendo corretamente aplicados e funcionando
+conforme esperado.
+Acerca de identificação de fraudes na escrita contábil, auditoria
+no ativo circulante, saldo credor e aquisições de mercadorias e
+serviços, julgue os itens subsequentes.
+66 É responsabilidade exclusiva do auditor detectar todas as
+fraudes porventura existentes na escrita contábil,
+independentemente das circunstâncias ou do tamanho da
+empresa auditada.
+67 A recomposição contábil do fluxo de caixa da entidade deve
+desconsiderar transações que não afetem diretamente o
+caixa, como depreciação e amortização, focando
+exclusivamente em entradas e saídas efetivas de dinheiro.
+68 Durante a auditoria fiscal, a identificação de aquisições de
+mercadorias, bens, serviços e outros ativos não
+contabilizados e sem comprovação da origem do numerário
+pode indicar a prática de caixa dois, o que constitui fraude
+fiscal. Nesses casos, o auditor deve considerar a
+possibilidade de autuação fiscal por omissão de despesas e a
+inclusão desses valores na base de cálculo de tributos
+devidos.
+69 Na auditoria de tributos, a existência de saldo credor na
+conta caixa, mesmo sem a emissão de documentos fiscais
+correspondentes, não pode ser utilizada como evidência de
+infração tributária, pois, em situações excepcionais, a
+legislação permite que o caixa apresente saldo credor.
+Acerca de ativos ocultos e passivos fictícios e da identificação de
+erros e fraudes na escrituração contábil e fiscal, julgue os itens
+a seguir.
+70 Ao identificar indícios de fraudes ou erros significativos na
+escrita fiscal, o auditor deve revisar a totalidade das
+transações fiscais da entidade auditada, para garantir que
+todas as irregularidades sejam descobertas e corrigidas antes
+da emissão do relatório final de auditoria.
+71 A identificação de ativos ocultos nas demonstrações
+contábeis pode indicar que a entidade esteja subestimando
+seus ativos com o propósito de reduzir a base de cálculo de
+tributos devidos.
+72 Caso identifique passivos fictícios nas demonstrações
+contábeis, o auditor deve considerar a possibilidade de ter
+havido manipulação intencional dos resultados financeiros
+da entidade com o objetivo de reduzir a carga tributária.
+Nesse caso, antes de emitir seu relatório, o auditor deve
+avaliar a materialidade e a possível má-fé dessas distorções.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+A respeito da escrituração fiscal digital (EFD), da nota fiscal
+eletrônica (NFe) e da utilização de sistemas gerenciadores de
+bancos de dados (SGBD) em auditoria fiscal, julgue os
+próximos itens.
+73 A utilização de SGBD na identificação das principais
+divergências fiscais permite ao auditor fiscal realizar
+cruzamentos de dados entre diferentes fontes de informação,
+como a EFD e a NFe, o que facilita a detecção de
+inconsistências e irregularidades tributárias.
+74 Na auditoria da EFD e da NFe, o auditor fiscal deve verificar
+não apenas a consistência das informações declaradas, mas
+também a sua conformidade com as regras e a legislação
+tributária aplicáveis, garantindo que não haja omissões,
+subfaturamento ou outras irregularidades que possam
+resultar em sonegação fiscal.
+Com base na Lei Complementar n.º 105/2001, que dispõe sobre o
+sigilo das operações de instituições financeiras, julgue os
+seguintes itens.
+75 Cabe ao Poder Executivo de cada ente federado disciplinar,
+inclusive quanto à periodicidade e aos limites de valor, os
+critérios segundo os quais as instituições financeiras deverão
+informar à respectiva administração tributária (isto é, da
+União, dos estados, do Distrito Federal e dos municípios) as
+operações financeiras efetuadas pelos usuários de seus
+serviços.
+76 A quebra de sigilo bancário poderá ser realizada por
+autoridade administrativa tributária, independentemente de
+autorização judicial, quando houver processo administrativo
+instaurado ou procedimento fiscal em curso para apuração de
+ocorrência de infração à legislação tributária, devendo ser
+assegurado ao contribuinte o direito ao contraditório e à
+ampla defesa.
+À luz do Código Tributário do Município de Mossoró (CTMM),
+julgue os seguintes itens.
+77 O CTMM prevê, em relação ao IPTU, alíquotas distintas
+para imóveis edificados e não edificados.
+78 A incidência do IPTU, cuja base de cálculo é o valor venal
+do imóvel, está condicionada à legitimidade do título de
+aquisição ou da posse do imóvel.
+79 No caso do ITBI, o CTMM estabelece, no que concerne às
+transmissões
+compreendidas
+no
+SFH,
+alíquotas
+diferenciadas, considerados o valor efetivamente financiado
+e a parcela não financiada.
+80 Estão dispensados das obrigações tributárias acessórias
+relativas ao ISS os prestadores de serviços pertencentes ao
+setor público, a exemplo das empresas públicas
+contempladas pela imunidade tributária recíproca.
+81 O CTMM assegura ao contribuinte o direito de consulta
+sobre interpretação e aplicação da legislação tributária, que
+pode ser protocolada após o início de ação fiscal.
+82 A inscrição do crédito tributário em dívida ativa e o seu
+posterior envio à Procuradoria-Geral do Município não
+exclui a competência da Secretaria Municipal de Fazenda
+relativamente ao controle administrativo do crédito, desde
+que não tenha sido ajuizada a respectiva ação de execução
+fiscal.
+83 É possível a instituição de regime especial de fiscalização,
+quando for de interesse da administração tributária
+municipal, conforme definido em ato do secretário municipal
+de fazenda.
+
+Em relação ao Sistema Tributário Nacional, à luz das disposições
+da Constituição Federal de 1988, julgue os itens que se seguem.
+84
+
+O imposto sobre bens e serviços, cuja competência é
+compartilhada entre estados, DF e municípios, possui regime
+específico de tributação para serviços financeiros, operações
+com bens imóveis, planos de assistência à saúde e concursos
+de prognósticos.
+
+85
+
+O IPTU e o ITCMD são impostos municipais que incidem
+sobre a propriedade.
+
+A respeito de aspectos atinentes à obrigação e à responsabilidade
+tributária, julgue os próximos itens à luz do Código Tributário
+Nacional.
+86
+
+A natureza da obrigação tributária não é passível de
+modificação decorrente de fatos jurídicos supervenientes.
+
+87
+
+Os diretores das pessoas jurídicas de direito privado são
+pessoalmente responsáveis pelos créditos correspondentes a
+obrigações tributárias resultantes de atos por eles praticados
+com excesso de poderes.
+
+88
+
+Somente por disposição expressa da legislação tributária, é
+possível a uma pessoa figurar como sujeito passivo na
+condição de responsável tributário.
+
+Em conformidade com as regras do processo administrativo
+tributário do município de Mossoró, observada a jurisprudência
+dos tribunais superiores pertinentes ao processo judicial
+tributário, julgue os itens subsequentes.
+89
+
+A concessão liminar da cautelar fiscal dispensa a fazenda
+pública de caução, mas não de justificação prévia.
+
+90
+
+No âmbito do processo administrativo fiscal, as normas do
+Código de Processo Civil são de aplicação subsidiária.
+
+91
+
+No curso do processo administrativo fiscal, o fisco poderá
+exigir a qualquer tempo a exibição de livros e comprovantes
+de atos e operações que possam constituir fato gerador de
+obrigação tributária não extinta.
+
+92
+
+No processo administrativo fiscal, o julgador, ao proferir
+decisão, poderá declarar a inconstitucionalidade da
+legislação tributária em vigor.
+
+93
+
+A utilização do mandado de segurança com vistas ao
+questionamento de lançamento tributário e a apresentação de
+exceção de pré-executividade para fins de impugnação do
+feito executivo fiscal compartilham de idêntica limitação
+processual: impossibilidade de dilação probatória.
+
+Com relação aos gastos autorizados fixados em lei para o
+governo custear os serviços públicos em prol da sociedade e à
+programação e execução orçamentária e financeira, julgue os
+próximos itens.
+94
+
+A alteração do atributo modalidade de aplicação de um
+crédito orçamentário não caracteriza um crédito adicional,
+pois o valor da dotação permanece o mesmo.
+
+95
+
+O órgão que não possui receita própria pode conceder
+suprimentos de fundos, e, no caso de aplicação indevida dos
+recursos, a restituição do adiantamento deve ser tratada como
+anulação de despesa, desde que ambas, aplicação e anulação,
+ocorram no mesmo exercício.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Considerando o disposto na Lei n.º 4.320/1964, o orçamento
+adotado no Brasil, as disposições da Lei de Responsabilidade
+Fiscal (LRF) e a receita pública, julgue os itens que se seguem.
+96
+
+Conforme a Lei n.º 4.320/1964, sempre que possível, as
+obras e os serviços constantes do quadro de recursos e de
+aplicação de capital serão correlacionados com metas
+objetivas, uma vez que o referido quadro individualiza as
+metas como resultado da execução de cada projeto.
+
+97
+
+Na estrutura orçamentária adotada no Brasil, para se
+evitarem múltiplos orçamentos, em observância ao princípio
+orçamentário da unidade, a previsão de receita e a fixação da
+despesa de todos os entes federados, em cada exercício
+financeiro, integram um único documento legalmente
+formalizado pela pessoa política que detém o poder central
+— a União —, denominado lei orçamentária anual, conforme
+preconiza a Constituição Federal de 1988.
+
+98
+
+Integram as diretrizes orçamentárias: equilíbrio entre receita
+e despesa; controle de custos, metas e riscos fiscais;
+distinção entre despesas primárias e secundárias e entre as
+obrigatórias e discricionárias; orçamentos fiscal e da
+seguridade social; metas de inflação.
+
+99
+
+É admitido ao ente público renunciar à arrecadação e, por
+conseguinte, ao recolhimento de receita pública, desde que a
+perda seja compensada, por exemplo, por meio de
+incremento de alíquotas tributárias ou da criação de novos
+tributos.
+
+100 Conforme a LRF, uma instituição financeira estatal não pode
+
+pactuar operação de crédito com ente da Federação que seja,
+ao mesmo tempo, seu controlador e o beneficiário do
+empréstimo; contudo, em razão de sua estratégia, ela pode
+comprar títulos da dívida de emissão da União diretamente
+no mercado.
+Julgue os itens subsequentes com base no disposto na LINDB e
+com base no que dispõe o Código Civil a respeito do domicílio,
+da prescrição, das obrigações e da posse.
+101 A lei posterior somente terá o condão de revogar a anterior
+
+quando expressamente o declarar ou quando for com ela
+incompatível.
+102 A aquisição da posse, por ser ato precário, independe do
+
+possível exercício, pelo adquirente, dos poderes inerentes à
+propriedade.
+103 Será considerado domicílio do município o lugar onde
+
+funcionar a sua administração.
+104 Os prazos de prescrição somente poderão ser alterados pelas
+
+partes se não houver prejuízo a terceiros.
+105 O terceiro desinteressado que cumpre a obrigação pode ficar
+
+sub-rogado nos direitos do credor, desde que este
+expressamente os transfira àquele.
+
+Acerca de receita pública, mensuração de ativos, composição do
+patrimônio público e transações no setor público, julgue os itens
+que se seguem.
+106 A transferência dos valores de IOF devidos por correntistas
+de bancos privados nas operações de uso de cheque especial,
+em que o banco envia os valores retidos diretamente à Conta
+Única do Tesouro Nacional, representa a etapa denominada
+arrecadação.
+107 Um ativo intangível deve ser reconhecido inicialmente ao
+seu valor de mercado e ajustado, posteriormente, ao valor
+recuperável.
+108 Um ativo registrado como material permanente é aquele que
+não perde a sua identidade física em razão do seu uso ou que
+tem durabilidade superior a dois anos.
+109 Caso um órgão da administração pública direta efetue uma
+compra de material de consumo sem autorização
+orçamentária, por meio de aceite de uma nota promissória, e,
+em seguida, uma auditoria determine a apuração da
+responsabilidade, o registro de tais fatos poderá, de modo
+resumido, ser corretamente feito do seguinte modo.
+Natureza da informação: Controle
+D – 7.9.x.x.x.xx.xx – Outros Controles – Diversos
+Responsáveis em Apuração
+C – 8.9.x.x.x.xx.xx – Outros Controles – Diversos
+Responsáveis em Apuração
+Em relação a métodos de depreciação, passivos e receitas
+públicas, julgue os itens seguintes.
+110 No setor público brasileiro, é permitido empregar o método
+de depreciação das cotas constantes, sem a exigência de que
+todos os bens sejam depreciados pelo mesmo método.
+111 Receitas públicas recolhidas a maior devem ser restituídas ao
+contribuinte mediante autorização orçamentária para sua
+devolução.
+112 Do ponto de vista patrimonial, e em respeito ao princípio da
+prudência, as obrigações decorrentes de pedidos de compra
+de produtos e mercadorias ainda não recebidos deverão
+obrigatoriamente ser reconhecidas como passivos nas
+demonstrações contábeis.
+Com referência à gestão organizacional das finanças públicas e
+ao resultado fiscal do governo, julgue os itens a seguir.
+113 Se o município de Mossoró receber a quantia de R$ 800 mil
+a título de amortização de empréstimo que houver concedido
+a outro ente público, o valor recebido deverá ser computado
+na apuração do resultado primário do município.
+114 Na União, as unidades orçamentárias, embora não integrem
+o sistema de planejamento e orçamento, devem seguir as
+orientações normativas do órgão central e, quando couber,
+dos respectivos órgãos setoriais.
+Julgue os itens seguintes à luz da Lei de Responsabilidade Fiscal
+(Lei Complementar n.º 101/2000).
+115 As medidas de compensação da renúncia de receita
+centram-se no aumento de outras receitas públicas e não
+admitem a redução das despesas como medida para tal
+finalidade.
+116 A escrituração dos restos a pagar deve evidenciar a variação
+da dívida pública no período, e o seu detalhamento deve
+indicar, no mínimo, a natureza e o tipo de credor.
+117 Se um servidor da Câmara Municipal de Mossoró
+aposentar-se e passar a receber seus proventos do Instituto de
+Previdência Própria dos Servidores do Município, autarquia
+previdenciária que integra o Poder Executivo municipal, o
+gasto com os proventos desse servidor inativo será incluído
+no percentual da despesa com pessoal do Poder Executivo do
+município de Mossoró.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Em relação ao anexo de riscos fiscais da lei de diretrizes orçamentárias (LDO) e ao relatório de gestão fiscal, julgue os itens que se
+seguem.
+118 O demonstrativo da disponibilidade de caixa e dos restos a pagar, parte integrante do relatório de gestão fiscal, visa, entre outros
+objetivos, conferir transparência ao equilíbrio entre a inscrição em restos a pagar não processados e a disponibilidade de caixa.
+119 Por constituírem uma ameaça ao equilíbrio das contas públicas, os precatórios judiciais devem integrar o anexo de riscos fiscais
+da LDO.
+Julgue o próximo item com base na Lei Complementar n.º 178/2021.
+120 O Plano de Promoção do Equilíbrio Fiscal tem por objetivo reforçar a transparência fiscal dos estados, do Distrito Federal e dos
+municípios e compatibilizar as respectivas políticas fiscais com a da União.
+Espaço livre
+
+

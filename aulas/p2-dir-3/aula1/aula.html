@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Controles interno, externo e integrado</title><style>@page{size:210mm 297mm;margin:11mm 13mm;background:#0f1419}
+*{box-sizing:border-box}
+html,body{background:#0f1419;min-height:100%;color:#e6edf3;font-family:"DejaVu Sans","Segoe UI",Arial,sans-serif;font-size:9.5pt;line-height:1.42;margin:0}
+.pg{background:#0f1419;page-break-after:always}
+h1{font-size:25pt;margin:0 0 4mm;color:#58a6ff}
+h2{break-after:avoid;font-size:15pt;color:#58a6ff;border-bottom:1px solid #30363d;padding-bottom:2mm;margin:0 0 4mm}
+h3{break-after:avoid;font-size:11.5pt;color:#7ee787;margin:5mm 0 2mm}
+p{margin:0 0 3mm}
+.box{break-inside:avoid;border-left:4px solid #58a6ff;background:#161b22;padding:3mm 4mm;margin:3mm 0;border-radius:2mm}
+.warn{border-color:#f85149}.ok{border-color:#3fb950}.tip{border-color:#d29922}
+.box b.t{display:block;margin-bottom:1mm}
+code,.c{font-family:"DejaVu Sans Mono",monospace;background:#21262d;color:#ffa657;padding:0 1.5mm;border-radius:1mm;font-size:9.4pt}
+pre{background:#161b22;border:1px solid #30363d;border-radius:2mm;padding:3mm;font-family:"DejaVu Sans Mono",monospace;font-size:9pt;color:#ffa657;white-space:pre-wrap;margin:2mm 0 3mm}
+table{border-collapse:collapse;width:100%;margin:2mm 0 4mm;font-size:9.6pt}
+th{background:#1f6feb33;color:#79c0ff;text-align:left}
+td,th{border:1px solid #30363d;padding:1.8mm 2.5mm;vertical-align:top}
+tr{page-break-inside:avoid}
+ul{margin:1mm 0 3mm 5mm;padding:0}li{margin-bottom:1mm}
+.cap{font-size:8.6pt;color:#8b949e;text-align:center;margin-top:-1mm}
+.q{border:1px solid #30363d;background:#161b22;border-radius:2mm;padding:3mm 4mm;margin:0 0 4mm;page-break-inside:avoid}
+.tag{display:inline-block;background:#1f6feb33;color:#79c0ff;border-radius:2mm;padding:0 2mm;font-size:8.3pt;margin-right:1.5mm}
+.meta{font-size:8.4pt;color:#8b949e;word-break:break-all}
+.cert{color:#3fb950;font-weight:bold}.err{color:#f85149;font-weight:bold}
+svg text{font-family:"DejaVu Sans",Arial,sans-serif}
+.cover{display:flex;flex-direction:column;justify-content:center;height:270mm}
+.small{font-size:9pt;color:#8b949e}
+/* protocolo pedagogico (v4): aposta, parabola, exemplo x contraexemplo, checagem */
+.ped{break-inside:avoid;border:1px solid #30363d;border-radius:2.5mm;background:#161b22;padding:3mm 4mm;margin:4mm 0}
+.ped b.t{display:block;margin-bottom:1.5mm;font-size:10.2pt}
+.ped-prev{border-left:4px solid #d29922}.ped-prev b.t{color:#d29922}
+.ped-par{border-left:4px solid #bc8cff}.ped-par b.t{color:#bc8cff}
+.ped-ec{border-left:4px solid #3fb950}.ped-ec b.t{color:#7ee787}
+.ped-chk{border-left:4px solid #58a6ff}.ped-chk b.t{color:#79c0ff}
+.ped details{margin:2mm 0 0;background:#0f1419;border:1px dashed #30363d;border-radius:2mm;padding:1.5mm 3mm}
+.ped summary{cursor:pointer;color:#79c0ff;font-size:9pt}
+.ped details[open] summary{margin-bottom:1mm}
+.ped table{font-size:9pt;margin:2mm 0 0}
+.ped .dica{color:#8b949e;font-size:9pt;margin:1mm 0 0}
+.ped .ajuda{float:right;font-size:8pt;color:#8b949e}
+.ped .cena{margin:0 0 1.5mm}.ped .cena i{color:#bc8cff;font-style:normal;font-weight:bold}
+/* palavras-gatilho (v5): verde = correta, vermelho = errada, amarelo = cuidado */
+mark.gv,mark.gr,mark.ga{color:inherit;border-radius:3px;padding:0 3px;font-weight:700}
+mark.gv{background:#3fb95040;box-shadow:inset 0 -2px 0 #3fb950}
+mark.gr{background:#f8514940;box-shadow:inset 0 -2px 0 #f85149}
+mark.ga{background:#d2992240;box-shadow:inset 0 -2px 0 #d29922}
+
+.ped-ret{border-left:4px solid #d29922;break-inside:avoid}.ped-ret b.t{color:#e3b341}
+.ponte{border-bottom:1px dotted #d29922;cursor:help}
+
+a{color:#79c0ff}
+</style></head><body><!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Aula 1 — P2·DIR 3</title><link rel="stylesheet" href="../../_template/dark.css"></head><body><main>
+<p class="muted">P2·DIR 3 · Aula 1 · v1 · controles público interno, externo e integrado</p>
+<h1>Quem controla o quê?</h1>
+<p>Esta aula organiza a primeira distinção que a banca mais explora: controle interno, controle externo e controle social. O objetivo é reconhecer a competência, o objeto e o fluxo de comunicação sem confundir fiscalização com julgamento ou participação social.</p>
+<h2>1. O problema prático</h2>
+<div class="ped-par"><b>Cenário:</b> um órgão percebe que a execução de um programa ficou abaixo da meta. A unidade de controle precisa decidir se acompanha a correção dentro do próprio Poder, comunica um tribunal de contas ou abre espaço para participação da sociedade. A decisão muda conforme o tipo de controle.</div><p><b>Previsão:</b> antes de ler a regra, qual controle age primeiro quando o próprio órgão detecta o problema?</p><div class="ped-chk"><details><summary>Recuperação ativa</summary><p>O controle interno atua dentro da estrutura do próprio Poder; o externo é exercido pelo Legislativo com auxílio dos tribunais de contas; o social acompanha e provoca a administração a partir da sociedade.</p></details></div>
+<h2>2. Controle interno: finalidade</h2><div class="ped-par"><b>Cenário:</b> a CGU acompanha metas do PPA e a execução dos programas e orçamentos antes que o problema se transforme em dano.</div><p>O controle interno avalia metas, programas, execução orçamentária e aspectos contábeis e financeiros. Ele também apoia o controle externo e deve comunicar irregularidades ao tribunal de contas competente.</p><div class="ped-chk"><details><summary>Teste rápido</summary><p>Interno não significa “sem fiscalização”: significa que o controle ocorre no âmbito do próprio Poder ou órgão.</p></details></div>
+<h2>3. Controle externo e tribunais de contas</h2><div class="ped-par"><b>Cenário:</b> o Congresso precisa fiscalizar a execução financeira da União e conta com apoio técnico do tribunal de contas.</div><p>O controle externo é exercido pelo Poder Legislativo com o auxílio dos tribunais de contas. A banca costuma inverter os papéis e dizer que o tribunal exerce controle interno por estar próximo do Legislativo.</p><div class="ped-chk"><details><summary>Recuperação</summary><p>Tribunal de contas auxilia o Legislativo no controle externo; não se torna órgão de controle interno por isso.</p></details></div>
+<h2>4. Prestação de contas</h2><div class="ped-par"><b>Cenário:</b> uma pessoa física administra recursos públicos por convênio. A obrigação de prestar contas decorre do uso, guarda, gerenciamento ou administração desses recursos.</div><p>O dever de prestar contas alcança pessoas físicas e jurídicas que lidem com dinheiro, bens e valores públicos, não apenas entidades submetidas a regime de direito público.</p><div class="ped-chk"><details><summary>Pegadinha</summary><p>A expressão “desde que submetidas a regime de direito público” restringe indevidamente o alcance da regra.</p></details></div>
+<h2>5. Controle interno, externo e social</h2><div class="ped-par"><b>Cenário:</b> cidadãos acompanham uma política pública, a unidade interna monitora indicadores e o Legislativo fiscaliza a execução. São camadas complementares.</div><p>Controle social não é sinônimo de controle interno ou externo. Ele é exercido pela sociedade por meio de acompanhamento, participação, petições, denúncias e transparência.</p><div class="ped-chk"><details><summary>Recuperação</summary><p>Não chame tribunais de contas ou setores internos de órgãos de controle social: eles exercem funções estatais de controle.</p></details></div>
+<h2>6. Sistema integrado</h2><div class="ped-par"><b>Cenário:</b> uma auditoria interna identifica irregularidade e precisa comunicar o tribunal de contas para que o controle externo possa atuar.</div><p>Os sistemas de controle interno de cada Poder funcionam de modo coordenado e apoiam o controle externo. A omissão na comunicação de irregularidades pode gerar responsabilidade solidária.</p><div class="ped-chk"><details><summary>Teste de prova</summary><p>O verbo-chave é “dar ciência” ao tribunal de contas quando houver irregularidade ou ilegalidade conhecida.</p></details></div>
+<h2>7. Como a banca cobra</h2><div class="ped-par"><b>Cenário:</b> uma alternativa troca “controle externo” por “controle interno” e acrescenta “apenas por iniciativa própria”.</div><p>Desconfie de absolutos como “apenas”, “sempre” e “exclusivamente”, e de inversões entre Legislativo, tribunal de contas, CGU e sociedade.</p><div class="ped-chk"><details><summary>Checklist</summary><p>Identifique o ator, o tipo de controle, o objeto fiscalizado e se a assertiva descreve auxílio, comunicação ou julgamento.</p></details></div>
+<h2>8. Mapa mental</h2><div class="ped-par"><b>Analogia:</b> pense em uma empresa: a revisão do próprio setor é o controle interno; a auditoria contratada pelos proprietários é o controle externo; a avaliação dos clientes e usuários é o controle social.</div><p>A analogia ajuda a separar a origem do controle, mas não substitui a competência constitucional.</p><div class="ped-chk"><details><summary>Recuperação</summary><p>Interno = próprio Poder; externo = Legislativo com auxílio dos tribunais; social = sociedade.</p></details></div>
+<h2>9. Síntese e técnica de prova</h2><div class="ped-par"><b>Cenário final:</b> diante de uma assertiva, pergunte “quem controla, o quê e com qual finalidade?”.</div><p>Resumo: controle interno acompanha e corrige dentro do Poder; controle externo é função do Legislativo com auxílio dos tribunais de contas; controle social é participação e fiscalização da sociedade; todos podem se complementar.</p><div class="ped-chk"><details><summary>Autoteste final</summary><p>Explique em uma frase por que o tribunal de contas não exerce controle interno só por auxiliar o Legislativo. Resposta: porque o auxílio ocorre no controle externo.</p></details></div>
+<h2>10. Revisão de 60 segundos</h2><div class="ped-par"><b>Cenário:</b> antes de marcar certo ou errado, o candidato classifica a frase pelo ator responsável e pelo tipo de controle.</div><p>Use a sequência: ator → objeto → finalidade → comunicação. Se a alternativa trocar um desses quatro elementos, procure a pegadinha.</p><div class="ped-chk"><details><summary>Resposta oculta</summary><p>A sequência evita confundir o controle interno da própria estrutura com o controle externo do Legislativo auxiliado pelos tribunais.</p></details></div>
+</main></body></html>
+</body></html>

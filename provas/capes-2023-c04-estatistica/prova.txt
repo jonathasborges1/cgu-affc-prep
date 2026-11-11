@@ -1,0 +1,377 @@
+                                               -- CONHECIMENTO
+        Uma variável aleatória contínua  possui função de
+distribuição acumulada dada pela expressão a seguir, na qual  é
+um parâmetro tal que  ∈ (0,1).
+                                          1 −  ௫ , se  ≥ 0
+                        = 
+                                            0,      se  < 0
+A partir dessas informações, julgue os itens a seguir.
+51 Se  = 0,75, então o primeiro quartil de  é igual a 1.
+52 P = 0,5 = 1 − √.
+53 A função de densidade da variável aleatória  é dada pela
+    forma , tal que  =  ௫ିଵ , se  ≥ 0, e  = 0, se
+     < 0.
+54 Na transformação = 1 −  ௑ , a variável aleatória       segue
+    uma distribuição contínua com média 1/2 e variância 1/12.
+                                ଵ
+55    A média de  é −                .
+                               ୪୬ ௔
+
+        A  sequência de variáveis aleatórias contínuas
+ ଵ,    ଶ, … ,
+            ௡ representa uma amostra aleatória simples de
+tamanho retirada de uma população descrita por uma função de
+densidade na forma       = 504 ×  ହ 1 − ଷ , na qual
+0 ≤  ≤ 1.
+Considerando as informações precedentes, julgue os itens a
+                                                ଵ
+seguir, com relação às variáveis aleatórias  = ∑௡௜ୀଵ ௜ e
+                                                ௡
+      ଵ
+=      ∑௡௜ୀଵ ௜ −  ଶ .
+      ௡ିଵ
+                                               ଵ
+56    A variância de  é inferior a .
+                                               ௡
+57 Se = 5 e se a variância populacional for representada
+                                    ௏
+   como  ଶ , a quantidade 4 × మ segue uma distribuição
+                                   ఙ
+   qui-quadrado com 4 graus de liberdade.
+58  converge em probabilidade para 0,5 à medida que
+     → +∞.
+59 O valor esperado da variável aleatória  é igual a um valor
+   inferior a 0,05.
+60 Se  representa a média populacional e se = 10, então a
+          ௐഥ ିఓ
+   razão        segue uma distribuição  de Student com 9 graus
+            ඥ௏/ଵ଴
+      de liberdade.
+Considerando que as variáveis aleatórias  e sejam normais,
+mutuamente independentes e identicamente distribuídas, e
+supondo que  e  representem, respectivamente, a média e o
+desvio padrão dessas distribuições, julgue os itens subsequentes.
+61 Se  = 0 e  = 1, então  ଶ + ଶ segue distribuição
+    qui-quadrado com dois graus de liberdade.
+62 Se  =  +       e  =  − , então  e  são variáveis
+    aleatórias independentes.
+63 Nas condições apresentadas, Var +  > Var − .
+                ௑ି௒
+64    A razão    se distribui conforme uma distribuição normal
+              ଶఙ
+      padrão.
+Julgue os próximos itens, com base na distribuição de
+                                              ௘ షೢ ௪ೣ
+probabilidade condicional P = | =  =             , em que
+                                                 ௫!
+ = 0, 1, 2, 3 …,  > 0 e  segue uma distribuição exponencial
+com média igual a 1.
+65 EVar|  = .
+66 Var() = 1.
+67 E| =  = .
+                      ଵ
+68    P = 3 =           .
+                      ଵ଺
+69    O valor esperado da variável aleatória  é igual a .
+
+                             CEBRASPE – CAPES – Edital: 2023
+
+OS ESPECÍFICOS --
+ Julgue os seguintes itens, considerando duas variáveis aleatórias
+  e , tais que E[] = E[] = 0, Eଶ  = 9, E ଶ  = 4 e
+ Cov,  = −6.
+ 70 Se  segue uma distribuição t de Student, então seu grau de
+     liberdade é igual a 2,25.
+ 71 Se  e  seguem distribuições normais, então a combinação
+                ଷ
+     linear  +  também segue uma distribuição normal.
+                 ଶ
+ 72 A correlação entre ( + ) e ( − ) é igual a 1.
+ 73 O valor esperado de  + ଶ é igual a 1.
+
+         Para uma variável aleatória X, de média E =  e
+ variância Var =  ଶ , uma amostra aleatória de tamanho é
+ constituída por um conjunto ଵ , ଶ , ⋯ , ௡  de          variáveis
+ aleatórias idênticas a  e estatisticamente independentes entre si.
+ Essa amostra aleatória de X tem média amostral definida como
+ sendo a variável aleatória ௡ = ଵ + ଶ + ⋯ + ௡ ⁄ . Se
+ um estimador estatístico para um parâmetro , associado à
+ distribuição de probabilidade de , for denotado por , então o
+ estimador para , da referida amostra aleatória, será ̂ ௡ = ௡ .
+ Com base nessas informações, julgue os itens a seguir,
+ considerando que os resultados do teorema do limite central são
+ fundamentais para embasar a análise da qualidade dos
+ estimadores estatísticos de um parâmetro.
+ 74   O estimador  de um parâmetro , baseado no método da
+      função de verossimilhança, é não enviesado e suficiente, isto
+      é, E"# = .
+ 75 É correto afirmar que E̂ ௡  =  e $Var̂ ௡  = ⁄ .
+ 76 A variável normalizada e centralizada do estimador ̂ ௡ = ௡
+    é ̂ ௡ − √ ⁄ e tem, assintoticamente, distribuição
+    normal unitária %0, 1 para → ∞.
+ 77 Para uma amostra aleatória da variável , cuja distribuição
+    depende de & parâmetros ଵ , ଶ , ⋯ , ௠ , deve-se obter &
+    estimadores, minimizando a função de verossimilhança
+    'ଵ , ଶ , ⋯ , ௠ .
+ 78 Para um valor 0 < ( < 1, o intervalo de confiança, com
+    confiança 1 − (, para a estimativa de E = ,
+    utilizando-se o estimador )*௡ , será assintoticamente ( → ∞)
+    dado por "௡ − +ఈ ⁄√ , ௡ + +ఈ ⁄√ #, em que +ఈ é o
+    quantil ( da distribuição %0, 1.
+ Espaço livre
+
+         Um modelo de regressão linear entre uma variável aleatória
+    (dependente) e uma variável não aleatória  (independente) é
+definido por     = ,଴ + ,ଵ  + -, em que -, denominado erro
+aleatório, é uma variável aleatória independente de  com média
+E- = 0 e desvio padrão Var- =  ଶ . Um modelo de regressão
+linear é essencialmente um modelo para a probabilidade
+condicional de Y com relação a X, denotada por P |; ele é
+chamado de simples se - for uma variável aleatória gaussiana.
+Fixando-se valores ଵ , ଶ , ⋯ , ௡ para a variável independente X,
+pode-se definir n variáveis aleatórias          ௜ = ,଴ + ,ଵ ௜ + -௜ ,
+com . = 1, ⋯ , . Pelo método dos mínimos quadrados, é possível
+obter estimadores ,/଴ e ,/ଵ para os parâmetros ,଴ e ,ଵ e definir o
+       /    /
+  ௜ = ,଴ + ,ଵ ௜ como o estimador para ௜ . Nesse contexto, são
+definidos os erros, denominados resíduos, como ௜ − ௜ = 0௜ , a
+soma dos quadrados dos resíduos SQE = ∑௜ 0௜ଶ , a soma dos
+quadrados totais SQT = ∑௜  ௜ −  ଶ e a soma dos quadrados de
+                             ଶ
+regressão SQR = ∑௜ " ௜ −  # , com  = ∑௜ ௜ ⁄ .
+
+Com base nessas informações, julgue os próximos itens,
+considerando uma variável T, com média nula e desvio padrão
+unitário, definida por uma distribuição t de Student com 30 graus
+de liberdade, que tenha o seguinte intervalo com probabilidade de
+0,95: P−2,042 < 1 < 2,042 = 0,95.
+79   Considere que, para uma regressão linear simples da relação
+       = ,଴ + ,ଵ , em uma amostra de 32 valores de ,
+     obteve-se: ,/ଵ = 2 como estimativa para ,ଵ ; soma dos
+     quadrados      dos   resíduos     igual     a    600;     e
+                   ଶ
+     ∑ଷଶ                              
+       ௜ୀଵ"௜ −  # = 2.000, em que  é a média dos valores de
+      na amostra. Considere ainda que tenha sido feito o teste da
+     hipótese de não existir a relação linear       = ,଴ + ,ଵ ,
+     tomando-se como hipótese nula que ,ଵ = 0. Nessas
+     condições, assumindo um teste com erro de tipo I igual a
+     5%, é correto afirmar que a hipótese de não existir a relação
+     linear deve ser aceita.
+80   Na análise de adequação do modelo, é fundamental verificar
+     se a variância dos resíduos não depende da variável .
+81   Para um modelo de regressão linear, vale a relação linear
+     2  = ,଴ + ,ଵ  para a média E  da variável .
+82   Para um modelo de regressão que não seja simples, a soma
+     dos resíduos não será nula.
+83   Para o modelo de regressão linear, a média e a variância do
+     estimador do parâmetro ,ଵ serão respectivamente dados por
+     E",/ଵ # = ,ଵ e Var",/ଵ # =  ଶ ⁄∑௜ ௜ −  e, para o modelo
+     de regressão linear simples, ,/଴ e ,/ଵ têm distribuições de
+     probabilidades gaussianas.
+84   Um estimador não viciado para a variância de ,/௜ é obtido
+     pela        variância         amostral      dada       por
+      = SQE⁄( − 2) ∑௜ ௜ −  , em que  = ∑௜ ௜ ⁄ e a
+       ଶ                               ଶ
+
+     variável centralizada de ,/௜ , normalizada por , tem uma
+     distribuição t de Student com − 1 graus de liberdade.
+85   O coeficiente de determinação para um modelo de regressão
+     linear é definido como 3 ଶ = SQT − SQE⁄SQT e sua raiz
+     quadrada corresponde ao coeficiente de correlação linear
+     entre as variáveis e .
+
+                            CEBRASPE – CAPES – Edital: 2023
+        Para uma variável aleatória  e um parâmetro ,
+associado à distribuição de probabilidade de , pode-se utilizar
+um estimador  para testar a hipótese do parâmetro  assumir
+um valor específico ଴ . A fim de construir um teste, é necessário
+conhecer a distribuição do estimador, que definirá uma estatística
+de teste, e supor como hipótese nula, 4଴ , a hipótese de que
+ = ଴ . Para esse teste, existem dois tipos de erros: tipo I,
+rejeitar a hipótese 40 quando ela é verdadeira; tipo II, não rejeitar
+a hipótese 40 quando ela é falsa.
+Com base nessas informações, julgue os seguintes itens.
+86 Testes de hipótese nulas com probabilidade de erro de tipo II
+   muito pequenos são muito significativos para provar a
+   verdade da hipótese nula.
+87 Se o estimador  tem intervalo de aceitação com
+   probabilidade 1 − (, então a probabilidade do erro de tipo I
+   será (.
+88 Em alguns casos, dependendo do tipo de distribuição para o
+   estimador , é possível definir erros muito pequenos para os
+   dois tipos de erros.
+89 Testes com probabilidade de erro de tipo I pequenos são
+   significativos para provar a falsidade de hipótese nula 4଴ .
+No que se refere a técnicas de amostragem, julgue os itens que se
+seguem.
+90 Em uma amostragem estratificada, deve-se fixar a
+    probabilidade de escolher um elemento do estrato como
+    igual à porcentagem do estrato em relação à população.
+91 O tipo de amostragem é sistemático se, em uma linha de
+    produção, a cada 50 itens produzidos, o último é retirado
+    para fazer uma amostra semanal e medir a quantidade de
+    itens com defeitos; porém, se os itens retirados forem
+    estatisticamente descorrelacionados, as propriedades de
+    avaliação de erros inferenciais desse tipo de amostragem
+    devem ser consideradas como equivalentes a amostragens
+    aleatórias.
+92 Em uma população que se divide em estratos, não é possível
+    obter resultados significativos para as inferências feitas a
+    partir de uma amostragem aleatória simples, portanto, isso
+    implica que se deve necessariamente escolher amostras
+    estratificadas.
+93 Em uma amostragem aleatória simples, qualquer amostra de
+    determinado tamanho terá a mesma probabilidade de ser
+    escolhida.
+94 Considerando a população de trabalhadores de fábricas de
+    roupas em determinada região, a seleção aleatória de
+    algumas fábricas para se medir as características dos seus
+    trabalhadores representa uma amostragem aleatória simples
+    dos trabalhadores de fábricas de roupas da região.
+Espaço livre
+
+        Considere os seguintes intervalos, respectivamente com
+probabilidades 0,95 e 0,90, para uma variável aleatória 5 com
+distribuição de probabilidade normal com média nula e desvio
+padrão unitário %0,1: P−1,96 < 5 < 1,96 = 0,95 e
+P−1,65 < 5 < 1,65 = 0,90.
+A partir dessas informações, julgue os itens a seguir.
+95 Considere que, em uma cidade, a renda dos trabalhadores do
+   setor turístico tem desvio padrão de 500 reais e, em uma
+   amostra aleatória desses 100 trabalhadores, obteve-se
+   uma renda média de 2.000 reais. Nesse caso, o intervalo de
+   confiança, com 95% de confiança, para a renda média dos
+   trabalhadores do setor turístico dessa cidade é [1.902, 2.098].
+96 Considere os dados na tabela a seguir, relativos à
+   distribuição de notas entre 0 e 10, obtidos de uma amostra
+   aleatória de 256 estudantes que realizaram uma prova. Nesse
+   caso, o intervalo de confiança, com 90% de confiança, para
+   a percentagem de estudantes com nota superior ou igual a 6,
+   tem tamanho inferior a 0,12.
+
+           intervalo das notas      número de estudantes
+             8 até 10 – [8, 10)             26
+              6 até 8 – [6, 8)              38
+              4 até 6 – [4, 6)              64
+              2 até 4 – [2, 4)              77
+              0 até 2 – [0, 2)              51
+                    total                   256
+
+
+Em relação às abordagens clássica, burocrática e sistêmica da
+administração, julgue os itens a seguir.
+97 Os adeptos da abordagem sistêmica na administração
+   defendem a seleção de alguns sistemas sociais a serem
+   estudados quanto à manutenção, ao atingimento de metas, à
+   adaptabilidade e à integração.
+98 A administração burocrática, segundo Weber, corresponde a
+   um sistema que busca organizar, de forma estável e
+   duradoura, a cooperação de poucos indivíduos, cada um
+   detendo funções semelhantes.
+99 O pensamento central da escola clássica pode ser sintetizado
+   na afirmação de que o profissional será um bom
+   administrador à medida que seus passos forem planejados,
+   organizados e coordenados de maneira cuidadosa e racional.
+No que se refere à evolução da administração pública no Brasil
+após 1930, às reformas administrativas e à nova gestão pública,
+julgue os próximos itens.
+100 A    reforma administrativa para a implantação da
+    administração pública gerencial começou a ser discutida no
+    país em 1980.
+101 Em 1930, ocorreu a consolidação do modelo de
+    administração burocrática no Brasil, iniciada, ainda no
+    século XIX, por Dom Pedro II.
+102 O Estado social percebe o cidadão como titular de direitos
+    sociais, e o aparelho estatal como uma fonte de atendimento
+    às necessidades a ele associadas.
+103 A crise do Estado no início dos anos 1980 e a posterior crise
+    da União Soviética e das economias dos regimes do Leste
+    Europeu fizeram a efetividade do Estado social ser
+    questionada.
+
+                           CEBRASPE – CAPES – Edital: 2023
+A respeito das funções da administração, julgue os itens
+subsequentes.
+104 A função controle mede, regula ou corrige o desempenho da
+    organização e dos recursos utilizados para o atingimento dos
+    objetivos organizacionais.
+105 O planejamento é uma atividade constante nas organizações
+    bem-sucedidas, configurando-se como a primeira das
+    funções administrativas que compõem o processo
+    administrativo.
+Acerca da estrutura organizacional, julgue os itens subsecutivos.
+106 A departamentalização permite a criação de órgãos que
+    abrangem a combinação de recursos humanos, financeiros,
+    materiais e tecnológicos, sem representar um papel
+    específico ou focar o alcance do planejamento da
+    organização.
+107 O organograma consiste na representação gráfica da
+    estrutura organizacional, da superposição de órgãos, de
+    forma a representar os órgãos que têm maior ou menor
+    autoridade hierárquica em relação aos demais.
+Em relação à cultura organizacional, julgue os itens que se
+seguem.
+108 A    cultura organizacional compõe-se apenas de
+    comportamentos aprendidos que sejam visivelmente
+    manifestos.
+109 O estudo do que é ensinado aos novos membros de um grupo
+    é uma forma de conhecer aspectos superficiais de
+    determinada cultura.
+110 Valores expostos constituem regras implícitas, não escritas,
+    vulgarmente conhecidas como “macetes”, que o iniciante
+    deve aprender para ser aceito como membro de uma
+    organização.
+Considerando que qualidade é definida como a totalidade das
+características de uma entidade que lhe confere a capacidade de
+satisfazer necessidades explícitas e implícitas dos clientes, julgue
+os seguintes itens, a respeito da gestão da qualidade.
+111 As sete ferramentas para o controle estatístico de qualidade
+     desenvolvidas por Ishikawa são as seguintes: folha de
+     verificação; estratificação; diagrama de Pareto; histograma;
+     diagrama de Ishikawa; diagrama de dispersão; e gráfico de
+     controle de processos, ou de Shewhart.
+112 O controle de qualidade envolve técnicas e atividades
+     operacionais que visam satisfazer os requisitos da qualidade.
+Em relação ao comportamento organizacional, julgue os itens que
+se seguem.
+113 O comportamento organizacional só pode ser compreendido
+     a partir do estudo de indivíduos e grupos em organizações de
+     grande porte, não sendo, portanto, possível sua percepção em
+     ambientes de trabalho de pequenas e médias empresas.
+114 A motivação corresponde às forças responsáveis pelo nível,
+     pela direção e pela persistência do esforço que uma pessoa
+     dispende no trabalho.
+No que diz respeito à gestão de processos, julgue os itens a
+seguir.
+115 A modelagem de processos abrange a identificação, o
+    mapeamento, a análise e o redesenho dos processos.
+116 A análise de processos é acompanhada de várias técnicas,
+    entre as quais se incluem mapeamento, entrevistas e
+    simulações.
+
+Acerca da administração direta e indireta federal, julgue os próximo
+117 A CAPES é uma autarquia federal vinculada ao Ministério da E
+118 A administração federal direta possui personalidade jurídica pr
+    eles vinculadas.
+A respeito dos atos administrativos, julgue os itens que se seguem.
+119 Entre os atributos dos atos administrativos está o da autoexec
+    utilizar-se da supremacia do interesse público sobre o privado
+    sem necessitar da anuência deste.
+120 Os atos nulos são aqueles que apresentam defeitos graves i
+    anulação.
+Espaço livre
+
+                              CEBRASPE – CAPES – Edital: 2023
+
+os itens.
+Educação.
+rópria, sendo composta pelos ministérios e pelas empresas estatais a
+
+
+
+cutoriedade, que consiste na obrigação de a administração pública
+o para criar, unilateralmente, obrigações para si e para o particular,
+
+insuscetíveis de convalidação, os quais tornam obrigatória a sua
+

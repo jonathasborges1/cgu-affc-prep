@@ -1,0 +1,15 @@
+{"id": "v1-4-01", "codigo": "P3·SEG 3", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-02", "codigo": "P3·ARQ 2", "rel": "alta", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-03", "codigo": "P3·SEG 4", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-04", "codigo": "P3·ARQ 1", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-05", "codigo": "P3·ARQ 2", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-06", "codigo": "OUTRO", "rel": "fora", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-07", "codigo": "OUTRO", "rel": "fora", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-08", "codigo": "P3·ENG 1", "rel": "alta", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-09", "codigo": "P3·DADOS 4", "rel": "baixa", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-10", "codigo": "P3·SEG 5", "rel": "baixa", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-11", "codigo": "P3·DADOS 4", "rel": "baixa", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-12", "codigo": "P3·ARQ 2", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-13", "codigo": "P3·ARQ 1", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-14", "codigo": "P3·ARQ 2", "rel": "media", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}
+{"id": "v1-4-15", "codigo": "P3·DADOS 4", "rel": "baixa", "motivo": "leitura direta", "status": "pendente_verificacao_independente"}

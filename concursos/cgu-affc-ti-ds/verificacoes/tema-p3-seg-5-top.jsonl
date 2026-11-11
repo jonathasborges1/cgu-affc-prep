@@ -1,0 +1,6 @@
+{"item": "3", "edital": "P3·SEG 5.1", "relevancia": "alta", "nucleo_id": "n-etp-tr-dispensa-licitacao", "tags": ["ESCOPO", "EXCECAO_OMITIDA"], "nivel": "medio"}
+{"item": "13", "edital": "P3·SEG 5.1", "relevancia": "alta", "nucleo_id": "n-etp-definicao-primeira-etapa", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "15", "edital": "P3·SEG 5.1", "relevancia": "alta", "nucleo_id": "n-etp-definicao-primeira-etapa", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "16", "edital": "P3·SEG 5.1", "relevancia": "alta", "nucleo_id": "n-etp-tr-obrigatorios-in-01-2019", "tags": ["EXCECAO_OMITIDA", "ESCOPO"], "nivel": "dificil"}
+{"item": "17", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["CONCEITO_MISTURADO"], "nivel": "dificil"}
+{"item": "19", "edital": "P3·SEG 5.3", "relevancia": "baixa", "nucleo_id": "n-contrato-eficiencia", "tags": ["NORMA_LITERAL"], "nivel": "medio"}

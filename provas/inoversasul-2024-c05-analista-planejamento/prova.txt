@@ -1,0 +1,262 @@
+                                  -- CONHECIMENTO
+Acerca da teoria das organizações, julgue os itens a seguir.
+41 A abordagem humanística da administração representa a
+   mudança de foco dos aspectos técnicos e formais
+   administrativos para os aspectos sociológicos e psicológicos
+   do trabalho.
+42 A teoria da administração científica visava determinar os
+   melhores métodos para realizar qualquer tarefa e selecionar,
+   treinar e motivar os colaboradores.
+43 A teoria clássica da administração, representada por Taylor,
+   partia do estudo do todo organizacional e de sua estrutura
+   para garantir eficiência a todas as partes envolvidas.
+
+Julgue os itens seguintes, no que concerne à gestão por resultados
+em organizações públicas.
+44 A gestão por resultados está atrelada à geração de valor
+   público, promovendo valores com equidade, probidade e
+   igualdade, independentemente de contribuírem com a criação
+   de capital social da nação.
+45 Embora não seja necessário mapear processos de trabalho,
+   escolher indicadores e metas de desempenho é fundamental
+   na gestão por resultados.
+46 A gestão por resultados caracteriza-se pela cultura e pelo
+   conjunto de ferramentas de gestão, orientados ao aumento da
+   eficácia, eficiência e produtividade no uso de recursos
+   organizacionais para melhoria de resultados no desempenho
+   institucional e de colaboradores.
+
+Acerca de planejamento estratégico e ciclo PDCA em
+organizações públicas, julgue os itens subsecutivos.
+47 O uso de estratégia para equilibrar forças contraditórias
+   internas à organização e a proposição de valor diferenciado a
+   vários tipos de usuários são exemplos de princípios
+   norteadores para a elaboração de mapa estratégico
+   institucional.
+48 O uso da técnica SWOT permite conhecer mais
+   detalhadamente aspectos internos e externos organizacionais,
+   de modo a responder a eventuais problemas detectados ou
+   aprimorar a produção de serviços públicos a usuários.
+49 Na etapa de verificação do ciclo PDCA, busca-se aplicar
+   ações corretivas em caso de não atingimento de objetivos ou
+   padronização de atividades em caso de alcance de objetivos
+   e metas.
+
+A respeito dos novos modelos de gestão nas organizações
+públicas, julgue os itens que se seguem.
+50 Organizações públicas inovadoras utilizam o balanced
+   scorecard como sistema de gestão estratégica para gerenciar
+   processos críticos de clarificação de visão e estratégia
+   organizacionais, bem como de aumento de aprendizado
+   institucional.
+51 Princípios de gestão de qualidade total são voltados ao
+   cliente, à liderança proativa, ao engajamento de
+   colaboradores e à abordagem de processo.
+52 Ainda que medo e falta de otimismo não sejam fatores
+   determinantes, situação financeira precária e ausência de
+   envolvimento de colaboradores podem levar projetos de
+   reengenharia ao fracasso.
+
+      CEBRASPE – FUNDAÇÃO INOVERSASUL – Edital: 2024
+
+OS ESPECÍFICOS --
+ Em relação à gestão da mudança organizacional, julgue os
+ próximos itens.
+ 53 Conquanto a mudança do tipo impositiva gere engajamento
+    por parte de colaboradores, ela não permite espaço para
+    debates.
+ 54 Reações a mudanças organizacionais ocorrem devido à
+    possibilidade de alteração de poder e hierarquia
+    organizacional, e não ao requerimento de novas
+    competências para o trabalho.
+ 55 Desencadeadores de mudanças organizacionais podem estar
+    associados a natureza da força de trabalho, uso de novas
+    tecnologias, choques econômicos e concorrência.
+ Julgue os próximos itens, a respeito de metodologias de
+ gerenciamento de projetos.
+ 56 No Scrum, product owner é o responsável por maximizar o
+    valor do produto resultante do trabalho do time scrum.
+ 57 A metodologia ágil se baseia em ciclos curtos de
+    desenvolvimento chamados de sprints, que facilitam a
+    adaptação rápida a mudanças.
+ 58 A metodologia cascata é altamente iterativa, permitindo
+    revisões e alterações frequentes durante todas as fases do
+    projeto.
+ Julgue os seguintes itens, acerca de fundamentos da gestão de
+ projetos de acordo com o PMBOK 7.ª edição.
+ 59 A análise de riscos quantitativa é geralmente mais simples e
+    rápida que a análise de riscos qualitativa, pois envolve
+    menos cálculos e detalhamentos.
+ 60 No processo de planejamento de um projeto, o orçamento e o
+    cronograma devem ser definidos antes da definição do
+    escopo, por serem mais críticos para o sucesso inicial do
+    projeto.
+ 61 Os domínios de desempenho são utilizados para orientar o
+    gerenciamento de projetos, garantindo que todos os aspectos
+    críticos para a entrega de valor sejam considerados.
+ 62 O principal objetivo do gerente de projetos é focar
+    exclusivamente na mitigação de riscos financeiros, que são
+    considerados os mais críticos para o sucesso do projeto.
+ Julgue os próximos itens, a respeito de cronograma, estimativa de
+ custos e orçamento.
+ 63   Para se estimar adequadamente o cronograma de um projeto,
+      recomenda-se visualizar a sequência de atividades que
+      compõe o caminho mais curto que o projeto pode percorrer.
+ 64   A linha de base dos custos frequentemente é alocada no
+      cronograma do projeto para refletir os momentos em que os
+      custos serão incorridos.
+ 65   O resultado de uma simulação de Monte Carlo estabelece um
+      cronograma de alto nível, com marcos, eventos e pontos de
+      decisão.
+ 66   O orçamento deve ser associado e especificado em, no
+      máximo, dois níveis de componentes da estrutura analítica
+      do projeto.
+ 67   O sequenciamento das atividades de um cronograma é
+      organizado apenas com base na duração estimada das tarefas.
+ 68   A análise de valor agregado é usada para medir o
+      desempenho de um projeto em relação ao seu cronograma e
+      ao seu orçamento.
+
+No que se refere a elementos de qualidade de projetos, julgue os
+itens seguintes.
+69 O plano de gerenciamento da qualidade deve ser
+   independente de outros planos do projeto devido à
+   autonomia dos controles previstos, não sendo necessário que
+   ele faça parte do plano de gerenciamento do projeto.
+70 Investimentos na prevenção da não conformidade ou do não
+   cumprimento de requisitos ao longo da vida útil do produto
+   integram o custo da qualidade do produto.
+Acerca de noções de contabilidade financeira, julgue os itens
+subsequentes.
+71 A informação contábil-financeira que tem valor preditivo
+   jamais tem valor confirmatório.
+72 O regime de competência retrata os efeitos de transações e
+   outros eventos e circunstâncias sobre os recursos
+   econômicos da entidade nos períodos em que tais efeitos são
+   produzidos.
+73 As contas de empréstimos e resgate de títulos de dívida
+   incluem-se no demonstrativo dos fluxos de caixa.
+Julgue os próximos itens, a respeito de contabilização e análise
+de demonstrações contábeis.
+74   O custo de gerar a informação é uma restrição sempre
+     presente na entidade no processo de elaboração e divulgação
+     do relatório contábil-financeiro.
+75   A manutenção do capital financeiro só pode ser medida pela
+     unidade monetária nominal.
+76   O conceito de probabilidade deve ser adotado nos critérios
+     de reconhecimento para determinar o grau de incerteza dos
+     benefícios econômicos futuros.
+77   Evidenciação é o processo de determinar os montantes
+     monetários por meio dos quais os elementos das
+     demonstrações contábeis devem ser reconhecidos e
+     apresentados no balanço patrimonial.
+78   Na demonstração do resultado do exercício, os elementos
+     diretamente relacionados com a mensuração do desempenho
+     são as receitas e as despesas.
+Julgue os itens a seguir, referentes às demonstrações contábeis.
+79   O reconhecimento da receita ocorre simultaneamente com o
+     reconhecimento de aumento nos ativos ou de diminuição nos
+     passivos.
+80   As demonstrações contábeis são elaboradas para serem
+     apresentadas a usuários externos.
+81   O registro contábil deve conter o número de identificação do
+     lançamento, em ordem sequencial, conforme o regime de
+     caixa.
+82   As avaliações acerca do grau de incerteza atrelado ao fluxo
+     de benefícios econômicos futuros devem ser feitas com base
+     na evidência disponível quando da elaboração das
+     demonstrações contábeis.
+83   A conta contábil, caixa ou bancos, é o item menos líquido do
+     grupo de contas do ativo.
+84   A informação sobre receita para o ano corrente pode ser
+     comparada com predições de receita para o ano corrente que
+     foram feitas nos anos anteriores.
+85   A contabilização da despesa com folha de pagamento
+     permite o alcance da comparabilidade entre organizações.
+
+     CEBRASPE – FUNDAÇÃO INOVERSASUL – Edital: 2024
+A respeito das funções econômicas do Estado, julgue os itens
+seguintes.
+86   A adoção de políticas anticíclicas é a atuação do Estado em
+     sua função estabilizadora.
+87   A cobrança de impostos sobre propriedade é característica da
+     função distributiva do Estado.
+
+           Veja como será pente-fino para o governo
+                  cortar R$ 25,9 bi em 2025
+       O governo detalhou como será o corte de R$ 25,9 bilhões
+em despesas obrigatórias, conforme anunciado em junho
+deste ano. O objetivo da medida é cumprir a nova regra de
+controle dos gastos públicos.
+                                      Internet: <metropoles.com> (com adaptações).
+
+
+Em relação à política econômica descrita no texto precedente,
+julgue os itens a seguir, considerando válidos os pressupostos da
+economia keynesiana.
+88   O corte nos gastos descrito no texto deve resultar em um
+     aumento da demanda agregada.
+89   O corte de gastos descrito no texto é um exemplo de política
+     monetária contracionista.
+90   O tipo de efeito esperado da política descrita sobre a renda
+     agregada é o mesmo tipo que se esperaria de um aumento de
+     impostos.
+
+Julgue os próximos itens, a respeito do Plano de Metas,
+implementado durante o governo de Juscelino Kubitschek.
+91   A maior parte do financiamento dos projetos ligados ao
+     Plano de Metas teve origem no setor privado nacional.
+92   A fundação da PETROBRAS foi uma medida importante do
+     Plano de Metas, tomada com o intuito de reduzir a
+     dependência energética da indústria crescente no país
+     no período.
+
+Julgue os itens subsecutivos no que se refere aos tributos
+no Brasil.
+93   Impostos sobre consumo de bens e serviços são tipicamente
+     regressivos.
+94   Os recursos advindos do imposto sobre a propriedade
+     territorial rural (ITR), que é um tributo municipal, devem ser
+     direcionados a projetos de desenvolvimento da zona rural,
+     como, por exemplo, a eletrificação rural.
+
+Em relação ao mercado de trabalho e ao desemprego no Brasil,
+julgue o item que se segue de acordo com as estatísticas
+do IBGE.
+95   É possível que o desemprego diminua sem que o número de
+     pessoas empregadas no período aumente.
+
+Acerca do orçamento público e da dívida pública brasileira,
+julgue os itens seguintes.
+96   Desde 2005 o Brasil não carrega mais dívida externa em
+     seu estoque.
+97   Em determinado ano, é possível que, ainda que o resultado
+     primário seja superavitário, a dívida pública acumulada
+     aumente.
+
+No Brasil, a taxa de câmbio indica quantos reais são necessários p
+dólar americano). Considerando que, de dezembro de 2022 a dez
+julgue o item seguinte, ignorando eventuais efeitos da inflação no
+bens e serviços importados.
+98   De dezembro de 2022 a dezembro de 2023, houve valorização
+
+Julgue os itens subsequentes, a respeito da taxa SELIC e de seu efei
+99   A taxa referencial de juros, conhecida como taxa SELIC, é defi
+100 A taxa SELIC determina o teto da taxa de juros real pratica
+     financiamento.
+
+Espaço livre
+
+       CEBRASPE – FUNDAÇÃO INOVERSASUL – Edital: 2024
+
+ para se adquirir uma unidade de moeda estrangeira (por exemplo,
+zembro de 2023, a taxa de câmbio do dólar americano caiu 8,5%,
+os dois países (Brasil e EUA) e flutuações de oferta e procura dos
+
+
+ do real, o que barateou as importações de mercadorias dos EUA.
+
+ito nas taxas de juros do mercado brasileiro.
+inida pelo Comitê de Política Monetária (COPOM) a cada 45 dias.
+ada pelos bancos comerciais e pelas financeiras em contratos de
+

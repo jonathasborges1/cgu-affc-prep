@@ -1,0 +1,6 @@
+{"item": "1", "edital": "P3·ENG 2.2", "relevancia": "baixa", "nucleo_id": "n-polimorfismo-sobrescrita", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "3", "edital": "P3·ENG 4.4", "relevancia": "media", "nucleo_id": "n-ux-participacao-usuario", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "4", "edital": "P3·ARQ 1.7", "relevancia": "media", "nucleo_id": "n-arquitetura-camadas-interna-externa", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "5", "edital": "P3·SEG 2.5", "relevancia": "media", "nucleo_id": "n-validacao-requisitos-stakeholders", "tags": ["ESCOPO"], "nivel": "medio"}
+{"item": "11", "edital": "P3·ENG 4.1", "relevancia": "media", "nucleo_id": "n-consistencia-padroes-interface", "tags": ["ABSOLUTO", "INVERSAO"], "nivel": "medio"}
+{"item": "13", "edital": "P3·ENG 4.1", "relevancia": "media", "nucleo_id": "n-ux-vs-ui", "tags": ["TROCA_TERMO"], "nivel": "medio"}

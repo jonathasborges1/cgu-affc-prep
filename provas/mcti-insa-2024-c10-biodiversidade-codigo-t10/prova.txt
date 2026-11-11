@@ -1,0 +1,349 @@
+                                          -- CONHECIMENTO
+       Ecossistemas propensos ao fogo são frequentemente
+considerados hotspots de biodiversidade. O fogo parece ter
+efeitos tanto positivos quanto negativos nos padrões de riqueza
+de vertebrados terrestres. Por exemplo, a variabilidade temporal
+do fogo pode ter um impacto potencialmente prejudicial na
+riqueza de anfíbios, mas potencialmente benéfico na riqueza de
+mamíferos. Para algumas espécies, as adaptações podem incluir
+características que permitem a sobrevivência durante incêndios
+(por exemplo, velocidade de fuga da área queimada). Em um
+contexto evolutivo, o fogo pode promover a diversificação de
+espécies ao liberar calor e compostos genotóxicos derivados da
+combustão. No entanto, as mudanças climáticas antropogênicas
+representam uma clara ameaça à biodiversidade da Terra, e a
+recente atividade de fogo nesses sistemas, provavelmente, não é
+um fator que impulsiona a riqueza. A preocupação em relação a
+esses ecossistemas é manter frequências, tamanhos, intensidades
+e períodos de ocorrência dos eventos de fogo de forma adequada.
+                       Moritz et al. The role of fire in terrestrial vertebrate richness patterns.
+                                                                            2022 (tradução livre).
+
+
+Tendo como referência inicial o texto precedente, julgue os itens
+a seguir, acerca de mutagênese.
+51   A herdabilidade de características multifatoriais de
+     vertebrados terrestres pode ser alterada por ações antrópicas.
+52   O fogo é um agente mutagênico.
+53   Velocidade é uma característica com variação descontínua e
+     merística.
+54   Riqueza é uma característica com baixa herdabilidade.
+55   O teste de Ames pode ser usado para avaliar os efeitos
+     mutagênicos do fogo em animais.
+       Quasiespécies virais são distribuições dinâmicas de
+genomas virais mutantes não idênticos, submetidos a um
+processo contínuo de seleção natural. São resultado de altas taxas
+de mutação causadas por erros na replicação. Evidências
+experimentais revelaram que as populações virais consistem em
+muitos genomas mutantes, cuja frequência varia com o tempo de
+replicação. A dinâmica das quasiespécies revelou complexidades
+no comportamento das populações virais, com consequências
+para os mecanismos de doenças e estratégias de controle.
+                        Historical Perspective on the Discovery of the Quasispecies Concept.
+                                                              2021, p. 51-72 (tradução livre).
+
+
+Considerando inicialmente as informações do texto apresentado,
+julgue os itens que se seguem, relativos a mutagênese.
+56   A resistência a tratamentos antivirais pode ser consequência
+     de mutações gênicas nos vírus.
+57   Características poligênicas são aquelas determinadas por
+     mais de um gene e influenciadas pelo ambiente, a exemplo
+     das quasiespécies virais.
+58   Agentes que promovem a mutagênese letal viral aumentam a
+     taxa de erro das polimerases presentes no contexto da
+     infecção.
+59   Para avaliação de genotoxicidade ocasionada por vírus, são
+     utilizados, entre outros, o teste do cometa, o teste do
+     micronúcleo e o teste TUNEL (terminal deoxynucleotidyl
+     transferase dUTP nick end labeling).
+60   A interação entre o vírus e os genes do hospedeiro pode
+     tanto ter um efeito aditivo como não aditivo, a exemplo da
+     epistasia.
+
+                       CEBRASPE – INSA/MCTI – Edital: 2024
+
+OS ESPECÍFICOS --
+ A respeito do papel da genética de populações na conservação da
+ biodiversidade, julgue os itens a seguir.
+ 61 A conectividade de ambientes leva ao fluxo gênico entre
+    populações e, consequentemente, à depressão da diversidade
+    genética, a qual pode ser medida pelo índice de diferenciação
+    populacional.
+ 62 O endocruzamento aumenta os homozigotos na população, o
+    que, potencialmente, leva à redução da reprodução e da
+    sobrevivência, devido ao desmascaramento de alelos
+    deletérios.
+ 63 Para um dado organismo, a perda de variabilidade genética
+    está relacionada à perda de habilidade em responder a
+    mudanças ambientais.
+ 64 A heterozigose média — também conhecida como
+    heterozigosidade média — observada em uma população
+    para dado locus é diretamente proporcional à quantidade de
+    loci polimórficos na espécie.
+ 65 Fatores estocásticos, tal como deriva genética, levam à perda
+    não direcionada de variabilidade genética, o que pode
+    aumentar o risco de extinção de grupos populacionais.
+
+ Julgue os itens que se seguem, considerando que populações
+ pequenas estão sujeitas à perda de variabilidade genética, a qual
+ pode ser minimizada por ações de manejo com o acréscimo de
+ indivíduos oriundos de outras populações in situ ou ex situ.
+ 66   A introdução de migrantes advindos de populações grandes e
+      com alto nível de heterozigose em população pequena e com
+      alto grau de endogamia é uma estratégia utilizada para
+      recuperação de sucesso reprodutivo.
+ 67   Populações pequenas ferem a premissa de populações
+      infinitamente grandes, preconizada por Hardy-Weinberg,
+      encontrando-se, portanto, fora de equilíbrio.
+ 68   O coeficiente de endocruzamento é a probabilidade de herdar
+      alelos idênticos por estado.
+ 69   A análise de ninhadas de pássaros utilizando-se marcadores
+      genéticos é uma estratégia na avaliação de parentesco e
+      sexagem.
+ 70   Um dos papéis da genética de população na conservação de
+      espécies está relacionado à definição da melhor região de
+      reintrodução de um espécime, visando evitar, inclusive,
+      cruzamento entre espécies.
+
+ Julgue os itens a seguir, referentes a conceitos e técnicas
+ estatísticas aplicadas à análise multivariada.
+ 71 A MANOVA é preferível à ANOVA univariada quando
+    há mais de uma variável dependente, pois garante que
+    todas as comparações entre grupos sejam significativas
+    individualmente.
+ 72 A análise multivariada envolve o estudo simultâneo de
+    múltiplas variáveis independentes para a identificação
+    de padrões e relações nos dados.
+ 73   A regressão linear múltipla é uma técnica de análise
+      multivariada usada para modelar a relação entre
+      uma variável   dependente    e  múltiplas   variáveis
+      independentes.
+
+A respeito de modelos de regressão e testes estatísticos utilizados
+na análise multivariada, julgue os itens que se seguem.
+74   O valor de p (p-value) indica a probabilidade de a hipótese
+     alternativa ser verdadeira.
+75   A regressão logística pode ser usada para prever variáveis
+     dependentes contínuas.
+
+Com referência à análise de componentes principais (PCA, na
+sigla em inglês) e sua aplicação na redução de dimensionalidade,
+julgue os itens subsequentes.
+76   A PCA transforma variáveis correlacionadas em
+     componentes principais não correlacionados, preservando a
+     máxima variabilidade dos dados.
+77   Os testes paramétricos são sempre mais adequados que os
+     testes não paramétricos, independentemente da distribuição
+     dos dados e do tamanho da amostra.
+78   A PCA pode ser usada para prever novas observações a
+     partir de componentes principais.
+
+Julgue os itens seguintes, acerca de técnicas e aplicações da
+biotecnologia vegetal.
+79   A propagação clonal em biotecnologia vegetal é utilizada
+     para garantir que todas as plantas de uma população tenham
+     exatamente o mesmo material genético.
+80   O melhoramento genético convencional e a engenharia
+     genética produzem os mesmos resultados, sem diferenças
+     significativas no tempo necessário para obtenção de novas
+     variedades.
+
+Com relação a técnicas e aplicações da engenharia genética em
+plantas, julgue os próximos itens.
+81   A engenharia metabólica em plantas permite não apenas
+     aumentar a produção de metabólitos secundários de interesse
+     industrial, mas também modificar rotas metabólicas para
+     reduzir compostos tóxicos indesejáveis.
+82   O Agrobacterium tumefaciens é um vetor natural utilizado
+     para inserir DNA exógeno em células vegetais.
+
+Julgue os itens subsecutivos, a respeito de segurança alimentar e
+impacto ambiental de culturas transgênicas.
+83   A introdução de genes para aumento da eficiência
+     fotossintética em plantas transgênicas resulta em crescimento
+     acelerado e maior produtividade, independentemente das
+     condições ambientais.
+84   A avaliação de segurança alimentar para plantas
+     geneticamente modificadas é dispensável caso o gene
+     inserido seja proveniente de uma espécie já consumida pelo
+     ser humano.
+85   A inserção de genes de resistência a patógenos em plantas
+     transgênicas pode levar ao surgimento de novas variantes
+     mais agressivas do patógeno, devido à pressão seletiva
+     imposta pela planta modificada.
+
+                       CEBRASPE – INSA/MCTI – Edital: 2024
+
+
+
+
+                                        Internet: <salabioquimica.blogspot.com>.
+
+
+Com base na imagem precedente, em que são ilustrados o núcleo
+da célula eucarionte e a organização da cromatina, julgue os itens
+que se seguem.
+86 As histonas estão envolvidas com a regulação epigenética,
+   alterando a compactação da cromatina e a acessibilidade do
+   DNA aos fatores de transcrição e às proteínas reguladoras.
+87 Na organização da cromatina, a heterocromatina é a forma
+   mais ativa, aumentando a acessibilidade ao DNA para a
+   transcrição.
+88 O DNA (1) no núcleo da célula eucarionte está associado a
+   proteínas, conhecidas como histonas, formando-se os
+   nucleossomos (2).
+89 A cromatina (4) é composta pelas moléculas de DNA e
+   proteínas associadas, principalmente as histonas.
+Em relação à técnica de CRISPR-Cas9, julgue os itens a seguir.
+90 Para realizar o corte na região desejada, a proteína Cas9
+   depende da presença de uma sequência chamada
+   PAM (protospacer adjacent motif) próxima ao DNA-alvo.
+91 CRISPR-Cas9 pode ser usado para a edição de RNA
+   diretamente em uma célula.
+92 A técnica de CRISPR-Cas9 foi desenvolvida a partir da
+   elucidação de um mecanismo de defesa imunológica
+   encontrado em protozoários.
+93 A edição de genes por meio da técnica de CRISPR-Cas9
+   pode ser usada para o tratamento de doenças genéticas, como
+   a anemia falciforme, ao corrigir as mutações causadoras do
+   distúrbio.
+
+
+
+
+                                                  Internet: <publica.ciar.ufg.br>.
+
+
+Considerando a imagem precedente, em que são representados
+elementos importantes na expressão de genes e os eventos
+relacionados com a regulação da expressão gênica, julgue os
+itens seguintes.
+94 A ligação da TATA-binding protein (TBP) ao TATA box
+   inibe a montagem do complexo de pré-iniciação, bloqueando
+   a transcrição.
+95 Os elementos “Cis” são representados pelos promotores,
+   sendo os únicos responsáveis por regular a transcrição
+   gênica.
+
+Considerando a ilustração precedente, que representa a sequência
+de reações do ciclo de Krebs, com a indicação dos compostos
+envolvidos (numerados de 1 a 4) e os eventos a ele associados,
+julgue os seguintes itens.
+96   O -cetoglutarato (2) é convertido em succinil-CoA em uma
+     etapa que gera NADH (3) e libera CO₂.
+97   O número 1 indica a entrada do acetil-CoA, que doa um
+     grupo acetil ao oxalacetato (4) para formar citrato.
+98   O ciclo de Krebs armazena energia diretamente como ATP,
+     sem depender de outros processos.
+
+Acerca dos processos fermentativos, julgue os itens a seguir.
+99   A fermentação lática, que ocorre apenas em organismos
+     unicelulares, é vital para a sobrevivência desses organismos
+     em condições adversas.
+100 A fermentação ocorre na ausência de oxigênio e permite a
+     regeneração do NAD⁺ a partir do NADH, etapa fundamental
+     para permitir que o ciclo glicolítico prossiga.
+
+Acerca das saponinas, julgue os itens a seguir.
+101 A ação hipocolesterolemiante das saponinas está relacionada
+     a sua propriedade de se ligar ao colesterol, estimulando a
+     excreção dessa substância.
+102 A ação expectorante associada às saponinas deve-se
+     provavelmente a sua capacidade hemolítica.
+
+Em relação a flavonoides e óleos essenciais, importantes
+metabólitos secundários presentes em diversas plantas, julgue os
+itens subsequentes.
+103 Um dos mecanismos de ação observados na atividade
+     anti-inflamatória de muitos flavonoides consiste na sua
+     capacidade antioxidante e de inibição das ciclo-oxigenases.
+104 O óleo de hortelã-pimenta, rico em mentol, possui ação
+     espasmolítica sobre a musculatura lisa estomacal e intestinal.
+105 A lipofilia observada em óleos essenciais dificulta sua
+     absorção no trato gastrointestinal, diminuindo sua atividade
+     colagoga.
+
+                        CEBRASPE – INSA/MCTI – Edital: 2024
+Julgue os itens a seguir, relacionados à fitoquímica.
+106 A extração de óleos essenciais por fluido supercrítico
+    (CO2 supercrítico) requer o uso de solventes orgânicos
+    convencionais em temperaturas acima de 80 °C, assim
+    impacta negativamente o meio ambiente.
+107 A solubilidade dos alcaloides é fortemente influenciada por
+    alterações de pH.
+108 Uma das técnicas de extração dos alcaloides na forma de
+    bases envolve       primeiramente      a   utilização   de   água
+    acidificada.
+109 Taninos hidrolisáveis possuem moléculas de ácido gálico ou
+    elágico ligadas a um açúcar central.
+110 A propriedade emulsificante e a capacidade de formação de
+    espuma são características típicas das saponinas.
+
+Acerca do melhoramento genético de plantas, julgue os itens a
+seguir.
+111 O processo tradicional de avaliação das interações entre
+    genótipos e ambientes consiste na análise de variância
+    conjunta, que corresponde à análise de grupos de
+    experimentos, sendo pressuposta a heterogeneidade dos
+    quadrados médios residuais relativos a todos os
+    experimentos envolvidos na análise.
+112 Entre os métodos empregados para a condução de gerações
+    segregantes oriundas de cruzamento entre dois progenitores
+    estão o método bulk, que se baseia no comportamento das
+    progênies para a avaliação de determinado genótipo, e o
+    método     genealógico,    caracterizado,  entre    outras
+    propriedades, pela exploração dos efeitos vantajosos da
+    seleção natural.
+113 A    indução de mutações tem sido utilizada no
+    desenvolvimento de cultivares de tomate, alface, citros,
+    cevada, trigo, arroz e soja, entre outras espécies, entretanto o
+    número de cultivares desenvolvidos por meio dessa prática é
+    muito baixo em comparação ao obtido por seleções e
+    hibridações.
+114 O uso da diversidade genética conservada em bancos de
+    germoplasma de algumas culturas, por meio de combinações
+    gênicas em seus parentes silvestres, tem aumentado os custos
+    de manutenção, caracterização e avaliação de coleções,
+    sendo necessária a utilização de dados de genotipagem para
+    racionalizar o processo de fenotipagem por meio da predição
+    do comportamento de genótipos.
+115 Nas avaliações finais de produtividade e características
+    agronômicas de linhagens ou híbridos experimentais,
+    recomenda-se o uso de duas a três localidades para a
+    obtenção de informações sobre a adaptabilidade dos
+    materiais genéticos, a magnitude da interação entre genótipo
+    e ambiente e as exigências da lei que trata do valor de cultivo
+    e do uso de cada espécie.
+
+Com relação ao desenvolvimento de bioprodutos na caatinga, julgu
+116 A produção de bioprodutos a partir da biodiversidade da caati
+    uso sustentável de recursos naturais já presentes no bioma.
+117 A biodiversidade do semiárido brasileiro contém espécies a
+    metabólitos secundários com propriedades bioativas, que p
+    fármacos e bioprodutos industriais.
+118 A produção de biocombustíveis, ainda que em larga escala, a p
+    de redução das emissões de gases de efeito estufa e de promoçã
+119 Os compostos bioativos presentes nas plantas da caatinga são
+    padronização e a qualidade dos medicamentos fitoterápicos.
+120 A obtenção de bioprodutos a partir de plantas medicinais d
+    propriedades químicas e biológicas, além de testes de toxicidad
+    desses produtos.
+
+Espaço livre
+
+                         CEBRASPE – INSA/MCTI – Edital: 2024
+
+ue os itens que se seguem.
+inga está isenta de regulação ambiental, dada a obrigatoriedade do
+
+ adaptadas a condições extremas, o que favorece a produção de
+podem ser usados no desenvolvimento de bioinsumos agrícolas,
+
+partir de plantas da caatinga consiste em uma alternativa sustentável
+ão do desenvolvimento econômico da região.
+ facilmente isolados e sintetizados em laboratório, o que garante a
+
+da caatinga requer a realização de estudos rigorosos sobre suas
+de e eficácia, para a garantia da segurança do uso humano e animal
+

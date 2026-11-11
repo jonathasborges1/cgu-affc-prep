@@ -1,0 +1,5 @@
+{"item": "7", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-resposta-risco-aceitar-reduzir-compartilhar-evitar", "nucleo_novo": false, "tags": ["INVERSAO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "9", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-monitoramento-continuo-e-avaliacoes-independentes", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "14", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-atividades-controle-politicas-procedimentos-respostas-risco", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "20", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-risco-inerente-vs-residual", "nucleo_novo": false, "tags": ["TROCA_TERMO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "24", "edital": "P2·AUD 1.4", "relevancia": "alta", "nucleo_id": "n-issai-intosai-vs-normas-auditoria-independente", "nucleo_novo": false, "tags": ["CONCEITO_MISTURADO"], "nivel": "Médio", "confianca": "media", "duvida": null}

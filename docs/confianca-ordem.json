@@ -1,0 +1,515 @@
+{
+ "P2": {
+  "versao": 3,
+  "recall_leitura": 0.527,
+  "recall_modelado_ic90": [
+   0.471,
+   0.594
+  ],
+  "recall_obs": "diagnostico da fracao lida; na inferencia estratificada a cobertura e controlada pelo desenho amostral, pela margem e pela estabilidade bootstrap",
+  "amostras": {
+   "meio_lidos": 2226,
+   "cauda_lidos": 525,
+   "N_meio_restante": 0,
+   "N_cauda": 13163
+  },
+  "amostragem_probabilistica": {
+   "meio_censo_completo": true,
+   "cauda_amostra": 525,
+   "cauda_universo": 13163,
+   "margem_maxima_90": 0.0359,
+   "limite_margem": 0.04,
+   "sem_imputacao_modelo": true,
+   "aprovada": true
+  },
+  "faixas": {
+   "relevantes": 20,
+   "estaveis": 17,
+   "fracao": 0.85,
+   "instaveis": [
+    "P2·TRANSP 4",
+    "P2·DIR 1",
+    "P2·DIR 5"
+   ],
+   "criterio": "faixa A >= 8%, B >= 4%, C abaixo (share do assunto)"
+  },
+  "faixas_acum": {
+   "relevantes": 20,
+   "estaveis": 13,
+   "fracao": 0.65,
+   "instaveis": [
+    "P2·TRANSP 1",
+    "P2·DIR 3",
+    "P2·EVID 3",
+    "P2·DIR 4",
+    "P2·TRANSP 5",
+    "P2·GOV 5",
+    "P2·DIR 5"
+   ]
+  },
+  "temporal": {
+   "folds": [
+    {
+     "anos": "2020-2022",
+     "ano_ref": 2022,
+     "treino": 132,
+     "teste": 192,
+     "cobertura": 0.349,
+     "teto": 0.552,
+     "razao": 0.632
+    },
+    {
+     "anos": "2023",
+     "ano_ref": 2023,
+     "treino": 324,
+     "teste": 307,
+     "cobertura": 0.414,
+     "teto": 0.479,
+     "razao": 0.864
+    },
+    {
+     "anos": "2024",
+     "ano_ref": 2024,
+     "treino": 631,
+     "teste": 597,
+     "cobertura": 0.399,
+     "teto": 0.451,
+     "razao": 0.885
+    },
+    {
+     "anos": "2025",
+     "ano_ref": 2025,
+     "treino": 1228,
+     "teste": 92,
+     "cobertura": 0.533,
+     "teto": 0.554,
+     "razao": 0.961
+    }
+   ],
+   "razao_ponderada": 0.845,
+   "razao_recencia_ponderada": 0.856,
+   "pior_fold": 0.632,
+   "pior_fold_recente": 0.864,
+   "meia_vida_anos": 4,
+   "media_top5": 0.856
+  },
+  "temporal_loyo": {
+   "folds": [
+    {
+     "ano": 2017,
+     "teste": 123,
+     "cobertura": 0.285,
+     "teto": 0.602,
+     "razao": 0.473
+    },
+    {
+     "ano": 2021,
+     "teste": 72,
+     "cobertura": 0.514,
+     "teto": 0.639,
+     "razao": 0.804
+    },
+    {
+     "ano": 2022,
+     "teste": 91,
+     "cobertura": 0.429,
+     "teto": 0.593,
+     "razao": 0.722
+    },
+    {
+     "ano": 2023,
+     "teste": 307,
+     "cobertura": 0.479,
+     "teto": 0.479,
+     "razao": 1.0
+    },
+    {
+     "ano": 2024,
+     "teste": 597,
+     "cobertura": 0.399,
+     "teto": 0.451,
+     "razao": 0.885
+    },
+    {
+     "ano": 2025,
+     "teste": 92,
+     "cobertura": 0.533,
+     "teto": 0.554,
+     "razao": 0.961
+    }
+   ],
+   "razao_ponderada": 0.862,
+   "pior_fold": 0.473
+  },
+  "conjunto80": {
+   "conjunto_base": [
+    "P2·DIR 1",
+    "P2·DIR 4",
+    "P2·DIR 5",
+    "P2·EVID 2",
+    "P2·GOV 1",
+    "P2·GOV 2",
+    "P2·GOV 5",
+    "P2·TRANSP 1",
+    "P2·TRANSP 4",
+    "P2·TRANSP 5"
+   ],
+   "inclusao": {
+    "P2·TRANSP 1": 0.64,
+    "P2·GOV 2": 1.0,
+    "P2·TRANSP 4": 1.0,
+    "P2·AUD 3": 0.0,
+    "P2·GOV 1": 1.0,
+    "P2·DIR 2": 0.06,
+    "P2·DIR 3": 0.48,
+    "P2·TRANSP 2": 0.13,
+    "P2·AUD 1": 0.01,
+    "P2·EVID 2": 1.0,
+    "P2·DIR 1": 1.0,
+    "P2·GOV 3": 0.03,
+    "P2·EVID 3": 0.24,
+    "P2·AUD 2": 0.0,
+    "P2·DIR 4": 0.73,
+    "P2·EVID 4": 0.0,
+    "P2·TRANSP 5": 1.0,
+    "P2·GOV 5": 1.0,
+    "P2·DIR 5": 0.62,
+    "P2·GOV 4": 0.0
+   },
+   "relevantes": 20,
+   "instaveis": [
+    "P2·TRANSP 1",
+    "P2·DIR 3",
+    "P2·EVID 3",
+    "P2·DIR 4",
+    "P2·DIR 5"
+   ],
+   "fracao": 0.75
+  },
+  "ic90": {
+   "P2·TRANSP 1": [
+    0.0207,
+    0.0327
+   ],
+   "P2·TRANSP 3": [
+    0.0008,
+    0.0042
+   ],
+   "P2·GOV 2": [
+    0.1073,
+    0.1972
+   ],
+   "P2·TRANSP 4": [
+    0.0313,
+    0.0697
+   ],
+   "P2·AUD 4": [
+    0.0043,
+    0.01
+   ],
+   "P2·AUD 3": [
+    0.0096,
+    0.0178
+   ],
+   "P2·GOV 1": [
+    0.0845,
+    0.1667
+   ],
+   "P2·DIR 2": [
+    0.0144,
+    0.0251
+   ],
+   "P2·DIR 3": [
+    0.0196,
+    0.0307
+   ],
+   "P2·TRANSP 2": [
+    0.0165,
+    0.0271
+   ],
+   "P2·EVID 5": [
+    0.0042,
+    0.0102
+   ],
+   "P2·AUD 1": [
+    0.0114,
+    0.0206
+   ],
+   "P2·EVID 2": [
+    0.0759,
+    0.1659
+   ],
+   "P2·DIR 1": [
+    0.0342,
+    0.087
+   ],
+   "P2·GOV 3": [
+    0.0131,
+    0.0233
+   ],
+   "P2·EVID 3": [
+    0.0059,
+    0.0374
+   ],
+   "P2·AUD 2": [
+    0.0115,
+    0.021
+   ],
+   "P2·DIR 4": [
+    0.0198,
+    0.041
+   ],
+   "P2·EVID 4": [
+    0.0094,
+    0.0182
+   ],
+   "P2·TRANSP 5": [
+    0.0642,
+    0.1582
+   ],
+   "P2·GOV 5": [
+    0.0651,
+    0.1663
+   ],
+   "P2·DIR 5": [
+    0.008,
+    0.0614
+   ],
+   "P2·GOV 4": [
+    0.0109,
+    0.0192
+   ],
+   "P2·EVID 1": [
+    0.0002,
+    0.0015
+   ],
+   "P2·AUD 5": [
+    0.0,
+    0.0014
+   ]
+  },
+  "temporal_antigo": {
+   "folds": [
+    {
+     "ano_teste": 2021,
+     "treino": 183,
+     "teste": 72,
+     "recall_top5": 0.4
+    },
+    {
+     "ano_teste": 2022,
+     "treino": 255,
+     "teste": 91,
+     "recall_top5": 0.6
+    },
+    {
+     "ano_teste": 2023,
+     "treino": 346,
+     "teste": 307,
+     "recall_top5": 0.6
+    },
+    {
+     "ano_teste": 2024,
+     "treino": 653,
+     "teste": 597,
+     "recall_top5": 0.6
+    },
+    {
+     "ano_teste": 2025,
+     "treino": 1250,
+     "teste": 92,
+     "recall_top5": 0.8
+    }
+   ],
+   "media_top5": 0.6
+  },
+  "share": {
+   "P2·TRANSP 1": 0.0263,
+   "P2·TRANSP 3": 0.0023,
+   "P2·GOV 2": 0.1499,
+   "P2·TRANSP 4": 0.047,
+   "P2·AUD 4": 0.007,
+   "P2·AUD 3": 0.0133,
+   "P2·GOV 1": 0.1244,
+   "P2·DIR 2": 0.0194,
+   "P2·DIR 3": 0.0247,
+   "P2·TRANSP 2": 0.0214,
+   "P2·EVID 5": 0.007,
+   "P2·AUD 1": 0.0162,
+   "P2·EVID 2": 0.1183,
+   "P2·DIR 1": 0.0565,
+   "P2·GOV 3": 0.0177,
+   "P2·EVID 3": 0.0176,
+   "P2·AUD 2": 0.0159,
+   "P2·DIR 4": 0.0289,
+   "P2·EVID 4": 0.0136,
+   "P2·TRANSP 5": 0.1087,
+   "P2·GOV 5": 0.1157,
+   "P2·DIR 5": 0.0324,
+   "P2·GOV 4": 0.0146,
+   "P2·EVID 1": 0.0007,
+   "P2·AUD 5": 0.0005
+  },
+  "recall_auditoria": {
+   "estimativa": 0.527,
+   "limite_inferior_90": 0.471,
+   "limite_superior_90": 0.594,
+   "segunda_leitura_itens": 300,
+   "concordancia": 0.69,
+   "fonte": "docs/revisao-cega-p2-recall-status.json",
+   "metodo": "bootstrap estratificado do estimador de cobertura, apos segunda leitura cega e adjudicacao"
+  }
+ },
+ "P3": {
+  "versao": 2,
+  "recall_leitura": 0.539,
+  "recall_obs": "parte das P3 conhecidas (pool da triagem + itens lidos no topo da fila e nos sorteios) sobre o total estimado; as escondidas nao lidas vem de modelo local calibrado em amostra estratificada (docs/censo-ml-p3.json). Aceite sem leitura so se o modelo tiver precisao>=90% (limite inferior) na amostra.",
+  "amostras": {
+   "pool_forte": 935,
+   "topo": 326,
+   "sorteio": 145,
+   "escondidas_nao_lidas": 1204
+  },
+  "faixas": {
+   "relevantes": 17,
+   "estaveis": 17,
+   "fracao": 1.0,
+   "instaveis": [],
+   "criterio": "faixa A >= 8%, B >= 4%, C abaixo (share do assunto)"
+  },
+  "faixas_acum": {
+   "relevantes": 17,
+   "estaveis": 9,
+   "fracao": 0.529,
+   "instaveis": [
+    "P3·ARQ 1",
+    "P3·ARQ 2",
+    "P3·ENG 1",
+    "P3·ENG 2",
+    "P3·SEG 1",
+    "P3·SEG 3",
+    "P3·SEG 4",
+    "P3·SEG 5"
+   ]
+  },
+  "temporal": {
+   "folds": [
+    {
+     "anos": "2023",
+     "treino": 200,
+     "teste": 218,
+     "cobertura": 0.459,
+     "teto": 0.55,
+     "razao": 0.833
+    },
+    {
+     "anos": "2024",
+     "treino": 418,
+     "teste": 468,
+     "cobertura": 0.511,
+     "teto": 0.547,
+     "razao": 0.934
+    },
+    {
+     "anos": "2025",
+     "treino": 886,
+     "teste": 73,
+     "cobertura": 0.562,
+     "teto": 0.603,
+     "razao": 0.932
+    }
+   ],
+   "razao_ponderada": 0.905,
+   "pior_fold": 0.833,
+   "media_top5": 0.905
+  },
+  "temporal_loyo": {
+   "folds": [
+    {
+     "ano": 2017,
+     "teste": 41,
+     "cobertura": 0.61,
+     "teto": 0.659,
+     "razao": 0.926
+    },
+    {
+     "ano": 2021,
+     "teste": 69,
+     "cobertura": 0.565,
+     "teto": 0.638,
+     "razao": 0.886
+    },
+    {
+     "ano": 2022,
+     "teste": 54,
+     "cobertura": 0.685,
+     "teto": 0.722,
+     "razao": 0.949
+    },
+    {
+     "ano": 2023,
+     "teste": 218,
+     "cobertura": 0.518,
+     "teto": 0.55,
+     "razao": 0.942
+    },
+    {
+     "ano": 2024,
+     "teste": 468,
+     "cobertura": 0.511,
+     "teto": 0.547,
+     "razao": 0.934
+    },
+    {
+     "ano": 2025,
+     "teste": 73,
+     "cobertura": 0.562,
+     "teto": 0.603,
+     "razao": 0.932
+    }
+   ],
+   "razao_ponderada": 0.933,
+   "pior_fold": 0.886
+  },
+  "conjunto80": {
+   "conjunto_base": [
+    "P3·ARQ 1",
+    "P3·ARQ 2",
+    "P3·ARQ 5",
+    "P3·DADOS 1",
+    "P3·DADOS 2",
+    "P3·ENG 1",
+    "P3·ENG 2",
+    "P3·SEG 1",
+    "P3·SEG 3",
+    "P3·SEG 4",
+    "P3·SEG 5"
+   ],
+   "inclusao": {
+    "P3·ARQ 1": 1.0,
+    "P3·ARQ 2": 0.93,
+    "P3·ARQ 3": 0.0,
+    "P3·ARQ 4": 0.0,
+    "P3·ARQ 5": 1.0,
+    "P3·DADOS 1": 1.0,
+    "P3·DADOS 2": 1.0,
+    "P3·DADOS 3": 0.0,
+    "P3·DADOS 4": 0.03,
+    "P3·ENG 1": 0.86,
+    "P3·ENG 2": 0.94,
+    "P3·ENG 4": 0.02,
+    "P3·SEG 1": 0.76,
+    "P3·SEG 2": 0.0,
+    "P3·SEG 3": 0.9,
+    "P3·SEG 4": 0.98,
+    "P3·SEG 5": 0.99
+   },
+   "relevantes": 17,
+   "instaveis": [
+    "P3·SEG 1"
+   ],
+   "fracao": 0.941
+  },
+  "aceite_modelo": null
+ }
+}

@@ -1,0 +1,5 @@
+{"item": "4", "edital": "P2·DIR 3.1", "relevancia": "alta", "nucleo_id": "n-controle-conceito-juizo-de-valor", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "9", "edital": "P2·DIR 3.3", "relevancia": "alta", "nucleo_id": "n-tribunais-contas-priorizam-legalidade", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "15", "edital": "P2·DIR 3.3", "relevancia": "alta", "nucleo_id": "n-tcu-modelo-tribunal-de-contas", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "18", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-componentes-inter-relacionados", "nucleo_novo": false, "tags": ["INVERSAO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "19", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-ambiente-controle-integridade-etica", "nucleo_novo": false, "tags": ["CONCEITO_MISTURADO"], "nivel": "Médio", "confianca": "media", "duvida": null}

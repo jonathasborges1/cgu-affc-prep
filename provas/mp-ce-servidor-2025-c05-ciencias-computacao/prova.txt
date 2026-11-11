@@ -1,0 +1,664 @@
+•
+
+Nos itens que avaliarem conhecimentos de informática e(o
+informado o contrário, considere que todos os programas menc
+proteção, de funcionamento e de uso em relação aos programas,
+
+-- CONHECIMENTO
+A respeito de governança e gestão de TI, julgue os itens que se
+seguem.
+51
+
+TOGAF é um framework de arquitetura empresarial que
+possui um conjunto de guias práticos e materiais de
+referência conhecidos como TOGAF Series Guides.
+
+52
+
+O Cobit 2019 foi criado apenas para uso em empresas
+enterprise, caracterizadas como governamentais e de grande
+porte.
+
+53
+
+No PMBOK 7.ª edição, partes interessadas é um dos
+domínios de desempenho de projetos.
+
+54
+
+Em DevOps, entrega contínua é a capacidade de implantar
+novas funcionalidades manualmente após a realização de
+muitos testes de regressão.
+
+55
+
+Scrum
+
+consiste
+
+de
+
+um
+
+processo
+
+linear
+
+para
+
+o
+
+desenvolvimento de produtos e possui uma sequência de
+etapas de forma rígida e predefinida, o que agiliza as
+entregas.
+A respeito de BPM (business process management), julgue os
+itens que se seguem.
+56
+
+Os modelos to-be em BPM representam o estado futuro
+desejado dos processos de negócio, e são utilizados para
+identificar as melhorias e planejar a implementação de
+mudanças.
+
+57
+
+A simulação de processos de negócio utilizada no BPM é
+baseada em uma representação estática dos processos, o que
+impede a análise dinâmica e em tempo real das atividades.
+
+58
+
+No contexto de BPM, a modelagem de processos de negócio
+é essencial para entender e otimizar os processos
+organizacionais, pois permite uma visão clara das atividades
+e dos fluxos de trabalho.
+
+Julgue os itens a seguir, a respeito de RPA (robotic process
+automation).
+59
+
+A padronização de processos em RPA garante consistência e
+conformidade; enquanto a formatação estabelece regras, a
+validação e a operação asseguram o funcionamento
+adequado dentro das diretrizes estabelecidas.
+
+60
+
+RPA é uma tecnologia que permite a automação de
+processos manuais repetitivos, mas não é possível integrá-la
+com sistemas de inteligência artificial para melhorar a
+tomada de decisões.
+
+
+CEBRASPE – MPCE – Edital: 2025
+
+ou) tecnologia da informação, a menos que seja explicitamente
+cionados estão em configuração-padrão e que não há restrições de
+, arquivos, diretórios, recursos e equipamentos mencionados.
+
+OS ESPECÍFICOS -A respeito de desenvolvimento de software, julgue os itens que se
+seguem.
+61
+
+Considere os arquivos dados.xml e regras.xsl que são
+apresentados a seguir.
+arquivo dados.xml
+<?xml version=“1.0” encoding=“UTF-8”?>
+<?xml-stylesheet type=“text/xsl”
+href=“regras.xsl” ?>
+<aluno>
+<s>
+<nome> Divonsir Souza </nome>
+<curso> Ciencia da Computacao </curso>
+<idade> 18 </idade>
+<cidade> Curitiba </cidade>
+</s>
+<s>
+<nome> Antonio Carvalho </nome>
+<curso> Ciencia da Computacao </curso>
+<idade> 20 </idade>
+<cidade> Rio de Janeiro </cidade>
+</s>
+</aluno>
+arquivo regras.xsl
+<?xml version=“1.0”?>
+<xsl:stylesheet version=“1.0”
+xmlns:xsl=“http://www.w3.org/1999/XSL/Transform
+”>
+<xsl:output method=“html”/>
+<xsl:template match=“/”>
+<html>
+<body>
+<xsl:value-of select=“/aluno/s/nome”/>
+<xsl:value-of select=“/aluno/s/idade”/>
+<xsl:apply-templates
+select=“/aluno/s/cidade”/>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
+
+Se as regras do arquivo regras.xsl forem aplicadas ao arquivo
+dados.xml, o trecho de código seguinte será exibido no
+terminal.
+<html>\n <body> Divonsir
+</body>\n</html>
+62
+
+Souza
+
+18
+
+Curitiba
+
+O código JavaScript a seguir, ao ser executado, apresentará 8
+como resultado.
+<script>
+const numbers = [66, 4, 55, 8 ];
+numbers.sort();
+console.log(numbers[1]);
+</script>
+
+
+63
+
+Considere o código em Python a seguir.
+lista = [14, 57, 8, 14, 25, 57, 25, 57, 89]
+saida = dict()
+for item in lista:
+if item in saida:
+saida[item] += 1
+else:
+saida[item] = 1
+print( saida )
+
+Esse código, ao ser executado, apresentará o seguinte
+resultado.
+{14: 2, 57: 3, 8: 1, 25: 2, 89: 1}
+
+A regra do escoteiro é um princípio do clean code que
+determina que o código precisa estar mais limpo do que
+estava antes de haver quaisquer alterações no código.
+65 A finalidade do teste de carga é determinar como a aplicação
+em seu ambiente do lado do servidor responderá a várias
+condições de carga.
+64
+
+Na configuração de um ambiente de desenvolvimento para
+um novo projeto, é necessário definir variáveis de ambiente
+específicas a fim de garantir que a aplicação funcione
+corretamente em diferentes ambientes (desenvolvimento, teste e
+produção). Para isso, decidiu-se, utilizando o Docker, criar
+um contêiner e definir as variáveis de ambiente necessárias.
+Com base na situação hipotética apresentada, julgue os itens a
+seguir, relativos às práticas DevOps.
+66 Na situação apresentada, é necessário adicionar uma nova
+dependência à aplicação e, então, modificar diretamente a
+imagem Docker já criada.
+67 A configuração de variáveis de ambiente específicas em um
+contêiner Docker utilizando o comando docker create
+permite que essas variáveis sejam definidas antes da
+inicialização do contêiner, o que garante maior controle
+sobre o ambiente de execução.
+A respeito de gerência de contêineres e segurança com Docker,
+julgue os itens a seguir.
+68
+
+Para executar duas instâncias do PostgreSQL em contêineres
+separados, é correto utilizar os seguintes comandos,
+mapeando-se portas diferentes do host para a porta padrão do
+PostgreSQL (5432) no contêiner.
+docker run -d -p 5433:5432 --name postgres_dev
+postgres
+docker run -d -p 5434:5432 --name postgres_test
+postgres
+
+O Registry Access Management permite controlar quais
+registries os desenvolvedores podem acessar usando o
+Docker Desktop; esse recurso opera no nível de DNS e
+garante suporte a registries somente locais.
+70 No trecho de código a seguir, a opção -p mapeia uma porta
+específica do host para uma porta correspondente no
+contêiner, o que permite o acesso aos serviços em execução
+dentro do contêiner a partir do host.
+69
+
+docker run -d -p HOST_PORT:CONTAINER_PORT
+postgres
+
+
+CEBRASPE – MPCE – Edital: 2025
+
+Julgue os itens a seguir, a respeito dos conceitos de qualidade de
+software.
+71 Conforme o MR-MPS-SW:2024, a gerência da organização
+tem autoridade para direcionar a alocação ou a realocação de
+recursos para apoiar eficazmente a melhoria de processos
+organizacionais.
+72 O modelo MPS para software (MPS-SW) baseia-se nos
+requisitos de gestão de pessoas dos modelos e das normas
+que objetivam a definição, a avaliação e a melhoria dessa
+gestão, uma vez que o desenvolvimento de software é feito
+basicamente por pessoas devidamente formadas.
+73 De acordo com o modelo de referência MPS para software
+MR-MPS-SW:2024, o propósito do processo de gerência de
+projetos é estabelecer e manter atualizados os planos que
+definam
+atividades,
+recursos,
+riscos,
+prazos
+e
+responsabilidades do projeto.
+74 O
+modelo de referência MPS para software
+MR-MPS-SW:2024 determina que técnicas estatísticas e
+outras técnicas quantitativas devem ser utilizadas para
+determinar ou prever o alcance dos objetivos de qualidade e
+de desempenho dos processos.
+Julgue os seguintes itens, relativos a técnicas de visualização de
+dados em business intelligence, a data lakes e a regras de
+associação em mineração de dados.
+75 Embora os data lakes possam armazenar dados estruturados,
+como tabelas de bancos relacionais, eles não oferecem
+suporte para dados semiestruturados e não estruturados, tais
+como arquivos JSON, XML, imagens e vídeos.
+76 Em mineração de dados, as regras de associação podem ser
+utilizadas para identificar combinações recorrentes entre
+argumentos jurídicos e decisões judiciais, revelar padrões
+entre tipos de ação e desfechos processuais, e auxiliar na
+recomendação de precedentes com base em casos
+semelhantes.
+77 A utilização de gráficos de dispersão e histogramas em
+grandes conjuntos de dados permite visualizar a distribuição
+das variáveis e a correlação entre elas; a escolha das
+variáveis independentes e dependentes influencia a
+percepção de tendências e padrões.
+Espaço livre
+
+
+A seguir, são apresentadas as tabelas Pessoas, Processos e
+Partes que existem em um banco de dados: a primeira
+
+armazena dados acerca das pessoas envolvidas nos processos; a
+segunda armazena dados dos processos; e a terceira relaciona
+pessoas aos processos, com indicação do papel de cada uma
+(autor, réu, testemunha, etc.). Por fim, uma mesma pessoa pode
+estar envolvida em mais de um processo, e assumir diferentes
+papéis em cada um deles.
+Pessoas
+id_pessoa
+101
+102
+103
+104
+
+nome
+João da Silva
+Maria Souza
+Carlos Pereira
+Ana Lima
+
+Processos
+id_processo
+1
+2
+3
+4
+
+numero_processo
+20250012345
+20250067890
+20250111112
+20250155555
+
+Partes
+id_parte
+1
+2
+3
+4
+5
+
+id_processo
+1
+1
+2
+4
+2
+
+id_pessoa
+101
+102
+103
+104
+101
+
+tipo_parte
+autor
+réu
+testemunha
+réu
+réu
+
+A partir das informações apresentadas, julgue o item que se
+segue.
+78
+
+A execução da consulta SQL a seguir listará todos os
+processos, inclusive aqueles que ainda não têm partes
+associadas, e exibirá o nome das pessoas e os seus
+respectivos papéis nos processos em que estão envolvidas.
+SELECT
+p.numero_processo,
+ps.nome,
+pa.tipo_parte
+FROM Processos p
+LEFT JOIN Partes pa ON p.id_processo =
+pa.id_processo
+LEFT JOIN Pessoas ps ON pa.id_pessoa =
+ps.id_pessoa
+
+Acerca dos conceitos relacionados a business intelligence, julgue
+os itens que se seguem.
+79
+
+Na implementação do slowly changing dimension tipo 2, o
+valor antigo é sobrescrito pelo valor novo.
+
+80
+
+Dimensões degeneradas são atributos de evento inseridos
+diretamente na tabela de fatos, de modo que se dispensa a
+criação de uma tabela de dimensão dedicada.
+
+81
+
+Na abordagem bottom-up, deve-se, primeiro, criar data marts
+específicos para cada área de negócio, que serão posteriormente
+integrados em um data warehouse corporativo.
+
+
+CEBRASPE – MPCE – Edital: 2025
+
+A respeito de máquinas de vetores de suporte e de avaliação de
+modelos de regressão, julgue os próximos itens.
+82
+
+MSE (mean squared error) é uma medida usada para a
+avaliação da acurácia de modelos de classificação e
+representa a métrica de fidelidade de acerto de um modelo
+em relação ao atributo alvo (target attributes), portanto, pode
+ser utilizada para avaliar o desempenho de assertividade do
+modelo.
+
+83
+
+SVM (support vector machines) é um classificador não
+probabilístico que utiliza um hiperplano com margem
+máxima para separar dados em diferentes categorias,
+combina modelos lineares com técnicas de aprendizagem
+baseadas em instâncias e pode executar classificações
+lineares ou realizar classificações não lineares.
+
+Julgue os itens a seguir, em relação a técnicas de agrupamento, a
+técnicas de redução de dimensionalidade, e a processamento de
+linguagem natural.
+84
+
+Considere que se queira aplicar técnicas de processamento
+de linguagem natural na frase Paulo nasceu no Ceará,
+de forma tal que Paulo e Ceará sejam considerados,
+respectivamente, o nome da pessoa e o nome do local de
+nascimento dela. Nessa situação, é correto utilizar o
+NER (named entity recognition), pois, por meio da utilização
+do algoritmo K-means, os grupos relacionados aos termos
+que se deseja segmentar — no caso, pessoa e local — podem
+ser encontrados.
+
+85
+
+A análise de componentes principais (PCA) é uma técnica
+usada para enfatizar a variação e trazer os padrões fortes em
+um conjunto de dados, e pode ser utilizada para facilitar a
+exploração e visualização dos dados, pois permite a redução
+do número de dimensões de um sistema.
+
+86
+
+Nos algoritmos aglomerativos, ocorre primeiramente a
+classificação de cada objeto em um grupo e, então,
+combinam-se os grupos com base em suas proximidades,
+processo repetido até que exista um cluster, que inclua todos
+os objetos; já nos algoritmos divisivos, todos os pontos são
+inicialmente considerados como grupo único, subdividido
+sucessivamente até que alguma regra de parada seja
+satisfeita.
+
+Julgue os itens seguintes, relativos aos conceitos de Internet das
+coisas (IoT).
+87
+
+O broker MQTT é um dos hardwares mais populares
+empregados na arquitetura de IoT.
+
+88
+
+Sistemas de IoT demandam alto poder de computação, o que
+torna inviável a execução de arquiteturas de baixo custo.
+
+89
+
+A troca de dados com sistemas computacionais em nuvem é
+fundamental para que os dispositivos conectados a sistemas
+de IoT consigam se comunicar e, assim, permitir que haja
+aplicações desse tipo.
+
+
+A respeito de conceitos relacionados à computação em nuvem,
+julgue os itens que se seguem.
+90 Em uma nuvem Azure, os grandes desafios do estilo de
+arquitetura controlada por eventos são o tratamento de erros
+e a perda de dados, em razão de a comunicação ser
+assíncrona.
+91 As vantagens da computação em nuvem, em relação ao
+modelo tradicional, incluem as possibilidades de se testarem
+pilotos de uma nova solução em ambientes sem riscos, antes
+de efetivar a sua adoção em produção, tais como a agilidade
+para colocar novas aplicações no ar, e a elasticidade e
+escalabilidade do produto ou serviço.
+92 Nuvem pública é aquela em que os recursos computacionais
+dedicados a determinada organização estão isolados daqueles
+utilizados por outras empresas.
+93 Em computação em nuvem, escalabilidade é a capacidade
+que um sistema tem de se adaptar às alterações de carga de
+trabalho pela alocação e liberação de recursos, criando-se
+um ambiente elástico, isto é, que permite que a alocação e a
+liberação dinâmica de recursos ocorram de acordo com
+a demanda.
+Julgue os itens a seguir, referentes a ferramentas de integração
+assíncrona, microsserviços, arquitetura orientada a serviços e
+gerenciamento de serviços.
+94 As quatro dimensões da gestão de serviço do ITIL 4 —
+organizações e pessoas; informações e tecnologia; parceiros e
+fornecedores; e fluxos de valor e processos — são
+independentes entre si e não afetam a eficácia do sistema de
+valor de serviço.
+95 O WS-Security (web services security) utiliza XML signature e
+XML encryption para garantir a integridade e a
+confidencialidade das mensagens SOAP.
+96 No NATS CLI, um contexto é uma configuração nomeada
+que guarda definições como URLs de servidores, credenciais
+e certificados, o que facilita a alternância entre diferentes
+ambientes de conexão.
+97 Um API gateway é responsável pelo armazenamento de
+dados temporários, e, apesar de executar várias tarefas
+transversais, não realiza algumas funções, tais como
+terminação de SSL, TLS mútuo e limitação de taxa.
+A respeito de virtualização, consolidação de servidores e
+integração de plataforma alta com plataforma baixa, julgue os
+próximos itens.
+98 A consolidação de servidores reduz a quantidade de
+equipamentos físicos e melhora o gerenciamento dos
+recursos de um datacenter, mas gera o aumento dos custos
+com o consumo de energia em razão da necessidade de
+servidores mais potentes para a consolidação de muitos
+servidores virtuais.
+99 O barramento de serviço corporativo (ESB) é um padrão
+arquitetônico de software que oferece suporte ao intercâmbio
+de dado entre plataforma alta e plataforma baixa, no qual o
+componente endpoints converte mensagens entre diferentes
+formatos, protocolos e recursos de logs de mensagens.
+100 O VMware vSphere apresenta, entre outras camadas, a de
+infraestrutura, que virtualiza recursos do servidor com
+eficiência e os incorpora em pools lógicos que são alocados
+por aplicativos.
+101 O DRS (VMware Distributed Resource Scheduler) adiciona
+recursos de computação em clusters, e aloca-os
+dinamicamente na máquina virtual, com base na prioridade
+do negócio, reduzindo-se a complexidade do gerenciamento
+por meio de automação.
+
+
+CEBRASPE – MPCE – Edital: 2025
+
+Acerca de segurança da informação, segurança de datacenter,
+segurança de dispositivos e disponibilidade, julgue os itens a
+seguir.
+102 A proteção contra ataques de SQL injection é suficiente para
+
+impedir a exploração de vulnerabilidades XSS e CSRF em
+aplicações web.
+103 Um ataque de dicionário é comumente empregado contra
+
+criptografias que utilizam chaves longas e complexas.
+104 A NBR ISO/IEC 15408 é uma norma internacionalmente
+
+reconhecida para a avaliação da segurança de produtos e
+sistemas de tecnologia da informação.
+105 OAuth 2 é um protocolo que permite a autorização segura,
+
+sem revelar credenciais, enquanto JWT é um formato de
+token, que pode ser usado com OAuth 2 para transmitir
+informações de forma segura entre partes.
+106 A autenticação de dois fatores (MFA) utiliza apenas uma
+
+camada de segurança, que resulta da combinação de um fator
+de conhecimento com um fator de posse, como uma senha e
+um token físico.
+A respeito da arquitetura de sistemas distribuídos, julgue os itens
+que se seguem.
+107 Em sistemas distribuídos, técnicas de análise de desempenho
+
+e
+otimização
+de
+consultas
+(tuning)
+envolvem
+particionamento de dados entre nós, uso de cache
+distribuído, ajuste de parâmetros de redes, avaliação de
+latência e análise de balanceamento de carga, com o objetivo
+de melhorar a eficiência geral do sistema, assegurar sua
+consistência e reduzir o tempo de resposta das consultas.
+108 Enquanto o balanceamento de carga distribui as requisições
+
+entre os nós disponíveis, o fail-over assegura a continuidade
+do serviço em caso de falha de um nó, e a replicação de
+estado garante que os dados estejam duplicados ou
+sincronizados entre os nós.
+Acerca de arquitetura e tecnologias de sistemas de informações e
+de desenvolvimento de integrações, julgue os seguintes itens.
+109 A arquitetura de software em sistemas distribuídos costuma
+
+ser organizada em aplicações encapsuladas, comumente
+emprega o modelo MVC (model-view-controller) para
+separar as responsabilidades de apresentação, processamento
+e acesso a dados, ao custo de maiores manutenção,
+escalabilidade e flexibilidade.
+110 Os
+
+padrões de interoperabilidade estabelecidos pelo
+framework ePING foram desenvolvidos pelo governo
+brasileiro com o objetivo de assegurar a integração, a troca
+de informações e a comunicação segura e padronizada entre
+sistemas de diferentes órgãos públicos.
+
+111 A especificação de metadados, em sistemas distribuídos,
+
+desempenha um papel crucial no sincronismo dos servidores,
+garantindo-se conformidade e eficiência no armazenamento
+e na recuperação dos dados.
+
+
+Em relação a redes de computadores, julgue os itens a seguir.
+112 No padrão Fast Ethernet, a rede opera em taxas de até
+1 Gbps e são utilizados conectores RJ-45 para as conexões
+de rede.
+113 No modelo TCP/IP, a camada de transporte opera de forma
+independente da camada física da rede, por isso pode ser
+utilizada nas topologias em estrela, em barramento ou em
+malha.
+114 O TCP/IP transporta pacotes quando utiliza comutação de
+circuitos, por isso não é necessário que haja uma conexão
+dedicada para o estabelecimento de conexão entre dois
+computadores.
+115 No modelo OSI, a camada de rede suporta a conversão de
+formatos de dados e a criptografia para garantir a segurança
+da informação.
+116 No padrão IEEE 802.11g, a rede opera em 5 GHz e suporta
+taxas de até 100 Mbps.
+The business intelligence (BI) industry has been
+challenged with poor user adoption for years. Yet, many CIOs
+continue to push BI as a core initiative. Billions of dollars have
+been spent on traditional BI, but adoption rates are below 30%.
+Why? Successfully levering the full capabilities of business
+intelligence is still difficult to achieve, and product managers are
+searching for more. These individuals are looking for ways to
+expand the impact and value of their BI tools but are lost about
+where to start.
+The overall goal of BI is to provide business teams with
+the proper data and information at the right time to create
+insightful, data-driven decision-making. However, these
+solutions fall short and continually fail the industry through
+inefficiency, hefty costs, and an overall lack of value and
+insightful data production.
+Currently, traditional BI solutions force users to exit their
+current workflow to even attempt and secure any valuable data.
+When your team is operating in the middle of their workflow and
+needs data to inform a decision, they shouldn’t have to exit the
+application to enter yet another application, gather data and then
+jump back in. The likelihood of delays in report deliverability
+also factors into this headache. This process dramatically slows
+down any workflow and causes frustration for employees,
+especially when the data secured isn’t always useful.
+Additionally, many BI tools are not designed for business
+users but instead for more technical individuals within the
+organization. Traditional vendors often try to cover the
+complexity of their solution with self-service options and
+features, but users continue to feel like they need an advanced
+engineering or computer science degree to navigate them. This
+sucks up valuable time for non-technical users as they work to
+navigate a difficult platform to get the information they need.
+Internet: <rtinsights.com> (adapted).
+
+Based on the previous text, judge the following items.
+117 It is correct to conclude from the text that one main
+hindrance to the successful implementation of BI is the need
+to stop ongoing operations to gather and secure data.
+118 According to the text, overall, BI solutions are not
+accomplishing the purpose they were designed for, since
+they have not been able to provide timely and readily
+available data to business users within their working cycles.
+119 The most frequent reason for low BI adoption is that users
+discover provided data ever-more insightful and directly
+applicable in the current workflow.
+120 The text states that many CIOs are abandoning BI initiatives
+due to reported low user adoption rates and high costs.
+
+
+CEBRASPE – MPCE – Edital: 2025
+
+Espaço livre
+
+

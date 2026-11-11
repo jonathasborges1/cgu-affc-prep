@@ -1,0 +1,506 @@
+{
+  "bloco": "P2",
+  "n": 60,
+  "status": "aguarda_classificacao_semantica",
+  "metodo": "deduplicacao por item e texto normalizado; sorteio sem reposicao dentro de tercis de score",
+  "semente": 20261109,
+  "populacao_elegivel": 553,
+  "populacao_por_estrato": {
+    "baixo": 184,
+    "medio": 184,
+    "alto": 185
+  },
+  "amostra_por_estrato": {
+    "baixo": 20,
+    "medio": 20,
+    "alto": 20
+  },
+  "peso_expansao_por_estrato": {
+    "baixo": 9.2,
+    "medio": 9.2,
+    "alto": 9.25
+  },
+  "excluidos_auditoria_anterior": 55,
+  "rotulos_ocultos": [
+    {
+      "id": "cego-v2-p2-001",
+      "origem": "v1-10-09",
+      "estrato": "baixo",
+      "score_original": 10.58,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-v2-p2-002",
+      "origem": "v1-10-24",
+      "estrato": "baixo",
+      "score_original": 10.58,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.2"
+    },
+    {
+      "id": "cego-v2-p2-003",
+      "origem": "v1-10-29",
+      "estrato": "baixo",
+      "score_original": 10.17,
+      "triagem": "P2·EVID 5",
+      "edital_prov": "P2·EVID 5.1"
+    },
+    {
+      "id": "cego-v2-p2-004",
+      "origem": "v1-11-19",
+      "estrato": "baixo",
+      "score_original": 10.16,
+      "triagem": "P2·GOV 4",
+      "edital_prov": "P2·GOV 4.2"
+    },
+    {
+      "id": "cego-v2-p2-005",
+      "origem": "v1-11-44",
+      "estrato": "baixo",
+      "score_original": 10.44,
+      "triagem": "P2·EVID 5",
+      "edital_prov": "P2·EVID 5"
+    },
+    {
+      "id": "cego-v2-p2-006",
+      "origem": "v1-11-46",
+      "estrato": "baixo",
+      "score_original": 10.6,
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.1"
+    },
+    {
+      "id": "cego-v2-p2-007",
+      "origem": "v1-12-22",
+      "estrato": "baixo",
+      "score_original": 10.2,
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.2"
+    },
+    {
+      "id": "cego-v2-p2-008",
+      "origem": "v1-13-27",
+      "estrato": "baixo",
+      "score_original": 10.43,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-v2-p2-009",
+      "origem": "v1-14-06",
+      "estrato": "baixo",
+      "score_original": 10.39,
+      "triagem": "P2·GOV 4",
+      "edital_prov": "P2·GOV 4.2"
+    },
+    {
+      "id": "cego-v2-p2-010",
+      "origem": "v1-3-14",
+      "estrato": "baixo",
+      "score_original": 10.25,
+      "triagem": "P2·TRANSP 2",
+      "edital_prov": "P2·TRANSP 2.1"
+    },
+    {
+      "id": "cego-v2-p2-011",
+      "origem": "v1-3-30",
+      "estrato": "baixo",
+      "score_original": 10.22,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-v2-p2-012",
+      "origem": "v1-4-11",
+      "estrato": "baixo",
+      "score_original": 10.35,
+      "triagem": "P2·GOV 5",
+      "edital_prov": "P2·GOV 5.3"
+    },
+    {
+      "id": "cego-v2-p2-013",
+      "origem": "v1-4-24",
+      "estrato": "baixo",
+      "score_original": 10.73,
+      "triagem": "P2·GOV 4",
+      "edital_prov": "P2·GOV 4.2"
+    },
+    {
+      "id": "cego-v2-p2-014",
+      "origem": "v1-5-03",
+      "estrato": "baixo",
+      "score_original": 10.81,
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-v2-p2-015",
+      "origem": "v1-5-30",
+      "estrato": "baixo",
+      "score_original": 10.2,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.1"
+    },
+    {
+      "id": "cego-v2-p2-016",
+      "origem": "v1-5-39",
+      "estrato": "baixo",
+      "score_original": 10.77,
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.2"
+    },
+    {
+      "id": "cego-v2-p2-017",
+      "origem": "v1-6-40",
+      "estrato": "baixo",
+      "score_original": 10.2,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.1"
+    },
+    {
+      "id": "cego-v2-p2-018",
+      "origem": "v1-7-01",
+      "estrato": "baixo",
+      "score_original": 10.45,
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.1"
+    },
+    {
+      "id": "cego-v2-p2-019",
+      "origem": "v1-7-34",
+      "estrato": "baixo",
+      "score_original": 10.6,
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.1"
+    },
+    {
+      "id": "cego-v2-p2-020",
+      "origem": "v1-8-22",
+      "estrato": "baixo",
+      "score_original": 10.37,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-v2-p2-021",
+      "origem": "v1-1-10",
+      "estrato": "medio",
+      "score_original": 12.29,
+      "triagem": "P2·TRANSP 4",
+      "edital_prov": "P2·TRANSP 4.2"
+    },
+    {
+      "id": "cego-v2-p2-022",
+      "origem": "v1-10-44",
+      "estrato": "medio",
+      "score_original": 10.97,
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-v2-p2-023",
+      "origem": "v1-11-22",
+      "estrato": "medio",
+      "score_original": 11.3,
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.1"
+    },
+    {
+      "id": "cego-v2-p2-024",
+      "origem": "v1-11-26",
+      "estrato": "medio",
+      "score_original": 12.06,
+      "triagem": "P2·AUD 3",
+      "edital_prov": "P2·AUD 3.2"
+    },
+    {
+      "id": "cego-v2-p2-025",
+      "origem": "v1-11-30",
+      "estrato": "medio",
+      "score_original": 11.83,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.2"
+    },
+    {
+      "id": "cego-v2-p2-026",
+      "origem": "v1-12-12",
+      "estrato": "medio",
+      "score_original": 11.13,
+      "triagem": "P2·DIR 3",
+      "edital_prov": "P2·DIR 3.1"
+    },
+    {
+      "id": "cego-v2-p2-027",
+      "origem": "v1-13-19",
+      "estrato": "medio",
+      "score_original": 11.38,
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.1"
+    },
+    {
+      "id": "cego-v2-p2-028",
+      "origem": "v1-13-31",
+      "estrato": "medio",
+      "score_original": 11.25,
+      "triagem": "P2·TRANSP 2",
+      "edital_prov": "P2·TRANSP 2.1"
+    },
+    {
+      "id": "cego-v2-p2-029",
+      "origem": "v1-14-23",
+      "estrato": "medio",
+      "score_original": 11.26,
+      "triagem": "P2·DIR 1",
+      "edital_prov": "P2·DIR 1"
+    },
+    {
+      "id": "cego-v2-p2-030",
+      "origem": "v1-14-25",
+      "estrato": "medio",
+      "score_original": 12.18,
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    },
+    {
+      "id": "cego-v2-p2-031",
+      "origem": "v1-3-32",
+      "estrato": "medio",
+      "score_original": 11.27,
+      "triagem": "P2·EVID 5",
+      "edital_prov": "P2·EVID 5.1"
+    },
+    {
+      "id": "cego-v2-p2-032",
+      "origem": "v1-4-14",
+      "estrato": "medio",
+      "score_original": 12.15,
+      "triagem": "P2·TRANSP 4",
+      "edital_prov": "P2·TRANSP 4.4"
+    },
+    {
+      "id": "cego-v2-p2-033",
+      "origem": "v1-4-23",
+      "estrato": "medio",
+      "score_original": 10.95,
+      "triagem": "P2·AUD 5",
+      "edital_prov": "P2·AUD 5.2"
+    },
+    {
+      "id": "cego-v2-p2-034",
+      "origem": "v1-5-05",
+      "estrato": "medio",
+      "score_original": 11.86,
+      "triagem": "P2·TRANSP 3",
+      "edital_prov": "P2·TRANSP 3.3"
+    },
+    {
+      "id": "cego-v2-p2-035",
+      "origem": "v1-5-25",
+      "estrato": "medio",
+      "score_original": 11.96,
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.2"
+    },
+    {
+      "id": "cego-v2-p2-036",
+      "origem": "v1-6-03",
+      "estrato": "medio",
+      "score_original": 10.97,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.2"
+    },
+    {
+      "id": "cego-v2-p2-037",
+      "origem": "v1-6-45",
+      "estrato": "medio",
+      "score_original": 10.97,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.2"
+    },
+    {
+      "id": "cego-v2-p2-038",
+      "origem": "v1-6-46",
+      "estrato": "medio",
+      "score_original": 10.97,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.2"
+    },
+    {
+      "id": "cego-v2-p2-039",
+      "origem": "v1-8-46",
+      "estrato": "medio",
+      "score_original": 11.68,
+      "triagem": "P2·TRANSP 2",
+      "edital_prov": "P2·TRANSP 2.1"
+    },
+    {
+      "id": "cego-v2-p2-040",
+      "origem": "v1-8-50",
+      "estrato": "medio",
+      "score_original": 11.26,
+      "triagem": "P2·TRANSP 2",
+      "edital_prov": "P2·TRANSP 2.2"
+    },
+    {
+      "id": "cego-v2-p2-041",
+      "origem": "v1-1-02",
+      "estrato": "alto",
+      "score_original": 14.13,
+      "triagem": "P2·AUD 5",
+      "edital_prov": "P2·AUD 5.1"
+    },
+    {
+      "id": "cego-v2-p2-042",
+      "origem": "v1-1-32",
+      "estrato": "alto",
+      "score_original": 12.8,
+      "triagem": "P2·AUD 2",
+      "edital_prov": "P2·AUD 2.3"
+    },
+    {
+      "id": "cego-v2-p2-043",
+      "origem": "v1-10-10",
+      "estrato": "alto",
+      "score_original": 12.78,
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.1"
+    },
+    {
+      "id": "cego-v2-p2-044",
+      "origem": "v1-10-23",
+      "estrato": "alto",
+      "score_original": 16.4,
+      "triagem": "P2·DIR 2",
+      "edital_prov": "P2·DIR 2"
+    },
+    {
+      "id": "cego-v2-p2-045",
+      "origem": "v1-11-40",
+      "estrato": "alto",
+      "score_original": 12.77,
+      "triagem": "P2·TRANSP 4",
+      "edital_prov": "P2·TRANSP 4.1"
+    },
+    {
+      "id": "cego-v2-p2-046",
+      "origem": "v1-12-06",
+      "estrato": "alto",
+      "score_original": 13.34,
+      "triagem": "P2·GOV 3",
+      "edital_prov": "P2·GOV 3.1"
+    },
+    {
+      "id": "cego-v2-p2-047",
+      "origem": "v1-12-37",
+      "estrato": "alto",
+      "score_original": 16.98,
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-v2-p2-048",
+      "origem": "v1-12-43",
+      "estrato": "alto",
+      "score_original": 14.09,
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.1"
+    },
+    {
+      "id": "cego-v2-p2-049",
+      "origem": "v1-13-03",
+      "estrato": "alto",
+      "score_original": 15.02,
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-v2-p2-050",
+      "origem": "v1-13-46",
+      "estrato": "alto",
+      "score_original": 15.97,
+      "triagem": "P2·GOV 3",
+      "edital_prov": "P2·GOV 3.1"
+    },
+    {
+      "id": "cego-v2-p2-051",
+      "origem": "v1-14-04",
+      "estrato": "alto",
+      "score_original": 13.07,
+      "triagem": "P2·DIR 4",
+      "edital_prov": "P2·DIR 4.2"
+    },
+    {
+      "id": "cego-v2-p2-052",
+      "origem": "v1-14-12",
+      "estrato": "alto",
+      "score_original": 12.47,
+      "triagem": "P2·AUD 2",
+      "edital_prov": "P2·AUD 2.2"
+    },
+    {
+      "id": "cego-v2-p2-053",
+      "origem": "v1-2-02",
+      "estrato": "alto",
+      "score_original": 12.67,
+      "triagem": "P2·TRANSP 5",
+      "edital_prov": "P2·TRANSP 5.3"
+    },
+    {
+      "id": "cego-v2-p2-054",
+      "origem": "v1-2-06",
+      "estrato": "alto",
+      "score_original": 16.4,
+      "triagem": "P2·DIR 2",
+      "edital_prov": "P2·DIR 2"
+    },
+    {
+      "id": "cego-v2-p2-055",
+      "origem": "v1-6-10",
+      "estrato": "alto",
+      "score_original": 13.91,
+      "triagem": "P2·AUD 4",
+      "edital_prov": "P2·AUD 4.2"
+    },
+    {
+      "id": "cego-v2-p2-056",
+      "origem": "v1-6-17",
+      "estrato": "alto",
+      "score_original": 12.76,
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    },
+    {
+      "id": "cego-v2-p2-057",
+      "origem": "v1-7-22",
+      "estrato": "alto",
+      "score_original": 13.87,
+      "triagem": "P2·AUD 4",
+      "edital_prov": "P2·AUD 4.2"
+    },
+    {
+      "id": "cego-v2-p2-058",
+      "origem": "v1-7-28",
+      "estrato": "alto",
+      "score_original": 12.68,
+      "triagem": "P2·GOV 4",
+      "edital_prov": "P2·GOV 4.1"
+    },
+    {
+      "id": "cego-v2-p2-059",
+      "origem": "v1-8-26",
+      "estrato": "alto",
+      "score_original": 15.79,
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-v2-p2-060",
+      "origem": "v1-9-44",
+      "estrato": "alto",
+      "score_original": 14.26,
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    }
+  ]
+}

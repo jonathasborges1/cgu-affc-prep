@@ -1,0 +1,50 @@
+{"id":"v1-6-01","codigo":"P2·GOV 1","rel":"media","motivo":"comitê de governança"}
+{"id":"v1-6-02","codigo":"OUTRO","rel":"fora","motivo":"nuvem"}
+{"id":"v1-6-03","codigo":"OUTRO","rel":"fora","motivo":"Scrum"}
+{"id":"v1-6-04","codigo":"P2·AUD 1","rel":"alta","motivo":"ceticismo profissional"}
+{"id":"v1-6-05","codigo":"P2·GOV 2","rel":"alta","motivo":"risco inerente x residual"}
+{"id":"v1-6-06","codigo":"OUTRO","rel":"fora","motivo":"nuvem"}
+{"id":"v1-6-07","codigo":"OUTRO","rel":"fora","motivo":"concessões"}
+{"id":"v1-6-08","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-6-09","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-6-10","codigo":"P2·AUD 4","rel":"alta","motivo":"conteúdo do relatório de auditoria"}
+{"id":"v1-6-11","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-6-12","codigo":"P2·DIR 4","rel":"media","motivo":"tomada de contas especial"}
+{"id":"v1-6-13","codigo":"P2·TRANSP 2","rel":"alta","motivo":"compartilhamento de dados pessoais"}
+{"id":"v1-6-14","codigo":"OUTRO","rel":"fora","motivo":"DNS"}
+{"id":"v1-6-15","codigo":"OUTRO","rel":"fora","motivo":"cultura organizacional"}
+{"id":"v1-6-16","codigo":"P2·GOV 2","rel":"alta","motivo":"segregação de funções patrimoniais"}
+{"id":"v1-6-17","codigo":"P2·AUD 2","rel":"baixa","motivo":"avaliação de controles na auditoria"}
+{"id":"v1-6-18","codigo":"OUTRO","rel":"fora","motivo":"obras"}
+{"id":"v1-6-19","codigo":"P2·EVID 3","rel":"media","motivo":"seleção e representatividade"}
+{"id":"v1-6-20","codigo":"OUTRO","rel":"fora","motivo":"SWOT"}
+{"id":"v1-6-21","codigo":"OUTRO","rel":"fora","motivo":"web semântica"}
+{"id":"v1-6-22","codigo":"P2·TRANSP 4","rel":"alta","motivo":"controle social e transparência"}
+{"id":"v1-6-23","codigo":"OUTRO","rel":"fora","motivo":"eficiência (P1)"}
+{"id":"v1-6-24","codigo":"OUTRO","rel":"fora","motivo":"ISO 27001"}
+{"id":"v1-6-25","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-6-26","codigo":"P2·AUD 2","rel":"alta","motivo":"critérios de auditoria operacional"}
+{"id":"v1-6-27","codigo":"OUTRO","rel":"fora","motivo":"ISO 27005"}
+{"id":"v1-6-28","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-6-29","codigo":"P2·TRANSP 2","rel":"baixa","motivo":"LGPD e empresas estatais"}
+{"id":"v1-6-30","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-6-31","codigo":"P2·DIR 3","rel":"media","motivo":"direito de petição"}
+{"id":"v1-6-32","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-6-33","codigo":"P2·TRANSP 1","rel":"media","motivo":"eliminação de documento classificado"}
+{"id":"v1-6-34","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}
+{"id":"v1-6-35","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-6-36","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-6-37","codigo":"OUTRO","rel":"fora","motivo":"desempenho organizacional"}
+{"id":"v1-6-38","codigo":"OUTRO","rel":"fora","motivo":"MongoDB"}
+{"id":"v1-6-39","codigo":"OUTRO","rel":"fora","motivo":"licitação"}
+{"id":"v1-6-40","codigo":"OUTRO","rel":"fora","motivo":"probabilidade"}
+{"id":"v1-6-41","codigo":"OUTRO","rel":"fora","motivo":"composição do tribunal"}
+{"id":"v1-6-42","codigo":"P2·DIR 3","rel":"media","motivo":"autocontrole administrativo"}
+{"id":"v1-6-43","codigo":"OUTRO","rel":"fora","motivo":"obras"}
+{"id":"v1-6-44","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-6-45","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-6-46","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-6-47","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-6-48","codigo":"OUTRO","rel":"fora","motivo":"nuvem"}
+{"id":"v1-6-49","codigo":"OUTRO","rel":"fora","motivo":"engenharia"}
+{"id":"v1-6-50","codigo":"OUTRO","rel":"fora","motivo":"estatística"}

@@ -1,0 +1,332 @@
+    89301601559768
+
+                                 -- CONHECIMENTO
+A respeito dos motores elétricos e transformadores, julgue os
+itens a seguir.
+51 Uma das vantagens do autotransformador é a isolação mais
+     simples entre a bobina do primário e o enrolamento do
+     secundário.
+52 O comutador inverte o sentido da corrente que circula nas
+     bobinas da armadura, garantindo a repulsão contínua entre os
+     campos do estator e do rotor.
+53 Em uma ligação paralela de um motor CC, o enrolamento da
+     armadura e o enrolamento shunt do estator estão ligados em
+     paralelo com a alimentação.
+54 Em um motor de fase dividida, o enrolamento auxiliar deve
+     permanecer ligado durante toda a sua operação para evitar
+     que a tensão nominal do motor seja ultrapassada.
+
+
+
+
+Considerando o circuito da figura anterior e as características e
+aplicações de dispositivos eletrônicos, julgue os itens
+subsequentes.
+55 Uma das vantagens do transistor MOS é a robustez quanto à
+     eletricidade estática, se comparado ao bipolar de junção.
+56 Os níveis lógicos do circuito apresentado flutuam de acordo
+     com as dimensões relativas dos transistores.
+57 No circuito apresentado, se a tensão de entrada for o nível 0
+     lógico, a saída será o nível 1 lógico.
+58 No circuito apresentado, a potência consumida sem mudança
+     de estado lógico é igual à metade da potência consumida
+     pela transição.
+Julgue os itens seguintes, relativos à eletrônica digital.
+59 Em registradores, a entrada de clock é utilizada quando se
+    deseja realizar uma transferência de dados síncrona.
+60 O flip-flop tipo D pode ser implementado a partir de um
+    flip-flop J-K.
+61 Um circuito subtrator paralelo de quatro bits utiliza quatro
+    circuitos meio-subtratores.
+62 Se, no circuito apresentado na figura a seguir, ambas as
+    entradas S e C forem iguais a 0, a saída Q será igual a 0.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS --
+         Um aparelho de ar-condicionado é alimentado por um
+ circuito com condutores de bitola igual a 2,5 mm2 e protegido no
+ quadro por um disjuntor de 16 A, curva B. O sistema apresenta
+ falhas na abertura não programada do disjuntor, sem que seja
+ verificado qualquer curto-circuito. O circuito é considerado
+ longo, já que o aparelho encontra-se a uma distância considerável
+ do quadro de distribuição do pavimento.
+ Com base na situação hipotética descrita e na tabela seguinte,
+ julgue os itens subsecutivos.
+              capacidade de condução de corrente
+             seções nominais (mm2)   corrente (A)
+                      1,5                14,5
+                      2,5                19,5
+                      4,0                26,0
+
+ 63 Como o circuito que alimenta o ar-condicionado é longo, a
+    fim de diminuir a queda de tensão, a bitola da fiação deve ser
+    aumentada.
+ 64 Uma possibilidade de solução do problema é a substituição
+    do disjuntor de 16 A por um de 25 A.
+ 65 Para aumentar a eficiência dos gastos nas instalações
+    elétricas, o circuito do ar-condicionado pode ser
+    compartilhado com o circuito de iluminação, desde que
+    esteja na mesma sala onde está localizado o aparelho.
+ 66 Caso o acionamento do disjuntor seja devido à corrente de
+    partida do aparelho de ar-condicionado, a troca do disjuntor
+    por um de curva C, mantendo o mesmo dimensionamento de
+    16 A, pode solucionar o problema.
+
+
+
+
+ Julgue os itens que se seguem, relativos ao circuito elétrico
+ presente na figura acima.
+ 67 O circuito pode ser representado por uma equação
+     diferencial de terceira ordem.
+ 68   A frequência de ressonância do circuito é √10 rad/s.
+ 69   O circuito apresentado é subamortecido.
+ 70   O coeficiente de amortecimento do circuito é maior que 2.
+ A respeito dos sistemas mecânicos e dos seus componentes,
+ julgue os itens a seguir.
+ 71 O ângulo do perfil de uma rosca equivale ao ângulo de
+     conicidade de uma rosca cônica.
+ 72 Um feixe de molas equivale a um conjunto de chapas ou
+     barras planas empilhadas e é utilizado em mecanismos de
+     relógios de parede.
+ 73 Uma engrenagem helicoidal tem os seus dentes alinhados na
+     direção do seu eixo de revolução e é usada para transmitir
+     movimento entre dois eixos paralelos.
+ 74 O projeto de uma chaveta envolve a determinação das
+     tolerâncias de ajuste, para possibilitar a montagem no rasgo
+     do par de peças como engrenagem e eixo.
+ 75 O rebite é um elemento projetado para a união permanente
+     de duas peças mecânicas e sua fixação envolve aplicação de
+     esforço mecânico para deformação plástica do seu corpo.
+
+     89301601559768
+
+Com relação aos materiais e processos de fabricação de
+componentes mecânicos, julgue os itens que se seguem.
+76   Os problemas de corrosão na superfície de componentes
+     metálicos fabricados por usinagem podem ser reduzidos pela
+     ação mecânica de polimento, uma vez que esse remove
+     irregularidades como sulcos provenientes do processamento.
+77   O aumento da temperatura de operação de uma tubulação de
+     aço inoxidável, na qual passa um gás sob pressão constante,
+     pode promover o processo de deformação plástica e fratura
+     por fluência do material.
+78   Uma tensão de tração estática de intensidade constante, com
+     valor abaixo do limite de escoamento do material, pode
+     proporcionar uma deformação plástica e até a ruptura por
+     fadiga de um parafuso de metal ferroso.
+79   O módulo de elasticidade elevado de uma borracha sintética,
+     em comparação com o aço, é uma propriedade mecânica
+     requerida para a fabricação de componentes projetados para
+     amortecer vibrações.
+80   A dureza é uma propriedade mecânica cujo valor é alto em
+     materiais cerâmicos, e sua medição pode ser feita pela
+     penetração de uma esfera de aço temperado na superfície do
+     material, com a leitura dos valores feita na escala de dureza
+     Mohs.
+81   A tenacidade é uma propriedade requerida do material
+     projetado para a fabricação de para-choques de veículos,
+     essencial para absorver a energia de impacto.
+
+A respeito de mecânica dos fluidos, julgue os itens a seguir.
+82 A perda de carga no escoamento de um óleo em um tubo liso
+   é maior que a perda de carga do escoamento desse mesmo
+   fluido em um tubo rugoso.
+83 A força de arrasto de um objeto metálico inserido em uma
+   tubulação é maior quando se trata do escoamento de água,
+   em relação ao escoamento de óleo, para as mesmas
+   condições de velocidade e temperatura.
+84 A medição de vazão pode ser feita a partir da medição da
+   velocidade do fluxo do fluido que passa por um duto.
+85 A presença de danos como cavidades nas superfícies de pás
+   de turbinas hidráulicas pode ser resultante da ocorrência do
+   fenômeno da cavitação.
+
+Com relação às atividades de engenharia de manutenção, julgue
+os itens a seguir.
+86   O monitoramento do funcionamento de um motor elétrico,
+     por meio da medição da temperatura da carcaça, possibilita a
+     realização de ações de manutenção preditiva.
+87   O aterramento das instalações elétricas industriais deve ser
+     feito e verificado periodicamente para proteger as pessoas de
+     eventuais descargas elétricas.
+88   A manutenção de compressores de pistão envolve a
+     verificação periódica da tensão das correias e do
+     funcionamento das válvulas de sucção e descarga.
+89   A presença de uma válvula de segurança em um circuito
+     hidráulico permite regular a vazão de fluido que passa em
+     uma tubulação.
+90   A umidade do ar em um circuito industrial de ar comprimido
+     pode ser extraída pela presença de válvulas conhecidas como
+     válvulas de bloqueio.
+
+                      CEBRASPE – DATAPREV – Edital: 2023
+A respeito de TIER datacenter, sistemas de climatização, de
+proteção contra incêndio e de segurança física em datacenters,
+julgue os itens a seguir.
+91 Na definição dos critérios para a gestão de datacenter, a
+   norma EIA/TIA 942 demonstra a clara necessidade de
+   observação a tipos de redundância, suprimento de energia,
+   sistema de detecção de combate a incêndio, manutenção
+   preventiva e treinamento das equipes.
+92 Na definição da arquitetura do datacenter, a norma EIA/TIA
+   942 prevê redundância de climatização, mas não menciona o
+   caminho nem a distribuição dos espaços do datacenter.
+93 Nos datacenters com a certificação TIER III, existe uma
+   única fonte de energia.
+
+Julgue os itens seguintes, relativos à gestão de projetos de
+ambientes críticos.
+94   Para fins de cálculo de disponibilidade de um sistema ou
+     equipamento, deve-se levar em conta a teoria da
+     probabilidade, não sendo necessário considerar a
+     configuração dos componentes.
+95   Confiabilidade, resiliência, sustentabilidade, funcionalidade
+     e disponibilidade são objetivos da gestão de disponibilidade.
+
+No que se refere à proteção contra incêndios e a sistemas de
+segurança física, julgue os seguintes itens.
+96   Ao se definir o sistema de proteção contra incêndio, é
+     preciso analisar, entre outros fatores, o ganho do valor do
+     seguro dos equipamentos que serão trocados após serem
+     perdidos.
+97   Em projetos de design para datacenters TIER III
+     certificados, deve ser considerada a norma NFPA 2001, que
+     apresenta diretrizes para projetos de agentes limpos.
+
+No que se refere a sistemas de climatização, julgue os itens
+seguintes.
+98   O sistema de climatização em um datacenter TIER III
+     certificado deve possuir os requisitos do datacenter TIER II,
+     porém com unidades redundantes suficientes para mitigar
+     falhas de manutenção no quadro elétrico.
+99   Nos datacenters TIER IV, de acordo com a norma
+     ANSI/TIA-942, é minimamente necessária a construção de
+     redundância tipo N+2 para grupos motogeradores, sistemas
+     UPS e topologia de distribuição de alimentação de cargas
+     conectadas às cargas críticas de tecnologia da informação
+     (TI).
+100 No sistema de climatização de um datacenter TIER III, deve
+     haver controle de umidade relativa do ar e sistema
+     redundante de energia ligado ao gerador principal.
+
+Acerca de monitoramento e gestão de datacenter, julgue os itens
+a seguir.
+101 O monitoramento de um datacenter é necessário para o
+     atendimento a três eixos, a saber: economia, disponibilidade
+     e gestão.
+102 Segundo a norma ABNT NBR 14565, é obrigatório haver
+     monitoramento e automação remotos de todos os
+     subsistemas que contemplam o projeto de um datacenter
+     certificado.
+
+    89301601559768
+
+
+                tabela A (equipamentos de apoio)
+  iluminação                               1%         100
+  transformadores                          3%         300
+  distribuição de energia                  1%         100
+  UPS                                      5%         500
+  refrigeração                             38%        3.800
+  consumo total dos sistemas de apoio
+  (watts)
+
+                 tabela B (equipamentos de TI)
+  processadores                            15%        1.500
+  fontes de energia                        14%        1.400
+  armazenamento (storage)                  4%         400
+  equipamentos de comunicação              4%         400
+  outros                                   15%        1.500
+  consumo de energia dos equipamentos
+  de TI (watts)
+Com base nas informações das tabelas precedentes, que se
+referem à quantidade de carga consumida em um datacenter, e
+considerando que o índice de potência efetivamente usada (PUE)
+é um importante indicador para medir a eficiência energética
+desse sistema, julgue os itens a seguir.
+103 O PUE calculado para o datacenter é de 1,92.
+104 Sabendo-se que, no cálculo do PUE, relaciona-se o consumo
+    dos equipamentos críticos de TI com o consumo total do site,
+    é correto afirmar que, quanto menor for o valor do PUE,
+    melhor será a eficiência energética do datacenter.
+105 Considerando-se o resultado do cálculo do PUE desse
+    datacenter, é correto afirmar que, para cada watt de potência
+    entregue à carga de TI, são consumidos três watts de
+    potência adicionais para a distribuição de energia e o
+    arrefecimento dos equipamentos de TI.
+106 Com base nos dados apresentados nas referidas tabelas, é
+    correto afirmar que o índice de eficiência desse datacenter é
+    de 48%, o que significa dizer que, de 100% da energia que é
+    injetada, somente 48% chegam alimentando a carga em TI e
+    o restante é consumido antes de chegar à carga de TI.
+Julgue os itens a seguir, relativos a gerenciamento eficaz da
+manutenção e segurança em instalações de TI.
+107 A arquitetura da hiperconvergência pode ser utilizada para a
+    melhoria da interoperabilidade de um datacenter, uma vez
+    que ela é um sistema unificado e definido por software que
+    combina todos os elementos de um ambiente de alta
+    disponibilidade.
+108 Os quatro pilares de uma gestão de segurança de datacenter
+    são: segurança física, segurança contra indisponibilidade,
+    segurança ambiental e segurança lógica.
+109 A MDA (main distribution area) deve estar localizada
+    dentro da sala de computadores para garantir a segurança
+    física das instalações de TI.
+110 A HDA (horizontal distribution area) conecta as áreas de
+    distribuição de equipamentos e está situada na sala de
+    computadores.
+Julgue os próximos itens, relativos a gerenciamento de projetos,
+de acordo com o PMBOK 7.ª edição.
+111 Um dos princípios estipulados pelo PMBOK 7.ª edição é o
+    enfoque no valor, segundo o qual valor é o indicador de
+    sucesso definitivo do projeto; nesse sentido, as equipes
+    podem, para apoiar a percepção de valor dos projetos, alterar
+    o foco das entregas para os resultados pretendidos.
+112 Os domínios de desempenhos são executados em sprints em
+    sequência de importância.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+Julgue os itens seguintes, relativos à gestão de riscos.
+113 A análise de riscos inclui a consideração das causas e fontes
+    de risco, a probabilidade de ocorrer um evento específico, a
+    probabilidade de que este evento provoque consequências e a
+    gravidade dessas eventuais consequências.
+114 Na gestão de riscos, o nível de risco refere-se à significância
+    de um risco, demonstrada pela combinação das
+    consequências e de seu impacto.
+Considerando a ITIL 4, julgue os itens a seguir.
+115 A solicitação de um usuário que inicia uma ação de serviço
+    acordada como parte regular da entrega de serviço deve ser
+    gerenciada pela prática de gerenciamento de incidente, de
+    modo que se restaure a operação normal do serviço o mais
+    rápido possível.
+116 A prática de gerenciamento de segurança da informação tem
+    como objetivo principal a elaboração e manutenção da
+    política de segurança da informação da organização.
+Com base no COBIT 2019, julgue os próximos itens.
+117 No domínio entrega, serviço e suporte (DSS), há processos
+    relacionados ao gerenciamento de solicitações e de
+    incidentes de serviço, assim como ao gerenciamento de
+    problemas e de continuidade.
+118 O processo estratégia gerenciada do domínio alinhar,
+    planejar e organizar (APO) visa garantir que cada iniciativa
+    da organização esteja claramente conectada a uma estratégia
+    abrangente, de modo que haja transformação digital na
+    organização.
+No que se refere ao uso da notação BPMN para a gestão de
+processos e para a modelagem de processos de negócio, julgue os
+itens que se seguem.
+119 De acordo com a notação BPMN apresentada na figura a
+    seguir, a Tarefa 2 (#2) e a Tarefa 3 (#3) serão executadas
+    concomitantemente.
+
+
+
+
+120 De acordo com a notação BPMN apresentada na figura a
+    seguir, apenas uma das tarefas #1, #2 e #3 será executada,
+    ou seja, no momento de decisão (#Decisão), um único
+    caminho deverá ser seguido.
+

@@ -1,0 +1,393 @@
+89301801621405
+
+-- CONHECIMENTO
+Acerca de licitações e contratos administrativos, de acordo com a
+Lei n.º 14.133/2021, julgue os itens a seguir.
+51 O leilão é a modalidade de licitação para alienação apenas de
+bens móveis inservíveis a quem oferecer o maior lance.
+52 Na modalidade de licitação denominada diálogo
+competitivo, os licitantes previamente selecionados devem
+apresentar as respectivas propostas finais após o término das
+conversações.
+53 Mesmo que os objetos permitam a adoção de minutas
+padronizadas, a administração deve adotar minutas distintas
+de edital e de contrato para cada processo licitatório, a fim de
+evitar conluios.
+54 O contrato de eficiência tem como objeto a prestação de
+serviços, que pode incluir a realização de obras e o
+fornecimento de bens, e é remunerado com base em
+percentual da economia gerada.
+A DATAPREV realizará licitação para a contratação de
+serviços técnicos especializados visando à elaboração de projetos
+executivos de engenharia referentes aos novos data centers, cujo
+valor estimado é de R$ 310.000. O critério de julgamento do
+certame se dará por técnica e preço. A aludida contratação atende
+ao arcabouço legal vigente e está prevista no Plano de
+Contratações Anual e no Plano Diretor de Tecnologia da
+Informação e Comunicação da entidade.
+Considerando a situação hipotética precedente, julgue os itens
+subsequentes, de acordo com a Lei n.º 14.133/2021.
+55 O atraso injustificado na execução do contrato acarretará ao
+contratado multa de mora, na forma estipulada em edital
+ou contrato.
+56 A modalidade de licitação concorrência é inutilizável para a
+referida contratação.
+57 A proporção de valoração da proposta técnica em relação à
+proposta de preço pode ser de 80%.
+58 O termo de referência para a contratação dos serviços
+técnicos especializados deve conter, entre outros aspectos, a
+fundamentação da contratação, o modelo de gestão do
+contrato e os critérios de medição e pagamento.
+A respeito do processo de contratação de soluções de tecnologia
+da informação e comunicação na administração pública, julgue
+os itens que se seguem, com base na Instrução Normativa
+SGD/ME n.º 94/2022.
+59 O fiscal técnico do contrato é o empregado com atribuições
+gerenciais, preferencialmente da área requisitante, designado
+para coordenar e comandar o processo de gestão e
+fiscalização da execução contratual, indicado pela autoridade
+competente.
+60 O estudo técnico preliminar é o documento constitutivo da
+primeira etapa do planejamento da contratação que
+caracteriza o interesse público envolvido e a sua melhor
+solução, fornecendo a base para a elaboração do termo de
+referência.
+61 Os critérios de aceitação são parâmetros objetivos e
+mensuráveis utilizados para verificar se o bem ou serviço
+recebido está em conformidade com os requisitos
+especificados.
+62 As contratações de soluções de tecnologia da informação e
+comunicação na administração pública possuem duas fases: a
+de planejamento da contratação e a de seleção do fornecedor.
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS -Acerca do Sistema de Registro de Preços, consoante o Decreto
+n.º 11.462/2023, julgue os itens seguintes.
+63 A gestão de atas é a ferramenta informatizada
+disponibilizada pelo governo federal para controle e
+gerenciamento dos quantitativos das atas de registro de
+preços e de seus saldos, bem como das solicitações de
+adesão e de remanejamento das quantidades.
+64 No edital de licitação para registro de preços, não é permitida
+a possibilidade de prever preços diferentes em razão do
+tamanho do lote de bens a serem adquiridos.
+65 O prazo de vigência da ata de registro de preços é de
+dois anos, podendo ser prorrogado por igual período, desde
+que comprovado o preço vantajoso à administração.
+66 O processo licitatório para registro de preços será realizado
+exclusivamente na modalidade pregão.
+Em relação à gestão e à fiscalização dos contratos
+administrativos, julgue os itens a seguir.
+67 A garantia prestada pelo contratado será liberada ou
+restituída após a fiel execução do contrato e, quando em
+dinheiro, prescinde-se de atualização monetária.
+68 O registro da variação do valor contratual para fazer face ao
+reajuste anual deve ser, necessariamente, realizado por meio
+de termo aditivo.
+69 Em caso de impedimento ou ordem de paralisação, o
+cronograma de execução deverá ser prorrogado
+automaticamente pelo tempo correspondente.
+70 É obrigatória à administração a convocação dos demais
+licitantes classificados para a contratação de remanescente de
+obra, de serviço ou de fornecimento em consequência de
+rescisão contratual.
+Acerca de logística, armazenagem, movimentação de cargas e
+logística reversa, julgue os próximos itens.
+71 Preservação do meio ambiente, sustentabilidade empresarial
+e competitividade são aspectos que justificam o retorno de
+materiais e produtos pós-venda ou o consumo mediante
+utilização de canais de distribuição reversos.
+72 Os processos de logística de uma organização se limitam às
+atividades de movimentação dos produtos acabados até a
+entrega ao consumidor final.
+73 A disponibilização de espaço é somente um dos fatores
+integrantes de um sistema de armazenagem, o qual também
+deve englobar a definição das estruturas e dos sistemas de
+movimentação de materiais, equipamentos e pessoas.
+74 Os setores empresariais no Brasil tratam o retorno de
+produtos pós venda como uma oportunidade para se obter
+maior lucratividade.
+Com relação aos fundamentos de logística e aos princípios de
+gestão integrada de operações e de logística de suprimento,
+julgue os itens a seguir.
+75 No que se refere ao custo das atividades primárias de
+logística, o processamento de pedidos é mais oneroso que o
+transporte e a manutenção de estoques.
+76 O compartilhamento de informações, o estabelecimento de
+relações de confiança e a promoção de um ambiente
+colaborativo são fundamentais para que a gestão integrada de
+operações de logística e suprimento sejam eficientes.
+77 A manutenção de estoques de uma empresa pode representar
+uma vantagem competitiva caso o cliente esteja disposto a
+pagar mais caro para obter o produto tempestivamente.
+78 Para uma adequada gestão integrada das operações de
+logística em uma organização, é necessário que a visão dos
+custos logísticos seja tratada de maneira isolada dos demais
+processos.
+
+
+89301801621405
+
+Julgue os itens seguintes a respeito de operações logísticas, modo
+de transporte, logística 4.0 e transformação digital.
+79
+
+A migração dos serviços e processos tecnológicos associados
+à logística para a computação em nuvem garante maior
+velocidade das informações e melhoria da relação
+custo-benefício.
+
+80
+
+O critério de menor custo é insuficiente para definir o meio
+de transporte mais vantajoso, sendo necessário considerar
+outros fatores, como capacidade de transporte, natureza da
+carga, segurança e rapidez.
+
+81
+
+É recomendável a utilização do transporte aéreo para
+mercadorias de alto valor agregado por se tratar de uma
+modalidade de transporte mais rápida, que comporta maior
+capacidade de carga e cujos valores de frete são vantajosos
+em relação aos outros modais.
+
+Os transportes que envolvem mais de uma modalidade e são
+regidos por um único contrato são classificados, no que se
+refere à forma, como transportes segmentados.
+83 A logística 4.0 contribui para o alcance de eficiência em toda
+a cadeia de suprimentos, favorecendo a rastreabilidade dos
+produtos por meio do uso da tecnologia.
+82
+
+Acerca dos sistemas integrados de gestão ERP e dos sistemas
+eletrônicos de gestão documental, julgue os itens que se seguem.
+84
+
+A utilização de um sistema ERP permite a criação de
+módulos para gestão de processos de logística a partir de
+uma base única de dados organizacionais.
+
+85
+
+Os investimentos tecnológicos para apoio à gestão
+documental são pouco onerosos para as organizações tanto
+em aspectos financeiros quanto em relação a conhecimentos
+especializados.
+
+86
+
+A operacionalização de conteúdos referentes aos processos
+de logística por meio do uso de sistema ERP se restringem
+ao contexto de integração interfuncional, excluindo-se o
+contexto interorganizacional.
+
+87
+
+Racionalização do trabalho de arquivamento, otimização de
+espaços físicos e melhoria da preservação e conservação
+documental são benefícios dos investimentos em sistemas
+eletrônicos de gestão documental.
+
+Em relação à classificação de materiais e ao seu impacto nos
+procedimentos que envolvem o recebimento e a armazenagem,
+julgue os itens seguintes.
+88
+
+Na classificação ABC, os materiais B são aqueles que estão
+sendo processados ao longo das diversas seções que
+compõem o processo produtivo da empresa.
+
+89
+
+As classificações individualizadoras e definidoras são
+complementações essenciais em uma empresa que utiliza o
+sistema sequencial para a codificação de materiais.
+
+90
+
+De forma ideal, a codificação de materiais deve definir, na
+medida do possível, a localização dos materiais no
+almoxarifado.
+
+Apenas os produtos acabados necessitam de dupla contagem
+de estoques, além de reconciliações e ajustes contábeis.
+92 Os itens C da curva ABC são aqueles que demandam a
+aplicação mais frequente de inventários rotativos para
+melhor controle de seus estoques.
+91
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+Julgue os itens que se seguem, relativos a compras e cadastro de
+fornecedores.
+93
+
+A modalidade de licitação denominada pregão deve ser
+preferencialmente adotada pelas empresas públicas para a
+aquisição de bens e serviços comuns.
+
+94
+
+O órgão de compras pode ser considerado um centro de lucro.
+
+95
+
+A negociação de um comprador deve considerar, entre outros
+fatores, os valores das embalagens e a sua capacidade de
+manter a proteção do material durante o transporte.
+
+96
+
+Na análise de fornecedores, é importante que se considere a
+avaliação de desempenho, o estudo das instalações e a
+análise de condição financeira.
+
+97
+
+A manutenção de um cadastro de fornecedores atualizado é
+imprescindível para as aquisições de pequena monta, já que
+garante maior celeridade.
+
+Acerca de recebimento e armazenagem, julgue os itens
+subsequentes.
+98
+
+A assinatura do canhoto da nota fiscal por profissional do
+almoxarifado é obrigatória mesmo em caso de recusa total do
+material no ato do recebimento.
+
+99
+
+A demanda que apresenta picos de consumo em épocas
+conhecidas é determinada irregular.
+
+100 Se nenhuma irregularidade tiver sido constatada na fase de
+
+recebimento de materiais, a devida entrada no estoque
+contábil e físico deverá ser providenciada.
+101 A capacidade estática refere-se à capacidade de cargas que
+
+uma determinada área pode receber simultaneamente.
+102 A armazenagem de areia e brita a granel é realizada
+
+diretamente sobre o solo.
+A respeito de controle de bens e gestão patrimonial, julgue os
+itens a seguir.
+103 A alienação de um bem se refere à transferência da sua
+
+propriedade de um bem a terceiros, o que pode ocorrer por
+meio de vendas, permutas ou doações, casos em que o bem
+será inserido no ativo imobilizado.
+104 A transferência patrimonial de um bem é uma ação
+
+definitiva, não admitindo caráter temporário.
+105 A melhoria da estrutura fiscal de uma organização, com o
+
+objetivo de evitar possíveis perdas em créditos de impostos,
+é uma das finalidades da gestão patrimonial.
+106 Caso um bem seja recebido por doação, o registro contábil
+
+será dispensado, devido à ausência de custos associados à
+aquisição.
+107 Recomenda-se, conforme as boas práticas de gestão
+
+patrimonial, a realização de inventários periódicos para
+conferir a localização física dos bens.
+
+
+89301801621405
+
+No que se refere a controle de bens e inventários, julgue os itens
+que se seguem.
+108 Uma das primeiras etapas de um inventário físico é o
+
+levantamento físico, para o qual se pode utilizar o relatório
+de contagem física de bens patrimoniais (RCFBP).
+109 Ao se avaliar o valor de um bem, pode-se optar pelo valor
+
+justo, que indica o valor presente de seus fluxos de caixa
+futuros.
+110 O
+
+controle
+
+físico
+
+dos
+
+bens
+
+deve
+
+ser
+
+realizado,
+
+preferencialmente, de forma individualizada, admitindo-se
+controle coletivo caso haja grande número de unidades, a
+exemplo de controle por estrados ou por caixas de
+armazenagem.
+111 Ainda que sofram depreciação, os bens sempre conservarão
+
+seu valor residual, razão pela qual não há previsão de perda
+total para bens patrimoniais.
+112 Bens imobilizáveis, de acordo com a legislação brasileira,
+
+são aqueles que possuem vida útil estimada em mais de
+doze meses.
+Julgue os itens subsequentes, relativos a depreciações, alterações
+e baixas de bem.
+113 A baixa de um bem se refere à sua inclusão no ativo
+
+imobilizado.
+114 No
+
+método
+
+de
+
+depreciação
+
+por
+
+quotas
+
+crescentes,
+
+considera-se o menor desgaste para um bem no começo
+de sua vida útil, e o maior desgaste desse bem, ao final deste
+período.
+115 O valor residual de um bem se refere ao somatório de suas
+
+perdas parciais de valor ao longo de seu uso.
+116 Em termos contábeis, a depreciação pode ser classificada
+
+como despesa ou como custo.
+117 O valor empregado em uma construção, assim como o valor
+
+de uma patente que a organização possua, pode sofrer
+amortização.
+Julgue os itens a seguir, relativos a estratégia organizacional e
+processo administrativo.
+118 A gestão estratégica projeta as ações organizacionais em
+
+longo prazo e nela estão incluídas a gestão financeira de
+pessoas e a gestão organizacional.
+119 No processo administrativo, cabe à função de direção definir
+
+tanto o uso dos recursos quanto as atribuições de
+responsabilidade dos membros da equipe.
+120 Ações corretivas e avaliação de desempenho são tarefas
+
+típicas da função controle.
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+Espaço livre
+
+

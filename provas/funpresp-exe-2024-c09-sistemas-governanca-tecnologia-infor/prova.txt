@@ -1,0 +1,297 @@
+                                  -- CONHECIMENTO
+Em relação à gerência de projetos, julgue os itens que se seguem.
+56 No contexto de riscos do gerenciamento de projetos, reserva
+   de gerenciamento é uma categoria de orçamento usada para
+   eventos desconhecidos, como trabalho não planejado dentro
+   do escopo.
+                            a
+57 Conforme o PMBOK 7. edição, propriedade compartilhada
+   é um dos fatores associados a uma equipe de projeto de alto
+   desempenho.
+58 Em gerenciamento de projetos, produto é um resultado que
+    pode incluir diversos artefatos e, conceitualmente,
+    concentra-se nos benefícios e no valor que o projeto deve
+    entregar.
+                             a
+59 Segundo o PMBOK 7. edição, a revisão dos processos
+   caracteriza-se essencialmente pelo rastreamento de erros e é
+   realizada concomitantemente ao desenvolvimento das tarefas
+   de entrega do projeto.
+Julgue os itens a seguir, a respeito de segurança da informação,
+políticas de segurança, classificação de informações e análise de
+vulnerabilidades.
+60 Considerando que uma organização adota o desenvolvimento
+     de software seguro, o uso de ferramentas de varredura de
+     vulnerabilidades será direcionado especificamente às
+     bibliotecas de software de terceiros utilizadas pela
+     organização.
+61 Ao implementar mecanismos para limitar o acesso a recursos
+     informacionais para, apenas, indivíduos ou sistemas
+     autorizados, o controle de acesso contribui diretamente para
+     a confidencialidade na segurança da informação.
+62 Conforme prescreve a NBR ISO/IEC 27002:2022, no
+     contexto organizacional, os analistas de negócios e os
+     analistas de bancos de dados são os responsáveis pela
+     classificação das informações.
+63 De acordo com a NBR ISO/IEC 27002:2022, é relevante que
+     a política de segurança da informação organizacional
+     contenha declarações explícitas de veto a quaisquer isenções
+     e exceções.
+Julgue os itens a seguir, referentes à continuidade de negócios, às
+normas NBR ISO/IEC 27001 e NBR ISO/IEC 27002, e à
+auditoria e conformidade.
+64 Segundo a NBR ISO/IEC 27001:2022, é preponderante que
+    pessoas que trabalham sob o controle da organização estejam
+    cientes da política da segurança da informação e das
+    implicações da não conformidade com os requisitos do
+    sistema de gestão da segurança da informação.
+65 Sobre        a      continuidade        de      negócios,      a
+    NBR ISO/IEC 7002:2022 orienta que o processo de
+    análise de impacto nos negócios utilize tipos e critérios de
+    impacto para avaliar os efeitos decorrentes, ao longo do
+    tempo, da disrupção das atividades empresariais que
+    fornecem produtos e serviços.
+66 Conforme a NBR ISO/IEC 27001:2022, riscos e
+    oportunidades são imponderáveis. Desse modo, ao compor o
+    sistema de gestão da segurança da informação, verifica-se
+    que ações de planejamento para abordar riscos e
+    oportunidades são especulativas, e que as situações reais
+    demandarão rápida tomada de decisão por parte dos
+    executores da linha de frente da segurança da informação.
+67 Considerando um eventual cenário de disrupção nos
+    negócios, a NBR ISO/IEC 27002:2022 propõe que planos
+    de continuidade sejam desenvolvidos, implementados,
+    testados, analisados criticamente e avaliados para manter
+    ou restaurar a segurança das informações de processos
+    críticos de negócios.
+
+                  CEBRASPE – FUNPRESP-EXE – Edital: 2024
+
+OS ESPECÍFICOS --
+ 68 De acordo com a NBR ISO/IEC 27002:2022, no contexto de
+    segurança da informação para uso de serviços em nuvem, é
+    relevante que a totalidade dos controles de segurança da
+    informação sejam gerenciados pela organização como cliente
+    de serviço em nuvem, podendo outros controles operacionais
+    serem delegados ao provedor de serviços em nuvem.
+ 69 Conforme a NBR ISO/IEC 27001:2022, é uma diretriz para a
+    organização, relacionada a direitos de propriedade
+    intelectual, disponibilizar procedimentos para descartar ou
+    transferir software para terceiros.
+ 70 De acordo com a NBR ISO/IEC 27002:2022, com o
+    propósito de minimizar o impacto de atividades de auditoria
+    em processos de negócio, é uma diretriz para a organização
+    executar testes de auditoria que podem afetar a
+    disponibilidade do sistema fora do horário comercial.
+ Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de
+ Dados Pessoais – LGPD), julgue os itens que se seguem.
+ 71 Aos titulares dos dados é garantido o direito de solicitar a
+    exclusão de seus dados pessoais, a qualquer momento, das
+    bases de dados de empresas ou organizações, desde que não
+    haja obrigação legal para a sua manutenção.
+ 72 O consentimento do titular dos dados pessoais pode ser
+    obtido de forma implícita e inferido a partir de ações
+    indiretas do titular, como a navegação em um site ou o uso
+    de um serviço.
+ Julgue os itens a seguir, a respeito de gestão de relacionamento.
+ 73 A comunicação interna eficaz em uma organização pode
+     aumentar o engajamento dos funcionários, melhorar a
+     transparência e promover um ambiente de trabalho
+     colaborativo, reduzindo os conflitos e aumentando a
+     produtividade.
+ 74 No processo de elaboração de um plano de negócio, as
+     decisões estratégicas podem ser embasadas apenas na
+     intuição dos gestores e nas tendências observadas de forma
+     empírica, o que dispensaria a etapa de análise de mercado.
+ A respeito de governança e gestão de TI, julgue os próximos
+ itens.
+ 75 A governança de dados é um processo exclusivo do
+      departamento de TI e não requer a participação de outras
+      áreas da organização, pois seu objetivo principal é garantir a
+      eficiência técnica dos sistemas de informação.
+ 76 No framework COBIT 2019, o conceito de cascata de metas
+      (goals cascade) é utilizado para traduzir as necessidades das
+      partes interessadas em metas corporativas, que são, então,
+      desdobradas em metas de TI e, por fim, em metas de
+      processos.
+ 77 No framework de controles CIS, versão 8, é recomendado
+      que todas as organizações, independentemente do seu porte e
+      setor, implementem exatamente os mesmos controles de
+      segurança, sem necessidade de adaptação às especificidades
+      do ambiente de TI de cada organização.
+ 78 A análise SWOT pode ser usada, no plano diretor de TI, para
+      identificar pontos fortes, fraquezas, oportunidades e ameaças
+      da TI, e permite que se alinhe a estratégia de TI às
+      necessidades e aos objetivos organizacionais.
+ 79 A governança digital visa integrar as tecnologias digitais aos
+      processos de governança pública, com o objetivo de
+      aumentar a transparência, eficiência e participação cidadã na
+      administração pública.
+ 80 Uma política de segurança da informação pode ser
+      considerada eficaz mesmo se não for revisada regularmente,
+      desde que tenha sido bem elaborada inicialmente.
+
+81   Na governança de dados, a definição de responsabilidades e
+     papéis para o gerenciamento de dados não é essencial, desde
+     que existam ferramentas tecnológicas eficientes para realizar
+     a gestão dos dados de forma automatizada.
+82   No ITIL v4, o gerente de problemas é responsável por
+     gerenciar o ciclo de vida de todos os problemas que
+     impactam o serviço, com o objetivo de prevenir a ocorrência
+     de incidentes e minimizar o impacto dos incidentes
+     inevitáveis.
+83   No ITIL v4, a responsabilidade por manter um sistema de
+     gerenciamento de configuração (configuration management
+     system) é exclusiva do gerente de mudanças.
+84   No planejamento estratégico de TI, é dispensável alinhar a
+     estratégia de TI com a estratégia de negócios da organização,
+     uma vez que a TI deve operar de forma independente e
+     autônoma.
+85   A avaliação das capacidades atuais de TI e a identificação de
+     lacunas em relação aos objetivos estratégicos é uma prática
+     fundamental no planejamento estratégico de TI, permitindo
+     que a organização desenvolva um plano de ação para atingir
+     suas metas.
+Em relação à engenharia de requisitos, julgue os itens a seguir.
+86 Em regra, a verificação de completude envolve a criação de
+   um conjunto de testes que comprovem que o sistema atende
+   a todos os requisitos especificados.
+87 Na validação de requisitos por prototipação, um modelo
+   executável é apresentado aos usuários para verificar se ele
+   atende às suas necessidades.
+88 Nos métodos ágeis, os requisitos são definidos de forma
+   incremental, e a elicitação é efetuada continuamente ao
+   longo do projeto pelos membros da equipe.
+89 A flexibilidade do desenvolvimento ágil permite a evolução
+   dos requisitos ao longo do projeto, porém, requer
+   um processo formal de gerenciamento de mudanças para
+   garantir que o produto entregue valor.
+Com relação às metodologias ágeis e suas aplicações no
+desenvolvimento de software, julgue os itens subsequentes.
+90 No Scrum, os itens do product backlog possuem atributos
+    como descrição, ordem, estimativa, valor e, frequentemente,
+    descrições de testes para garantir sua completude.
+91 Devido à demanda por proteção, segurança e confiança, os
+    métodos ágeis precisam de adaptações significativas para
+    serem aplicados rotineiramente na engenharia de sistemas
+    críticos.
+92 No Scrum, o scrum master é responsável por informar o
+    product owner sobre o que deve ser adicionado ao product
+    backlog e sobre quais itens precisam de priorização.
+93 Em extreme programming, os requisitos são uma lista de
+    funções, requeridas pelo sistema, implementados em
+    pequenos releases pela equipe de desenvolvimento.
+A respeito de métricas e estimativas de software e análise por
+pontos de função, julgue os itens que se seguem.
+94 De acordo com o estabelecido pelo IFPUG (International
+    Function Point Users Group), a fronteira da aplicação é a
+    interface conceitual que delimita o software do mundo
+    externo, baseada exclusivamente na visão de negócio.
+95 O uso de pontos de função de conversão deve ser adotado
+    nas contagens quando houver um esforço significativo
+    associado à migração de dados com tratamento de funções
+    complexas de migração.
+96 Conforme as orientações de contagem de pontos de função
+    adotadas pelo roteiro de métrica do SISP v.2.3, o uso da
+    fórmula PF_CONSULTA_PRÉVIA = PF_ALTERADO permite
+    dimensionar uma consulta prévia sem atualização, com base
+    no tamanho da funcionalidade.
+
+                CEBRASPE – FUNPRESP-EXE – Edital: 2024
+Julgue os itens subsecutivos, relativos à arquitetura orientada a
+serviços (SOA), à arquitetura distribuída, à especificação de
+web services e a dispositivos móveis.
+97 Os aplicativos web progressivos (PWA) são executados em
+    navegadores de dispositivos móveis e podem ser
+    desenvolvidos utilizando-se JavaScript, CSS e HTML5.
+98 Na SOA, a baixa abstração reduz as dependências entre
+    serviços, permitindo alterações independentes, isto é, sem
+    impactos significativos em clientes ou outros serviços.
+99 A camada de apresentação em aplicativos de dispositivos
+    móveis gerencia fluxos de trabalho, troca de dados e
+    operações, incluindo segurança, cache, log e tratamento de
+    exceções.
+100 Os serviços na SOA devem ser stateless, processando cada
+    solicitação de forma independente, sem depender de
+    informações de sessões ou transações anteriores.
+101 Em sistemas distribuídos par a par, cada ponto central
+    integra apresentação e processamento de dados,
+    armazenando camadas completas e, possivelmente, todo o
+    estado do sistema.
+102 APIs RESTful utilizam formatos leves, como JSON ou
+    XML, enquanto APIs SOAP utilizam exclusivamente XML
+    para a troca de dados.
+Julgue os itens a seguir, a respeito de gestão de processos de
+negócio.
+103 Na gestão de processos, o dono do processo coordena e
+    gerencia o desempenho do processo no dia a dia e lidera
+    iniciativas de melhoria de outros processos.
+104 A cadeia de valor em gestão de processos apresenta os
+    valores públicos gerados pela organização para seus clientes
+    e expõe o modelo de negócio da entidade ou de uma unidade
+    organizacional por meio de processos.
+105 Conforme o BPMN 2.0, na coreografia é formalizada a
+    maneira pela qual participantes de negócios coordenam suas
+    interações.
+106 O processo to-be representa a maneira pela qual as etapas de
+    negócios são desenvolvidas, enquanto o processo as-is
+    representa o estado futuro aprimorado dessas etapas.
+Julgue os seguintes itens, relativos à gestão estratégica.
+107 Indicadores de rastreabilidade devem relacionar, em nível
+    operacional, tático ou estratégico, os pontos mais
+    importantes e críticos dos processos, devendo basear-se nas
+    necessidades dos tomadores de decisão.
+108 Planejamento estratégico é um conjunto de ações e
+    definições de processos de desenvolvimento de código
+    estratégico para gestão.
+109 Indicadores de desempenho são ferramentas utilizadas para
+    descrever a situação de empresas em seus diversos aspectos,
+    de forma a analisar e acompanhar o que está ocorrendo
+    internamente.
+110 O balanced scorecard é uma técnica que parte da análise de
+    quatro pilares principais, formados pelas perspectivas:
+    financeira, dos clientes, dos processos, e de aprendizado e
+    crescimento organizacional.
+111 Na matriz SWOT, busca-se analisar as forças e
+    oportunidades, bem como as fraquezas e ameaças de um
+    negócio.
+112 A análise de cenários permite estabelecer estratégias para
+    contextos futuros, buscando-se identificar fatores que
+    impulsionem o negócio e obter avanços em cenários
+    competitivos.
+
+A respeito de banco de dados, julgue os próximos itens.
+113 Esquema de banco de dados é um conjunto de tabelas, registros
+114 Uma view materializada realiza consulta em tabelas do banco d
+115 Restrições de integridade são utilizadas para garantir que uma i
+116 As tuplas em uma relação são identificadas por meio da chave
+117 O processo de normalização de dados tem como objetivo elim
+    entre eles façam sentido, armazenando apenas os logicamente r
+118 Em um banco de dados relacional, cada linha na tabela é um r
+    atributo dos dados e cada registro, geralmente, tem um valor pa
+Acerca de contratações de TI, julgue os itens subsequentes.
+119 Conforme a Instrução Normativa n.º 1/2019 do Ministério da
+    por postos de trabalho alocados quando da execução de trabalh
+120 O estudo técnico preliminar da contratação descreve análises
+    necessidades, requisitos e demais características, bem como de
+Espaço livre
+
+                  CEBRASPE – FUNPRESP-EXE – Edital: 2024
+
+
+
+ s e campos que representam uma entidade do mundo real.
+de dados no momento em que o usuário faz uma consulta à view.
+informação seja do tipo de dado definido no banco de dados.
+ primária.
+minar aqueles que são redundantes e garantir que as dependências
+relacionados em uma tabela.
+registro com um identificador, cada coluna da tabela representa um
+ara cada atributo.
+
+
+a Economia, incentiva-se adotar a métrica homem-hora e contratar
+hos de desenvolvimento de sistemas.
+s realizadas em relação às condições da contratação em termos de
+emonstra sua viabilidade técnica e econômica.
+

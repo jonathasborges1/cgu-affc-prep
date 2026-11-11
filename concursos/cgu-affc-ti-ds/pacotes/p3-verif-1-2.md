@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-2 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-2 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -25,103 +25,33 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 - **P3·SEG 5**: 5 Contratação e fiscalização de soluções. | 5.1 Necessidade, estudo técnico preliminar e termo de referência. | 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento. | 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços. | 5.4 Qualidade, níveis de serviço e entregas verificáveis. | 5.5 Fiscalização e pagamento. | 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída. FLÁVIO MARQUES PROL Secretário Executivo Adjunto
 
 ## ITENS
-### v1-2-01 | gab=C [texto-base: Acerca de análise estática de código-fonte, uma das práticas que verifica a qualidade do código e pode ser realizada antes da execução do software, julgue os pr]
-A ferramenta SonarQube permite analisar a qualidade dos códigos-fontes que envolvem linguagens de computador e de dispositivos móveis e abrange categorias como padrões de codificação, testes e identificação de erros.
-### v1-2-02 | gab=C [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-Quanto ao gerenciamento de configuração do software e aos serviços de mensageria, julgue os itens a seguir. Nos serviços de mensageria, a comunicação síncrona via HTTP é mais adequada para cenários de alta concorrência do que a comunicação assíncrona.
-### v1-2-03 | gab=E
-Na arquitetura monolítica de sistemas operacionais, o núcleo do sistema fornece um número reduzido de serviços, como, por exemplo, gerenciamento de memória de baixo nível, comunicação entre processos e sincronização básica de processos, enquanto os demais serviços do sistema são disponibilizados em uma estrutura de camadas.
-### v1-2-04 | gab=E
-Certificados digitais permitem a verificação de identidade entre pessoas desconhecidas, desde que sejam autoassinados. ||281FUB_010_01N361196||
-### v1-2-05 | gab=E
-O backlog do produto é aquele criado durante o planejamento da sprint.
-### v1-2-06 | gab=C
-Os riscos internos e externos podem impactar os objetivos estratégicos da organização; por isso, mesmo que não possa intervir ou interferir diretamente, a organização deve estar preparada para agir de forma reativa às ocorrências associadas ao ambiente em que opera, minimizando os impactos negativos que tais eventos possam provocar. ||274FUNPRESP-JUD_003_01N618352||
-### v1-2-07 | gab=E
-Em uma transformação afim (affine transformation), o uso de uma matriz de transformação em coordenadas homogêneas M (composta por elementos reais diferentes de zero) em que o determinante da submatriz superior-esquerda de dimensões 3x3 seja igual a zero implica a realização de uma operação de rotação com mudança de escala.
+### v1-2-01 | gab=E
+Modelos de linguagem de grande escala, como os do tipo transformer, são treinados exclusivamente com base em regras sintáticas explícitas extraídas de dados linguísticos anotados manualmente, o que assegura maior controle semântico. Certa empresa brasileira de médio porte, que desenvolve soluções de software para o setor financeiro e armazena informações sensíveis de clientes, como dados bancários, documentos pessoais e credenciais de acesso, iniciou um processo de adequação 
+### v1-2-02 | gab=C [texto-base: A respeito do processo de contratação de soluções de tecnologia da informação e comunicação na administração pública, julgue os itens que se seguem, com base na]
+Os critérios de aceitação são parâmetros objetivos e mensuráveis utilizados para verificar se o bem ou serviço recebido está em conformidade com os requisitos especificados.
+### v1-2-03 | gab=C
+Um teste de software de regressão estará corretamente projetado quando se considera, em cada uma das funções principais do software, apenas os testes que tratam de uma ou mais classes de erros.
+### v1-2-04 | gab=C [texto-base: 690005_01N222893 -- CONHECIMENTOS PLANEJAMENTO, GERENCIAMENTO, FISCALIZAÇÃO, NORMAS E LEGISLAÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA, INCLUSIVE GESTÃO AMBIENTAL É]
+O projeto básico é elaborado com fundamento nas indicações dos estudos técnicos preliminares, que devem assegurar a viabilidade técnica e o adequado tratamento do impacto ambiental do empreendimento, e possibilitar a avaliação do custo da obra, bem como a definição dos métodos e do prazo de execução.
+### v1-2-05 | gab=C
+No Grafana, é possível adicionar anotações para destacar eventos nas visualizações diretamente no painel, por meio da consulta de anotação integrada, da API HTTP ou da configuração manual do painel.
+### v1-2-06 | gab=E
+Os padrões de projeto abrangem um amplo espectro de abstração e aplicação; especificamente, o factory method pattern separa a construção de um objeto complexo de sua representação de modo que o mesmo processo de construção possa criar diferentes implementações do mesmo objeto. tipo ALI AIE SE EE aplicação complexidade baixa baixa média média quantidade 1 2 3 4
+### v1-2-07 | gab=C
+São necessários muitos dados de funcionamento do ativo que pretende ser modelado para a construção de um gêmeo digital. Nesse contexto, a tecnologia facilitadora mais importante no processo de coleta de dados é a Internet das coisas ou IoT (Internet of things).
 ### v1-2-08 | gab=C
-Um dos objetivos da implementação de arquiteturas multicore nos atuais processadores comerciais é permitir a plena utilização de paralelismo em nível de threads, para que se aumente o desempenho do processamento das aplicações, especialmente das concebidas com baixo grau de paralelismo em nível de instrução.
-### v1-2-09 | gab=E
-De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), os dados pessoais devem ser retidos por um período de cinco anos, mesmo após a conclusão do seu processamento, desde que sejam cumpridos os limites técnicos das atividades em questão.
-### v1-2-10 | gab=C
-O protocolo RADIUS pode ser utilizado em conjunto com o SSO (single sign-on) e keycloak para fornecer autenticação segura, enquanto os protocolos SAML, OAuth2 (RFC 6749) e OpenID Connect são utilizados para facilitar a integração e a interoperabilidade entre diferentes serviços de autenticação e autorização.
+Herança é uma característica do paradigma orientado a objetos, a qual possibilita que haja hierarquia de classes, de forma que as alterações em uma classe-pai possam ser imediatamente propagadas para a classe-filha.
+### v1-2-09 | gab=C [texto-base: Considerando o script Python a seguir, julgue os próximos itens. numero = 42 texto = “Python é incrível” lista = [1, 2, 3, 4] dicionario = {“nome”: “Alice”, “id]
+A função sum(lista) somente pode ser usada em listas que contêm apenas números, pois a operação de soma não pode ser aplicada a listas com tipos mistos. numeros = [10, 20, 30, 40] numeros.append(50) numeros.insert(2, 25) removido = numeros.pop() coordenadas = (3, 5) x, y = coordenadas pares = {2, 4, 6, 8} impares = {1, 3, 5, 7} uniao = pares | impares interseccao = pares & impares dados = {“nome”: “Carlos”, “idade”: 30, “cidade”: “Rio”} dados[“idade”] = 31 dados.pop(“cidade”)
+### v1-2-10 | gab=E
+A estrutura de autorização do OAuth 2.0 permite que uma aplicação obtenha acesso ilimitado a um serviço HTTP se houver token válido, mas não permite que uma aplicação de terceiros obtenha acesso por conta própria.
 ### v1-2-11 | gab=E
-O serviço de compressão de dados é obrigatório na implementação de segurança de redes com o SSL (secure sockets layer). JUSTIFICATIVA - Errado. O SSL fornece diversos serviços para os dados recebidos da camada de aplicação, entre eles a compressão. Nesta, cada fragmento de dados é compactado por meio de um dos métodos de compressão sem perdas negociados entre o cliente e o servidor. Esse serviço é opcional.
+O acesso a dados pessoais tratados pelo controlador, caso solicitado por seu titular, será providenciado, mediante requisição do titular devidamente justificada, em formato simplificado ou por meio de declaração clara e completa, desde que autorizado pela autoridade nacional de proteção de dados. JUSTIFICATIVA - Errado. Na LGPD, não é prevista a condição de autorização da autoridade nacional para a disponibilização dos dados pessoais ao próprio titular. Segue parte da redação
 ### v1-2-12 | gab=C
-A transformação do esquema de tabela não normalizada em um esquema relacional na primeira forma normal (1FN) consiste da eliminação das tabelas aninhadas. OS ESPECÍFICOS
-### v1-2-13 | gab=C
-De acordo com o Scrum 2020, product backlog é um artefato considerado como fonte de trabalho realizado pelo scrum team; o compromisso existe para reforçar o empirismo e os valores scrum para o scrum team; e a meta do produto é o compromisso do product backlog.
+Na especificação dos requisitos da contratação, compete ao integrante requisitante, com o apoio do integrante técnico, definir, entre outros, os requisitos de negócio, quando aplicáveis. JUSTIFICATIVA - Certo. Conforme a IN SGD/SEDGG/ME n.º 94/2022, “Art. 16. Na especificação dos requisitos da contratação, compete: I ao Integrante Requisitante, com apoio do Integrante Técnico, definir, quando aplicáveis, os seguintes requisitos: a) de negócio”. iaDB e MS-SQLSERVER 2019, julgu
+### v1-2-13 | gab=E
+Conforme a terminologia adotada na norma ISO 9001, que estabelece um modelo de gestão da qualidade para organizações em geral, ação preventiva consiste na ação para eliminar a causa de uma não conformidade identificada ou de uma situação indesejável. A direção de uma empresa de grande porte pretende implantar um sistema ERP (Enterprise Resource Planning), de forma a modernizar e integrar a gestão empresarial. Para tanto, será utilizado o MS-Project para gerenciar todas as fas
 ### v1-2-14 | gab=C
-No padrão arquitetural MVC, o componente model encapsula integralmente os dados, a lógica de negócios e as operações de processamento da aplicação, o que inclui a gestão de todos os objetos de conteúdo e a interação com fontes de dados externas.
+Utilizar funções de hash como MD5 ou SHA1 para verificação de integridade é uma ação eficaz contra modificação não autorizada durante a transmissão de arquivos. Um grande banco brasileiro sofreu um ataque de ransomware. Os sistemas ficaram inacessíveis quando os funcionários chegaram ao trabalho na manhã de segunda-feira e os clientes não conseguiram acessar suas informações financeiras. Os sistemas internos do banco exibiam uma mensagem na tela dos computadores na qual se ex
 ### v1-2-15 | gab=C
-Para mitigar riscos referentes aos procedimentos de lavagem de dinheiro e financiamento ao terrorismo, é necessário que as organizações conheçam a legislação e os regulamentos relativos ao assunto, as técnicas utilizadas, o perfil dos clientes, bem como os produtos e serviços mais utilizados para a referida prática.
-### v1-2-16 | gab=E
-A execução de hardening em sistema Linux passa pelos controles de autenticação com a utilização do módulo de autenticação plugável (PAM), podendo usar interfaces como auth, que verifica se uma conta tem autorização para usar o sistema por meio de determinado serviço.
-### v1-2-17 | gab=E
-Em JDBC, o método executeUpdate() pode ser usado para realizar um update em banco de dados, caso em que esse método recebe uma expressão SQL cujos valores de retorno serão tratados por um ResultSet.
-### v1-2-18 | gab=C
-A empatia é um componente central no design thinking, pois sua elaboração envolve a compreensão profunda das experiências e emoções dos usuários.
-### v1-2-19 | gab=E
-No TDD, os testes que embasam a refatoração são do tipo caixa preta, pois o foco é a funcionalidade em vez do modo de desenvolvimento, logo, ao se utilizar o TDD, é incompatível executar testes unitários em uma estratégia caixa branca.
-### v1-2-20 | gab=C [texto-base: Acerca de criptografia simétrica e de certificados digitais, julgue os seguintes itens. Algoritmos de hash, em conjunto com certificados digitais, são empregado]
-A chave utilizada em conjunto com um algoritmo criptográfico simétrico representa um segredo compartilhado entre duas ou mais partes.
-### v1-2-21 | gab=C
-Na utilização das técnicas de desenvolvimento guiado por testes (TDD), deve ser escrito um novo código apenas quando um teste automatizado falhar. No que concerne à Microsoft Power Platform, julgue os itens que se seguem.
-### v1-2-22 | gab=E
-O recebimento dos materiais comprados pela empresa ocorre a partir da conferência com base na nota fiscal, confrontada com a quantidade e qualidade do material entregue, em seguida, estando de acordo, cadastra-se no sistema e oficializa-se a entrada física do material na área de estocagem.
-### v1-2-23 | gab=E
-O exemplo a seguir exibe como os dados podem ser armazenados em um banco de dados relacional do tipo chave-valor. { nome_orgao: “ANATEL”, endereco: {estado: “Distrito Federal”, cidade: “Brasília”}, numero_telefone: “55-61-1234-5678”, atuacao: [“telecomunicação”], } Nos bancos de dados NoSQL orientados a colunas, é possível organizar os dados em famílias de colunas, o que facilita o agrupamento e o acesso a informações específicas, como, por exemplo, os dados de contato.
-### v1-2-24 | gab=E
-Os preços de insumos e custos de composição do SINAPI são coletados pela Caixa Econômica Federal, que realiza o tratamento dos dados e a formação dos índices, para posterior disponibilização para consultas. O estudo da geometria das tubulações é fundamental para garantir o fluxo de água nas estruturas hidráulicas. Nesse sentido, tendo como base a figura precedente, considere os reservatórios de água R1 e R2, as linhas R1, R2, R3 e R4 e o desenvolvimento dos condutos fechados 
-### v1-2-25 | gab=E
-No que diz respeito à elicitação e gerenciamento de requisitos, histórias do usuário, requisitos e experiência do usuário bem como protótipos e histórias de aceitação, julgue os itens que se seguem.
-### v1-2-26 | gab=E
-O sistema zigbee consiste em um protocolo de comunicação por cabeamento lógico, específico para automação industrial.
-### v1-2-27 | gab=C
-O tratamento de risco e a resposta a incidentes de segurança devem ser considerados em uma organização mediante análise de riscos e adoção de procedimentos próprios de acordo com as necessidades da organização.
-### v1-2-28 | gab=E [texto-base: Com relação aos conceitos de segurança cibernética, julgue os itens a seguir. O objetivo do IDS (intrusion detection system) é detectar atitudes suspeitas, impr]
-Apesar do SIEM ser uma solução usada para identificar ameaças e vulnerabilidades por meio da combinação dos gerenciamentos de informações de segurança e de eventos de segurança, ela não é adequada para investigações forenses de incidentes de segurança.
-### v1-2-29 | gab=C
-A execução do Node.js é single-thread, pois as requisições no ambiente são tratadas como eventos assíncronos e não bloqueáveis.
-### v1-2-30 | gab=C
-Caso, após o início de determinada obra, tenha sido registrado no diário de obras um período chuvoso excepcional com duração de três meses, com consequente alteração do prazo e das respectivas etapas de execução, então o cronograma físico-financeiro deve ser ajustado.
-### v1-2-31 | gab=E
-O método de autenticação SPF (sender policy framework) permite que os proprietários de domínios assinem emails automaticamente a partir de seu domínio; nessa assinatura digital, é utilizada criptografia de chave pública para verificar matematicamente que o email veio do domínio correto.
-### v1-2-32 | gab=E
-A entrega contínua (CD) no DevOps é o processo de automatização que inclui a configuração e implantação de um aplicativo em um pipeline de produção, mas não abrange a compilação e o teste.
-### v1-2-33 | gab=E
-A segmentação em centros de custo é indicada para as organizações com gestão centralizada que pretendem efetuar o controle das áreas que geram receitas significativas, devendo esse controle ser exercido por meio da imposição de limites ao consumo de recursos, sem prejuízo da qualidade dos produtos e serviços oferecidos aos clientes.
-### v1-2-34 | gab=C
-Nas arquiteturas orientadas a serviços (SOA), os componentes de sistema são serviços autônomos na forma distribuída e os clientes de serviço que desejam usar um serviço descobrem a especificação desse serviço e localizam o provedor de serviço, para, então, ligar sua aplicação a esse serviço específico e comunicar-se com ele usando protocolos de serviço padrão.
-### v1-2-35 | gab=E
-Para o controle da entrada e saída de equipamentos do canteiro de obras, dos serviços em andamento, do efetivo de pessoal e das condições climáticas, exige-se da contratada a elaboração de relatórios semanais (livro de obra).
-### v1-2-36 | gab=C
-Para o uso do HTTPS, que é criptografado para aumentar a segurança da transferência de dados, é necessário que um certificado SSL ou TLS esteja instalado no sítio.
-### v1-2-37 | gab=E
-Continuous delivery (CD) e continuous integration (CI) são práticas afetas ao DevOps: a primeira realiza a implantação automática no repositório da solução após o build; e a segunda realiza implantação automática no ambiente de produção a cada release.
-### v1-2-38 | gab=E
-Os testes de usabilidade auxiliam o desenvolvedor a identificar, entre outros aspectos, o grau de entendimento da interface pelo usuário e as deficiências de suporte tecnológico. de protótipos para
-### v1-2-39 | gab=C
-O uso de sistemas agroflorestais pode causar diversos impactos na qualidade do solo, como: manutenção do teor de matéria orgânica; melhoria de propriedades físicas; redução de acidez; utilização e ciclagem de nutrientes presentes em camadas mais profundas do perfil do solo; proteção contra erosão pela redução de impactos de gotas de água no solo; e melhor aproveitamento de água no sistema.
-### v1-2-40 | gab=E
-O Gitlab disponibiliza recursos nativos capazes de automatizar testes e verificar a qualidade do código, conhecidos como CI (continuous integration), sendo necessários recursos de terceiros para executar a etapa de CD (continuous delivery).
-### v1-2-41 | gab=E
-Na XP, as histórias dos usuários (casos de uso) devem descrever os detalhes dos requisitos da solução, tais como a tecnologia a ser utilizada e a modelagem do banco de dados; isso irá permitir planejar melhor a interface do usuário na release planning e, consequentemente, o desenvolvimento da solução. Internet: <www.cin.ufpe.br/> (com adaptações).
-### v1-2-42 | gab=E
-Em criptografia assimétrica, o tamanho da chave é irrelevante para a segurança do sistema que a utiliza.
-### v1-2-43 | gab=E
-A autenticação de dois fatores (MFA) utiliza apenas uma camada de segurança, que resulta da combinação de um fator de conhecimento com um fator de posse, como uma senha e um token físico.
-### v1-2-44 | gab=C
-Firewalls de aplicação são capazes de inspecionar e filtrar tráfegos como um ataque de SQL Injection.
-### v1-2-45 | gab=C
-A implantação contínua se refere ao lançamento automático das mudanças feitas por um desenvolvedor, do repositório à produção, as quais podem ser utilizadas por clientes.
-### v1-2-46 | gab=E
-Além dos requisitos funcionais, o designer de software deve considerar os requisitos não funcionais, que representam as expectativas dos clientes e usuários.
-### v1-2-47 | gab=E
-A adoção de microsserviços aumenta o acoplamento entre os componentes de um sistema, porém dificulta a escalabilidade e a implementação de atualizações independentes.
-### v1-2-48 | gab=C [texto-base: No que se refere a segurança de aplicativos web, prevenção e combate a ataques a redes de computadores e sistemas criptográficos, julgue os itens seguintes.]
-Na execução de uma aplicação web, a possibilidade de um usuário não autenticado agir como um usuário autenticado ou de um usuário comum autenticado agir como um administrador representa falha de segurança de elevação de privilégios relacionada ao controle de acesso da aplicação. JUSTIFICATIVA - Certo. O controle de acesso aplica a política de modo que os usuários não possam agir fora de das permissões pretendidas. Falhas normalmente levam à divulgação não autorizada de inform
-### v1-2-49 | gab=E
-O protocolo SSL/TLS opera na camada de transporte do modelo TCP/IP, criptografando dados diretamente entre os protocolos TCP e IP.
-### v1-2-50 | gab=C
-Ao contrário do teste de segurança estático (SAST) e do teste de segurança dinâmico (DAST), o teste interativo de segurança (IAST) opera dentro do aplicativo, além de permitir uma saída mais precisa.
+Em JavaScript é possível simular cada uma das quatro categorias de membros de classe da linguagem Java. BLOCO II

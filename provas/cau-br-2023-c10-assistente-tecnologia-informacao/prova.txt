@@ -1,0 +1,347 @@
+-- CONHECIMENTO
+Acerca de políticas de segurança da informação, julgue os itens
+seguintes.
+51 A autenticidade dos dados não faz parte dos princípios
+norteadores de uma POSIN porque a integridade já tem essa
+atribuição.
+52 Um dos objetivos de uma POSIN é assegurar a
+disponibilidade e a integridade dos dados de uma
+organização.
+No que concerne aos procedimentos básicos e ao gerenciamento
+de segurança, julgue os próximos itens.
+53 O conceito de menor privilégio é considerado irrelevante
+para a definição de controle de acesso a recursos
+computacionais necessários para realizar uma dada tarefa.
+54 O tratamento de risco e a resposta a incidentes de segurança
+devem ser considerados em uma organização mediante
+análise de riscos e adoção de procedimentos próprios de
+acordo com as necessidades da organização.
+A respeito da ABNT NBR ISO/IEC 27001 em sua última versão,
+julgue os itens subsequentes.
+55 A norma em questão estabelece que a privacidade é parte
+fundamental da confidencialidade dos dados.
+56 Os requisitos estabelecidos na norma em questão são
+específicos e restritos a organizações do tipo, tamanho ou
+natureza multinacional.
+Com relação às características intrínsecas ao princípio da
+integridade, julgue os itens a seguir.
+57 A assinatura digital de determinado documento digital
+permite a verificação da integridade dos dados desse
+documento.
+58 Para ser considerado íntegro, determinado conjunto de dados
+não pode ser alterado sem a devida autorização.
+No que se refere a mecanismos e técnicas de controle de acesso,
+julgue os seguintes itens.
+59 O controle de acesso baseado em função (RBAC) e o
+controle de acesso baseado em atributos (ABAC) são
+exemplos de técnicas de controle de acesso.
+60 No contexto da segurança da informação, o controle de
+acesso restringe-se aos processos de autenticação.
+Acerca da gestão de riscos, julgue os itens a seguir.
+61 Em segurança da informação, uma vulnerabilidade é
+entendida como uma fraqueza — de um ativo ou de controle
+de segurança — que pode ser explorada por uma ou mais
+ameaças.
+62 Define-se risco como a causa potencial de um incidente
+indesejado, que pode resultar em dano para um sistema ou
+organização.
+Em relação a ISO/IEC 27002 em sua última versão, julgue os
+itens que se seguem.
+63 A referida norma estabelece, para fins de conformidade, que
+os controles não podem vir de outras fontes que não a
+própria norma.
+64 Na ISO/IEC 27002, os controles de criptografia devem
+estabelecer critérios bem definidos sobre o uso e o
+gerenciamento de chaves criptográficas.
+65 A norma determina que um ativo pode sofrer alteração e
+depreciação de valor, entretanto o mesmo não ocorre com o
+risco, pois estes são fixos durante o tempo de vida da
+informação.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+OS ESPECÍFICOS -Com referência a gestão e governança de TI e a gestão de riscos,
+julgue os itens a seguir.
+66 No momento de se tomar uma decisão, se houver alguma
+incerteza, haverá riscos.
+67 A governança de TI se ocupa em avaliar se o uso da TI na
+organização permite alcançar os seus objetivos estratégicos.
+68 A política de governança é um plano geral de
+desenvolvimento da organização com objetivos e propostas
+para serem executadas.
+69 A chance de algo acontecer é chamada de probabilidade.
+70 O tratamento dos riscos é a primeira atividade do processo
+de gestão de riscos a ser realizada, quando se está diante de
+incertezas em algum contexto de negócios.
+Julgue os itens que se seguem relativos ao ITIL.
+71 O processo de gerenciamento de portfólio de serviços faz
+parte da estratégia de serviços do ciclo de vida.
+72 A avaliação de mudanças no ITIL é um processo que faz
+parte do design de serviços.
+73 O processo de gestão financeira para serviços de TI é voltado
+para a definição de custos e também de orçamento dos
+serviços de TI.
+74 O elemento central do sistema de valor de serviços (SVS) do
+ITIL é a cadeia de valor de serviço.
+75 Os princípios orientadores do ITIL incluem o
+gerenciamento: de riscos, da mudança organizacional, de
+projetos e do conhecimento.
+76 As quatro dimensões do processo de criação de valor do
+ITIL são representadas pelos fatores políticos, econômicos,
+legais e tecnológicos.
+Julgue os próximos itens a respeito do COBIT.
+77 O COBIT 5 utiliza métodos de retorno sobre o investimento
+(ROI) no lugar da técnica de balanced score card (BSC).
+78 Na cascata de objetivos do COBIT, os objetivos de
+habilitador são desdobrados dos objetivos de TI.
+79 DSS (entregar, servir e suportar) representa um dos domínios
+do COBIT.
+80 São exemplos de categorias de habilitadores do COBIT:
+informação, processos, estruturas organizacionais e pessoas.
+Acerca de computação em nuvem, julgue os itens que se seguem.
+81 No modelo de IaaS (Infrastructure as a Service), o usuário
+tem controle sobre sistemas operacionais, armazenamentos e
+aplicativos implantados, além do controle limitado de
+componentes de firewalls de host.
+82 A
+computação em nuvem fornece recurso de
+provisionamento ilimitado, ou seja, a capacidade da máquina
+pode aumentar ou diminuir automaticamente, dependendo da
+carga.
+Considerando que a computação em nuvem representou muitas
+mudanças para o escopo da computação por oferecer um vasto
+conjunto de benefícios, julgue os próximos itens.
+83 A nuvem privada compreende uma infraestrutura de
+computação em nuvem operada e quase sempre gerenciada
+pela organização cliente, podendo, em alguns casos, ser
+gerenciada por terceiros.
+84 A nuvem pública pode ser gerenciada e operada por uma ou
+mais organizações da comunidade, por organização
+acadêmica ou governamental, dentro ou fora das instalações
+do provedor de nuvem.
+
+
+Julgue os itens que seguem, considerando os benefícios que a
+computação em nuvem proporcionou para o escopo da
+computação.
+85
+
+Na computação em nuvem, sistemas de becape separados,
+em máquinas diferentes, fornecem uma camada adicional de
+segurança e confiabilidade, sendo de responsabilidade do
+usuário a configuração desse recurso.
+
+86
+
+Uma das formas de se implementar alta disponibilidade em
+computação em nuvem é empregar a virtualização de
+máquinas, de modo a permitir, por exemplo, que um
+hardware indisponível ou defeituoso seja substituído
+transparentemente por outro.
+
+Em relação aos componentes centrais da arquitetura em nuvem,
+julgue os itens a seguir.
+87
+
+Para se atribuir um IP estático a uma instância, é necessário
+que a instância esteja na mesma zona desse IP estático.
+
+88
+
+Os discos permanentes zonais residem em zonas; para anexar
+um desses discos a uma instância, os dois recursos precisam
+estar na mesma zona.
+
+Julgue os itens subsequentes, com referência às características
+gerais de identidade, privacidade, conformidade e segurança na
+nuvem.
+89
+
+Cabe ao cliente do provedor de serviços em nuvem
+estabelecer as normas e os procedimentos que devem
+compor as políticas de segurança desses serviços para fins de
+controle de acesso ao sistema.
+
+90
+
+Antes de se enviar informações confidenciais a uma
+instância de máquina virtual, é preciso verificar a identidade
+da instância.
+
+Com referência às características dos serviços de TI, julgue os
+itens seguintes.
+91
+
+TCP/IP é um conjunto de regras padronizadas que permite
+que os computadores se comuniquem em uma rede
+exclusiva, como a extranet.
+
+92
+
+Na camada de aplicação do TCP/IP, é usado o protocolo
+SSH, que, por ser específico para garantir a segurança na
+troca de arquivos entre cliente-servidor de Internet, não faz
+uso da criptografia de 256 bites.
+
+93
+
+MAN é uma rede de computadores com abrangência em um
+país, continente e até mesmo em dois continentes.
+
+A respeito de ambiente estruturado e do Active Directory, julgue
+os itens subsequentes.
+94
+
+Tanto no Linux quanto no Windows, o Active Directory
+armazena, quando em protocolo SSH de 256 bites, as
+informações do usuário que está logado no sistema, e
+descarta todas as informações dos demais usuários.
+
+95
+
+As redes locais sem fio são, tecnicamente, denominadas
+como Wi-Fi e podem ser representadas pela sigla LAN
+(Local Area Network).
+
+96
+
+No ambiente estruturado, os recursos avançados introduzidos
+pelo protocolo HTTP/1.1 incluem a multiplexação das
+mensagens, recurso esse que foi modernizado pelo protocolo
+HTTP/2.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Julgue os itens que se seguem, relativos à segurança de rede de
+computadores e spywares.
+97
+
+Os spywares são muitas vezes difíceis de serem removidos e
+não podem ser visualizados em janelas do tipo pop-up.
+
+98
+
+O spyware conhecido como Predator é capaz de realizar uma
+forma de cyberataque em que o criminoso age como um
+intermediário entre a vítima e o sítio de um banco ou mesmo
+de outros usuários.
+
+99
+
+O firewall de borda é o único mecanismo de proteção de rede
+apto a impedir ataques de spyware.
+
+100 Em ataque do tipo MiTM (man-in-the-middle) ou AiTM
+
+(adversary-in-the-middle), o invasor intercepta o tráfego da
+vítima e força um redirecionamento ao sítio espião, que usa
+o HTTP em vez do HTTPS.
+Julgue os itens subsecutivos, com referência a configuração de
+rede de computadores, serviços de helpdesk e sistema operacional
+Windows Server.
+101 No IPv4, a máscara de rede 255.255.255.192 deve ser
+
+utilizada para se criar uma sub-rede com suporte a 62 hosts.
+102 A IPMI (Intelligent Plataform Management Interface) é uma
+
+interface padronizada para a gerência de hardware que
+propicia o monitoramento de sistemas de computadores.
+103 Em um ambiente Windows Server, os três elementos
+
+primários de configuração da política de senha são: tamanho
+da senha; multifator de autenticação; complexidade da senha.
+104 Uma central de serviços de helpdesk é caracterizada por ter
+
+um ponto único de contato entre o cliente e o prestador dos
+serviços e por realizar a definição de acordos de serviço
+entre a área de atendimento e seus clientes.
+105 Para a instalação do Windows Server 2022 no modo
+
+Servidor com Experiência Desktop, o requisito mínimo de
+RAM é de 10,8 GB.
+A respeito de programas de navegação na Internet e de correio
+eletrônico, julgue os seguintes itens.
+106 Nos navegadores atuais, embora a navegação anônima
+
+permita que o histórico não seja armazenado, os cookies
+continuam ativos mesmo após se encerrar a sessão do
+navegador.
+107 POP3 é o protocolo padrão usado para o envio de emails,
+
+enquanto, para a recepção, é utilizado o SMTP.
+108 O Firefox permite a visualização do histórico das páginas
+
+acessadas, em um painel lateral.
+109 O Firefox oferece ao usuário a possibilidade de personalizar
+
+a experiência de navegação por meio de temas, os quais
+incluem esquemas de cores.
+
+
+:
+
+Tendo como referência a figura precedente, que apresenta parte
+de uma planilha editada no Microsoft Office 365 Excel, julgue os
+próximos itens, a respeito do Microsoft Office 365.
+110 A partir da planilha apresentada, para se extrair a média
+
+ponderada da quantidade de software instalada, deve-se
+utilizar a fórmula =MÉDIA(B2:B6).
+111 No Microsoft Office 365 Word, utiliza-se as teclas § + S
+
+para salvar as alterações no documento e as teclas § + b
+para aplicar o formato de negrito a um texto ou parte dele.
+112 A fórmula =PROCV(A8;A2:B6;2;FALSO), executada na
+
+célula B8 da planilha apresentada, permite a obtenção do
+conteúdo numérico dessa célula.
+Julgue os próximos itens, relativos a banco de dados.
+113 Um sistema gerenciador de banco de dados é uma coleção de
+
+dados inter-relacionados e um conjunto de softwares que
+possibilitam o armazenamento e o gerenciamento desses
+dados de maneira eficiente.
+114 A atomicidade do dado garante que os efeitos de uma
+
+transação bem-sucedida sejam permanentemente armazenados
+no banco de dados, mesmo em caso de falhas no sistema.
+115 No modelo relacional, uma tabela é composta por uma
+
+coleção de relacionamentos, em que cada linha representa
+uma instância de uma entidade do mundo real.
+116 Sistemas de banco de dados podem ser projetados para
+
+aproveitar as arquiteturas de computação paralela, em que
+uma máquina servidora executa operações no banco de
+dados.
+A respeito de malwares, julgue os itens que se seguem.
+117 Spyware é uma forma de software malicioso que opera de
+
+maneira oculta, coletando informações do usuário sem
+permissão, representando uma ameaça à privacidade e à
+segurança digital.
+118 Embora
+
+exiba anúncios indesejados, muitas vezes
+integrando-se a programas gratuitos, o adware não é
+considerado um malware.
+
+Acerca de comunicação colaborativa, julgue os próximos itens.
+119 No Microsoft Teams, para se visualizar os projetos
+
+diretamente e transformar as conversas do chat em itens,
+basta adicionar o aplicativo Trello, por meio de ícone
+disponibilizado na barra superior do Teams.
+120 No Microsoft Teams, as postagens em um canal são
+
+agrupadas em threads, mantendo as respostas agrupadas e
+facilitando o acompanhamento das postagens simultâneas.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Espaço livre
+
+

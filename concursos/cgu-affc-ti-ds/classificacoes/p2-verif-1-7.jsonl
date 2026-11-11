@@ -1,0 +1,50 @@
+{"id":"v1-7-01","codigo":"OUTRO","rel":"fora","motivo":"servidores"}
+{"id":"v1-7-02","codigo":"OUTRO","rel":"fora","motivo":"bioinformática"}
+{"id":"v1-7-03","codigo":"OUTRO","rel":"fora","motivo":"comunicação"}
+{"id":"v1-7-04","codigo":"OUTRO","rel":"fora","motivo":"mineração"}
+{"id":"v1-7-05","codigo":"OUTRO","rel":"fora","motivo":"servidores"}
+{"id":"v1-7-06","codigo":"OUTRO","rel":"fora","motivo":"documentos digitalizados"}
+{"id":"v1-7-07","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-7-08","codigo":"OUTRO","rel":"fora","motivo":"física"}
+{"id":"v1-7-09","codigo":"OUTRO","rel":"fora","motivo":"SOA"}
+{"id":"v1-7-10","codigo":"OUTRO","rel":"fora","motivo":"tributário"}
+{"id":"v1-7-11","codigo":"OUTRO","rel":"fora","motivo":"ética do psicólogo"}
+{"id":"v1-7-12","codigo":"OUTRO","rel":"fora","motivo":"segurança do trabalho"}
+{"id":"v1-7-13","codigo":"OUTRO","rel":"fora","motivo":"administração"}
+{"id":"v1-7-14","codigo":"OUTRO","rel":"fora","motivo":"IA generativa técnica"}
+{"id":"v1-7-15","codigo":"OUTRO","rel":"fora","motivo":"estatística"}
+{"id":"v1-7-16","codigo":"P2·GOV 2","rel":"alta","motivo":"nível de risco"}
+{"id":"v1-7-17","codigo":"P2·DIR 3","rel":"alta","motivo":"controle externo x interno"}
+{"id":"v1-7-18","codigo":"P2·TRANSP 2","rel":"baixa","motivo":"encarregado LGPD"}
+{"id":"v1-7-19","codigo":"P2·TRANSP 4","rel":"alta","motivo":"participação popular e transparência orçamentária"}
+{"id":"v1-7-20","codigo":"OUTRO","rel":"fora","motivo":"amostragem"}
+{"id":"v1-7-21","codigo":"OUTRO","rel":"fora","motivo":"logística"}
+{"id":"v1-7-22","codigo":"OUTRO","rel":"fora","motivo":"big data"}
+{"id":"v1-7-23","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-7-24","codigo":"OUTRO","rel":"fora","motivo":"saneamento"}
+{"id":"v1-7-25","codigo":"P2·TRANSP 1","rel":"alta","motivo":"recurso contra negativa de acesso"}
+{"id":"v1-7-26","codigo":"OUTRO","rel":"fora","motivo":"engenharia"}
+{"id":"v1-7-27","codigo":"OUTRO","rel":"fora","motivo":"administração"}
+{"id":"v1-7-28","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-7-29","codigo":"P2·TRANSP 1","rel":"alta","motivo":"competência de classificação de sigilo"}
+{"id":"v1-7-30","codigo":"P2·TRANSP 2","rel":"media","motivo":"princípio da finalidade LGPD"}
+{"id":"v1-7-31","codigo":"OUTRO","rel":"fora","motivo":"redes"}
+{"id":"v1-7-32","codigo":"P2·TRANSP 1","rel":"alta","motivo":"acesso à informação e direitos fundamentais"}
+{"id":"v1-7-33","codigo":"OUTRO","rel":"fora","motivo":"contratações"}
+{"id":"v1-7-34","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-7-35","codigo":"OUTRO","rel":"fora","motivo":"planejamento estadual"}
+{"id":"v1-7-36","codigo":"OUTRO","rel":"fora","motivo":"dívida pública"}
+{"id":"v1-7-37","codigo":"OUTRO","rel":"fora","motivo":"entrega contínua"}
+{"id":"v1-7-38","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}
+{"id":"v1-7-39","codigo":"OUTRO","rel":"fora","motivo":"marketing"}
+{"id":"v1-7-40","codigo":"P2·TRANSP 2","rel":"baixa","motivo":"sigilo fiscal e bancário"}
+{"id":"v1-7-41","codigo":"OUTRO","rel":"fora","motivo":"agroflorestal"}
+{"id":"v1-7-42","codigo":"OUTRO","rel":"fora","motivo":"SSH"}
+{"id":"v1-7-43","codigo":"P2·GOV 2","rel":"media","motivo":"risco significância e probabilidade"}
+{"id":"v1-7-44","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-7-45","codigo":"OUTRO","rel":"fora","motivo":"PDCA"}
+{"id":"v1-7-46","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}
+{"id":"v1-7-47","codigo":"OUTRO","rel":"fora","motivo":"data warehouse"}
+{"id":"v1-7-48","codigo":"OUTRO","rel":"fora","motivo":"jornalismo"}
+{"id":"v1-7-49","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-7-50","codigo":"OUTRO","rel":"fora","motivo":"penal"}

@@ -1,0 +1,50 @@
+{"id":"v1-13-01","codigo":"OUTRO","rel":"fora","motivo":"remuneração"}
+{"id":"v1-13-02","codigo":"OUTRO","rel":"fora","motivo":"compras"}
+{"id":"v1-13-03","codigo":"OUTRO","rel":"fora","motivo":"finanças"}
+{"id":"v1-13-04","codigo":"OUTRO","rel":"fora","motivo":"web services"}
+{"id":"v1-13-05","codigo":"OUTRO","rel":"fora","motivo":"servidores"}
+{"id":"v1-13-06","codigo":"P2·EVID 5","rel":"alta","motivo":"IA, vieses e inclusão"}
+{"id":"v1-13-07","codigo":"OUTRO","rel":"fora","motivo":"engenharia"}
+{"id":"v1-13-08","codigo":"OUTRO","rel":"fora","motivo":"tributário"}
+{"id":"v1-13-09","codigo":"OUTRO","rel":"fora","motivo":"aprendizado de máquina"}
+{"id":"v1-13-10","codigo":"OUTRO","rel":"fora","motivo":"administração"}
+{"id":"v1-13-11","codigo":"OUTRO","rel":"fora","motivo":"capacidade de processo"}
+{"id":"v1-13-12","codigo":"OUTRO","rel":"fora","motivo":"projetos"}
+{"id":"v1-13-13","codigo":"OUTRO","rel":"fora","motivo":"ISO 27002"}
+{"id":"v1-13-14","codigo":"OUTRO","rel":"fora","motivo":"padrões de projeto"}
+{"id":"v1-13-15","codigo":"OUTRO","rel":"fora","motivo":"marco civil"}
+{"id":"v1-13-16","codigo":"OUTRO","rel":"fora","motivo":"organograma"}
+{"id":"v1-13-17","codigo":"OUTRO","rel":"fora","motivo":"gestão por resultados (P1)"}
+{"id":"v1-13-18","codigo":"OUTRO","rel":"fora","motivo":"recursos hídricos"}
+{"id":"v1-13-19","codigo":"OUTRO","rel":"fora","motivo":"interpretação de texto"}
+{"id":"v1-13-20","codigo":"P2·EVID 2","rel":"baixa","motivo":"indicadores sociais"}
+{"id":"v1-13-21","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-13-22","codigo":"OUTRO","rel":"fora","motivo":"quadtree"}
+{"id":"v1-13-23","codigo":"OUTRO","rel":"fora","motivo":"criptografia"}
+{"id":"v1-13-24","codigo":"OUTRO","rel":"fora","motivo":"VPN"}
+{"id":"v1-13-25","codigo":"OUTRO","rel":"fora","motivo":"contabilidade pública"}
+{"id":"v1-13-26","codigo":"P2·GOV 2","rel":"media","motivo":"salvaguarda de ativos e controles"}
+{"id":"v1-13-27","codigo":"OUTRO","rel":"fora","motivo":"modelagem"}
+{"id":"v1-13-28","codigo":"P2·DIR 1","rel":"media","motivo":"controle judicial e discricionariedade"}
+{"id":"v1-13-29","codigo":"P2·AUD 1","rel":"baixa","motivo":"comitê de auditoria e auditor independente"}
+{"id":"v1-13-30","codigo":"OUTRO","rel":"fora","motivo":"bases de dados"}
+{"id":"v1-13-31","codigo":"OUTRO","rel":"fora","motivo":"firewall"}
+{"id":"v1-13-32","codigo":"P2·GOV 1","rel":"media","motivo":"conselho de administração e governança"}
+{"id":"v1-13-33","codigo":"P2·DIR 3","rel":"baixa","motivo":"ação civil pública"}
+{"id":"v1-13-34","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-13-35","codigo":"OUTRO","rel":"fora","motivo":"ECM"}
+{"id":"v1-13-36","codigo":"OUTRO","rel":"fora","motivo":"urbanismo"}
+{"id":"v1-13-37","codigo":"OUTRO","rel":"fora","motivo":"responsabilidade do Estado"}
+{"id":"v1-13-38","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dados sensíveis e obrigação legal"}
+{"id":"v1-13-39","codigo":"OUTRO","rel":"fora","motivo":"estatística"}
+{"id":"v1-13-40","codigo":"OUTRO","rel":"fora","motivo":"arquitetura"}
+{"id":"v1-13-41","codigo":"P2·TRANSP 2","rel":"alta","motivo":"definição de dado sensível"}
+{"id":"v1-13-42","codigo":"P2·GOV 1","rel":"alta","motivo":"governança e accountability"}
+{"id":"v1-13-43","codigo":"OUTRO","rel":"fora","motivo":"plebiscito"}
+{"id":"v1-13-44","codigo":"P2·DIR 1","rel":"alta","motivo":"princípios da Lei 9.784"}
+{"id":"v1-13-45","codigo":"OUTRO","rel":"fora","motivo":"reforma agrária"}
+{"id":"v1-13-46","codigo":"OUTRO","rel":"fora","motivo":"políticas públicas"}
+{"id":"v1-13-47","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-13-48","codigo":"OUTRO","rel":"fora","motivo":"eletrônica"}
+{"id":"v1-13-49","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-13-50","codigo":"P2·DIR 3","rel":"baixa","motivo":"competência normativa do tribunal de contas"}

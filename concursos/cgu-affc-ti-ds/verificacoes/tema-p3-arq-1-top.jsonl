@@ -1,0 +1,6 @@
+{"item": "2", "edital": "P3·ARQ 1.7", "relevancia": "media", "nucleo_id": "n-mvc-separacao-beneficios", "tags": ["INVERSAO", "CAUSA_CONSEQUENCIA"], "nivel": "medio"}
+{"item": "3", "edital": "P3·ARQ 2.1", "relevancia": "media", "nucleo_id": "n-api-gateway-rota-metodo", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "11", "edital": "P3·ARQ 1.1", "relevancia": "alta", "nucleo_id": "n-microsservicos-fracamente-acoplados", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "13", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["DETALHE_NUMERICO"], "nivel": "dificil"}
+{"item": "14", "edital": "P3·ARQ 1.1", "relevancia": "media", "nucleo_id": "n-soa-descoberta-servico", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "20", "edital": "P3·ARQ 2.1", "relevancia": "media", "nucleo_id": "n-rest-independencia-implementacao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

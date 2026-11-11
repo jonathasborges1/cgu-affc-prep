@@ -1,0 +1,50 @@
+{"id": "v1-4-01", "codigo": "OUTRO", "rel": "fora", "motivo": "Normativo GSI de segurança da informação, tema de TI"}
+{"id": "v1-4-02", "codigo": "OUTRO", "rel": "fora", "motivo": "PHP e banco de dados relacional, TI"}
+{"id": "v1-4-03", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "Competência estadual sobre serviços locais, federalismo"}
+{"id": "v1-4-04", "codigo": "OUTRO", "rel": "fora", "motivo": "Contabilidade societária, consolidação de demonstrações"}
+{"id": "v1-4-05", "codigo": "P1·SOC 4", "rel": "media", "motivo": "Direitos do idoso e acesso a transporte"}
+{"id": "v1-4-06", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "Pacto federativo e judicialização de políticas públicas"}
+{"id": "v1-4-07", "codigo": "OUTRO", "rel": "fora", "motivo": "Sistema eletrônico estadual específico, sem tema do edital"}
+{"id": "v1-4-08", "codigo": "OUTRO", "rel": "fora", "motivo": "Recebimento definitivo em contratação, licitações"}
+{"id": "v1-4-09", "codigo": "OUTRO", "rel": "fora", "motivo": "Engenharia de manufatura aditiva"}
+{"id": "v1-4-10", "codigo": "P1·ETICA 5", "rel": "media", "motivo": "Conduta ética como mecanismo de compliance"}
+{"id": "v1-4-11", "codigo": "OUTRO", "rel": "fora", "motivo": "Direito processual, presunção de legitimidade das provas"}
+{"id": "v1-4-12", "codigo": "P1·ESTADO 3", "rel": "alta", "motivo": "Federalismo cooperativo e autonomia financeira"}
+{"id": "v1-4-13", "codigo": "OUTRO", "rel": "fora", "motivo": "Reescrita gramatical, língua portuguesa"}
+{"id": "v1-4-14", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Participação social na gestão de políticas públicas"}
+{"id": "v1-4-15", "codigo": "OUTRO", "rel": "fora", "motivo": "Julgamento de contas pelo tribunal, controle externo específico"}
+{"id": "v1-4-16", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "Conteúdo e finalidade do PPA"}
+{"id": "v1-4-17", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Balanço orçamentário, contabilidade pública"}
+{"id": "v1-4-18", "codigo": "OUTRO", "rel": "fora", "motivo": "Acesso à informação e processo disciplinar, legislação específica"}
+{"id": "v1-4-19", "codigo": "OUTRO", "rel": "fora", "motivo": "Segurança e saúde no trabalho"}
+{"id": "v1-4-20", "codigo": "OUTRO", "rel": "fora", "motivo": "Treinamento e desenvolvimento, gestão de pessoas"}
+{"id": "v1-4-21", "codigo": "P1·ESTADO 1", "rel": "baixa", "motivo": "Regime de direito público e indisponibilidade do interesse"}
+{"id": "v1-4-22", "codigo": "P1·ADM 4", "rel": "media", "motivo": "Renúncia de receita e LDO"}
+{"id": "v1-4-23", "codigo": "OUTRO", "rel": "fora", "motivo": "Evidências de auditoria, contabilidade e auditoria"}
+{"id": "v1-4-24", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Componentes de formulação de políticas públicas"}
+{"id": "v1-4-25", "codigo": "OUTRO", "rel": "fora", "motivo": "Rito de julgamento de contas no tribunal"}
+{"id": "v1-4-26", "codigo": "P1·ADM 2", "rel": "media", "motivo": "Governança e acompanhamento de resultados de políticas"}
+{"id": "v1-4-27", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei Orgânica de tribunal de contas estadual"}
+{"id": "v1-4-28", "codigo": "P1·ESTADO 5", "rel": "alta", "motivo": "Controle da administração pública interno e externo"}
+{"id": "v1-4-29", "codigo": "OUTRO", "rel": "fora", "motivo": "Web services, TI"}
+{"id": "v1-4-30", "codigo": "OUTRO", "rel": "fora", "motivo": "Planejamento estratégico de TI"}
+{"id": "v1-4-31", "codigo": "OUTRO", "rel": "fora", "motivo": "Vigência de contrato de TI, licitações"}
+{"id": "v1-4-32", "codigo": "OUTRO", "rel": "fora", "motivo": "Teoria dos contratos administrativos"}
+{"id": "v1-4-33", "codigo": "OUTRO", "rel": "fora", "motivo": "Licenciamento ambiental, direito ambiental"}
+{"id": "v1-4-34", "codigo": "OUTRO", "rel": "fora", "motivo": "LDAP em Linux, TI"}
+{"id": "v1-4-35", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "Previsão de receitas e fixação de despesas no orçamento"}
+{"id": "v1-4-36", "codigo": "P1·ESTADO 3", "rel": "alta", "motivo": "Organização político-administrativa da República"}
+{"id": "v1-4-37", "codigo": "P1·SOC 5", "rel": "alta", "motivo": "Insegurança alimentar, transferência de renda e pobreza"}
+{"id": "v1-4-38", "codigo": "P1·ESTADO 7", "rel": "baixa", "motivo": "Conflito de agência em empresas, finanças corporativas"}
+{"id": "v1-4-39", "codigo": "OUTRO", "rel": "fora", "motivo": "Probabilidade, matemática"}
+{"id": "v1-4-40", "codigo": "P1·ADM 2", "rel": "media", "motivo": "Abertura à participação social e parcerias na gestão"}
+{"id": "v1-4-41", "codigo": "P1·ADM 5", "rel": "baixa", "motivo": "Comunicação pública e acesso do cidadão à informação"}
+{"id": "v1-4-42", "codigo": "OUTRO", "rel": "fora", "motivo": "Portos e engenharia de terraplenagem"}
+{"id": "v1-4-43", "codigo": "P1·SOC 5", "rel": "media", "motivo": "Seguridade social como proteção social"}
+{"id": "v1-4-44", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "Abuso de poder, tangencia limites ao poder"}
+{"id": "v1-4-45", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "PPA como instrumento de planejamento de médio prazo"}
+{"id": "v1-4-46", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "Papel econômico do Estado e tributação"}
+{"id": "v1-4-47", "codigo": "OUTRO", "rel": "fora", "motivo": "Conceitos de erro e falha, segurança/TI"}
+{"id": "v1-4-48", "codigo": "OUTRO", "rel": "fora", "motivo": "Acórdão em tribunal de contas, regimento"}
+{"id": "v1-4-49", "codigo": "OUTRO", "rel": "fora", "motivo": "Interpretação de texto literário, português"}
+{"id": "v1-4-50", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "Poder de polícia, direito administrativo"}

@@ -1,0 +1,380 @@
+CEBRASPE – FUB – Edital: 2025
+
+-- CONHECIMENTOS ESPECÍFICOS –
+Com relação a sistemas de comunicações, julgue os itens a
+seguir.
+51 Um sistema digital que ocupa uma banda de 2 kHz, com uma
+taxa de bits de 4 kbps, tem eficiência espectral de
+0,5 bps/Hz.
+52 Nos sistemas de transmissão, é desejável que o sinal
+transmitido apresente um componente DC para que se evite a
+saturação de circuitos elétricos no sistema.
+53 Para a transmissão de mais de um sinal em um mesmo meio
+físico, pode ser utilizada a multiplexação.
+54 Um sinal analógico varia em um conjunto de valores
+discretos.
+55 O ruído térmico, em um sistema de comunicações, é
+provocado pela sobreposição de sinais de diferentes
+frequências.
+Julgue os itens seguintes, referentes a conceitos de eletricidade e
+circuitos elétricos.
+56 Em um circuito que apresenta fator de potência de 0,8, caso a
+potência aparente seja de 500 VA, a potência reativa será de
+300 Var.
+57 Em um indutor, a reatância indutiva é diretamente
+proporcional à indutância e inversamente proporcional à
+frequência.
+58 Se dois objetos estão em equilíbrio eletrostático, suas cargas
+são iguais.
+59 Quando submetido a uma tensão contínua, um capacitor
+totalmente descarregado é percebido pela fonte de
+alimentação como se ele fosse um circuito aberto.
+Considerando os dispositivos e circuitos em eletrônica analógica,
+julgue os itens subsecutivos.
+60 Em um amplificador operacional na configuração inversora,
+o módulo do ganho é dado pela razão entre os resistores de
+realimentação e de entrada.
+61 O controle de corrente em um MOSFET tipo intensificação
+de canal n é realizado por uma tensão positiva porta-fonte.
+62 Em um transistor MOSFET, um anel de curto-circuito pode
+ser utilizado para conectar os terminais do dispositivo até
+que ele seja inserido no circuito, de maneira a evitar dano
+por manuseio.
+63 O funcionamento do diodo Zener baseia-se no efeito de
+avalanche causado pelo incremento da polarização direta em
+seus terminais.
+
+Tendo como referência o circuito representado na ilustração
+precedente e conceitos de eletrônica digital, julgue os próximos
+itens.
+64 A depender dos níveis lógicos das entradas, as saídas S1 e S2
+podem ser idênticas.
+65 Se as entradas E1 e E2 estiverem no nível lógico 1, as saídas
+serão imprevisíveis pela instabilidade no circuito eletrônico.
+66 O circuito lógico em questão corresponde a uma célula de
+memória.
+67 O circuito apresentado é síncrono.
+
+Considerando a classificação básica de sistemas de transmissão
+via rádio, em particular no que se refere às técnicas de modulação
+analógicas e digitais, julgue os itens que se seguem.
+68 Considere que um sinal modulado em 64-QAM seja
+utilizado por um sistema de comunicação para transmitir
+bits, por meio de um canal do tipo AWGN (additive white
+gaussian noise), à taxa de 4 Mbps, inclusive bits referentes à
+informação e bits para codificação de canal. Considere,
+ainda, que o transmissor desse sinal modulado empregue
+filtragem do tipo cosseno-levantado, com fator de rolloff
+igual a 0,5, e que a razão entre a potência do sinal modulado
+e a potência do ruído na entrada do sistema receptor
+seja 7 (valor adimensional). Nesse caso, a transmissão pode
+ocorrer com taxa de erro de bit (BER) na recepção
+arbitrariamente pequena, caso a banda a ser utilizada do
+espectro eletromagnético seja igual à banda definida pelos
+limites fundamentais estabelecidos por Nyquist, e desde que
+seja empregada técnica de codificação de canal apropriada.
+69 Considere que um sinal que ocupa uma banda máxima de
+1 MHz esteja modulado em frequência, com sinal modulante
+analógico e com máximo desvio de frequência em relação à
+frequência quiescente da portadora igual a 450 kHz. Nesse
+caso, é correto afirmar que o sinal modulante ocupa uma
+banda menor ou igual a 25 kHz.
+70 VSB (vestigial sideband) consiste em técnica de modulação
+angular que emprega uma combinação de modulação em
+frequência e modulação em fase, por meio do uso de filtros
+adequadamente ajustados para, na presença de interferência
+do tipo faixa estreita, incrementar a SNR entre o sinal e o
+ruído somado à interferência na entrada do receptor.
+Com relação a antenas e propagação de ondas eletromagnéticas
+no contexto de sistemas sem fio, julgue os itens subsequentes.
+71 Considere que, para um sistema sem fio cujas antenas de
+transmissão e de recepção possuam ganho de 20 dBi e
+estejam separadas por 1 km, a propagação ocorra em
+60/(4) GHz nas condições de free space e a sensibilidade
+do sistema receptor seja −80 dBm. Nessa situação, a
+potência a ser entregue à antena transmissora deve ser
+superior a 10 dBW a fim de garantir uma taxa de transmissão
+adequada à comunicação.
+72 Para um sistema sem fio em que a VSWR (voltage standing
+wave ratio) medida entre o transmissor e sua antena acoplada
+é igual a 1, garante-se um coeficiente de reflexão nulo nos
+terminais da antena e o casamento conjugado de
+impedâncias, com a máxima potência entregue à antena pelo
+transmissor.
+73 A onda eletromagnética apresenta variação na orientação do
+campo eletromagnético na proximidade da antena radiante na
+denominada região de Fresnel, onde começa a ocorrer a
+transição desse campo de reativo para radiativo.
+74 Na propagação de uma onda eletromagnética plana, os
+vetores campo elétrico e campo magnético não possuem
+componente na direção de propagação da onda, e seus
+componentes não nulos estão relacionados por meio da
+impedância intrínseca do meio.
+75 Antenas parabólicas são aquelas em que o ganho com
+relação à antena isotrópica independe da largura de feixe de
+meia potência, o que permite construir antenas
+simultaneamente com alto ganho e largura de feixe
+arbitrariamente grande, desde que inferior a 180 graus,
+mesmo com eficiência de radiação inferior a 100%.
+
+CEBRASPE – FUB – Edital: 2025
+
+Com relação a técnicas envolvidas na multiplexação de sinais de
+comunicação, julgue os itens seguintes.
+76 Se um sinal multiplexado obtido na saída de um
+multiplexador tem taxa de transmissão de bits igual
+a 274 Mbps e for utilizado para modular uma portadora
+em 256-QAM, então, nessa situação, a banda ocupada pelo
+sinal modulado será necessariamente superior a 30 MHz.
+77 Considere que um sinal digital em banda base seja obtido
+pela multiplexação por divisão no tempo (TDM) de 30 sinais
+de informação analógicos distintos, modulados por
+codificação de pulso (PCM), em que cada amostra é tomada
+à taxa de 100.000 amostras por segundo, sendo, em seguida,
+quantizada e codificada por palavras binárias de 10 bits.
+Nesse caso, se o sinal multiplexado não tem bits de
+enchimento, nem tempo de guarda, a sua banda ocupada é
+superior a 10 MHz, enquanto a banda ocupada de cada sinal
+de informação analógico é menor que 60 kHz.
+78 Uma das vantagens do processo de quantização uniforme em
+relação ao processo de quantização não uniforme decorrente
+da aplicação da Lei A é a garantia de que a relação entre a
+potência do sinal de informação a ser quantizado e a potência
+do ruído de quantização é constante dentro de uma faixa
+maior de variação da potência desse sinal de informação.
+79 Na hierarquia de multiplexação digital plesiócrona, a taxa de
+transmissão de bits do sinal obtido na saída do multiplexador
+de determinado nível é sempre maior que a taxa de
+transmissão de bits do sinal obtido no nível hierárquico
+inferior; isso acarreta o aumento da banda de frequências
+ocupada pelo sinal multiplexado e, por consequência, a
+diminuição da relação entre a potência do sinal e a potência
+do ruído de quantização.
+No que concerne a sistemas sem fio, julgue os itens a seguir.
+80 Em um sistema sem fio em visada, quanto maior for a
+frequência de operação utilizada, menor será o raio da
+primeira zona de Fresnel.
+81 Ao se aumentar a frequência de operação de uma estação de
+rádio base de um sistema de comunicação móvel celular,
+para que a área de cobertura seja mantida, pode-se aumentar
+a potência de transmissão; isso exige a diminuição do fator
+de reúso, caso seja necessário manter a relação entre
+potência do sinal recebido e a potência de interferência
+intrassistema nos receptores dentro da área de cobertura da
+célula.
+82 Em sistema sem fio que emprega a técnica OFDM e
+modulação M-ária, em que se transmitem n bits por símbolo,
+a eficiência espectral pode ser superior a n bps/Hz,
+ajustando-se adequadamente o espaçamento entre as
+subportadoras e o tempo de guarda entre símbolos
+transmitidos.
+83 Em sistema sem fio em que é empregada a técnica de
+multiplexação por divisão de frequência ortogonal (OFDM),
+implementada por meio dos conceitos da Transforma de
+Fourier, quanto maior for o espaçamento entre as
+subportadoras do sistema, menor será a duração dos
+símbolos OFDM, para um tempo de guarda entre esses
+símbolos mantido constante.
+84 Em sistemas sem fio em que é empregada a técnica de
+espalhamento de espectro por sequência direta (DSSS), a
+interferência
+intersimbólica
+pode
+ser
+mitigada
+aumentando-se o fator de espalhamento.
+85 Em sistemas sem fio digitais em que o canal de comunicação
+apresenta delay spread, o tempo de guarda entre símbolos
+transmitidos pode ser empregado para se mitigar a
+interferência intersimbólica.
+
+Julgue os itens a seguir, acerca de técnicas de comutação
+telefônica.
+86 Na comutação de circuitos, as informações são divididas em
+unidades
+menores,
+transmitidas
+ao
+longo
+do
+meio estabelecido.
+87 Na comutação de pacotes, é estabelecida uma conexão desde
+a origem até o destino, alocando recursos da rede durante a
+transmissão dos dados.
+No que diz respeito a sistemas de cabeamento estruturado, julgue
+os próximos itens.
+88 A norma ANSI/TIA-568 define padrões de sistema de
+cabeamento estruturado para edifícios comerciais e entre
+edifícios em ambientes de campus.
+89 A norma EIA/TIA-568-B classifica o sistema de cabeamento
+com base em vários aspectos, entre os quais está o
+desempenho.
+Julgue os itens subsequentes, relativos aos tipos de fibras ópticas.
+90 As fibras multimodo têm menor diâmetro que as monomodo
+e, por isso, permitem vários feixes de luz de forma
+simultânea.
+91 As fibras monomodo transmitem 2 ou mais feixes de luz.
+Julgue os itens seguintes, no que se refere à classificação de
+sinais quanto à continuidade.
+92 Sinal discreto é aquele cuja amplitude é definida apenas para
+valores específicos da variável independente.
+93 Sinal contínuo é aquele que é definido para todo e qualquer
+valor da variável independente.
+Espaço livre
+
+CEBRASPE – FUB – Edital: 2025
+
+Em relação às técnicas de comutação utilizadas em sistemas de
+telefonia, julgue os seguintes itens.
+94
+
+Na multiplexação por divisão de tempo (TDM), transmite-se
+apenas um sinal por vez.
+
+95
+
+A multiplexação é um tipo de técnica que aumenta a banda
+passante em função do sinal elétrico.
+
+Considerando as características de cabos par trançado, julgue os
+itens que se seguem de acordo com a norma ANSI/TIA-568.
+96
+
+Devido a suas características, o cabo de categoria 5 é
+exclusivo para a transmissão de dados.
+
+97
+
+O cabo de categoria 5 tem uma largura de banda de
+100 MHz.
+
+fibras óticas.
+
+entrega confiável dos dados entre aplicações, com foco no
+controle de erros.
+109 Na topologia de rede TCP/IP do tipo estrela, toda informação
+
+enviada de um dispositivo de rede para outro deverá
+obrigatoriamente passar pelo ponto central (hub ou switch), o
+que facilita a gestão e a comunicação.
+110 Em criptografia, redundância consiste na tomada de medidas
+
+que assegurem que cada mensagem recebida possa ser
+confirmada como uma mensagem atual, isto é, enviada muito
+recentemente.
+simétrica do tipo cifras de bloco codificam dados em blocos
+de tamanho fixo.
+112 Uma desvantagem do firewall é não fazer distinção entre o
+
+Nas fibras óticas, a perda de potência na transmissão de
+informação é baixa em relação às outras tecnologias
+de transmissão.
+
+99
+
+108 No modelo de referência OSI, a camada de rede garante a
+
+111 No padrão de criptografia avançada (AES), a criptografia
+
+Julgue os itens subsecutivos, referentes às características de
+98
+
+Julgue os itens subsequentes, a respeito de criptografia, firewall,
+modelos de referência OSI e TCP e topologia e arquitetura.
+
+A atenuação que sofre a luz na fibra independe do
+
+tráfego HTTP para navegação web e o tráfego HTTP para
+compartilhamento de arquivos peer-to-peer.
+113 O modelo TCP/IP não garante entrega confiável em todas as
+
+camadas.
+Julgue os itens subsecutivos, relativos a redes de comunicação de
+dados.
+
+comprimento de onda.
+Com relação às operações básicas realizadas em sinais, julgue os
+itens a seguir.
+100 Escalonar é a soma do sinal por uma constante, tal qual
+
+a(z)=y+p(z).
+101 z(a)=x(a)+y(a) é uma representação de uma operação
+
+simples de soma de sinais.
+102 Atraso é uma movimentação dada pela multiplicação do
+
+sinal, tal qual a(t)=b.c(t).
+Julgue os itens seguintes, acerca de protocolo de sinalizações de
+controle H.323 e SIP e de protocolos de transporte TCP e UDP.
+103 As portas TCP 80 e 443 são usadas, respectivamente, pela
+
+Internet (world wide web) e pela Web segura (HTTP sobre
+SSL/TLS).
+
+114 Nas redes LAN, as conexões entre dispositivos são virtuais,
+
+assim como nas VPN; nas redes WAN, essas conexões são
+físicas e realizadas por meio de cabos e ethernet ou pontos
+de acesso sem fio.
+115 Um roteador é o equipamento responsável pela conexão
+
+entre dispositivos de uma mesma rede por meio do
+encaminhamento de pacotes MAC e, por isso, opera na
+camada 2 do modelo OSI, que é a camada de enlace de
+dados.
+116 Diferentemente da ethernet tradicional, na qual todos os
+
+dispositivos compartilham um único canal de comunicação,
+a ethernet comutada utiliza switches de rede para melhorar a
+comunicação entre esses dispositivos.
+117 O IPv4 utiliza endereços numéricos de 32 bits, sendo
+
+104 Por não ser orientado à conexão, o protocolo TCP não
+
+necessária, em alguns casos, a utilização de NAT para
+permitir que dispositivos privados se conectem à Internet.
+
+garante que os dados cheguem ao destino sem perdas ou
+
+118 Na implementação de uma VLAN, deverá ser criada, no
+
+erros.
+105 O protocolo UDP realiza controle de fluxo, controle de
+
+congestionamento, ou retransmissão após a chegada de um
+segmento incorreto.
+106 H.323 é um padrão de telecomunicação referente a um
+
+grande
+
+número
+
+de
+
+protocolos
+
+específicos
+
+para
+
+videoconferência e telefonia IP.
+107 O SIP é um protocolo baseado em UDP com uma estrutura
+
+de mensagens mais complexa e específica para comunicação
+de voz e vídeo.
+
+switch, uma tabela que contenha o identificador da VLAN e
+a informação referente à porta, para que as informações
+sejam entregues no endereço de destino.
+119 Uma conexão VPN redireciona, por meio de uma espécie de
+
+túnel de dados seguro, os pacotes de dados da máquina do
+usuário para outro servidor remoto antes de enviá-los a
+terceiros, usando o IPSec na criptografia.
+120 Quando a funcionalidade de qualidade de serviço (QoS) é
+
+habilitada em um roteador, a latência e o jitter (variação no
+atraso) são aumentados em razão da sobrecarga de
+processamento nesse dispositivo.
+
+

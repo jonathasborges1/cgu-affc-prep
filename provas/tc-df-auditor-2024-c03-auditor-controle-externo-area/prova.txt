@@ -1,0 +1,899 @@
+-- CONHECIMENTOS
+A respeito de computação em nuvem, julgue os itens a seguir.
+96 A nuvem privada de uma organização pode ser uma
+infraestrutura controlada por um provedor de serviços, desde
+que os recursos não sejam compartilhados em uma nuvem
+pública.
+
+97
+
+JUSTIFICATIVA - Certo. Nuvem privada pode ser considerada
+uma nuvem criada na rede interna de uma empresa, em que a
+infraestrutura física é totalmente controlada e utilizada pela própria
+organização.
+<FimJust>
+
+No modelo PaaS, o sistema operacional é um dos recursos
+computacionais que são necessariamente controlados pelo
+usuário.
+
+JUSTIFICATIVA - Errado. Nessa modalidade de computação em
+nuvem, o usuário pode instalar e gerenciar as próprias aplicações,
+desenvolvidas por ele ou adquiridas de terceiros, utilizando as
+ferramentas e bibliotecas oferecidas pelo provedor. Logo, o uso de
+PaaS elimina a necessidade de comprar, configurar e gerenciar
+recursos de hardware e software, entre os quais, o sistema
+operacional.
+<FimJust>
+
+Acerca de virtualização, julgue os próximos itens.
+98 Workload, conceito que representa a demanda de aplicações
+a serem processadas, é utilizado para o correto
+dimensionamento de uma infraestrutura virtualizada.
+
+JUSTIFICATIVA - Certo. Workload constitui-se dos dados a serem
+processados e das instruções a serem executadas sobre estes dados.
+Define a qualidade de serviço percebida pelo usuário na ponta e
+varia de acordo com a aplicação a ser processada. Assim, workload
+é definido pela demanda da aplicação e combina solicitações como
+transações online, batch jobs, consultas ad hoc, data warehousing,
+consultas analíticas e comandos dirigidos à aplicação.
+<FimJust>
+
+99
+
+A virtualização de um servidor físico ocorre exclusivamente
+mediante seu particionamento em vários servidores lógicos.
+
+JUSTIFICATIVA - Errado. A virtualização pode ser o
+particionamento de um servidor físico em vários servidores lógicos
+ou pode ser uma camada de abstração entre o hardware e o
+software, a qual protege o acesso direto do software aos recursos
+físicos do hardware.
+<FimJust>
+
+Julgue os itens subsecutivos, relativos a tecnologias de
+armazenamento.
+100 São necessários dois ou mais discos para a implementação
+do nível RAID-1.
+
+JUSTIFICATIVA - Certo. Para a implementação do nível RAID-1,
+são necessários dois discos ou mais. O funcionamento desse nível é
+simples: todos os dados são gravados em discos diferentes; se um
+disco falhar ou for removido, os dados preservados no outro disco
+evitam a descontinuidade da operação do sistema.
+<FimJust>
+
+101 Os
+
+protocolos NFS e iSCSI, utilizados
+compartilhamento de dados, atuam em nível de bloco.
+
+para
+
+JUSTIFICATIVA - Errado. O NFS permite o compartilhamento
+remoto de dados no nível do arquivo, enquanto o iSCSI permite
+esse tipo de compartilhamento no nível do bloco.
+<FimJust>
+
+A respeito de backup e de ILM (information lifecycle
+management), julgue os seguintes itens.
+102 Na fase de arquivamento de dados do ILM, os dados são
+gerenciados quanto aos quesitos de segurança e
+disponibilidade.
+
+JUSTIFICATIVA - Errado. O armazenamento de dados é realizado
+em sistemas de armazenamento de arquivo, bloco ou objeto. A fase
+
+
+CEBRASPE – TCDF – Edital: 2024
+
+ESPECIALIZADOS --
+
+que leva em conta os quesitos de segurança e disponibilidade é o
+gerenciamento de dados.
+<FimJust>
+
+103 No processo de CDP (continuous data protection), um dado
+
+modificado é instantaneamente copiado para um sistema de
+backup.
+
+JUSTIFICATIVA - Certo. CDP (continuous data protection),
+também conhecido como continuous backup, é um sistema de
+armazenamento de backup e recuperação no qual todos os dados em
+uma empresa são copiados sempre que alguma alteração é feita. Um
+sistema de backup CDP com armazenamento em disco oferece
+recuperação de dados quase em tempo real. A recuperação acontece
+em questão de segundos.
+<FimJust>
+
+Julgue os próximos itens, relativos a DevOps e Kubernetes.
+104 A
+implantação contínua é uma estratégia no
+desenvolvimento de software em que as alterações de código
+em um aplicativo são liberadas automaticamente no
+ambiente de produção.
+
+JUSTIFICATIVA - Certo. A implantação contínua é uma estratégia
+de desenvolvimento de software em que as mudanças no código em
+um aplicativo são liberadas automaticamente no ambiente de
+produção. Esta automação é orientada por uma série de testes
+predefinidos. Depois que as novas atualizações passam nesses
+testes, o sistema envia as atualizações diretamente para os usuários
+do software.
+<FimJust>
+
+105 O CRI (container runtime interface) é o principal protocolo
+
+para a comunicação entre o kubelet e o container runtime.
+
+JUSTIFICATIVA - Certo. O container runtime interface CRI é
+uma interface de plugin que permite que o kubelet use uma grande
+variedade de tempos de execução de contêiner, sem a necessidade
+de recompilar os componentes do cluster. O container runtime
+interface (CRI) é o principal protocolo para a comunicação entre os
+kubelete Container Runtime.
+<FimJust>
+106 Um statefulset define os pods que fornecem instalações e
+
+serviços com armazenamento não persistente, de forma que a
+operação do cluster seja executada sem acoplamento; assim,
+cada pod pode executar suas funções sem a necessidade de
+fazer parte de um complemento.
+
+JUSTIFICATIVA - Errado. A definição apresentada é a de
+daemonset. Um statefulset executa um grupo de pods e mantém
+uma identidade “pegajosa” para cada um desses pods. Isso é útil
+para o gerenciamento de aplicativos que precisam de
+armazenamento persistente ou uma identidade de rede estável e
+exclusiva.
+<FimJust>
+107 Um configmap é um objeto de API usado para armazenar
+
+dados confidenciais em pares de chave-valor e apresenta
+como vantagem a criptografia nativa e leve para pods.
+
+JUSTIFICATIVA - Errado. Um configmap é um objeto de API
+usado para armazenar dados não confidenciais em pares de chavevalor.
+<FimJust>
+108 Pod, por padrão, executa um container (unique container
+
+image), assim, caso seja necessário encapsular uma aplicação
+composta de vários containers fortemente acoplados, faz-se
+necessário criar vários pods correlacionados no registry.
+
+JUSTIFICATIVA - Errado. Pods que executam vários contêineres
+precisam trabalhar juntos. Um pod pode encapsular uma aplicação
+composta de vários contêineres colocalizados são fortemente
+acoplado e precisa compartilhar recursos. Esses contentores
+colocalizados formam uma única unidade coesa.
+<FimJust>
+
+
+109 O comando kubeadm
+
+init inicializa um Kubernetes
+worker e o conecta ao cluster existente.
+JUSTIFICATIVA - Errado. O comando que executa essa ação é o
+kubeadm join.
+<FimJust>
+
+110 No ingress, os caminhos que não incluem um pathType
+
+explícito falharão na validação.
+
+JUSTIFICATIVA - Certo. Cada caminho no ingress deve ter um
+tipo de caminho correspondente. Os caminhos que não incluem um
+pathType explícito falharão na validação.
+<FimJust>
+
+111 A execução do comando kubectl get services lista
+
+todos os serviços que estão no namespace, descrevendo os
+nomes dos pods e nodes associados ao cluster conectado.
+JUSTIFICATIVA - Errado. A execução desse comando listará
+apenas os serviços, sem pods e nodes.
+<FimJust>
+
+112 O ingress permite o gerenciamento de rotas HTTPS de fora
+
+do cluster para um serviço dentro do cluster, sendo o
+roteamento do tráfego controlado por regras definidas no
+próprio ingress.
+
+JUSTIFICATIVA - Certo. O ingress permite o gerenciamento de
+rotas HTTP e HTTPS de fora do cluster para serviços dentro do
+cluster. O roteamento do tráfego é controlado por regras definidas
+no próprio ingress.
+<FimJust>
+113 Helm permite que se instalem e(ou) se atualizem aplicativos
+
+do Kubernetes.
+
+JUSTIFICATIVA - Certo. Como gerenciador de pacotes para
+Kubernetes, o Helm permite que se aplique o mesmo framework de
+configuração a várias instâncias por meio de substituições de
+variável, com base no que é mais importante para sua configuração.
+<FimJust>
+
+No que se refere a comutação de circuitos e de pacotes, modelos
+OSI e TCP/IP, tecnologias de redes locais, fibras ópticas e redes
+sem fio, julgue os itens a seguir.
+114 O quadro do padrão IEEE 802.11 acomoda até quatro
+campos para endereços de 6 bytes estruturados à semelhança
+dos endereços MAC do padrão Ethernet, contudo o quarto
+campo somente estará presente quando múltiplos
+access points estiverem em uso em uma rede com
+infraestrutura estendida.
+
+JUSTIFICATIVA - Certo. Nesse padrão, existem quatro campos de
+endereço possíveis, cada um com 6 bytes de comprimento e
+estruturados da mesma forma que os endereços MAC Ethernet. O
+quarto campo só está presente quando vários APs estão em uso em
+um ESS. O significado de cada campo de endereço depende do
+valor dos sinalizadores DS no campo FC.
+<FimJust>
+
+115 Em comparação às fibras multimodo, as fibras ópticas de
+
+modo único normalmente têm diâmetro menor, são mais
+caras e amplamente usadas para transmissões por longas
+distâncias.
+
+JUSTIFICATIVA - Certo. Se o diâmetro da fibra for reduzido a
+alguns comprimentos de onda de luz, a fibra agirá como um guia de
+onda e a luz só poderá se propagar em linha reta, sem ricochetear.
+Assim são produzidas as fibras de modo único (ou fibras
+monomodo), que são mais caras, porém amplamente utilizadas para
+distâncias mais longas.
+<FimJust>
+
+116 Enquanto, na comutação de pacotes, há a necessidade de se
+
+estabelecer previamente um caminho entre origem e destino
+para o subsequente envio dos pacotes de dados, na
+comutação de circuitos, os dados são enviados tão logo
+estejam disponíveis, configurando o circuito em tempo real
+de transmissão.
+
+JUSTIFICATIVA - Errado. Uma propriedade importante da
+
+
+CEBRASPE – TCDF – Edital: 2024
+comutação de circuitos é a necessidade de se estabelecer um
+caminho ponta a ponta antes que qualquer dado possa ser enviado.
+<FimJust>
+117 No modelo de referência TCP/IP, quaisquer funções
+
+necessárias de sessão e apresentação, tais quais definidas no
+modelo OSI, são desempenhadas pelas camadas de
+transporte ou de Internet, suplementando a falta das camadas
+não definidas.
+
+JUSTIFICATIVA - Errado. Eventuais necessidades de sessão e
+apresentação são implementadas na camada de aplicação do modelo
+TCP/IP.
+<FimJust>
+
+118 Tal qual nos padrões Ethernet e Fast Ethernet, o padrão
+
+10-Gigabit Ethernet admite operação half-duplex e emprega
+o protocolo CSMA/CD para a detecção de colisões no
+tráfego.
+
+JUSTIFICATIVA - Errado. O padrão 10-Gigabit Ethernet admite
+apenas operação full duplex e não usa o CSMA/CD.
+<FimJust>
+
+Acerca de BGP, DNS, POP3, SMTP e MIB, julgue os itens a
+seguir.
+119 MIB privados visam oferecer informações de gerenciamento
+específicas para determinados ativos não cobertas por
+objetos MIB padrão e normalmente são projetados pelos
+próprios fabricantes dos produtos a serem gerenciados.
+
+JUSTIFICATIVA - Certo. Objetos MIB padrão são projetados para
+uma ampla variedade de tecnologias e dispositivos de rede. Esses
+objetos MIB cobrem uma grande variedade de possibilidades, mas
+sempre há situações e condições das quais um gerente de rede deve
+estar ciente de que não são cobertas por um objeto MIB padrão. O
+MIB privado oferece uma maneira de permitir que informações de
+gerenciamento específicas para determinados ativos não cobertas
+por objetos MIB padrão sejam acessadas pelo gerente de rede.
+<FimJust>
+
+120 No protocolo BGP, AS_PATH e NEXT_HOP são exemplos de
+atributos obrigatórios e LOCAL_PREF é um exemplo de
+
+atributo não obrigatório.
+
+JUSTIFICATIVA - Certo. No protocolo BGP, AS_PATH e
+NEXT_HOP são exemplos de atributos obrigatórios e
+LOCAL_PREF é um exemplo de atributo não obrigatório.
+<FimJust>
+121 O protocolo POP3 é responsável por enviar e recuperar
+
+emails, enquanto o SMTP mantém e controla o acesso às
+caixas postais dos usuários.
+
+JUSTIFICATIVA - Errado. POP3 não envia email, apenas recebe.
+IMAP é o protocolo que mantém e controla o acesso às caixas
+postais. SMTP atua no envio e recebimento de mensagens entre
+servidores.
+<FimJust>
+
+122 Por questões de segurança, os servidores DNS mais
+
+modernos são configurados para aceitar somente
+atualizações autorizadas e assinadas digitalmente, e os
+servidores DNS de mais alto nível não aceitam atualizações
+dinâmicas de nenhuma origem.
+
+JUSTIFICATIVA - Certo. No passado, a disposição dos servidores
+DNS de aceitar atualizações de qualquer fonte, quando oferecidas,
+era uma grande fraqueza de segurança. Os servidores DNS
+modernos aceitam apenas atualizações autorizadas e assinadas
+digitalmente, e servidores DNS de nível mais alto nunca aceitam
+atualizações dinâmicas de ninguém.
+<FimJust>
+
+A respeito de métodos de autenticação, julgue os próximos itens.
+123 Usar SMS para envio de tokens de acesso e de autenticação é
+uma técnica que garante sigilo contra interceptação do token
+por terceiros, já que o SMS trafega cifrado fim a fim, logo,
+mesmo que o token consiga ser interceptado, ele será inútil
+
+
+para um atacante, por estar criptografado.
+
+JUSTIFICATIVA - Errado. Por padrão, SMS não trafega cifrado
+fim a fim. Logo, ele não oferece garantia de sigilo contra
+interceptação do token por um atacante.
+<FimJust>
+
+124 JWT
+
+(JSON web tokens) é um método de token
+criptografado com chave pública baseada em biometria de
+autenticação e, portanto, pode funcionar integrado ao celular
+de um usuário.
+
+JUSTIFICATIVA - Errado. JWT é um tipo de token de
+autenticação, entretanto não é baseado em biometria de
+autenticação do celular do usuário.
+<FimJust>
+
+Considerando os tipos de ataques comuns a redes de
+computadores e sistemas, julgue os itens a seguir.
+125 Um ataque do tipo SQL injection requer a existência de uma
+falha na aplicação relacionada com a sanitização de
+parâmetros, de modo que um hacker possa enviar comandos
+SQL para o banco de dados por meio da aplicação exposta.
+
+JUSTIFICATIVA - Certo. O ataque SQL injection é um tipo de
+ataque por meio do qual o atacante envia comandos SQL para a
+aplicação e esta não faz a sanitização de parâmetros, sendo esse
+código enviado para o banco de dados como se fosse legítimo.
+<FimJust>
+
+126 Em um ataque DDoS, que é normalmente volumétrico e
+
+torna os sistemas indisponíveis para usuários legítimos, pode
+haver vários IPs de origem e um ou múltiplos endereços IPs
+de destino na rede do alvo.
+
+JUSTIFICATIVA - Certo. Um ataque DDoS pode ter vários IPs de
+origem direcionados a um ou vários IPs de destino. Normalmente, é
+um ataque volumétrico, que gera a indisponibilidade do sistema
+atacado.
+<FimJust>
+
+Acerca de VPN (virtual private network), julgue os seguintes
+itens.
+127 Em uma implantação de VPN user-to-site, o usuário, por
+meio de um cliente VPN e com suas respectivas
+configurações e credenciais, acessa o concentrador VPN, e
+este, por sua vez, valida as credenciais e estabelece o túnel,
+obedecendo aos parâmetros definidos pela política de acesso.
+JUSTIFICATIVA - Certo. Trata-se do processo básico de
+autenticação de usuário em uma VPN user-to-site. O concentrador
+fecha o túnel com os parâmetros estabelecidos na política de acesso.
+<FimJust>
+
+128 Um dos algoritmos simétricos implantados no túnel de uma
+
+VPN site-to-site é o SHA256.
+
+JUSTIFICATIVA - Errado. Túneis VPN usam algoritmos
+simétricos para criação do túnel entre sites. SHA256 não é um
+algoritmo simétrico, logo ele não pode ser utilizado da maneira
+descrita. SHA256 é um algoritmo digestor de mensagem.
+<FimJust>
+
+Julgue os itens subsequentes, relativos a análise de tráfego.
+129 Quando corretamente configurado, o Wireshark é capaz de
+
+gerar gráficos de fluxo entre os elementos de rede que
+constem na captura de dados de rede.
+
+JUSTIFICATIVA - Certo. O Wireshark gera gráficos de fluxo se
+corretamente configurado a partir dos pacotes capturados da rede.
+<FimJust>
+130 Para que o Wireshark seja utilizado em um sistema
+
+Windows 11, é necessário um driver de dispositivo que, uma
+vez instalado, permite que qualquer usuário sem poderes
+administrativos altere configurações da placa de rede no
+computador em questão.
+
+JUSTIFICATIVA - Errado. É necessário um driver de dispositivo
+para o Wireshark funcionar, mas, para alterar configurações de
+
+
+CEBRASPE – TCDF – Edital: 2024
+interfaces de redes no Windows 11, são necessários poderes
+administrativos.
+<FimJust>
+
+Julgue os itens a seguir, em relação a dispositivos de segurança e
+a softwares maliciosos.
+131 Rootkits conseguem ocultar a existência de malware em
+sistemas operacionais, sendo capazes de interceptar e
+modificar chamadas de programas normais ao sistema
+operacional.
+
+JUSTIFICATIVA - Certo. Rootkits são programas que ocultam a
+existência de malware, interceptando/conectando e modificando
+chamadas de programas normais às APIs do sistema operacional.
+<FimJust>
+
+132 Os firewalls de rede fazem a filtragem de pacotes na rede e
+
+realizam um tipo de ação de acordo com as regras
+implementadas; em situações normais, trabalham nas
+camadas 3 e 4 da pilha TCP/IP.
+
+JUSTIFICATIVA - Certo. Firewalls de rede trabalham
+principalmente nas camadas 3 e 4 do TCP/IP, fazendo a verificação
+do que passa por ele e tomando uma ação de acordo com a política
+de segurança implementada.
+<FimJust>
+
+133 Proxies de rede são elementos de controle de fluxo de dados
+
+e normalmente operam nas camadas física e de enlace nas
+redes.
+
+JUSTIFICATIVA - Errado. Proxies de rede são elementos que
+trabalham na camada de aplicação e, em alguns casos, na camada
+de transporte.
+<FimJust>
+
+Acerca do gerenciamento de serviços com base na ITIL v4,
+julgue os itens a seguir.
+134 Para minimizar riscos de impactos na operação de serviços, o
+gerenciamento de mudanças deve ser isolado das demais
+práticas aplicadas aos serviços de tecnologia da informação.
+
+JUSTIFICATIVA - Errado. O gerenciamento de mudanças deve
+estar integrado a outras práticas, para garantir que as mudanças
+sejam corretamente implementadas e mitigar o risco na operação
+dos serviços.
+<FimJust>
+
+135 No processo de gerenciamento de incidentes, a identificação
+
+da causa raiz de uma indisponibilidade total em um serviço
+de tecnologia da informação deve ocorrer ainda que o tempo
+de restauração seja maior que o de uma solução de contorno.
+
+JUSTIFICATIVA - Errado. No processo de gerenciamento de
+incidentes, o ponto principal é a restauração do serviço à
+normalidade o mais rápido possível, mesmo que por meio de uma
+ação de contorno temporária. A busca de uma causa raiz não deve
+ocorrer nesse processo de gerenciamento de incidentes, e sim no
+gerenciamento de problemas, então não é previsto aumentar o
+tempo de solução de um incidente para a busca da sua causa raiz.
+<FimJust>
+136 A identificação de oportunidades de melhoria em serviços
+
+existentes e em novos serviços criados está associada à
+prática de melhoria contínua.
+
+JUSTIFICATIVA - Certo. A prática de melhoria contínua tem
+como foco identificar e executar melhorias em todas as áreas,
+serviços e práticas, inclusive no que já funciona e no que é novo.
+<FimJust>
+137 SLM (service level management) é o processo responsável
+
+por gerenciar o relacionamento com fornecedores e garantir
+o cumprimento do SLA (service level agreement) associado
+a eles.
+
+JUSTIFICATIVA - Errado. O gerenciamento de relacionamento
+com fornecedores é conhecido na ITIL v4 pela prática de supplier
+management. O SLM é voltado a garantir que os SLA com os
+clientes sejam atendidos, e não a gerenciar relacionamentos com
+
+
+fornecedores.
+<FimJust>
+
+A respeito do COBIT 2019, julgue os itens subsecutivos.
+138 O COBIT 2019 é compatível com outros frameworks, como
+a ITIL v4, por exemplo.
+JUSTIFICATIVA - Certo. O COBIT tem compatibilidade com
+outros frameworks e normas, inclusive a ITIL.
+<FimJust>
+
+139 O COBIT 2019 possui um modelo conhecido como
+
+capacidade de governança e gestão, que visa avaliar as
+práticas de governança de tecnologia da informação em uma
+organização.
+
+JUSTIFICATIVA - Certo. O COBIT 2019 possui um modelo de
+capacidade de governança e gestão, que basicamente é uma
+evolução do antigo modelo de maturidade, capaz de avaliar, de
+forma mais detalhada e contínua, as capacidades de governança de
+TI da organização.
+<FimJust>
+
+Julgue os itens seguintes de acordo com o disposto na
+Lei n.º 12.527/2011 (Lei de Acesso à Informação).
+140 O teor e o grau de imprescindibilidade da informação à
+segurança da sociedade ou do Estado são critérios a serem
+considerados na classificação do grau de sigilo de uma
+informação conforme estabelece a referida lei.
+
+JUSTIFICATIVA - Certo. Conforme o art. 24 da Lei de Acesso à
+Informação, “A informação em poder dos órgãos e entidades
+públicas, observado o seu teor e em razão de sua
+imprescindibilidade à segurança da sociedade ou do Estado, poderá
+ser classificada como ultrassecreta, secreta ou reservada”.
+<FimJust>
+
+141 O prazo máximo de restrição de acesso às informações
+
+classificadas em qualquer dos graus de sigilo previstos na lei
+pode ser renovado quantas vezes forem necessárias, desde
+que o órgão público o justifique.
+
+JUSTIFICATIVA - Errado. A Lei de Acesso à Informação permite
+a prorrogação do prazo de sigilo das informações ultrassecretas
+somente uma única vez.
+<FimJust>
+142 Nos
+
+termos da referida lei, classificam-se como
+supersecretas as informações cujo tempo máximo de sigilo é
+de vinte anos.
+
+JUSTIFICATIVA - Errado. Conforme a Lei de Acesso à
+Informação, as informações são classificadas, quanto ao sigilo, em
+ultrassecretas, secretas e reservadas. Portanto, não existe a
+classificação citada no item.
+<FimJust>
+143 É permitido que um órgão público cobre taxa de consulta nos
+
+casos de pedidos de acesso a informação realizados em
+formato digital.
+
+JUSTIFICATIVA - Errado. Conforme o art. 12 da Lei de Acesso à
+Informação, é garantido o acesso a informação de forma gratuita.
+Apenas quando o serviço de busca e de fornecimento da informação
+exigir reprodução de documentos, o órgão poderá cobrar
+exclusivamente o valor necessário ao ressarcimento dos custos dos
+serviços e dos materiais utilizados. As consultas eletrônicas não
+devem gerar cobranças.
+<FimJust>
+
+Com base na Lei n.º 14.133/2021, julgue os itens que se seguem.
+144 Em um processo de compras no âmbito de licitação que
+
+envolva o fornecimento de produtos, a administração pública
+poderá vedar a contratação de marca ou produto que, em
+ocasião anterior, conforme comprovado mediante processo
+administrativo, não tenha atendido a requisitos
+indispensáveis ao pleno adimplemento da obrigação
+contratual.
+JUSTIFICATIVA - Certo. De acordo com o art. 41, III, da Lei n.º
+
+
+CEBRASPE – TCDF – Edital: 2024
+14.133/2021: “Art. 41. No caso de licitação que envolva o
+fornecimento de bens, a Administração poderá excepcionalmente:
+(...)
+III vedar a contratação de marca ou produto, quando, mediante
+processo administrativo, restar comprovado que produtos
+adquiridos e utilizados anteriormente pela Administração não
+atendem a requisitos indispensáveis ao pleno adimplemento da
+obrigação contratual;”.
+<FimJust>
+145 Contratação integrada é o regime de contratação da mão de
+
+obra voltado para pequenos trabalhos por preço certo, com
+ou sem o fornecimento de materiais.
+
+JUSTIFICATIVA - Errado. O item aborda o conceito de
+contratação por tarefa, de acordo com o art. 6.º, XXXI, da Lei n.º
+14.133/2021.
+<FimJust>
+146 O estudo técnico preliminar é o documento que constitui a
+
+primeira etapa do planejamento de uma contratação e que
+caracteriza o interesse público nela envolvido.
+
+JUSTIFICATIVA - Certo. De acordo com o art. 6.º, XX, da Lei n.º
+14.133/2021, o estudo técnico preliminar é o “documento
+constitutivo da primeira etapa do planejamento de uma contratação
+que caracteriza o interesse público envolvido e a sua melhor
+solução e dá base ao anteprojeto, ao termo de referência ou ao
+projeto básico a serem elaborados caso se conclua pela viabilidade
+da contratação”.
+<FimJust>
+147 O processo licitatório deve respeitar a seguinte sequência de
+
+fases: fase preparatória; apresentação de propostas e lances;
+divulgação do edital; habilitação; julgamento; fase recursal; e
+homologação.
+
+JUSTIFICATIVA - Errado. Nos termos da Lei n.º 14.133/2021,
+“Art. 17. O processo de licitação observará as seguintes fases, em
+sequência:
+I preparatória;
+II de divulgação do edital de licitação;
+III de apresentação de propostas e lances, quando for o caso;
+IV de julgamento;
+V de habilitação;
+VI recursal;
+VII de homologação.”.
+<FimJust>
+148 Os critérios de julgamento que podem ser utilizados em
+
+licitação na modalidade concorrência incluem o menor
+preço, o maior desconto e o maior retorno econômico.
+
+JUSTIFICATIVA - Certo. De acordo com o art. 6.º, XXXVIII, da
+Lei n.º 14.133/2021, concorrência é “modalidade de licitação para
+contratação de bens e serviços especiais e de obras e serviços
+comuns e especiais de engenharia, cujo critério de julgamento
+poderá ser:
+a) menor preço;
+b) melhor técnica ou conteúdo artístico;
+c) técnica e preço;
+d) maior retorno econômico;
+e) maior desconto;”.
+<FimJust>
+
+À luz da Instrução Normativa SGD/SEDGG/ME n.º 94/2022,
+julgue os itens seguintes.
+149 No termo de referência, devem constar as obrigações da
+empresa contratada, entre as quais se inclui a de ceder os
+direitos autorais e de propriedade intelectual sobre os
+artefatos produzidos na relação contratual.
+
+JUSTIFICATIVA - Certo. De acordo com o art. 17 da IN
+SGD/SEDGG/ME n.º 94/2022, “II
+a definição das obrigações da
+contratada contendo, pelo menos, a obrigação de:
+h) ceder os direitos de propriedade intelectual e direitos autorais da
+solução de TIC sobre os diversos artefatos e produtos produzidos
+em decorrência da relação contratual, incluindo a documentação, os
+
+
+modelos de dados e as bases de dados à Administração;”.
+<FimJust>
+150 São proibidas a celebração de consórcio para contratação de
+
+solução de tecnologia da informação e comunicação e a
+subcontratação desse tipo de solução.
+
+JUSTIFICATIVA - Errado. De acordo com o art. 12 da IN
+SGD/SEDGG/ME n.º 94/2022. “§ 2.º A Equipe de Planejamento da
+Contratação avaliará a viabilidade de:
+(...)
+II permitir consórcio ou subcontratação da solução de TIC,
+observado o disposto nos arts. 15 e 122 da Lei n.º 14.133, de 2021,
+justificando-se a decisão.”.
+<FimJust>
+151 Nas contratações de soluções de tecnologia da informação e
+
+comunicação, as atividades de gerenciamento de riscos são
+restritas à fase de gestão do contrato, que é a última do
+processo de contratação.
+
+JUSTIFICATIVA - Errado. De acordo com § 1.º do art. 8.º da IN
+SGD/SEDGG/ME n.º 94/2022, as atividades de gerenciamento de
+riscos devem ser realizadas durante todas as fases do processo de
+contratação, observando-se o disposto no art. 38.
+<FimJust>
+
+No que se refere à administração de bancos de dados MySQL, Mari
+
+154 No MariaDB, o comando CREATE USER ''@'localhost';
+
+de usuário, representada pelas aspas vazias.
+
+JUSTIFICATIVA - Certo. Contas anônimas são contas em que a par
+contas especiais do tipo “pega-tudo”. Se um usuário tentar fazer log
+parte do nome do host que corresponda ao host do usuário, o
+correspondência de conta mais específica para o nome de usuário que
+CRIAR USUÁRIO ''@'localhost';
+CRIAR USUÁRIO ''@'192.168.0.3';
+<FimJust>
+
+155 O MySQL Native Kerberos Authentication permite a autenti
+
+suportando protocolos como User/Password e GSSAPI Kerbero
+
+JUSTIFICATIVA - Errado. É o MySQL LDAP Authentication que p
+do Active Directory para a autenticação de conexões de clientes. Su
+GSSAPI Kerberos e SASL. Vincula usuários do MySQL a DNs (n
+MySQL. O MySQL Native Kerberos Authentication permite configu
+Kerberos oferece suporte a cenários sem usuário e sem senha.
+<FimJust>
+
+CREATE CLUSTERED INDEX idx_clustered
+ON schema1.table1 (column1 DESC, column2 ASC, colu
+
+Considerando o comando precedente, do banco de dados MS-SQLS
+156 O comando cria um índice clusterizado em column1, colu
+column1 e column3 classificados em ordem decrescente e co
+
+JUSTIFICATIVA - Certo. O comando CREATE CLUSTERED INDE
+ON schema1.table1 (column1 DESC, column2 A
+idx_clustered na tabela table1. O índice será aplicado às col
+cada coluna é especificada:
+column1 DESC: classificada em ordem decrescente;
+column2 ASC: classificada em ordem crescente;
+column3 DESC: classificada em ordem decrescente.
+<FimJust>
+
+No que diz respeito à normalização das estruturas de dados, à
+dimensional e à linguagem de consulta estruturada (SQL – ANSI), ju
+157 Na dimensão snowflake, os dados são desnormalizados para e
+entanto, nessa dimensão, devido à repetição de dados, utiliza-se
+
+JUSTIFICATIVA - Errado. Na dimensão snowflake, os dados são n
+durante as consultas, mas economiza espaço em disco ao evitar a repe
+ou seja, os dados são organizados em várias tabelas relacionadas par
+schema), na qual os dados são frequentemente desnormalizados para m
+<FimJust>
+
+158 A opção de privilégio SELECT com hierarquia oferece a um us
+
+e futuras, o que simplifica a gestão de permissões no banco de
+
+JUSTIFICATIVA - Certo. O privilégio SELECT com hierarquia f
+
+
+CEBRASPE – TCDF – Edital: 2024
+152 A adesão de um órgão à ata de registro de preços deve ser
+
+precedida da apresentação, no estudo técnico preliminar, do
+ganho de eficiência e da existência de viabilidade e
+economicidade de tal medida para a administração pública.
+
+JUSTIFICATIVA - Certo. De acordo com o § 3.º do art. 9.º da IN
+SGD/SEDGG/ME n.º 94/2022, “O órgão ou entidade interessada
+em aderir à Ata de Registro de Preços deverá registrar no Estudo
+Técnico Preliminar o ganho de eficiência, a viabilidade e a
+economicidade para a administração pública federal da utilização
+da ata de registro de preços, conforme o disposto no § 2.º do art. 86
+da Lei n.º 14.133, de 2021”.
+<FimJust>
+153 Na especificação dos requisitos da contratação, compete ao
+
+integrante requisitante, com o apoio do integrante técnico,
+definir, entre outros, os requisitos de negócio, quando
+aplicáveis.
+
+JUSTIFICATIVA - Certo. Conforme a IN SGD/SEDGG/ME n.º
+94/2022, “Art. 16. Na especificação dos requisitos da contratação,
+compete:
+I ao Integrante Requisitante, com apoio do Integrante Técnico,
+definir, quando aplicáveis, os seguintes requisitos:
+a) de negócio”.
+<FimJust>
+
+iaDB e MS-SQLSERVER 2019, julgue os itens seguintes.
+
+; cria uma conta de usuário anônima, ou seja, uma conta sem nome
+
+rte do nome de usuário da conta está vazia. Essas contas funcionam como
+g-in no sistema a partir de um host e existir uma conta anônima com uma
+usuário fará log-in como a conta anônima, se não houver nenhuma
+o usuário digitou. Seguem exemplos de contas anônimas.
+
+icação direta de usuários por meio de LDAP e Active Directory,
+os.
+
+permite configurar o MySQL para consultar usuários e grupos do LDAP e
+uporta vários protocolos de autenticação LDAP, incluindo User/Password,
+nomes distintos) para gerenciar grupos de usuários e suas permissões no
+urar o MySQL para autenticar usuários usando o Kerberos. A autenticação
+
+umn3 DESC);
+
+SERVER 2019, julgue o próximo item.
+umn2 e column3 da tabela table1 no esquema schema1, com
+olumn2 classificado em ordem crescente.
+
+EX idx_clustered
+ASC, column3 DESC); cria um índice clusterizado chamado
+lunas column1, column2 e column3, e a ordem de classificação para
+
+à extração de metadados no MySQL, a técnicas de modelagem
+ulgue os itens seguintes.
+evitar joins entre tabelas, o que diminui o tempo de consultas; no
+e mais espaço em disco.
+
+normalizados em tabelas relacionadas, o que pode resultar em mais joins
+etição de dados. A arquitetura snowflake utiliza a normalização dos dados,
+ra reduzir a redundância. Isso contrasta com a arquitetura em estrela (star
+melhorar o desempenho de consultas.
+
+suário acesso automático a privilégios SELECT em subtabelas atuais
+dados.
+
+fornece acesso automático não apenas a subtabelas que já existem, mas
+
+
+também àquelas que serão criadas no futuro. O uso do termo “au
+manualmente.
+<FimJust>
+
+159 A primeira forma normal (1NF) sugere que informações repe
+
+tabela separada, para evitar redundâncias e garantir a integridad
+
+JUSTIFICATIVA - Errado. A primeira forma normal (1NF) exige q
+valores atômicos e indivisíveis e não permite a presença de inform
+repetitivas, como endereços de clientes, em tabelas distintas é uma pr
+normal (2NF), para evitar redundâncias e garantir a integridade dos da
+<FimJust>
+
+160 A consulta SELECT * FROM INFORMATION_SCHEMA.TABLES r
+
+os bancos de dados disponíveis no servidor MySQL.
+
+JUSTIFICATIVA - Certo. O INFORMATION_SCHEMA é uma base de
+outros objetos de banco de dados, tornando-as uma fonte valiosa p
+monitorar e gerenciar a estrutura do banco de dados. A consulta retorn
+TABLE_NAME: nome da tabela;
+TABLE_SCHEMA: nome do banco de dados onde a tabela está localiz
+TABLE_TYPE: tipo da tabela (por exemplo, BASE TABLE ou VIEW
+ENGINE: mecanismo de armazenamento utilizado pela tabela (por ex
+A consulta SELECT * FROM INFORMATION_SCHEMA.TABLES r
+bancos de dados disponíveis no servidor MySQL.
+<FimJust>
+
+Espaço livre
+
+
+CEBRASPE – TCDF – Edital: 2024
+
+utomático” indica que não é necessário conceder permissões adicionais
+
+etitivas, como endereços de clientes, sejam armazenadas em uma
+de dos dados.
+
+que as informações sejam organizadas de modo que cada coluna contenha
+mações repetitivas em uma única linha; já a separação de informações
+rática recomendada nas formas normais superiores, como a segunda forma
+ados.
+
+retorna todos os metadados relacionados a todas as tabelas de todos
+
+e dados virtual que contém informações sobre as tabelas, colunas, índices e
+para administradores de banco de dados e desenvolvedores que precisam
+nará informações como:
+
+zada;
+W);
+xemplo, InnoDB ou MyISAM).
+retorna todos os metadados relacionados a todas as tabelas em todos os
+
+

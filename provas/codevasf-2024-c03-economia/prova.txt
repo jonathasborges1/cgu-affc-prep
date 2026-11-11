@@ -1,0 +1,373 @@
+                                   -- CONHECIMENTO
+Em relação às curvas de indiferença, julgue os itens a seguir.
+51 A curva de utilidade   5    , em que  e  são dois
+   bens quaisquer, representa bens complementares.
+52 As curvas de indiferença são côncavas em relação à origem.
+53   Curvas de indiferenças apresentadas sob a forma de linhas
+     retas negativamente inclinadas no espaço de bens indicam
+     que o agente é indiferente ao consumo dos dois bens.
+
+Supondo que um mercado monopolista seja representado por
+uma curva de demanda descrita por  104  0,004, em que
+  é o preço e  a quantidade, e assumindo que a curva de custo
+total inicial seja   0,02   72, julgue os seguintes itens.
+54   A quantidade produzida no mercado monopolista é
+       604/3.
+55   O preço praticado no mercado monopolista é       304/3.
+
+Considerando a função de produção   5 / / , em que  é
+estoque o capital e  é fator de produção trabalho; considerando,
+ainda, uma curva de demanda   100  , em que  é a
+quantidade e  o preço do produto, e supondo que   2 e
+  4 , em que  é o preço do capital e , o salário, e que a
+empresa está inserida no mercado de concorrência perfeita,
+julgue os itens seguintes.
+56   A quantidade de equilíbrio será de 98,8.
+57   O custo marginal será igual a 1,2.
+58   A empresa possui rendimentos decrescentes à escala.
+59   O preço de equilíbrio é igual a 2.
+
+Julgue os itens subsequentes, em relação aos efeitos da execução
+de uma política fiscal expansionista segundo o modelo IS/LM,
+em que o governo fixa a taxa básica de juros.
+60   A política fiscal implicará aumento dos juros reais.
+61   Haverá redução da demanda por moeda.
+62   Haverá redução do consumo.
+
+       Uma economia é descrita pelas seguintes equações:
+    0,4  0,03 (lei de Okun),
+!  !    0,06 (curva de Phillips) e
+     ! (curva de demanda agregada),
+
+em que  é a taxa de desemprego,  é a taxa de crescimento da
+economia,  é a taxa de crescimento da oferta de moeda, ! é a
+taxa de inflação e " é o indicativo de tempo.
+Com base na situação hipotética precedente, julgue os itens que
+se seguem.
+63   Nessa situação hipotética, se a inflação for de 4% e a
+     economia estiver operando ao nível da taxa natural de
+     desemprego, o crescimento da oferta de moeda será de 7%.
+64   Nessa economia, a taxa natural de desemprego é de 3%.
+65   Nesse caso, se a inflação for de 5% e a economia estiver
+     operando ao nível da taxa natural de desemprego, o
+     crescimento do produto será de 3%.
+
+                       CEBRASPE – CODEVASF – Edital: 2024
+
+OS ESPECÍFICOS --
+ No que diz respeito aos principais agregados macroeconômicos,
+ julgue os itens a seguir.
+ 66 O aumento do consumo de drogas ilícitas em 10%,
+     ceteris paribus, ocasionaria um crescimento, na mesma
+     proporção, do produto interno bruto do país.
+ 67 O valor adicionado equivale aos custos de processamento, os
+     quais definem o produto da empresa, e difere do valor de
+     produção, por ser inferior a este.
+ 68 O produto interno bruto é a expressão do total dos bens e
+     serviços finais produzidos, dentro do território econômico da
+     nação, apenas por proprietários nacionais dos recursos
+     empregados.
+ 69 Do produto nacional bruto excluem-se os pagamentos por
+     fatores não nacionais.
+
+
+
+
+        No intuito de aumentar a geração de emprego na
+ economia, o governo de determinado país decidiu criar um
+ programa de expansão de crédito para as famílias locais, o qual
+ aumentaria o consumo. No gráfico apresentado, por meio do qual
+ se avaliam o produto interno bruto real (PIB real) e os níveis de
+ preços (P) na citada economia, Scp representa a curva de oferta de
+ curto prazo, Slp, a curva de oferta de longo prazo, e DA e DA*, as
+ curvas de demanda agregada em duas situações hipotéticas.
+ Nessas circunstâncias, há duas conjunturas possíveis:
+ I o equilíbrio está em pleno emprego (no ponto a); e
+ II a economia não se encontra no pleno emprego (no ponto b).
+ Considerando as informações precedentes, julgue os itens que se
+ seguem.
+ 70 Se a economia estiver no ponto a, o programa de crédito do
+     governo contribuirá para o deslocamento da demanda
+     agregada para a direita, aumentando, mesmo no longo prazo,
+     o emprego e os níveis de preço, conjuntamente.
+ 71 Na conjuntura I, relativa ao pleno emprego, o único impacto
+     do programa, no longo prazo, será o aumento dos preços,
+     sem alteração do nível de emprego.
+ 72 Na conjuntura II, como a economia não está aquecida, há um
+     deslocamento da curva de oferta de longo prazo para a
+     esquerda, o que causa redução do nível de emprego e
+     diminuição dos preços na economia.
+ Espaço livre
+
+Em relação à política monetária, julgue os itens seguintes.
+73 A denominada prática de guardar dinheiro debaixo do
+   colchão, em proporção elevada na sociedade, contribui para
+   o aumento da taxa de juros nominal na economia.
+74 Se o governo aumentar a taxa de redesconto, haverá uma
+   expansão da oferta de moeda na economia com consequente
+   redução da taxa de juros nominal.
+75 O aumento do compulsório é um instrumento de política
+   monetária expansionista.
+
+
+
+
+       O gráfico anterior representa a curva de Philips de longo
+prazo (CPhlp) e de curto prazo (CPhcp) de um país hipotético. O
+hiato inflacionário que esse país está enfrentando é dado pelo
+ponto w, que representa o estado presente da sua economia.
+Com base nessas informações, julgue os próximos itens.
+76 A taxa efetiva de desemprego no país em apreço é menor que
+   a taxa natural de desemprego, e a inflação esperada é de 4%.
+77 A taxa natural de desemprego no país em questão é de 7%,
+   enquanto a inflação é de 6%.
+        Em uma economia fechada, a base monetária é composta
+por 200 unidades monetárias de papel-moeda em poder do
+público e 300 unidades monetárias em reservas bancárias. A
+razão de reservas bancárias é de 10% e o multiplicador monetário
+é igual a 4.
+Com base na situação hipotética apresentada e considerando que
+o Banco Central tenha realizado uma operação de compra de
+títulos públicos no valor de 50 unidades monetárias no mercado
+aberto, julgue os próximos itens.
+78 O valor disponível para crédito nessa economia será de
+     3.150 unidades monetárias.
+79 A nova base monetária será de 550 unidades monetárias e a
+     oferta de moeda, de 2.200 unidades monetárias.
+80 Após a operação de mercado, o valor dos depósitos à vista
+     será de 3.000 unidades monetárias.
+Espaço livre
+
+                      CEBRASPE – CODEVASF – Edital: 2024
+Considerando os princípios gerais de economia do setor público,
+julgue os itens a seguir.
+81   A necessidade de financiamento do setor público (NFSP)
+     inclui tanto as transações orçamentárias quanto as não
+     orçamentárias, como emissões de títulos públicos para
+     financiar déficits extraorçamentários.
+82   De acordo com o princípio da equidade horizontal na
+     tributação, indivíduos com igual capacidade de pagamento
+     devem pagar a mesma quantidade de impostos.
+83   O conceito de eficiência alocativa de Pareto evidencia-se na
+     situação em que os recursos sejam distribuídos de maneira a
+     maximizar o bem-estar social, sem qualquer possibilidade de
+     melhorar a situação de um agente sem piorar a de outro.
+84   Os bens públicos puros caracterizam-se como aqueles que
+     são excludentes e rivais em consumo.
+85   A apresentação de um déficit nominal pelo governo
+     necessariamente implica a existência de um déficit primário
+     no governo.
+86   As externalidades negativas são um exemplo de falhas de
+     mercado que justificam a intervenção do governo.
+87   No cálculo da dívida bruta do governo geral, são
+     consideradas as operações compromissadas realizadas pela
+     autoridade monetária.
+88   As operações compromissadas são uma forma de
+     endividamento de curto-prazo que, geralmente, não afeta a
+     sustentabilidade da dívida de longo-prazo do governo.
+89   Consoante a regra de ouro fiscal, o governo só deve se
+     endividar para financiar investimentos que aumentem a
+     capacidade produtiva futura do país.
+90   O resultado operacional é obtido subtraindo-se as receitas
+     totais do governo das despesas totais, incluídos os juros da
+     dívida pública.
+
+A inflação pode ser entendida como um processo de aumento
+contínuo e generalizado dos níveis de preço na economia. Desde
+o programa bem-sucedido de combate à inflação do governo
+Castelo Branco (1964-1967) até o Plano Real (1994), a economia
+brasileira passou por seis planos fracassados de estabilização:
+Cruzado I; Cruzado II; Bresser; Verão; Collor I; e Collor II.
+Acerca desse período, julgue os itens a seguir.
+91   A inflação inercial, observada em todos os planos
+     implementados na segunda metade da década de 1980,
+     ocorre de forma independente de pressões de demanda ou de
+     custos e está ligada aos mecanismos de indexação da
+     economia.
+92   Nesse momento histórico, o congelamento de preços e
+     salários era uma medida heterodoxa, cujo objetivo era conter
+     a inflação de demanda, causada por um excesso de procura
+     em relação à oferta disponível.
+93   No Plano Collor I, com base no entendimento de que a causa
+     da inflação era a emissão de moeda em ritmo superior às
+     necessidades da economia, a equipe econômica propôs o
+     bloqueio de ativos financeiros como parte da contração da
+     base monetária.
+
+Acerca do Plano Real, política bem-sucedida de estabilização
+monetária, julgue os próximos itens.
+94 Desde a criação do Plano Real, o governo buscou o
+   equilíbrio monetário por meio do regime de metas de
+   inflação, o qual se baseou no seguinte tripé
+   macroeconômico: ajuste fiscal, câmbio flutuante e metas
+   inflacionárias.
+95 O Plano Real foi realizado em duas únicas etapas: na
+   primeira, foi criada a unidade real de valor (URV) como fase
+   preparatória para romper com os mecanismos de indexação
+   e, assim, reduzir a inflação inercial; na segunda e última
+   etapa, foi extinta a URV e, ao mesmo tempo, substituída a
+   moeda antiga pelo real, que seria pareado ao dólar
+   americano.
+
+
+                                  2022                              2023
+       variáveis              Fluxos              %             Fluxos              %
+                           (R$ bilhões)          PIB         (R$ bilhões)          PIB
+ nominal                        460,4             4,6             967,4             8,9
+ governo central                448,3             4,4             879,1             8,1
+ governos estaduais              35,1             0,3              66,3             0,6
+ governos municipais            −21,5            −0,2              14,4             0,1
+ empresas estatais               −1,5             0,0               7,7             0,1
+ juros nominais                 586,4             5,8             718,3             6,6
+ governo central                503,2             5,0             614,5             5,7
+ governos estaduais              74,1             0,7              93,8             0,9
+ governos municipais              4,4             0,0               4,6             0,0
+ empresas estatais                4,6             0,0               5,4             0,0
+ primário                      −126,0            −1,2             249,1             2,3
+ governo central                −54,9            −0,5             264,5             2,4
+   • INSS                       261,3             2,6             306,2             2,8
+ governos estaduais             −39,0            −0,4             −27,5            −0,3
+ governos municipais            −25,9            −0,3               9,8             0,1
+ empresas estatais               −6,1            −0,1               2,3             0,0
+ PIB                         10.079,7              -           10.856,1              -
+                       Necessidades de financiamento do setor público no Brasil em 2022 e 2023.
+                                               Banco Central do Brasil, 2024 (com adaptações).
+
+
+Considerando as informações apresentadas na tabela precedente,
+referentes à evolução do déficit público brasileiro nos anos
+de 2022 e 2023, bem como aspectos relativos à estrutura
+orçamentária do governo, julgue os itens seguintes.
+96 Em 2022, o resultado primário negativo sinaliza que o
+   governo não conseguiu arcar com o pagamento de juros da
+   dívida naquele ano em específico.
+97 O resultado primário é composto pelo saldo entre as receitas
+   e despesas, excluído o pagamento de juros da dívida.
+98 Em 2022, observou-se um déficit primário de R$ 126 bilhões,
+   o que foi compensado pelo bom desempenho das contas
+   no ano seguinte, evidenciado pelo superávit primário de
+   R$ 249,1 bilhões.
+
+Acerca dos planos de desenvolvimento no governo de
+Juscelino Kubitschek, julgue os itens que se seguem.
+99  O Plano de Metas, instituído no governo de
+    Juscelino Kubitscheck, contribuiu para o surgimento do
+    problema inflacionário no Brasil, já que o aumento do gasto
+    público foi financiado com a expansão da base monetária.
+100 O sistema de câmbio unificado foi central para a política de
+    substituição     de    importações     no    governo      de
+    Juscelino Kubitschek.
+
+                      CEBRASPE – CODEVASF – Edital: 2024
+Acerca do papel do Estado e da atuação do governo nas finanças
+públicas, julgue os itens a seguir.
+101 A    função estabilizadora decorre da necessidade da
+    intervenção do Estado nas finanças públicas, mediante o uso
+    da política fiscal e do seu orçamento, para ampliar a oferta
+    de bens semipúblicos.
+102 Os bens públicos podem ser fornecidos de forma compatível
+    com as necessidades da sociedade por meio do sistema de
+    mercado, assegurando-se o fornecimento para todos os
+    consumidores.
+103 A função distributiva do Estado decorre do reconhecimento
+    de que o mercado é incapaz de conduzir a sociedade a uma
+    estrutura de distribuição de renda que seja considerada justa
+    ou equitativa.
+
+A respeito do ciclo e do processo orçamentário no Brasil, julgue
+os itens que se seguem.
+104 No plano plurianual (PPA) da União, designa-se programa
+    de gestão o conjunto de ações governamentais relacionadas à
+    gestão da atuação governamental ou à manutenção da
+    capacidade produtiva das empresas estatais, financiadas por
+    ações orçamentárias e não orçamentárias que não são
+    passíveis de associação aos programas finalísticos.
+105 Na LOA, as dotações do orçamento das empresas públicas
+    em que a União não detenha a maioria do capital social com
+    direito a voto devem ser consignadas no grupo de natureza
+    despesa de investimento do orçamento fiscal e da seguridade
+    social.
+106 A lei de diretrizes orçamentárias (LDO) compreende as
+    metas e prioridades da administração pública, estabelece as
+    diretrizes de política fiscal e respectivas metas, em
+    consonância com trajetória sustentável da dívida pública,
+    orienta a elaboração da LOA, dispõe sobre as alterações na
+    legislação tributária e estabelece a política de aplicação das
+    agências financeiras oficiais de fomento.
+107 O processo orçamentário é, em grande parte, resultante de
+    uma programação de médio prazo e não pode ser visto como
+    autossuficiente, já que a primeira etapa do ciclo se renova
+    anualmente, com a elaboração da proposta orçamentária.
+
+Espaço livre
+
+Acerca da estrutura programática, das classificações e dos
+créditos no orçamento público do Brasil, julgue os itens a seguir.
+108 A classificação      funcional é formada por funções e
+    subfunções: enquanto a função diz respeito ao maior nível de
+    agregação das diversas áreas de atuação do setor público e
+    deve estar relacionada à missão institucional do órgão de
+    atuação, a subfunção é relacionada à área da despesa na qual
+    a ação será executada.
+109 As despesas decorrentes da criação de novos órgãos públicos
+    inexistentes quando da aprovação da LOA do exercício serão
+    suplantadas por meio de créditos adicionais suplementares.
+110 A ação orçamentária denominada atividade, que não se
+    incorpora ao patrimônio da União, é um instrumento de
+    programação utilizado para alcançar o objetivo de um
+    programa, envolvendo um conjunto de operações que se
+    realizam de modo contínuo e permanente, das quais resulta
+    um produto ou serviço necessário à manutenção da ação de
+    governo.
+
+No que diz respeito à receita pública, julgue os itens a seguir.
+111 A partir da identificação da receita pública pelo código do
+    tipo de arrecadação, é possível classificá-la segundo a sua
+    natureza, como, por exemplo, quando se tratar de
+    arrecadação de dívida ativa da respectiva receita.
+112 As receitas correntes são aquelas que, em regra, têm efeito
+    positivo sobre o patrimônio líquido, a exemplo das receitas
+    tributárias,   das    patrimoniais    e   das    transferências,
+    independentemente da destinação dos recursos transferidos.
+113 A etapa de recolhimento consiste na transferência dos
+    valores arrecadados à Conta Única do Tesouro Nacional,
+    observado o princípio da unidade de caixa.
+
+Julgue os itens subsecutivos, referentes à despesa pública.
+114 Caso uma lei de crédito especial seja publicada em
+    30/11/20X1 e o empenho da despesa correspondente ocorra
+    no mesmo ano, sem que haja a liquidação, a despesa somente
+    poderá ser inscrita em restos a pagar ao final de 20X2.
+115 É vedada a concessão de suprimento de fundos ao servidor
+    que tenha a seu cargo a utilização do material a adquirir,
+    ainda que não haja outro servidor na repartição.
+116 O empenho global é utilizado para despesas contratuais,
+    desde que estejam sujeitas ao pagamento parcelado, mas cujo
+    valor não se possa determinar de forma precisa.
+117 Na classificação funcional, é aplicado o princípio da
+    matricialidade, de modo que é cabível combinar uma função
+    com subfunções que lhe sejam atípicas, uma vez que estas se
+    referem à competência institucional do órgão, enquanto
+    aquela diz respeito à natureza da ação governamental.
+
+                       CEBRASPE – CODEVASF – Edital: 2024
+Com base na Lei Complementar n.º 101/2000 (Lei de
+Responsabilidade Fiscal — LRF), julgue o item seguinte.
+118 Uma operação de crédito com prazo de amortização de
+    9 meses fará parte da dívida fundada se as suas receitas
+    tiverem constado do orçamento.
+
+Em relação a convênios e termo de referência, julgue os
+próximos itens.
+119 A vedação à celebração de convênio entre entidade da
+    administração pública federal e entidade privada sem fins
+    lucrativos não se aplica, por exemplo, na hipótese de o
+    dirigente desta última ser primo de agente político do
+    Poder Legislativo federal.
+120 O proponente deverá apresentar o termo de referência
+    previamente à celebração de convênio cujo objeto seja a
+    execução      de    obras    e   serviço   de   engenharia,
+    independentemente do regime de contratação.
+
+Espaço livre
+

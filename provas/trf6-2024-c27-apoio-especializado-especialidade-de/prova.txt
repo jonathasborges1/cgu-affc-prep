@@ -1,0 +1,507 @@
+-- CONHECIMENTO
+Acerca de arquitetura de software, julgue os itens a seguir.
+51 Uma vez definida a arquitetura de um sistema, ela deve ser
+mantida sem alteração até o fim do ciclo de vida do sistema.
+52 Na arquitetura MVC, o componente model é responsável por
+controlar os dados e as regras de negócio da aplicação.
+53 Um dos objetivos da arquitetura de software é definir como
+será a componentização, bem como a organização desses
+componentes em um sistema.
+Em relação ao desenvolvimento de sistemas e ao padrão SOAP,
+julgue os próximos itens.
+54 O uso de CSS3 em uma página web exige a instalação de um
+plug-in na parte cliente da aplicação, o que é feito de modo
+invisível para o usuário.
+55 Em dispositivos móveis, é recomendado o uso de sítios
+responsivos, no qual estão envolvidas as tecnologias de
+layout fluído, imagens flexíveis e media queries.
+56 O SOAP permite a comunicação entre serviços web e seus
+clientes, desde que os códigos em ambas as partes utilizem a
+mesma linguagem de programação.
+A respeito de engenharia de software, julgue os itens que se
+seguem.
+57 Em relação à qualidade da interface de um software, o grau
+de intuição determina a facilidade para localizar informações
+na aplicação.
+58 A utilização da UML independe do domínio da aplicação e
+das ferramentas de programação.
+59 Em um software, os requisitos não funcionais incluem
+desempenho, usabilidade, confiabilidade, segurança,
+disponibilidade e manutenibilidade.
+60 Depois de produzidos, os requisitos devem ser validados
+tecnicamente pelo time de desenvolvedores, sem a
+participação de outros stakeholders.
+Julgue os itens seguintes, no que se refere a metodologias ágeis
+para o desenvolvimento de software.
+61 O papel do scrum master na metodologia Scrum é o de ser o
+guardião dos processos, sem atuar como chefe dos demais
+integrantes.
+62 A metodologia XP é explicitamente orientada às pessoas, de
+modo que evita a troca dos desenvolvedores durante o
+desenvolvimento de um projeto.
+63 Um dos princípios do Lean é a identificação da cadeia de
+valor, realizada a partir do mapeamento dos passos
+realizados para se oferecer o produto final ao cliente e do
+descarte dos passos desnecessários.
+64 Na metodologia Scrum, o lead time de uma história de
+usuário é o tempo transcorrido na codificação dos
+componentes dessa história.
+Acerca de ferramentas de codeless e nocode, julgue os itens
+subsequentes.
+65 Aplicações desenvolvidas com os conceitos de codeless não
+possuem nenhuma linha de código que seja executada pelo
+computador.
+66 Uma das vantagens das ferramentas de nocode é a
+possibilidade de customizações específicas para cada
+aplicação.
+67 As plataformas nocode permitem a utilização de
+componentes gráficos de front-end e back-end, bem como
+possibilitam integrações com sistemas externos.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+OS ESPECÍFICOS -A respeito de aplicação de testes, julgue os itens subsecutivos.
+68 Para facilitar os testes de uma aplicação, podem ser
+utilizados os mock objects, que são objetos genéricos que
+atendem a todas as necessidades de testes.
+69 Na utilização das técnicas de desenvolvimento guiado por
+testes (TDD), deve ser escrito um novo código apenas
+quando um teste automatizado falhar.
+No que concerne à Microsoft Power Platform, julgue os itens que
+se seguem.
+70 As ferramentas de Power Apps permitem a utilização do
+Copilot como apoio para criação e manutenção de
+aplicações.
+71 Em uma tabela que contenha uma coluna de data, é possível
+utilizar uma função nativa do Power BI para adicionar uma
+nova coluna com o dia da semana correspondente àquela
+data.
+72 A ferramenta Power BI utiliza a linguagem de programação
+Power Query para codificar as consultas às bases de dados
+utilizadas em um painel.
+73 As funções DAX (data analysis expression) do Power BI são
+de uso exclusivo de fontes de dados que estejam no formato
+de arquivos .txt.
+Acerca do modelo de transação ACID de banco de dados, julgue
+os itens a seguir.
+74 O isolamento garante que transações concorrentes não
+interfiram umas nas outras, assegurando que o resultado final
+seja o mesmo obtido quando as transações são executadas
+em sequência.
+75 A propriedade de atomicidade não garante que todas as
+operações em uma transação sejam concluídas com sucesso.
+No que se refere à modelagem de banco de dados relacional,
+julgue os itens seguintes.
+76 A herança entre entidades pode ser implementada com
+tabelas separadas por subclasse ou com uma única tabela
+para a hierarquia.
+77 A relação muitos-para-muitos pode ser representada
+diretamente entre duas tabelas sem a necessidade de tabelas
+intermediárias.
+
+A respeito do modelo ilustrado na figura precedente, julgue os
+próximos itens.
+78 O relacionamento entre as entidades estudante e
+matricula pode ser modelado sem chave estrangeira, já
+que a entidade matricula contém os dados necessários
+para identificar uma entidade estudante.
+
+
+79
+
+A entidade matricula não necessita de chave primária
+composta, pois cada matricula pode ser identificada
+apenas pelo id_estudante.
+
+80
+
+A tabela matricula é uma entidade associativa que resolve
+um relacionamento N implícito entre estudante e curso,
+representando cada matricula como uma combinação
+única das chaves estrangeiras id_estudante e id_curso.
+
+81
+
+A relação entre curso e matricula é de 1:1, já que cada
+curso pode estar associado a apenas uma matricula em
+
+qualquer momento.
+A respeito da normalização de bancos de dados, julgue os itens
+a seguir.
+82
+
+Para que uma tabela esteja em BCNF, todos os atributos
+devem depender unicamente da chave primária, ignorando o
+impacto de dependências funcionais provenientes de outras
+superchaves ou chaves candidatas.
+
+83
+
+A tabela que não possui atributos multivalorados ou
+repetidos já está em segunda forma normal (2FN),
+independentemente de haver dependências parciais em
+relação à chave primária.
+
+Considerando o Oracle, julgue o próximo item.
+84
+
+O nível de isolamento serializable garante que uma
+transação opere como se fosse executada isoladamente, o que
+previne leituras sujas, leituras não repetíveis e leituras
+fantasmas.
+
+A respeito de PostgreSQL, de SQL Server e de MySQL, julgue
+os itens a seguir.
+85
+
+As B-trees são uma estrutura de dados fundamental utilizada
+no MySQL para implementar índices, sendo amplamente
+suportadas por mecanismos de armazenamento como
+InnoDB e MyISAM.
+
+86
+
+No MySQL, o InnoDB suporta transações ACID, bloqueio
+em nível de linha e MVCC (multi-version concurrency
+control) e organiza dados em um índice clustered pela chave
+primária.
+
+87
+
+O parallel scan do PostgreSQL permite a divisão de uma
+operação de leitura e escrita de tabela entre vários processos,
+distribuindo a carga de trabalho e aproveitando o paralelismo
+do hardware para melhorar o desempenho de consultas em
+tabelas extensas.
+
+88
+
+No SQL Server, o keyset-driven cursor mantém uma cópia
+completa dos dados no momento em que é aberto, e qualquer
+alteração feita nos dados subjacentes não é refletida no
+cursor, tornando-o semelhante a um static cursor.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+id
+1
+2
+3
+
+departamento
+nome_departamento
+TI
+RH
+marketing
+funcionario
+
+id
+1
+2
+3
+4
+
+nome
+João
+Oliveira
+Maria
+Silva
+Carlos
+Andrade
+Ana Costa
+
+id_departamento salario
+
+data_admissao
+
+1
+
+4500.00
+
+2022-05-10
+
+2
+
+4000.00
+
+2024-11-18
+
+1
+
+5000.00
+
+2021-08-15
+
+3
+
+3500.00
+
+2023-03-01
+
+A partir das tabelas departamento e funcionario
+precedentes, julgue os itens a seguir, relativos a SQL.
+89 O resultado da seguinte consulta SQL será uma lista com os
+departamentos cadastrados e a quantidade de empregados de
+cada um deles.
+SELECT d.nome_departamento AS departamento,
+COUNT(f.id) AS total_empregados
+FROM departamentos d
+LEFT JOIN funcionarios f
+ON d.id = f.id_departamento
+GROUP BY d.id, d.nome_departamento;
+90
+
+A execução da seguinte consulta SQL resultará uma lista
+com a média de salários de cada departamento.
+SELECT d.nome_departamento, AVG(f.salario) AS
+salario_medio
+FROM funcionarios f
+INNER JOIN departamentos d
+ON f.id_departamento = d.id
+WHERE salario_medio > 4000.00
+GROUP BY d.nome_departamento;
+
+91
+
+A execução da seguinte consulta SQL retornará o nome dos
+funcionários e seus respectivos departamentos e salários.
+SELECT f.nome, d.nome_departamento, f.salario
+FROM funcionarios f
+INNER JOIN departamentos d
+ON f.id_departamento = d.id;
+
+Acerca de business intelligence, ETL e OLAP, julgue os itens
+que se seguem.
+Na transformação avançada do ETL, a derivação de dados
+cria novos atributos ou métricas a partir de colunas
+existentes, usando cálculos complexos e funções analíticas
+para enriquecer o dataset e suportar análises preditivas e
+segmentações contextuais.
+93 O ROLAP (relational OLAP) armazena os dados
+exclusivamente em estruturas multidimensionais, como
+cubos OLAP, ignorando bancos de dados relacionais para
+processamento analítico.
+94 A análise preditiva utiliza algoritmos estatísticos e modelos
+de machine learning para identificar padrões históricos nos
+dados e projetar tendências futuras, de forma a guiar
+decisões proativas e permitir a antecipação de cenários
+críticos para o negócio.
+92
+
+
+fato_processos
+id_processo
+
+id_tempo
+
+id_juiz
+
+tempo_resolucao
+
+1
+2
+
+101
+102
+
+201
+202
+
+30
+45
+
+dim_tempo
+
+dim_juiz
+
+id_tempo
+
+ano
+
+mes
+
+id_juiz
+
+nome_juiz
+
+101
+
+2023
+
+11
+
+201
+
+Ana Souza
+
+102
+
+2023
+
+12
+
+202
+
+Carlos Lima
+
+Considerando a tabela de fato apresentada inicialmente e as
+tabelas de dimensão a ela subsequentes, julgue os itens a seguir,
+referentes à modelagem dimensional de dados.
+95
+
+A granularidade da tabela fato_processos é definida em
+nível de evento por processo, de forma que cada registro
+nessa tabela representa uma movimentação judicial
+específica, enquanto as dimensões agregam atributos
+descritivos necessários para contextualizar a análise
+multidimensional.
+
+96
+
+A tabela fato_processos deveria conter informações
+detalhadas acerca do nome do juiz e do ano de referência,
+para otimizar a consulta direta, eliminando-se a necessidade
+de dimensões.
+
+A respeito de gestão de segurança da informação, protocolos de
+autenticação, ameaças e vulnerabilidades em aplicações e
+segurança de aplicativos web, julgue os itens a seguir,
+considerando, no que couber, as disposições das normas técnicas
+NBR ISO/IEC 27001:2022 e NBR ISO/IEC 27002:2022.
+97
+
+A metodologia OWASP (open web application security
+project) propõe um modelo de escopo de segurança restrito
+às etapas finais do desenvolvimento de software, focando
+principalmente na detecção e na mitigação de
+vulnerabilidades em produtos já prontos.
+
+98
+
+No contexto do planejamento e do controle operacionais, a
+organização deve controlar as mudanças planejadas e
+analisar criticamente as consequências de mudanças não
+intencionais, tomando ações para mitigar quaisquer efeitos
+adversos, conforme necessário.
+
+99
+
+A camada de inteligência estratégica de ameaças de uma
+organização deve atuar na coleta de informações sobre as
+metodologias dos atacantes, bem como sobre as ferramentas
+e tecnologias envolvidas nos ataques.
+
+100 Um ataque LDAP injection bem-sucedido pode resultar na
+
+execução de comandos arbitrários, como a concessão de
+permissões para consultas não autorizadas e a modificação
+de conteúdo dentro da árvore LDAP.
+101 Em OAuth 2.0, um servidor de recursos que aceita apenas
+
+solicitações assinadas exige que cada solicitação assinada
+seja identificável de maneira exclusiva e seja processada
+uma única vez.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+Acerca de prevenção e combate a ataques a redes de
+computadores, criptografia e certificação digital, julgue os itens
+seguintes.
+102 No Brasil, a assinatura digital foi regulamentada pela Lei
+
+Geral de Proteção de Dados, que dispõe sobre o processo de
+emissão, distribuição, validação e revogação dos certificados
+digitais para sistemas e pessoas.
+103 Enquanto método de prevenção contra ataques DDoS em
+redes corporativas, a redução da superfície de ataque
+concentra-se em restringir o número de portas abertas no
+firewall, sem a necessidade de outros controles adicionais ou
+de monitoramento contínuo, sendo uma abordagem eficaz
+para evitar sobrecarga de tráfego malicioso.
+104 Um método de prevenção contra ataques DNS spoofing é o
+uso de DNSSEC, projetado para proteger a integridade e a
+autenticidade das consultas DNS por meio do uso de
+assinaturas digitais baseadas em criptografia assimétrica.
+105 Um aplicativo que armazene dados sensíveis criptografados
+em um banco de dados usando criptografia automática
+garante que esses dados, quando recuperados, estejam
+isentos de serem indevidamente capturados, mesmo que haja
+uma falha de injeção de SQL.
+106 Diferentemente de outros algoritmos de criptografia
+simétrica, o protocolo AES exige o constante
+compartilhamento de chaves entre todas as partes envolvidas
+em uma comunicação, o que limita seu desempenho em
+sistemas distribuídos e o torna impraticável em cenários de
+alta escala.
+107 Os certificados digitais para pessoas físicas são emitidos
+pelas autoridades certificadoras, possuem prazo de validade
+e dependem da validação de identidade do solicitante.
+108 Caso um certificado digital seja revogado, permanecem
+válidas todas as assinaturas realizadas com este certificado
+anteriormente à sua revogação, independentemente de haver
+ou não mecanismos de carimbo de tempo associados às
+assinaturas antigas.
+109 Nos algoritmos de criptografia DES e IDEA, a chave
+utilizada para cifrar dados é a mesma utilizada para
+decifrá-los, e deve ser conhecida pelo remetente e pelo
+destinatário da informação.
+110 Os sistemas de criptografia assimétrica utilizam uma chave
+compartilhada entre o emissor e o receptor dos dados, sendo
+indicados para ambientes de baixo nível de segurança.
+111 Em sistemas de criptografia, uma chave pública é gerada a
+partir da chave privada do seu emissor e, após isso, pode ser
+distribuída livremente.
+112 Quando uma chave privada é exposta indevidamente, ela
+pode ser revogada, mas os dados criptografados
+anteriormente continuam acessíveis e certificados para os
+detentores da chave pública equivalente.
+113 Os sites web que utilizam o protocolo HTTPS fazem uso de
+criptografia de chave pública, de forma que os dados
+transmitidos na rede não possam ser lidos por quem os
+intercepte.
+114 Um certificado digital possibilita a assinatura de
+documentos, a prova de identidade, a criptografia de dados e
+a garantia da integridade da informação gerada por seu
+detentor.
+
+
+Acerca de gestão de riscos e continuidade de negócio, julgue os i
+Geral de Proteção de Dados (LGPD).
+115 Conforme a LGPD, o dado pessoal relativo a origem racial
+classificado como dado pessoal anonimizado.
+116 O processo de avaliação de riscos determina o valor dos
+aplicáveis, determina as consequências possíveis e prioriza
+avaliação de riscos estabelecidos.
+117 De acordo com a LGPD, o consentimento para tratamento de
+manifestação expressa do titular, por procedimento gratuito
+consentimento anteriormente manifestado enquanto não houver
+118 As organizações devem adotar a abordagem sistemática de g
+NBR ISO 27005:2019.
+119 A LGPD disciplina a proteção de dados pessoais com fundame
+informação, comunicação e opinião.
+120 O processo de gestão de riscos de segurança da informação po
+aplicado apenas a aspectos particulares de um controle da organ
+Espaço livre
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+itens que se seguem, com base na NBR ISO 27005:2019 e na Lei
+ou étnica, bem como a convicção religiosa e opinião política, é
+ativos de informação, identifica as ameaças e vulnerabilidades
+os riscos derivados, ordenando-os de acordo com os critérios de
+
+e dados pessoais pode ser revogado a qualquer momento mediante
+e facilitado, ratificados os tratamentos realizados sob amparo do
+r requerimento de eliminação dos dados.
+gestão de riscos conforme método específico estipulado na norma
+
+ento na autodeterminação informativa e na liberdade de expressão,
+
+ode ser relativo à organização como um todo, mas também pode ser
+nização, como o seu plano de continuidade de negócios.
+
+

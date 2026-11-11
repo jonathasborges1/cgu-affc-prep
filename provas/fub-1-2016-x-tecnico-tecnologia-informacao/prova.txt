@@ -1,0 +1,480 @@
+||281FUB_CB3_01N883737||
+
+•
+
+De acordo com o comando a que cada um dos itens a seguir s
+designado com o código C, caso julgue o item CERTO; ou o
+A ausência de marcação ou a marcação de ambos os campos
+Para as devidas marcações, use a folha de respostas, único doc
+Nos itens que avaliarem conhecimentos de informática e(ou) te
+o contrário, considere que todos os programas mencionados estã
+proteção, de funcionamento e de uso em relação aos programas
+Em suas provas, caso haja item(ns) constituído(s) pela estru
+apresentados como situação hipotética deverão ser considerado
+Eventuais espaços livres — identificados ou não pela expressão
+ser utilizados para anotações, rascunhos etc.
+
+•
+
+•
+•
+
+CONHECIMEN
+Texto CB1A1AAA
+1
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+Minha condição humana me fascina. Conheço o limite
+de minha existência e ignoro por que estou nesta terra, mas às
+vezes o pressinto. Pela experiência cotidiana, concreta e
+intuitiva, eu me descubro vivo para alguns homens, porque o
+sorriso e a felicidade deles me condicionam inteiramente, mais
+ainda para outros que, por acaso, descobri terem emoções
+semelhantes às minhas.
+E cada dia, milhares de vezes, sinto minha vida —
+corpo e alma — integralmente tributária do trabalho dos vivos
+e dos mortos. Gostaria de dar tanto quanto recebo e não paro
+de receber. Mas depois experimento o sentimento satisfeito de
+minha solidão e quase demonstro má consciência ao exigir
+ainda alguma coisa de outrem. Vejo os homens se
+diferenciarem pelas classes sociais e sei que nada as justifica.
+Sonho ser acessível e desejável para todos uma vida simples e
+natural, de corpo e de espírito.
+Recuso-me a crer na liberdade e nesse conceito
+filosófico. Eu não sou livre, e sim às vezes constrangido por
+pressões estranhas a mim, outras vezes por convicções íntimas.
+Ainda jovem, fiquei impressionado pela máxima de
+Schopenhauer: “O homem pode, é certo, fazer o que quer, mas
+não pode querer o que quer”; e hoje, diante do espetáculo
+aterrador das injustiças humanas, essa moral me tranquiliza e
+me educa.
+Albert Einstein. Como vejo o mundo. Rio de Janeiro:
+N o v a F r o nt e i r a , 2 0 1 5 ( c o m a d a p t a ç õ e s ) .
+
+Com relação ao texto CB1A1AAA, julgue os itens a seguir.
+1
+
+O adjetivo “aterrador” (R.23) modifica a palavra “espetáculo”
+(R.22), conferindo-lhe sentido negativo.
+
+2
+
+Dados os sentidos do texto, é correto afirmar que o vocábulo
+“moral” (R.23) foi empregado no sentido de ensinamento.
+
+3
+
+Para o autor, a condição humana é algo bem definido, e ele
+retrata no texto suas certezas a respeito dessa condição.
+
+4
+
+A justificativa do autor para sua descrença em relação à
+liberdade inclui a existência de razões tanto íntimas quanto
+exteriores que lhe tolhem a liberdade.
+
+5
+
+Infere-se dos dois primeiros períodos do segundo parágrafo
+que o autor sente-se influenciado pelo “trabalho dos vivos e
+dos mortos” (R. 9 e 10).
+
+6
+
+O vocábulo “máxima” (R.20) foi empregado no texto com o
+sentido de maior valor alcançado por certa quantidade variável.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+se refira, marque, na folha de respostas, para cada item: o campo
+campo designado com o código E, caso julgue o item ERRADO.
+s não serão apenadas, ou seja, não receberão pontuação negativa.
+cumento válido para a correção das suas provas objetivas.
+ecnologia da informação, a menos que seja explicitamente informado
+ão em configuração-padrão, em português, e que não há restrições de
+s, arquivos, diretórios, recursos e equipamentos mencionados.
+utura Situação hipotética: ... seguida de Assertiva: ..., os dados
+os como premissa(s) para o julgamento da assertiva proposta.
+o “Espaço livre” — que constarem deste caderno de provas poderão
+
+NTOS BÁSICOS
+No que se refere a aspectos linguísticos do texto CB1A1AAA,
+julgue os itens que se seguem.
+7
+
+O uso de travessões no segundo parágrafo indica mudança de
+interlocutores no texto.
+
+8
+
+A expressão “e sim” (R.18) introduz no texto uma ideia de
+oposição.
+
+9
+
+Sem prejuízo para a correção gramatical do texto, a expressão
+“Ainda jovem” (R.20) poderia ser substituída por: Quando eu
+ainda era jovem.
+
+10
+
+A substituição da forma verbal “terem” (R.6) por que têm
+preservaria os sentidos e a correção gramatical do texto.
+
+Espaço livre
+
+
+||281FUB_CB3_01N883737||
+
+Texto CB1A1BBB
+1
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+25
+
+Ao final do século XIX, os cientistas podiam refletir
+com satisfação que haviam desvendado a maioria dos mistérios
+do mundo físico: eletricidade, magnetismo, gases, óptica,
+acústica, cinética e mecânica estatística, para citar alguns
+campos, foram submetidos à ordem. Eles haviam descoberto os
+raios X, o raio catódico, o elétron e a radioatividade, e
+inventado o ohm, o watt, o kelvin, o joule, o ampere e o
+pequeno erg.
+Se uma coisa podia ser oscilada, acelerada,
+perturbada, destilada, combinada, pesada ou gaseificada, eles
+o fizeram, e no processo produziram um corpo de leis
+universais tão importantes e majestosas que ainda tendemos a
+escrevê-las com maiúsculas: Teoria do Campo Eletromagnético
+da Luz, a Lei das Proporções Recíprocas de Richter, a Lei dos
+Gases de Charles, a Lei dos Volumes de Combinação, a Lei de
+Zeroth, o Conceito de Valência, a Lei das Ações das Massas e
+um sem-número de outras. O mundo inteiro clangorava e
+silvava com o maquinário e os instrumentos produzidos por sua
+engenhosidade. Muitas pessoas cultas acreditavam que não
+restava muito para a ciência fazer.
+Em 1875, quando estava decidindo se dedicaria a vida
+à matemática ou à física, um jovem alemão chamado Max
+Planck foi fortemente aconselhado a não escolher a física,
+porque os grandes avanços já haviam sido realizados.
+Garantiram-lhe que o século vindouro seria de consolidação e
+refinamento, não de revolução. Planck não deu ouvidos.
+Bill Bryson. Uma breve história de quase tudo.
+São Paulo: Companhia das Letras, 2015 (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto CB1A1BBB,
+julgue os itens subsequentes.
+11
+
+A palavra “que” (R.12) introduz no texto uma ideia de
+consequência.
+
+12
+
+É facultativo o emprego das vírgulas que isolam, no texto, o
+trecho “quando estava decidindo se dedicaria a vida à
+matemática ou à física” (R. 21 e 22).
+
+13
+
+Em suas três ocorrências, a forma verbal “haviam”
+(R. 2, 5 e 24) poderia ser substituída por tinham, sem prejuízo
+para a correção gramatical e os sentidos do texto.
+
+14
+
+As formas verbais “clangorava” (R.17) e “silvava” (R.18)
+poderiam ser substituídas pelas formas clangorou e silvou,
+sem prejuízo para os sentidos do texto, uma vez que a noção de
+passado seria preservada.
+
+15
+
+O último parágrafo do texto é predominantemente
+argumentativo.
+
+16
+
+A correção gramatical e as ideias do texto seriam preservadas,
+caso se inserisse, entre vírgulas, o trecho entre elas, Max
+Planck logo após a expressão “pessoas cultas” (R.19).
+
+17
+
+O emprego do sinal de dois-pontos logo após “físico” (R.3)
+introduz a síntese de uma informação dada anteriormente no
+texto.
+
+18
+
+As vírgulas empregadas nos trechos “haviam descoberto
+os raios X, o raio catódico, o elétron e a radioatividade”
+(R. 5 e 6) e “inventado o ohm, o watt, o kelvin, o joule, o
+ampere e o pequeno erg” (R. 7 e 8) separam termos que
+exercem funções sintáticas distintas.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+Circular n.º 234/2016/MRT
+Em 20 de outubro de 2016.
+Para: membros do Conselho Universitário
+Assunto: 586.ª reunião ordinária
+Convocamos Vossas Senhorias para participar da
+586.ª reunião ordinária do Conselho Universitário da Universidade
+de Brasília, que será realizada no dia 24 de outubro, às 14h,
+no Auditório da Reitoria.
+A pauta da reunião está detalhada no arquivo anexo.
+Solicitamos confirmação de participação.
+Atenciosamente,
+Fulano de Tal
+Reitor
+
+Tendo o documento hipotético apresentado como referência inicial,
+julgue os itens a seguir, com base nas Normas para Padronização
+de Documentos da Universidade de Brasília.
+19
+
+As decisões tomadas pelo conselho na reunião em questão
+deverão ser formalizadas por meio do ato.
+
+20
+
+A convocação para tal reunião deveria ser feita por email, que
+é o documento adequado a comunicações internas da
+Universidade de Brasília.
+
+21
+
+Em eventual documento encaminhado ao reitor da
+Universidade de Brasília em resposta ao documento
+apresentado, o fecho adequado seria Respeitosamente.
+
+22
+
+O documento adequado para registrar as discussões e
+deliberações da reunião mencionada no documento hipotético
+é a ata.
+
+23
+
+O documento de registro da reunião mencionada no documento
+apresentado deverá ser feito em linguagem corrida, sem
+parágrafos e espaços vazios entre linhas. Tal documento deverá
+conter, além dos relatos da reunião, informações como número
+sequencial, data, membros presentes e ausentes.
+
+Julgue os itens a seguir, tendo como referência as disposições do
+Estatuto e do Regimento Geral da Universidade de Brasília (UnB).
+24
+
+O Conselho de Administração é o órgão máximo da UnB.
+
+25
+
+À UnB cabe garantir o desenvolvimento da pesquisa e da
+produção acadêmica e registrar, em seu orçamento, recursos
+para esse fim.
+
+26
+
+A UnB rege-se pelo seu Estatuto e, subsidiariamente, pelo
+Regimento Geral e por normas complementares.
+
+Com base nas disposições da Lei n.º 8.112/1990, julgue os itens
+seguintes, a respeito de provimento de vagas no serviço público e
+direitos e vantagens do servidor público.
+27
+
+A posse no serviço público ocorrerá no prazo máximo de
+quinze dias, contados da publicação do ato de provimento.
+
+28
+
+Ajuda de custo, diárias, transporte e auxílio-moradia
+constituem indenizações ao servidor.
+
+29
+
+Nos concursos para provimento de vagas no serviço público,
+no mínimo, 25% das vagas oferecidas são reservadas às
+pessoas portadoras de deficiência.
+
+
+||281FUB_CB3_01N883737||
+
+A respeito de atos de improbidade administrativa, julgue os itens
+que se seguem de acordo com o disposto na Lei de Improbidade
+Administrativa.
+30
+
+Constitui ato de improbidade administrativa perceber vantagem
+econômica para intermediar a liberação de verba pública de
+qualquer natureza.
+
+31
+
+O herdeiro do agente que causar lesão ao patrimônio público
+não estará sujeito às cominações da referida lei, isto é,
+a responsabilização encerra-se com o falecimento do acusado.
+
+32
+
+A referida lei é aplicável, no que couber, ao particular que
+concorrer para a prática de ato ímprobo ou que dele se
+beneficie.
+
+A respeito do processo administrativo, julgue os itens subsequentes.
+33
+
+Nos processos administrativos, a divulgação oficial dos atos é
+obrigatória, ressalvadas as hipóteses constitucionais de sigilo.
+
+34
+
+A desistência do interessado extingue o processo
+administrativo, mesmo que haja interesse público no seu
+prosseguimento.
+
+35
+
+O reconhecimento de firmas por notário oficial é obrigatório
+na realização dos atos do processo administrativo.
+
+À luz do disposto na Lei n.º 8.666/1993 — Lei de Licitações e
+Contratos —, julgue os próximos itens.
+36
+
+Concurso é a modalidade de licitação entre quaisquer
+interessados que, preliminarmente, comprovem possuir a
+qualificação exigida no edital para a execução do seu objeto.
+
+37
+
+É vedada a criação de outras modalidades de licitação além
+daquelas elencadas na referida lei.
+
+38
+
+São cinco as modalidades de licitação: concorrência, tomada
+de preços, convite, concurso e leilão.
+
+Com relação à ética no setor público, julgue os itens subsecutivos.
+39
+
+É dever fundamental do servidor comunicar a seus superiores
+ato ou fato contrário ao interesse público.
+
+40
+
+Não são considerados servidores públicos, para fins de
+apuração de comportamento ético pela Comissão de Ética,
+aqueles que prestem serviços de natureza excepcional à
+administração, com ou sem remuneração.
+
+41
+
+O servidor não poderá omitir a verdade, ainda que possa
+contrariar interesses de pessoa interessada ou da administração
+pública.
+
+À luz das disposições constitucionais relativas aos direitos sociais,
+julgue os itens a seguir.
+42
+
+Cabe ao sindicato da categoria definir, no caso de greve, os
+serviços ou atividades essenciais que serão disponibilizados à
+coletividade, assim como dispor sobre o atendimento das
+necessidades inadiáveis da comunidade.
+
+43
+
+É livre a associação sindical, desde que o poder público
+autorize, previamente, a fundação do sindicato.
+
+44
+
+É assegurada a participação dos trabalhadores e empregadores
+nos colegiados dos órgãos públicos em que seus interesses
+profissionais ou previdenciários sejam objeto de discussão e
+deliberação.
+
+45
+
+Aos trabalhadores compete decidir sobre os interesses que
+devam defender por meio do exercício do direito de greve.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+A respeito dos direitos e garantias fundamentais estabelecidos na
+Constituição Federal de 1988, julgue o item a seguir.
+46
+
+Os direitos e garantias fundamentais têm como destinatários
+os brasileiros natos e naturalizados, não se aplicando aos
+estrangeiros.
+
+Um dia após a derrota, em referendo, do acordo de paz
+com as Forças Armadas Revolucionárias da Colômbia (FARC),
+o presidente colombiano Juan Manuel Santos abriu diálogo com a
+oposição para buscar novo pacto. As FARC reafirmaram a intenção
+de selar a paz e mantiveram o cessar-fogo.
+O Globo, 4/10/2016, capa (com adaptações).
+
+Tendo o fragmento de texto anteriormente apresentado como
+referência inicial, julgue os próximos itens, relativos às FARC
+e à tentativa do acordo de paz dessa guerrilha com o governo
+colombiano.
+47
+
+Originalmente, as FARC eram um exército revolucionário
+comprometido com a implantação do socialismo na Colômbia;
+com o tempo, elas se envolveram crescentemente com o
+narcotráfico.
+
+48
+
+Por maioria absoluta de votos, a população colombiana se opôs
+ao acordo de paz entre o governo e as FARC.
+
+49
+
+A guerra civil entre as FARC e o governo da Colômbia, país
+sul-americano que tem fronteira com o Brasil, se prolonga por
+cerca de cinco décadas.
+
+50
+
+O fragmento de texto em apreço sugere dificuldade
+intransponível para que novo acordo seja celebrado entre o
+governo colombiano e as FARC.
+
+Espaço livre
+
+

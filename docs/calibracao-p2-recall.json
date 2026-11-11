@@ -1,0 +1,175 @@
+{
+  "arquivo": "fila/calibracao-p2.jsonl",
+  "n": 120,
+  "metodo": "amostra estratificada ponderada",
+  "topicos": {
+    "P2·AUD 1": {
+      "n_rotulado": 6,
+      "tp_ponderado": 62.75,
+      "preditos_ponderado": 376.5,
+      "reais_ponderado": 62.75,
+      "precisao": 0.16666666666666666,
+      "recall": 1.0
+    },
+    "P2·AUD 2": {
+      "n_rotulado": 6,
+      "tp_ponderado": 125.5,
+      "preditos_ponderado": 376.5,
+      "reais_ponderado": 188.25,
+      "precisao": 0.3333333333333333,
+      "recall": 0.6666666666666666
+    },
+    "P2·AUD 3": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 670.3833333333333,
+      "precisao": 0.0,
+      "recall": 0.0
+    },
+    "P2·AUD 4": {
+      "n_rotulado": 5,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 313.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·AUD 5": {
+      "n_rotulado": 2,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 125.5,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·DIR 1": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·DIR 2": {
+      "n_rotulado": 2,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 125.5,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·DIR 3": {
+      "n_rotulado": 11,
+      "tp_ponderado": 125.5,
+      "preditos_ponderado": 690.25,
+      "reais_ponderado": 492.06666666666666,
+      "precisao": 0.18181818181818182,
+      "recall": 0.25504674163392493
+    },
+    "P2·DIR 4": {
+      "n_rotulado": 4,
+      "tp_ponderado": 62.75,
+      "preditos_ponderado": 251.0,
+      "reais_ponderado": 125.5,
+      "precisao": 0.25,
+      "recall": 0.5
+    },
+    "P2·DIR 5": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·EVID 2": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·EVID 3": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·EVID 4": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·EVID 5": {
+      "n_rotulado": 2,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 125.5,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·GOV 1": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·GOV 2": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 125.5,
+      "precisao": 0.0,
+      "recall": 0.0
+    },
+    "P2·GOV 4": {
+      "n_rotulado": 3,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 188.25,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·GOV 5": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·TRANSP 1": {
+      "n_rotulado": 7,
+      "tp_ponderado": 62.75,
+      "preditos_ponderado": 439.25,
+      "reais_ponderado": 125.5,
+      "precisao": 0.14285714285714285,
+      "recall": 0.5
+    },
+    "P2·TRANSP 2": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 62.75,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P2·TRANSP 4": {
+      "n_rotulado": 2,
+      "tp_ponderado": 62.75,
+      "preditos_ponderado": 125.5,
+      "reais_ponderado": 62.75,
+      "precisao": 0.5,
+      "recall": 1.0
+    }
+  }
+}

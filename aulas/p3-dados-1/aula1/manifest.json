@@ -1,0 +1,21 @@
+{
+ "tema": "P3·DADOS 1",
+ "aula": 1,
+ "versao": 1,
+ "didatica_v2": true,
+ "titulo": "Aula 1 – Modelagem relacional, normalização, transações e ACID (P3·DADOS 1)",
+ "origem": "engenharia-reversa",
+ "data": "2026-11-08",
+ "caderno": [
+  "petrobras-ns-2021-c05-analista-sistemas-infraestrutura#108",
+  "mp-to-servidor-2024-c01-administracao-banco-dados#67",
+  "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#129",
+  "mpo-2024-cg-bloco-comum#86",
+  "seplag-ce-2024-x-prova-objetiva-conhecimentos-basicos#40",
+  "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#74",
+  "tce-ac-2024-c06-gestao-dados#65",
+  "funpresp-2021-c10-tecnologia#112",
+  "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#73",
+  "pc-df-adm-2024-c01-analista-informatica-area-atuacao#67"
+ ]
+}

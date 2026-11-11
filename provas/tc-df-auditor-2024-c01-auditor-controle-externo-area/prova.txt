@@ -1,0 +1,934 @@
+CEBRASPE – TCDF – Edital: 2024
+
+-- CONHECIMENTOS ESPECIALIZADOS -Com base na legislação brasileira sobre arquivo e em princípios e
+conceitos arquivísticos, julgue os itens que se seguem.
+96 O órgão central do Sistema Nacional de Arquivos é o
+Ministério da Gestão e da Inovação em Serviços Públicos.
+
+97
+
+JUSTIFICATIVA - Errado. O órgão central do Sistema Nacional de
+Arquivos é o Conselho Nacional de Arquivos (CONARQ). É o que
+estabelece o art. 2.º do Decreto n.º 4.073/2002.
+<FimJust>
+
+O conceito de ciclo de vida dos documentos foi
+desenvolvido pelo arquivista americano T. R. Schellenberg,
+que escreveu sobre o período de vida útil dos documentos,
+que compreende desde o uso corrente até o destino final.
+
+JUSTIFICATIVA - Certo. O conceito de ciclo de vida é um
+conceito de uso comum. Ele indica que os documentos não são
+estáticos, mas tem uma vida similar ao de organismos biológicos:
+nascem, vivem e morrem. A ideia foi desenvolvida na América do
+Norte por Schellenberg, que escreveu sobre o período da vida útil
+dos documentos, que inclui o uso corrente até a destinação final.
+<FimJust>
+98
+
+Organicidade consiste na característica de os documentos de
+arquivo serem únicos, produzidos em um único exemplar.
+
+JUSTIFICATIVA - Errado. No contexto de arquivos e
+arquivologia, organicidade corresponde à característica de os
+documentos de arquivo estarem inter-relacionados e fazerem parte
+de um todo maior, resultante das atividades e funções da entidade
+(pessoa, instituição ou organização) que os produziu ou acumulou.
+Essa relação é natural e surge de forma orgânica, ou seja, os
+documentos não são criados isoladamente, mas em função das
+atividades e processos administrativos, legais ou operacionais da
+entidade.
+<FimJust>
+
+99
+
+Os documentos de arquivo devem abranger conteúdo,
+contexto e estrutura.
+
+JUSTIFICATIVA - Certo. Os documentos de arquivo devem
+possuir conteúdo, contexto e estrutura. Conteúdo: um documento
+deve refletir os fatos sobre a atividade. Contexto: o documento deve
+estar apoiado por informação sobre as circunstâncias em que foi
+criado e usado. Estrutura: o documento deve refletir os
+relacionamentos entre suas partes constituintes.
+<FimJust>
+100 Uma das competências do Conselho Nacional de Arquivos é
+
+estabelecer diretrizes para o funcionamento do Sistema
+Nacional de Arquivos, com vistas à gestão, à preservação e
+ao acesso aos documentos de arquivos.
+
+JUSTIFICATIVA - Certo. O art. 2.º, inciso I, do Decreto
+n.º 4.073/2002, dispõe que compete ao CONARQ estabelecer
+diretrizes para o funcionamento do SINAR, visando à gestão, à
+preservação e ao acesso aos documentos de arquivos.
+<FimJust>
+101 O conceito de proveniência, tradicionalmente associado à
+
+origem dos documentos, foi reinterpretado, sendo atualmente
+entendido como o vínculo material entre um conjunto
+documental e um único produtor.
+
+JUSTIFICATIVA - Errado. Tradicionalmente entendido como uma
+referência à origem administrativa dos documentos, o termo
+proveniência é agora frequentemente reinterpretado para incluir
+uma compreensão das funções e atividades subjacentes à criação e
+manutenção dos documentos. Inclusive, trata-se de um conceito
+intelectual e não mais material, relacionado, também, à
+multiproveniência, ou seja, a um conjunto documental e vários
+produtores.
+<FimJust>
+
+Considerando as normas nacionais e internacionais de arquivo e
+de gestão de documentos, julgue os itens a seguir.
+102 O sistema de gestão de documentos de arquivo de
+determinada organização deve ser documentado e incluir
+
+declarações sobre o seu escopo e o diagnóstico da situação
+arquivística da organização.
+
+JUSTIFICATIVA - Errado. A organização deve documentar seu
+SGDA e deve incluir declarações autorizadas sobre: o escopo do
+SGDA; as políticas e os objetivos; a interdependência e os
+relacionamentos entre o SGDA e outros sistemas; procedimentos
+documentados; documentação determinada pela organização como
+necessária. Não há menção sobre diagnóstico. ABNT NBR ISO
+30301.
+<FimJust>
+
+103 Entre os princípios da Norma Brasileira de Descrição
+
+Arquivística, encontra-se a descrição multinível, que consiste
+na organização dos documentos de arquivo de forma
+hierárquica, em que cada nível fornece mais detalhes à
+medida que se avança na descrição, sendo um desses níveis a
+subsérie.
+
+JUSTIFICATIVA - Certo. Os níveis de descrição são os seguintes:
+fundo, seção, série, subsérie, dossiê e item. Brasil. Conselho
+Nacional de Arquivos. NOBRADE: Norma Brasileira de Descrição
+Arquivística. Rio de Janeiro: Arquivo Nacional, 2006.
+<FimJust>
+104 A tomada de decisão baseada na evidência é um dos
+
+princípios em que se assenta o sistema de gestão de
+documentos.
+
+JUSTIFICATIVA - Certo. A tomada de decisão baseada na
+evidência, liderança e responsabilidade e compromisso das pessoas
+são princípios para o êxito do sistema de gestão de documentos.
+ABNT NBR ISO 30300.
+<FimJust>
+105 Uma das áreas previstas na Norma Internacional de
+
+Descrição de Funções é a de pontos de acesso e indexação de
+assuntos.
+
+JUSTIFICATIVA - Errado. As áreas da ISDF são as seguintes:
+identificação, contextualização, relacionamentos e controle.
+Conselho Internacional de Arquivos ISDF: Norma internacional
+para descrição de funções. Tradução de Vitor Manoel Marques da
+Fonseca. 1.ª ed. Rio de Janeiro: Arquivo Nacional, 2008.
+<FimJust>
+106 De acordo com a Norma Internacional de Registro de
+
+Autoridade Arquivística para Entidades Coletivas, Pessoas e
+Famílias, os registros de autoridade arquivística podem ser
+usados para o controle da criação e do uso de pontos de
+acesso em descrições arquivísticas.
+
+JUSTIFICATIVA - Certo. Registros de autoridade arquivística
+podem ser usados para: a. descrever uma entidade coletiva, pessoa,
+ou família como unidades dentro de um sistema de descrição
+arquivístico; b. controlar a criação e o uso de pontos de acesso em
+descrições arquivísticas; c. documentar relações entre diferentes
+produtores de documentos e entre essas entidades e os documentos
+que produziram e(ou) outros recursos sobre ou produzidos por essas
+mesmas entidades. Conselho Internacional de Arquivos
+ISAAR(CPF): Norma internacional de registro de autoridade
+arquivística para entidades coletivas, pessoas e famílias/tradução de
+Vitor Manoel Marques da Fonseca. 2. ed., Rio de Janeiro: Arquivo
+Nacional, 2004.
+<FimJust>
+
+107 Documento confiável é definido como aquele que foi
+
+produzido e(ou) recebido pela pessoa que de fato o produziu
+ou o recebeu.
+
+JUSTIFICATIVA - Errado. De acordo com a norma ABNT NBR
+ISO 30300, o documento confiável é aquele cujo conteúdo é uma
+representação completa das operações, das atividades ou dos fatos
+que testemunham, aos quais podem se recorrer no caso de
+operações posteriores. A definição apresentada no item é de
+documento autêntico.
+<FimJust>
+
+CEBRASPE – TCDF – Edital: 2024
+
+Em relação aos instrumentos de gestão de documentos (plano de
+classificação e tabela de temporalidade), julgue os itens
+seguintes.
+108 O tempo de guarda de qualquer documento no arquivo
+corrente é definido por legislação específica.
+
+115 Depois de elaborado o plano de classificação de documentos
+
+de arquivo, a instituição deve criar uma comissão
+permanente de avaliação de documentos de arquivo para
+dispor sobre os prazos de guarda e destinação dos
+documentos.
+
+JUSTIFICATIVA - Errado. A classificação estrutural é baseada na
+estrutura organizacional do órgão e, por isso, menos adequada para
+órgãos instáveis institucionalmente, os quais exigem mudanças
+periódicas do instrumento.
+<FimJust>
+
+JUSTIFICATIVA - Errado. O plano de classificação deve ser
+elaborado pela comissão permanente de avaliação, portanto ela não
+pode ser criada após ele estar pronto. Assim, a assertiva contraria o
+Decreto n.º 10.148/2019, que prevê: “Art. 9.º Serão instituídas
+Comissões Permanentes de Avaliação de Documentos, no âmbito
+dos órgãos e das entidades da administração pública federal, órgãos
+técnicos com o objetivo de orientar e realizar o processo de análise,
+avaliação e seleção dos documentos produzidos e acumulados no
+seu âmbito de atuação para garantir a sua destinação final, nos
+termos da legislação vigente e das normas do Siga, com as
+seguintes competências: I elaborar os códigos de classificação de
+documentos e as tabelas de temporalidade e destinação de
+documentos, que são instrumentos técnicos de gestão relativos às
+atividades-fim de seus órgãos e entidades e submetê-los à
+aprovação do Arquivo Nacional;”.
+<FimJust>
+
+110 Os princípios de classificação comumente utilizados na
+
+116 É permitida a eliminação de documento classificado em grau
+
+JUSTIFICATIVA - Errado. Segundo a literatura de referência, nem
+todos os documentos encontram indicação de tempo no arquivo
+corrente na legislação que normatiza a atividade que gerou o
+documento. A maior parte, inclusive, é dada pelas necessidades
+administrativas, que somente o acumulador do documento é capaz
+de informar.
+<FimJust>
+
+109 A classificação estrutural é a mais adequada para a
+
+elaboração de planos de classificação de organizações
+institucionalmente instáveis.
+
+elaboração do plano de classificação são função, atividade e
+tarefa.
+
+JUSTIFICATIVA - Certo. Os princípios de classificação por
+função, atividade e tarefa são comumente utilizados para definir os
+níveis de classificação de um plano ou código. É o conhecido FAT,
+como registra a literatura de referência.
+<FimJust>
+111 A indicação da destinação final de um documento para a
+
+guarda permanente em uma tabela de temporalidade pode ser
+realizada sem que seja necessário passar o documento pelo
+arquivo intermediário.
+
+JUSTIFICATIVA - Certo. Não há nada que obrigue a passagem dos
+documentos pelo arquivo intermediário, exceto se necessário o
+cumprimento de prazo prescricional ou precautório.
+<FimJust>
+
+112 A menor unidade de classificação na estrutura de um plano
+
+ou código de classificação corresponde ao item documental.
+
+JUSTIFICATIVA - Errado. As unidades de classificação não
+devem ser confundidas com os objetos a serem classificados, como
+o item documental.
+<FimJust>
+
+Julgue os próximos itens, relativos a avaliação e destinação de
+documentos de arquivo.
+113 A eliminação de documentos que não constarem da tabela de
+temporalidade e destinação de documentos será realizada
+mediante autorização excepcional da instituição arquivística
+pública competente.
+
+JUSTIFICATIVA - Certo. A assertiva está de acordo com a
+Resolução CONARQ n.º 40/2014, com as alterações promovidas
+pela Resolução CONARQ n.º 44/2020: “Art. 2.º (...) § 2.º A
+eliminação de documentos que não constarem da tabela de
+temporalidade e destinação de documentos será realizada mediante
+autorização excepcional da instituição arquivística pública, em sua
+esfera de competência.”.
+<FimJust>
+
+114 Comodato, recolhimento, doação e permuta são formas de
+
+entrada de acervos arquivísticos nos arquivos públicos.
+
+JUSTIFICATIVA - Certo. A assertiva está de acordo com a prática
+arquivística e com o Dicionário Brasileiro de Terminologia
+Arquivística (Arquivo Nacional, 2005, p.85), que assim define o
+verbete:
+Entrada de documentos
+Ingresso de documentos em arquivo [instituição], seja por
+comodato, compra, custódia, dação, depósito, doação, empréstimo,
+legado, permuta, recolhimento, reintegração ou transferência.
+<FimJust>
+
+de sigilo secreto, desde que decorridos o prazo de sigilo e o
+prazo de guarda previsto em tabela de temporalidade e
+destinação.
+
+JUSTIFICATIVA - Errado. Uma vez classificado com secreto, o
+documento torna-se, automaticamente, de valor permanente,
+mesmo que a classificação arquivística recebida (código de
+classificação) e a avaliação vinculada a ela não prevejam tal
+destinação. Conforme disposto no Decreto n.º 7.724/2012, que
+regulamenta a Lei de Acesso à Informação, “Art. 39. As
+informações classificadas no grau ultrassecreto ou secreto serão
+definitivamente preservadas, nos termos da Lei n.º 8.159, de 1991,
+observados os procedimentos de restrição de acesso enquanto
+vigorar o prazo da classificação.”.
+<FimJust>
+
+Considerando as normas de descrição arquivística, elaboração de
+instrumentos de pesquisa e RiC (records in contexts), bem como
+a difusão de documentos, julgue os seguintes itens.
+117 Publicações, promoção de eventos e visitas guiadas são
+típicas ações de divulgação/difusão nos arquivos.
+
+JUSTIFICATIVA - Certo. Divulgação é o conjunto de atividades
+destinadas a aproximar o público dos arquivos, por meio de
+publicações e da promoção de eventos, como exposições e
+conferências. Como ações de difusão, destacam-se: exposições,
+publicações impressas, instrumentos de pesquisa, visitas guiadas e
+conteúdos difundidos na Internet.
+<FimJust>
+
+118 A utilização de planos de classificação para a organização
+
+dos documentos nos arquivos correntes e quadros de arranjo
+nos arquivos permanentes integra a função arquivística de
+classificação.
+
+JUSTIFICATIVA - Certo. Conforme a literatura de referência, a
+função classificação diz respeito à criação e à utilização de planos
+de classificação que reflitam as funções, atividades e ações ou
+tarefas da instituição acumuladora dos documentos arquivísticos
+nas fases corrente e intermediária e a elaboração de quadros de
+arranjo na fase permanente.
+<FimJust>
+
+119 A descrição baseada no conceito de RiC é multidimensional,
+
+diferentemente das descrições de documentos de arquivo que
+a precederam, que eram hierarquizadas.
+
+JUSTIFICATIVA - Certo. A descrição mencionada no item é uma
+nova representação multidimensional, não mais hierárquica, mas
+apresentada como uma rede de relações em grafos, que mudou
+substancialmente o enfoque multinível inicial usado na descrição
+dos documentos de arquivo e ficou evidente nas novas entidades e
+suas relações do modelo conceitual RiC- CM e, posteriormente, no
+
+CEBRASPE – TCDF – Edital: 2024
+RiC-O.
+<FimJust>
+120 Segundo a Norma Brasileira de Descrição Arquivística, data
+
+crônica corresponde ao elemento de identificação do local de
+produção de um documento.
+
+JUSTIFICATIVA - Errado. A definição apresentada no item é de
+data tópica. Segundo o Glossário da NOBRADE,
+data crônica é o elemento de identificação cronológica que tem por
+referencial um calendário; e data tópica é o elemento de
+identificação do local de produção de um documento.
+<FimJust>
+
+Julgue os itens a seguir, que tratam da diplomática
+contemporânea e da preservação de documentos arquivísticos.
+121 Ações de higienização da área de depósito, de redução da
+luminosidade incidente e de obturação dos documentos são
+parte das atividades de conservação preventivas.
+
+JUSTIFICATIVA - Errado. Embora as ações iniciais sejam, de fato,
+conservação preventiva, segundo o Dicionário Brasileiro de
+Terminologia Arquivística (Arquivo Nacional, 2005, p.145),
+obturação, também chamada de reintegração, não é uma atividade
+de conservação preventiva.
+“Reintegração
+Processo de restauração, manual ou mecânico, em que se usa uma
+suspensão de fibras para reparar documentos danificados por perda
+de suporte. Também chamado obturação.”.
+<FimJust>
+
+122 O selo não é considerado o elemento extrínseco mais
+
+importante nos documentos
+inclusive, incomum.
+
+contemporâneos,
+
+sendo,
+
+JUSTIFICATIVA - Certo. O selo, elemento extrínseco mais
+importante dos documentos medievais, é o menos comum e
+relevante nos documentos contemporâneos.
+<FimJust>
+
+123 A preservação de documentos arquivísticos não digitais
+
+ainda carece de regulamentação específica do Conselho
+Nacional de Arquivos, sendo sequer mencionada em normas
+que tratam da gestão de documentos.
+
+JUSTIFICATIVA - Errado. Embora não exista muita
+regulamentação do CONARQ a respeito da preservação de
+documentos, preservação abrange aspectos de conservação e
+restauração que são tratados na Resolução n.º 34/2012, que dispõe
+sobre a adoção das recomendações para o resgate de acervos
+arquivísticos danificados por água pelos órgãos e entidades
+integrantes do Sistema Nacional de Arquivos (SINAR). Então, já
+existe, no mínimo, um início de regulamentação. Além disso,
+diversas outras normas que tratam da gestão de documentos deixam
+claro que um dos objetivos é a preservação, como, por exemplo, a
+Resolução n.º 27/2008: “Art. 6.º Os programas de gestão de
+documentos arquivísticos do âmbito dos estados, do
+Distrito Federal e dos municípios, deverão contemplar
+obrigatoriamente: (...) III - Programa de preservação documental,
+contemplando as etapas de produção, armazenamento e manuseio
+do documento arquivístico em todos os suportes.”.
+<FimJust>
+
+124 Segundo a terminologia arquivística, ofício é uma espécie
+
+documental empregada para a comunicação oficial entre
+instituições.
+
+JUSTIFICATIVA - Certo. O ofício é uma espécie documental, tal
+como se observa na definição: configuração que assume um
+documento de acordo com a disposição e a natureza das
+informações nele contidas. Conforme o Dicionário Brasileiro de
+Terminologia Arquivística - Dibrate (Arquivo Nacional, 2005,
+p.85):
+“Espécie documental
+Divisão de gênero documental que reúne tipos documentais por seu
+formato. São exemplos de espécies documentais ata, carta, decreto,
+disco, filme, folheto, fotografia, memorando, ofício, planta,
+relatório.”.
+Adicionalmente, cabe observar que o Manual de Comunicação
+
+Oficial do Governo do Distrito Federal (2023) assim o descreve:
+“Ofício
+Documento de comunicação utilizado pelo governo para tratar de
+assuntos oficiais com órgãos ou entidades públicas, com pessoa
+jurídica de direito privado ou com pessoa física. É encaminhado a
+um único destinatário.” (p.74)
+<FimJust>
+
+No que concerne à indexação de documentos, julgue os itens
+subsequentes.
+125 A diferença principal entre a indexação automática e a
+semiautomática é que, nessa última, é facultativa a atuação
+de um ser humano.
+
+JUSTIFICATIVA - Errado. A presença humana é obrigatória.
+Indexação semiautomática: relaciona-se ao processo em que um
+sistema computacional realiza a atividade de análise de texto do
+documento e, posteriormente, um indexador humano avalia os
+termos para indexação indicados pelo sistema, escolhendo assim, os
+termos que serão efetivamente empregados para representar o
+documento.
+• Indexação automática: consiste na seleção automática dos
+termos por um software ou sistema, levando-se em conta critérios
+estatísticos da ocorrência dos termos no texto dos documentos.
+<FimJust>
+
+126 Ao se indexar o documento por meio da técnica de extração,
+
+atribuem-se termos ao documento a partir de uma fonte que
+não é o próprio documento.
+
+JUSTIFICATIVA - Errado. Ao contrário da assertiva, a extração ou
+derivação ocorre quando a indexação se utiliza de palavras ou
+expressão do próprio documento, conforme A indexação pode
+acontecer de duas maneiras: por derivação ou extração — palavras
+ou expressões que ocorrem no documento são selecionadas para
+representar o seu conteúdo temático — e por atribuição, que
+envolve a atribuição de termos ao documento a partir de uma fonte
+que não é o próprio.
+<FimJust>
+
+127 A indexação pressupõe a extração de conceitos que possam
+
+representar o conteúdo do documento e a tradução desses
+conceitos em uma linguagem de descrição.
+
+JUSTIFICATIVA - Errado. O correto é linguagem de indexação,
+não de descrição. No domínio da ciência da informação, a
+indexação pode ser definida como o ato de identificar e descrever o
+conteúdo de um documento em termos representativos dos seus
+assuntos e que constituem uma linguagem de indexação, segundo a
+Associação Brasileira de Normas Técnicas (1992). Esse processo
+envolve duas etapas: a extração dos conceitos que possam
+representar o assunto de um documento e a tradução desse conceito
+para uma linguagem de indexação.
+<FimJust>
+128 Define-se indexação como o processo pelo qual documentos
+
+ou informações são representados por termos,
+palavras-chave ou descritores, propiciando a recuperação da
+informação.
+
+JUSTIFICATIVA - Certo. O item está de acordo com a descrição
+do verbete “indexação” no Dicionário Brasileiro de Terminologia
+Arquivística (Arquivo Nacional, 2005, p. 107).
+<FimJust>
+
+Julgue os próximos itens, que versam sobre políticas de acesso a
+documentos de arquivo.
+129 Arquivistas têm acesso a todos os arquivos fechados e neles
+realizam o trabalho arquivístico necessário.
+
+JUSTIFICATIVA - Certo. Conforme o princípio 9 dos princípios
+de acesso aos arquivos do Conselho Internacional de Arquivos,
+“Arquivistas têm acesso a todos os arquivos fechados e neles
+realizam o trabalho arquivístico necessário”. Os membros da equipe
+têm acesso ao acervo com informações restritas, a fim de organizar
+e descrever documentos, realizar atividades de preservação e
+implementar as restrições de acesso. Se os membros da equipe
+precisam trabalhar com documentos considerados de segurança
+
+CEBRASPE – TCDF – Edital: 2024
+nacional ou outros especialmente protegidos, eles cumprem os
+procedimentos que os autorizam a manuseá-los.
+<FimJust>
+130 Instituições custodiadoras de arquivos garantem que vítimas
+
+de crimes graves previstos nas leis internacionais tenham
+acesso a documentos que proporcionem a evidência
+necessária à afirmação de seus direitos humanos e à prova de
+sua violação, mesmo se esses documentos estiverem
+fechados ao público em geral.
+
+JUSTIFICATIVA - Certo. De acordo com o princípio 6 dos
+princípios de acesso aos arquivos do Conselho Internacional de
+Arquivos, “Instituições custodiadoras de arquivos garantem que
+vítimas de crimes graves segundo as leis internacionais tenham
+acesso a documentos que proporcionam a evidência necessária à
+afirmação de seus direitos humanos e à prova de sua violação,
+mesmo se esses documentos estiverem fechados ao público em
+geral”. As pessoas elegíveis para acesso com base nessa exceção
+devem atender aos critérios estabelecidos na versão atualizada dos
+princípios para a proteção e promoção dos direitos humanos através
+da ação de combate à impunidade do Alto Comissariado das
+Nações Unidas para os Direitos Humanos.
+<FimJust>
+131 Instituições custodiadoras de arquivos devem garantir que
+
+restrições operacionais não impeçam o acesso aos arquivos.
+
+JUSTIFICATIVA - Certo. Conforme o princípio 8 dos princípios
+de acesso aos arquivos do Conselho Internacional de Arquivos,
+“Instituições custodiadoras de arquivos garantem que as restrições
+operacionais não impeçam o acesso aos arquivos”. Pedidos de
+acesso são processados sem discriminação com base na raça, sexo,
+religião, crença ou condição social dos solicitantes. As “pessoas
+com deficiência, analfabetos ou desfavorecidos e que de outra
+forma teriam dificuldades significativas no uso de arquivos”
+recebem assistência para garantir que tenham as mesmas
+oportunidades de se beneficiar de acesso aos documentos.
+<FimJust>
+
+132 Usuários não têm o direito de apelar de uma negação de
+
+acesso a documento de arquivo.
+
+JUSTIFICATIVA - Errado. A assertiva está de acordo com o
+princípio 7 dos Princípios de acesso aos arquivos, segundo o qual
+“Usuários têm o direito de apelar de uma negação de acesso” (p.
+17).
+Conselho Internacional de Arquivos. Comitê de Boas Práticas e
+Normas. Grupo de Trabalho sobre Acesso. Princípios de acesso aos
+arquivos: orientação técnica para gestão de arquivos com restrições
+[recurso eletrônico] / Conselho Internacional de Arquivos
+[Tradução de Silvia Ninita de Moura Estevão e Vitor Manoel
+Marques da Fonseca]. Dados eletrônicos. Rio de Janeiro: Arquivo
+Nacional, 2014.
+<FimJust>
+
+Em relação aos sistemas informatizados de gestão arquivística de
+documentos, julgue os itens que se seguem.
+133 No escopo dos metadados, o paradado é uma estrutura
+conceitual utilizada para definir o caráter do processamento
+de recursos de informação e é aplicado exclusivamente a
+sistemas automatizados baseados em inteligência artificial.
+
+JUSTIFICATIVA - Errado. No escopo dos metadados, o paradado
+é uma estrutura conceitual para definir o caráter do processamento
+de recursos de informação. Embora não haja necessidade de ser
+aplicado exclusivamente a sistemas automatizados baseados em
+inteligência artificial, o termo paradado pode ser usado, atualmente,
+para explicar a função da inteligência artificial nos arquivos.
+<FimJust>
+
+134 O documento digital é um componente digital ou grupo de
+
+componentes digitais salvo, tratado e gerenciado como um
+documento.
+
+JUSTIFICATIVA - Certo. O documento digital é um componente
+digital, ou grupo de componentes digitais, salvo, tratado e
+gerenciado como um documento.
+<FimJust>
+
+135 Conforme
+
+o Modelo de Requisitos para Sistemas
+Informatizados de Gestão Arquivística de Documentos
+(e-ARQ Brasil), requisitos não funcionais são aqueles que
+não estão diretamente relacionados à funcionalidade do
+sistema e, portanto, não são relevantes para a sua
+implementação.
+
+JUSTIFICATIVA - Errado. Conforme o Modelo de Requisitos para
+Sistemas Informatizados de Gestão Arquivística de Documentos (eARQ Brasil), os requisitos não funcionais são aqueles que não estão
+diretamente relacionados à funcionalidade do sistema, mas que são
+relevantes para a sua implementação. (p. 15)
+<FimJust>
+136 O gênero documental, ou seja, a configuração da informação
+
+no documento de acordo com o sistema de signos utilizado
+na comunicação do documento, inclui-se entre os requisitos
+mínimos exigidos para os documentos digitalizados por
+pessoas jurídicas de direito público interno.
+
+JUSTIFICATIVA - Certo. Os metadados mínimos exigidos para
+documentos digitalizados por pessoas jurídicas de direito público
+interno incluem o gênero, definido como “a configuração da
+informação no documento de acordo com o sistema de signos
+utilizado na comunicação do documento”, conforme o anexo 2 do
+Decreto n.º 10.278/2020.
+<FimJust>
+137 A compreensão dos metadados, tanto em documentos
+
+tradicionais quanto em documentos digitais, depende do
+contexto administrativo; entretanto os documentos digitais
+independem da descrição da função da informação
+registrada.
+
+JUSTIFICATIVA - Errado. Segundo a literatura de referência, os
+documentos tradicionais dependem de um contexto administrativo
+para serem compreendidos. Os documentos eletrônicos/digitais se
+apoiam em um contexto administrativo, mas precisam igualmente
+de metadados que descrevam a função da informação registrada.
+<FimJust>
+138 As tecnologias semânticas da Web, como o RDF (resource
+
+description framework) e as ontologias, são baseadas na
+noção de URI (uniform resource identifier), que identificam
+apenas recursos de descrição.
+
+JUSTIFICATIVA - Errado. Segundo a literatura de referência, as
+tecnologias semânticas da Web como o RDF e as ontologias são
+baseadas inteiramente na noção de URI, que já não identificam
+apenas recursos, mas também pessoas, conceitos etc.
+<FimJust>
+
+Acerca da preservação digital, julgue os seguintes itens.
+139 O OAIS (open archival information system) define dois
+modelos: o funcional, que, além de descrever as funções
+atribuídas a um repositório digital, define detalhadamente
+funções (admissão, arquivamento, gerenciamento de dados,
+administração do sistema, planejamento de preservação e
+acesso); e o de informação, que estabelece os metadados
+para preservar e acessar as informações armazenadas em um
+repositório digital.
+
+JUSTIFICATIVA - Certo. De acordo com a literatura da área, o
+OAIS define um modelo funcional e um modelo de informação. O
+modelo funcional descreve as funções atribuídas a um repositório
+digital, além de definir detalhadamente funções como: admissão,
+arquivamento, gerenciamento de dados, administração do sistema,
+planejamento de preservação e acesso. Já o modelo de informação
+estabelece os tipos mais amplos de informação (ou metadados)
+necessários para preservar e acessar as informações armazenadas
+em um repositório digital.
+<FimJust>
+
+140 Segundo a perspectiva do ciclo vital ininterrupto, um mesmo
+
+ambiente de gestão e preservação de documentos apresenta
+as seguintes desvantagens: proximidade do documento com
+o produtor; descentralização da guarda em depósitos; e
+
+CEBRASPE – TCDF – Edital: 2024
+
+acesso direto ao documento.
+
+JUSTIFICATIVA - Errado. A perspectiva do ciclo vital ininterrupto
+apresenta um entendimento diferenciado sobre a gestão arquivística
+dos documentos arquivísticos digitais, uma vez que a gestão e a
+preservação se unem, formando o conceito de documentos
+contínuos o qual permite um processo de gestão e preservação mais
+eficaz, através de um ciclo de vida ininterrupto, considerando-se,
+nesse caso, que esses documentos podem ter um único ambiente de
+gestão e preservação, uma vez que algumas questões, como
+proximidade do documento com o produtor, descentralização da
+guarda em depósitos específicos para cada idade e acesso direto ao
+documento convencional podem ser desconsideradas em relação ao
+ciclo de vida tradicional.
+<FimJust>
+141 Conforme o modelo OAIS (open archival information
+
+system), a cadeia de custódia dos documentos é representada
+por três ambientes: o ambiente de produção ou gestão, o
+ambiente de preservação e o ambiente de acesso, difusão,
+descrição e representação dos documentos.
+
+JUSTIFICATIVA - Certo. De acordo com a literatura de referência
+na área, no modelo OAIS, a cadeia de custódia dos documentos é
+representada por três ambientes: o ambiente de produção, o
+ambiente de preservação e o ambiente de acesso, difusão, descrição
+e representação dos documentos.
+<FimJust>
+
+142 O gerenciamento dos documentos de um repositório digital
+
+confiável deve alinhar-se com o modelo de referência OAIS
+(open archival information system), que estabelece a
+formação de pacotes de informação de conteúdo, mas não de
+informação de representação.
+
+JUSTIFICATIVA - Errado. A assertiva contraria o disposto na
+Resolução n.º 43/2015 do Conselho Nacional De Arquivos
+(CONARq):
+“O gerenciamento dos documentos de um repositório digital
+confiável deve estar de acordo com o modelo de referência OAIS,
+que estabelece a formação de pacotes de informação envolvendo os
+documentos digitais (informação de conteúdo) e seus metadados
+(informação de representação).”
+<FimJust>
+
+143 Um repositório digital confiável deve ser capaz de manter
+
+autênticos os materiais digitais, de preservá-los e prover
+acesso a eles pelo tempo necessário, observados os seguintes
+fatores relativos às responsabilidades organizacionais e de
+curadoria dos repositórios: escopo dos materiais depositados,
+gerenciamento do ciclo de vida e preservação, atuação junto
+a uma ampla gama de parceiros, questões legais relacionadas
+com a propriedade dos materiais armazenados e implicações
+financeiras.
+
+JUSTIFICATIVA - Certo. A assertiva está de acordo com o
+disposto na Resolução n.º 43/2015 do Conselho Nacional De
+Arquivos (CONARq):
+“Um repositório digital confiável é um repositório digital que é
+capaz de manter autênticos os materiais digitais, de preservá-los e
+prover acesso a eles pelo tempo necessário. Para cumprir essa
+missão, segundo o relatório Trusted Digital Repositories: attributes
+and responsibilities (RLG/OCLC, 2002), os repositórios digitais
+confiáveis devem:
+[...] observar os seguintes fatores relativos às responsabilidades
+organizacionais e de curadoria dos repositórios: escopo dos
+materiais depositados, gerenciamento do ciclo de vida e
+preservação, atuação junto a uma ampla gama de parceiros,
+questões legais relacionadas com a propriedade dos materiais
+armazenados e implicações financeiras.”
+<FimJust>
+
+144 Segundo resolução do Conselho Nacional de Arquivos, um
+
+repositório arquivístico digital confiável deve restringir-se
+aos procedimentos arquivísticos da fase de tramitação dos
+documentos e seus representantes digitais, atendendo aos
+requisitos de um repositório digital confiável.
+
+JUSTIFICATIVA - Errado. A assertiva contraria o disposto na
+Resolução n.º 43/2015 do Conselho Nacional De Arquivos
+(CONARq):
+“Um repositório arquivístico digital confiável deve ser capaz de
+atender aos procedimentos arquivísticos em suas diferentes fases e
+aos requisitos de um repositório digital confiável.”
+<FimJust>
+
+Com base na Lei de Acesso à Informação, julgue os itens que se
+seguem.
+145 Os prazos máximos de restrição de acesso a informações
+ultrassecretas, secretas ou reservadas começam a vigorar na
+data de sua classificação pela autoridade competente.
+
+JUSTIFICATIVA - Errado. De acordo com o § 1.º do art. 24 da Lei
+de Acesso à Informação, os prazos máximos de restrição de acesso
+à informação ultrassecreta, secreta ou reservada vigoram a partir da
+data de sua produção.
+<FimJust>
+
+146 A Comissão Mista de Reavaliação de Informações, instituída
+
+no âmbito da administração pública federal, é incumbida de
+rever a classificação de informações secretas ou reservadas,
+de ofício ou mediante provocação de pessoa interessada.
+
+JUSTIFICATIVA - Errado. O caput do art. 35 da Lei de Acesso à
+Informação previa tal competência, porém foi vetado. Conforme o §
+1.º, II, do mesmo artigo, a Comissão Mista de Reavaliação de
+Informações terá competência para: “II rever a classificação de
+informações ultrassecretas ou secretas, de ofício ou mediante
+provocação de pessoa interessada, observado o disposto no art. 7.º e
+demais dispositivos desta Lei;”.
+<FimJust>
+
+147 Os objetivos do Núcleo de Segurança e Credenciamento,
+
+instituído no âmbito do Gabinete de Segurança Institucional
+da Presidência da República, incluem promover e propor a
+regulamentação do credenciamento de segurança de pessoas
+físicas, empresas, órgãos e entidades para tratamento de
+informações sigilosas e garantir a segurança de informações
+sigilosas.
+
+JUSTIFICATIVA - Certo. A assertiva está aparada no art. 37, I e II,
+da Lei de Acesso à Informação.
+<FimJust>
+
+Considerando o que dispõe a Lei Geral de Proteção de Dados
+Pessoais (LGPD), julgue os itens a seguir.
+148 Entre as competências do Conselho Nacional de Proteção de
+Dados Pessoais e da Privacidade, estão a de elaborar
+relatórios anuais de avaliação da execução das ações da
+Política Nacional de Proteção de Dados e da Privacidade e a
+de sugerir ações a serem realizadas pela autoridade nacional
+de proteção de dados.
+JUSTIFICATIVA - Certo. A assertiva está em conformidade com o
+disposto nos incisos II e III do art. 58-B da LGPD.
+<FimJust>
+
+149 O acesso a dados pessoais tratados pelo controlador, caso
+
+solicitado por seu titular, será providenciado, mediante
+requisição do titular devidamente justificada, em formato
+simplificado ou por meio de declaração clara e completa,
+desde que autorizado pela autoridade nacional de proteção de
+dados.
+
+JUSTIFICATIVA - Errado. Na LGPD, não é prevista a condição de
+autorização da autoridade nacional para a disponibilização dos
+dados pessoais ao próprio titular. Segue parte da redação dos arts.
+18 e 19 da LGPD.
+Art. 18. O titular dos dados pessoais tem direito a obter do
+controlador, em relação aos dados do titular por ele tratados, a
+qualquer momento e mediante requisição:
+I confirmação da existência de tratamento;
+II acesso aos dados;
+(...)
+Art. 19. A confirmação de existência ou o acesso a dados pessoais
+
+CEBRASPE – TCDF – Edital: 2024
+serão providenciados, mediante requisição do titular:
+I em formato simplificado, imediatamente; ou
+II por meio de declaração clara e completa, que indique a origem
+dos dados, a inexistência de registro, os critérios utilizados e a
+finalidade do tratamento, observados os segredos comercial e
+industrial, fornecida no prazo de até 15 (quinze) dias, contado da
+data do requerimento do titular.
+<FimJust>
+150 O uso compartilhado de dados pessoais de pessoa jurídica de
+
+direito público a pessoa de direito privado deve ser
+informado ao encarregado pelo tratamento de dados pessoais
+e dependerá de consentimento do titular dos dados.
+
+JUSTIFICATIVA - Certo. A assertiva está de acordo com o
+disposto no artigo 5.º da Lei n. º 14.063/2020:
+“Art. 5.º No âmbito de suas competências, ato do titular do Poder
+ou do órgão constitucionalmente autônomo de cada ente federativo
+estabelecerá o nível mínimo exigido para a assinatura eletrônica em
+documentos e em interações com o ente público.
+§ 1.º O ato de que trata o caput deste artigo observará o seguinte:
+I a assinatura eletrônica simples poderá ser admitida nas
+interações com ente público de menor impacto e que não envolvam
+informações protegidas por grau de sigilo;”.
+<FimJust>
+152 Para os efeitos da citada lei, as assinaturas eletrônicas são
+
+classificadas em simples, moderada, avançada e qualificada.
+
+JUSTIFICATIVA - Errado. Segundo o art. 27 da LGPD, a
+informação deve ser prestada à autoridade nacional, com
+consentimento do titular. Não há a previsão de informação ao
+encarregado pelo tratamento de dados pessoais.
+<FimJust>
+
+153 Quando emitidos em meio eletrônico, os receituários de
+
+Acerca do uso de assinaturas eletrônicas conforme previsto pela
+Lei n.º 14.063/2020, julgue os itens seguintes.
+151 Admite-se assinatura eletrônica simples em interações com
+ente público de menor impacto e que não envolvam
+informações protegidas por grau de sigilo.
+
+JUSTIFICATIVA - Certo. A assertiva condiz com o art. 13 da Lei
+n.º 14.063/2020.
+<FimJust>
+
+JUSTIFICATIVA - Errado. A classificação “moderada” não existe
+na Lei n.º 14.063/2020.
+<FimJust>
+
+medicamentos sujeitos a controle especial e os atestados
+médicos somente serão válidos com assinatura eletrônica
+qualificada do profissional de saúde.
+
+A criptografia é o método de codificação de dados segundo algoritmo específico e chave secreta. A respeito desse tema, julgue os
+próximos itens.
+154 A utilização da criptografia de chave assimétrica possibilita o uso de certificação digital ou assinatura digital.
+JUSTIFICATIVA - Certo. A chave assimétrica é emitida por autoridade competente e permite que o fluxo dos dados criptografados sejam
+identificados em cada fase, o que possibilita que a certificação desse processo seja possível.
+<FimJust>
+
+155 Os objetivos básicos da criptografia são a confidencialidade, o sigilo, a autenticação, a integridade, o não repúdio e o anonimato.
+JUSTIFICATIVA - Certo. A assertiva reproduz os objetivos previstos na legislação para garantir que os dados criptografados sejam seguros
+tanto em relação ao conteúdo (confidencialidade, sigilo, autenticidade, integridade) e quanto ao emissor (não repúdio e anonimato).
+<FimJust>
+156 A criptografia de chave simétrica é a mais indicada no que diz respeito à segurança da informação voltada à confidencialidade.
+JUSTIFICATIVA - Certo. A utilização da chave simétrica garante que apenas o emissário e o receptor terão conhecimento da mensagem, pois
+utilizam a mesma chave.
+<FimJust>
+157 A criptografia é usada como um dos principais mecanismos de segurança para proteção contra acessos indevidos os dados, tanto
+
+os que trafegam pela Internet quanto os armazenados em computadores.
+
+JUSTIFICATIVA - Certo. Ao se utilizar a criptografia para codificar os dados, tem-se a garantia de que apenas os emissários e os receptores
+indicados terão acesso a eles.
+<FimJust>
+
+Tendo como referência a Infraestrutura de Chaves Públicas Brasileira (ICP/Brasil), julgue os itens subsecutivos.
+158 Nos casos de acordos de certificação lateral ou cruzada, é vedado a qualquer autoridade certificadora certificar nível diverso do
+subsequente ao seu.
+
+JUSTIFICATIVA - Errado. A assertiva contraria o disposto no art. 9.º da Medida Provisória n.º 2.200-2/2001, segundo o qual “É vedado a
+qualquer AC certificar nível diverso do imediatamente subsequente ao seu, exceto nos casos de acordos de certificação lateral ou cruzada,
+previamente aprovados pelo Comitê Gestor da ICP-Brasil.”.
+<FimJust>
+
+159 Uma das competências da autoridade certificadora raiz é a emissão de certificados para o usuário final.
+JUSTIFICATIVA - Errado. A assertiva contraria o disposto no parágrafo único do art. 5.º da Medida Provisória n.º 2.200-2/2001, segundo o
+qual “É vedado à AC Raiz emitir certificados para o usuário final.”.
+<FimJust>
+160 O par de chaves criptográficas será gerado pela autoridade certificadora, que deterá o controle, o uso e o conhecimento exclusivo
+
+da chave privada de assinatura do titular.
+
+JUSTIFICATIVA - Errado. A assertiva contraria o disposto no parágrafo único do art. 6.º da Medida Provisória n.º 2.200-2/2001, segundo o
+qual “O par de chaves criptográficas será gerado sempre pelo próprio titular e sua chave privada de assinatura será de seu exclusivo controle,
+uso e conhecimento.”.
+<FimJust>
+
+Espaço livre
+
+

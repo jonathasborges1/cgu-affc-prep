@@ -1,0 +1,406 @@
+-- CONHECIMENTO
+A respeito do gerenciamento de projetos com a utilização da
+metodologia ágil Scrum, julgue os itens a seguir.
+51 Sprint planning é a reunião em que a equipe de
+desenvolvimento define o objetivo da sprint e seleciona os
+itens do product backlog que serão trabalhados.
+52 O Scrum master tem a função de criar e comunicar
+claramente os itens do product backlog, além de comunicar
+explicitamente a meta do produto.
+53 Por meio do gráfico de burndown, é possível determinar o
+tempo necessário para concluir um projeto.
+Em relação ao gerenciamento de projetos com base na
+metodologia ágil Kanban, julgue os itens seguintes.
+54 O Kanban busca impactos positivos em grande escala, com
+foco na melhoria contínua e na busca por grandes mudanças
+consideradas ousadas em grandes projetos.
+55 As tarefas em andamento devem ser concluídas antes de se
+iniciarem novas tarefas.
+Considerando o modelo ITIL v4, julgue os itens que se seguem.
+56 O processo de gerenciamento de incidentes tem como foco
+principal a identificação e resolução da causa raiz dos
+incidentes.
+57 Os acordos documentados entre um provedor de serviços e o
+consumidor que identifica os serviços requeridos
+representam uma característica do gerenciamento de nível de
+serviços.
+58 A prática de disponibilizar para uso serviços novos ou
+alterados faz parte do processo de gerenciamento de
+liberação.
+Julgue os próximos itens, relativos à Política de Dados Abertos,
+estabelecida pelo Decreto n.º 8.777/2016.
+59 A Infraestrutura Nacional de Dados Abertos (INDA) poderá
+estabelecer normas complementares relacionadas à
+elaboração do plano de dados abertos bem como à proteção
+de informações pessoais na publicação de bases de dados
+abertos.
+60 A gestão da Política de Dados Abertos do Poder Executivo
+federal será coordenada pela Advocacia-Geral da União, por
+meio da Infraestrutura Nacional de Dados Abertos (INDA).
+Com base no disposto no Decreto n.º 10.160/2019, que estabelece
+a Política Nacional de Governo Aberto, julgue os seguintes itens.
+61 O coordenador do Comitê Interministerial de Governo
+Aberto poderá instituir até dois grupos de trabalho
+temporários com duração não superior a um ano e compostos
+por, no máximo, sete membros.
+62 Os planos de ação nacionais sobre governo aberto deverão
+contemplar, prioritariamente, a inclusão de iniciativas, de
+ações, de projetos, de programas e de políticas públicas
+inovadoras e terão duração de até cinco anos.
+Julgue os itens que se seguem, relativos a gestão do
+conhecimento.
+63 A implementação de um sistema trouble ticket pode
+melhorar significativamente a eficiência do atendimento ao
+cliente, permitindo que as solicitações sejam rastreadas,
+categorizadas e resolvidas de forma mais organizada.
+64 A utilização de ontologias na Web semântica permite a
+interoperabilidade semântica entre diferentes sistemas,
+garantindo que todos os dados sejam interpretados da mesma
+forma, independentemente do contexto ou do domínio de
+aplicação.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+OS ESPECÍFICOS -Julgue os itens subsequentes, a respeito de técnicas de elicitação
+de requisitos funcionais e não funcionais e de modelagem de
+processos em BPMN.
+65 A notação BPMN permite a modelagem de processos de
+negócios de forma padronizada, facilitando a comunicação
+entre diferentes stakeholders e a análise detalhada dos
+processos.
+66 A técnica de entrevistas é suficiente para elicitar todos os
+requisitos funcionais e não funcionais de um sistema,
+garantindo que todas as necessidades dos stakeholders sejam
+completamente atendidas.
+Em relação à gestão de segurança da informação, julgue os itens
+subsequentes.
+67 Nos controles organizacionais previstos na NBR
+ISO/IEC 27002, o inventário de informações e outros ativos
+associados abrangem as seguintes propriedades de segurança
+da
+informação:
+confidencialidade,
+integridade
+e
+disponibilidade.
+68 Conforme a NBR ISO/IEC 27002, os requisitos legais,
+estatuários, regulamentares e contratuais constituem uma das
+principais fontes de requisitos de segurança da informação.
+A respeito da autenticação e proteção de sistemas, julgue os itens
+que se seguem.
+69 O JSON Web Token consiste em três partes separadas por
+pontos: o cabeçalho, que contém informações sobre o tipo de
+token e o algoritmo de criptografia usado para assinar o
+token; o payload, que contém as informações do usuário; e a
+assinatura, usada para garantir que o token não tenha sido
+alterado.
+70 Na notificação por push, os métodos de autenticação de dois
+fatores (2FA) exigem uma senha para aprovar o acesso a um
+sítio ou aplicativo.
+71 O OpenID Connect é um protocolo de identidade simples,
+construído no protocolo do JSON Web Token, e permite que
+os aplicativos clientes confiem na autenticação executada por
+um provedor OpenID Connect para verificar a identidade de
+um usuário.
+72 A biometria pode ser usada em conjunto com outros métodos
+de autenticação — principalmente senhas e PIN — como
+parte de uma configuração 2FA.
+Em relação a ameaças e vulnerabilidades em aplicações, julgue
+os próximos itens.
+73 XSS (Cross-site scripting) é um método pelo qual um
+invasor explora vulnerabilidades na maneira como um banco
+de dados executa consultas de pesquisa.
+74 O objetivo do ataque de LDAP injection é manipular as
+consultas LDAP, por meio da inserção de um código
+malicioso na consulta, que passa a ser interpretada de forma
+diferente do esperado.
+75 Um ataque de cross‐site request forgery é aquele que induz
+um usuário a usar acidentalmente suas credenciais para
+invocar uma ação indesejada.
+A respeito das características de um ataque de negação de serviço
+distribuído, julgue os próximos itens.
+76 Um firewall de borda é considerado como o elemento capaz
+de fazer a mitigação de ataques DDoS de maneira eficiente,
+já que o tráfego da camada de aplicação tem que ser
+bloqueado na entrada da rede.
+77 Em um ataque que envolve a amplificação de dados, o
+atacante gera uma mensagem para um elemento falho na
+rede e este, por sua vez, gera uma resposta que aumenta o
+volume de dados direcionados à vítima.
+
+
+Julgue o item a seguir, a respeito de estratégia de criptografia
+para dados em trânsito em uma rede de computadores.
+78
+
+Como solução de verificação de integridade, o algoritmo
+MD5 seria uma boa escolha, já que ele é resistente a colisões
+e garante confidencialidade.
+
+Acerca de assinatura e certificação digital, julgue os itens que se
+seguem.
+79
+
+No caso de um certificado digital com o algoritmo RSA, o
+tamanho adequado e seguro da chave é de 512 bits.
+
+80
+
+O algoritmo SHA512 é inseguro porque o ataque de
+repetição (replay attack) permite a colisão dos primeiros
+64 bits de saída.
+
+Conforme o que preconiza a LPGD para o encarregado de dados,
+julgue os itens subsequentes.
+81
+
+Cabe ao encarregado aceitar reclamações e comunicações
+dos titulares de dados.
+
+82
+
+A identidade e as informações de contato do encarregado de
+dados devem ser mantidas em sigilo, podendo ser publicadas
+mediante solicitação do interessado.
+
+Julgue os itens a seguir, em relação ao processo de negociação de
+parâmetros criptográficos e múltiplas conexões conforme o
+protocolo TLS 1.3.
+83
+
+O TLS impede a abertura de múltiplas conexões HTTP
+paralelas.
+
+84
+
+O servidor processa a mensagem ClientHello enviada
+pelo cliente, entretanto, quem determina os parâmetros
+apropriados criptográficos para a conexão é o cliente.
+
+Acerca do ciclo de vida e da organização do projeto, julgue os
+itens seguintes.
+85
+
+As fases de um projeto são sequenciais e iterativas e devem
+ser controladas para que não aconteçam sobreposições.
+
+86
+
+Durante a fase de iniciação do projeto, a equipe deve
+desenvolver o plano de gerenciamento do projeto detalhado,
+incluindo cronograma com datas de cada entrega e
+orçamento, para que sirva de guia para as fases seguintes do
+projeto.
+
+87
+
+Os níveis de custo e de mobilização de recursos são baixos
+no início do projeto e aumentam conforme o trabalho é
+executado.
+
+88
+
+O plano de gerenciamento do escopo é o documento de
+entrada do processo em que se faz o controle do escopo do
+projeto, o qual integra a fase de encerramento do projeto.
+
+89
+
+O ciclo de vida do projeto pode ser influenciado por aspectos
+exclusivos da organização, do setor, do método de
+desenvolvimento ou da tecnologia utilizada.
+
+90
+
+Em uma estrutura genérica do ciclo de vida de um projeto, o
+risco é menor no início do projeto e aumenta gradativamente
+ao longo do tempo de desenvolvimento do projeto.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+A respeito de processos de gerenciamento de projetos, julgue os
+itens subsecutivos.
+91
+
+As folhas de verificação, também são conhecidas como
+folhas de resultados, organizam fatos para a coleta de dados
+úteis ao processo de controlar a qualidade.
+
+92
+
+O registro de lições aprendidas inclui-se entre as ferramentas
+e técnicas do processo de validar o escopo.
+
+93
+
+O processo de planejar o gerenciamento dos recursos
+humanos tem como uma de suas saídas o termo de nomeação
+da equipe.
+
+Em relação a frameworks para desenvolvimento web, julgue os
+itens que se seguem.
+94
+
+A arquitetura do framework Vue.js é baseada em
+componentes, sendo possível o encapsulamento de HTML,
+CSS e JavaScript em um mesmo arquivo.
+
+95
+
+O uso de AngularJS em uma aplicação simplifica as
+atividades de codificação do time de desenvolvedores, sem
+impactar o processo de teste.
+
+96
+
+A tecnologia DHTML é uma evolução do HTML na qual são
+adicionados recursos dinâmicos às páginas web.
+
+97
+
+Conteúdos de páginas web implementadas com DHTML são
+atualizados somente com a recarga da página inteira.
+
+98
+
+AJAX representa técnicas utilizadas para que páginas web
+sejam carregadas rapidamente pelo processamento na parte
+cliente da aplicação.
+
+Acerca de desenvolvimento web e mobile, julgue os itens
+seguintes.
+99
+
+O objetivo do JavaScript é deixar mais dinâmicas as
+aplicações web, de maneira que o usuário possa interagir e
+alterar o conteúdo da página.
+
+100 A utilização de WebSocket está limitada a aplicações web,
+
+pois deve ser implementado em browsers e servidores web.
+101 Em uma aplicação do tipo SPA (single page application), a
+
+estrutura da página fica estática, enquanto o conteúdo
+principal é atualizado de forma assíncrona.
+102 Assim como o HTML, o CSS é uma linguagem de marcação,
+
+que define a estrutura do conteúdo da página web.
+Julgue os próximos itens, relativos a arquitetura de software.
+103 Na arquitetura orientada a serviços (SOA), os serviços
+
+devem possuir acoplamento forte, de modo a se obter maior
+segurança na comunicação entre os serviços, promovendo
+uma maior dependência entre os recursos externos.
+104 O barramento de serviço corporativo (ESB) é um padrão de
+
+arquitetura em que há integrações entre aplicativos de forma
+centralizada, oferecendo suporte ao intercâmbio de dados
+inclusive entre aplicações distintas.
+105 A interoperabilidade de sistemas é a capacidade de acessar
+
+informações
+de
+aplicações
+quando
+necessário,
+independentemente de onde elas estejam armazenadas ou de
+como sejam processadas.
+
+
+<message name=“getTermRequest”>
+<part name=“term” type=“xs:string”/>
+</message>
+<message name=“getTermResponse”>
+<part name=“value” type=“xs:string”/>
+</message>
+<portType name=“glossaryTerms”>
+<operation name=“getTerm”>
+<input message=“getTermRequest”/>
+<output message=“getTermResponse”/>
+</operation>
+</portType>
+<binding type=“glossaryTerms” name=“b1”>
+<soap:binding style=“document”
+transport=“http://schemas.xmlsoap.org/soap/http” />
+<operation>
+<soap:operation
+soapAction=“http://example.com/getTerm”/>
+<input><soap:body use=“literal”/></input>
+<output><soap:body
+use=“literal”/></output>
+</operation>
+</binding>
+
+Com base no código XML precedente, julgue os próximos itens.
+106 No código apresentado, o termo name é um elemento e o
+termo message é uma tag.
+107 No referido código, o termo transport indica que o ESB
+será acessado por meio da URL a seguir.
+http://schemas.xmlsoap.org/soap/http
+
+Julgue os próximos itens conforme o Scrum (nov./2020).
+108 O sprint backlog é composto tanto meta da sprint quanto
+pelo plano de ação para entregar o incremento.
+109 Na sprint planning, fica a critério exclusivo dos developers o
+planejamento necessário para se criar um incremento que
+atenda à definição de pronto, o que pode ser realizado
+decompondo-se os itens do product backlog.
+110 Durante a sprint review, o scrum team e os stakeholders
+revisam o que foi realizado na sprint, sendo possível ajustar
+o product backlog a fim de atender a novas oportunidades.
+111 Desde que o daily scrum se concentre no progresso em
+direção à meta da sprint e produza um plano de ação para o
+próximo dia de trabalho, os developers podem selecionar a
+estrutura e as técnicas que quiserem.
+No que se refere à arquitetura cliente‐servidor, julgue os itens
+subsecutivos.
+112 Na arquitetura cliente-servidor para aplicações móveis, a
+comunicação entre o cliente (aplicativo móvel) e o servidor é
+sempre realizada de forma que todos os dados necessários são
+armazenados localmente no dispositivo móvel, o que elimina a
+necessidade de consultas ao banco de dados do servidor.
+113 Com a criação da arquitetura cliente-servidor em três
+camadas, a arquitetura em duas camadas deixou de ser usada.
+114 Em uma aplicação web baseada na arquitetura cliente-servidor
+de três camadas, a lógica de negócios, que inclui validações,
+processamento de dados e regras de aplicação, fica totalmente
+na camada intermediária, sem qualquer distribuição para as
+camadas de apresentação ou de dados.
+115 Na arquitetura cliente-servidor aplicada à computação em
+nuvem, a escalabilidade horizontal permite que mais
+servidores sejam adicionados, a fim de melhorar a
+capacidade de processamento, a resiliência e o desempenho
+do sistema.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+Em relação ao desenvolvimento de sistemas web, julgue os
+próximos itens.
+116 Nas aplicações SPA (single page application) que utilizam
+AJAX, cada interação do usuário resulta em um
+recarregamento completo da página, o que garante que todas
+as partes da interface sejam atualizadas simultaneamente.
+117 O uso extensivo de pseudoelementos no CSS3 pode
+melhorar a estrutura semântica de um documento HTML.
+118 A utilização do HTML 5 impacta significativamente a
+adaptabilidade responsiva de documentos web, pois os novos
+elementos e recursos introduzidos nessa versão têm relação
+direta com a responsividade das páginas.
+Julgue os itens seguintes, relativos às ferramentas de automação
+de tarefas Microsoft Power Automate e Microsoft Power Virtual
+Agents.
+119 Os chatbots podem ser utilizados para melhorar o
+atendimento ao público por meio da automatização de
+respostas para perguntas frequentes, sendo o Power Virtual
+Agents um tipo de ferramenta que pode ser usada na
+implementação desse tipo de solução.
+120 Com uso do Microsoft Power Automate, uma repartição
+pública pode, por exemplo, automatizar a coleta de dados
+financeiros de diversas fontes, o que lhe possibilita melhorar
+a eficiência e a precisão das auditorias realizadas.
+Espaço livre
+
+

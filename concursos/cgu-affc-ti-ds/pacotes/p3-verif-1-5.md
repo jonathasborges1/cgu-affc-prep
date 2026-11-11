@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-5 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-5 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -26,102 +26,32 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 
 ## ITENS
 ### v1-5-01 | gab=C
-A arquitetura de aplicações para ambiente web denominada web-queue-worker constitui-se, entre outros componentes, de um frontend web para interação com clientes, uma fila de mensagens para comunicação e um trabalhador para processar tarefas complexas ou demoradas. JUSTIFICATIVA - Certo. Os principais componentes da arquitetura web-queue-worker são: um frontend da Web que atende às solicitações do cliente e um trabalhador que executa tarefas que consomem muitos recursos, fluxo
+No RabbitMQ, a forma padrão de se distribuir mensagens é round-robin, de modo que cada consumidor terá, em média, o mesmo número de mensagens. 110 git branch -D test A execução do comando precedente excluirá a branch test caso todos os commits tenham sido realizados; porém, se a master estiver em estado de check-out, a exclusão será cancelada.
 ### v1-5-02 | gab=E
-A proteção contra ataques de SQL injection é suficiente para impedir a exploração de vulnerabilidades XSS e CSRF em aplicações web.
-### v1-5-03 | gab=E
-View é uma visualização customizada de uma ou mais tabelas, com seus dados armazenados fisicamente e montada a partir da execução de uma consulta.
-### v1-5-04 | gab=C
-Na arquitetura cliente-servidor aplicada à computação em nuvem, a escalabilidade horizontal permite que mais servidores sejam adicionados, a fim de melhorar a capacidade de processamento, a resiliência e o desempenho do sistema.
+O BPMN permite a indicação de eventos de início, intermediários, finalísticos e futuros, além da indicação dos fluxos de atividades e mensagens de comunicação intranegócio.
+### v1-5-03 | gab=C
+A otimização de bases de dados para BI visa garantir que as consultas analíticas sejam executadas de maneira eficiente e rápida, a exemplo da indexação, que poderia ser a criação de índices nas tabelas de fatos e dimensões para acelerar a recuperação de dados; índices comuns incluem índices de colunas, índices compostos e índices bitmap.
+### v1-5-04 | gab=E
+A redução do uso de medicamentos de controle só deve ser realizada em caso de controle completo dos sintomas por mais de 12 meses. Lactente de nove meses de idade foi atendido no pronto-socorro de pediatria com quadro de febre alta, persistente havia 3 dias, tosse seca e intensa, coriza hialina e fotofobia. No exame físico, a criança estava prostrada e apresentava enantema e pequenas lesões branco-azuladas em mucosa jugal, conforme oroscopia, além de hiperemia conjuntival e l
 ### v1-5-05 | gab=E
-Situação hipotética: Em determinada organização, há necessidade de instalação de ferramenta que permita realizar gerência de eventos de modo a permitir a análise de comportamento do usuário e insights de fluxo de rede, tais como eventos em tempo real provenientes de logs, por exemplo, de dispositivos de segurança e da infraestrutura de rede. Assertiva: Para atender esses requisitos, é suficiente instalar um IPS (Intrusion Prevention System).
-### v1-5-06 | gab=E
-A economia verde consiste em um modelo de produção e consumo que envolve a reutilização, reciclagem, reparação, renovação e partilha de produtos e materiais, com o objetivo de prolongar o ciclo de vida dos produtos e serviços.
+Na análise dinâmica, é possível revisar todo o código-fonte sem a necessidade de execução do software.
+### v1-5-06 | gab=C
+A técnica de revisão e programação por pares é útil para melhorar a qualidade do código e aumentar a compreensão do projeto, mas requer habilidades de comunicação e colaboração entre os membros da equipe.
 ### v1-5-07 | gab=E
-O formato JSON (JavaScript Object Notation) é uma especialização do XML e pode ser utilizado para representar dados.
-### v1-5-08 | gab=C
-No modelo de dados orientados a objetos, a estratégia de ocultar a implementação interna de uma classe para permitir acesso aos dados dessa classe por meio de interfaces públicas é denominada encapsulamento.
-### v1-5-09 | gab=E
-No DevOps, o pipeline de entrega contínua gerencia o processo de desenvolvimento do software, prescindindo-se dos testes, uma vez que a gestão do código-fonte é iterativa com vistas a otimizar a entrega rápida de software de alta qualidade, unindo as equipes de desenvolvimento e de operações.
-### v1-5-10 | gab=C [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-A execução de integrações entre aplicações, usando-se um formato canônico de mensagem, geralmente XML, e protocolos de rede padrão, como SOAP/HTTP ou JSON/HTTP, pode ser realizada por um ESB.
-### v1-5-11 | gab=E [texto-base: 648003_01N260343 -- CONHECIMENTO No que se refere o plano de organização, métodos e medidas adotados pelas entidades para proteger seus ativos, garantir retorno]
-No controle interno das entidades, adotam-se procedimentos sistemáticos (ferramentas de compliance) para coibir atos negligentes dos agentes que oportunizem erros, fraudes e roubos.
-### v1-5-12 | gab=C [texto-base: De acordo com a legislação societária, os princípios de contabilidade e os pronunciamentos do Comitê de Pronunciamentos Contábeis (CPC), julgue os itens seguint]
-Uma empresa vendeu determinado ativo nos mercados ativos de Salvador e Recife, mas nenhum desses mercados é o principal. Na data da mensuração desse ativo, os valores relacionados às transações de venda eram os seguintes.
+A seguir, é apresentado um bom exemplo de código, de acordo com clean code. int a = l; if ( O == l ) a = O1; else l = 01; ) tecnologia da informação, a menos que seja explicitamente onados estão em configuração padrão e que não há restrições de quivos, diretórios, recursos e equipamentos mencionados. ESPECIALIZADOS -- Considere que um sistema deva ser desenvolvido com os seguintes requisitos: I arquitetura distribuída; II componentes de sistema como serviços autônomos; III pl
+### v1-5-08 | gab=E
+Em que pese não haver no domínio entregar e suportar processo diretamente relacionado a garantir a segurança dos sistemas, o COBIT trata, por meio da área de foco gestão de risco, a gestão de impacto sobre os negócios de vulnerabilidades e incidentes de segurança.
+### v1-5-09 | gab=E [texto-base: Considerando as informações apresentadas na figura precedente (captura de tela de uma sessão do SQL*Plus), relativas a comandos SQL, julgue os itens que se segu]
+Ao se fechar a sessão do SQL*Plus na qual foi capturada a tela em apreço, a variável definida na linha 2 persistirá no banco de dados.
+### v1-5-10 | gab=C
+Geralmente, SOA lida com requisitos de baixo acoplamento e desenvolvimento baseado em padrões, além de considerar computação distribuída independente de protocolo e integração de aplicações.
+### v1-5-11 | gab=C [texto-base: -- CONHECIMENTO Julgue os itens a seguir, referentes a conceitos, processos e aplicações da engenharia de software. Em levantamento de requisitos baseado em cen]
+Julgue os itens seguintes, com base nos conceitos de linguagem de programação Ruby e Java. Ao se utilizar a estrutura try-catch-finally para tratar certos tipos de erros em um programa Java, as instruções do bloco finally são úteis para realizar operações, independentemente do resultado do bloco try.
+### v1-5-12 | gab=E
+Considere-se que certo usuário do Microsoft Office 365 queira configurar, em um documento de texto desenvolvido no Word, duas colunas no topo e uma coluna na parte inferior da mesma página do documento, como apresentado na figura a seguir. Nesse caso, será necessário separar a página por meio do comando Quebra de Seção (Página Ímpar) ou Quebra de Seção (Página Par) e, logo após, inserir o número de colunas que se deseja em cada parte da página.
 ### v1-5-13 | gab=C
-O TDD (test driven development) parte de um caso de teste que caracteriza uma melhoria desejada ou nova funcionalidade a ser desenvolvida, de modo a confirmar o comportamento correto e possibilitar a evolução ou refatoração do código.
-### v1-5-14 | gab=E
-As classes Carro e Bicicleta fazem parte de uma estrutura de herança hierárquica, na qual os métodos e funcionalidades das subclasses são automaticamente sobrepostos e eliminados pelos da classe-pai Veiculo.
-### v1-5-15 | gab=C
-O W-CDMA, empregado no UMTS, utiliza técnicas de espalhamento espectral com portadoras de 5 MHz de largura de banda. Com o objetivo de atingir maiores taxas de transmissão de dados e melhorar a experiência em banda larga dos usuários, foi proposta a solução HSPA, que introduziu, durante a fase de evolução do UMTS, o emprego de modulação de ordem superior, a agregação de portadoras e de sistemas MIMO, que utilizam múltiplas antenas na transmissão e na recepção dos dados. Entre
-### v1-5-16 | gab=C [texto-base: A respeito de IaC (infrastructure as code), integração contínua, automação e provisionamento de infraestrutura com Terraform, julgue os itens subsecutivos.]
-Integração contínua é uma prática DevOps em que desenvolvedores compartilham o trabalho regularmente e automatizam a construção, o teste e a validação com a prática de fazer commits.
-### v1-5-17 | gab=E
-Um sistema de comunicação de dados é composto por três elementos, sendo eles o emissor, o receptor e a mensagem.
-### v1-5-18 | gab=C [texto-base: Com base nessa situação hipotética, e supondo que a população siga uma distribuição normal, julgue os seguintes itens, sabendo que ܲሺܶ > 1,7ሻ = 0,05, em que ܶ s]
-Se o nível de significância do teste for igual a 5%, então não haverá evidências estatísticas contra a hipótese nula, mesmo que a média amostral seja superior a 37. 96 38±1,7 representa uma estimativa intervalar de 90% de confiança para a média populacional.
-### v1-5-19 | gab=C
-Em desenvolvimento de software, o MVP (minimum viable product) representa uma solução de software rápida e funcional e tem como objetivo validar a viabilidade de um projeto.
-### v1-5-20 | gab=C
-Uma das formas de medir o grau de eficiência com que a equipe do projeto está realizando o trabalho é avaliar o índice de desempenho de prazos, que consiste em uma medida de eficiência do cronograma expressa como a razão entre valor agregado e valor planejado.
-### v1-5-21 | gab=C
-Uma vantagem no uso de CSS é que, com ele, é possível fazer alteração no design sem afetar o código HTML.
-### v1-5-22 | gab=E
-No banco de dados relacional, uma view é uma estrutura disponibilizada pelo SGBD para armazenar tabelas e permitir acesso conforme as regras implementadas para o seu acesso.
-### v1-5-23 | gab=E [texto-base: Julgue os seguintes itens, de acordo com o Regimento Geral do CAU/BR e o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.]
-No desempenho de seu papel institucional, o CAU/BR tem competência exclusiva para exercer ações orientadoras e regulamentadoras, e aos CAU de cada estado cabe o exercício das atividades fiscalizadoras, disciplinadoras e judicantes. Uma empresa contratada para a execução de um auditório constatou que parte da mobília prevista no objeto de licitação é de fornecimento exclusivo, sendo sua produção realizada unicamente por meio de encomenda, com prazo de produção e entrega estima
-### v1-5-24 | gab=C
-Para a mensuração de esforço de desenvolvimento em contratação de TIC no governo, é vedada a adoção de métrica homem-hora ou equivalente, salvo mediante justificativa e vinculação à entrega de produtos de acordo com os prazos e qualidade previamente definidos.
-### v1-5-25 | gab=E
-Web services permitem disponibilizar serviços de forma agnóstica quando a UDDI (universal description, discovery and integration) estabelece um formato padrão de mensagem que consiste em um documento XML capaz de hospedar dados RPC centrados em documentos, para que haja intercâmbio de dados de modelos síncronos (pedido e resposta) e assíncronos (orientados a processo).
-### v1-5-26 | gab=C
-Na linguagem Java, os tipos int, char e long são exemplos de dados elementares, e os tipos matrizes e vetores são dados estruturados da linguagem.
-### v1-5-27 | gab=E
-A partir da topologia física de uma rede, constata-se como as informações devem fluir entre as estações, observando-se se há necessidade da utilização de protocolos de comunicação. O controle de acesso lógico, que está diretamente relacionado a métodos de autenticação e autorização de usuários, é um elemento importante da segurança de aplicações de dados de uma corporação.
-### v1-5-28 | gab=C
-Uma função de resumo criptográfico, também denominada função hash, é utilizada em conjunto com a criptografia assimétrica para garantir a integridade de um documento digital.
-### v1-5-29 | gab=E
-Considere os arquivos dados.xml e regras.xsl que são apresentados a seguir. arquivo dados.xml arquivo regras.xsl xmlns:xsl=“http://www.w3.org/1999/XSL/Transform ”> Se as regras do arquivo regras.xsl forem aplicadas ao arquivo dados.xml, o trecho de código seguinte será exibido no terminal.
-### v1-5-30 | gab=E
-Especialmente devido à expressão na linha 11, o comando a seguir, após executado, retornará três registros. SELECT a.idsoft, a.versao, a.descricao FROM 'vsoftware' a INNER JOIN ( SELECT idsoft, MAX(versao) versao FROM 'vsoftware' GROUP BY idsoft) b ON a.idsoft = b.idsoft AND a.versao = b.versao;
-### v1-5-31 | gab=C
-No sistema de contas nacionais, a conta de uso da renda descreve como os setores institucionais aplicam a renda disponível em consumo e poupança.
-### v1-5-32 | gab=E [texto-base: Considerando o modelo de contratação de serviços de operação de infraestrutura e atendimento a usuários estabelecido pela Portaria SGD/MGI n.º 1.070/2023, julgu]
-Recomenda-se dar por irrelevante o valor máximo da contratação por ser suficiente utilizar como base o valor médio de pesquisas salariais de preços. No que concerne à Portaria SGD/MGI n.º 370/2023, julgue os seguintes itens, acerca de serviços de outsourcing de impressão.
-### v1-5-33 | gab=E
-O Kanban busca impactos positivos em grande escala, com foco na melhoria contínua e na busca por grandes mudanças consideradas ousadas em grandes projetos.
-### v1-5-34 | gab=C
-Uma entrada na tabela de processos de um sistema operacional contém informações sobre o estado do processo, seu contador de programa, o ponteiro da pilha, a alocação da memória, entre outras informações de controle úteis ao gerenciamento de concorrência dos processos.
-### v1-5-35 | gab=C
-As interfaces do Java permitem que objetos de classes não relacionadas sejam processados de forma polimórfica.
-### v1-5-36 | gab=C
-O processo de análise estática envolve a identificação de problemas na sintaxe do código-fonte.
-### v1-5-37 | gab=E
-O objetivo da prática de gerenciamento de disponibilidade é garantir que os serviços entreguem os níveis acordados, sendo utilizada a métrica tempo médio entre falhas (MTBF) para mensurar a rapidez com que o serviço é restaurado após uma falha.
-### v1-5-38 | gab=E
-No caso em tela, é fundamental que o psicólogo adote a técnica terapêutica da entrevista motivacional, assumindo uma postura diretiva, impondo à paciente as mudanças necessárias para a efetividade do tratamento. JUSTIFICATIVA - Errado. Na entrevista motivacional, o psicólogo adota uma postura não diretiva e colaborativa, buscando explorar e fortalecer a motivação interna do paciente para a mudança. O objetivo é ajudar o paciente a identificar e articular seus próprios motivos
-### v1-5-39 | gab=C
-Na análise sintática automatizada de qualidade de código empreendida pelo grupo revisor de código-fonte das soluções da PDPJ-Br, o código-fonte que não alcançar os critérios mínimos deve ser sumariamente rejeitado, devendo a equipe que o implementou proceder às correções indicadas antes de submetê-lo novamente à análise.
-### v1-5-40 | gab=C
-CSRF é um tipo de ataque em que um usuário legítimo pode ser personificado em uma aplicação maliciosa controlada por um atacante que executa ações em outra aplicação como se fosse o usuário legítimo.
-### v1-5-41 | gab=C
-Requisito funcional especifica o que o software deve fazer, enquanto requisito não funcional especifica como o sistema deve se comportar.
-### v1-5-42 | gab=C
-Na arquitetura cliente-servidor multicamadas, os controles do sistema operacional e do hardware estão contidos na camada de serviços do sistema, que é a camada intermediária do modelo.
-### v1-5-43 | gab=C
-SOA (service oriented architecture) é uma arquitetura empregada para reutilizar serviços em sistemas diferentes ou combinar vários serviços independentes para realizar tarefas complexas.
-### v1-5-44 | gab=C
-Em um modelo SOA, os desenvolvedores criam novas aplicações organizando uma coleção de serviços, em vez de construir um programa de software inteiro, o que elimina redundâncias de código em múltiplas aplicações, como, por exemplo, no pedido de um empréstimo bancário simples, que compreende um conjunto de serviços. Tendo em vista que o Modelo de Acessibilidade em Governo Eletrônico (e-Mag) tem a função de nortear o desenvolvimento e a adaptação de conteúdos digitais do governo
-### v1-5-45 | gab=E
-O comando Git a seguir, ao ser executado, copiará todo o conteúdo do repositório local para o repositório remoto git, e, por padrão, fará a mesclagem com a branch master. git clone --bare -l /home/projetox/ .git/pub/projetox CD (continuous delivery) e CI (continuous integration) são práticas afetas ao DevOps: a primeira realiza a implantação automática no repositório da solução após o build; e a segunda realiza implantação automática no ambiente de produção a cada release.
-### v1-5-46 | gab=E [texto-base: Acerca de criptografia simétrica e de certificados digitais, julgue os seguintes itens. Algoritmos de hash, em conjunto com certificados digitais, são empregado]
-Como parte integral do funcionamento do sistema operacional, um processo pode ser criado e terminado, mas não pode ser agendado porque, em caso de agendamento, é necessário que a parte do usuário (user space) seja invocada.
-### v1-5-47 | gab=C
-XSS (Cross-site scripting) é um tipo de ataque por meio do qual o atacante explora erros nos códigos de entrada de dados, e a prevenção de ataques XSS requer sanitização das entradas de dados, de maneira a impedir a injeção de códigos maliciosos.
-### v1-5-48 | gab=E
-Organicidade consiste na característica de os documentos de arquivo serem únicos, produzidos em um único exemplar. JUSTIFICATIVA - Errado. No contexto de arquivos e arquivologia, organicidade corresponde à característica de os documentos de arquivo estarem inter-relacionados e fazerem parte de um todo maior, resultante das atividades e funções da entidade (pessoa, instituição ou organização) que os produziu ou acumulou. Essa relação é natural e surge de forma orgânica, ou sej
-### v1-5-49 | gab=E
-Os domínios de desempenho de projetos — partes interessadas, equipe, abordagem de desenvolvimento e ciclo de vida, planejamento, trabalho do projeto, entrega, medição e incerteza — são independentes entre si, podendo ser tratados de forma isolada durante a execução do projeto.
-### v1-5-50 | gab=E [texto-base: -- CONHECIMENTO Julgue os seguintes itens, acerca da evolução da administração pública, do empreendedorismo governamental e da excelência nos serviços públicos.]
-A visão administrativa contingencial está voltada, essencialmente, para desenhos organizacionais e sistemas gerenciais adequados às situações genéricas, centrando-se no ambiente externo às organizações.
+A arquitetura cloud native concentra-se em projetar e desenvolver aplicativos para serem executados em ambientes de nuvem e caracteriza-se pela adoção de práticas como microsserviços, contêineres e automação.
+### v1-5-14 | gab=C
+No Open Finance, a implementação mais simples do OpenID Connect permite que clients de todos os tipos, incluindo aqueles baseados em navegador, celulares e clients Javascript, solicitem e recebam informações sobre identidades e sessões atualmente autenticadas.
+### v1-5-15 | gab=E
+Em se tratando de IaaS, enquanto o consumidor usa serviço para operações de processos de negócios, cabe ao provedor instalar e gerenciar o aplicativo de software em uma infraestrutura em nuvem.

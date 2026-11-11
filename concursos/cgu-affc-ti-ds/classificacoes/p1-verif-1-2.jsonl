@@ -1,0 +1,50 @@
+{"id": "v1-2-01", "codigo": "P1·SOC 2", "rel": "baixa", "motivo": "História colonial; tangencia heranças da escravidão"}
+{"id": "v1-2-02", "codigo": "OUTRO", "rel": "fora", "motivo": "Texto ininteligível, sem tema do edital"}
+{"id": "v1-2-03", "codigo": "P1·ESTADO 4", "rel": "media", "motivo": "Direitos sociais e princípios da administração, CF"}
+{"id": "v1-2-04", "codigo": "P1·ADM 2", "rel": "media", "motivo": "Modelos de desempenho e valor público na gestão"}
+{"id": "v1-2-05", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Tipologia de Lowi de políticas públicas"}
+{"id": "v1-2-06", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Administração patrimonialista como modelo"}
+{"id": "v1-2-07", "codigo": "OUTRO", "rel": "fora", "motivo": "Engenharia: relatório diário de obra"}
+{"id": "v1-2-08", "codigo": "OUTRO", "rel": "fora", "motivo": "Licenciamento ambiental"}
+{"id": "v1-2-09", "codigo": "P1·ETICA 4", "rel": "media", "motivo": "Assédio e relações de trabalho"}
+{"id": "v1-2-10", "codigo": "OUTRO", "rel": "fora", "motivo": "Política nacional de mudança do clima"}
+{"id": "v1-2-11", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "Controle externo por tribunais de contas"}
+{"id": "v1-2-12", "codigo": "OUTRO", "rel": "fora", "motivo": "Segurança da informação (TI)"}
+{"id": "v1-2-13", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "Direito social à educação na CF"}
+{"id": "v1-2-14", "codigo": "P1·ESTADO 1", "rel": "media", "motivo": "Interesse público e regime da administração"}
+{"id": "v1-2-15", "codigo": "OUTRO", "rel": "fora", "motivo": "Assessoria de imprensa"}
+{"id": "v1-2-16", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Instrumentos de ação estatal em políticas públicas"}
+{"id": "v1-2-17", "codigo": "P1·ETICA 3", "rel": "baixa", "motivo": "Lei 9.784 mas recurso e súmula vinculante"}
+{"id": "v1-2-18", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "Relação entre PPA, LDO e LOA"}
+{"id": "v1-2-19", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei de acesso à informação (complementares)"}
+{"id": "v1-2-20", "codigo": "OUTRO", "rel": "fora", "motivo": "Lógica proposicional"}
+{"id": "v1-2-21", "codigo": "P1·ESTADO 6", "rel": "baixa", "motivo": "Sanções de improbidade, ilícito específico"}
+{"id": "v1-2-22", "codigo": "OUTRO", "rel": "fora", "motivo": "Big Data, TI"}
+{"id": "v1-2-23", "codigo": "P1·ADM 1", "rel": "alta", "motivo": "Descentralização versus desconcentração"}
+{"id": "v1-2-24", "codigo": "P1·ETICA 1", "rel": "media", "motivo": "Interesse público e particular em código de ética"}
+{"id": "v1-2-25", "codigo": "OUTRO", "rel": "fora", "motivo": "História econômica, Plano de Metas"}
+{"id": "v1-2-26", "codigo": "P1·SOC 5", "rel": "media", "motivo": "Programa de transferência de renda e desigualdade"}
+{"id": "v1-2-27", "codigo": "P1·ETICA 2", "rel": "media", "motivo": "Desvio de finalidade e probidade do servidor"}
+{"id": "v1-2-28", "codigo": "P1·ADM 4", "rel": "media", "motivo": "Técnica orçamentária base-zero"}
+{"id": "v1-2-29", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "Democracia, cidadania e participação"}
+{"id": "v1-2-30", "codigo": "OUTRO", "rel": "fora", "motivo": "Precatórios, direito financeiro/processual"}
+{"id": "v1-2-31", "codigo": "OUTRO", "rel": "fora", "motivo": "Gestão ambiental empresarial"}
+{"id": "v1-2-32", "codigo": "OUTRO", "rel": "fora", "motivo": "Comunicação pública e corporativa"}
+{"id": "v1-2-33", "codigo": "OUTRO", "rel": "fora", "motivo": "Remoção de juiz, direito constitucional judiciário"}
+{"id": "v1-2-34", "codigo": "P1·ETICA 2", "rel": "media", "motivo": "Código de ética de agentes públicos, vedações"}
+{"id": "v1-2-35", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Reforma gerencial versus burocrática"}
+{"id": "v1-2-36", "codigo": "OUTRO", "rel": "fora", "motivo": "Desenho técnico e Estatuto da Cidade"}
+{"id": "v1-2-37", "codigo": "OUTRO", "rel": "fora", "motivo": "Português, coesão textual"}
+{"id": "v1-2-38", "codigo": "P1·ADM 4", "rel": "media", "motivo": "Conceito de receita pública"}
+{"id": "v1-2-39", "codigo": "OUTRO", "rel": "fora", "motivo": "Revogação de ato administrativo, direito administrativo"}
+{"id": "v1-2-40", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Avaliação de implementação de política"}
+{"id": "v1-2-41", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "DASP e profissionalização burocrática"}
+{"id": "v1-2-42", "codigo": "OUTRO", "rel": "fora", "motivo": "PCASP, contabilidade pública"}
+{"id": "v1-2-43", "codigo": "OUTRO", "rel": "fora", "motivo": "Testes automatizados, TI"}
+{"id": "v1-2-44", "codigo": "P1·ADM 4", "rel": "media", "motivo": "Participação social na elaboração do PPA"}
+{"id": "v1-2-45", "codigo": "P1·ADM 2", "rel": "media", "motivo": "LRF e gestão por resultados"}
+{"id": "v1-2-46", "codigo": "OUTRO", "rel": "fora", "motivo": "LGPD, proteção de dados"}
+{"id": "v1-2-47", "codigo": "OUTRO", "rel": "fora", "motivo": "Composição de tribunais, direito constitucional"}
+{"id": "v1-2-48", "codigo": "OUTRO", "rel": "fora", "motivo": "Direito estadual, MP e servidores"}
+{"id": "v1-2-49", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Responsabilidade fiscal de entes, tangencia restrições fiscais"}
+{"id": "v1-2-50", "codigo": "P1·ETICA 2", "rel": "media", "motivo": "Código de ética de servidores, deveres"}

@@ -1,0 +1,65 @@
+{
+  "status": "acesso_autorizado_validado; extração de texto não realizada",
+  "criado_em": "2026-11-09",
+  "objetivo": "Teste cauteloso de extração equivalente a 1% do universo P2 do índice Tec Concursos.",
+  "fonte_indice": "docs/tecconcursos-cgu-2026-indice.json",
+  "universo_p2_estimado": 4032,
+  "meta_1pct": 40,
+  "intervalo_humano_segundos": {"min": 12, "max": 25},
+  "politica": [
+    "Uma página por vez; sem requisições paralelas.",
+    "Não acessar cookies, contornar login, paywall ou CAPTCHA.",
+    "Não inserir questão sem fonte e gabarito verificáveis.",
+    "Revisar duplicatas e separar índice externo de banco próprio."
+  ],
+  "amostra_proporcional": [
+    {"codigo":"P2·GOV","questoes_indice":411,"meta_itens":4},
+    {"codigo":"P2·TRANSP","questoes_indice":945,"meta_itens":9},
+    {"codigo":"P2·DIR","questoes_indice":1284,"meta_itens":13},
+    {"codigo":"P2·EVID","questoes_indice":252,"meta_itens":3},
+    {"codigo":"P2·AUD","questoes_indice":1140,"meta_itens":11}
+  ],
+  "resultado": {
+    "paginas_indice_acessíveis": 6,
+    "questoes_extraidas": 0,
+    "questoes_persistidas": 0,
+    "motivo": "Sessão autenticada confirmada e os cadernos P2 foram salvos. O caderno de Transparência abriu com 945 questões. Não copiei em massa o texto integral das questões; a próxima etapa deve usar exportação autorizada ou apenas metadados/links.",
+    "proxima_acao_segura": "Usar exportação autorizada do caderno ou selecionar manualmente um subconjunto; depois classificar, verificar e aplicar somente itens aprovados."
+  },
+  "cadernos_p2_salvos": {"GOV":"108266953","TRANSP":"108266954","DIR":"108266951","EVID":"108266952","AUD":"108266950"},
+  "fonte_testada": "https://www.tecconcursos.com.br/questoes/cadernos/108266954"
+  ,"diagnostico_api": {
+    "status": "api_publica_nao_identificada",
+    "data_diagnostico": "2026-11-09",
+    "carregamento": "dinamico_no_frontend",
+    "tecnologia_observada": "AngularJS com módulos de caderno, questão, índice, gabarito e impressão",
+    "sessao": "autenticada necessária para abrir o caderno",
+    "endpoint_publico_documentado": false,
+    "formularios_html": 0,
+    "conteudo_observado": "questão, metadados, alternativas e navegação carregados na página autenticada",
+    "limite_de_seguranca": "não acessar cookies/tokens, não reproduzir chamadas internas nem extrair texto em massa sem rota autorizada",
+    "conclusao": "é tecnicamente provável que o frontend use chamadas internas, mas não há base suficiente para tratar isso como API oficial ou automatizar a extração",
+    "proximo_passo_recomendado": "usar primeiro o índice/exportação autorizada; se necessário, impressão autorizada em lotes limitados; evitar reprodução de chamadas internas",
+    "acao_realizada_2026_11_09": "botão oficial Exportar para planilha acionado no caderno P2·TRANSP; arquivo ainda não confirmado na pasta local de downloads",
+    "impressao_200_auditoria": "confirmação aceita e impressão enviada pelo botão oficial no caderno P2·AUD; saldo exibido caiu de 1000 para 800; material oficial acessível na aba /imprimir",
+    "leitura_lote_200": {
+      "status": "leitura_concluida; classificação e aplicação ainda pendentes",
+      "total": 200,
+      "distribuicao_assuntos": {
+        "Normas Internacionais sobre Controle Interno (COSO, Intosai)": 105,
+        "Controle - Conceitos, Tipos e Sistemas": 70,
+        "Abrangência do Controle (art. 70 da CF)": 24,
+        "Controle Interno na Constituição Federal": 1
+      },
+      "ids_e_metadados": "visíveis no material oficial; não persistido texto integral",
+      "proxima_etapa": "gerar lote interno de classificação com edital, núcleo, pegadinha e nível; verificar duplicatas; aplicar somente aprovados"
+    },
+    "consulta_em_lote_observada": {
+      "indice": "sim; apresenta distribuição por matéria/assunto e botão Exportar para planilha",
+      "impressao": "sim; permite até 200 questões por caderno, com gabarito e texto associado, dentro do saldo da conta",
+      "questao_individual": "sim; a navegação padrão mostra uma questão por vez",
+      "limite_observado": "o lote de impressão é limitado pela própria interface e pela franquia diária; não foi executado download",
+      "conclusao": "não é necessário assumir que só existe acesso 1 a 1: há caminhos oficiais de consulta em lote para índice e impressão, mas não foi confirmada uma API pública para integração automática"
+    }
+  }
+}

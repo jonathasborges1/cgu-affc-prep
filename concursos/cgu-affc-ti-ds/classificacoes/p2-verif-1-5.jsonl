@@ -1,0 +1,50 @@
+{"id":"v1-5-01","codigo":"OUTRO","rel":"fora","motivo":"logística"}
+{"id":"v1-5-02","codigo":"OUTRO","rel":"fora","motivo":"administração (P1)"}
+{"id":"v1-5-03","codigo":"P2·GOV 1","rel":"baixa","motivo":"alta direção e governança de SGSI"}
+{"id":"v1-5-04","codigo":"OUTRO","rel":"fora","motivo":"compras"}
+{"id":"v1-5-05","codigo":"P2·DIR 4","rel":"media","motivo":"tomada de contas especial"}
+{"id":"v1-5-06","codigo":"P2·AUD 3","rel":"media","motivo":"relatório de auditor em controle interno"}
+{"id":"v1-5-07","codigo":"OUTRO","rel":"fora","motivo":"acessibilidade (P1)"}
+{"id":"v1-5-08","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-5-09","codigo":"P2·DIR 3","rel":"baixa","motivo":"recurso no tribunal de contas"}
+{"id":"v1-5-10","codigo":"OUTRO","rel":"fora","motivo":"organizações sociais"}
+{"id":"v1-5-11","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-5-12","codigo":"OUTRO","rel":"fora","motivo":"árvore de decisão"}
+{"id":"v1-5-13","codigo":"OUTRO","rel":"fora","motivo":"inclusão digital (P1)"}
+{"id":"v1-5-14","codigo":"OUTRO","rel":"fora","motivo":"big data"}
+{"id":"v1-5-15","codigo":"P2·GOV 2","rel":"baixa","motivo":"plano de ação de riscos"}
+{"id":"v1-5-16","codigo":"OUTRO","rel":"fora","motivo":"publicidade"}
+{"id":"v1-5-17","codigo":"OUTRO","rel":"fora","motivo":"psicologia"}
+{"id":"v1-5-18","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-5-19","codigo":"OUTRO","rel":"fora","motivo":"defensoria"}
+{"id":"v1-5-20","codigo":"P2·GOV 2","rel":"alta","motivo":"ambiente de controle"}
+{"id":"v1-5-21","codigo":"P2·DIR 3","rel":"media","motivo":"tipos de controle administrativo"}
+{"id":"v1-5-22","codigo":"P2·TRANSP 4","rel":"alta","motivo":"portal da transparência e controle social"}
+{"id":"v1-5-23","codigo":"OUTRO","rel":"fora","motivo":"avaliação de políticas (P1)"}
+{"id":"v1-5-24","codigo":"P2·EVID 5","rel":"alta","motivo":"viés algorítmico"}
+{"id":"v1-5-25","codigo":"OUTRO","rel":"fora","motivo":"phishing"}
+{"id":"v1-5-26","codigo":"OUTRO","rel":"fora","motivo":"nuvem"}
+{"id":"v1-5-27","codigo":"P2·DIR 1","rel":"baixa","motivo":"elementos do ato administrativo"}
+{"id":"v1-5-28","codigo":"P2·AUD 3","rel":"alta","motivo":"qualidade da evidência"}
+{"id":"v1-5-29","codigo":"P2·DIR 3","rel":"baixa","motivo":"contas iliquidáveis no tribunal"}
+{"id":"v1-5-30","codigo":"OUTRO","rel":"fora","motivo":"geografia"}
+{"id":"v1-5-31","codigo":"OUTRO","rel":"fora","motivo":"RH"}
+{"id":"v1-5-32","codigo":"OUTRO","rel":"fora","motivo":"economia regional (P1)"}
+{"id":"v1-5-33","codigo":"OUTRO","rel":"fora","motivo":"saúde do trabalhador"}
+{"id":"v1-5-34","codigo":"OUTRO","rel":"fora","motivo":"funções do Estado (P1)"}
+{"id":"v1-5-35","codigo":"OUTRO","rel":"fora","motivo":"contratos"}
+{"id":"v1-5-36","codigo":"OUTRO","rel":"fora","motivo":"PDCA"}
+{"id":"v1-5-37","codigo":"OUTRO","rel":"fora","motivo":"Linux"}
+{"id":"v1-5-38","codigo":"OUTRO","rel":"fora","motivo":"segurança do trabalho"}
+{"id":"v1-5-39","codigo":"P2·TRANSP 2","rel":"media","motivo":"direito de acesso a dados do titular"}
+{"id":"v1-5-40","codigo":"P2·TRANSP 4","rel":"media","motivo":"denúncia e controle social"}
+{"id":"v1-5-41","codigo":"P2·AUD 2","rel":"baixa","motivo":"auditoria em aquisições"}
+{"id":"v1-5-42","codigo":"P2·DIR 1","rel":"media","motivo":"revisão de atos administrativos"}
+{"id":"v1-5-43","codigo":"P2·TRANSP 2","rel":"media","motivo":"autodeterminação informativa"}
+{"id":"v1-5-44","codigo":"OUTRO","rel":"fora","motivo":"gestão pública (P1)"}
+{"id":"v1-5-45","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-5-46","codigo":"OUTRO","rel":"fora","motivo":"nuvem e ML"}
+{"id":"v1-5-47","codigo":"OUTRO","rel":"fora","motivo":"DLP"}
+{"id":"v1-5-48","codigo":"OUTRO","rel":"fora","motivo":"clima"}
+{"id":"v1-5-49","codigo":"P2·AUD 3","rel":"baixa","motivo":"indagação oral como procedimento"}
+{"id":"v1-5-50","codigo":"OUTRO","rel":"fora","motivo":"tributário"}

@@ -1,0 +1,575 @@
+CEBRASPE – CPNUJE – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -No que concerne a Java, Zuul e Spring Cloud, julgue os itens a
+seguir.
+51 No código a seguir, desenvolvido em Java, a substituição dos
+caracteres #XPTO por @extends fará que a execução do
+código apresente BMW x3 como resultado.
+public class Veiculo {
+protected String nome;
+public Veiculo(String nome) {
+this.nome = “BMW”;
+}
+public void Modelo() {
+}
+public static void main(String[] args) {
+Veiculo Veiculo = new Veiculo(““);
+Veiculo.Modelo();
+Veiculo bmw = new Veiculo(““) {
+#XPTO
+public void Modelo() {
+System.out.println(nome + “ “ + “x3”);
+}
+};
+bmw.Modelo();
+}
+}
+
+Como um aplicativo de serviço de borda, o Zuul é construído
+para permitir roteamento dinâmico e monitoramento que lida
+com solicitações e executa o roteamento de aplicativos de
+microsserviços, funcionando como porta de entrada para os
+pedidos.
+53 O
+Spring Cloud fornece ferramentas para os
+desenvolvedores criarem rapidamente alguns dos padrões
+comuns em sistemas distribuídos, como, por exemplo,
+gerenciamento de configuração e descoberta de serviços.
+
+52
+
+Julgue os itens seguintes, a respeito de H2 Database e de
+PostgreSQL.
+54
+
+CREATE TABLE cidade (
+nome varchar(40),
+codigo int );
+CREATE TABLE capital (
+UF
+char(2) UNIQUE NOT NULL
+) #XPTO (cidade);
+insert into capital values ('Brasília', 22,
+'DF');
+select * from capital;
+
+No script precedente, desenvolvido em SQL no PostgreSQL,
+a substituição dos caracteres #XPTO por References fará
+que a execução do script apresente o seguinte resultado.
+CREATE TABLE
+CREATE TABLE
+INSERT 0 1
+nome
+| codigo | uf
+----------+--------+---Brasília |
+22 | DF
+(1 row)
+55
+
+H2 Database é um banco de dados NoSQL que utiliza JSON
+para armazenamento e pesquisa vetorial, e sincronização
+ponto a ponto para aplicativos móveis, podendo ser utilizado
+como um banco de dados autônomo incorporado em
+dispositivos móveis.
+
+Em relação à ferramenta de versionamento Git, julgue o item a
+seguir.
+56
+
+A execução do comando git push pdpjJE main fará que
+a versão local do projeto de nome pdpjJE seja sincronizada
+para a versão mais recente do repositório remoto; enquanto a
+execução do comando git pull pdpjJE main fará que as
+alterações locais feitas no projeto de nome pdpjJE sejam
+enviadas para o repositório remoto.
+
+Determinada aplicação possui backend que deve enviar
+notificações aos usuários finais por meio de dois canais: emails e
+notificações push para o aplicativo móvel. A aplicação publica a
+notificação para duas filas (email e push), uma para cada canal.
+Os programas que gerenciam emails e notificações push se
+inscrevem na fila em que estão interessados e lidam com as
+notificações assim que elas chegam.
+Com base nessa situação hipotética, julgue o item subsequente,
+relativo a RabbitMQ.
+57 Na situação hipotética apresentada, o RabbitMQ poderia ser
+utilizado como message broker, pois essa solução permite
+intermediar a comunicação entre diferentes componentes de
+um sistema, permitindo que eles se comuniquem de forma
+assíncrona e desacoplada, e pode, nesse caso, realizar
+manutenção nos gerenciadores de notificação sem
+interromper todo o serviço.
+Com base nas Resoluções CNJ n.º 335/2020, n.º 396/2021 e
+n.º 522/2023, bem como nas Portarias CNJ n.º 252/2020,
+n.º 253/2020, n.º 131/2021 e n.º 162/2021, julgue os itens a
+seguir.
+58 Integra o Protocolo de Prevenção de Incidentes Cibernéticos
+do Poder Judiciário (PPINC-PJ) a orientação segundo a qual,
+uma vez recebida comunicação de incidente de segurança em
+redes computacionais, a autoridade responsável pelo órgão
+do Poder Judiciário deverá encaminhá-la formalmente ao
+Ministério Público e ao órgão de polícia judiciária com
+atribuição para apurar os fatos.
+59 O Comitê Gestor de Segurança da Informação do
+Poder Judiciário (CGSI-PJ) será coordenado pela autoridade
+responsável pela segurança da informação no respectivo
+órgão do Poder Judiciário, nomeada por seu presidente.
+60 Quando da especificação e do desenvolvimento de
+funcionalidade, se constatado conflito entre requisitos,
+deverão ser aplicados os requisitos funcionais relacionados à
+segurança, em detrimento de outros.
+61 Um dos objetivos da Plataforma Digital do Poder Judiciário
+Brasileiro (PDPJ-Br) é instituir plataforma única para a
+publicação e a disponibilização de aplicações,
+microsserviços e modelos de inteligência artificial, por meio
+de computação em nuvem.
+62 Ao Comitê Gestor Nacional da Plataforma Digital do Poder
+Judiciário (PDPJ-Br) compete a correção de erros e falhas
+dessa plataforma.
+63 As soluções presentes na PDPJ-Br deverão conter artefatos
+de testes automatizados com incentivo às práticas de
+TDD (test driven development), contando com testes de
+unidade e de integração.
+64 Durante os encontros do grupo revisor de código-fonte, se o
+merge request não for expressamente aceito ou rejeitado, sua
+análise será sobrestada automaticamente para a sprint
+seguinte desse grupo.
+
+CEBRASPE – CPNUJE – Edital: 2024
+
+Julgue os próximos itens, relativos à engenharia de requisitos de
+software no contexto de análise e projeto de sistemas.
+65 Não pagar algumas dívidas técnicas faz parte do processo de
+gestão dos problemas encontrados na implementação dos
+requisitos.
+66 Em um projeto ágil, a gestão das tarefas a realizar
+normalmente é iniciada com um backlog limitado de
+produtos com requisitos de alto nível de abstração, limitando
+a realidade ao que é relevante a este nível mais genérico.
+No que concerne à qualidade do código e de sistemas e à
+abordagem DevOps, julgue os itens subsequentes.
+67 Nos testes de software, os stubs, diferentemente dos mocks,
+são mais apropriados para a verificação do comportamento
+da aplicação em contraste com a verificação de estado
+durante um teste unitário.
+68 Um defeito como a complexidade excessiva do código pode,
+em princípio, ser encontrado com maior facilidade e com
+menores custos a partir da utilização de testes estáticos.
+69 Um dos benefícios do DevOps, no que diz respeito aos
+testes, é o fato de a integração contínua estimular o princípio
+do teste antecipado, incentivando os desenvolvedores a
+entregar códigos de alta qualidade junto com a análise
+estática.
+Julgue o item a seguir, relativo à linguagem de script Ansible,
+considerando que uma operação será idempotente se o resultado
+ao executá-la uma vez for exatamente igual ao resultado ao
+executá-la repetidamente sem nenhuma ação interveniente.
+70 Para a sua automatização no Windows, o Ansible se conecta
+a nós de controle, e o usuário executa comandos escritos para
+manipular recursos do estado desejado do sistema, sendo
+esses comandos projetados para serem idempotentes quanto
+possível.
+No que diz respeito à resiliência de aplicações na engenharia de
+software e ao desenvolvimento de software low-code e no-code,
+julgue os itens que se seguem.
+71 A compatibilidade de funcionalidades prontas para o uso
+com diversas plataformas e dispositivos dos usuários é uma
+característica limitante do uso das plataformas de low-code
+e(ou) no-code.
+72 A técnica circuit breaker admite um estado em que uma
+quantidade limitada de solicitações pode passar para o
+sistema subjacente: caso essas solicitações sejam
+bem-sucedidas, o circuito fará a transição para o estado
+fechado; caso elas falhem, o circuito fará a transição para o
+estado aberto.
+Acerca de web services e de interoperabilidade de sistemas,
+julgue os itens a seguir.
+73 Web service consiste em uma instância de uma ideia mais
+geral de um serviço, definido como um ato ou desempenho
+oferecido de uma parte para outra.
+74 Na classificação de modelos de interoperabilidade de
+sistemas, o tipo que se caracteriza por se referir à capacidade
+de diferentes sistemas e dispositivos se comunicarem e
+trocarem informações utilizando protocolos de comunicação
+padronizados é a interoperabilidade de dados.
+Julgue os seguintes itens, a respeito de engenharia de software.
+75 No Scrum, as sprints ocorrem de maneira linear: ao final de
+cada uma, é feita uma sprint review para analisar o que foi
+feito; em seguida, a sprint restropective analisa pontos
+positivos e negativos e realiza possíveis mudanças.
+76 O diagrama de objetos UML evidencia o processo de
+desenvolvimento, como a forma de entrega e
+disponibilização, o gerenciamento de configuração, o
+comportamento, e a interação com o hardware e com a rede.
+
+Em relação a extranet e intranet, bem como à arquitetura
+orientada a serviços, julgue os itens a seguir.
+WSDL é uma tecnologia que padroniza a descrição da
+interface de um web service, enquanto UDDI é um
+repositório mundial de web services utilizado para publicar
+e(ou) descobrir serviços que já foram criados e utilizar os já
+existentes.
+78 Uma extranet funciona como extensão de determinada
+intranet a computadores que estejam fora dos domínios
+físicos da intranet, podendo o acesso a esses computadores
+ocorrer por uma rede privada virtual, que cria uma conexão
+segura via tunelamento entre o dispositivo fora da intranet e
+a intranet propriamente dita.
+79 Na arquitetura orientada a serviços, um barramento de
+serviço corporativo é uma arquitetura formada por
+componentes de software muito pequenos e completamente
+independentes, que se especializam e se concentram em uma
+única tarefa, sendo seu estilo de arquitetura mais adequado
+para ambientes modernos de computação em nuvem.
+77
+
+Acerca do sistema operacional Red Hat Enterprise Linux 7,
+julgue os próximos itens.
+80
+
+Considerando que o pacote openssh-server tenha sido
+instalado, para que o daemon seja imediatamente iniciado e
+para que seja possível iniciar o serviço automaticamente
+quando o sistema operacional for reiniciado, devem ser
+executados os dois comandos a seguir.
+systemctl start sshd.service
+systemctl enable sshd.service
+
+Para que seja possível registrar esse sistema operacional e
+anexar uma subscrição ao Red Hat Subscription
+Management, é necessário que se esteja logado como usuário
+root
+e
+que
+se
+execute
+o
+comando
+subscription-manager register.
+82 Nesse sistema operacional, para se realizar busca por pacote
+com o nome pacote1, é necessário que se utilize o comando
+yum find pacote1.
+81
+
+A respeito do TCP/IP, julgue os itens que se seguem.
+No controle de congestionamento de rede do TCP, é função
+da camada de transporte receber feedback da camada de rede
+acerca desse congestionamento e diminuir a velocidade do
+tráfego enviado para a rede.
+84 A camada de transporte do TCP suporta protocolos como
+UDP e ICMP.
+85 Para iniciar uma conexão usando TCP, o computador cliente
+deve enviar para o computador servidor um pedido de
+abertura de conexão com a flag ACK.
+83
+
+A respeito de Tomcat 10 e do JBoss 7, julgue os itens a seguir.
+No Tomcat, um dos passos para configurar o suporte
+SSL/TLS é criar um arquivo de keystore usando o utilitário
+keytool.
+87 Para que o Tomcat suporte o HTTP2, é necessário que haja
+uma instância do componente associada a um conector
+HTTP/1.1 existente.
+88 No JBoss, o log é escrito no arquivo jboss-eap.log, por
+padrão.
+86
+
+CEBRASPE – CPNUJE – Edital: 2024
+
+A respeito de modelagem, normalização de dados e de MySQL,
+julgue os itens seguintes.
+O comando SHOW OPEN TABLES WHERE In_use > 0; é
+usado para exibir apenas as tabelas que estejam em uso no
+esquema ativo no momento da execução da consulta.
+90 Para que uma tabela de funcionários, que inclua o
+departamento e o gerente do departamento, esteja na terceira
+forma normal, é necessário que ela seja dividida para que as
+informações do gerente estejam armazenadas em uma tabela
+separada, eliminando-se a dependência transitiva entre
+funcionário e gerente.
+89
+
+No que se refere à integridade referencial e à modelagem
+dimensional, julgue os itens que se seguem.
+No âmbito da modelagem dimensional, as tabelas de fato
+armazenam medidas quantitativas que representam eventos
+de negócios, enquanto as tabelas dimensão contêm dados
+descritivos que auxiliam na interpretação e na análise das
+métricas da tabela de fato.
+92 A integridade referencial garante que os valores de chaves
+estrangeiras correspondam aos valores válidos na tabela
+referenciada, mas não impede que essas chaves sejam nulas,
+desde que a coluna permita valores nulos.
+91
+
+idVenda
+1
+2
+3
+4
+5
+
+idCliente
+101
+102
+101
+103
+102
+
+dataVenda
+10/09/2023
+12/09/2023
+15/09/2023
+20/09/2023
+25/09/2023
+
+valorVenda
+150.00
+250.00
+200.00
+300.00
+180.00
+
+Com base na tabela de nome vendas apresentada acima e nos
+conceitos de SQL, DLL e DML, julgue os próximos itens.
+As tarefas de eliminar registros da tabela vendas e de criar
+um índice para otimização de consultas devem ser
+executadas com DDL.
+94 A execução do comando SQL a seguir apresentará a soma de
+todas as vendas cujo valor excede 150.00.
+93
+
+SELECT SUM(valorVenda)
+valorVenda > 150.00;
+95
+
+FROM
+
+vendas
+
+WHERE
+
+A operação para adicionar uma coluna nova à tabela vendas
+é realizada por meio de DML.
+
+Acerca de bancos de dados NoSQL, de banco de dados em
+memória e de data lake, julgue os itens subsecutivos.
+Um data lake funciona como uma arquitetura de
+armazenamento que requer que todos os dados sejam
+estruturados e limpos antes de serem armazenados.
+97 Em bancos de dados NoSQL distribuídos, o uso de
+replicação embasada em quórum pode introduzir latência
+adicional nas operações de escrita, uma vez que um número
+específico de réplicas deve confirmar a operação antes que
+ela seja considerada bem-sucedida, o que pode impactar o
+tempo de resposta do sistema.
+98 Bancos de dados em memória são inerentemente mais
+seguros contra falhas de energia que bancos de dados em
+disco, pois eles armazenam todos os dados em uma cache
+volátil que é sincronizada automaticamente com o
+armazenamento persistente.
+96
+
+use std::sync::{Arc};
+use std::thread;
+fn main() {
+let counter = Arc::new(0);
+let mut handles = vec![];
+for _ in 0..10 {
+let counter_clone = Arc::clone(&counter);
+let handle = thread::spawn(move || {
+let mut num =
+counter_clone.lock().unwrap();
+*num += 1;
+});
+handles.push(handle);
+}
+for handle in handles {
+handle.join().unwrap();
+}
+println!(“Resultado final do contador: {}”,
+*counter.lock().unwrap());
+}
+
+Com base no trecho de código precedente, escrito em Rust, que
+cria um contador, julgue o item a seguir.
+99
+
+A instrução let counter = Arc::new(0); combina
+exclusão mútua com contagem atômica de referência e
+garante acesso seguro e exclusivo a dados entre threads.
+
+import pandas as pd
+df = pd.DataFrame({
+'Nome': ['Alice', 'Maria', 'Ana'],
+'Idade': [25, 30, 35],
+'Disciplina': ['Direito', 'Direito', 'Direito'],
+'Situacao': ['Aprovada', 'Reprovada', 'Aprovada']
+})
+colunas_interesse = ['Nome', 'Situacao']
+tabela = df[colunas_interesse].values.tolist()
+print(tabela[0][0])
+
+Com base no código precedente, julgue o item que se segue,
+relativo à linguagem de programação Python, considerando que o
+ambiente em uso possua as bibliotecas necessárias instaladas.
+100 Ao se executar esse trecho de código, será exibido o
+
+resultado a seguir.
+['Alice', 'Aprovada']
+curl_multi_setopt( cm, CURLMOPT_MAXCONNECTS,
+(long)PARALLEL );
+
+Considerando a linha de código precedente, julgue o item
+seguinte, em relação à biblioteca libcurl.
+101 A
+
+função curl_multi_setopt configura o número
+máximo de conexões simultâneas que o gerenciador de
+múltiplas conexões (CURLM) pode manter abertas ao mesmo
+tempo.
+
+CEBRASPE – CPNUJE – Edital: 2024
+menuentry 'Ubuntu' --class ubuntu --class gnulinux --class gnu --class os
+$ menuentry_id_option 'gnulinux-simple44836297-8097-455e-a64d-4fc7be245184' {
+...
+set root='hd0,gpt1'
+...
+linux /boot/vmlinuz-5.4.0-144-generic
+root=UUID=44836297-8097-455e-a64d-4fc7be245184
+ro console=tty1 console=ttyS0
+initrd /boot/initrd.img-5.4.0-144-generic
+}
+
+Tendo como base o trecho precedente, julgue o próximo item,
+relativo a conceitos associados ao Bootloader.
+102 O arquivo /boot/initrd.img-5.4.0-144-generic é o
+initrd correspondente ao kernel que está sendo carregado,
+e contém drivers e utilitários essenciais para a inicialização
+do kernel.
+using System.ServiceProcess;
+public class MyService : ServiceBase{
+public MyService(){
+this.ServiceName = “MySampleService”;
+}
+protected
+override
+void
+OnStart(string[]
+args){
+// Lógica de inicialização
+}
+protected override void OnStop(){
+// Lógica de parada
+}
+}
+static class Program {
+static void Main(){
+ServiceBase[] ServicesToRun;
+ServicesToRun = new ServiceBase[]{
+new MyService()};
+ServiceBase.Run(ServicesToRun);
+}
+}
+
+Com base no código precedente, cuja estrutura permite que o
+gerenciador de controle de serviços do Windows gerencie e
+controle corretamente o serviço, julgue o item a seguir.
+103 O comando new MyService() permite inicializar o ciclo
+
+de vida dos serviços, criados na matriz de serviço, que serão
+executados simultaneamente.
+A respeito de ferramentas de controle de versão e ferramentas de
+integração contínua, julgue os itens subsequentes.
+104 O comando git cherry-pick <commit-hash> permite
+
+aplicar um commit específico de uma branch a outra
+branch, reaplicando o commit na branch atual com um novo
+hash, sem a necessidade de mesclar toda a branch de origem.
+105 Um arquivo .gitlab-ci.yml no GitLab é usado para
+
+definir os stages e jobs do pipeline, além de especificar
+variáveis de ambiente, configurar regras de deploy e definir
+condições para a execução dos jobs.
+
+Em relação a políticas de segurança da informação e a
+gerenciamento de projetos, julgue os itens a seguir, conforme o
+PMBOK 7.ª edição.
+106 No âmbito da política de segurança da informação (PSI) de
+determinada organização, recomenda-se que as políticas
+específicas por temas — tais como controle de acesso,
+segurança física e do ambiente e gestão de ativos — sejam
+alinhadas e complementares à PSI da organização.
+107 Considere que a gestão de uma organização tenha solicitado
+que, no início de um projeto, fosse criado um documento
+com informações sobre o projeto, dentre as quais deveria
+estar o cronograma de alto nível e os marcos que o projeto
+viria a atingir. Nessa situação, o artefato roadmap do
+PMBOK atenderia à necessidade da organização, pois, além
+dos marcos, esse artefato inclui eventos significativos e
+pontos de decisão.
+108 A linha de base, que descreve a versão aprovada de um
+produto do trabalho e é usada como base para comparação
+com os resultados reais, é um exemplo de definição relevante
+para o domínio de desempenho da medição no PMBOK.
+Acerca da gestão de riscos da segurança da informação, julgue os
+próximos itens, com base na ISO 31010.
+109 A técnica Delphi é utilizada para realizar o tratamento de
+riscos após a mensuração da probabilidade e após as
+consequências dos riscos terem sido obtidas, sendo aplicada
+no nível operacional.
+110 HAZOP é um exame estruturado e sistemático de uma
+operação planejada e tem, entre outros, o objetivo de
+identificar e avaliar problemas que possam representar riscos
+para o equipamento.
+Em relação às boas práticas de mercado no tocante à seleção e
+implantação de controles de segurança cibernética, julgue os itens
+a seguir, de acordo com a NIST SP 800-53 rev. 5 e com o
+CIS Control v8.
+111 O teste de penetração é um controle que visa avaliar a
+resiliência dos ativos empresariais por meio da identificação
+e exploração de pontos fracos (inclusive no que se refere a
+pessoas e processos) e da simulação dos objetivos e ações de
+um invasor.
+112 É obrigatória a aplicação de controles que implementem uma
+permissão para acessar as informações dentro do sistema, de
+modo que os dados fiquem anonimizados para entes
+externos; uma vez aplicados tais controles, não se deve
+autorizar o controle do fluxo de informações entre sistemas
+conectados, para que não se transmute a anonimização dos
+dados.
+Julgue os próximos itens, relativos a desenvolvimento seguro.
+113 A autenticação multifatorial, um dos controles listados no
+Microsoft SDL (security development lifecycle), adiciona
+uma segunda camada crítica de segurança aos logins, a fim
+de proteger todos os usuários, especialmente os
+administradores.
+114 Diferentemente do DevOps, no processo de DevSecOps não
+há integração contínua, em vez dela, devem ser incluídas
+verificações de bibliotecas e dependências de terceiros, bem
+como testes de unidade e testes de segurança no código.
+115 Conforme o OWASP SAMM (software assurance maturity
+model), o processo formal de gerenciamento de incidentes
+em vigor deve seguir uma sequência estabelecida e bem
+documentada para detecção de incidentes, com ênfase na
+avaliação automatizada de logs.
+
+CEBRASPE – CPNUJE – Edital: 2024
+
+No que concerne ao gerenciamento de serviços conforme o ITIL v4, julgue os itens a seguir.
+116 O objetivo da prática de gerenciamento de nível de serviço é definir metas necessárias ao negócio, sendo a garantia definida como
+uma funcionalidade oferecida por um produto ou serviço para atender a uma necessidade específica, ou seja, resumidamente é “o
+que o serviço faz”.
+117 Apesar de o desenvolvimento de software ser importante na perspectiva de governança e gestão, não há, no ITIL, prática
+específica a respeito de desenvolvimento e gerenciamento de software.
+118 O objetivo da prática de gerenciamento de disponibilidade é garantir que os serviços entreguem os níveis acordados, sendo
+utilizada a métrica tempo médio entre falhas (MTBF) para mensurar a rapidez com que o serviço é restaurado após uma falha.
+Julgue os itens subsequentes, no que se refere à governança de TI conforme o COBIT 2019.
+119 No COBIT, há um domínio que trata especificamente da utilização eficaz dos ativos de dados críticos, que visa sustentar o
+gerenciamento adequado dos ativos de dados corporativos em todo o ciclo de vida dos dados, desde a criação até a entrega, a
+manutenção e o arquivamento.
+120 O domínio avaliar, direcionar e monitorar (EDM) agrupa os objetivos de governança a partir dos quais a organização avalia as
+opções estratégicas, orienta a gestão superior sobre as opções escolhidas e monitora a concretização da estratégia.
+Espaço livre
+
+

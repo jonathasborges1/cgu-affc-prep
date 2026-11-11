@@ -1,0 +1,6 @@
+{"item": "1", "edital": "P3·ARQ 4.2", "relevancia": "alta", "nucleo_id": "n-rag-recuperacao-externa-integrada", "tags": ["ABSOLUTO", "INVERSAO"], "nivel": "medio"}
+{"item": "10", "edital": "P3·ARQ 5.5", "relevancia": "media", "nucleo_id": "n-plano-contingencia-processos-manuais", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "14", "edital": "P3·ARQ 5.1", "relevancia": "baixa", "nucleo_id": "n-pdpj-plataforma-nuvem-microsservicos", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "16", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "17", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "19", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "facil"}

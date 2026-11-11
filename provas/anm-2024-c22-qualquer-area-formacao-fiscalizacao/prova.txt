@@ -1,0 +1,525 @@
+CEBRASPE – ANM – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Com base nas normas brasileiras de contabilidade de auditoria,
+julgue os itens a seguir.
+51 A aplicação de testes de observância é suficiente para
+assegurar que não existem erros relevantes nas
+demonstrações financeiras, prescindindo-se da realização de
+testes substantivos.
+52 Para emitir um parecer sem ressalvas, o auditor deve obter
+segurança absoluta de que as demonstrações contábeis estão
+livres de distorção relevante, seja por erro ou fraude.
+
+Em relação aos itens que integram o grupo patrimonial ativo de
+uma entidade, julgue os próximos itens.
+63 Um imóvel adquirido por uma empresa para valorização
+deve, após seu registro inicial, ser mantido contabilizado
+pelo seu valor justo ou pelo seu custo, nesse caso sujeito a
+depreciação, se aplicável.
+64 Os itens que integram as disponibilidades de uma entidade
+são compostos por caixa, equivalentes de caixa e créditos a
+receber de clientes de curtíssimo prazo.
+
+Considerando as evidências de auditoria e as fraudes na escrita
+contábil, julgue os itens seguintes.
+53 A baixa fictícia de títulos a receber configura um exemplo
+clássico de erro contábil não intencional.
+54 Em regra, as evidências obtidas por inspeção de documentos
+internos da entidade auditada são menos confiáveis que as
+evidências obtidas por confirmações externas de terceiros.
+
+A respeito dos métodos de custeio de mercadorias, produtos e
+serviços e da avaliação gerencial desses custos, julgue os itens
+subsequentes.
+65 Considere que uma empresa incorra em um montante de
+custos fixos de produção de R$ 300 mil e despesas fixas de
+administração e venda de R$ 100 mil, tendo, ainda, custos de
+produção variáveis unitários de R$ 10 e despesas variáveis
+de administração e venda de R$ 2; considere, ainda, que, em
+período em que não haja estoques iniciais, a empresa
+produza 10 mil unidades de seu único produto, que serão
+vendidas por R$ 70 a unidade. Nessas condições, aplicado o
+método do custeio variável para apuração do custo do
+produto vendido, cada unidade vendida gera R$ 60 de ganho.
+66 Segundo o método do custeio por absorção, todos os gastos
+nos quais se incorreu para a geração de um produto para
+venda, sejam matérias-primas, seja mão de obra direta, sejam
+custos indiretos de produção, sejam despesas — fixas ou
+variáveis —, devem ser incorporados ao custo dos produtos.
+
+Acerca de demonstrações contábeis e auditoria no ativo
+circulante, julgue os próximos itens.
+55 A existência de saldo credor na conta caixa pode indicar
+inconsistências na escrituração, como omissões de receitas
+ou lançamento incorreto de despesas.
+56 As demonstrações contábeis auditadas devem apresentar de
+forma clara e compreensível a posição patrimonial e
+financeira da entidade auditada, bem como os resultados das
+operações.
+No que se refere à auditoria na escrita fiscal digital (EFD) e na
+nota fiscal eletrônica (NFe), julgue os itens que se seguem.
+57 A auditoria das informações contidas na escrituração fiscal
+digital (EFD) pode ser feita de forma eficaz sem análise das
+notas fiscais eletrônicas (NFe) emitidas, desde que os
+lançamentos estejam registrados no sistema de gestão ou no
+sistema contábil da empresa.
+58 O cotejamento entre a escrituração fiscal digital (EFD) e os
+documentos fiscais emitidos e recebidos pela empresa
+permite a identificação de divergências na apuração do
+ICMS devido.
+No que se refere aos procedimentos aplicáveis à auditoria, julgue
+os itens subsequentes.
+59 A alienação fictícia de bens do ativo imobilizado pode ser
+evidenciada em auditoria pela ausência de documentos que
+comprovem a transação e pela continuidade do uso do bem
+pela entidade, mesmo após a suposta venda.
+60 A definição do tamanho da amostra em auditoria depende
+essencialmente do volume total de registros contábeis, sendo
+desconsiderados outros fatores, como o nível de risco e a
+materialidade das transações.
+Julgue os itens a seguir, relativos à elaboração de demonstrações
+contábeis, conforme os pronunciamentos do Comitê de
+Pronunciamentos Contábeis.
+61 O somatório das demonstrações de valor adicionado do
+conjunto de uma economia, desde que existam estoques
+iniciais e finais, expressa o conceito econômico de produto
+interno bruto.
+62 Para que um item patrimonial seja caracterizado como
+equivalente de caixa, ele deve, obrigatoriamente, atender a
+necessidades de caixa de curto prazo.
+
+Julgue os itens seguintes, a respeito da análise
+econômico-financeira de empresas.
+67 Uma entidade com liquidez geral superior à unidade carece
+de capital próprio para financiar seu giro.
+68 Se, para uma empresa, a composição de exigibilidades
+apresenta um índice de 0,74 e as fontes de longo prazo
+somam R$ 67 milhões, então, nesse caso, as fontes de curto
+prazo
+da
+empresa
+somam,
+aproximadamente,
+R$ 190 milhões.
+Considerando os princípios e as regras constitucionais aplicáveis
+às contribuições sociais e os regimes de apuração da contribuição
+para o PIS/PASEP e da COFINS, julgue os itens a seguir.
+69 O regime de apuração não cumulativa da contribuição para
+o PIS/PASEP e da COFINS identifica-se com o método
+imposto sobre imposto, de modo que se leva em
+consideração, em vez do valor recolhido pelo contribuinte
+anterior, o valor dos bens e serviços adquiridos.
+70 A contribuição social do salário-educação não tem natureza
+tributária.
+71 Respeitados os princípios da irretroatividade tributária e da
+vedação do confisco, a União, os estados, os municípios e o
+Distrito Federal detêm igual autonomia para a criação de
+contribuições sociais.
+72 Independentemente da forma de apuração do lucro pelo
+imposto sobre a renda, são contribuintes do PIS/PASEP e da
+COFINS, incidentes sobre a receita bruta, no regime de
+apuração cumulativa, as entidades de previdência
+complementar abertas e fechadas.
+73 É permitida, em caráter excepcional, a utilização dos
+recursos provenientes da contribuição social devida pelo
+empregador sobre a folha de salários para a realização de
+gastos que não se destinem ao pagamento de benefícios do
+regime geral de previdência social (RGPS).
+
+CEBRASPE – ANM – Edital: 2024
+
+Em relação ao fato gerador, aos contribuintes, à base de cálculo e
+à apuração do ICMS, julgue os itens seguintes.
+Como a base de cálculo do ICMS compreende o próprio
+montante do tributo, sua alíquota efetiva acaba por ser maior
+que a nominal, porque o tributo incide sobre seu próprio valor.
+75 É considerada contribuinte do ICMS qualquer pessoa física
+que, mesmo sem habitualidade ou intuito comercial, importa
+mercadorias ou bens do exterior, independentemente da
+finalidade.
+76 O mero deslocamento de mercadoria de um para outro
+estabelecimento empresarial de um mesmo contribuinte não
+constitui fato gerador do ICMS.
+77 O sujeito passivo do ICMS deverá efetuar o estorno do
+imposto de que se tiver creditado sempre que a mercadoria
+entrada no estabelecimento vier a ser utilizada em fim alheio
+à atividade do estabelecimento.
+74
+
+Um empréstimo de R$ 615.000 será pago
+10 prestações semestrais com taxa de juros de 21% ao ano.
+
+em
+
+Com base nessa situação hipotética, julgue os itens a seguir,
+considerando, para efeitos de cálculo, que o fator de valor
+presente para o financiamento é de 6,15.
+78 Considerado o sistema de amortização misto sem carência, a
+primeira prestação será R$ 80.750.
+79 Se o referido empréstimo for realizado conforme o sistema
+de amortização constante com carência de um ano e
+capitalização de juros nesse período e se os juros
+acumulados no período de carência forem pagos totalmente
+na primeira parcela, então o valor da segunda prestação
+desse empréstimo será igual à segunda prestação do plano de
+amortização constante sem carência.
+80 Considerado o sistema de prestação constante sem carência,
+a amortização da primeira prestação será de R$ 38.500.
+A respeito dos diferentes tipos de taxas de juros, julgue os itens a
+seguir.
+81
+
+Um capital aplicado a uma taxa de juros compostos ݅ ao mês
+ଵ
+levará exatamente o tempo ݊ =
+para triplicar.
+ሺଵା௜ሻ
+୪୭୥య
+
+Se um empréstimo for tomado a uma taxa nominal de juros
+anual i a ser pago em um ano, então, quanto maior for a
+frequência de capitalização dos juros nesse ano, maior será a
+taxa de juros efetiva dessa operação.
+83 Considere uma aplicação que renda uma taxa real de juros de
+5% ao ano sujeita a uma inflação de 3% no mesmo período.
+Nessa situação, a taxa aparente será inferior a 8% ao ano.
+82
+
+No que se refere a análise de investimento, julgue os itens
+subsecutivos.
+Considere que uma empresa esteja avaliando um
+investimento no valor de R$ 500.000 do qual se espera,
+como retorno, dois pagamentos anuais e iguais de
+R$ 360.000. Nessa situação, caso seja definida em 20% a
+taxa de rentabilidade do investimento, então o investimento é
+economicamente viável pelo método do valor presente
+líquido.
+85 Suponha que a expectativa de retorno de um investimento no
+valor de R$ 300.000 seja de dois pagamentos anuais e
+consecutivos, respectivamente, de R$ 500.000 e R$ 200.000.
+Com base nessa hipótese, é correto afirmar que a taxa interna
+de retorno será superior a 90% ao ano.
+84
+
+Julgue os itens a seguir, relacionados aos fundamentos da teoria
+estatística.
+86 Se, em uma amostra aleatória, a covariância entre as
+variáveis X e Y é 256, e a covariância entre as variáveis X e Z
+é 1.024, então a variável X é mais correlacionada com Z do
+que com Y.
+87 Se X1, X2, ... , Xn é uma sequência de uma variável aleatória
+com distribuição exponencial de parâmetro β, e, para essa
+sequência, m(X) é a média e ݀‫ )ܺ(݌‬é a variância, então,
+௠ሺ௑ሻିఉ
+quando n tende ao infinito, ܲ ቀ
+< 2ቁ é
+ௗ௣(௑)
+
+aproximadamente 97,5%.
+88 Um evento é um subconjunto do espaço amostral para o qual
+há uma probabilidade atribuída.
+89 Na amostragem aleatória simples sem reposição, a
+frequência fi, que é a i-ésima unidade que aparece na
+amostra, segue uma distribuição Binomial com parâmetros n
+ଵ
+e .
+90
+
+ே
+
+Se E é um evento que ocorre sempre que uma variável
+aleatória X = 100, então a probabilidade desse evento não
+pode ser igual a 1.
+
+Em relação aos conceitos de probabilidade, julgue os itens que se
+seguem.
+91 Para o teorema de Bayes ser aplicado para o cálculo de
+probabilidades, é necessário que o denominador seja uma
+partição. Dessa forma, o teorema de Bayes não se aplica para
+variáveis contínuas.
+92 Na amostragem aleatória simples sem reposição (AASs), a
+covariância entre as frequências fi e fj com que as unidades i
+e j aparecem na amostra é maior ou igual à covariância
+correspondente na amostragem aleatória simples com
+reposição (AASc).
+93 Considere que X é uma variável aleatória de Poisson, e Y é
+uma distribuição discreta que assume valores no conjunto
+[1; ∞], tal que P(Y = k) é proporcional a P(X = k). Nesse
+caso, se ambas as distribuições possuem o mesmo parâmetro,
+então ocorre P(Y = k) ≥ 4P(X = k), se esse parâmetro for
+ଷ
+menor ou igual a − ln ቀ ቁ.
+94
+
+ସ
+
+Um evento E com probabilidade igual a zero é impossível de
+ocorrer.
+
+Julgue os itens a seguir, relativos a atos e poderes
+administrativos, à organização da administração pública, ao
+provimento de cargos públicos conforme a Lei n.º 8.112/1990 e à
+proteção de dados pessoais.
+95 A Lei Geral de Proteção de Dados Pessoais (LGPD)
+assegura às empresas públicas e às sociedades de economia
+mista que atuam em regime de concorrência o mesmo
+tratamento dispensado às pessoas jurídicas de direito privado
+particulares.
+96 Ato administrativo praticado, sem vícios, por agente da
+ANM poderá ser anulado pela administração pública caso ela
+o entenda não mais conveniente ou oportuno, haja vista sua
+prerrogativa de anular os próprios atos a qualquer tempo.
+97 A ANM é entidade integrante da administração pública
+indireta, com personalidade jurídica de direito público,
+podendo ser classificada como uma empresa pública.
+98 Denomina-se poder de polícia o poder da administração
+pública de apurar infrações e aplicar sanções a seus agentes
+bem como a seus contratados.
+99 São formas de provimento de cargos públicos, de acordo
+com a Lei n.º 8.112/1990, a nomeação, a promoção, a
+readaptação, a reversão, o aproveitamento, a reintegração e a
+recondução.
+
+CEBRASPE – ANM – Edital: 2024
+
+Com relação à delegação de serviço público, aos bens públicos,
+ao processo administrativo federal e aos atos de improbidade
+administrativa, julgue os itens seguintes.
+100 Autorização de uso é o ato administrativo unilateral e
+
+discricionário pelo qual a administração pública consente, a
+título precário, que o particular se utilize de bem público
+com exclusividade, de forma gratuita ou onerosa, para fins
+não de utilidade pública, mas de interesse do particular.
+101 No âmbito de processo administrativo conforme a
+Lei n.º 9.784/1999, o órgão competente para o julgamento de
+eventual recurso administrativo será cientificado da acolhida,
+pelo STF, de reclamação fundada em violação de enunciado
+de súmula vinculante e deverá adequar as futuras decisões
+administrativas em casos semelhantes, sob pena de
+responsabilização pessoal nas esferas cível, administrativa e
+penal.
+102 Especialista da ANM que praticar ato culposo que ocasione
+dano ao erário deverá ser sujeito passivo de ação de
+improbidade administrativa, que poderá ser proposta pelo
+Ministério Público Federal.
+103 A concessão caracteriza-se pela delegação de serviço público
+de forma precária, havendo a necessidade de prévia licitação.
+No que se refere à regulação de setores econômicos, a concessões
+e às disposições da Lei n.º 13.848/2019 acerca da gestão, da
+organização, do processo decisório e do controle social das
+agências reguladoras, julgue os itens seguintes.
+104 A agenda regulatória é um instrumento de planejamento da
+
+atividade normativa da agência reguladora, contendo o
+conjunto dos temas prioritários a serem regulamentados pela
+agência durante sua vigência.
+105 A ausência de tutela ou de subordinação hierárquica e a
+autonomia decisória são atributos caracterizadores da
+natureza especial conferida às agências reguladoras.
+106 A conduta estatal que, de modo omissivo ou comissivo, se
+insere no domínio econômico privado para produzir
+resultados de proteção concorrencial caracteriza-se como
+uma intervenção econômica.
+107 Agências reguladoras são dotadas de competência primária
+para monitorar e acompanhar a atuação de empresas em
+setores regulados, visando combater a formação de cartéis.
+108 Na concessão, o poder público cede a um particular a
+titularidade do serviço público, atribuindo-lhe a sua
+execução no próprio nome, por conta e risco do particular.
+109 Aos órgãos de defesa da concorrência incumbem a análise de
+atos de dissolução empresarial e a instauração de processos
+administrativos para apuração de infrações em defesa da
+concorrência nos setores regulados.
+110 A análise de impacto regulatório (AIR) é exigida como
+elemento prévio a propostas alteração de atos normativos de
+interesse geral dos agentes econômicos.
+111 Minutas e propostas de alteração de atos normativos de
+interesse geral dos agentes econômicos sujeitam-se à
+consulta pública, instrumento de controle que chancela as
+decisões tomadas pelo conselho diretor ou pela diretoria
+colegiada.
+112 As metas de desempenho administrativo e operacional
+especificadas no plano de gestão anual de agência reguladora
+poderão, ao seu critério, prever ações de cooperação com
+órgãos ambientais e de defesa do consumidor.
+
+Uma empresa de mineração de ferro está analisando os
+dados coletados durante suas operações para melhorar os
+processos de extração e beneficiamento. O conjunto de dados
+inclui as seguintes variáveis:
+• teor_de_ferro: percentual de ferro presente em amostras do
+minério.
+• toneladas_extraidas: quantidade de minério extraída por
+turno.
+Durante o estudo, foi utilizada a técnica de categorização
+de dados e, mais especificamente, a discretização de dados. Além
+disso, os conjuntos de dados presentes nas tabelas 22A6-I e
+22A6-II, a seguir, serão utilizados como input de algoritmos de
+aprendizagem de máquina. Na tabela 22A6-I, as variáveis
+quantidade de minério e profundidade são dadas em toneladas e
+em metros, respectivamente, e, na tabela 22A6-II, as variáveis
+temperatura e precipitação são dadas em graus Celsius e em
+milímetros, respectivamente.
+Tabela 22A6-I
+mina
+A
+B
+C
+D
+E
+F
+G
+H
+
+quantidade de minério
+1.500
+4.000
+2.800
+3.600
+1.200
+10.000
+10.000
+10.000
+
+profundidade
+200
+350
+500
+300
+150
+100
+100
+100
+
+Tabela 22A6-II
+dia
+1
+2
+3
+4
+5
+
+temperatura
+20
+22
+21
+19
+23
+
+precipitação
+10
+12
+8
+6
+5
+
+A partir da situação hipotética precedente, julgue os próximos
+itens.
+113 Quanto à normalização estatística, na tabela 22A6-I, as
+variáveis quantidade de minério e profundidade devem ser
+normalizadas. Já na tabela 22A6-II, não há necessidade de se
+normalizar as variáveis temperatura e precipitação.
+114 Para a variável teor_de_ferro, a discretização baseada em
+intervalos é adequada para classificá-la em categorias como
+baixo, médio e alto, utilizando faixas predefinidas de
+percentual de ferro.
+Espaço livre
+
+CEBRASPE – ANM – Edital: 2024
+
+Na tabela a seguir, a variável produção mensal, dada em
+toneladas, é registrada como um número inteiro; a variável teor
+de ferro representa a porcentagem de ferro em determinada
+amostra; e a variável profundidade é dada em metros.
+mina
+A
+B
+C
+D
+E
+
+tipo de
+minério
+Hematita
+Itabirito
+Hematita
+Itabirito
+Hematita
+
+teor de
+ferro
+62,5
+58,6
+62,1
+55,4
+67,8
+
+profundidade
+200
+300
+250,5
+400
+180
+
+produção
+mensal
+1.500
+2.800
+3.200
+4.000
+1.200
+
+A partir dessas informações, julgue o próximo item.
+115 As variáveis mina, tipo de minério, teor de ferro,
+profundidade e produção mensal são, respectivamente, do
+tipo qualitativa nominal, qualitativa ordinal, quantitativa
+contínua, quantitativa discreta e quantitativa contínua.
+Uma equipe de mineração deseja analisar a distribuição do
+teor de minério em uma amostra coletada. O código a seguir
+utiliza a biblioteca matplotlib do Python para criar um histograma
+dos teores coletados.
+import matplotlib.pyplot as plt
+# Dados de teores de minério (%)
+teores = [0.5, 0.7, 1.2, 1.5, 1.8,
+2.0, 2.2, 2.5, 2.8, 3.0,
+3.5, 4.0, 4.2, 4.5, 5.0,
+5.5, 6.0, 6.5, 7.0, 7.5]
+# Criação do histograma
+plt.hist(teores, bins=5, edgecolor='black')
+plt.xlabel('Teor de Minério (%)')
+plt.ylabel('Frequência')
+plt.title('Distribuição do Teor de Minério')
+plt.show()
+
+Com base no código precedente, julgue o item a seguir.
+116 O parâmetro bins = 5, no código em apreço, especifica
+que o histograma terá exatamente cinco barras, com o
+mesmo número de dados em cada barra.
+Julgue o item a seguir, relativo ao modelo CRISP-DM (cross
+industry standard process for data mining).
+117 Compreensão do negócio, compreensão dos dados,
+preparação dos dados, modelagem, avaliação e implantação
+são as fases do modelo CRISP-DM, e, nesse modelo, as
+fases devem ser seguidas de maneira estritamente sequencial,
+sem a possibilidade de iterações ou retrocessos.
+Julgue os itens a seguir, referentes a algoritmos de aprendizado
+de máquina.
+118 O algoritmo KNN (k-nearest neighbors) é um modelo
+supervisionado de aprendizado de máquina que realiza
+previsões classificando uma nova amostra com base na
+maioria dos votos de seus K vizinhos mais próximos,
+definidos por uma métrica de distância.
+119 O Naive Bayes, algoritmo de classificação probabilística
+eficiente no uso de dados categóricos, é indicado para
+aplicações de classificação de texto, tais como filtragem de
+spams e classificação de textos.
+120 O algoritmo K-means garante a otimização dos clusters,
+independentemente da inicialização dos centroides, desde
+que a métrica de distância utilizada seja euclidiana, e os
+dados estejam em um espaço vetorial de baixa
+dimensionalidade.
+
+Espaço livre
+
+

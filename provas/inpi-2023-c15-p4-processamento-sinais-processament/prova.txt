@@ -1,0 +1,329 @@
+                                  -- CONHECIMENTO
+Julgue os itens que se seguem, a respeito de sistemas de
+numeração.
+51 O binário 11110101011110011110 é igual a F579E em
+    hexadecimal.
+52 O número 25 em decimal é igual a 11001 na base binária.
+
+Julgue os itens seguintes, relacionados à álgebra booleana.
+53 Se L1 e L2 forem variáveis booleanas que representem duas
+    lâmpadas em uma sala, então a situação em que a sala estará
+    iluminada apenas quando ambas as lâmpadas estiverem
+    acesas será representada pela expressão booleana F = L1 L2.
+54 Considere que, para ser patenteada, uma invenção deve
+    satisfazer as seguintes características representadas pelas
+    varáveis booleanas A, B e C: se a invenção é uma novidade,
+    A é verdadeiro; se a invenção apresenta atividade inventiva,
+    B é verdadeiro; se a invenção possui aplicação industrial, C é
+    verdadeiro. Nessa situação, a expressão booleana F que
+    representa a condição em que uma patente será aprovada,
+    com base nessas características, é F = AB + AC + BC.
+No que se refere a aplicações e princípios da eletrônica digital,
+julgue os itens que seguem.
+55 Conforme o primeiro teorema de De Morgan, o
+    complemento do produto de duas variáveis é igual à soma
+    dos complementos das variáveis individuais; em termos de
+    portas, ele pode ser expresso por  ∙  =  + .
+56 Em comparação com outras tecnologias de circuitos
+    integrados digitais, uma das vantagens dos dispositivos
+    lógicos programáveis é gerar um ciclo de projeto com menor
+    tempo de execução e custos reduzidos.
+57   A expressão  =  +  +  é a simplificação da expressão
+      =  +  +  + .
+58   A família TTL (transistor-transistor-logic) é a família de
+     lógica digital que apresenta a menor dissipação de energia,
+     enquanto a ECL (emitter-coupled logic) se destaca pela sua
+     velocidade, considerada a mais rápida entre todas as famílias
+     lógicas.
+59   Um circuito combinacional caracteriza-se por dependência
+     do valor atual: nele, o valor da saída no instante t depende
+     exclusivamente da combinação dos valores das entradas
+     nesse instante, e os estados anteriores não têm relevância. Já
+     o circuito sequencial caracteriza-se pela influência de
+     entradas anteriores: nele, o valor da saída no instante t não
+     depende apenas dos valores das entradas nesse instante, mas
+     também da sequência das entradas anteriores.
+60   Considere um sistema digital, composto por flip-flops e
+     portas lógicas, que opere de acordo com a equação de estado
+     Qn+1 = D ⊕ Qn, em que D é a entrada e Qn é o estado atual.
+     Nesse caso, o próximo estado Qn+1 será o resultado da
+     operação OU entre a entrada D e o estado atual Qn.
+61   O flip-flop é um dispositivo adequado para a transformação
+     de dados de série para dados em paralelo, enquanto o
+     decodificador é apropriado para a conversão do código BCD
+     para um display de sete segmentos.
+62   Um conversor digital-analógico de 5 bites que produz 0,3 V
+     na saída quando a entrada é 00001 produzirá 9,3 V de saída
+     se a entrada for 11111.
+63   Para a multiplexação de 32 canais de entrada por meio da
+     associação de 4 multiplexadores de 8 canais cada, é correto
+     conectar, em cada multiplexador, os mesmos sinais de
+     controle (select) e conectar, às entradas correspondentes de
+     cada multiplexador, os sinais de dados dos 32 canais.
+
+                               CEBRASPE – INPI – Edital: 2023
+
+OS ESPECÍFICOS --
+ 64   Um demux (demultiplexador) é um circuito lógico que aceita
+      uma entrada de dados e a distribui por várias saídas, com
+      base em linhas de seleção, ao passo que o decodificador
+      utiliza as linhas de seleção como linhas de entrada.
+ Julgue os itens seguintes, quanto            a   temporizadores,
+ microprocessadores e microcontroladores.
+ 65   Uma das premissas do temporizador com tempo de retardo é
+      que a carga seja acionada antes desse tempo e agilize a
+      velocidade de resposta.
+ 66   Multivibradores monoestáveis apresentam um estado estável
+      e um estado não estável na saída; por sua vez, os
+      multivibradores astáveis apresentam dois estados não
+      estáveis na saída.
+ 67   No PWM (pulse width modulation), a saída é projetada para
+      fornecer pulsos com largura de tempo em estado alto
+      ajustável por meio de software, o que permite controlar a
+      intensidade média do sinal PWM. Ao se ajustar o ciclo de
+      trabalho, é possível variar a quantidade de energia entregue
+      ao componente ou dispositivo conectado à saída PWM,
+      oferecendo controle preciso sobre o sistema.
+ 68   Um contador de ondulação de oito estágios que use um
+      flip-flop com atraso de propagação de 45 ns e largura de
+      pulso do estroboscópio de 40 ns terá operação adequada se a
+      frequência do sinal de entrada for de 2,5 MHz,
+      aproximadamente.
+ 69   O microcontrolador oferece diferentes protocolos de
+      comunicação serial, incluindo UART/Enhanced UART, SPI,
+      I2C e CAN bus, cada um destinado a finalidades específicas,
+      como a comunicação entre periféricos, chips e ambientes
+      industriais.
+ 70   Em       programas     para     armazenar    valores     nos
+      microcontroladores, apenas variáveis do tipo fixo Int
+      podem ser utilizadas.
+ Acerca de instrumentos utilizados em sistemas de
+ telecomunicações e eletrônicos, julgue os itens a seguir.
+ 71 O gerador de funções é um dispositivo que fornece uma
+      variedade de formas de onda controladas, para serem
+      utilizadas na avaliação e verificação de desempenho de um
+      equipamento sob teste.
+ 72 O analisador de rede é capaz de medir diversas
+      características de transferência, como resposta em
+      frequência, perda de retorno, perda de conversão e ganho
+      versus frequência; ele permite uma análise detalhada das
+      propriedades de um sistema, identificando como o sistema
+      responde a diferentes estímulos em várias frequências.
+ 73 O analisador de espectro permite visualizar a forma de onda
+      de sinais modulados, essenciais para compreender a
+      transmissão de dados através de cabos coaxiais e fios de par
+      trançado, sendo útil apenas na análise de sistemas de
+      comunicação via cabo.
+ 74 Em um osciloscópio, o botão DC OFFSET permite somar ao
+      sinal de saída um sinal alternado cujo valor pode ser variado
+      continuamente entre –x V e +x V, dependendo do fabricante.
+ 75 Para minimizar a interferência das pontas de prova de um
+      osciloscópio, é correto elevar a resistência de entrada do
+      osciloscópio de 10 MΩ para 100 MΩ, o que significa uma
+      atenuação de dez vezes no sinal detectado pela ponta de
+      prova.
+
+        Em determinada aplicação de telefonia digital, sinais
+analógicos de voz são digitalizados no sistema transmissor,
+transmitidos por um sistema digital e, enfim, são reconstruídos no
+sistema receptor.
+        Nessa aplicação, a digitalização é composta de três etapas:
+filtragem anti-aliasing, amostragem e quantização, nessa ordem.
+Na etapa de filtragem anti-aliasing, usa-se um filtro passa-baixas
+ideal com frequência de corte de 10 kHz. Na etapa de amostragem,
+usa-se um circuito de sample-and-hold. Na etapa de quantização,
+usa-se um conversor A/D com 512 níveis de classificação.
+        Por sua vez, a reconstrução é composta de duas etapas:
+conversão D/A e filtragem de reconstrução. Na etapa de conversão
+D/A, usa-se um sistema capaz de inverter adequadamente o
+processo de conversão A/D realizada no sistema transmissor. Na
+etapa de filtragem de reconstrução, usa-se um filtro passa-baixas
+ideal com frequência de corte de 10 kHz.
+Com base nessas informações, julgue os itens a seguir.
+76   A amostragem deve ser realizada a uma taxa de, no mínimo,
+     10.000 amostras por segundo, de modo a evitar aliasing.
+77   Caso a amostragem seja realizada a uma taxa de 5.000
+     amostras por segundo, uma eventual componente de 3 kHz
+     presente no sinal analógico de voz será reconstruída, no
+     sistema receptor, como uma soma de componentes de 2 kHz,
+     3 kHz, 7 kHz e 8 kHz.
+78   A conversão A/D deve ser realizada usando-se, no mínimo,
+     uma profundidade de 9 bits para codificar cada amostra do
+     sinal.
+79   O efeito do circuito de sample-and-hold equivale a uma
+     filtragem passa-altas.
+
+Um filtro analógico é caracterizado pela seguinte equação
+diferencial:
+                                    
+                         + 10  =              ,
+                                   
+em que  é o sinal de entrada,   é o sinal de saída e  é
+dado em segundos.
+Com base nessas informações e considerando             = , julgue os
+itens que se seguem.
+80   O ganho do referido filtro para a frequência ω = 10 rad/s é de
+     aproximadamente −20 dB.
+81   A resposta em frequência da função de transferência do
+                                   ௝ఠ
+     referido filtro é dada por           .
+                                  ଵ଴ା௝ఠ
+
+82   O módulo da função de transferência do filtro em questão é
+                    ఠమ
+     dado por  మ          .
+                ఠ ାଵ଴଴
+
+83   O filtro em apreço é um filtro passa-baixas de 1.ª ordem.
+                                                             ଶ ௡
+Considerando o sinal de tempo discreto              =    e
+                                                             ହ
+sabendo que a transformada Z de                é   , julgue os
+próximos itens.
+                ଵ
+84     =      మ      .
+             ଵି ௓ షభ
+                ఱ
+                                                         ଶ
+85     tem um zero em  = 0 e um polo em  = .
+                                                         ହ
+86   A região de convergência de   é || > 0.
+
+                                     CEBRASPE – INPI – Edital: 2023
+        Considerem-se os cinco sinais de tempo discreto ଵ ,
+ ଶ ,  ଷ , ସ  e ହ . Considere-se, ainda, que esses sinais
+apresentem valores não nulos para 0 ≤  <  e valores nulos
+para  < 0 ou  ≥ . Considere-se, também, que a transformada
+de Fourier discreta de  pontos de cada um desses sinais seja,
+respectivamente: ଵ , ଶ , ଷ , ସ  e ହ .
+Com base nessas informações e sabendo que ଷ  = ଵ  ⋅
+                                                         మഏ
+ଶ  e que ସ  = ே௞௠ ଵ , em que ே =  ି௝ ಿ , e, ainda,
+que ହ  = 8 ଵ  + 9 ଶ , julgue os itens a seguir.
+87    ଷ  corresponde à convolução linear do sinal ଵ  com o
+     sinal ଶ , isto é, ଷ  = ∑ஶ
+                                   ௠ୀିஶ ଵ  ଶ  − .
+88    ସ  corresponde a um deslocamento no tempo do sinal
+      ଵ , isto é,   ସ  =   ଵ  − .
+89   Se ଵ  for calculado usando-se a transformada rápida de
+     Fourier, então a complexidade computacional será reduzida
+     pela metade se comparada à complexidade computacional do
+     cálculo de ଵ  pela transformada de Fourier discreta
+     tradicional.
+90   ହ  = 8ଵ  + 9ଶ .
+
+       Um filtro digital é caracterizado pela seguinte equação de
+diferenças:
+                                 ଷ
+                        −  − 1 = ,
+                                 ଻
+
+em que  é o sinal de entrada e  é o sinal de saída.
+Com base nessas informações, julgue os itens a seguir.
+                                                                   ଵ
+91   A função de transferência do referido filtro é   =          య     ,
+                                                               ଵି ௭ షభ
+                                                                   ళ
+                                              ଷ
+     com região de convergência || > .
+                                              ଻
+92   O filtro em questão consiste em um passa-baixas de
+                                                               ଷ
+     1.ª ordem, logo tem um zero em  = 0 e polo em  = .
+                                                               ଻
+93   Em uma implantação, em tempo real, do referido filtro em
+     um processador digital de sinais, serão necessárias, no
+     mínimo, duas operações MAC (mutiply-accumulate) para se
+     calcular cada amostra do sinal de saída.
+94   O filtro em apreço é do tipo FIR (finite impulse response) e
+                                              ଷ ௡
+     sua resposta ao impulso é ℎ =   .
+                                              ଻
+95   O referido filtro é um sistema causal e estável.
+
+No que diz respeito a TV digital, julgue os itens seguintes.
+96   A modulação OFDM envia múltiplos sinais em uma mesma
+     frequência através da multiplexação por divisão de
+     frequência.
+97   O protocolo MPEG-2 é utilizado na camada de modulação
+     do modelo de TV digital presente no Brasil.
+98   Uma das vantagens da camada de middleware é permitir a
+     portabilidade de aplicações para diferentes receptores que
+     suportem o middleware adotado.
+99   O ATSC evoluiu para uma arquitetura de sistema em camada
+     única.
+100 A técnica SISO possui um melhor desempenho para a
+     redução de interferências destrutivas que a técnica MISO.
+
+Referentemente à codificação de áudio, julgue os itens
+subsequentes.
+101 Nos codificadores lossless, não há perdas geradas no
+    momento da compressão.
+102 Nos codificadores lossless, quanto maior for a quantidade de
+    informação redundante no áudio, maior será o tamanho do
+    arquivo ao final da compressão.
+103 Os codificadores com perda consideram as características da
+    audição humana para detectar informações ignoradas pelo
+    ouvido humano.
+104 Os codificadores de sub-banda exploram as redundâncias do
+    sinal de áudio no domínio do tempo.
+105 Uma das desvantagens da codificação por transformação é a
+    sua capacidade de trabalhar somente com áudio de baixa
+    fidelidade.
+
+Considerando o processamento de sinais de áudio, julgue os itens
+seguintes.
+106 Se a banda do sinal de áudio de um CD for de 20 kHz, então,
+    para que ele possa ser perfeitamente reconstruído, a
+    frequência de amostragem deverá ser de, no mínimo, 30
+    kHz.
+107 Um dos problemas encontrados em decomposição por
+    sub-bandas de um sinal de áudio é a resposta imperfeita em
+    frequência dos filtros digitais.
+108 A utilização de sobreamostragem simplifica o hardware
+    analógico utilizado em um sistema de som, mas, por outro
+    lado, aumenta a taxa de dados.
+109 Os algoritmos de codificação de áudio operam sobre o sinal
+    contínuo no tempo.
+110 O uso de conversor analógico-digital Sigma-Delta dificulta a
+    utilização de      sobreamostragem     em     sistemas   de
+    alta-fidelidade.
+
+Em relação às metodologias e tecnologias envolvidas no
+processamento digital de imagens, julgue os próximos itens.
+111 Uma imagem colorida é uma função bidimensional discreta
+    cujas variáveis são espaciais, e o valor da função em
+    qualquer ponto é inversamente proporcional à intensidade
+    luminosa.
+112 O processamento digital de imagens se inicia com a captura
+    da imagem, a qual pode ser considerada como a iluminação
+    refletida na superfície dos objetos.
+113 O    pré-processamento envolve a filtragem de ruídos
+    introduzidos por sensores e a correção das distorções
+    advindas do próprio sensor.
+114 Para separar o objeto do pano de fundo, podem ser utilizadas
+    técnicas como segmentação, regularização e modelagem.
+115 Combinando-se três a três e em diferentes intensidades as
+    cores primárias do modelo cromático RGB, obtêm-se as
+    cores secundárias ciano, magenta e amarelo.
+
+                             CEBRASPE – INPI – Edital: 2023
+Julgue os itens que se seguem, relativos ao processamento e à
+codificação de vídeos.
+116 Em um sinal de vídeo entrelaçado, a varredura das linhas de
+    tela primeiramente percorre as linhas ímpares e depois as
+    pares.
+117 Os padrões MPEG especificam o processo de codificação,
+    mas não estabelecem os requisitos de sintaxe e semântica das
+    sequências de bits e o processo de decodificação.
+118 O MPEG utiliza o processo de subamostragem de cor, no
+    qual são levadas em consideração as características do
+    sistema visual humano.
+119 Uma fonte de sinal de vídeo colorido deve ter três
+    componentes: uma de luminância e duas de crominância,
+    que, combinadas, definem a tonalidade da cor.
+120 Os valores de pixels são independentes, sem correlação com
+    seus vizinhos tanto no mesmo frame quanto entre frames
+    consecutivos.
+Espaço livre
+

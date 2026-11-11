@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-9 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-9 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -26,102 +26,32 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 
 ## ITENS
 ### v1-9-01 | gab=C
-Em um projeto ágil, a gestão das tarefas a realizar normalmente é iniciada com um backlog limitado de produtos com requisitos de alto nível de abstração, limitando a realidade ao que é relevante a este nível mais genérico. No que concerne à qualidade do código e de sistemas e à abordagem DevOps, julgue os itens subsequentes.
-### v1-9-02 | gab=E
-Um elevador acionado por parafusos de potência pode baixar sozinho se, por qualquer razão, o coeficiente de fricção da rosca se tornar maior que a tangente do ângulo de avanço da rosca. Em um datacenter, problemas na climatização colocam em risco a operação e a integridade dos equipamentos de tecnologia. Com muitos servidores gerando calor constantemente, uma climatização eficiente é crucial para evitar superaquecimento e manter o funcionamento adequado. Considere que, recent
+As APIs do tipo REST, também chamadas de APIs RESTful, utilizam o protocolo HTTP e oferecem suporte à criptografia TLS (Transport Layer Security), mantendo a privacidade em uma conexão HTTPS na Internet.
+### v1-9-02 | gab=C [texto-base: Julgue os itens subsecutivos, relativos à arquitetura orientada a serviços (SOA), à arquitetura distribuída, à especificação de web services e a dispositivos mó]
+APIs RESTful utilizam formatos leves, como JSON ou XML, enquanto APIs SOAP utilizam exclusivamente XML para a troca de dados.
 ### v1-9-03 | gab=C
-Webhooks permitem conectar aplicativos e sistemas de modo que eles compartilhem dados em tempo real, por meio de funções de retorno de chamada baseadas em HTTP que viabilizam a comunicação orientada por eventos entre os sistemas.
-### v1-9-04 | gab=C
-Quando os desenvolvedores de software não testam a compatibilidade de bibliotecas atualizadas ou corrigidas, isso caracteriza um problema de segurança que o OWASP nomeia como componentes vulneráveis e desatualizados.
+De acordo com a Lei n.º 8.666/1993 e suas alterações, nas contratações para aperfeiçoamento de sistemas de TI considerados estratégicos em ato do Poder Executivo federal, a licitação poderá ser restrita a bens e serviços com tecnologia desenvolvida no Brasil.
+### v1-9-04 | gab=E
+O processo de formação de uma política pública começa com a análise das alternativas para a solução de um problema público.
 ### v1-9-05 | gab=C
-Na arquitetura de microsserviços, o problema de memory leak em um dos serviços não derruba a aplicação inteira, pois esses serviços estão isolados uns dos outros.
+A técnica de SQL injection permite que um atacante insira ou manipule consultas SQL em uma aplicação vulnerável, de maneira a provocar a execução de comandos maliciosos no banco de dados, ao passo que o XSS (cross-site scripting) explora vulnerabilidades para injetar scripts maliciosos em páginas web visualizadas por outros usuários.
 ### v1-9-06 | gab=C
-Um plano de contingência pode descrever, por exemplo, que certos processos automatizados em um sistema de informação comprometido devem ser executados manualmente, enquanto se busca a recuperação do sistema.
+A técnica de Kanban é uma forma simples de visualizar o andamento das tarefas da equipe durante uma sprint de Scrum. Nessa técnica, as tarefas são representadas por meio de pequenos papéis que indicam o que está pendente, em desenvolvimento e finalizado. Com isso, todos visualizam os gargalos e a equipe se organiza melhor, principalmente quando o projeto envolve ciclos longos de desenvolvimento.
 ### v1-9-07 | gab=E
-Na estratégia de paralelismo, sistemas legados e novos são executados de forma independente, o que reduz custos operacionais e elimina a necessidade de sincronização de dados, garantindo migração eficiente e sem duplicação de esforços.
+O teste de integração é o mais adequado para verificar se as alterações em um branch do GIT não afetaram negativamente as funcionalidades existentes do sistema, no sentido de evitar a introdução de novos bugs ou a reintrodução de problemas antigos. JUSTIFICATIVA - Errado. O tipo de teste mais adequado para essa situação (verificar se as alterações feitas em uma branch do GIT, ramificação da main de um repositório, não afetaram negativamente as funcionalidades existentes do si
 ### v1-9-08 | gab=E
-JSON e XML são representações usadas para a troca de dados entre aplicações, sendo o XML mais adequado para a troca de dados de forma organizada, e o JSON, quando são exigidas informações de metadata.
-### v1-9-09 | gab=E
-Para bloquear um ataque de XSS (cross-site script) a uma aplicação web, é suficiente desativar o suporte a XML no navegador do usuário.
+A principal função do Jenkins em uma automação CI/CD (continuous integration/continuous delivery) é revisar o código com base no clean code à procura de bugs, falhas de vulnerabilidade ou problemas de manutenção que tornem seu código confuso e difícil de manter.
+### v1-9-09 | gab=C
+Para redirecionar estrategicamente as suas ações, a empresa deve viabilizar uma atuação conjunta entre gestão de pessoas e pesquisa, com o objetivo de definir, com maior precisão, o perfil dos profissionais para o desenvolvimento das ações pretendidas.
 ### v1-9-10 | gab=C
-O uso da última versão do TLS é recomendado para a criação de túneis de comunicação criptografados, considerando as versões de algoritmos simétricos e assimétricos seguros.
+Um API gateway atua como um ponto central de entrada para várias APIs e desempenha um papel importante na simplificação da gestão de tráfego, autenticação, autorização e monitoramento das chamadas de API.
 ### v1-9-11 | gab=E
-Um tópico pode ser utilizado pela simples adição de um novo evento de mensagem e, se necessário, pode ser editado.
-### v1-9-12 | gab=E
-Na metodologia XP, o refatoramento consiste na implementação das funcionalidades cujos componentes do código-fonte devem ser integrados várias vezes, à medida que tais funcionalidades sejam desenvolvidas e testadas unitariamente.
+No caso de uma obra pública recém-concluída que apresente vazamento no sistema hidráulico, comprovadamente ocasionado por má-fé de um empregado, o contratado está desobrigado de corrigir o defeito a suas expensas, devendo a administração arcar com essa despesa, movendo ação regressa contra aquele empregado. Durante a realização das escavações para a construção de uma garagem subterrânea em uma obra pública, percebeu-se a necessidade de se escorar o terreno, pois as edificaçõe
+### v1-9-12 | gab=C
+Na abordagem balanced team do Scrum, um grupo central de participantes da equipe de desenvolvimento faz reuniões de pré-planejamento semanalmente, sendo necessária a participação da equipe completa apenas na última semana do pré-planejamento da sprint atual. As métricas de produtividade são utilizadas para avaliar a eficiência e a eficácia das equipes e dos processos de desenvolvimento de software. A respeito dessas métricas, julgue os itens a seguir.
 ### v1-9-13 | gab=E
-Um sistema de processamento em lote requer interação constante do usuário durante a execução dos jobs para completar as tarefas corretamente.
-### v1-9-14 | gab=E
-A integração contínua é um compilado organizado de vários componentes de serviço que reúne itens, como conectores de banco de dados, interface de usuário e regras de negócio, de forma que essas partes todas juntas possam realizar ações e comandos diversos.
+No Azure DevOps, é possível implementar a entrega contínua do software para registros de contêiner como o Docker Hub e o registro de contêiner do Azure, não sendo possível, nesses casos, a utilização do Kubernetes.
+### v1-9-14 | gab=C
+A LGPD não se aplica à proteção de dados de pessoas jurídicas.
 ### v1-9-15 | gab=E
-JWT (JSON web tokens) é um método de token criptografado com chave pública baseada em biometria de autenticação e, portanto, pode funcionar integrado ao celular de um usuário. JUSTIFICATIVA - Errado. JWT é um tipo de token de autenticação, entretanto não é baseado em biometria de autenticação do celular do usuário.
-### v1-9-16 | gab=C
-A instrução SQL a seguir tem por finalidade listar os números dos advogados na OAB (advogado_oab_numero) e o total de processos (total_processos), mas somente daqueles que possuem mais de cinco processos. SELECT advogado_oab_numero, count(*) as total_processos FROM processo GROUP BY advogado_oab_numero HAVING count(*) > 5; No que diz respeito aos sistemas gerenciadores de banco de dados (SGBD) Oracle 21C e MySQL, julgue os itens seguintes.
-### v1-9-17 | gab=E
-No DDD, o ACL (anti-corruption layer) é utilizado para a tradução de modelos entre bounded contexts, mas sua implementação exige que todas as comunicações sejam assíncronas, sendo o seu uso inviabilizado em sistemas síncronos.
-### v1-9-18 | gab=C
-Considere-se que seja necessário criar uma API Gateway para um serviço back-end que responde a solicitações HTTP na rota /api/fiscalização. Nessa situação hipotética, na etapa de configuração da rota para o serviço de back-end, é necessário especificar, na API Gateway, o método HTTP (GET, POST etc.) que a aplicação back-end suporta, para que a integração funcione corretamente. Tendo em vista que, no atual cenário de desenvolvimento de aplicações web, é essencial considerar pr
-### v1-9-19 | gab=E
-Na modelagem da metodologia CRISP-DM, métodos como validação cruzada e métricas de desempenho são empregados para se avaliar o quão bem os modelos se saem em dados não vistos. JUSTIFICATIVA - Errado. A metodologia CRISP-DM é composta por seis fases interativas que guiam os profissionais de ciência de dados durante todo o processo de descoberta de conhecimento a partir de dados. Compreensão do negócio (business understanding): antes de iniciar um projeto de análise de dados,
-### v1-9-20 | gab=C
-A configuração de variáveis de ambiente específicas em um contêiner Docker utilizando o comando docker create permite que essas variáveis sejam definidas antes da inicialização do contêiner, o que garante maior controle sobre o ambiente de execução.
-### v1-9-21 | gab=E
-O conceito de shift-left do DevSecOps refere-se à criação de um processo separado para avaliação de riscos e exposições de segurança ao final da fase build, com somente a aplicação de testes de segurança e de forma concentrada na fase test.
-### v1-9-22 | gab=C
-O Active Directory possui um conjunto de regras (esquema), que define as classes de objetos e os atributos contidos no diretório, e um serviço de replicação, que distribui os dados do diretório para outro controlador de domínio.
-### v1-9-23 | gab=E
-No contexto das equipes de desenvolvimento de software, o DevSecOps representa uma evolução pelo fato de integrar ao processo uma equipe específica que trata exclusivamente da segurança de software, liberando as equipes de desenvolvimento e operacionais dessa tarefa, de forma a agilizar significativamente a entrega do software.
-### v1-9-24 | gab=C
-Na modelagem de dados, normalmente se cria uma tabela de fatos que contém os nomes dos fatos ou as medidas das tabelas dimensionais relacionadas.
-### v1-9-25 | gab=E
-No RabbitMQ, o stream é uma estrutura de dados não persistente que pode armazenar mensagens de produtores que são lidas pelos consumidores, diferenciando-se das filas por não ser replicado.
-### v1-9-26 | gab=E
-Na sprint planning, o product owner é o responsável, para cada item do product backlog, por planejar e definir a forma como será executado o trabalho necessário para criar um incremento que atenda à definição de pronto no Scrum.
-### v1-9-27 | gab=E
-Na fase de desenvolvimento do Scrum, os requisitos são escritos no product backlog.
-### v1-9-28 | gab=C
-Na situação hipotética apresentada, o RabbitMQ poderia ser utilizado como message broker, pois essa solução permite intermediar a comunicação entre diferentes componentes de um sistema, permitindo que eles se comuniquem de forma assíncrona e desacoplada, e pode, nesse caso, realizar manutenção nos gerenciadores de notificação sem interromper todo o serviço.
-### v1-9-29 | gab=E
-A sintaxe e a lógica do programa apresentado mostram corretamente uma forma de polimorfismo do tipo override. import { Component } from '@angular/core'; @Component({ selector: 'app-root', templateUrl: './app.component.html', styleUrls: ['./app.component.css'] }) export class AppComponent { document.write ('TBG!'); }
-### v1-9-30 | gab=C [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-Considerada uma técnica sistemática para construir a arquitetura de software concomitantemente à realização de testes para descobrir erros associados às interfaces, o teste de integração realiza testes a partir de componentes testados em unidade.
-### v1-9-31 | gab=C
-Em virtualização, um hipervisor é definido como sendo um componente de software que gerencia várias máquinas virtuais em um computador, garantindo que cada uma delas receba os recursos alocados e não interfira na operação de outras máquinas virtuais.
-### v1-9-32 | gab=C
-Durante o período do BDD, os planos serão validados pelos desenvolvedores conforme previsto pelo TDD por meio de ferramentas de teste como JUnit e Mockito.
-### v1-9-33 | gab=C [texto-base: Julgue os itens subsequentes, relativos a CIS controls, assinatura e certificação digital, segurança em nuvens e ao que dispõe a Lei Geral de Proteção de Dados ]
-Em ambientes de nuvem pública, a responsabilidade pela configuração segura dos recursos provisionados acima da camada de virtualização recai essencialmente sobre o cliente, inclusive no modelo IaaS, independentemente das proteções físicas e lógicas disponibilizadas pelo provedor.
-### v1-9-34 | gab=C [texto-base: Julgue os itens a seguir, relacionados a disposições da Lei Geral de Proteção de Dados (LGPD), a serviços públicos digitais e a inteligência artificial.]
-A crescente adoção de soluções tecnológicas baseadas em inteligência artificial pelos tribunais brasileiros, a diversidade das ferramentas e a falta de uniformidade nas soluções adotadas têm incluído complexidade aos processos de avaliação de consistência e de comparabilidade dos resultados.
-### v1-9-35 | gab=C
-Kubernetes é um software de orquestração que fornece uma API para controlar como e onde os contêineres serão executados; o uso desse software com o Docker pode tornar a infraestrutura mais robusta e fazer com que o aplicativo que os utiliza esteja mais disponível e mais escalonável.
-### v1-9-36 | gab=C [texto-base: A respeito do OWASP Top 10 e SAMM, bem como de continuidade de negócios e recuperação de desastres de segurança da informação, julgue os itens a seguir.]
-No contexto da implementação da continuidade de negócios de segurança da informação, de acordo com a NBR ISO/IEC 27002:2013, importa que uma organização disponha de planos documentados e procedimentos de recuperação e resposta desenvolvidos e aprovados, que detalhem como a organização irá gerenciar um evento de interrupção e como manterá a sua segurança da informação em um nível predeterminado, com base nos objetivos de continuidade da segurança da informação aprovados pela d
-### v1-9-37 | gab=E
-De acordo com a norma ISO 25010, o modelo de qualidade em uso aplicado ao software descreve as seguintes características: adequação funcional, eficiência de desempenho, compatibilidade, usabilidade, confiabilidade, segurança, facilidade de manutenção e portabilidade.
-### v1-9-38 | gab=E
-No Power BI, há uma limitação de integração de ferramentas de visualização de dados com linguagens de programação, principalmente porque esse software é restrito às linguagens DAX (data analysis expressions) e M (power query) e não suporta linguagens como R e Python para análises estatísticas avançadas e aprendizado de máquina.
-### v1-9-39 | gab=E
-Uma DLT é uma tecnologia de criptografia de chave assimétrica em que as chaves pública e privada ficam separadas, sendo utilizada para proteger livros-razão em blockchain, em que os dados são armazenados em blocos interligados em uma cadeia.
-### v1-9-40 | gab=E
-O início da personalidade civil das pessoas físicas ocorre com a concepção, e o das associações de direito privado, com a inscrição de seus atos constitutivos no registro peculiar, desde que tenham sido previamente aprovados pelo Poder Executivo.
-### v1-9-41 | gab=C
-O descarte orientado é uma técnica de manejo de animais que permite a renovação genética e a manutenção de um rebanho mais eficiente, contribuindo para a sustentabilidade da atividade pecuária.
-### v1-9-42 | gab=E [texto-base: No que se refere aos protocolos DHCP e IMAP, aos sistemas de segurança IPS, aos modelos de nuvem, ao ambiente Linux e ao Microsoft Windows Server, julgue os ite]
-A normalização de dados é a estratégia de criação de índices compostos para melhorar a performance das consultas em grandes volumes de dados.
-### v1-9-43 | gab=C
-Em orientação a objetos, os membros de dados de uma classe devem ser acessados por um método específico do objeto, e não diretamente.
-### v1-9-44 | gab=E
-O processo ETL (extrair, transformar e carregar) permite analisar grandes volumes de dados de forma rápida; para isso, é necessário duplicar o espaço em disco e triplicar o tempo no carregamento e na transformação de dados em relação ao ELT (extrair, carregar e transformar), que compacta os dados no carregamento.
-### v1-9-45 | gab=C
-Quando ocorre um incidente de segurança que impacta o correto funcionamento de um sistema de TI, pode-se recorrer ao plano de contingência para a manutenção da continuidade do negócio.
-### v1-9-46 | gab=C
-As bibliotecas adquirem coleções de livros digitais licenciados conforme as diretrizes e modelos de negócio ditados pelos agentes da cadeia de valor do mercado editorial, embora sejam as maiores consumidoras desse tipo de material.
-### v1-9-47 | gab=C
-Ao implantar um sistema de gestão de segurança da informação (SGSI), a empresa deve identificar falhas e incidentes de segurança da informação de forma mais rápida e precisa, a fim de agilizar o tempo de resposta e prevenir incidentes futuros.
-### v1-9-48 | gab=E [texto-base: Considerando que a amostra {0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1} foi extraída para realizar um teste de hipóteses, julgue os itens subseq]
-A estatística do teste para testar a hipótese H0: P = 0,5 contra H1: P … 0,5, em que P representa a proporção de empresas cujo CNPJ está regular, é maior que 2.
-### v1-9-49 | gab=C
-Na arquitetura em camadas, os componentes da camada mais interna opera o sistema operacional, ao passo que os da camada mais externa interagem com o usuário.
-### v1-9-50 | gab=C
-A quetamina é uma droga hipnótica com propriedades broncodilatadoras, sendo, portanto, a droga de escolha para pacientes com grave broncoespasmo. Uma paciente do sexo feminino, previamente hígida, de 27 anos de idade, iniciou quadro de disúria, polaciúria e hematúria havia 3 semanas. Fez uso de medicação, sem prescrição médica, com melhora parcial. Procurou a emergência de um hospital para atendimento, após piora do estado geral, apresentando dor lombar à direita, febre, náus
+Na técnica etnografia utiliza-se um conjunto predefinido de questões; a equipe de engenharia de requisitos explora essa série de questões com os stakeholders do sistema, de modo a obter a compreensão de suas necessidades.

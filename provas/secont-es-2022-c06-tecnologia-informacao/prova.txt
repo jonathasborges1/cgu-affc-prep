@@ -1,0 +1,574 @@
+690006_01N519891
+
+-- CONHECIMENTOS
+CIÊNCIA DE DADOS, MINERAÇÃO DE DADOS,
+MODELAGEM DIMENSIONAL E BIG DATA
+Considerando o DMBOK, julgue os itens subsequentes, a
+respeito de técnicas em qualidade de dados.
+Entre as dimensões da qualidade de dados, a consistência
+refere-se ao grau em que os dados representam corretamente
+as entidades do mundo real.
+72 Profiling data ajuda a identificar problemas, mas não
+identifica a sua origem nem determina o seu impacto nos
+processos de negócios.
+71
+
+create table produto (
+id integer,
+descricao varchar(50),
+unidade varchar(10),
+constraint produto_pk primary key (id)
+);
+create table composto_de (
+produto_id integer,
+produto_ingrediente integer,
+quantidade integer,
+constraint
+composto_de_pk
+primary
+key(produto_id, produto_ingrediente),
+constraint
+composto_de_ingredientte_fk
+foreign
+key
+(produto_ingrediente)
+references
+produto(id),
+constraint
+composto_de_produto_fk
+foreign
+key (produto_id) references produto(id)
+);
+insert into produto (id, descricao, unidade)
+values (1,'Pão','unidade');
+insert into produto (id, descricao, unidade)
+values (2,'Hamburguer de Carne','unidade');
+insert into produto (id, descricao, unidade)
+values (3,'Queijo', 'fatia');
+insert into produto (id, descricao, unidade)
+values (4, 'Alface','folha');
+insert into produto (id, descricao, unidade)
+values (5, 'Tomate','fatia');
+insert into produto (id, descricao, unidade)
+values (6,'Batata palha','50 g');
+insert into produto (id, descricao, unidade)
+values (7,'Molho especial','pacote');
+insert into produto (id, descricao, unidade)
+values (8,'Big X','unidade');
+insert into produto (id, descricao, unidade)
+values (9,'X Burguer','unidade');
+insert into produto (id, descricao, unidade)
+values (10,'Refrigerante','lata');
+insert into produto (id, descricao, unidade)
+values (11,'Batata frita','100 g');
+insert into produto (id, descricao, unidade)
+values (12,'Combo X Burguer','combo');
+
+
+CEBRASPE – SECONT/ES – Edital: 2022
+
+ESPECIALIZADOS --
+
+FimDoTexto
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (8, 1, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (8, 2, 2 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (8, 3, 2 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 1, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 2, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 3, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 4, 2 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 5, 3 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (9, 6, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (12, 9, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (12, 10, 1 );
+insert
+into
+composto_de
+(produto_id,
+produto_ingrediente, quantidade) values (12, 11, 2 );
+select p.descricao, pd.descricao, pd.unidade,
+c.quantidade
+from produto p, composto_de c, produto pd
+where p.id=c.produto_id
+and pd.id=c.produto_ingrediente
+and p.id=12;
+
+Tendo como referência as expressões SQL anteriores, julgue o
+item a seguir, a respeito de modelagem de dados e SQL.
+73
+
+O resultado da execução das expressões em tela é
+apresentado a seguir.
+
+Julgue o item a seguir, a respeito de modelagem de dados.
+74
+
+A restrição de disjunção especifica que as subclasses da
+especialização devem ser conjuntos disjuntos, isto é, uma
+entidade pode ser membro de, no máximo, uma das
+subclasses da especialização.
+
+Acerca de arquiteturas e soluções de Big Data, julgue os itens
+seguintes.
+75
+
+No ecossistema Apache Hadoop, as tabelas HBase são
+distribuídas no cluster por meio de regiões, as quais são
+automaticamente divididas e redistribuídas à medida que
+seus dados crescem.
+
+76
+
+Kappa, uma arquitetura de software usada para processar
+dados, fornece acesso a métodos de processamento em lote e
+processamento de fluxo com uma abordagem em quatro
+camadas.
+
+
+690006_01N519891
+
+Julgue o item a seguir, a respeito de ingestão de dados.
+77
+
+A ingestão em tempo real ocorre quando os dados são
+carregados dos sistemas transacionais para os banco de
+dados NoSQL em horários pré-agendados, por exemplo, em
+um horário em que o sistema transacional seja menos
+requisitado.
+
+Julgue o item a seguir, relativo ao processamento MapReduce.
+78
+
+A implementação do MapReduce é responsável por quebrar
+os dados em pedaços, criar várias instâncias das funções map
+e reduzi-las, alocá-las e ativá-las em máquinas disponíveis na
+infraestrutura física, além de monitorar os cálculos para
+eventuais falhas.
+
+CREATE (e1:COLABORADOR, {Empid: '1', Sobrenome:
+'Silva', Nome: 'Pedro', Minimo: 'B'})
+CREATE (e2:COLABORADOR, {Empid: '2', Sobrenome:
+'Ferreira', Nome: 'Bruno'})
+CREATE (e3:COLABORADOR, {Empid: '3', Sobrenome:
+'Abdrade', Nome: 'Alice'})
+CREATE (e4:COLABORADOR, {Empid: '4', Sobrenome:
+'Nascimento', Nome: 'Bruna', Minimo: 'S'})
+CREATE
+
+(d1:DEPARTMENTO,
+
+{Dno:
+
+'5',
+
+Dnome:
+
+{Dno:
+
+'4',
+
+Dnome:
+
+'Vendas'})
+CREATE
+
+(d2:DEPARTMENTO,
+
+'Pessoal'})
+CREATE (e1) – [:TrabalhaEm ] –> (d1)
+CREATE (e3) – [:TrabalhaEm ] –> (d2)
+CREATE (e2) – [:TrabalhaEm ] –> (d1)
+CREATE (e4) – [:TrabalhaEm ] –> (d1)
+MATCH
+
+(e:COLABORADOR)
+
+-
+
+[t:TrabalhaEm]-
+
+>(d:DEPARTAMENTO)
+return e.Nome, t, d.Dnome
+
+Considerando as expressões Neo4j precedentes, julgue o item
+seguinte.
+79
+
+O resultado da execução das expressões em tela é
+apresentado a seguir.
+!e.Nome|d.Dnome|
++------+-------+
+!Pedro |Vendas |
+!Bruno |Vendas |
+!Bruna |Vendas |
+!Alice |Pessoal|
+
+Acerca de armazenamento de dados, julgue o item subsecutivo.
+80
+
+Os documentos do MongoDB são armazenados em tabelas e
+colunas no formato que suporta SQL como sua linguagem de
+acesso principal.
+
+
+CEBRASPE – SECONT/ES – Edital: 2022
+
+AUDITORIA E FISCALIZAÇÃO DE CONTRATOS
+DE TECNOLOGIA DA INFORMAÇÃO
+À luz da Instrução Normativa MPOG/SLTI n.º 1/2019, julgue os
+itens subsecutivos, relativos à gestão de contratos de TI.
+81
+
+Cabe ao gestor do contrato o encaminhamento, para a área
+administrativa, de indicação de eventual aplicação de glosa
+no pagamento de uma empresa contratada.
+
+82
+
+A aderência aos termos contratuais durante a execução dos
+serviços deve ser verificada pelo fiscal administrativo do
+contrato.
+
+83
+
+Cabe ao fiscal administrativo do contrato a verificação das
+regularidades fiscais, trabalhistas e previdenciárias para fins
+de pagamento ao fornecedor.
+
+84
+
+A avaliação da qualidade dos serviços realizados de acordo
+com os critérios de aceitação definidos em contrato é de
+responsabilidade tanto do fiscal técnico quanto do
+requisitante do contrato.
+
+No que diz respeito à auditoria de aquisições de bens e serviços
+de TI e à fiscalização de contratos de TI, julgue os itens
+subsequentes.
+85
+
+Conforme a Lei n.º 14.133/2021, é vedado ao contratado
+contratar cônjuge de dirigente do órgão ou da entidade
+contratante que atue na fiscalização do contrato,
+independentemente de que essa proibição conste
+expressamente do edital de licitação.
+
+86
+
+As penalidades e sanções administrativas a serem aplicadas
+no caso de descumprimento parcial de cláusulas de nível de
+serviço (SLA) não necessariamente devem estar definidas no
+edital e no contrato, observando-se os princípios da
+razoabilidade e da discricionariedade do agente público.
+
+87
+
+Na contratação de serviço terceirizado, especialmente no que
+se refere à definição das cláusulas de nível de serviço (SLA),
+a Lei n.º 14.133/2021 prevê que a administração pública
+defina formas de pagamento mediante exclusivo reembolso
+dos salários pagos, de modo a garantir o equilíbrio financeiro
+entre as partes.
+
+88
+
+De acordo com a Lei n.º 14.133/2021, maior desconto é um
+critério de julgamento das propostas que terá como
+referência o preço global fixado no edital de licitação, sendo
+o desconto estendido aos eventuais termos aditivos.
+
+89
+
+Nos termos da Lei n.º 8.666/1993, toda compra deve contar
+com a adequada caracterização de seu objeto, com
+especificação completa do bem, mas sem indicação de
+marca, e com a indicação de recursos orçamentários para seu
+pagamento.
+
+90
+
+Segundo a Lei n.º 8.666/1993, a execução do contrato deverá
+ser fiscalizada por um representante da administração
+pública, sendo permitida a contratação de terceiros para
+subsidiá-lo de informações pertinentes a essa atribuição.
+
+
+690006_01N519891
+
+DESENVOLVIMENTO DE SISTEMAS
+DE COMPUTAÇÃO
+Julgue os próximos itens, a respeito de banco de dados.
+91 Uma cardinalidade N:N no modelo lógico de um banco de
+dados relacional gera três tabelas no modelo físico.
+92 Os índices são tabelas diferenciadas ordenadas por
+determinado critério e com ponteiros para a localização
+física das linhas.
+93 A implementação de uma view consiste na geração de uma
+tabela física que consolida os dados de outras tabelas do
+banco de dados.
+Com relação à interoperabilidade de sistemas, julgue os itens a
+seguir.
+No padrão MVC, o controller é responsável por gerenciar o
+comportamento dos dados por meio de funções e regras de
+negócio predefinidas.
+95 Web services são aplicações especializadas do tipo clienteservidor para a troca de dados entre computadores de redes
+distintas.
+96 No formato JSON, as informações são representadas por
+uma coleção de pares nome/valor, o que permite acessar um
+valor específico pelo nome desejado.
+94
+
+Com relação a dado, informação e conhecimento, julgue os itens
+subsecutivos.
+Os termos CÉU e AZUL, quando utilizados separadamente,
+representam dados, enquanto a expressão CÉU É AZUL
+representa uma informação.
+98 O conhecimento é obtido a partir de um conjunto de
+informações inseridas em um mesmo e específico contexto.
+97
+
+SEGURANÇA DA INFORMAÇÃO
+E PROTEÇÃO DE DADOS
+Julgue os itens a seguir, a respeito de políticas de segurança da
+informação, segurança de redes de computadores e prevenção e
+tratamento de incidentes.
+99 A NBR ISO/IEC 27002 recomenda que a análise crítica da
+política de segurança da informação seja focada em responder
+diretamente aos investimentos e ao reconhecimento
+organizacional em relação ao valor da segurança da
+informação.
+100 Conforme a NBR ISO/IEC 27002, convém que o critério
+para segregação de redes em domínios seja baseado na
+avaliação de requisitos de segurança da informação, como a
+política de controle de acesso, o valor e a classificação da
+informação processada.
+101 Conforme a NBR ISO/IEC 27001, a informação
+documentada de origem externa necessária para a eficácia do
+sistema de gestão de segurança da informação e voltada ao
+planejamento global e à sua operação deve ser classificada
+como pública no âmbito da organização, dispensando-se
+restrições e controles adicionais de acesso.
+102 Segundo a NBR ISO/IEC 27002, é apropriado que a gestão
+de vulnerabilidades técnicas esteja alinhada à gestão de
+incidentes, para comunicar dados sobre as vulnerabilidades
+às funções de resposta a incidentes e fornecer procedimentos
+técnicos, caso ocorra um incidente.
+
+
+CEBRASPE – SECONT/ES – Edital: 2022
+
+Julgue os itens a seguir, com relação a sistemas de proteção
+antispam, a normas da NBR ISO/IEC 27005, aos planos de
+continuidade de negócios e a disposições da Lei Geral de
+Proteção de Dados Pessoais (LGPD).
+103 Conforme definido pela LGPD, o relatório de impacto à
+
+proteção de dados pessoais é a documentação do controlador
+que contém a descrição dos processos de tratamento de
+dados pessoais que podem gerar riscos às liberdades civis e
+aos direitos fundamentais, bem como medidas, salvaguardas
+e mecanismos de mitigação de risco.
+104 Em sistemas de filtros antispam, eventual colocação de
+
+emails legítimos em quarentena caracteriza a ocorrência de
+falso negativo.
+105 De acordo com a NBR ISO/IEC 27005, na avaliação das
+
+consequências da análise de riscos, o valor do impacto de um
+ativo de informação afetado por uma violação de segurança é
+integralmente determinado pelo custo da recuperação e da
+reposição da informação.
+106 Os planos de continuidade de negócios devem incluir
+
+detalhes das ações que as equipes executarão para monitorar
+o impacto da disrupção e a resposta da organização sobre ela.
+GESTÃO, QUALIDADE E GOVERNANÇA
+DE TECNOLOGIA DA INFORMAÇÃO
+E ENGENHARIA DE SOFTWARE
+Julgue os itens subsequentes, a respeito de gestão, qualidade e
+governança de tecnologia da informação e engenharia de
+software.
+107 No
+
+estágio
+
+operação
+
+de
+
+serviços
+
+de
+
+ITIL
+
+v3,
+
+o
+
+gerenciamento de problema é responsável por gerenciar o
+ciclo de vida de todos os problemas, para prevenir, de forma
+proativa, a ocorrência de incidentes, embora não interfira no
+impacto dos incidentes que não podem ser evitados.
+108 O processo gerenciamento de problema encontra-se no
+
+COBIT 5 e é acionado por meio dos habilitadores, que
+constituem o mecanismo de tradução das necessidades das
+partes interessadas em objetivos corporativos específicos
+para
+
+mapear
+
+efetivamente
+
+o
+
+alinhamento
+
+entre
+
+as
+
+necessidades corporativas e os serviços e as soluções de TI.
+109 O PMBOK 6 dispõe dos processos de gerenciamento de
+
+projetos e gerenciamento de requisitos nas áreas de
+conhecimento e gerenciamento da integração do projeto e do
+escopo do projeto, respectivamente.
+110 No MPS.BR – Guia Geral MPS de Software 2020, não há
+
+processo relacionado ao gerenciamento de problema no
+Nível G – Parcialmente, sendo suficiente, para atingir esse
+nível, a implantação dos processos de gerenciamento de
+projetos e gerenciamento de requisitos.
+
+
+690006_01N519891
+
+Julgue os itens subsecutivos, a respeito de engenharia de
+software.
+111 No diagrama de caso de uso a seguir, UC03 - Manter
+Cadastro de Processo aciona obrigatoriamente UC04.1
+-
+
+Consultar
+
+Envolvido, e este último é acionado
+
+opcionalmente por UC04
+Envolvido.
+
+–
+
+Manter
+
+Cadastro
+
+de
+
+112 No SCRUM 2020, uma sprint possui duração fixa de um
+
+mês ou menos, e todo o trabalho necessário para atingir a
+meta do produto, incluindo-se sprint planning, daily scrums,
+sprint review e sprint retrospective, acontece dentro de
+sprints.
+113 O padrão ISO/IEC 9126 identifica o grau de facilidade de
+
+utilização do software, incluindo facilidade de compreensão,
+facilidade de aprendizagem e operabilidade como atributos
+de qualidade.
+114 A fase de iniciação do RUP possui como marco o objetivo
+
+do ciclo de vida, o qual avalia a viabilidade básica do
+projeto, a fim de formular o seu escopo e obter os requisitos
+mais importantes para o desenvolvimento da solução.
+INFRAESTRUTURA EM TIC
+Julgue os itens que se seguem, a respeito de gestão de processos,
+padrão IEEE 802.11, serviços em nuvem e sistemas
+gerenciadores de bancos de dados.
+115 Na gestão de processos de um sistema operacional, a tabela
+
+de processos contém informações importantes sobre o estado
+de cada um dos processos, entre elas o contador de
+programa, o ponteiro de pilha, a alocação de memória e o
+estado dos arquivos abertos.
+116 Na camada de enlace do padrão IEEE 802.11, a subcamada
+
+LLC é responsável por determinar como e para qual
+solicitante o canal de transmissão será alocado em
+determinado instante.
+117 Uma das características dos sistemas de gerenciamento de
+
+banco de dados (SGBD) multiusuários é a capacidade de
+fornecer controle de concorrência para assegurar que
+atualizações de dados simultâneas resultem em modificações
+corretas nos dados manuseados.
+118 No
+
+modelo de serviço em nuvem PaaS, são
+responsabilidades do provedor o fornecimento e o
+gerenciamento do processamento físico, o armazenamento e
+o ambiente de hospedagem.
+
+
+CEBRASPE – SECONT/ES – Edital: 2022
+
+Considerando o COBIT 2019 e a ITIL 4, julgue os itens a seguir.
+119 Na ITIL 4, no contexto das práticas gerais de gerenciamento,
+
+entre as atividades-chaves que constituem as práticas de
+melhoria contínua, incluem-se a atividade de avaliar e
+priorizar oportunidades de melhoria e a de medir e avaliar os
+resultados de melhoria.
+120 Nos objetivos de gerenciamento do COBIT 2019, o domínio
+
+monitorar, analisar e avaliar (MEA — do inglês monitor,
+evaluate and assess) é o responsável por abordar a segurança
+de informação e tecnologia.
+Espaço livre
+
+

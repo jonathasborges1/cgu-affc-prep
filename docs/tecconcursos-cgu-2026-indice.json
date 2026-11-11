@@ -1,0 +1,27 @@
+{
+  "fonte": "https://www.tecconcursos.com.br/guias/cgu-2026/auditor-federal-de-financas-e-controle-cgu/tecnologia-da-informacao/desenvolvimento-de-sistemas",
+  "capturado_em": "2026-11-09",
+  "observacao": "Índice público externo; contagens não representam questões persistidas no banco CGU-AFFC.",
+  "blocos": {
+    "P1": [
+      {"codigo":"P1·ESTADO","titulo":"Estado, Democracia, Direitos e Ciência Política","questoes":1434,"capitulos":105},
+      {"codigo":"P1·SOC","titulo":"Sociedade Brasileira, Desigualdades, Diversidade e Desenvolvimento","questoes":984,"capitulos":17},
+      {"codigo":"P1·ETICA","titulo":"Ética Pública e Responsabilidade Profissional","questoes":1056,"capitulos":17},
+      {"codigo":"P1·ADM","titulo":"Administração Pública e Fundamentos de Políticas Públicas","questoes":1469,"capitulos":58}
+    ],
+    "P2": [
+      {"codigo":"P2·GOV","titulo":"Fundamentos de Governança, Riscos e Integridade Pública e Privada","questoes":411,"capitulos":4},
+      {"codigo":"P2·TRANSP","titulo":"Fundamentos de Transparência, Ouvidoria e Participação Social","questoes":945,"capitulos":12},
+      {"codigo":"P2·DIR","titulo":"Fundamentos de Direito Público Aplicado, Controle e Responsabilização","questoes":1284,"capitulos":18},
+      {"codigo":"P2·EVID","titulo":"Fundamentos de Evidências, Dados e Inteligência Artificial","questoes":252,"capitulos":0},
+      {"codigo":"P2·AUD","titulo":"Fundamentos de Auditoria Governamental e Atuação Integrada da CGU","questoes":1140,"capitulos":37}
+    ],
+    "P3": [
+      {"codigo":"P3·ENG","titulo":"Engenharia de Software e Programação","questoes":1885,"capitulos":0},
+      {"codigo":"P3·ARQ","titulo":"Arquitetura e Integração de Sistemas","questoes":833,"capitulos":0},
+      {"codigo":"P3·DADOS","titulo":"Persistência, Integração e Proteção de Dados","questoes":1874,"capitulos":8},
+      {"codigo":"P3·SEG","titulo":"Desenvolvimento Seguro, Qualidade e Gestão da Entrega","questoes":1417,"capitulos":0}
+    ]
+  },
+  "detalhe_exemplo": {"fonte":"https://www.tecconcursos.com.br/guias/cgu-2026/auditor-federal-de-financas-e-controle-cgu/tecnologia-da-informacao/desenvolvimento-de-sistemas/estado-democracia-direitos-e-ciencia-politica-para-cgu-2026/id","hierarquia_extraida":true,"exemplo":"P1·ESTADO → 5.5 Organização dos Poderes → 5.5.1 Poder Legislativo → 5.5.1.9 Fiscalização Contábil, Financeira e Orçamentária"}
+}

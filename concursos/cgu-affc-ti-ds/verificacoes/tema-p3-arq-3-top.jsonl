@@ -1,0 +1,6 @@
+{"item": "3", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["CAUSA_CONSEQUENCIA"], "nivel": "facil"}
+{"item": "8", "edital": "P3·ARQ 3.1", "relevancia": "media", "nucleo_id": "n-rabbitmq-stream-persistente-replicado", "tags": ["TROCA_TERMO", "INVERSAO"], "nivel": "dificil"}
+{"item": "11", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "15", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "18", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["DETALHE_NUMERICO"], "nivel": "facil"}
+{"item": "19", "edital": "P3·ARQ 3.1", "relevancia": "alta", "nucleo_id": "n-message-broker-assincrono-desacoplado", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

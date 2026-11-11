@@ -24,15 +24,15 @@ class PrioridadeTests(unittest.TestCase):
         self.assertLess(self.linha('P1·ESTADO 9')['ordem'], 20)
         self.assertLess(self.linha('P1·ADM 4')['ordem'],self.linha('P1·ESTADO 9')['ordem'])
 
-    def test_sem_rotulo_nao_recebe_pronto(self):
+    def test_p2_faixa_confiavel_nao_vira_posicao_exata(self):
         l=self.linha('P2·DIR 3')
-        self.assertFalse(l['calibrado'])
-        self.assertEqual(l['acao'],'Calibrar triagem')
+        self.assertTrue(l['calibrado'])
+        self.assertFalse(l['ordem_exata_confiavel'])
 
     def test_p2_nao_exibe_posicao_como_validada(self):
         linhas = [l for l in self.resultado['linhas'] if l['prova']=='P2']
         self.assertTrue(linhas)
-        self.assertFalse(self.resultado['calibracao']['P2']['ordem_por_faixas_confiavel'])
+        self.assertTrue(self.resultado['calibracao']['P2']['ordem_por_faixas_confiavel'])
         for l in linhas:
             self.assertEqual(l['posicao_exibida'], 'provisoria')
             self.assertFalse(l['ordem_exata_confiavel'])

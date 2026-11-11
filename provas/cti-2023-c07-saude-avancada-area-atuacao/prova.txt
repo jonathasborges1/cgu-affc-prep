@@ -1,0 +1,343 @@
+                                 -- CONHECIMENTO
+Acerca dos conceitos relacionados a laboratórios abertos
+multiusuários (LAMU), julgue os itens a seguir.
+51 Assim como o modelo de governança, o modelo de acesso
+    pouco importa para viabilizar o acesso de forma equilibrada
+    aos equipamentos e serviços dos LAMU, que é feito com
+    base em critérios de meritocracia.
+52 Os LAMU visam promover a colaboração entre diferentes
+    grupos de pesquisa e instituições, otimizar recursos e
+    democratizar o acesso a tecnologias avançadas, dispondo tais
+    laboratórios de equipamentos para utilização comum ou que
+    ofereçam serviços de forma compartilhada aos seus usuários.
+53 A geração de dados nos LAMU pode seguir uma política de
+    dados abertos, incentivando o compartilhamento de
+    informações e resultados, com o devido respeito à
+    propriedade intelectual e eventuais acordos de
+    confidencialidade, mas sem necessidade de atender ao
+    preconizado pela Lei Geral de Proteção de Dados Pessoais
+    (LGPD).
+54 Os LAMU são proibidos por lei de auferir receitas próprias.
+55 Os LAMU são geridos por comitês ou conselhos que
+    incluem representantes dos usuários e dos mantenedores, de
+    modo a garantir que as decisões sejam tomadas de forma
+    democrática e atendam às necessidades dos diversos
+    stakeholders; para tanto, seguem o modelo clássico, baseado
+    na tríplice hélice (academia, empresas e governo), ou suas
+    evoluções para a quádrupla ou quíntupla hélice, que inclui a
+    sociedade civil organizada e o meio ambiente.
+
+
+
+
+        Estudos acerca de políticas públicas de inovação nos
+últimos 15 anos analisaram o efeito da desregulamentação no
+setor elétrico. Um deles utilizou uma amostra de 31 países da
+OCDE ou que adotam padrões internacionais de regulação no
+setor elétrico, como o Brasil. Seus resultados sugerem que uma
+diminuição na intensidade regulatória após reformas
+significativas tem um impacto negativo sobre a inovação. O
+principal fator dessa força parece ser o grau de contestabilidade
+do mercado. Isso mostra que existe uma relação em “U invertido”
+entre regulação e inovação, conforme representado na figura
+precedente.
+Considerando o texto e a figura apresentados, julgue os itens a
+seguir.
+56 O aumento inicial nos níveis de regulação e inovação ocorre
+    porque a regulação pode fornecer estrutura e segurança que
+    promovem investimentos em PD&I, além de proteger
+    direitos de propriedade intelectual, incentivando, assim, a
+    inovação.
+57 Existe um ponto de regulação ideal em que a inovação atinge
+    seu nível máximo; esse ponto é o ápice do “U invertido”, em
+    que há uma regulação muito alta.
+
+                                CEBRASPE – CTI – Edital: 2023
+
+OS ESPECÍFICOS --
+ 58   Após o ponto ótimo, um aumento adicional na inovação
+      começa a ter um impacto negativo na regulação.
+ 59   De acordo com o gráfico, tanto a baixa quanto a alta
+      regulação podem levar a menos inovação.
+
+ No que se refere a ambientes promotores de inovação, julgue os
+ itens que se seguem.
+ 60   Parques tecnológicos, também conhecidos como clusters
+      tecnológicos ou corredores de inovação, são aglomerados
+      geográficos de empresas, fornecedores, prestadores de
+      serviços e instituições educacionais em áreas específicas de
+      tecnologia.
+ 61   Ambientes promotores da inovação, como incubadoras de
+      empresas, parques tecnológicos e polos tecnológicos, são
+      espaços físicos e institucionais desenhados para fomentar a
+      inovação e o empreendedorismo.
+ 62   Incubadoras de empresas são organizações que apoiam o
+      desenvolvimento de empresas nascentes, especialmente
+      startups, durante os estágios iniciais de seus negócios.
+ 63   Polos tecnológicos são complexos planejados que visam
+      estimular a formação e o crescimento de empresas de alta
+      tecnologia e promover a cooperação entre universidades,
+      institutos de pesquisa, empresas e governo.
+
+ Acerca dos conceitos de PD&I e dos guias da OCDE, manual de
+ Oslo e manual de Frascati, julgue os itens a seguir.
+ 64   Entende-se por pesquisa básica a que é focada no
+      entendimento fundamental dos fenômenos sem aplicação
+      prática imediata; e, por pesquisa aplicada, a que é
+      direcionada a resolver problemas específicos, de modo a
+      alcançar resultados de forma mais rápida para a sociedade.
+ 65   Os guias da OCDE, manual de Oslo e manual de Frascati
+      estabelecem diretrizes para a elaboração e a avaliação de
+      políticas públicas de inovação, o que dificulta o processo de
+      monitoramento e comparação de indicadores entre diferentes
+      países.
+
+ Julgue os itens subsequentes, a respeito dos mecanismos de
+ proteção da propriedade intelectual.
+ 66   Não é permitido a terceiros, sem o consentimento do titular,
+      reproduzir a topografia de circuito integrado, no todo ou em
+      parte, inclusive incorporá-la a outro circuito integrado.
+ 67   As técnicas e os métodos operatórios na cura de doenças não
+      constituem exemplos de invenção nem modelo de utilidade.
+ 68   A patente de invenção foca no aperfeiçoamento de efeito ou
+      funcionalidade, enquanto a patente de modelo de utilidade
+      concentra-se no novo efeito técnico-funcional.
+ 69   A análise da reprodutibilidade do desenho industrial leva em
+      consideração as limitações impostas pelo tipo de material,
+      prescindindo-se do processo produtivo.
+ 70   O exame substantivo de um pedido de registro de marca é a
+      etapa em que se verifica se o sinal iconográfico pleiteado
+      respeita as condições e critérios legais estabelecidos.
+
+Acerca dos mecanismos de proteção da propriedade intelectual
+relacionados aos registros de marcas e de programa de
+computador, julgue os itens seguintes.
+71 O resumo digital denominado crossover compreende o
+     mecanismo de verificação de integridade de arquivos,
+     largamente utilizado como prova eletrônica, e é necessário
+     para o registro de programa de computador no órgão
+     competente.
+72 Marca pode ser entendida como um sinal distintivo cujas
+     funções principais são identificar a origem e distinguir
+     exclusivamente produtos de outros idênticos, semelhantes ou
+     afins de diversas origens.
+73 Os membros da entidade detentora do registro podem utilizar
+     a marca coletiva, sem necessidade de licença de uso, desde
+     que estejam previstos no regulamento de utilização da marca.
+74 O programa de computador é constituído por um
+     código-fonte, desenvolvido em alguma linguagem de
+     programação, sendo o seu registro no Instituto Nacional da
+     Propriedade Industrial (INPI) a forma mais segura de
+     garantir sua propriedade e provar sua autoria.
+75 A marca de certificação, de forma distinta da marca coletiva,
+     dispensa os selos de inspeção sanitária de produtos,
+     conforme estabelecido pela legislação vigente.
+A respeito dos mecanismos de transferência de tecnologia, julgue
+os itens a seguir.
+76 A entrada em mercados internacionais, o incremento da
+     inovação de produto e a melhoria da qualidade do produto ou
+     serviço constituem exemplos de fatores estratégicos
+     associados aos processos de transferência de tecnologia.
+77 O licenciamento de uso de tecnologia pode ser a título
+     gratuito ou oneroso, com ou sem cláusula de exclusividade, e
+     com prazo determinado.
+78 Tradicionalmente, a transferência de tecnologia envolve
+     quatro etapas: seleção da tecnologia, seleção dos
+     fornecedores de tecnologia, negociação, e execução da
+     transferência da tecnologia.
+79 No licenciamento de uso de tecnologia para exploração
+     comercial, as contrapartidas resumem-se ao pagamento de
+     up front e no estabelecimento de percentual de royalties
+     sobre o faturamento.
+80 Distintamente de outros mecanismos de transferência de
+     tecnologia em estágios embrionários de desenvolvimento, o
+     licenciamento de patentes dispõe de acesso a tecnologias e
+     conhecimentos existentes.
+Acerca do marco legal de ciência, tecnologia e inovação, de
+acordo com a Lei n.º 10.973/2004 (Lei da Inovação) e suas
+alterações, julgue os itens que se seguem.
+81 A Lei da Inovação tem como uma de suas diretrizes
+     assegurar tratamento diferenciado, favorecido e simplificado
+     às microempresas e às empresas de pequeno e médio porte.
+82 A subvenção econômica, o bônus tecnológico, a encomenda
+     tecnológica e o uso de poder de compra do Estado
+     constituem exemplos de instrumentos de estímulo à inovação
+     nas empresas.
+83 Embora a Lei da Inovação se concentre apenas na promoção
+     da competitividade empresarial no mercado nacional, ela
+     também traz como princípio a simplificação de
+     procedimentos para gestão de projetos de ciência, tecnologia
+     e inovação.
+84 O criador é a pessoa física inventora, obtentora ou autora de
+     criação.
+85 O núcleo de inovação tecnológica representa a estrutura de
+     uma única instituição científica, tecnológica e de inovação,
+     com personalidade jurídica própria, que tenha por finalidade
+     a gestão de política institucional de inovação.
+
+                                       CEBRASPE – CTI – Edital: 2023
+A respeito da Política Nacional de Inovação, consoante o Decreto
+n.º 10.534/2020, julgue os itens seguintes.
+86   A ampliação do desenvolvimento e da transferência de
+     tecnologia e de conhecimento militar para uso civil constitui
+     uma das ações associadas ao eixo de estímulo da base de
+     conhecimento tecnológico para a inovação.
+87   Entre as bases da Política Nacional de Inovação, reside a
+     estruturação de governança interministerial para articular,
+     orientar, priorizar e acompanhar a ação governamental no
+     fomento e no apoio à inovação.
+88   Na implementação dos programas e das ações de fomento à
+     inovação entre os órgãos e as entidades públicas dos entes
+     federativos, deve-se valer da horizontalidade como um dos
+     princípios da Política Nacional de Inovação.
+89   Os planos setoriais e temáticos de inovação devem definir a
+     prioridade do país para o fomento à inovação no setor
+     produtivo, bem como as iniciativas estratégicas, os objetivos
+     e as metas quadrienais mensuráveis.
+90   A Câmara de Inovação é um órgão deliberativo que se
+     destina a estruturar e a orientar a operacionalização dos
+     instrumentos        e    dos      processos      necessários     para    a
+     implementação da Política Nacional de Inovação.
+
+Julgue os itens subsecutivos, no que diz respeito às relações entre
+as instituições federais de ensino superior e de pesquisa científica
+e tecnológica e as fundações de apoio a projetos de ensino,
+pesquisa, extensão, desenvolvimento institucional, científico e
+tecnológico.
+91   Os planos de trabalho das fundações de apoio referentes aos
+     projetos desenvolvidos com as instituições apoiadas devem
+     conter, no mínimo: objeto, projeto básico, prazo de execução
+     limitado no tempo, e resultados esperados.
+92   As fundações de apoio estão impedidas de contratar, sem
+     licitação, pessoa jurídica que tenha como proprietário, sócio
+     ou cotista o seu dirigente.
+93   As instituições apoiadas pelas fundações de apoio devem
+     zelar pela não ocorrência da utilização de contrato ou
+     convênio para arrecadação de receitas ou execução de
+     despesas desvinculadas de seu objeto.
+94   A atuação da fundação de apoio em projetos de
+     desenvolvimento              institucional      para    melhoria        de
+     infraestrutura limita-se, em regra, às obras laboratoriais e à
+     aquisição de materiais, equipamentos e insumos diretamente
+     relacionados às atividades de inovação e pesquisa científica e
+     tecnológica.
+95   As      fundações       de     apoio    estão    sujeitas   ao     prévio
+     credenciamento no Ministério da Educação e no Ministério
+     da Ciência, Tecnologia e Inovação, renovável a cada três
+     anos.
+
+Em relação aos fundos setoriais e incentivos fiscais concernentes
+ao desenvolvimento científico e tecnológico e inovação, julgue os
+itens seguintes.
+96   O incentivo fiscal às pessoas jurídicas referente à redução de
+     50% da alíquota do imposto de renda retido na fonte
+     aplica-se às remessas efetuadas para o exterior destinadas ao
+     registro e manutenção de marcas, patentes e cultivares.
+97 O Fundo Nacional de Desenvolvimento Científico e
+   Tecnológico (FNDCT) tem o Conselho Nacional de
+   Desenvolvimento Científico e Tecnológico (CNPq) como
+   sua Secretaria-Executiva.
+98 Uma das características básicas na operacionalização dos
+   fundos setoriais consiste na não vinculação de receitas, em
+   que os recursos financeiros podem ser transferidos entre
+   fundos de outros setores e devem ser aplicados para
+   estimular a cadeia do conhecimento e o processo de
+   inovação.
+99   Entre os incentivos fiscais para a inovação tecnológica que a
+     pessoa jurídica pode usufruir, está a redução de 50% do IPI
+     (Imposto sobre Produtos Industrializados) incidente sobre
+     equipamentos e congêneres, destinados à pesquisa e ao
+     desenvolvimento tecnológico.
+100 A característica de plurianualidade dos fundos setoriais
+     significa que se pode programar o apoio a ações e projetos
+     com duração superior a um exercício fiscal.
+
+Julgue os próximos itens, relativos a conceitos, processos e áreas
+de conhecimento do guia PMBOK 6.
+101 O gráfico de evolução regressiva (burndown) de iteração
+     consiste em uma técnica de análise de dados do processo de
+     controle do cronograma, que permite demonstrar o trabalho
+     que ainda precisa ser concluído na lista de pendências de
+     iteração.
+102 A área de gerenciamento do escopo do projeto abrange os
+     processos necessários para identificar, definir e coordenar as
+     atividades de gerenciamento dos projetos em seus grupos de
+     processos.
+103 A estrutura analítica do projeto (EAP) pode ser criada por
+     meio de abordagem ascendente (bottom-up) e, desse modo,
+     agrupar subcomponentes; além disso, a EAP pode ser
+     representada, por exemplo, pelas fases do ciclo de vida do
+     projeto no segundo nível de decomposição e pelas entregas
+     do produto no terceiro nível.
+104 O processo gerenciar o conhecimento do projeto faz parte do
+     grupo de execução e da área de gerenciamento da integração
+     do projeto.
+105 Definir o escopo e criar a estrutura analítica do projeto
+     (EAP) são processos do grupo de iniciação.
+106 O termo de abertura do projeto autoriza, formalmente, a
+    existência deste, descrevendo o fornecimento de um vínculo
+    direto entre o projeto e os objetivos estratégicos da
+    organização.
+107 O plano de gerenciamento do escopo é um componente do
+    plano de gerenciamento do projeto e descreve como o escopo
+    será definido, controlado e validado, com base, inicialmente,
+    na análise das informações contidas no termo de abertura do
+    projeto.
+
+                              CEBRASPE – CTI – Edital: 2023
+Julgue os seguintes itens, acerca de Scrum.
+108 Todo trabalho no contexto de um incremento da sprint deve
+    ser considerado, uma vez que o incremento pode ser
+    entregue aos stakeholders antes do final da sprint.
+109 Um Scrum team consiste em um Scrum master, um product
+    owner e developers, sendo multifuncional e autogerenciável,
+    com tamanho pequeno o suficiente para permanecer ágil
+    normalmente com dez ou menos pessoas.
+110 O product owner pode delegar o ordenamento de itens do
+    product backlog.
+111 Ainda que a meta da sprint se torne obsoleta, ela não pode
+    ser cancelada; nesse caso, a sprint planning pode ser
+    renegociada com o product owner para a adaptação do
+    progresso em direção à meta do produto.
+112 Na sprint planning, para cada item do product backlog
+    selecionado, o product owner planeja o trabalho necessário
+    para criar um incremento que atenda à definição de pronto.
+113 Daily Scrum, evento de 15 minutos, cujo objetivo é
+    inspecionar o progresso em direção à meta da sprint, é o
+    único momento em que é permitido que os developers
+    ajustem seu plano após o início da sprint.
+114 O compromisso do product backlog é a definição de pronto,
+    que serve como alvo para o Scrum team planejar a dimensão
+    da solução, sendo um objetivo a longo prazo para o Scrum
+    team cumprir antes de assumir o próximo.
+115 O propósito da sprint review é planejar modos de aumentar a
+    eficácia do Scrum team por meio da inspeção de como foi
+    executada a sprint mais recente em relação às interações e
+    aos processos, avaliando-se o que funcionou corretamente e
+    os problemas encontrados durante a sprint.
+
+Julgue os itens a seguir, relativos à gestão de portfólio no
+PMBOK 6.
+116 No contexto organizacional, o enfoque do gerenciamento de
+    projetos e programas é fazer programas e projetos da
+    maneira certa, ao passo que, no gerenciamento de portfólios,
+    o foco é fazer os programas e projetos certos.
+117 No contexto do PMBOK 6, o programa é um grupo de
+    projetos ou portfólios relacionados entre si pelos objetivos a
+    serem alcançados, visando atingir benefícios que não
+    estariam disponíveis se eles fossem gerenciados
+    individualmente.
+118 O foco do gerenciamento de portfólios é a produção contínua
+    de resultados e serviços, com vistas a assegurar que as
+    operações de negócios continuem de forma eficiente por
+    meio do uso dos melhores recursos necessários para o
+    atendimento das necessidades da organização.
+119 O gerenciamento de portfólios visa, entre outras finalidades,
+    orientar as decisões de investimento organizacional, fornecer
+    transparência na tomada de decisão e priorizar a alocação de
+    equipe e recursos físicos.
+120 Os   programas possuem metas, prazos e resultados
+    entregáveis relacionados aos projetos que os compõem, com
+    um escopo organizacional que varia de acordo com os
+    objetivos estratégicos da organização.
+

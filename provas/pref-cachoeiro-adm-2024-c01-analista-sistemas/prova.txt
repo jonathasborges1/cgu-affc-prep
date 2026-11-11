@@ -1,0 +1,197 @@
+                                                                               CE
+
+                                  -- CONHECIMENTO
+Julgue o item a seguir, a respeito de construção de algoritmos.
+61   Um programa que utiliza uma estrutura de controle do tipo
+     repita até para realizar certo conjunto de instruções
+     continuará sendo executado enquanto o resultado do teste de
+     controle for falso.
+
+       A temperatura média corporal de uma pessoa costuma
+variar entre 36 °C e 37,3 °C; mais do que isso caracteriza a
+febrícula (até 37,8 °C), a febre (acima de 37,8 °C até 39 °C) e a
+febre alta (mais de 39 °C).
+                                         Internet: <ifsc.edu.br> (com adaptações).
+
+
+Tendo como referência o texto precedente, julgue o item
+seguinte, relativo a construção de algoritmos e estruturas de
+controle, seleção, repetição e desvio.
+62 Em um algoritmo desenvolvido para identificar um dos
+    cenários (normal ou anormal) referentes à temperatura
+    corporal de uma pessoa, serão necessárias pelo menos quatro
+    estruturas do tipo se-então-senão.
+
+        No programa a seguir, escrito em pseudocódigo, foi criada
+uma estrutura de dados do tipo vetor de nome vec com
+50 posições, tal que cada posição desse vetor contém um número
+inteiro. Nesse programa, também foram utilizadas as variáveis
+inteiras j, idade e limite.
+programa
+idade = vec[1]
+limite = vec[1]
+para j de 2 até 50 faça
+     se idade < vec[j] então
+           idade = vec[j]
+     senão
+           limite = vec[j]
+     fim se
+fim para
+
+Com base nessas informações, julgue o próximo item.
+63 Ao fim da execução do programa, o valor armazenado na
+   primeira posição de vec será a idade de maior valor entre
+   as 50 existentes.
+
+Relativamente à programação estruturada e a métodos de
+ordenação, julgue os itens subsequentes.
+64 Na programação estruturada, a transferência unilateral de
+   controle para outra linha de código deve ser evitada e não
+   são necessários os rótulos ou números de linha para a
+   respectiva identificação dos locais de destino.
+65 Na execução do algoritmo de ordenação por inserção
+   (insertion sort), o número máximo de movimentações em
+   função das comparações entre os itens acontecerá quando, no
+   vetor original, nenhum elemento for maior que seu sucessor.
+Julgue os itens a seguir, a respeito de conceitos, prática e
+ferramentas relativos a DevOps e de integração contínua.
+66 Uma das boas práticas do DevOps é a adoção de uma cultura
+   livre de culpa por erros nos processos apresentados pelos
+   desenvolvedores ou pelo pessoal de operações.
+67 Para uma integração contínua efetiva, um dos princípios
+   recomendados é realizar o teste dos builds no ambiente de
+   produção no qual o sistema final será executado.
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+OS ESPECÍFICOS --
+ Julgue os itens seguintes, que tratam de padrões de projeto e dos
+ protocolos para Web services, padrões e tecnologias relacionadas.
+ 68 Na comunicação feita entre cliente e servidor, uma
+    API Restful armazena informações de outras sessões a
+    respeito das solicitações, de modo a fazer um controle
+    confiável das suas transações.
+ 69 O elemento header (cabeçalho) do envelope de uma
+    mensagem enviada pelo SOAP é um elemento indispensável,
+    uma vez que ele informa o endereço da mensagem.
+ 70   O padrão de projetos Iterator fornece aos clientes vários
+      métodos simples de acesso aos elementos da coleção,
+      protegendo a coleção contra ações descuidadas ou maliciosas
+      passíveis de ocorrência caso seja permitido o acesso direto à
+      coleção.
+
+ A respeito de banco de dados, julgue os itens que se seguem.
+ 71 Em uma consulta a duas tabelas, o produto cartesiano
+    ocorrerá quando a condição de união estiver corretamente
+    especificada.
+ 72 Uma transação pode incluir múltiplas operações de acesso ao
+    banco de dados, sejam elas para consulta ou modificação.
+ 73 Uma tabela é considerada na terceira forma normal quando
+    suas colunas que não são chave dependem diretamente da
+    chave primária.
+ 74   Os índices de uma tabela são arquivos diferenciados que
+      contêm todas as colunas da tabela, em ordem específica.
+
+ A respeito de linguagens de programação, julgue os próximos
+ itens.
+ 75 No relacionamento de herança de objetos, uma superclasse
+    tem a mesma quantidade de objetos que o somatório dos
+    objetos de suas subclasses.
+ 76 Os bytecodes gerados pelo compilador Java independem da
+    plataforma em que são executados, diferentemente das
+    instruções em linguagem de máquina.
+ 77 O padrão MVC é obtido ao se colocar o componente
+    Controller para controlar o fluxo da aplicação entre as
+    camadas de apresentação e de manipulação de dados.
+ 78 O conceito de abstração refere-se ao foco que o
+    desenvolvedor deve dar à solução que ele está construindo,
+    sem deixar que contextos adjacentes atrapalhem.
+ 79 A linguagem Java suporta arrays multidimensionais de
+    forma direta, sem a necessidade de manipulação em cascata
+    de arrays unidimensionais ou bidimensionais.
+
+ Com base em tecnologias e práticas frontend web, julgue os
+ seguintes itens.
+ 80 O código de uma CSS é armazenado em um arquivo
+    separado do HTML, embora seja utilizado para definir o
+    modo como as tags HTML devem funcionar.
+ 81 O wireframe representa um protótipo navegável de como
+    cada interface da aplicação deve ser utilizada e de como deve
+    responder.
+ 82 O HTML é uma linguagem de programação que recupera as
+    informações de um servidor e as apresenta na tela do usuário.
+
+                                                                 CE
+Julgue os itens subsequentes, relativos a protocolos.
+83 SSL e TLS são tecnologias complementares para garantir a
+    segurança entre computadores que atuam simultaneamente
+    como servidores e clientes de aplicações.
+84 SSL é uma tecnologia obsoleta que permite o
+    estabelecimento de links autenticados e criptografados entre
+    computadores em rede.
+85 Em sítios que usam o protocolo HTTPS, a comunicação
+    entre cliente e servidor é criptografada, o que dificulta a
+    interceptação das informações.
+Acerca de conceitos e princípios relacionados com
+confidencialidade e integridade, julgue os itens que se seguem.
+86 A confidencialidade visa manter a privacidade das
+    informações pessoais e garantir que elas sejam visíveis e
+    acessíveis apenas aos indivíduos autorizados.
+87 O princípio da integridade visa garantir que os dados sejam
+    precisos e confiáveis e que não tenham sido modificados
+    incorretamente, seja de forma acidental ou maliciosa.
+Julgue os seguintes itens, pertinentes a conceitos e princípios
+relacionados com autenticação e autorização.
+88 O processo de comprovar a identidade do usuário aos
+     componentes de segurança do sistema para se conceder
+     acesso com base em quem ele é ou em algo que ele possua é
+     denominado autorização.
+89 O processo pelo qual uma entidade determina se outra
+     entidade tem permissão para usar um recurso é denominado
+     autenticação.
+Julgue os itens que se seguem, sobre criptografia simétrica.
+90 O tamanho da chave é uma característica irrelevante para um
+    sistema criptográfico simétrico.
+91 Em uma operação criptográfica simétrica baseada em cifras
+    de bloco, os blocos são de tamanho fixo.
+Acerca dos tipos de biometria utilizados para controle de acesso,
+julgue os itens subsequentes.
+92 A biometria das digitais tem como principal vantagem o fato
+    de que as impressões digitais são imutáveis.
+93 Técnica utilizada em controle de acesso, a biometria facial é
+    capaz de analisar diversos pontos do rosto, tais como
+    distância entre os olhos, formato do nariz e tamanho da boca.
+Julgue os próximos itens, relativos a vulnerabilidades em
+aplicações web e suas características.
+94 Um dos tipos de ataques que permite o sequestro de sessão
+     em uma aplicação envolve roubar o cookie de sessão do
+     usuário, localizar o ID da sessão dentro do cookie e usar
+     essas informações para assumir o controle da sessão.
+95 Um ataque do tipo injeção SQL é caracterizado por permitir
+     a passagem de parâmetros SQL via entrada de dados da
+     aplicação e executar tais parâmetros no banco de dados.
+Tendo em vista que o uso de rede privada virtual (VPN) e de
+TLS (transport layer security) é bastante comum para permitir
+acesso a sistemas na Internet, julgue os itens a seguir, a respeito
+de VPN e TLS.
+96 IPSec (Internet Protocol Security) e L2TP (Layer 2
+    Tunneling Protocol) são exemplos de protocolos utilizados
+    para se construir VPNs.
+97 Uma VPN é um tipo de serviço de segurança de rede que
+    cria uma rede física sobre fluxos de dados lógicos em que os
+    pacotes de dados se movem através de cabeçalhos dos
+    protocolos de transporte criptografados.
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+ À luz da Lei Geral de Proteção de Dados (LGPD), que define
+ dado pessoal e dado pessoal sensível, julgue os itens que se
+ seguem.
+ 98 Dado pessoal sobre origem racial ou étnica, para a LGPD, é
+     considerado como dado pessoal sensível.
+ 99 Conforme a LGPD, o dado pessoal não pode sofrer
+     suspensão temporária de qualquer operação de tratamento.
+ Sobre ataques do tipo phishing, julgue o item a seguir.
+ 100 O phishing pode ser caracterizado como um tipo de ataque
+     de engenharia social que é realizado apenas por telefone.
+ Espaço livre
+

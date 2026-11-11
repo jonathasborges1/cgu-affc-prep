@@ -1,0 +1,10 @@
+{
+  "status": "AUD3_TRANSP2_aplicados",
+  "temas": {
+    "P2·GOV 1": {"status": "sem_positivos_elegiveis", "itens": 0},
+    "P2·AUD 3": {"status": "persistido", "itens": 24, "aprovados": 24, "inseridos": 24, "pacote": "concursos/cgu-affc-ti-ds/pacotes/tema-p2-aud-3-1.md"},
+    "P2·TRANSP 2": {"status": "persistido", "itens": 13, "aprovados": 13, "inseridos": 12, "duplicados": 1, "pacote": "concursos/cgu-affc-ti-ds/pacotes/tema-p2-transp-2-1.md"},
+    "P2·AUD 2": {"status": "sem_positivos_elegiveis", "itens": 0}
+  },
+  "proximo_comando": "Amplie a seleção de P2·GOV 1 e P2·AUD 2; depois classifique, verifique e rode python scripts/confianca_ordem.py."
+}

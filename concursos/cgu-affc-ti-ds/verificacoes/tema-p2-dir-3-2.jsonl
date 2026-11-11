@@ -1,0 +1,11 @@
+{"item": "1", "edital": "P2·DIR 3.2", "nucleo_id": "verif-n-dir3-controle-social", "nucleo_texto": "Controle social.", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "2", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-controle-recursos-publicos", "nucleo_texto": "Controle recursos publicos.", "tags": ["EXCECAO_OMITIDA"], "nivel": "medio"}
+{"item": "3", "edital": "P2·DIR 3.2", "nucleo_id": "verif-n-dir3-controle-social", "nucleo_texto": "Controle social.", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "4", "edital": "P2·DIR 3.2", "nucleo_id": "verif-n-dir3-controle-social", "nucleo_texto": "Controle social.", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "5", "edital": "P2·DIR 3.3", "nucleo_id": "verif-n-dir3-autonomia-controle-externo", "nucleo_texto": "Autonomia controle externo.", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "6", "edital": "P2·DIR 3.3", "nucleo_id": "verif-n-dir3-autonomia-controle-externo", "nucleo_texto": "Autonomia controle externo.", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "7", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-sistema-controle-interno-integrado", "nucleo_texto": "Sistema controle interno integrado.", "tags": ["INVERSAO"], "nivel": "medio"}
+{"item": "8", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-sistema-controle-interno-integrado", "nucleo_texto": "Sistema controle interno integrado.", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "9", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-controle-interno-finalidades", "nucleo_texto": "Controle interno finalidades.", "tags": ["EXCECAO_OMITIDA"], "nivel": "medio"}
+{"item": "10", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-controle-interno-finalidades", "nucleo_texto": "Controle interno finalidades.", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "11", "edital": "P2·DIR 3.1", "nucleo_id": "verif-n-dir3-controle-recursos-publicos", "nucleo_texto": "Controle recursos publicos.", "tags": ["EXCECAO_OMITIDA"], "nivel": "medio"}

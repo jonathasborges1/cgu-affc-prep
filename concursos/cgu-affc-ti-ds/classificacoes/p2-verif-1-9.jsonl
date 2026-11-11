@@ -1,0 +1,50 @@
+{"id":"v1-9-01","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-9-02","codigo":"OUTRO","rel":"fora","motivo":"contratação de TIC"}
+{"id":"v1-9-03","codigo":"OUTRO","rel":"fora","motivo":"estatística"}
+{"id":"v1-9-04","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-9-05","codigo":"OUTRO","rel":"fora","motivo":"servidores estaduais"}
+{"id":"v1-9-06","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-9-07","codigo":"OUTRO","rel":"fora","motivo":"obras"}
+{"id":"v1-9-08","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-9-09","codigo":"P2·GOV 2","rel":"baixa","motivo":"riscos de auditoria independente"}
+{"id":"v1-9-10","codigo":"OUTRO","rel":"fora","motivo":"biologia"}
+{"id":"v1-9-11","codigo":"OUTRO","rel":"fora","motivo":"big data"}
+{"id":"v1-9-12","codigo":"P2·GOV 2","rel":"alta","motivo":"componentes do controle interno"}
+{"id":"v1-9-13","codigo":"OUTRO","rel":"fora","motivo":"arquivologia"}
+{"id":"v1-9-14","codigo":"P2·TRANSP 4","rel":"media","motivo":"avaliação de serviços pelo usuário"}
+{"id":"v1-9-15","codigo":"OUTRO","rel":"fora","motivo":"interpretação de texto"}
+{"id":"v1-9-16","codigo":"P2·AUD 3","rel":"alta","motivo":"matriz de achados"}
+{"id":"v1-9-17","codigo":"OUTRO","rel":"fora","motivo":"riscos de TI"}
+{"id":"v1-9-18","codigo":"OUTRO","rel":"fora","motivo":"contratação de TI"}
+{"id":"v1-9-19","codigo":"P2·DIR 3","rel":"alta","motivo":"controle interno administrativo"}
+{"id":"v1-9-20","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-9-21","codigo":"OUTRO","rel":"fora","motivo":"obras"}
+{"id":"v1-9-22","codigo":"OUTRO","rel":"fora","motivo":"economia"}
+{"id":"v1-9-23","codigo":"OUTRO","rel":"fora","motivo":"governança de TI"}
+{"id":"v1-9-24","codigo":"OUTRO","rel":"fora","motivo":"fiscalização de transportes"}
+{"id":"v1-9-25","codigo":"OUTRO","rel":"fora","motivo":"banco de dados"}
+{"id":"v1-9-26","codigo":"P2·DIR 4","rel":"alta","motivo":"responsabilização de pessoa jurídica"}
+{"id":"v1-9-27","codigo":"P2·DIR 3","rel":"baixa","motivo":"unidade de controle interno estadual"}
+{"id":"v1-9-28","codigo":"OUTRO","rel":"fora","motivo":"administração gerencial (P1)"}
+{"id":"v1-9-29","codigo":"OUTRO","rel":"fora","motivo":"elétrica"}
+{"id":"v1-9-30","codigo":"OUTRO","rel":"fora","motivo":"segurança pública"}
+{"id":"v1-9-31","codigo":"OUTRO","rel":"fora","motivo":"contratação de TIC"}
+{"id":"v1-9-32","codigo":"P2·TRANSP 4","rel":"alta","motivo":"audiências e conselhos"}
+{"id":"v1-9-33","codigo":"P2·GOV 3","rel":"alta","motivo":"canais de denúncia e programas de integridade"}
+{"id":"v1-9-34","codigo":"OUTRO","rel":"fora","motivo":"educação"}
+{"id":"v1-9-35","codigo":"OUTRO","rel":"fora","motivo":"programação"}
+{"id":"v1-9-36","codigo":"OUTRO","rel":"fora","motivo":"saúde"}
+{"id":"v1-9-37","codigo":"OUTRO","rel":"fora","motivo":"eletrônica"}
+{"id":"v1-9-38","codigo":"P2·AUD 3","rel":"alta","motivo":"matriz de achados"}
+{"id":"v1-9-39","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-9-40","codigo":"OUTRO","rel":"fora","motivo":"modelagem"}
+{"id":"v1-9-41","codigo":"P2·AUD 4","rel":"alta","motivo":"recomendações de auditoria"}
+{"id":"v1-9-42","codigo":"OUTRO","rel":"fora","motivo":"governança de dados"}
+{"id":"v1-9-43","codigo":"P2·DIR 2","rel":"baixa","motivo":"embargos e defesa no tribunal"}
+{"id":"v1-9-44","codigo":"P2·DIR 4","rel":"baixa","motivo":"multa por dano ao erário"}
+{"id":"v1-9-45","codigo":"OUTRO","rel":"fora","motivo":"drogas"}
+{"id":"v1-9-46","codigo":"OUTRO","rel":"fora","motivo":"BSC"}
+{"id":"v1-9-47","codigo":"OUTRO","rel":"fora","motivo":"bibliotecas"}
+{"id":"v1-9-48","codigo":"OUTRO","rel":"fora","motivo":"clima"}
+{"id":"v1-9-49","codigo":"OUTRO","rel":"fora","motivo":"COBIT"}
+{"id":"v1-9-50","codigo":"OUTRO","rel":"fora","motivo":"medicina"}

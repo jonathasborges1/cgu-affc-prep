@@ -1,0 +1,519 @@
+-- CONHECIMENTO
+A respeito de Kanban e Scrum, julgue os itens a seguir.
+51
+
+Um dos princípios do Kanban é limitar o trabalho em
+progresso para evitar sobrecargas de tarefas.
+
+52
+
+O Kanban e o Scrum utilizam sprints no planejamento e na
+distribuição de tarefas.
+
+A respeito de governança de TI, julgue os próximos itens.
+53
+
+As práticas de gerenciamento de serviço do ITIL v4 incluem
+gerenciamento de infraestrutura e de plataforma.
+
+54
+
+No COBIT 2019, o princípio Aplicar modelo único
+integrado estabelece que os componentes como processos,
+estruturas, arquiteturas e pessoas devem funcionar em
+conjunto para a construção de um sistema de governança
+eficiente.
+
+Em relação ao gerenciamento de projetos e à modelagem de
+processos de negócio, julgue os itens que se seguem.
+55
+
+Cadeia de valor é a ferramenta utilizada para modelagem
+corporativa que demonstra, por meio de um fluxo simples e
+contínuo, os processos que contribuem com a produção de
+valor para os clientes de uma organização.
+
+56
+
+Segundo o PMBOK, a comunicação passiva, elemento
+fundamental para o engajamento das partes interessadas, é
+o tipo de comunicação que pode ocorrer por meio da busca
+por políticas ou modelos de comunicação e pesquisas em
+repositórios online, a fim de se detectarem indiretamente as
+preocupações dessas partes interessadas quanto ao projeto.
+
+Com base nas Resoluções CNJ n.º 522/2023 e n.º 335/2020,
+relativas à Plataforma Digital do Poder Judiciário Brasileiro
+(PDPJ-Br), julgue o item subsequente.
+57
+
+Entre os objetivos da PDPJ-Br está o de implantar o conceito
+de desenvolvimento centralizado, devendo todos os tribunais
+contribuir com as melhores soluções tecnológicas para
+aproveitamento comum.
+
+Julgue o item seguinte de acordo com o disposto nas Portarias
+CNJ n.º 252/2020 e n.º 253/2020.
+58
+
+Os serviços estruturantes relacionam-se às funcionalidades
+essenciais básicas para um sistema de processo judicial de
+tramitação
+
+eletrônica,
+
+bem
+
+como
+
+àqueles
+
+serviços
+
+necessários à integração, à coreografia e à interoperabilidade
+entre os serviços e as soluções que compõem a PDPJ-Br.
+À luz da Portaria CNJ n.º 131/2021 e da Resolução CNJ
+n.º 396/2021, julgue o item que se segue.
+59
+
+O merge request será aceito se pelo menos dois tribunais,
+distintos daquele que houver desenvolvido a funcionalidade
+ou solução, aprovarem-no.
+
+
+CEBRASPE – STJ – Edital: 2024
+
+OS ESPECÍFICOS -Em consonância com a Portaria CNJ n.º 162/2021, julgue os itens
+seguintes, relativos à Estratégia Nacional de Segurança
+Cibernética do Poder Judiciário.
+O gerenciamento de crises cibernéticas do Poder Judiciário
+encontra-se dividido em três fases: planejamento, execução e
+melhoria contínua.
+61 As funções básicas do protocolo de prevenção de incidentes
+cibernéticos do Poder Judiciário restringem-se a identificar,
+proteger, detectar e responder aos ataques ou ameaças.
+60
+
+Com base na Resolução CNJ n.º 468/2022, julgue os itens
+subsecutivos, que versam sobre diretrizes para as contratações de
+solução de tecnologia da informação e comunicação (TIC) pelos
+órgãos submetidos ao controle administrativo e financeiro do
+Conselho Nacional de Justiça.
+É facultativa a execução da fase de planejamento da
+contratação de solução de TIC nos casos de inexigibilidade
+de licitação.
+63 Durante a fase de seleção do fornecedor, a equipe de
+planejamento da contratação é responsável por apoiar
+o pregoeiro ou a comissão de licitação na análise e no
+julgamento das propostas e dos recursos apresentados pelas
+licitantes, bem como na condução de eventual prova de
+conceito.
+62
+
+Em relação à linguagem de programação Java, à arquitetura
+distribuída de microsserviços e à biblioteca Flyway, julgue os
+próximos itens.
+A solução Flyway permite que seja realizado o controle de
+versão de código de banco de dados, estendendo o DevOps
+aos bancos de dados de modo a permitir que se acompanhem
+as alterações e se aprimore a confiabilidade das implantações
+de software.
+65 Zuul é uma solução que permite a realização de roteamento
+dinâmico e monitoramento, e seus filtros são capazes de
+atuar na segurança por meio da identificação de requisitos de
+autenticação para cada recurso e da rejeição de solicitações
+que não os satisfaçam.
+66 MapStruct é um gerador de código que simplifica a
+implementação de mapeamentos entre tipos de bean Java.
+64
+
+Julgue os próximos itens, relativos a H2, Keycloak, Webhooks,
+Git, CD (continuous delivery) e CI (continuous integration).
+67
+
+O comando Git a seguir, ao ser executado, copiará todo o
+conteúdo do repositório local para o repositório remoto git,
+e, por padrão, fará a mesclagem com a branch master.
+git clone --bare -l /home/projetox/
+.git/pub/projetox
+
+CD (continuous delivery) e CI (continuous integration) são
+práticas afetas ao DevOps: a primeira realiza a implantação
+automática no repositório da solução após o build; e a
+segunda realiza implantação automática no ambiente de
+produção a cada release.
+69 O banco de dados H2 é uma solução de persistência de dados
+NoSQL do tipo chave-valor.
+70 O Keycloak é considerado uma pilha de software completa
+cujo objetivo principal é gerenciar a segurança em
+contêineres à medida que ele administra a infraestrutura de
+docker.
+68
+
+
+Julgue os itens a seguir, em relação a práticas DevOps,
+CD (continuous delivery) e CI (continuous integration).
+71 No modelo gitflow, a branch principal para o ambiente de
+produção, que deve conter as versões estáveis do código que
+originam as builds, é denominada feature.
+72 Em um processo de merge de códigos de duas branches, é
+possível que apareçam conflitos, os quais podem ser
+resolvidos manualmente pelos desenvolvedores.
+Acerca de Kubernetes, julgue os itens que se seguem.
+73 A menor unidade de gerenciamento no cluster é o pod, que
+pode conter um ou mais contêineres.
+74 Worker nodes têm a função de coordenar tarefas dos pods e
+manter a saúde do cluster, sendo o master node o local onde
+os pods são executados.
+75 O armazenamento dos dados de configurações e estados de
+um cluster é mantido no etcd, que é um banco de dados
+distribuído de chave-valor.
+Em relação aos processos de negócios, julgue os itens que se
+seguem.
+76 Entre as vantagens da automação de processos de negócio
+destaca-se a possibilidade de estabelecimento de pontos de
+controle para garantir que exceções ou condições perigosas
+sejam detectadas e tratadas mediante intervenção.
+77 Na modelagem de processos de negócio em UML 2.5,
+o relacionamento de associação corresponde à interação de
+especialização, em que os itens dos objetos especializados
+(filhos) são substituíveis por objetos do item generalizado
+(pais), de modo que os filhos compartilhem o
+comportamento e a estrutura dos pais.
+78 Os processos de gerenciamento, tal como os processos de
+suporte, não agregam valor diretamente aos clientes, contudo
+são indispensáveis para garantir que a organização opere de
+acordo com os seus objetivos estratégicos.
+79 No âmbito dos indicadores de processos de negócio,
+os denominados indicadores direcionadores permitem
+monitorar o efeito, mas não alterar um dado resultado.
+80 Uma das desvantagens da modelagem de processos de
+negócio que utiliza a cadeia de valor é sua reduzida utilidade
+associada ao aumento da complexidade de análise,
+requerendo o uso de notações mais detalhadas para
+decomposição adicional.
+No que diz respeito à engenharia de software, julgue os itens
+subsequentes.
+81 As arquiteturas de referência fornecem um modelo para
+avaliar projetos e informar a respeito das características
+arquiteturais em um domínio específico, embora nem todas
+as suas características sejam usadas em uma única aplicação.
+82 Quando o desempenho é um requisito crítico, a arquitetura
+do sistema deve ser projetada com componentes pequenos,
+autocontidos e coesos, a fim de permitir que o sistema seja
+replicado e executado em diferentes processadores.
+83 Os requisitos de domínio podem ser novos requisitos
+funcionais, podem limitar requisitos funcionais existentes ou
+podem indicar como determinadas computações devem ser
+realizadas.
+Julgue os próximos itens, relativos à qualidade de software.
+84 O modelo de referência MPS para software versão 2021
+define níveis de maturidade que combinam processos e suas
+capacidades, organizando os processos em dois conjuntos:
+processos de serviços e processos organizacionais.
+85 Realizar análise de causa-raiz usando técnicas estatísticas e
+quantitativas é uma prática necessária ao nível de maturidade
+5 do CMMI-DEV versão 2.
+
+
+CEBRASPE – STJ – Edital: 2024
+
+Acerca de análise de pontos de função, julgue o próximo item.
+86
+
+Conforme o conceito do IFPUG (International Function
+Point Users Group), o estado consistente corresponde ao
+ponto em que o processamento já foi completamente
+concluído, o requisito funcional do usuário foi satisfeito, e
+todas as operações associadas foram finalizadas, sem mais
+ações pendentes.
+
+A respeito de microsserviços, julgue os itens seguintes.
+87
+
+Cada
+
+solicitação
+
+de
+
+API
+
+RESTful
+
+é
+
+executada
+
+independentemente de solicitações anteriores, caracterizando
+um método de comunicação com ausência de estado.
+88
+
+Em um arquivo JSON, cada membro pode conter pares ou
+outros membros, mas não os dois ao mesmo tempo.
+
+A respeito da arquitetura de aplicações para ambiente web e da
+arquitetura em camadas, julgue os próximos itens.
+89
+
+Na arquitetura em camadas, as regras de negócio devem ser
+implementadas nas camadas de apresentação e de lógica de
+negócio.
+
+90
+
+Considere que um time de desenvolvimento de software,
+enquanto apurava os requisitos a serem apresentados por
+certa aplicação web de um sistema de vendas, tenha definido
+os seguintes requisitos: i) o sistema deve possuir a função
+cadastro de clientes; ii) o tempo de processamento do
+cadastro
+
+de
+
+um
+
+cliente
+
+100 milissegundos. Nesse
+
+não
+
+deve
+
+ser
+
+maior
+
+que
+
+caso, o primeiro requisito
+
+mencionado é funcional e o segundo, não funcional.
+No que concerne a DDD (domain-driven design), julgue os itens
+subsecutivos.
+91
+
+Conforme o conceito de bounded contexts, os contextos da
+aplicação têm regras e responsabilidades claramente
+definidas, representadas em um context map.
+
+92
+
+Em DDD, os diagramas são elaborados com linguagem
+ubíqua, que é uma linguagem de marcação semelhante
+ao XML.
+Determinado sistema tem duas classes, Carro e
+
+Bicicleta. Ambas têm atributos como marca e modelo, além
+
+de métodos próprios, mas compartilham uma classe-pai comum
+de nome Veiculo.
+A partir dessa situação hipotética, julgue o item a seguir,
+a respeito de herança em orientação a objetos.
+93
+
+As
+
+classes
+
+Carro
+
+e
+
+Bicicleta
+
+fazem
+
+parte
+
+de
+
+uma estrutura de herança hierárquica, na qual os métodos e
+funcionalidades
+
+das
+
+subclasses
+
+são
+
+automaticamente
+
+sobrepostos e eliminados pelos da classe-pai Veiculo.
+
+
+Acerca de criptografia, de clean code, de refactoring e de JUnit,
+julgue os itens seguintes.
+94
+
+No JUnit, a anotação @EnabledOnOs permite que testes
+sejam executados em qualquer sistema operacional,
+garantindo que todas as funcionalidades sejam testadas
+uniformemente em diferentes plataformas.
+
+95
+
+A prática de refactoring resulta em uma versão que altera
+o comportamento externo do código enquanto melhora
+aspectos como desempenho, legibilidade e manutenibilidade,
+promovendo uma melhoria substancial na eficiência do
+código.
+
+96
+
+A criptografia de curvas elípticas é um método de
+criptografia de chave pública que se baseia na matemática de
+curvas elípticas para garantir a confidencialidade e
+a integridade de dados, além de ser resistente ao problema do
+logaritmo discreto de curva elíptica.
+
+97
+
+No clean code, o princípio da responsabilidade
+única estabelece que uma classe deve ter uma única
+responsabilidade clara, evitando-se múltiplas razões para
+mudanças, o que melhora a coesão, a manutenibilidade e
+a extensibilidade do código.
+
+Em determinado banco de dados, a entidade Pedido está
+mapeada com uma relação @OneToMany com a entidade Item,
+configurada com a estratégia de carregamento Eager.
+A partir da situação apresentada, julgue o item seguinte, relativo
+ao framework Hibernate.
+98
+
+Se a estratégia de carregamento for definida como Eager na
+relação @OneToMany entre a entidade Pedido e a entidade
+Item, o Hibernate automaticamente carregará todos os itens
+relacionados ao pedido assim que o pedido for consultado.
+
+Julgue os itens subsequentes a respeito do Modelo de
+Acessibilidade em Governo Eletrônico (eMAG).
+99
+
+Uma das recomendações do eMAG é fornecer a opção de
+alterar a duração relativa à realização de uma tarefa para
+a qual haja limite de tempo.
+
+100 As diretrizes do eMAG para acessibilidade determinam
+
+como as páginas web do governo brasileiro devem ser
+implementadas no que diz respeito ao seu comportamento.
+Acerca de Angular, CSS3, HTML5, JavaScript, TypeScript e
+XML, julgue os próximos itens.
+101 Uma das funcionalidades da CSS3 é o conjunto de
+
+transformações 3D, que visam permitir um
+dimensionamento bidimensional dos elementos.
+
+melhor
+
+102 Angular é um framework baseado em TypeScript cujo
+
+objetivo é permitir a criação de aplicativos interativos e
+dinâmicos da Web.
+103 XML é uma linguagem de programação voltada para
+
+a transferência de dados entre aplicações web e sistemas de
+outras plataformas.
+No que se refere a Git e Github, julgue o item a seguir.
+104 No Git, cada desenvolvedor pode trabalhar em sua própria
+
+branch, que é uma ramificação do código principal, para
+depois juntá-la a este por meio do comando merge.
+
+
+CEBRASPE – STJ – Edital: 2024
+
+Em relação à ciência de dados, julgue os itens que se seguem.
+105 Data mining é o processo de descobrir padrões e
+
+informações valiosas em grandes conjuntos de dados, a partir
+da utilização de técnicas estatísticas, de aprendizado de
+máquina e de inteligência artificial.
+106 O OLAP (online analytical processing) permite a realização
+
+de consultas analíticas complexas em grandes volumes de
+dados, organizados em estruturas multidimensionais, sem
+impactar negativamente o
+
+desempenho dos sistemas
+
+transacionais.
+107 O termo Big Data se refere apenas ao grande volume de
+
+dados que uma organização coleta, enquanto analytics é
+o processo de analisar esses dados para obter insights.
+108 Um data warehouse é projetado para suportar operações
+
+transacionais diárias, como inserções, atualizações e
+exclusões frequentes de dados, similarmente a um banco de
+dados operacional.
+109 Durante o processo de ETL (extract, transform, load),
+
+a etapa de transformação é responsável por mover os dados
+extraídos para o sistema de destino, onde serão armazenados
+para análise.
+No que se refere à inteligência artificial e aprendizado de
+máquina, julgue os próximos itens.
+110 As redes neurais do tipo feedforward, por padrão, processam
+
+os dados continuamente, utilizando encaminhamentos de
+feedbacks corretivos para aprimorar sua análise preditiva.
+111 Stemming é uma técnica que reduz palavras flexionadas ao
+
+seu radical, permitindo que as variações de uma palavra
+sejam tratadas como um mesmo termo, o que melhora o
+desempenho de modelos de aprendizado de máquina.
+112 Na regressão linear múltipla, a previsão do modelo é
+
+um valor entre 0 e 1, tal que 0 indica um evento improvável
+de acontecer e 1 indica a probabilidade máxima de que esse
+evento aconteça.
+113 RAG (retrieval augmented generation) é o processo de
+
+recuperar informações contextuais relevantes de uma fonte
+de dados e integrá-las ao prompt do usuário em um modelo
+de linguagem, melhorando-se a qualidade da resposta gerada.
+114 Um modelo probabilístico é uma técnica não supervisionada
+
+que agrupa pontos de dados com base na probabilidade de
+eles pertencerem a uma distribuição, sendo o modelo
+de mistura gaussiana (GMM) um dos métodos mais comuns.
+115 Na análise de característica de operação do receptor (ROC),
+
+o método não paramétrico para calcular a área sob a curva
+(AUC) assume que os dados seguem uma determinada
+distribuição, como a distribuição normal.
+
+
+A respeito de desenvolvimento de software seguro, julgue os itens q
+116 No contexto de Secure Software Development Framework d
+implementação de processos para identificar, analisar e corrig
+implantação.
+117 No SDL (Security Development Lifecycle), a modelagem de
+ameaças ao sistema durante a fase de design do software.
+118 CLASP (Comprehensive, Lightweight Application Security P
+testes do ciclo de vida do desenvolvimento de software, com a
+119 OWASP Top 10 é uma lista de recomendações de seguranç
+encontradas em sistemas operacionais.
+120 A programação defensiva inclui a prática de validação e sa
+processados pelo sistema.
+Espaço livre
+
+
+CEBRASPE – STJ – Edital: 2024
+
+que se seguem.
+do NIST, a prática de responder a vulnerabilidades (RV) inclui a
+gir vulnerabilidades de segurança em software, mesmo após a sua
+ameaças é uma prática que ajuda a identificar e avaliar possíveis
+
+Process) é uma metodologia utilizada exclusivamente na fase de
+finalidade de garantir a segurança das aplicações.
+ça que se restringe à listagem das vulnerabilidades de software
+
+anitização de entradas para prevenir que dados maliciosos sejam
+
+

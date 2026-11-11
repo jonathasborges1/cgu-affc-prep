@@ -1,0 +1,401 @@
+                                    -- CONHECIMENTO
+Acerca da cartografia digital, julgue os itens a seguir.
+51   Cartas aplicadas podem ser cartas de potencial mineral,
+     anomalias geoquímicas, topografia, drenagem, unidades
+     geotécnicas, de suscetibilidade, de riscos, de vulnerabilidade
+     e de aptidão.
+52   A cartografia pode ser definida como a organização,
+     apresentação, comunicação e utilização da geoinformação
+     nas formas visual, digital ou tátil, que inclui todos os
+     processos de preparação dos dados no emprego e estudo de
+     todo e qualquer tipo de mapa.
+53   Cartas     temáticas   são   cartas   aplicadas   que   contêm
+     informações, por exemplo, de geologia, de geomorfologia,
+     de pedologia e de hidrogeologia.
+54   Na representação digital, as bases cartográficas permitem
+     separar as informações em diversos níveis, também
+     denominados planos de informação ou camadas, que contêm
+     elementos, de certa forma, homogêneos ou de mesma
+     natureza.
+55   São exemplos de representação digital a drenagem, a malha
+     viária, o contorno da mancha urbana, os limites políticos e a
+     topografia, com exceção de logradouros públicos e unidades
+     geológicas.
+
+Julgue os próximos itens, em relação aos conceitos de projeção e
+escala.
+56   Escala é a relação matemática que permite a representação
+     reduzida, no espaço limitado de uma carta, dos detalhes
+     existentes no terreno, ou seja, é a relação entre o objeto na
+     carta e a sua dimensão real.
+57   As projeções cartográficas são formas de representação da
+     estrutura ou superfície tridimensional da Terra em um mapa
+     plano, no qual as coordenadas geográficas da Terra são
+     mapeadas ou projetadas em uma superfície plana.
+58   As projeções cartográficas utilizadas com maior frequência
+     são a policônica e a de Lambert, para grandes áreas e escalas
+     acima de 1:250, e a UTM, para escalas que variam de 1:250
+     a 1:500.
+59   A escolha do tipo de sistema de projeção adequado para
+     determinada aplicação envolve dois fatores: a situação
+     (forma e dimensões da região a mapear); e a finalidade a que
+     se destina.
+60   Projeção é um tipo de traçado sistemático de linhas em uma
+     superfície plana, destinado à representação de paralelos de
+     latitude e meridianos de longitude da Terra, ou de parte dela;
+     essa representação da superfície terrestre é isenta de
+     distorções, sendo, por isso, a base para a construção de
+     mapas.
+
+                               CEBRASPE – ANM – Edital: 2024
+
+OS ESPECÍFICOS --
+ Julgue os itens subsequentes, relativos à estrutura de dados e
+ à modelagem de superfícies.
+ 61 A krigagem é um interpolador que calcula a cota de um
+     ponto de interesse pela média aritmética das amostras de sua
+     vizinhança, distribuindo os pesos de acordo com a
+     variabilidade espacial, determinada por meio da análise
+     geoestatística.
+ 62 Na      operação da krigagem, os coeficientes do
+     semivariograma são fornecidos para controle da interpolação
+     com o conjunto de amostras. A cada ponto calculado,
+     amostras, dentro de um raio de busca, são ponderadas em
+     função de sua distância em relação ao ponto calculado.
+ 63 Na estrutura de um SIG, o mapa de feições complexas pode
+     ser construído a partir de feições simples: uma área é
+     constituída por linhas, que, por sua vez, são constituídas por
+     pontos, os quais estão associados a coordenadas.
+ 64 As feições geográficas são construídas a partir de pontos,
+     linhas e áreas, portanto, suas descrições podem consistir na
+     medida de feições, como tamanho, distribuição, padrão,
+     orientação, vizinhança, contiguidade, forma e escala, desde
+     que não se refiram à topologia.
+ Julgue os itens que se seguem, relativos a sistemas de informação
+ e tipos de dados.
+ 65   Os relacionamentos topológicos são propriedades métricas
+      (quantitativas) de objetos geográficos que se mantêm
+      constantes quando o espaço geográfico dos objetos é
+      distorcido.
+ 66   Modelos de dados CAD são capazes de armazenar detalhes
+      de relacionamentos entre objetos, como topologia, redes e
+      outras informações essenciais a muitas operações analíticas
+      espaciais.
+ 67   Poucos modelos de sistemas de informação geográfica (SIG)
+      são baseados, de alguma forma, nos modelos de dados
+      geográficos do tipo conceitual objeto discreto-campo
+      contínuo e do tipo lógico vetorial-matricial.
+ 68   As coordenadas que definem a geometria de cada objeto
+      podem ter de duas a quatro dimensões: x, y (linha e coluna,
+      ou latitude e longitude, respectivamente); x, y, z (em que z é
+      um valor de altura); x, y, z, m (em que m é outro valor para
+      representar o tempo ou outra propriedade).
+ 69   Entre os níveis de abstração de um modelo de dados de
+      sistemas de informação geográfica (SIG), o modelo
+      conceitual pode ser definido como um modelo de processos
+      e objetos selecionados focado em humanos, em geral,
+      parcialmente estruturado e considerado relevante para
+      problemas específicos em uma área de interesse.
+ 70   O modelo de dados vetorial utilizado em sistemas de
+      informação geográfica (SIG) caracteriza-se pela natureza
+      precisa de seu método de representação, por sua eficiência de
+      armazenamento e pela qualidade de sua produção
+      cartográfica, apesar da pouca disponibilidade de ferramentas
+      funcionais para operações como projeções de mapas,
+      processamento de sobreposição e análise cartográfica.
+ Julgue o seguinte item, a respeito de softwares livres.
+ 71   Os softwares livres estão perdendo espaço para softwares
+      comerciais, como o SPRING, o QGis, o Udig, o Ossim, o
+      Thuban e o Saga, em várias áreas de aplicação, inclusive no
+      geoprocessamento.
+
+Julgue os próximos itens, relativos à aquisição de dados.
+72   A extensão Oracle Spatial, do sistema de armazenamento de
+     dados Oracle, fornece a base para o gerenciamento de dados
+     espaciais dentro de um banco de dados Oracle, de maneira
+     que os tipos e as funções padrão no Oracle, como CHAR,
+     DATE ou INTEGER, são estendidos com equivalentes
+     geográficos.
+73   O sistema ASCII de 8 bits atribui códigos a cada símbolo de
+     texto, incluindo-se letras, números e símbolos comuns.
+74   No sistema ASCII, números com casas decimais são
+     codificados mediante representações em real ou
+     ponto-flutuante.
+75   O sistema binário de contagem emprega apenas dois
+     símbolos, 0 e 1, para representar a informação numérica,
+     existindo apenas duas opções para um dígito, quatro
+     combinações possíveis para dois dígitos, oito combinações
+     possíveis para quatro dígitos, e assim por diante.
+76   Bancos de dados relacionais são compostos de tabelas,
+     unidas mediante valores comuns de linha/coluna, ou chaves,
+     sendo cada classe geográfica (camada) armazenada como
+     uma tabela.
+77   Um índice do banco de dados é uma lista ordenada derivada
+     dos dados em uma tabela e armazenada como uma coluna de
+     tabela, o que dispensa onerosas varreduras de tabelas
+     inteiras.
+78   A fim de proteger a integridade do banco de dados, as
+     transações são atômicas, isto é, ou são completamente
+     autorizadas no banco de dados, ou são revertidas
+     (definitivamente não autorizadas).
+
+
+
+
+Com base na figura precedente, que mostra as curvas espectrais
+típicas de vegetação verde e de um solo seco tropical, julgue os
+itens a seguir.
+79 A banda de absorção S1 decorre da presença de óxidos de
+   ferro no solo.
+80 A banda de absorção V1 decorre da atividade fotossintética
+   da vegetação verde, enquanto as bandas de absorção V2 e V3
+   são decorrentes da presença de moléculas de água nas folhas.
+Julgue os itens subsequentes, relativos a sensores imageadores.
+81 Sensores imageadores ativos e passivos são sensíveis às
+    variações nas condições de iluminação solar durante o
+    processo de aquisição de imagens da superfície terrestre.
+82 Devido à operação na faixa espectral de micro-ondas,
+    sensores de radar são capazes de adquirir imagens da
+    superfície terrestre independentemente da presença de
+    nuvens.
+
+                             CEBRASPE – ANM – Edital: 2024
+Julgue os itens a seguir relativos a satélites de alta definição e
+sensoriamento remoto.
+83 A NASA tem disponibilizado, em escala global, cenas
+   harmonizadas dos satélites Landsat e Sentinel-2 em uma
+   resolução espacial de 30 metros, com periodicidade de
+   2-3 dias.
+84 O satélite Landsat 9 tem resolução temporal de 10 dias; o
+   satélite Sentinel-2 tem resolução espacial de 30 metros.
+85 Entre os satélites Landsat 9, Sentinel-2 e PlanetScope, este
+   último é o que apresenta a melhor resolução espectral,
+   espacial e temporal.
+
+A respeito de processamento de imagens digitais, julgue os itens
+subsecutivos.
+86 Random Forest, XGBoost e U-Net são algoritmos que fazem
+   parte do grupo de classificadores denominados
+   aprendizagem de máquina.
+87 Filtros espaciais dos tipos passa-baixa e passa-alta
+   geralmente são utilizados para reduzir ruídos e para realçar
+   bordas entre alvos adjacentes, respectivamente.
+
+       Os desmatamentos que ocorrem na Amazônia vêm sendo
+monitorados pelo Instituto de Pesquisas Espaciais por meio do
+projeto Monitoramento do Desmatamento da Floresta Amazônica
+Brasileira por Satélite (PRODES Amazônia). A tabela a seguir
+apresenta as áreas desmatadas, discriminadas por estados, no
+período de 1988 a 2024.
+                     estado            área (km2)
+                 Pará                     172.435
+                 Mato Grosso              155.390
+                 Rondônia                   67.295
+                 Amazonas                   36.137
+                 Maranhão                   26.967
+                 Acre                       18.557
+                 Roraima                     9.908
+                 Tocantins                   8.845
+                 Amapá                       1.687
+                 total                    497.221
+                                 Internet: <terrabrasilis.dpi.inpe.br> (com adaptações).
+
+
+Com base nessas informações, julgue os próximos itens.
+88 Do total de área desmatada no período considerado, mais de
+   30% foi desmatada no território paraense.
+89 Os dados do PRODES Amazônia são utilizados pelo
+   governo federal para otimizar as ações de fiscalização de
+   desmatamento em tempo quase real.
+90 A área média anual desmatada nos estados considerados é
+   superior a 12.000 km2.
+
+Julgue os itens seguintes, a respeito do índice de vegetação por
+diferença normalizada (NDVI) e do índice de vegetação
+realçado (EVI), utilizados em aplicações de sensoriamento
+remoto.
+91 O EVI, em relação ao NDVI, apresenta menor sensibilidade
+   às variações, tanto nas propriedades físicas e químicas do
+   solo quanto nas condições atmosféricas.
+92 No cálculo do NDVI e do EVI, são utilizadas as bandas
+   espectrais do verde e do vermelho.
+
+Julgue os próximos itens, a respeito de desenvolvimento de
+aplicações em APIs no contexto de plataformas GeoWEB.
+93 Na criação de aplicações em plataformas GeoWEB, o uso de
+     APIs RESTful é geralmente preferível ao uso de APIs
+     SOAP, devido à sua maior flexibilidade e facilidade de
+     integração com diferentes sistemas e tecnologias.
+94 Os desenvolvedores que utilizam APIs para criar aplicações
+     em plataformas GeoWEB geralmente não precisam se
+     preocupar com a segurança e a proteção dos dados, pois
+     esses aspectos são automaticamente gerenciados pela própria
+     API, independentemente do provedor de serviços.
+Julgue os itens seguintes, que se referem a visualização dos dados
+em plataforma GeoWEB, com foco em análise de dados.
+95 Na análise de dados em plataformas GeoWEB,
+    conectividade se refere apenas à ligação física entre redes de
+    transporte, sem considerar aspectos de comunicação digital
+    entre dispositivos.
+96 Interpolação e filtragem são técnicas utilizadas em
+    plataformas GeoWEB para estimar valores em locais não
+    amostrados e remover ruídos dos dados, respectivamente.
+97 Em plataformas GeoWEB, entidades discretas são
+    representadas por pontos específicos no mapa, enquanto
+    entidades contínuas são mostradas como áreas ou superfícies
+    abrangentes.
+98 Algoritmos utilizados em plataformas GeoWEB não têm
+    impacto significativo na eficiência da análise de dados, pois
+    o processamento é sempre rápido, independentemente do
+    algoritmo escolhido.
+99 Operações lógicas em análise de dados em plataformas
+    GeoWEB são fundamentais para realizar consultas
+    complexas e filtrar informações de interesse.
+100 Em plataformas GeoWEB modernas, não é possível gerar
+    visualizações gráficas dos resultados de operações
+    aritméticas e estatísticas em análise de dados diretamente na
+    plataforma.
+101 Buffers são utilizados em análise de dados em plataformas
+    GeoWEB para definir zonas de influência ao redor de
+    pontos, linhas ou áreas específicas, facilitando a análise
+    espacial.
+No que se refere a visualização de dados em plataforma
+GeoWEB, com foco em divulgação e compartilhamento de
+dados, julgue os itens a seguir.
+102 Sistemas compartilhados em plataformas GeoWEB
+    frequentemente enfrentam problemas de inconsistência de
+    dados, devido à falta de mecanismos adequados para
+    controle de concorrência e integridade dos dados.
+103 A INDA (infraestrutura nacional de dados abertos) não
+    possui nenhum mecanismo para garantir a interoperabilidade
+    entre diferentes sistemas de dados abertos no Brasil,
+    deixando essa responsabilidade para os usuários finais.
+104 A arquitetura cliente-servidor em plataformas GeoWEB é
+    fundamental para o compartilhamento de dados, pois permite
+    que múltiplos usuários acessem e manipulem dados
+    centralizados de forma eficiente.
+105 A INDE (infraestrutura nacional de dados espaciais)
+    promove a integração de informações geoespaciais,
+    permitindo que dados de diferentes fontes sejam combinados
+    para criar mapas precisos e detalhados.
+106 Reprodução digital em plataformas GeoWEB envolve
+    apenas a visualização de dados em tempo real, não
+    permitindo a criação de cópias digitais para
+    compartilhamento e análise posterior.
+
+                             CEBRASPE – ANM – Edital: 2024
+Considerando o script Python a seguir, julgue os próximos itens.
+
+
+numero = 42
+texto = “Python é incrível”
+lista = [1, 2, 3, 4]
+dicionario = {“nome”: “Alice”, “idade”: 25}
+booleano = True
+
+resultado = numero / 5
+texto_modificado    =            texto.replace(“incrível”,
+“fantástico”)
+
+if booleano and numero > 10:
+ print(f”{texto_modificado}!”)
+
+soma_lista = sum(lista)
+for elemento in lista:
+ print(f”Elemento: {elemento}”)
+
+dicionario[“cidade”] = “São Paulo”
+if “idade” in dicionario:
+ idade = dicionario[“idade”]
+ print(f”Idade armazenada: {idade}”)
+
+entrada_usuario = input(“Digite um número: “)
+try:
+ numero_convertido = float(entrada_usuario)
+ print(f”O    dobro    do   número    digitado é:
+{numero_convertido * 2}”)
+except ValueError:
+ print(“Erro: Entrada inválida. Digite um número
+válido.”)
+
+107 Se um erro do tipo ValueError ocorrer na conversão dentro
+    do bloco try:, o programa será encerrado imediatamente,
+    sem exibir a mensagem Erro: Entrada inválida.
+    Digite um número válido..
+108 O comando print(f”O dobro do número digitado
+    é: {numero_convertido * 2}”) pode ser reescrito
+    como print(“O dobro do número digitado é: “ +
+    numero_convertido * 2), sem causar erro.
+109 Em Python, a operação de divisão sempre retorna um
+    número do tipo float, mesmo que o resultado seja um
+    número inteiro.
+110 A função replace() modifica diretamente a string
+    armazenada na variável texto, substituindo incrível por
+    fantástico permanentemente.
+111 No trecho if booleano and numero > 10:, se o valor
+    da variável booleano for False, a condição não será
+    avaliada completamente e o número não será comparado
+    com 10.
+112 A função sum(lista) somente pode ser usada em listas que
+    contêm apenas números, pois a operação de soma não pode
+    ser aplicada a listas com tipos mistos.
+
+numeros = [10, 20, 30, 40]
+numeros.append(50)
+numeros.insert(2, 25)
+removido = numeros.pop()
+
+
+coordenadas = (3, 5)
+x, y = coordenadas
+
+
+pares = {2, 4, 6, 8}
+impares = {1, 3, 5, 7}
+uniao = pares | impares
+interseccao = pares & impares
+
+
+dados     =     {“nome”:       “Carlos”,       “idade”:       30,
+“cidade”: “Rio”}
+dados[“idade”] = 31
+dados.pop(“cidade”)
+chaves = list(dados.keys())
+
+
+for chave, valor in dados.items():
+ print(f”{chave}: {valor}”)
+
+
+if “nome” in dados:
+ print(f”Nome encontrado: {dados['nome']}”)
+
+
+Julgue os itens a seguir, relativos ao código Python precedente.
+113 O método insert() pode ser usado para adicionar
+    elementos em uma lista em qualquer posição específica,
+    movendo os elementos subsequentes.
+114 O método append() adiciona um novo elemento ao final da
+    lista numeros, alterando essa lista diretamente, sem criar
+    uma nova instância.
+115 O método pop() pode ser usado para remover um elemento
+    de numeros, caso essa variável seja uma tupla e seja
+    especificado o índice correto.
+116 O método pop() removerá um par chave-valor de dados,
+    retornando o valor correspondente à chave removida.
+117 O operador | pode ser utilizado para realizar a união de dois
+    conjuntos, retornando um novo conjunto com os elementos
+    combinados sem duplicatas.
+118 O método keys() retornará uma lista contendo todas as
+    chaves presentes no dicionário dados.
+
+Acerca de governança de dados e informação, julgue os itens a
+seguir.
+119 Um dos princípios associados é que os dados precisam ser
+    classificados e controlados de acordo com a sua importância.
+120 Um dos motivadores de negócio é melhorar a qualidade dos
+    dados, o que contribui para a performance do negócio.
+
+               CEBRASPE – ANM – Edital: 2024
+Espaço livre
+

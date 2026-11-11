@@ -1,0 +1,330 @@
+-- CONHECIMENTO
+Julgue os itens a seguir, relativos a algoritmos de linguagem de
+programação.
+51 As funções predefinidas nas linguagens de programação
+devem ser modificadas pelo desenvolvedor do sistema, de
+forma a adaptá-las aos tipos de dados que se quer utilizar.
+52 O pseudocódigo consiste em um texto estruturado com
+comandos escritos em linguagem humana, no qual se apoia a
+criação dos algoritmos computacionais.
+53 Os dados de um algoritmo devem ser definidos por tipos
+para que seus conteúdos possam ser submetidos a operações
+corretas, inerentes a cada tipo de dado.
+54 Na instrução A(i) = FUNC(i), a saída da função FUNC( )
+é passada corretamente como parâmetro de entrada (i) para
+a função A.
+Com relação à lógica de programação, julgue os próximos itens.
+Em uma linguagem estruturada, os programas são
+constituídos por blocos de comandos compostos por três
+tipos estruturas: sequencial, de seleção e de iteração.
+56 O bloco de instruções a seguir apresenta uma estrutura
+recursiva de algoritmo de programação.
+55
+
+Função FAT(n):
+Se n < 0, Retorne “ERRO”;
+Se n = 0, Retorne 1;
+Retorne n_FAT(n - 1);
+Fim da função.
+
+A estrutura de controle IF, que pode ser classificada como
+do tipo iteração, determina o caminho que o algoritmo deve
+seguir, de acordo com determinada condição.
+58 O resultado de uma função pode ser usado como operando
+em uma expressão aritmética de um programa ou algoritmo
+de programação.
+57
+
+Acerca de administração de SGBD e governança de dados, julgue
+os próximos itens.
+59 No PostgreSQL, o mesmo servidor pode ter diversas bases,
+fisicamente separadas, cada uma contendo uma coleção de
+objetos, como tabelas e visões.
+60 De acordo com o DAMA Wheel, a área de arquitetura de
+dados oferece orientação e supervisão para o gerenciamento
+de dados.
+61 Segundo o DAMA-DMBoK, o ciclo de vida dos dados é
+baseado no ciclo de vida do desenvolvimento do sistema que
+os utiliza.
+Julgue os itens subsecutivos, a respeito de integração de dados e
+big data.
+Banco de dados do tipo NoSQL aceitam escalabilidade nas
+formas horizontal, com o acréscimo de nós para
+armazenamento, e vertical, com a expansão do
+processamento dos nós já instalados.
+63 A atomicidade é um dos recursos da propriedade de
+variedade do big data, e garante que todas as alterações
+sejam efetivadas no banco de dados, sem permitir
+atualização parcial.
+64 O processo de ETL consiste em analisar e reformatar os
+dados depois que forem carregados para um data warehouse,
+para posterior eliminação do que não é considerado
+necessário.
+62
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+OS ESPECÍFICOS -No que se refere a banco de dados, julgue os próximos itens.
+Em bancos de dados relacionais, o comando trigger é
+utilizado para automatizar ações a serem executadas a partir
+de um evento.
+66 O relacionamento hipotético entre as entidades Pessoa e
+Celular que melhor define a propriedade atual do aparelho
+é de cardinalidade N:N.
+67 Para que uma tabela esteja na terceira forma normal, é
+suficiente que ela não possua nenhuma coluna não-chave que
+dependa de outra coluna não-chave.
+68 Nos bancos de dados relacionais, atributos que podem ser
+divididos em sub-atributos são considerados como
+compostos, enquanto os sub-atributos podem ser compostos
+ou atômicos.
+65
+
+Quanto ao ciclo de vida do software e aos sistemas orientados a
+objetos, julgue os itens subsequentes.
+69 Em sistemas orientados a objetos, os objetos podem ser de
+natureza física, por exemplo, cadeira, ou de natureza
+conceitual, por exemplo, inscrição em um curso.
+70 No modelo em cascata, o ciclo de vida do software torna o
+processo de desenvolvimento estruturado.
+71 Uma vantagem do ciclo de vida do software em cascata é
+que ele permite modificações nos requisitos por meio de
+atualização das fases anteriores.
+No contexto da engenharia de requisitos e de metodologias de
+desenvolvimento de software, julgue os próximos itens.
+72 O modelo lógico, em engenharia de requisitos, é responsável
+por realizar o tratamento de características dependentes de
+um determinado tipo de plataforma computacional, porém
+independente de produtos específicos.
+73 No diagrama entidade e relacionamento a seguir, verifica-se
+um exemplo clássico de autorrelacionamento para a entidade
+Disciplina.
+
+74
+
+Em engenharia de requisitos, o modelo conceitual é
+construído na fase de projeto do sistema de informação.
+
+Quanto aos princípios fundamentais das atividades de teste e aos
+processos ágeis de desenvolvimento de software, julgue os itens
+a seguir.
+75 No Scrum, a lista priorizada de requisitos (backlog) é
+descartada, permitindo que requisitos possam ser
+adicionados, removidos e alterados a qualquer momento, e as
+prioridades possam ser alteradas.
+76 Os estágios das atividades de teste de software devem ser
+realizados na seguinte ordem: teste do sistema, teste de
+integração e teste de unidade.
+77 Os testes de regressão são realizados por ocasião da
+ocorrência de mudanças no software.
+
+
+Conforme a ISO/IEC 90003, julgue o item a seguir.
+78 A norma ISO/IEC 90003 define um modelo de garantia da
+qualidade do software que consiste em quatro fases:
+planejamento, implementação, avaliação e melhoria.
+Acerca de controle de versão de software, julgue os itens
+seguintes.
+79 O controle de versão de software pode ser isolado ou
+integrado, dependendo da forma como os repositórios de
+versões são organizados e acessados.
+80 O controle de versão de software visa gerar as diferentes
+versões de um software que são criadas durante o seu
+desenvolvimento e manutenção.
+Julgue os itens a seguir, que tratam de computação em nuvem.
+81 O componente middleware é gerenciado pelo cliente no IaaS
+(Infraestrutura como Serviço) e no PaaS (Plataforma como
+Serviço), enquanto no SaaS (Programa como Serviço), esse
+componente é gerenciado pelo provedor de serviços de
+nuvem.
+82 Nuvens privadas são geralmente definidas como ambientes
+dedicados a um usuário final, mas, de forma geral, pode-se
+dizer que toda nuvem se torna privada quando a TI
+subjacente é dedicada e o cliente tem acesso totalmente
+isolado a ela.
+83 As equipes de segurança têm visibilidade limitada das cargas
+de trabalho executadas em ofertas de serviços de nuvem
+privada, o que dificulta garantir a proteção.
+84 A técnica de load balance é uma das estratégias possíveis de
+se estabelecer a implementação de alta disponibilidade em
+uma infraestrutura de nuvem.
+Julgue os itens subsequentes, relativos aos componentes centrais
+da arquitetura em nuvem.
+85 A aquisição de subscrições em serviços em nuvem permite
+que as organizações tenham acesso a tecnologias de ponta,
+requerendo, no entanto, investimentos em infraestrutura e na
+contratação de especialistas para gerenciá-las e atualizá-las
+regularmente.
+86 A fim de proporcionar mais disponibilidade em relação aos
+recursos de uma zona, recursos regionais são implantados de
+forma redundante em várias zonas de uma região.
+Com respeito à linguagem de programação PHP, julgue os itens a
+seguir.
+87 Para se declarar variáveis em PHP, é utilizado cifrão ($)
+seguido pelo nome da variável; os nomes das variáveis são
+case-sensitive.
+88 A função echo é capaz de mostrar somente uma string,
+enquanto a função print pode mostrar uma ou várias
+strings.
+Julgue os itens que se seguem a respeito do Gitlab.
+89 O Gitlab suporta o uso de snippets, que são trechos de
+código reutilizáveis e possíveis de serem compartilhados
+entre projetos.
+90 O Gitlab disponibiliza recursos nativos capazes de
+automatizar testes e verificar a qualidade do código,
+conhecidos como CI (continuous integration), sendo
+necessários recursos de terceiros para executar a etapa de CD
+(continuous delivery).
+Acerca do Confluent Kafka, julgue os itens a seguir.
+Broker é um capturador de eventos que pode ser dividido em
+partições e atua na proteção de eventos com característica de
+imutabilidade.
+92 Uma aplicação que publica dados escrevendo em um tópico
+no Kafka cluster é considerada producer.
+91
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Julgue os próximos itens, relativos a política de segurança da
+informação.
+93 A política de segurança da informação que esteja alinhada
+tanto à estratégia e aos requisitos do negócio quanto às
+regulamentações e legislações afetas está isenta de
+considerar os riscos e as ameaças atuais para a segurança da
+informação.
+94 Convencionou-se que, no âmbito das organizações, a política
+de segurança da informação seja definida e aprovada pela
+direção, devendo ser analisada criticamente em intervalos
+planejados.
+Julgue os próximos itens, relativos a procedimentos de segurança
+e de gerenciamento.
+95 A segregação de funções é um procedimento de segurança
+que visa separar as funções conflitantes com vistas a evitar
+que um indivíduo execute potenciais funções conflitantes por
+conta própria, tendo como exceção procedimentos como
+solicitar, aprovar e implementar os direitos de acesso, que
+deve ser executado pelo mesmo indivíduo, a fim de se
+garantir unicidade.
+96 Validar o atendimento dos requisitos de segurança da
+informação, desde que isso não inclua a autenticação do
+usuário, é um procedimento importante antes de
+disponibilizar as aplicações no ambiente de produção.
+97 O desenvolvimento seguro de software é um procedimento
+exigido para se construir arquitetura e sistemas seguros,
+tendo como premissa a unificação dos ambientes de
+desenvolvimento, teste e produção, de forma a se garantir e
+padronizar os testes afetos à segurança.
+Com base na Lei Geral de Proteção de Dados Pessoais (LGPD),
+julgue os próximos itens.
+98 Cabe ao controlador e ao operador atuarem como canal de
+comunicação entre os titulares dos dados e a autoridade
+nacional de proteção de dados.
+99 O titular dos dados pessoais tem direito a obter do
+controlador, em relação aos dados do titular por ele tratados,
+a anonimização, o bloqueio ou a eliminação de dados
+desnecessários em desconformidade com o disposto na
+LGPD.
+100 Caso os dados pessoais objeto do tratamento tenham sido
+coletados em Brasília (DF), será cabível a aplicação da
+LGPD, independentemente do meio e de a operação ter sido
+realizada por pessoa jurídica de direito público ou pessoa
+natural.
+101 Uma das exigências para que haja o tratamento de dados
+pessoais é o consentimento pelo titular dos dados, exceto no
+caso de os dados serem tornados manifestamente públicos
+pelo seu titular.
+102 Nos casos em que for indispensável a proteção da vida ou da
+incolumidade física do titular, desobriga-se o fornecimento
+de consentimento de acesso a dados sensíveis desse titular.
+A respeito da computação em nuvem e da modernização de
+software, julgue os itens seguintes.
+103 Na modalidade IaaS (infrastructure as a service), o sistema
+operacional e as aplicações instaladas podem ser controlados
+pelo próprio usuário.
+104 Uma nuvem é considerada híbrida quando é utilizada por
+duas ou mais organizações sem vínculo entre si.
+105 A modalidade PaaS (plataform as a software) é indicada
+para desenvolvedores de aplicações que operam na nuvem,
+pois oferece um ambiente de desenvolvimento de software.
+
+
+No que diz respeito a refatoração e modernização de software,
+julgue os itens subsequentes.
+106 Ao se aplicar um patch em um container, outro container
+
+pode ser gerado, o que permite a verificação do impacto do
+patch sobre as aplicações.
+107 Quando instalados em um mesmo host, containers diferentes
+devem executar o mesmo sistema operacional.
+108 De acordo com o modelo DevOps, a equipe de
+desenvolvimento é responsável por construir e publicar os
+containers de suas aplicações.
+109 Ao se especificar a nova versão de um software, devem ser
+mapeados os requisitos não funcionais, que definem o que o
+sistema deve fazer para atender as expectativas do cliente.
+110 Ao se migrar para uma arquitetura cliente/servidor
+multinível,
+a
+mesma
+aplicação
+pode
+assumir
+simultaneamente as funções de cliente e de servidor.
+111 Um dos princípios da componentização de software é o
+OCP (open-closed principle), que define que um componente
+pode ser estendido sem necessidade de modificações internas.
+112 A adoção da engenharia de software baseada em componentes
+(CBSE — component-based software engineering) apresenta
+como desvantagem o aumento do prazo para a implementação
+do software.
+Em relação à linguagem de programação Python, julgue os itens
+a seguir.
+113 Caso o ambiente e o programa não apresente nenhum tipo de
+
+erro ou exception, a execução do código a seguir terá como
+resultado os números 3, 4, 5, 6, 7, 8.
+x = range(3,9)
+for n in x:
+print(n)
+
+114 Nessa linguagem de programação, a indentação de código é
+
+considerada uma boa prática, pois não afeta a execução de
+um programa.
+
+A respeito de Javascript, julgue os próximos itens.
+115 Suponha-se que um código precise tratar uma string que
+
+apresente o valor 10.5 como um número inteiro. Nessa
+hipótese, para suportar essa operação, deve-se usar a função
+parseInt.
+
+116 A função setTimeout é usada para se aguardar, por um
+
+período de tempo parametrizado, a execução de uma thread
+com sucesso e, caso o tempo expire, a função interrompe a
+execução do programa e gera um código de erro.
+
+Julgue os itens a seguir, relativos à inteligência artificial (IA).
+117 O denominado motor de inferência é o núcleo dos sistemas
+
+de IA que oferece soluções possíveis para um problema
+apresentado.
+118 Em uma rede neural artificial, o valor de entrada de cada
+neurônio é calculado pelo produto matemático das saídas dos
+neurônios da camada inferior.
+119 O reconhecimento facial por imagens nas redes sociais é
+embasado no aprendizado de máquina chamado
+deep learning, que simula a rede neural do cérebro humano.
+120 Em machine learning, os sistemas podem usar aprendizado
+do tipo supervisionado, não supervisionado, autônomo ou
+gerenciado.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Espaço livre
+
+

@@ -1,0 +1,347 @@
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Com referência à elaboração de demonstrações contábeis pela
+legislação societária e pelos pronunciamentos técnicos do Comitê
+de Pronunciamentos Contábeis, julgue os itens subsequentes.
+51 O grupo de exigibilidades do balanço patrimonial é dividido
+em circulante e não circulante, apresentando-se o resultado
+dos exercícios futuros neste último grupo.
+52 Independentemente do método adotado, direto ou indireto, a
+demonstração dos fluxos de caixa apresenta, de forma
+estática e dedutiva, o modo como foi constituído o saldo de
+caixa do fim de exercício.
+Acerca da mensuração ao valor justo, julgue os itens seguintes.
+53 O valor justo é o preço pelo qual uma entidade vende seu
+produto em um mercado competitivo em dado momento.
+54 A relação entre o preço e o lucro de uma ação, utilizada
+pelos agentes econômicos para precificar o valor de uma
+ação, é uma técnica de mercado para avaliação do valor justo
+do ativo.
+55 Havendo dois valores para determinado bem no mercado, o
+valor justo será o valor do melhor uso que o agente
+econômico interessado poderá fazer desse bem.
+Julgue os itens seguintes, a respeito de procedimentos contábeis
+aplicáveis a operações de empréstimos, ativos contingentes e
+combinações de negócios.
+56 Uma sociedade anônima que obtiver recursos oriundos de
+um empréstimo bancário no valor de R$ 100.000,
+comprometendo-se a pagá-lo integralmente no prazo de
+24 meses pelo montante de R$ 150.000, deverá proceder ao
+reconhecimento contábil do referido empréstimo por meio de
+um registro a débito de uma conta do ativo circulante e a
+crédito de conta do passivo não circulante, no valor
+de R$ 150.000.
+57 A fusão é uma combinação de negócios em que duas ou mais
+sociedades se unem para formar uma nova sociedade,
+devendo os direitos e as obrigações dessas sociedades ser
+transferidos para o patrimônio da nova sociedade.
+58 O ativo contingente, que não deve ser objeto de
+reconhecimento pela contabilidade, surge de um evento que
+dá origem à possibilidade de entrada de benefícios futuros
+para a entidade, a depender da ocorrência de um ou mais
+eventos futuros cujo desfecho seja incerto.
+Julgue os próximos itens, referentes à distribuição de resultados e
+ao cálculo do custo dos produtos.
+59 No custeio por absorção, os gastos incorridos para se efetuar
+a venda dos produtos fabricados pela empresa devem ser
+contemplados no cálculo do custo dos produtos.
+60 A principal vantagem da distribuição de resultados por meio
+de juros sobre o capital próprio comparativamente à
+distribuição de dividendos está no benefício fiscal decorrente
+da dedutibilidade dos referidos juros para fins de apuração
+do lucro real.
+À luz das Normas Brasileiras de Contabilidade de Auditoria
+(NBC TA e NBC PA), julgue os próximos itens, a respeito de
+testes de observância e de evidências de auditoria.
+61 As evidências de auditoria obtidas de fontes externas são
+sempre menos confiáveis que as evidências geradas
+internamente pela entidade auditada.
+62 Os testes de observância em auditoria têm como objetivo
+principal verificar a eficácia dos controles internos
+implementados pela entidade, com o intuito de assegurar que
+eles estejam sendo corretamente aplicados e funcionando
+conforme esperado.
+
+Acerca de auditoria no ativo circulante, saldo credor e aquisições
+de mercadorias e serviços, julgue os itens subsequentes.
+63 Durante a auditoria fiscal, a identificação de aquisições de
+mercadorias, bens, serviços e outros ativos não
+contabilizados e sem comprovação da origem do numerário
+pode indicar a prática de caixa dois, o que constitui fraude
+fiscal. Nesses casos, o auditor deve considerar a
+possibilidade de autuação fiscal por omissão de despesas e a
+inclusão desses valores na base de cálculo de tributos
+devidos.
+64 A recomposição contábil do fluxo de caixa da entidade deve
+desconsiderar transações que não afetem diretamente o
+caixa, como depreciação e amortização, focando
+exclusivamente em entradas e saídas efetivas de dinheiro.
+65 Na auditoria de tributos, a existência de saldo credor na
+conta caixa, mesmo sem a emissão de documentos fiscais
+correspondentes, não pode ser utilizada como evidência de
+infração tributária, pois, em situações excepcionais, a
+legislação permite que o caixa apresente saldo credor.
+Acerca de passivos fictícios e da identificação de erros e fraudes
+na escrituração contábil e fiscal, julgue os itens a seguir.
+66 Ao identificar indícios de fraudes ou erros significativos na
+escrita fiscal, o auditor deve revisar a totalidade das
+transações fiscais da entidade auditada, para garantir que
+todas as irregularidades sejam descobertas e corrigidas antes
+da emissão do relatório final de auditoria.
+67 Caso identifique passivos fictícios nas demonstrações
+contábeis, o auditor deve considerar a possibilidade de ter
+havido manipulação intencional dos resultados financeiros
+da entidade com o objetivo de reduzir a carga tributária.
+Nesse caso, antes de emitir seu relatório, o auditor deve
+avaliar a materialidade e a possível má-fé dessas distorções.
+A respeito da escrituração fiscal digital (EFD), da nota fiscal
+eletrônica (NFe) e da utilização de sistemas gerenciadores de
+bancos de dados (SGBD) em auditoria fiscal, julgue o próximo
+item.
+68 Na auditoria da EFD e da NFe, o auditor fiscal deve verificar
+não apenas a consistência das informações declaradas, mas
+também a sua conformidade com as regras e a legislação
+tributária aplicáveis, garantindo que não haja omissões,
+subfaturamento ou outras irregularidades que possam
+resultar em sonegação fiscal.
+Com base na Lei Complementar n.º 105/2001, que dispõe sobre o
+sigilo das operações de instituições financeiras, julgue os
+seguintes itens.
+69 Cabe ao Poder Executivo de cada ente federado disciplinar,
+inclusive quanto à periodicidade e aos limites de valor, os
+critérios segundo os quais as instituições financeiras deverão
+informar à respectiva administração tributária (isto é, da
+União, dos estados, do Distrito Federal e dos municípios) as
+operações financeiras efetuadas pelos usuários de seus
+serviços.
+70 A quebra de sigilo bancário poderá ser realizada por
+autoridade administrativa tributária, independentemente de
+autorização judicial, quando houver processo administrativo
+instaurado ou procedimento fiscal em curso para apuração de
+ocorrência de infração à legislação tributária, devendo ser
+assegurado ao contribuinte o direito ao contraditório e à
+ampla defesa.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+À luz do Código Tributário do Município de Mossoró (CTMM),
+julgue os seguintes itens.
+71 O CTMM prevê, em relação ao IPTU, alíquotas distintas
+para imóveis edificados e não edificados.
+72 No caso do ITBI, o CTMM estabelece, no que concerne às
+transmissões
+compreendidas
+no
+SFH,
+alíquotas
+diferenciadas, considerados o valor efetivamente financiado
+e a parcela não financiada.
+73 Estão dispensados das obrigações tributárias acessórias
+relativas ao ISS os prestadores de serviços pertencentes ao
+setor público, a exemplo das empresas públicas
+contempladas pela imunidade tributária recíproca.
+74 A inscrição do crédito tributário em dívida ativa e o seu
+posterior envio à Procuradoria-Geral do Município não
+exclui a competência da Secretaria Municipal de Fazenda
+relativamente ao controle administrativo do crédito, desde
+que não tenha sido ajuizada a respectiva ação de execução
+fiscal.
+75 O CTMM assegura ao contribuinte o direito de consulta
+sobre interpretação e aplicação da legislação tributária, que
+pode ser protocolada após o início de ação fiscal.
+Em relação ao Sistema Tributário Nacional, à luz das disposições
+da Constituição Federal de 1988, julgue os itens que se seguem.
+76 O imposto sobre bens e serviços, cuja competência é
+compartilhada entre estados, DF e municípios, possui regime
+específico de tributação para serviços financeiros, operações
+com bens imóveis, planos de assistência à saúde e concursos
+de prognósticos.
+77 O IPTU e o ITCMD são impostos municipais que incidem
+sobre a propriedade.
+A respeito de aspectos atinentes à obrigação e à responsabilidade
+tributária, julgue os próximos itens à luz do Código Tributário
+Nacional.
+78 A natureza da obrigação tributária não é passível de
+modificação decorrente de fatos jurídicos supervenientes.
+79 Os diretores das pessoas jurídicas de direito privado são
+pessoalmente responsáveis pelos créditos correspondentes a
+obrigações tributárias resultantes de atos por eles praticados
+com excesso de poderes.
+80 Somente por disposição expressa da legislação tributária, é
+possível a uma pessoa figurar como sujeito passivo na
+condição de responsável tributário.
+Em conformidade com as regras do processo administrativo
+tributário do município de Mossoró, observada a jurisprudência
+dos tribunais superiores pertinentes ao processo judicial
+tributário, julgue os itens subsequentes.
+81 A concessão liminar da cautelar fiscal dispensa a fazenda
+pública de caução, mas não de justificação prévia.
+82 No âmbito do processo administrativo fiscal, as normas do
+Código de Processo Civil são de aplicação subsidiária.
+83 No curso do processo administrativo fiscal, o fisco poderá
+exigir a qualquer tempo a exibição de livros e comprovantes
+de atos e operações que possam constituir fato gerador de
+obrigação tributária não extinta.
+84 No processo administrativo fiscal, o julgador, ao proferir
+decisão, poderá declarar a inconstitucionalidade da
+legislação tributária em vigor.
+85 A utilização do mandado de segurança com vistas ao
+questionamento de lançamento tributário e a apresentação de
+exceção de pré-executividade para fins de impugnação do
+feito executivo fiscal compartilham de idêntica limitação
+processual: impossibilidade de dilação probatória.
+
+Acerca das pessoas naturais, julgue os itens subsequentes.
+A incapacidade absoluta pode ser cessada por concessão dos
+pais, mediante instrumento público e homologação judicial.
+87 São absolutamente incapazes para os atos da vida civil as
+pessoas portadoras de deficiência.
+86
+
+Julgue os itens que se seguem, a respeito da invalidade dos
+negócios jurídicos.
+88 A anulabilidade somente pode ser alegada pelos interessados
+e aproveita exclusivamente aos que a alegarem, salvo no
+caso de solidariedade ou de indivisibilidade.
+89 O negócio jurídico será nulo quando for celebrado por
+pessoa absolutamente incapaz.
+Com referência a prescrição, decadência e atos ilícitos, julgue os
+próximos itens.
+90 Os prazos prescricionais podem ser alterados por vontade
+das partes.
+91 No caso de perigo iminente, é lícita a destruição ou
+deterioração de coisa alheia, mas, civilmente, considera-se
+ilícita a lesão corporal à pessoa sob as mesmas
+circunstâncias.
+92 O juiz deve conhecer de ofício a decadência, quando
+convencional.
+Situação I: Caio cedeu seu crédito a João, cujo devedor da
+obrigação é Paulo.
+Situação II: Maria assumiu a dívida de Ana, cuja credora é
+Marina.
+Acerca dessas situações hipotéticas, julgue os seguintes itens à
+luz dos preceitos legais pertinentes à transmissão de obrigações.
+93 Na situação II, é requisito de validade do negócio jurídico de
+assunção de dívida o consentimento de Marina.
+94 Na situação I, é requisito de validade do negócio jurídico de
+cessão de crédito o consentimento de Paulo.
+Julgue os itens que se seguem, pertinentes ao litisconsórcio.
+95 No caso de litisconsórcio unitário, uma sentença de mérito
+proferida sem a integração do contraditório será ineficaz.
+96 É hipótese de litisconsórcio facultativo a afinidade de
+questões por ponto comum de fato ou de direito.
+Com referência à intervenção de terceiros, julgue os itens
+subsequentes.
+97 O chamamento ao processo é uma modalidade típica de
+intervenção de terceiros que somente pode ser requerida
+pelo réu.
+98 O ingresso do assistente no procedimento comum é admitido
+até a prolação sentença.
+99 Em ação de reparação de danos em que uma seguradora seja
+denunciada, esta, independentemente de aceitar a
+denunciação ou contestar o pedido do autor, poderá ser
+condenada, direta e solidariamente junto com o segurado, ao
+pagamento da indenização devida à vítima, nos limites
+contratados na apólice.
+Com referência à advocacia pública e aos atos processuais, julgue
+os itens a seguir.
+100 Caso o processo tramite em segredo de justiça, o terceiro
+juridicamente interessado poderá requerer ao juiz a certidão
+do dispositivo da sentença, bem como de inventário e de
+partilha resultantes do divórcio ou separação.
+101 A responsabilidade civil do advogado público será regressiva
+e aferida mediante a verificação de culpa.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Julgue os próximos itens, referentes a provas no processo civil.
+102 Conforme entendimento do STJ, é requisito para a aplicação
+da prova emprestada a identidade de partes.
+103 Na produção antecipada de provas, não se admite defesa ou
+recurso, salvo contra decisão que indeferir totalmente a
+produção de prova pleiteada pelo requerente originário.
+Em relação às principais características do empresário individual,
+julgue os itens seguintes.
+104 Ao empresário individual é permitida, apenas, a contratação
+de um empregado, cujo salário deve ser o piso da categoria
+ou um salário mínimo.
+105 Os bens da pessoa jurídica e da pessoa natural se confundem,
+podendo haver a inclusão da empresa individual para fins de
+pagamento de obrigações da pessoa natural.
+Acerca dos princípios que regem os títulos de crédito, julgue os
+itens a seguir.
+106 O princípio da autonomia do título de crédito permite que a
+relação que deu origem à sua emissão seja questionada.
+107 O princípio da cartularidade do título de crédito condiciona o
+exercício de qualquer direito representado no título à sua
+posse legítima.
+No tocante a ação cambial, ação de regresso e inoponibilidade de
+exceções, julgue os itens a seguir.
+108 A ação cambial pode ser proposta contra um, alguns ou
+contra todos os coobrigados, desde que observada a ordem
+dos endossos.
+109 A inoponibilidade de exceções assegura que somente é
+admissível defesa fundada no direito pessoal do réu contra o
+autor, em defeito de forma do título e na falta de requisito
+necessário ao exercício da ação.
+110 O avalista do título de crédito, quitando a obrigação de pagar
+soma determinada, pode ingressar com ação de regresso
+contra o seu avalizado e demais coobrigados anteriores.
+Em relação ao procedimento de recuperação extrajudicial, julgue
+os itens seguintes.
+111 A sentença de homologação do plano de recuperação
+extrajudicial constitui título executivo judicial.
+112 A recuperação extrajudicial, por se tratar de alternativa
+prévia à recuperação judicial, permite a negociação de todos
+os créditos existentes na data do pedido, diretamente entre
+devedor e seus credores.
+Acerca da administração financeira e orçamentária, julgue os
+itens seguintes.
+113 A técnica orçamentária predominante no Brasil, denominada
+orçamento-programa, fortalece o elo entre a função
+planificadora e a função administrativa do governo, na
+medida em que a alocação dos recursos visa à aquisição de
+meios.
+114 O plano plurianual compreende as metas e prioridades da
+administração pública, assim como as diretrizes de política
+fiscal, em consonância com a trajetória sustentável da dívida
+pública; enquanto a lei de diretrizes orçamentárias define
+diretrizes, objetivos e metas para as despesas de capital e
+outras delas decorrentes.
+115 A programação da execução orçamentária e financeira é um
+processo contínuo que visa assegurar às unidades
+orçamentárias, em tempo oportuno, a soma de recursos
+necessários e suficientes à melhor execução de seu programa
+anual de trabalho; além disso, ela mantém, durante o
+exercício, na medida do possível, o equilíbrio entre a receita
+arrecadada e a despesa realizada, de modo a reduzir ao
+mínimo eventuais insuficiências financeiras.
+
+116 O lançamento, que é um dos estágios da receita pública,
+
+precede o reconhecimento da receita e tem, entre suas
+finalidades, a de verificar a ocorrência do fato gerador da
+obrigação e identificar o sujeito passivo.
+117 A dívida flutuante, como um dos estágios da despesa
+pública, implica o reconhecimento da administração pública
+pelo compromisso com o seu pagamento mediante o uso dos
+restos a pagar do orçamento público.
+118 Os limites orçamentários e financeiros estabelecidos, que
+impedem parcialmente a movimentação e o empenho da
+despesa e, também, a movimentação financeira de despesas
+empenhadas e as inscritas em restos a pagar, com o bloqueio
+de dotações, são conhecidos como contingenciamento e se
+apoiam na Lei de Responsabilidade Fiscal.
+119 Conforme a Lei n.º 4.320/1964, o controle da execução
+orçamentária compreenderá, entre outros aspectos, a
+legalidade dos atos de que resultem a arrecadação da receita
+ou a realização da despesa e o nascimento ou a extinção de
+direitos e obrigações.
+120 A Lei de Responsabilidade Fiscal autoriza a aplicação da
+receita de capital derivada da alienação de bens e direitos
+que integrem o patrimônio público para o financiamento de
+despesa corrente, exceto para a cobertura de déficit de
+regime próprio dos servidores públicos.
+Espaço livre
+
+

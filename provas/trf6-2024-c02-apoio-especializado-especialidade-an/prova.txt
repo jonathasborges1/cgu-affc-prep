@@ -1,0 +1,548 @@
+-- CONHECIMENTO
+Um perito avalia o risco de sinistros, considerando as
+seguintes probabilidades de ocorrência de diferentes tipos de
+eventos, como acidentes de trânsito e furtos.
+I
+
+A probabilidade de um segurado sofrer um acidente de
+trânsito (A) é de 20%, ou seja, P(A) = 0,2.
+II A probabilidade de um segurado ser vítima de furto (F) é de
+15%, isto é, P(F) = 0,15.
+III A probabilidade de um segurado sofrer ambos os eventos
+(A e F) é P(A e F) 5%.
+Com base nessas informações, julgue os seguintes itens.
+51
+
+Se A e F forem eventos independentes, então a probabilidade
+de um segurado sofrer ambos os eventos (acidente e furto)
+será igual a zero.
+
+52
+
+A probabilidade de um segurado sofrer um acidente ou ser
+vítima de furto é de 35%.
+
+53
+
+A probabilidade de um segurado ter sido vítima de furto,
+dado que ele sofreu um acidente, é de 25%.
+
+Supondo que o número de documentos com erros processuais em
+uma amostra aleatória de 1.000 documentos seja uma variável
+aleatória binomial, denotada por X, com parâmetros n = 1.000 e
+probabilidade de sucesso 0,01, julgue os itens a seguir.
+54
+
+Cada elemento que constitui essa amostra aleatória de
+documentos pode ser descrito por uma distribuição de
+Bernoulli cuja média é igual a 0,01.
+
+55
+
+A variância de X é igual ou inferior a 10.
+
+56
+
+A moda de X é igual a zero, pois a probabilidade de sucesso
+é baixa.
+
+Julgue os itens a seguir, a respeito das técnicas de coleta de dados
+com o uso de API.
+57
+
+A URL em que reside uma API é sempre estática.
+
+58
+
+Ao se criar um script em Python para coletar dados de
+uma API baseada em REST, é importante considerar os
+métodos HTTP, tais como GET, POST, PATCH, DELETE, além
+das formas de autenticação da API.
+
+Julgue os itens que se seguem, referentes a visões em bancos de
+dados relacionais.
+59
+
+Uma view dinâmica é atualizada quando objetos relacionados
+ou objetos estendidos são criados ou alterados; essa
+atualização é manual por rotina específica do banco de dados.
+
+60
+
+Uma view é baseada em um tipo de consulta executada em
+uma ou mais tabelas em um banco relacional; normalmente é
+um tipo de consulta complexa e utilizada com frequência.
+
+Em relação às fases do CRISP-DM, julgue os próximos itens.
+61
+
+Na fase de modelagem do CRISP-DM, além da divisão de
+dados em treinamento, testes e validação, são escolhidos os
+algoritmos que podem ser testados e utilizados de acordo
+com o tipo de exploração dos dados desejada.
+
+62
+
+A fase 7 do CRISP-DM indica que o processo de construção
+do armazém de dados correspondente deve ser revisado em
+função das atualizações dos dados.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+OS ESPECÍFICOS -A respeito de técnicas de visualização de dados, julgue o item
+subsequente.
+63
+
+Na visualização de um conjunto complexo de dados, o uso
+de gráficos permite a exibição de plotagens e diagramas,
+organizados ao longo de dois eixos.
+
+Julgue os itens a seguir, referentes a conceitos relacionados
+a MapReduce e a processamento em lote.
+64
+
+No processamento em lote, os dados são acumulados por um
+período e processados de uma só vez, geralmente em
+horários de menor demanda no sistema.
+
+65
+
+MapReduce é uma técnica de processamento de dados
+massivos que divide as operações em duas fases, map e
+reduce, e utiliza o processamento paralelo para executar cada
+fase de forma independente em diferentes nós de um cluster.
+
+66
+
+MapReduce é particularmente eficiente para tarefas de baixa
+latência e processamento em tempo real, sendo amplamente
+utilizado para atender a essas necessidades.
+
+No que se refere a processamento em lote e processamento em
+tempo real, julgue os itens subsecutivos.
+67
+
+No processamento em tempo real, o escalonamento de
+tarefas é geralmente baseado em algoritmos de prioridade,
+como RMS (rate monotonic scheduling) e EDF (earliest
+deadline first).
+
+68
+
+Um sistema de processamento em lote requer interação
+constante do usuário durante a execução dos jobs para
+completar as tarefas corretamente.
+
+69
+
+Sistemas de processamento em tempo real do tipo hard são
+mais tolerantes a atrasos que os do tipo soft e, diferentemente
+destes, permitem respostas fora do prazo especificado.
+
+Julgue os próximos itens, com base no disposto na Lei Geral de
+Proteção de Dados Pessoais (LGPD).
+70
+
+O titular tem direito ao acesso facilitado às informações
+sobre o tratamento de seus dados, que deverão ser
+disponibilizadas de forma clara e adequada, excetuando-se,
+por questões de segurança, a identificação do controlador.
+
+71
+
+Quando houver tratamento para fins exclusivos de segurança
+pública ou defesa nacional, a Autoridade Nacional de
+Proteção de Dados (ANPD) deve ser comunicada
+previamente pois a ela compete zelar pela proteção dos
+dados pessoais.
+
+72
+
+Considere que determinado tribunal de justiça seja
+controlador dos dados de certo titular e tenha deste obtido
+consentimento para o tratamento de seus dados pessoais.
+Nessa situação, caso haja necessidade de o referido tribunal
+compartilhar os dados do referido titular com o CNJ de
+forma absoluta, não será necessário novo consentimento do
+titular.
+
+73
+
+O tratamento de dados pessoais deve ser realizado mediante
+o consentimento do titular, ficando dispensada tal exigência
+para os dados tornados manifestamente públicos pelo titular.
+
+
+Julgue os próximos itens, relativos ao tratamento de dados
+pessoais no poder público, conforme orientação da ANPD.
+Segundo o princípio da necessidade, o tratamento de dados
+deve ser limitado ao mínimo necessário para a realização de
+suas finalidades, logo deve abranger apenas os dados
+pertinentes, proporcionais e não excessivos em relação às
+suas finalidades.
+75 Quando o tratamento de dados pessoais for necessário para o
+cumprimento de obrigações e atribuições legais, caso em que
+o cidadão não possui condições efetivas de se manifestar
+livremente sobre o uso de seus dados pessoais, o
+consentimento do titular não constitui a base legal mais
+apropriada para o tratamento de dados pessoais pelo poder
+público.
+76 Na hipótese de o tratamento de dados pessoais pelo poder
+público ser realizado para o cumprimento de obrigação legal
+ou regulatória pelo controlador, a obrigação legal decorre de
+uma norma de conduta, isto é, uma regra que disciplina um
+comportamento, em geral estabelecendo um fato ou uma
+hipótese legal, com uma possível consequência jurídica em
+caso de descumprimento.
+74
+
+A respeito de Big Data, julgue os itens a seguir.
+Os data lakes, por armazenarem dados em seus formatos
+originais, eliminam completamente a necessidade de
+data warehouses em ambientes de Big Data.
+78 Na etapa de ingestão de um pipeline de dados de Big Data,
+os dados de diversas fontes são coletados e transportados
+para um armazenamento centralizado.
+79 O armazenamento de Big Data em sistemas distribuídos, a
+exemplo do HDFS (Hadoop Distributed File System),
+melhora a tolerância a falhas e a escalabilidade ao distribuir
+dados entre múltiplos nós.
+77
+
+Julgue os itens seguintes, relativos a inteligência artificial (IA).
+A análise preditiva é uma aplicação da IA em que são
+utilizadas técnicas de aprendizado de máquina para a
+previsão de resultados futuros com base em dados históricos.
+81 A IA generativa consiste em técnicas de IA baseadas
+prioritariamente na utilização de aprendizado supervisionado
+para a criação de novas amostras de dados que se
+assemelham aos dados de treinamento.
+80
+
+Acerca de armazenamento
+subsequentes.
+
+de
+
+dados,
+
+julgue
+
+os
+
+itens
+
+A replicação de dados em sistemas de armazenamento
+orientado a objeto não é uma prática muito utilizada, pois
+esse tipo de armazenamento depende de um único servidor
+centralizado para gerenciar e distribuir dados.
+83 Em sistemas de arquivos distribuídos, consistência eventual
+é uma característica que garante que, após determinado
+tempo, todas as réplicas dos dados estarão consistentes, sem
+a necessidade de sincronização imediata.
+82
+
+Em relação a BI (business intelligence), julgue o item seguinte.
+84
+
+O BI pode ser descrito como um termo abrangente que
+contempla ferramentas, metodologias, arquiteturas e bancos
+de dados com o objetivo de fornecer suporte às decisões
+gerenciais.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+A respeito da arquitetura de DW (data warehouse) e do processo
+ETL (Extract, Transformation and Load), julgue os itens a
+seguir.
+85
+
+A multidimensionalidade é uma característica chave do
+OLAP, permitindo analisar dados em diferentes perspectivas,
+como tempo e localização.
+
+86
+
+No processo ETL, a etapa de transformação é responsável
+por aplicar as regras de adequação, convertendo os dados ao
+formato requerido pelo DW, garantindo sua consistência e
+usabilidade.
+
+87
+
+Um DW é projetado para armazenar dados operacionais
+históricos, utilizando a mesma estrutura dos dados
+transacionais, com o objetivo de diminuir a latência nas
+consultas analíticas.
+
+Acerca da arquitetura de sistemas analíticos e do ecossistema
+Apache Hadoop, julgue os próximos itens.
+88
+
+O MapReduce, um dos componentes principais do Hadoop,
+foi projetado para atender a demandas analíticas de alta
+frequência e baixa latência.
+
+89
+
+O Hadoop é considerado ineficiente em cenários que exigem
+escalabilidade horizontal, sendo mais adequado para
+processamento em clusters pequenos.
+
+Julgue os itens que se seguem relativos a fundamentos e
+características de computação em nuvem.
+90
+
+Na computação em nuvem, a rápida elasticidade permite que
+os recursos alocados possam ser facilmente aumentados ou
+diminuídos, mas essa flexibilidade acarreta maiores custos
+para os usuários, pois o provedor deve sempre manter
+recursos disponíveis.
+
+91
+
+Uma das premissas da computação em nuvem é o
+compartilhamento de recursos computacionais sob demanda,
+com flexibilidade e versatilidade, o que permite que as
+empresas que adotem esse serviço se adaptem de maneira
+ágil a novos mercados.
+
+A respeito dos modelos de serviços e de implementação de
+computação em nuvem, julgue os itens subsecutivos.
+92
+
+O modelo de implantação de nuvem híbrida, também
+conhecido como Multicloud, é uma combinação da
+utilização de diferentes nuvens, utilizando diferentes
+provedores desses serviços.
+
+93
+
+Se comparado aos demais tipos de serviço de computação
+em nuvem, o IaaS é considerado o mais básico, pois fornece
+acesso a recursos de computação e armazenamento baseados
+na Internet.
+
+Com base na NIST SP 800-145, julgue os itens seguintes.
+94
+
+O autoatendimento sob demanda descreve que, mesmo
+estando em um autoatendimento, um consumidor necessita
+de interação humana com o provedor de serviços para
+provisionar recursos de computação.
+
+95
+
+Em computação em nuvem, há quatro modelos de
+implantação de nuvem: pública, privada, comunitária e
+híbrida.
+
+
+Julgue os itens a seguir, a respeito da segurança da informação e
+dos vários tipos de ataques e suas características.
+96
+
+A integridade é um princípio de segurança da informação
+que garante que um dado ou uma informação tenham sido
+alterados sem o registro da ação correspondente, mesmo sob
+necessidade de auditoria.
+
+97
+
+A principal maneira de se fazer a injeção SQL é a inserção
+de código no arquivo executável da aplicação, o qual será
+concatenado com comandos SQL e executado.
+
+98
+
+Em
+
+segurança
+
+da
+
+informação,
+
+a
+
+disponibilidade
+
+é
+
+um princípio que garante, aos usuários, a capacidade de
+acessar sistemas e(ou) informações quando necessário,
+mesmo que o sistema ou a infraestrutura esteja sob pressão.
+99
+
+Um ataque do tipo UAF (use-after-free) se caracteriza pelo
+uso de espaço de memória específico antes de ter sido
+explicitamente alocado pelo programa.
+
+Em relação às técnicas de controle de acesso, julgue os itens
+subsecutivos.
+100 Listas de controle de acesso (ACLs) é um tipo de controle de
+
+acesso lógico, no qual as permissões anexadas a um objeto
+devem ser verificadas para permitir ou negar o controle
+ao objeto.
+101 O controle de acesso baseado em função (RBAC) atribui
+
+direitos de acesso ao usuário com base na função que ele
+executa dentro da organização.
+À luz da Resolução CNJ n.º 335/2020, que institui política
+pública para a governança e a gestão de processo judicial
+eletrônico, julgue os itens a seguir.
+102 A política de governança e gestão da Plataforma Digital do
+
+Poder Judiciário Brasileiro (PDPJ-Br) será coordenada pelo
+CNJ, com a participação, sempre que possível, de
+representantes do Poder Judiciário e do Sistema de Justiça.
+103 É proibida a contratação de qualquer novo sistema, módulo
+
+ou funcionalidade privados, mesmo de forma não onerosa,
+que causem dependência tecnológica do fornecedor e que
+não permitam
+
+o compartilhamento não oneroso na
+
+Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br).
+De acordo com a Portaria CNJ n.º 252/2020, que dispõe sobre o
+modelo de governança e gestão da PDPJ-Br, julgue os itens que
+se seguem.
+104 Os usuários da PDPJ-Br podem, em casos específicos, alegar
+
+uso indevido ou negação de responsabilidade pelas
+assinaturas realizadas por meio da plataforma em questão.
+105 As
+
+soluções
+
+integradas
+
+à
+
+PDPJ-Br
+
+devem
+
+possuir
+
+propriedade intelectual das aplicações a serem integradas e
+autonomia para modificá-las, adaptá-las e criar derivações.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+Conforme a Portaria CNJ n.º 253/2020, que institui os critérios e
+as diretrizes técnicas para o processo de desenvolvimento de
+módulos e serviços na PDPJ-Br, e a Portaria CNJ n.º 131/2021,
+que institui o grupo revisor de código-fonte das soluções da
+PDPJ-Br, julgue os itens a seguir.
+106 O grupo revisor de código-fonte das soluções da PDPJ-Br
+pode aceitar merge requests no código-fonte sem a
+necessidade de aprovação de testes, desde que a
+funcionalidade desenvolvida atenda às necessidades
+operacionais.
+107 A documentação técnica referente à API dos microsserviços
+desenvolvidos na PDPJ-Br deve seguir o padrão
+Swagger 2.0, a fim de garantir a compatibilidade com as
+especificações legadas dos sistemas antigos.
+Julgue o próximo item, relativo a Java.
+108 import java.io.*;
+class Easy
+{
+public static void main(String[] args)
+{
+int x[] = {1, 3, 7, 22, 51};
+for (int size : x)
+System.out.print(size);
+}
+}
+
+O resultado da execução do código precedente, desenvolvido
+em Java, será 6.
+Acerca de Hibernate Envers, julgue o item a seguir.
+109 O módulo Envers é um modelo do Hibernate cujo objetivo é
+
+fornecer uma solução de auditoria para classes de entidades.
+cidade
+Uberaba
+Uberlândia
+Araguari
+
+IBGE
+3170107
+3170206
+3103504
+
+Considerando que os dados precedentes estejam armazenados em
+uma tabela no H2 Database chamada TABCIDADES, julgue os
+próximos itens.
+110 O comando seguinte excluirá da tabela em apreço a coluna
+IBGE.
+SET @COLUMN = IBGE
+DROP COLUMN ON TABCIDADES IN @COLUMN;
+111 O comando a seguir excluirá, na tabela em questão, o
+
+registro referente à cidade de Uberlândia.
+SET @ROWID ON IBGE = 3170206;
+DEL ON TABCIDADES IN @ROWID;
+
+Julgue o próximo item, relativo aos serviços de autenticação
+Keycloak.
+112 Em Keycloak, a troca de token é o processo pelo qual um
+cliente pode trocar um token Keycloak existente por um
+token externo.
+Julgue o próximo item, relativo a GIT.
+113 git branch -D test
+
+A execução do comando precedente excluirá a branch
+test caso todos os commits tenham sido realizados; porém,
+se a master estiver em estado de check-out, a exclusão será
+cancelada.
+
+
+Julgue os itens subsequentes, a respeito de gestão e governança de T
+114 O alinhamento estratégico entre TI e negócio garante que
+estratégias de negócio da organização, facilitando a obtenção d
+115 O planejamento estratégico de negócio é um processo con
+oportunidades de mercado, de modo a alcançar os objetivos org
+
+Em relação a gerenciamento de projetos e gerenciamento de serviço
+116 O ciclo de vida do projeto, no PMBOK 7.ª edição, é const
+seguidas rigidamente em todos os projetos.
+
+Julgue os próximos itens, no que se refere à governança de TI.
+117 O COBIT 2019 define domínios que cobrem todas as atividade
+e objetivos de controle específicos para garantir a governança e
+118 O COBIT 2019 estabelece que os recursos de tecnologia da
+estratégicos da organização.
+A respeito de qualidade de software, julgue os itens seguintes.
+119 Os níveis de maturidade do CMMI, em sua versão atual, vão
+processos.
+120 As várias disciplinas do CMMI são relativas à engenharia de
+processos da organização.
+Espaço livre
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+TI.
+a tecnologia da informação esteja integrada com os objetivos e
+de melhores resultados organizacionais.
+ntínuo e iterativo que busca alinhar os recursos da empresa às
+ganizacionais.
+
+os, julgue o item que se segue.
+tituído de cinco fases sequenciais e padronizadas que devem ser
+
+es de governança e gestão de TI, e cada domínio contém processos
+eficaz da tecnologia da informação.
+informação devem ser utilizados de forma alinhada aos objetivos
+
+até o nível 5, que representa a prática de otimização contínua dos
+software e visam oferecer uma solução eficaz para a melhoria dos
+
+

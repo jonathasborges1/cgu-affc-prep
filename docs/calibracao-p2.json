@@ -1,200 +1,207 @@
 {
   "bloco": "P2",
   "amostra": 679,
-  "rotulados": 50,
-  "progresso": 0.07363770250368189,
-  "acertos_triagem": 8,
-  "precisao_triagem_parcial": 0.16,
+  "rotulados": 679,
+  "progresso": 1.0,
+  "acertos_triagem": 90,
+  "precisao_triagem_parcial": 0.1325478645066274,
   "duplicados": [],
   "por_assunto": {
     "P2·AUD 1": {
       "amostra": 30,
-      "rotulados": 3,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 3,
+      "precisao": 0.1,
+      "completo": true
     },
     "P2·AUD 2": {
       "amostra": 30,
-      "rotulados": 5,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 3,
+      "precisao": 0.1,
+      "completo": true
     },
     "P2·AUD 3": {
       "amostra": 30,
-      "rotulados": 0,
-      "acertos": 0,
-      "precisao": null,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 6,
+      "precisao": 0.2,
+      "completo": true
     },
     "P2·AUD 4": {
       "amostra": 30,
-      "rotulados": 1,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 2,
+      "precisao": 0.06666666666666667,
+      "completo": true
     },
     "P2·AUD 5": {
       "amostra": 28,
-      "rotulados": 5,
+      "rotulados": 28,
       "acertos": 1,
-      "precisao": 0.2,
-      "completo": false
+      "precisao": 0.03571428571428571,
+      "completo": true
     },
     "P2·DIR 1": {
       "amostra": 30,
-      "rotulados": 2,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 1,
+      "precisao": 0.03333333333333333,
+      "completo": true
     },
     "P2·DIR 2": {
       "amostra": 30,
-      "rotulados": 0,
-      "acertos": 0,
-      "precisao": null,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 2,
+      "precisao": 0.06666666666666667,
+      "completo": true
     },
     "P2·DIR 3": {
       "amostra": 30,
-      "rotulados": 4,
-      "acertos": 1,
-      "precisao": 0.25,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 5,
+      "precisao": 0.16666666666666666,
+      "completo": true
     },
     "P2·DIR 4": {
       "amostra": 30,
-      "rotulados": 1,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 3,
+      "precisao": 0.1,
+      "completo": true
     },
     "P2·DIR 5": {
       "amostra": 11,
-      "rotulados": 0,
+      "rotulados": 11,
       "acertos": 0,
-      "precisao": null,
-      "completo": false
+      "precisao": 0.0,
+      "completo": true
     },
     "P2·EVID 1": {
       "amostra": 30,
-      "rotulados": 2,
+      "rotulados": 30,
       "acertos": 0,
       "precisao": 0.0,
-      "completo": false
+      "completo": true
     },
     "P2·EVID 2": {
       "amostra": 30,
-      "rotulados": 2,
+      "rotulados": 30,
       "acertos": 0,
       "precisao": 0.0,
-      "completo": false
+      "completo": true
     },
     "P2·EVID 3": {
       "amostra": 30,
-      "rotulados": 3,
-      "acertos": 1,
-      "precisao": 0.3333333333333333,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 5,
+      "precisao": 0.16666666666666666,
+      "completo": true
     },
     "P2·EVID 4": {
       "amostra": 26,
-      "rotulados": 0,
+      "rotulados": 26,
       "acertos": 0,
-      "precisao": null,
-      "completo": false
+      "precisao": 0.0,
+      "completo": true
     },
     "P2·EVID 5": {
       "amostra": 30,
-      "rotulados": 1,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 3,
+      "precisao": 0.1,
+      "completo": true
     },
     "P2·GOV 1": {
       "amostra": 30,
-      "rotulados": 4,
-      "acertos": 1,
-      "precisao": 0.25,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 12,
+      "precisao": 0.4,
+      "completo": true
     },
     "P2·GOV 2": {
       "amostra": 30,
-      "rotulados": 2,
-      "acertos": 1,
-      "precisao": 0.5,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 8,
+      "precisao": 0.26666666666666666,
+      "completo": true
     },
     "P2·GOV 3": {
       "amostra": 16,
-      "rotulados": 2,
+      "rotulados": 16,
       "acertos": 0,
       "precisao": 0.0,
-      "completo": false
+      "completo": true
     },
     "P2·GOV 4": {
       "amostra": 30,
-      "rotulados": 2,
+      "rotulados": 30,
       "acertos": 0,
       "precisao": 0.0,
-      "completo": false
+      "completo": true
     },
     "P2·GOV 5": {
       "amostra": 30,
-      "rotulados": 0,
+      "rotulados": 30,
       "acertos": 0,
-      "precisao": null,
-      "completo": false
+      "precisao": 0.0,
+      "completo": true
     },
     "P2·TRANSP 1": {
       "amostra": 30,
-      "rotulados": 2,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 6,
+      "precisao": 0.2,
+      "completo": true
     },
     "P2·TRANSP 2": {
       "amostra": 26,
-      "rotulados": 2,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 26,
+      "acertos": 12,
+      "precisao": 0.46153846153846156,
+      "completo": true
     },
     "P2·TRANSP 3": {
       "amostra": 12,
-      "rotulados": 2,
-      "acertos": 1,
-      "precisao": 0.5,
-      "completo": false
+      "rotulados": 12,
+      "acertos": 2,
+      "precisao": 0.16666666666666666,
+      "completo": true
     },
     "P2·TRANSP 4": {
       "amostra": 30,
-      "rotulados": 4,
-      "acertos": 2,
-      "precisao": 0.5,
-      "completo": false
+      "rotulados": 30,
+      "acertos": 11,
+      "precisao": 0.36666666666666664,
+      "completo": true
     },
     "P2·TRANSP 5": {
       "amostra": 20,
-      "rotulados": 1,
-      "acertos": 0,
-      "precisao": 0.0,
-      "completo": false
+      "rotulados": 20,
+      "acertos": 5,
+      "precisao": 0.25,
+      "completo": true
     }
   },
   "backtest_temporal": {
-    "folds": [],
-    "recall_top5": null,
-    "itens_teste": 0
+    "folds": [
+      {
+        "ano_teste": 2024,
+        "treino": 110,
+        "teste": 89,
+        "recall_top5": 0.38202247191011235
+      }
+    ],
+    "recall_top5": 0.38202247191011235,
+    "itens_teste": 89
   },
   "gates": {
-    "amostra_completa": false,
+    "amostra_completa": true,
     "sem_duplicados": true,
     "precisao_minima_0_85": false,
     "tres_folds_temporais": false,
     "recall_top5_minimo_0_75": false
   },
   "confiavel": false,
-  "aviso": "Métricas parciais não liberam prioridade."
+  "aviso": null
 }

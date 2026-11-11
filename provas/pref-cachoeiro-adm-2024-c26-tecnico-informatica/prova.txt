@@ -1,0 +1,172 @@
+                                                                 CE
+
+                                  -- CONHECIMENTO
+Acerca de sistemas operacionais e organização e arquitetura de
+computadores, julgue os itens subsequentes.
+61   Arquivos de saída são relatórios impressos ou armazenados
+     em diferentes meios, como dispositivos magnéticos e ópticos.
+62 Operações diretas na memória do sistema são restritas para
+   garantir a este segurança e integridade, por isso o acesso do
+   sistema operacional à memória é incompleto.
+63 A unidade central de processamento é considerada um
+   componente passivo do hardware.
+64   A soma binária 10002 + 01102 é igual a 11102.
+65   O sistema operacional é o primeiro programa executado
+     quando se liga o computador, permanecendo em execução
+     até o desligamento deste.
+
+Julgue os itens que se seguem, em relação a banco de dados.
+66   A integridade dos dados em um banco de dados é
+     automaticamente mantida, dispensando-se a implementação
+     de medidas adicionais de controle de proteção e segurança.
+67   Bancos de dados orientados a objetos prescindem de
+     persistência de dados, pois todos os objetos e seus atributos
+     desaparecem ao término da execução de um programa.
+68   Por ser exclusivamente incorporada ao sistema gerenciador
+     de banco de dados, é inviável a utilização da linguagem de
+     exploração de um banco de dados de forma independente em
+     programas voltados para necessidades específicas.
+69   Uma foto é considerada dado por ser quantificável e
+     representável simbolicamente por meio de pixels, que são
+     combinações de números representando intensidades de cores.
+70   SQL é uma linguagem utilizada para declarar e acessar
+     tabelas em um banco de dados relacional, caracterizando-se
+     como um padrão para especificar o esquema das tabelas e o
+     acesso aos dados.
+
+Acerca de fundamentos de comunicação de dados, meios físicos,
+sistemas de transmissão digital e analógica, dispositivos, sistemas
+de cabeamento e componentes, julgue os itens que se seguem.
+71   O isolamento entre as portas e as linhas de entrada em uma
+     bridge proporciona desempenho superior comparativamente
+     ao dispositivo hub.
+72   A camada física é a base de todas as redes e a natureza
+     impõe limites fundamentais sobre todos os canais; estes, por
+     sua vez, determinam a largura de banda.
+73   O cabeamento de categoria 5 (Cat 5) usa 4 pares de fios para
+     atingir a velocidade de 100 Mbps (Ethernet).
+74   Os principais meios de transmissão não guiados são o rádio,
+     as micro-ondas, os raios infravermelhos, os raios laser e os
+     satélites.
+75   O modem de telefone é um dispositivo que recebe o sinal
+     digital pela linha telefônica e o converte em sinal analógico
+     para o computador.
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+OS ESPECÍFICOS --
+ Julgue os itens seguintes, relativos a redes LAN e WAN,
+ arquitetura OSI e TCP/IP e protocolos e serviços.
+ 76   O endereço IP é dividido em duas partes: a primeira
+      identifica o host dentro de uma rede; a segunda identifica a
+      rede à qual o host está conectado.
+ 77   O POP3 é o protocolo padrão para o envio de mensagens
+      eletrônicas, e o protocolo SMTP é responsável pelo
+      armazenamento de mensagens eletrônicas em uma pasta
+      local para a máquina do usuário.
+ 78   Uma rede LAN sem fio normalmente opera em velocidades
+      de 100 Mbps a 10 Gbps e gera muito atraso de transporte de
+      dados e muitos erros.
+ 79   Nas WANs, a sub-rede consiste em dois componentes
+      distintos: as linhas de transmissão, que transportam bits entre
+      máquinas; e comutadores, que conectam três ou mais linhas
+      de transmissão.
+ 80   Ao se digitar uma URL no navegador (camada 5 OSI), o
+      programa solicita o arquivo para o sistema operacional, que
+      abre uma sessão (camada 7 OSI) e que, com a sessão aberta,
+      verifica qual é o endereço IP e o protocolo usado
+      (camada 4 OSI).
+ 81   O protocolo TCP/IP é composto pelo TCP, que está na
+      camada 4 OSI, e o IP, que atua na camada 3 OSI,
+      responsável pelo endereçamento.
+
+ Julgue os itens seguintes, relativos a funções de operação e
+ gerência de redes, sistemas operacionais de rede, ambientes
+ Linux e Windows e arquitetura cliente-servidor.
+ 82   A arquitetura cliente/servidor é formada de uma plataforma
+      base para que as aplicações, em que um ou mais clientes e
+      um ou mais servidores, juntamente com o sistema
+      operacional e o sistema operacional de rede, podem executar
+      um processamento distribuído.
+ 83 O DNS (domain name system) é um serviço que converte o
+    nome amigável de um sítio no endereço IP real do servidor,
+    permitindo que o computador do usuário possa acessá-lo.
+ 84 Em distribuições Linux, utilizam-se o comado ifdown para
+    desativar e o comando ifup para ativar o firewall do sistema
+    operacional.
+ 85 Configuração de restrições de segurança, estabelecer
+    informações de usuários (logins e acessos) e anexar e
+    compartilhar uma impressora à rede são funções de um
+    sistema operacional de rede.
+
+ Julgue os itens a seguir, com base nos conceitos de informática
+ aplicada à Internet.
+ 86 LibreOffice é um conjunto de aplicações de escritório para
+    computadores, gratuito, de código aberto e desenvolvido de
+    forma livre e colaborativa.
+ 87 Internet Explorer é o nome de um utilitário do sistema
+    operacional Windows que visa à conexão dos dispositivos à
+    Internet.
+ 88 A Internet é uma rede mundial de computadores em que há
+    bilhões de dispositivos conectados e cada um possui um ou
+    mais endereços IP públicos.
+
+                                                                CE
+Com relação às linguagens de programação Java e PHP, julgue os
+itens a seguir.
+89   Na linguagem PHP, a função abs() retorna o valor absoluto
+     de um número, o qual pode ser inteiro ou de ponto flutuante
+     float (número racional).
+90   No trecho de programa PHP a seguir, é apresentada uma
+     estrutura de controle do tipo recursão.
+
+     <!DOCTYPE html>
+     <html>
+         <head>
+             <title>Teste PHP</title>
+         </head>
+         <body>
+             <p>Olá Mundo</p>
+         </body>
+     </html>
+
+
+91   Na linguagem Java, os tipos int, char e long são exemplos
+     de dados elementares, e os tipos matrizes e vetores são dados
+     estruturados da linguagem.
+
+Julgue os próximos itens, relativos a controle de dados,
+compilação e engenharia de software.
+92   É tarefa da área de engenharia de software a organização dos
+     processos de softwares, que englobam insumos, produtos e
+     pessoal envolvido.
+93   Os programas em Java e em PHP podem ser tanto
+     interpretados quanto compilados.
+94   Na linguagem Java, existe um mecanismo próprio de
+     gerenciamento de memória denominado garbage collector.
+
+Acerca da manutenção de equipamentos de informática, julgue os
+itens a seguir.
+95   Modelos de impressoras matriciais usam agulhas de
+     impressão, por impacto; enquanto as impressoras de jato de
+     tinta possuem um cabeçote que dispara gotículas de tinta
+     sobre a superfície do papel.
+96   As fontes de alimentação próprias de computadores pessoais
+     possuem potência entre 110 e 220 watts, podendo se adaptar
+     de acordo com a rede elétrica do local.
+97   As memórias de computador do tipo flash são voláteis,
+     fazem parte do grupo das memórias RAM, e podem ter seus
+     conteúdos escritos, lidos e regravados a qualquer tempo.
+98   Utilizam cartuchos removíveis para reposição de tinta as
+     impressoras a laser, as térmicas, as matriciais e as
+     multifuncionais.
+99   Periféricos são equipamentos ou componentes externos ao
+     computador que têm funções específicas de armazenamento,
+     impressão, apresentação ou entrada de dados.
+100 Os monitores com tecnologia CRT possuem tubo de
+     imagem, e os monitores de tela plana utilizam tecnologias
+     diversas, como LCD, PDP e LED.
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+ Espaço livre
+

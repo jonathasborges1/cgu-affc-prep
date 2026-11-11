@@ -1,0 +1,50 @@
+{"id": "v1-8-01", "codigo": "P1·ADM 4", "rel": "media", "motivo": "LRF relatório resumido execução orçamentária"}
+{"id": "v1-8-02", "codigo": "OUTRO", "rel": "fora", "motivo": "orçamento de obras, engenharia"}
+{"id": "v1-8-03", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei Maria da Penha, direito penal"}
+{"id": "v1-8-04", "codigo": "OUTRO", "rel": "fora", "motivo": "segurança cibernética, TI"}
+{"id": "v1-8-05", "codigo": "OUTRO", "rel": "fora", "motivo": "contratação de TI, licitações"}
+{"id": "v1-8-06", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "reformas administrativas e burocracia no Brasil"}
+{"id": "v1-8-07", "codigo": "OUTRO", "rel": "fora", "motivo": "ITIL v4, TI"}
+{"id": "v1-8-08", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "controle judicial da administração, ação civil pública"}
+{"id": "v1-8-09", "codigo": "P1·ADM 4", "rel": "media", "motivo": "transposição orçamentária, créditos e legislação"}
+{"id": "v1-8-10", "codigo": "P1·ESTADO 6", "rel": "baixa", "motivo": "improbidade administrativa, sanções, tangencia corrupção"}
+{"id": "v1-8-11", "codigo": "OUTRO", "rel": "fora", "motivo": "organização do SUS, direito sanitário"}
+{"id": "v1-8-12", "codigo": "OUTRO", "rel": "fora", "motivo": "composição do STJ, direito constitucional orgânico"}
+{"id": "v1-8-13", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "LOA e orçamento público"}
+{"id": "v1-8-14", "codigo": "OUTRO", "rel": "fora", "motivo": "CADIN, transferências, direito financeiro"}
+{"id": "v1-8-15", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "sistema de saúde comparado, financiamento"}
+{"id": "v1-8-16", "codigo": "P1·ESTADO 2", "rel": "alta", "motivo": "accountability democrática e corrupção"}
+{"id": "v1-8-17", "codigo": "OUTRO", "rel": "fora", "motivo": "atributos do ato administrativo, direito administrativo"}
+{"id": "v1-8-18", "codigo": "OUTRO", "rel": "fora", "motivo": "Keycloak, TI"}
+{"id": "v1-8-19", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "avocação e poder hierárquico, direito administrativo"}
+{"id": "v1-8-20", "codigo": "OUTRO", "rel": "fora", "motivo": "ITIL v4, TI"}
+{"id": "v1-8-21", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Reforma do Aparelho do Estado, gerencial"}
+{"id": "v1-8-22", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "controle interno e princípio da eficiência"}
+{"id": "v1-8-23", "codigo": "OUTRO", "rel": "fora", "motivo": "controle de acesso em segurança da informação"}
+{"id": "v1-8-24", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "modelos de decisão em políticas públicas"}
+{"id": "v1-8-25", "codigo": "OUTRO", "rel": "fora", "motivo": "gerenciamento de incidentes, ITIL"}
+{"id": "v1-8-26", "codigo": "P1·ETICA 5", "rel": "baixa", "motivo": "coerência discurso e prática em comunicação"}
+{"id": "v1-8-27", "codigo": "OUTRO", "rel": "fora", "motivo": "cadeia de valor ITIL 4"}
+{"id": "v1-8-28", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão de riscos e conflitos, governança corporativa"}
+{"id": "v1-8-29", "codigo": "P1·ESTADO 8", "rel": "baixa", "motivo": "responsabilização de pessoa jurídica, lei anticorrupção estadual"}
+{"id": "v1-8-30", "codigo": "OUTRO", "rel": "fora", "motivo": "interpretação de texto, português"}
+{"id": "v1-8-31", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "etapas do ciclo de políticas públicas"}
+{"id": "v1-8-32", "codigo": "OUTRO", "rel": "fora", "motivo": "estatística, amostragem e normal"}
+{"id": "v1-8-33", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "funções econômicas do Estado, tributação"}
+{"id": "v1-8-34", "codigo": "OUTRO", "rel": "fora", "motivo": "decisão coordenada, direito administrativo"}
+{"id": "v1-8-35", "codigo": "OUTRO", "rel": "fora", "motivo": "contabilidade pública"}
+{"id": "v1-8-36", "codigo": "P1·ESTADO 6", "rel": "alta", "motivo": "burocracia, corrupção e nepotismo"}
+{"id": "v1-8-37", "codigo": "OUTRO", "rel": "fora", "motivo": "resíduos sólidos, direito ambiental"}
+{"id": "v1-8-38", "codigo": "OUTRO", "rel": "fora", "motivo": "SICRO, engenharia rodoviária"}
+{"id": "v1-8-39", "codigo": "OUTRO", "rel": "fora", "motivo": "transferências voluntárias e tomada de contas especial"}
+{"id": "v1-8-40", "codigo": "P1·ETICA 5", "rel": "baixa", "motivo": "compliance, conformidade genérica"}
+{"id": "v1-8-41", "codigo": "OUTRO", "rel": "fora", "motivo": "incidentes cibernéticos, TI"}
+{"id": "v1-8-42", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Decreto-Lei 200 e reforma administrativa"}
+{"id": "v1-8-43", "codigo": "P1·ADM 4", "rel": "media", "motivo": "despesa obrigatória continuada, responsabilidade fiscal"}
+{"id": "v1-8-44", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei de Acesso à Informação, transparência (complementar)"}
+{"id": "v1-8-45", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina neonatal"}
+{"id": "v1-8-46", "codigo": "OUTRO", "rel": "fora", "motivo": "macroeconomia, demanda agregada"}
+{"id": "v1-8-47", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão de ativos, segurança da informação"}
+{"id": "v1-8-48", "codigo": "OUTRO", "rel": "fora", "motivo": "Active Directory, TI"}
+{"id": "v1-8-49", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "governança de contratações pela alta administração"}
+{"id": "v1-8-50", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "liberdade econômica, relação Estado e atividade econômica"}

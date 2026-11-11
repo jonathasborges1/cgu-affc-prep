@@ -1,0 +1,322 @@
+•   Cada um dos itens das provas objetivas está vinculado ao com
+    que cada um deles esteja vinculado, marque, na Folha de Res
+    julgue o item CERTO; ou o campo designado com o código E
+    objetivas será igual a 1,00 ponto, caso a resposta do candida
+    provas, ou 0,50 ponto negativo, caso a resposta do candidato e
+    A ausência de marcação ou a marcação de ambos os campos
+    Para as devidas marcações, use a Folha de Respostas, único do
+•   Nos itens que avaliarem conhecimentos de informática e(o
+    informado o contrário, considere que todos os programas menc
+    proteção, de funcionamento e de uso em relação aos programas,
+•   Eventuais espaços livres — identificados ou não pela expres
+    poderão ser utilizados para rascunho.
+
+                                                             -- PROVAS O
+                                                         -- CONHECIMEN
+Texto CG1A1-I
+       Uma organização é um sistema complexo de
+comunicações com um objetivo funcional. Durante sua existência
+e atuação, a organização vai formando uma imagem perante seus
+diversos públicos em função de todo um conjunto de contatos
+realizados, e não somente pelas iniciativas planejadas de
+comunicação que ela toma para formar a imagem pretendida.
+Essa imagem, chamada imagem organizacional, pode ser descrita
+como uma compilação de opiniões e pontos de vista baseados em
+informações processadas de várias fontes, ao longo do tempo,
+que gera uma imagem mental dos atributos da organização.
+       Seguindo uma tendência já percebida na iniciativa
+privada, os órgãos públicos têm-se preocupado, cada vez mais,
+com sua imagem organizacional. A imagem organizacional
+pública tem valor estratégico na medida em que interfere
+diretamente no relacionamento da organização com diferentes
+atores, bem como na sua legitimação e credibilidade perante a
+sociedade. No entanto, apesar de sua relevância, ainda há poucos
+estudos sobre a imagem organizacional no contexto público,
+tanto nacional quanto internacionalmente.
+       Quando se trata da construção da imagem de uma
+organização, ressalta-se o papel dos veículos de imprensa. Esses
+veículos, ao publicarem uma notícia, atuam na associação e
+formação das crenças, das ideias, dos sentimentos e das
+impressões que uma pessoa ou um grupo tem ou passa a ter sobre
+aquela organização. Não obstante, a migração desses meios de
+comunicação para a Internet aumenta o volume de informações
+em circulação e eleva o seu poder de influência, uma vez que é
+possível acessar dados e informações de qualquer lugar e a
+qualquer momento, de modo a expandir a comunicação entre as
+pessoas e as organizações.
+                  Carolina Coelho da Silveira, Carla Bonato Marcolin e Carlos Henrique Rodrigues.
+          Como somos vistos? Análise da imagem organizacional pública utilizando ciência de dados.
+                                            Internet: <https://revista.cgu.gov.br> (com adaptações).
+
+
+Julgue os itens que se seguem, com base nas ideias veiculadas no
+texto CG1A1-I.
+1    Infere-se do texto que a preocupação com a imagem
+     organizacional surgiu concomitantemente na iniciativa
+     privada e nos órgãos públicos, mas apenas recentemente se
+     difundiu na esfera pública.
+2    De acordo com as ideias expressas no texto, no contexto de
+     construção da imagem de uma organização, releva-se o papel
+     dos veículos de imprensa na publicação de notícias.
+3    Entre os objetivos do texto, está o de informar que, dada a
+     complexidade do sistema de comunicações de uma
+     organização, que visa primordialmente ao alcance de
+     objetivos funcionais, nem sempre a imagem organizacional
+     alcançada e a pretendida coincidem, devido à existência de
+     uma série de fatores não controláveis pela organização ao
+     longo do processo de construção da sua imagem.
+
+                             CEBRASPE – CGE/RJ – Edital: 2023
+mando que imediatamente o antecede. De acordo com o comando a
+spostas, para cada item: o campo designado com o código C, caso
+ E, caso julgue o item ERRADO. A nota em cada item das provas
+  ato esteja em concordância com o gabarito oficial definitivo das
+ esteja em discordância com o gabarito oficial definitivo das provas.
+ s não serão apenadas, ou seja, não receberão pontuação negativa.
+ocumento válido para a correção das suas provas objetivas.
+ou) tecnologia da informação, a menos que seja explicitamente
+ cionados estão em configuração-padrão e que não há restrições de
+ , arquivos, diretórios, recursos e equipamentos mencionados.
+  ssão “Espaço livre” — que constarem deste caderno de provas
+
+
+OBJETIVAS --
+NTOS GERAIS --
+   4    Entende-se do texto que a imagem que se forma da
+        organização é determinante para a formação do conjunto de
+        contatos que ela vai realizar.
+
+   Julgue os itens a seguir, relativos a aspectos linguísticos do texto
+   CG1A1-I.
+   5    Estariam mantidas a coerência das ideias do texto e sua
+        correção gramatical caso o trecho “a migração desses meios
+        de comunicação para a Internet aumenta o volume de
+        informações em circulação e eleva o seu poder de influência”
+        (terceiro período do terceiro parágrafo) fosse assim reescrito:
+        quando migraram para a Internet, esses meios de
+        comunicação aumentaram o volume de informações em
+        circulação e elevaram o seu poder de influência.
+   6    A substituição do vocábulo “pretendida” (segundo período
+        do primeiro parágrafo) pelo vocábulo almejada ou pela
+        oração a que aspira manteria a correção gramatical e o
+        sentido do texto.
+   7    A correção gramatical do texto seria mantida caso se flexionasse
+        a forma verbal “gera” (terceiro período do primeiro parágrafo)
+        na terceira pessoa do plural — geram —, mas, nesse caso, as
+        relações coesivas no período seriam alteradas.
+   8    O segmento “na medida em que” (segundo período
+        do segundo parágrafo) introduz um argumento que expressa
+        o motivo de a imagem organizacional pública ter valor
+        estratégico.
+   9    É facultativo o emprego do sinal indicativo de crase no
+        vocábulo “a” em “perante a sociedade” (segundo período
+        do segundo parágrafo).
+   10   A expressão “apesar de” (terceiro período do segundo
+        parágrafo) tem o mesmo sentido da preposição malgrado.
+   11   No primeiro período do terceiro parágrafo, a partícula “se”,
+        em ambas as suas ocorrências, indica que é indeterminado o
+        sujeito sintático de cada uma das orações que formam o
+        período.
+   12   Caso a forma verbal “há” (terceiro período do segundo
+        parágrafo) fosse substituída por existem, a correção
+        gramatical e o sentido do texto seriam mantidos.
+
+Acerca de conceitos básicos do orçamento público, seus
+princípios e seus instrumentos de planejamento, julgue os itens
+subsequentes.
+13 Os créditos adicionais são instrumentos orçamentários que
+   permitem a abertura de novos créditos ou o reforço dos já
+   existentes.
+14 A passagem do orçamento tradicional para o orçamento
+   moderno significou uma mudança de sua função principal na
+   medida em que ele deixou de ser um instrumento de
+   administração para se tornar um instrumento moderno de
+   controle político dos órgãos de representação do povo sobre
+   os Poderes Executivos.
+15 A lei de diretrizes orçamentárias (LDO) tem a função de
+   estabelecer as metas e prioridades da administração pública,
+   sendo instrumento apto a dispor sobre alterações na
+   legislação tributária.
+16 O princípio da universalidade está diretamente relacionado
+   ao princípio da especificação, uma vez que ambos
+   prescrevem a discriminação detalhada de todas as despesas
+   por categorias econômicas.
+Com relação a receita e despesa públicas, descentralização
+orçamentária e financeira, dívida ativa e restos a pagar, julgue os
+seguintes itens.
+17 Despesas de exercícios anteriores referem-se a despesas de
+   exercícios encerrados e não processadas na época própria,
+   podendo ser decorrentes de restos a pagar com prescrição
+   interrompida.
+18 As doações recebidas pelo setor público são excluídas do
+   conceito de receitas públicas, uma vez que não envolvem
+   contrapartidas ou obrigações para o governo que as recebe.
+19 A dívida ativa compreende os valores devidos ao ente
+   público, provenientes de tributos e multas não pagos dentro
+   do prazo legal.
+20 A descentralização orçamentária referente a repasse e
+   sub-repasse diz respeito a transferências internas e externas,
+   respectivamente, da estrutura administrativa do órgão
+   repassador da dotação orçamentária.
+A respeito de direitos e deveres individuais e coletivos, estados,
+servidores públicos, competências do Supremo Tribunal Federal
+(STF) e fiscalização contábil, financeira e orçamentária, julgue os
+itens seguintes, considerando a jurisprudência do STF.
+21   Ainda que o repasse de recursos federais aos estados ocorra
+     sem prévia celebração de convênio, mantém-se a
+     competência do Tribunal de Contas da União (TCU) para a
+     fiscalização e aplicação desses recursos.
+22   É lícito à Controladoria-Geral do Estado do Rio de Janeiro
+     restringir a manifestação político-partidária nas redes sociais
+     de servidores públicos estaduais.
+23   Compete ao STF julgar, em sede de recurso ordinário, as
+     causas em que forem partes, de um lado, Estado estrangeiro
+     ou organismo internacional e, do outro, a União, estado,
+     município, o Distrito Federal ou pessoa residente no Brasil.
+24   É vedada a ampliação, em Constituição estadual, do rol de
+     autoridades sujeitas à fiscalização do Poder Legislativo.
+25   Por ser compatível com o caráter contributivo e solidário do
+     regime próprio de previdência dos servidores públicos, é
+     lícita a aplicação da penalidade de cassação de
+     aposentadoria.
+
+                             CEBRASPE – CGE/RJ – Edital: 2023
+Acerca de licitações e contratos administrativos, julgue os itens a
+seguir de acordo com a Lei n.º 14.133/2021.
+26   Os contratos administrativos, ainda que já formalizados,
+     podem ser aditados para permitir a adoção de meios
+     alternativos de resolução de controvérsias, como a mediação
+     e a arbitragem, em caso de inadimplemento de obrigações
+     contratuais por quaisquer das partes, por exemplo.
+27   Concorrência é a modalidade licitatória utilizada para a
+     contratação de bens e serviços comuns, cujo critério de
+     julgamento poderá ser o de maior desconto.
+28   A inovação e o desenvolvimento nacional sustentável devem
+     ser observados no processo licitatório.
+
+A respeito do controle exercido pela administração pública,
+julgue os itens seguintes.
+29   Conforme a jurisprudência do STF, o direito outorgado à
+     administração pública para anulação de seus próprios atos,
+     quando eivados de vícios que os tornem ilegais, submete-se
+     ao instituto da prescrição.
+30   O recurso hierárquico impróprio, diferentemente do recurso
+     hierárquico próprio, está condicionado à previsão em lei,
+     inserindo-se no âmbito do controle interno por vinculação da
+     administração pública.
+
+Julgue os seguintes itens, a respeito de matemática financeira.
+31   Considerada uma mesma taxa nominal ao ano positiva,
+     tomar um empréstimo em que a frequência de capitalização
+     seja semestral é preferível a tomar um empréstimo com
+     frequência de capitalização mensal.
+32   Se um capital for investido a uma taxa de juros mensal de
+     10%, sob juros simples, o tempo para que esse capital atinja
+     5 vezes seu valor inicial será superior a 4 anos.
+33   Para taxas de juros positivas, o montante final em
+     capitalização composta é igual ao capital inicial menos os
+     juros gerados no período.
+34   Na capitalização composta, o valor dos juros é proporcional
+     ao prazo.
+
+       Um cliente realizou um empréstimo de R$ 120.000,00 em
+uma instituição financeira, sob o regime do sistema de
+amortização constante (SAC), com prazo de pagamento de 10
+anos, taxa nominal de juros de 12% ao ano e pagamentos
+mensais.
+
+Com relação a essa situação hipotética, julgue os itens a seguir.
+35   O valor da quinta prestação será de R$ 2.160,00.
+36   O valor de juros pago na centésima parcela será de
+     R$ 210,00.
+
+Considerando a figura precedente, que mostra a distribuição de
+frequências de uma variável X em uma amostra aleatória simples
+de tamanho igual a 16, julgue os próximos itens.
+
+37   O desvio padrão amostral de X é superior a 2.
+
+38   Na amostra em apreço, o primeiro quartil é igual ao terceiro
+     quartil.
+
+39   A média, a mediana e a moda do conjunto de dados em
+     questão são iguais a 2.
+
+          Uma população é constituída por 20 elementos, os quais
+se encontram distribuídos em seis conglomerados, conforme a
+tabela seguinte.
+
+                    conglomerado      elementos
+                          I            1, 2, 3, 4
+                         II            5, 6, 7, 8
+                         III          9, 10, 11, 12
+                         IV            13, 14, 15
+                         V               16, 17
+                         VI            18, 19, 20
+
+Com base nessas informações, e considerando uma amostragem
+aleatória por conglomerados de tamanho   2, julgue os itens a
+seguir.
+
+40   Se     P(E6)   e   P(E7)   representam,   respectivamente,   as
+     probabilidades de seleção dos elementos 6 e 7, então E6 e E7
+     são eventos independentes.
+
+41   Sabendo-se que o elemento 12 se encontra na amostra, é
+     correto afirmar que a probabilidade de seleção do elemento 9
+     é igual a 1.
+
+42   A referida amostra por conglomerados deve ser constituída
+     exatamente por dois elementos, por exemplo, {13, 17}.
+
+                               CEBRASPE – CGE/RJ – Edital: 2023
+       Certo pensador, ao comentar a respeito de determinada
+ideologia, manifestou a seguinte opinião: “Essa ideologia é igual
+às outras: se você acredita, não precisa de explicação; se você
+não acredita, não adianta explicação.”.
+       Uma pesquisa revelou que, de 1.000 pessoas de uma
+cidade, 300 conhecem e acreditam na referida ideologia, 400 a
+conhecem, mas não acreditam nela, 200 não a conhecem e 100 a
+conhecem, mas são indiferentes (nem dizem acreditar, nem
+dizem desacreditar).
+
+Considerando essa situação hipotética, julgue os itens seguintes.
+
+43   Escolhendo-se ao acaso uma pessoa entre as participantes da
+     pesquisa, a probabilidade de tal pessoa não acreditar na
+     ideologia, conhecendo-a ou não, é superior a 70%.
+44   As informações apresentadas, em especial a opinião do
+     pensador, permitem inferir que a ideologia em referência
+     prescinde de explicação.
+45   Escolhendo-se ao acaso uma pessoa entre as participantes da
+     pesquisa, a probabilidade de tal pessoa conhecer a ideologia
+     é de 80%.
+46   A negação do trecho ‘se você acredita, não precisa de
+     explicação; se você não acredita, não adianta explicação’
+     pode ser expressa corretamente por ‘você acredita, mas
+     precisa de explicação, ou você não acredita, mas adianta
+     explicação’.
+
+Julgue os itens a seguir, a respeito do Word no Microsoft
+Office 365.
+
+47   Pincel de Formatação é um recurso destinado a marcar um
+
+     texto com cores, para destaque, durante a edição do
+     documento.
+48   A revisão de um texto em edição no Word pode ser realizada
+     com apoio de marcadores que controlam a alteração quando
+     uma palavra ou letra é apagada ou alterada, ou quando o
+     documento é formatado, utilizando-se, para tanto, o recurso
+     Ortografia e Gramática.
+
+
+Julgue os itens subsecutivos com base na Lei n.º 13.709/2018
+(Lei Geral de Proteção de Dados Pessoais — LGPD).
+
+49   A LGPD não se aplica ao tratamento de dados pessoais
+     realizado para fins exclusivos de atividades de investigação e
+     repressão de infrações penais.
+50   A LGPD aplica-se ao tratamento de dados pessoais coletados
+     em território nacional.
+

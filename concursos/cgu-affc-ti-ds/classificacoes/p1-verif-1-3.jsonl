@@ -1,0 +1,50 @@
+{"id": "v1-3-01", "codigo": "OUTRO", "rel": "fora", "motivo": "contabilidade de custos, ponto de equilíbrio"}
+{"id": "v1-3-02", "codigo": "OUTRO", "rel": "fora", "motivo": "convalidação de ato, Lei 9.784 fora dos arts. 18-21"}
+{"id": "v1-3-03", "codigo": "P1·ADM 2", "rel": "media", "motivo": "gestão para resultados, estado do Ceará"}
+{"id": "v1-3-04", "codigo": "P1·ETICA 3", "rel": "alta", "motivo": "impedimento no processo administrativo, art. 18 Lei 9.784"}
+{"id": "v1-3-05", "codigo": "P1·ADM 4", "rel": "media", "motivo": "evolução do orçamento tradicional ao moderno"}
+{"id": "v1-3-06", "codigo": "OUTRO", "rel": "fora", "motivo": "prerrogativas de servidor de tribunal de contas"}
+{"id": "v1-3-07", "codigo": "P1·ADM 2", "rel": "media", "motivo": "paradigma do cidadão-cliente na gestão pública"}
+{"id": "v1-3-08", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "classificação da despesa orçamentária"}
+{"id": "v1-3-09", "codigo": "OUTRO", "rel": "fora", "motivo": "modelagem BPMN e processo judicial eletrônico"}
+{"id": "v1-3-10", "codigo": "OUTRO", "rel": "fora", "motivo": "protocolo de roteamento, redes"}
+{"id": "v1-3-11", "codigo": "OUTRO", "rel": "fora", "motivo": "direito eleitoral, inelegibilidade reflexa"}
+{"id": "v1-3-12", "codigo": "P1·ESTADO 3", "rel": "baixa", "motivo": "RIDE, regiões integradas de desenvolvimento"}
+{"id": "v1-3-13", "codigo": "OUTRO", "rel": "fora", "motivo": "crime ambiental, licenciamento"}
+{"id": "v1-3-14", "codigo": "OUTRO", "rel": "fora", "motivo": "segurança cibernética do Judiciário"}
+{"id": "v1-3-15", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "política educacional PDE"}
+{"id": "v1-3-16", "codigo": "P1·SOC 1", "rel": "baixa", "motivo": "educação e mudança social, projetos sociais"}
+{"id": "v1-3-17", "codigo": "OUTRO", "rel": "fora", "motivo": "planejamento estratégico do FNDE"}
+{"id": "v1-3-18", "codigo": "OUTRO", "rel": "fora", "motivo": "estatística, distribuição de Poisson"}
+{"id": "v1-3-19", "codigo": "P1·ADM 3", "rel": "media", "motivo": "análise custo-benefício de políticas públicas"}
+{"id": "v1-3-20", "codigo": "OUTRO", "rel": "fora", "motivo": "vícios do ato administrativo, abuso de poder"}
+{"id": "v1-3-21", "codigo": "P1·ADM 2", "rel": "media", "motivo": "governança e capacidade de resolver problemas públicos"}
+{"id": "v1-3-22", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "risco climático em instituições financeiras"}
+{"id": "v1-3-23", "codigo": "OUTRO", "rel": "fora", "motivo": "teoria geral da administração, departamentalização"}
+{"id": "v1-3-24", "codigo": "OUTRO", "rel": "fora", "motivo": "comunicação organizacional, relações públicas"}
+{"id": "v1-3-25", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, tuberculose"}
+{"id": "v1-3-26", "codigo": "OUTRO", "rel": "fora", "motivo": "engenharia de software, modularidade"}
+{"id": "v1-3-27", "codigo": "OUTRO", "rel": "fora", "motivo": "ITIL, gestão de serviços de TI"}
+{"id": "v1-3-28", "codigo": "P1·ETICA 3", "rel": "media", "motivo": "ética e conflito de interesses de autoridades"}
+{"id": "v1-3-29", "codigo": "OUTRO", "rel": "fora", "motivo": "matemática financeira, juros"}
+{"id": "v1-3-30", "codigo": "OUTRO", "rel": "fora", "motivo": "política nacional de saúde do trabalhador"}
+{"id": "v1-3-31", "codigo": "OUTRO", "rel": "fora", "motivo": "interpretação de texto sobre auditoria"}
+{"id": "v1-3-32", "codigo": "P1·ESTADO 6", "rel": "baixa", "motivo": "improbidade administrativa, repasse sem instrumento"}
+{"id": "v1-3-33", "codigo": "OUTRO", "rel": "fora", "motivo": "análise financeira, VPL e TIR"}
+{"id": "v1-3-34", "codigo": "P1·ESTADO 7", "rel": "alta", "motivo": "teoria da captura regulatória"}
+{"id": "v1-3-35", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "redes de políticas públicas e atores"}
+{"id": "v1-3-36", "codigo": "OUTRO", "rel": "fora", "motivo": "contabilidade pública, NBC TSP"}
+{"id": "v1-3-37", "codigo": "P1·ADM 4", "rel": "media", "motivo": "LOA e orçamento como instrumento de controle"}
+{"id": "v1-3-38", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "origem de políticas públicas, problema público"}
+{"id": "v1-3-39", "codigo": "OUTRO", "rel": "fora", "motivo": "serviço social, código de ética profissional"}
+{"id": "v1-3-40", "codigo": "OUTRO", "rel": "fora", "motivo": "SUS, vigilância epidemiológica"}
+{"id": "v1-3-41", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "democracia, cidadania e qualidade da democracia"}
+{"id": "v1-3-42", "codigo": "P1·ADM 4", "rel": "media", "motivo": "LOA, orçamentos e compatibilização com PPA e LDO"}
+{"id": "v1-3-43", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "financiamento do saneamento básico"}
+{"id": "v1-3-44", "codigo": "P1·ETICA 5", "rel": "baixa", "motivo": "monitoramento de programa de compliance"}
+{"id": "v1-3-45", "codigo": "OUTRO", "rel": "fora", "motivo": "meteorologia, clima litorâneo e continental"}
+{"id": "v1-3-46", "codigo": "OUTRO", "rel": "fora", "motivo": "engenharia, ART e responsabilidade técnica"}
+{"id": "v1-3-47", "codigo": "OUTRO", "rel": "fora", "motivo": "segurança da informação, computação em nuvem"}
+{"id": "v1-3-48", "codigo": "OUTRO", "rel": "fora", "motivo": "educação, parâmetros curriculares nacionais"}
+{"id": "v1-3-49", "codigo": "P1·SOC 1", "rel": "alta", "motivo": "racismo institucional e reprodução das desigualdades"}
+{"id": "v1-3-50", "codigo": "OUTRO", "rel": "fora", "motivo": "biologia, mutagênese e quasiespécies virais"}

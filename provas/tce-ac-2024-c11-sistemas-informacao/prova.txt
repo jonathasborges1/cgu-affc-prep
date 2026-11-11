@@ -1,0 +1,352 @@
+CEBRASPE – TCEAC – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Em relação a frameworks para desenvolvimento web, julgue os
+itens que se seguem.
+51 A arquitetura do framework Vue.js é baseada em
+componentes, sendo possível o encapsulamento de HTML,
+CSS e JavaScript em um mesmo arquivo.
+52 Conteúdos de páginas web implementadas com DHTML são
+atualizados somente com a recarga da página inteira.
+53 O uso de AngularJS em uma aplicação simplifica as
+atividades de codificação do time de desenvolvedores, sem
+impactar o processo de teste.
+54 A tecnologia DHTML é uma evolução do HTML na qual são
+adicionados recursos dinâmicos às páginas web.
+55 AJAX representa técnicas utilizadas para que páginas web
+sejam carregadas rapidamente pelo processamento na parte
+cliente da aplicação.
+
+<message name=“getTermRequest”>
+<part name=“term” type=“xs:string”/>
+</message>
+
+A respeito de usabilidade e acessibilidade na Internet, julgue os
+próximos itens.
+56 Captchas apresentados para confirmar que o acesso está
+sendo feito por humano devem prover formas alternativas
+acessíveis a usuários com deficiência.
+57 Uma das diretrizes da WCAG estabelece que qualquer
+conteúdo não textual deve ser apresentado ao usuário com
+alternativa textual.
+58 Conforme a WCAG, o princípio denominado perceptível
+determina que os componentes de interface devem ser
+compreensíveis para o usuário.
+59 Segundo a WCAG, sugestões para a correção de erros de
+entrada de dados devem ser apresentadas ao usuário,
+independentemente do propósito do conteúdo.
+60 As diretrizes da WCAG determinam que deve ser mantido o
+contexto da aplicação quando um componente diferente
+recebe o foco do usuário.
+
+transport=“http://schemas.xmlsoap.org/soap/http” />
+<operation>
+<soap:operation
+soapAction=“http://example.com/getTerm”/>
+<input><soap:body use=“literal”/></input>
+<output><soap:body
+use=“literal”/></output>
+</operation>
+</binding>
+
+Acerca de desenvolvimento web e mobile, julgue os itens
+seguintes.
+61 O objetivo do JavaScript é deixar mais dinâmicas as
+aplicações web, de maneira que o usuário possa interagir e
+alterar o conteúdo da página.
+62 Em uma aplicação do tipo SPA (single page application), a
+estrutura da página fica estática, enquanto o conteúdo
+principal é atualizado de forma assíncrona.
+63 A utilização de WebSocket está limitada a aplicações web,
+pois deve ser implementado em browsers e servidores web.
+64 Assim como o HTML, o CSS é uma linguagem de marcação,
+que define a estrutura do conteúdo da página web.
+Julgue os próximos itens, relativos a arquitetura de software.
+65 Na arquitetura orientada a serviços (SOA), os serviços
+devem possuir acoplamento forte, de modo a se obter maior
+segurança na comunicação entre os serviços, promovendo
+uma maior dependência entre os recursos externos.
+66 O barramento de serviço corporativo (ESB) é um padrão de
+arquitetura em que há integrações entre aplicativos de forma
+centralizada, oferecendo suporte ao intercâmbio de dados
+inclusive entre aplicações distintas.
+67 A interoperabilidade de sistemas é a capacidade de acessar
+informações
+de
+aplicações
+quando
+necessário,
+independentemente de onde elas estejam armazenadas ou de
+como sejam processadas.
+
+<message name=“getTermResponse”>
+<part name=“value” type=“xs:string”/>
+</message>
+<portType name=“glossaryTerms”>
+<operation name=“getTerm”>
+<input message=“getTermRequest”/>
+<output message=“getTermResponse”/>
+</operation>
+</portType>
+<binding type=“glossaryTerms” name=“b1”>
+<soap:binding style=“document”
+
+Com base no código XML precedente, julgue os próximos itens.
+68 No código apresentado, o termo name é um elemento e o
+termo message é uma tag.
+69
+
+No referido código, o termo transport indica que o ESB
+será acessado por meio da URL a seguir.
+http://schemas.xmlsoap.org/soap/http
+
+Julgue os próximos itens, relativos aos padrões XML, SOAP,
+REST e JSON.
+70
+
+Considere o código a seguir, escrito em HTML e JavaScript.
+<!DOCTYPE html>
+<html>
+<body>
+<p id=“tceac”></p>
+<script>
+const desc = [“Tribunal de”, “Contas do”,
+“Estado”, “do Acre”];
+let texto = ““;
+for (let i = 1; i < desc.length-2; ++i) {
+texto += desc[i] + “ “;
+}
+document.getElementById(“tceac”).innerHTML
+=
+texto;
+</script>
+</body>
+</html>
+
+É correto afirmar que a execução desse código gerará a
+seguinte saída.
+Tribunal de Contas do
+71
+
+Ao se utilizar o REST em uma arquitetura com web services,
+a mensagem SOAP pode ser codificada com o uso de JSON,
+desde que seja utilizada, no XML resultante, uma referência
+DTD em que seja possível definir a estrutura, os elementos e
+os atributos do documento XML.
+
+CEBRASPE – TCEAC – Edital: 2024
+
+Em relação ao desenvolvimento de sistemas web, julgue os
+próximos itens.
+83 O uso extensivo de pseudoelementos no CSS3 pode
+melhorar a estrutura semântica de um documento HTML.
+84 Nas aplicações SPA (single page application) que utilizam
+AJAX, cada interação do usuário resulta em um
+recarregamento completo da página, o que garante que todas
+as partes da interface sejam atualizadas simultaneamente.
+85 A utilização do HTML 5 impacta significativamente a
+adaptabilidade responsiva de documentos web, pois os novos
+elementos e recursos introduzidos nessa versão têm relação
+direta com a responsividade das páginas.
+
+Tendo como referência o diagrama de caso de uso apresentado
+anteriormente, julgue os próximos itens, relativos a UML (unified
+modeling language).
+72 No diagrama apresentado, seria adequado utilizar o diagrama
+de estrutura composta para, caso se queira, descrever os
+detalhes das partes internas que compõem uma classe e a
+forma como elas colaboram entre si.
+73 O caso de uso informar endereço será acionado
+opcionalmente ao se acionar o caso de uso finalizar compra.
+74 Quando o ator sistema acionar o caso de uso verificar
+dados do cartão de crédito, este acionará,
+obrigatoriamente, o caso de uso preencher dados do
+cartão de crédito.
+Julgue os próximos itens conforme o Scrum (nov./2020).
+75 Durante a sprint review, o scrum team e os stakeholders
+revisam o que foi realizado na sprint, sendo possível ajustar
+o product backlog a fim de atender a novas oportunidades.
+76 O sprint backlog é composto tanto meta da sprint quanto
+pelo plano de ação para entregar o incremento.
+77 Na sprint planning, fica a critério exclusivo dos developers o
+planejamento necessário para se criar um incremento que
+atenda à definição de pronto, o que pode ser realizado
+decompondo-se os itens do product backlog.
+78 Desde que o daily scrum se concentre no progresso em
+direção à meta da sprint e produza um plano de ação para o
+próximo dia de trabalho, os developers podem selecionar a
+estrutura e as técnicas que quiserem.
+No que se refere à arquitetura cliente‐servidor, julgue os itens
+subsecutivos.
+79 Com a criação da arquitetura cliente-servidor em três
+camadas, a arquitetura em duas camadas deixou de ser usada.
+80 Em uma aplicação web baseada na arquitetura cliente-servidor
+de três camadas, a lógica de negócios, que inclui validações,
+processamento de dados e regras de aplicação, fica totalmente
+na camada intermediária, sem qualquer distribuição para as
+camadas de apresentação ou de dados.
+81 Na arquitetura cliente-servidor para aplicações móveis, a
+comunicação entre o cliente (aplicativo móvel) e o servidor é
+sempre realizada de forma que todos os dados necessários são
+armazenados localmente no dispositivo móvel, o que elimina a
+necessidade de consultas ao banco de dados do servidor.
+82 Na arquitetura cliente-servidor aplicada à computação em
+nuvem, a escalabilidade horizontal permite que mais servidores
+sejam adicionados, a fim de melhorar a capacidade de
+processamento, a resiliência e o desempenho do sistema.
+
+A respeito do desenvolvimento de aplicativos pelo Power Apps,
+julgue o item subsequente.
+86 O Power Apps não requer a escrita de muitas linhas de código,
+o que permite que usuários sem habilidades avançadas de
+programação
+desenvolvam
+aplicativos
+rapidamente,
+entretanto, por não ser uma plataforma de desenvolvimento
+low-code, ele requer a escrita de códigos em C#.
+Julgue os próximos itens, referentes ao Power BI.
+87 No Power BI, por meio do Power Query, é possível escrever
+consultas SQL personalizadas ao se conectar em bancos de
+dados, o que possibilita a transformação de dados e a criação
+de relatórios e dashboards baseados nessas consultas.
+88 O Power BI permite a realização de modelagem estrela.
+89 No Power BI, há uma limitação de integração de ferramentas
+de visualização de dados com linguagens de programação,
+principalmente porque esse software é restrito às linguagens
+DAX (data analysis expressions) e M (power query) e não
+suporta linguagens como R e Python para análises
+estatísticas avançadas e aprendizado de máquina.
+90 Na composição de painéis no Power BI, é possível adicionar
+informações a respeito de indicadores-chave de performance
+(KPI).
+Julgue os itens seguintes, relativos às ferramentas de automação de
+tarefas Microsoft Power Automate e Microsoft Power Virtual Agents.
+91 Os chatbots podem ser utilizados para melhorar o
+atendimento ao público por meio da automatização de
+respostas para perguntas frequentes, sendo o Power Virtual
+Agents um tipo de ferramenta que pode ser usada na
+implementação desse tipo de solução.
+92 Com uso do Microsoft Power Automate, uma repartição
+pública pode, por exemplo, automatizar a coleta de dados
+financeiros de diversas fontes, o que lhe possibilita melhorar
+a eficiência e a precisão das auditorias realizadas.
+Em relação à gestão de segurança da informação, julgue os itens
+subsequentes.
+93 De acordo com a NBR ISO/IEC 27001, quando uma não
+conformidade acontece, a organização deve, entre outras
+providências, avaliar a necessidade de realizar ações para a
+eliminação de sua causa, a fim de evitar que tal evento volte
+a acontecer.
+94 Conforme a NBR ISO/IEC 27002, os requisitos legais,
+estatuários, regulamentares e contratuais constituem uma das
+principais fontes de requisitos de segurança da informação.
+95 Segundo a NBR ISO/IEC 27001, um processo de avaliação
+de riscos de segurança da informação deve estabelecer e
+manter critérios de risco que incluam a eliminação e a
+avaliação dos riscos.
+96 Nos controles organizacionais previstos na NBR ISO/IEC 27002,
+o inventário de informações e outros ativos associados abrangem
+as seguintes propriedades de segurança da informação:
+confidencialidade, integridade e disponibilidade.
+
+CEBRASPE – TCEAC – Edital: 2024
+
+A respeito da autenticação e proteção de sistemas, julgue os itens
+que se seguem.
+97 O JSON Web Token consiste em três partes separadas por
+pontos: o cabeçalho, que contém informações sobre o tipo de
+token e o algoritmo de criptografia usado para assinar o
+token; o payload, que contém as informações do usuário; e a
+assinatura, usada para garantir que o token não tenha sido
+alterado.
+98 Na notificação por push, os métodos de autenticação de dois
+fatores (2FA) exigem uma senha para aprovar o acesso a um
+sítio ou aplicativo.
+99 O OpenID Connect é um protocolo de identidade simples,
+construído no protocolo do JSON Web Token, e permite que
+os aplicativos clientes confiem na autenticação executada por
+um provedor OpenID Connect para verificar a identidade de
+um usuário.
+100 A biometria pode ser usada em conjunto com outros métodos
+de autenticação — principalmente senhas e PIN — como
+parte de uma configuração 2FA.
+Em relação a ameaças e vulnerabilidades em aplicações, julgue
+os próximos itens.
+101 XSS (cross-site scripting) é um método pelo qual um
+invasor explora vulnerabilidades na maneira como um banco
+de dados executa consultas de pesquisa.
+102 O objetivo do ataque de LDAP injection é manipular as
+consultas LDAP, por meio da inserção de um código
+malicioso na consulta, que passa a ser interpretada de forma
+diferente do esperado.
+103 Um ataque de cross‐site request forgery é aquele que induz
+um usuário a usar acidentalmente suas credenciais para
+invocar uma ação indesejada.
+Acerca da segurança de aplicativos web, julgue os itens que se
+seguem.
+104 O uso de componentes com vulnerabilidades conhecidas é uma
+das categorias de riscos de segurança do OWASP Top 10 que
+resulta da desserialização de dados de fontes não confiáveis.
+105 Entre os riscos de segurança incluídos no relatório
+OWASP Top 10, a quebra de controle de acesso é um ataque
+contra um aplicativo web que analisa a entrada XML.
+106 Quando um invasor encontra falhas em um mecanismo de
+autenticação, ele pode obter acesso às contas de outros
+usuários.
+A respeito das características de um ataque de negação de serviço
+distribuído, julgue os próximos itens.
+107 Um firewall de borda é considerado como o elemento capaz
+de fazer a mitigação de ataques DDoS de maneira eficiente,
+já que o tráfego da camada de aplicação tem que ser
+bloqueado na entrada da rede.
+108 Em um ataque que envolve a amplificação de dados, o
+atacante gera uma mensagem para um elemento falho na
+rede e este, por sua vez, gera uma resposta que aumenta o
+volume de dados direcionados à vítima.
+Julgue os itens a seguir, a respeito de estratégia de criptografia
+para dados em trânsito em uma rede de computadores.
+109 O uso da última versão do TLS é recomendado para a
+criação de túneis de comunicação criptografados,
+considerando as versões de algoritmos simétricos e
+assimétricos seguros.
+110 Como solução de verificação de integridade, o algoritmo
+MD5 seria uma boa escolha, já que ele é resistente a colisões
+e garante confidencialidade.
+
+Acerca de assinatura e certificação digital, julgue os itens que se
+seguem.
+111 No caso de um certificado digital com o algoritmo RSA, o
+tamanho adequado e seguro da chave é de 512 bits.
+112 O algoritmo SHA512 é inseguro porque o ataque de
+repetição (replay attack) permite a colisão dos primeiros
+64 bits de saída.
+Com base na NBR ISO/IEC 27005, julgue os itens seguintes.
+113 Na organização deve existir treinamento de gestores e de
+pessoal sobre riscos e ações de mitigação.
+114 O processo de gestão de riscos deve contribuir para a
+identificação dos riscos de segurança da informação.
+Conforme o que preconiza a LPGD para o encarregado de dados,
+julgue os itens subsequentes.
+115 Cabe ao encarregado aceitar reclamações e comunicações
+dos titulares de dados.
+116 A identidade e as informações de contato do encarregado de
+dados devem ser mantidas em sigilo, podendo ser publicadas
+mediante solicitação do interessado.
+Julgue os itens a seguir, em relação ao processo de negociação de
+parâmetros criptográficos e múltiplas conexões conforme o
+protocolo TLS 1.3.
+117 O TLS impede a abertura de múltiplas conexões HTTP
+paralelas.
+118 O servidor processa a mensagem ClientHello enviada
+pelo cliente, entretanto, quem determina os parâmetros
+apropriados criptográficos para a conexão é o cliente.
+A respeito do processo de gestão de riscos estabelecido pela NBR
+ISO/IEC 27005, julgue os seguintes itens.
+119 O encerramento do processo de gestão de risco inclui
+decisões sobre a aceitação do risco e consequente
+comunicação às partes envolvidas.
+120 Uma das etapas do processo de gestão de risco consiste em
+definir o contexto.
+Espaço livre
+
+

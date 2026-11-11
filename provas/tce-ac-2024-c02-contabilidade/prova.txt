@@ -1,0 +1,424 @@
+CEBRASPE – TCEAC – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -De acordo com o Manual de Contabilidade Aplicada ao Setor
+Público (MCASP, 10.ª edição), julgue os seguintes itens,
+relativos ao patrimônio público, aos elementos que o
+compõem e a suas variações.
+51
+
+O resultado patrimonial de determinado período consiste na
+diferença entre as variações patrimoniais aumentativas e
+diminutivas apurada na demonstração do resultado do
+exercício.
+
+52
+
+As variações patrimoniais da receita pública não podem ser
+reconhecidas antes da arrecadação.
+
+53
+
+O ativo permanente compreende os bens, créditos e valores
+cuja expectativa de realização seja superior a doze meses,
+contados da data das demonstrações contábeis.
+
+54
+
+Uma obrigação que, ao ser extinta, não ocasione a saída de
+recursos da entidade não deve ser registrada como passivo.
+
+Julgue os seguintes itens, relativos à mensuração de ativos de
+acordo com o MCASP (10.ª edição).
+55
+
+No caso de um ativo imobilizado com valor contábil, líquido
+de depreciações, de R$ 1 milhão, valor justo líquido de
+despesas de venda mensurado em R$ 1,1 milhão e valor em
+uso estimado em R$ 800 mil, deve ser reconhecida perda por
+redução ao valor recuperável de R$ 200 mil.
+
+56
+
+Custos com fretes e manuseio de equipamentos que serão
+instalados devem estar contidos na mensuração de um ativo
+imobilizado.
+
+57
+
+Os gastos realizados com a fase de pesquisa devem ser
+reconhecidos e mensurados no ativo intangível, uma vez que
+demonstram a geração de benefícios econômicos futuros
+para a administração.
+
+58
+
+A utilização do método de depreciação da soma dos dígitos
+implica maior depreciação inicial e menor depreciação final
+em comparação ao método das cotas constantes aplicado ao
+mesmo bem, considerando-se a mesma vida útil.
+
+Acerca de provisões e passivos contingentes, julgue os próximos
+itens.
+59
+
+Como o reconhecimento de uma provisão implica o
+lançamento de uma variação patrimonial diminutiva, quando
+a obrigação passa a ter prazo e valor definidos e este é menor
+que o da provisão lançada, deve-se reconhecer uma variação
+patrimonial aumentativa simultaneamente ao registro da
+obrigação.
+
+60
+
+É possível reconhecer no passivo contingente eventos
+futuros incertos que não estão totalmente sob o controle da
+entidade.
+
+Acerca do sistema de custos no setor público, julgue os seguintes
+itens.
+61 A granularidade da informação de custos no setor público
+exige que o sistema de custos seja capaz de produzir
+informações em diferentes níveis de detalhamento, por meio
+da geração de relatórios variados, sem comprometer a
+comparabilidade das informações.
+62 A estrutura da informação de custos no setor público requer
+a integração das dimensões física e financeira, sendo os
+sistemas estruturantes, como o SIAFI, utilizados para dados
+financeiros e o SIAPE, para dados físicos e financeiros, o
+que permite uma apropriação precisa dos custos dos produtos
+e serviços.
+63 No método de custeio por absorção, os custos diretos e
+indiretos são alocados aos centros de custos, usando-se
+métodos diretos e objetivos no rateio dos custos, sem
+margem para arbitrariedades ou subjetividade.
+64 A definição dos objetos de custos é uma responsabilidade
+intrínseca à própria organização, e tais objetos podem incluir
+unidades organizacionais, produtos, serviços ou programas,
+sendo essenciais para a correta alocação e classificação das
+origens dos custos.
+Em relação ao Plano de Contas Aplicado ao Setor Público
+(PCASP) e às demonstrações contábeis aplicadas ao setor
+público, julgue os itens a seguir.
+65 São exemplos de atividades de financiamento os
+recebimentos de caixa por contratos futuros, a termo, de
+opção e swap, exceto quando tais contratos forem mantidos
+para negociação imediata ou disponível para venda.
+66 De acordo com o Manual de Contabilidade Aplicada ao
+Setor Público (MCASP, 10.ª edição), os títulos de ingressos
+e desembolsos de ativos e passivos são evidenciados no
+balanço financeiro.
+67 O PCASP promove a segregação das informações
+orçamentárias e patrimoniais, assegurando que registros
+orçamentários e patrimoniais sejam independentes; além
+disso, exige que as variações patrimoniais sejam registradas
+pelo regime de competência e inclui procedimentos como
+reavaliação e redução ao valor recuperável, conforme as
+normas internacionais de contabilidade aplicadas ao setor
+público.
+Julgue os itens subsequentes, relativos a despesas e receitas
+públicas.
+68 A classificação da receita para apuração do resultado
+primário, cujo objetivo é facilitar a apuração do resultado
+primário da União, dos estados, do DF e dos municípios, é
+obrigatória para todos os entes da Federação.
+69 O registro da previsão inicial da receita orçamentária na lei
+orçamentária anual (LOA) implica o lançamento de uma
+conta com natureza orçamentária, sem que seja realizado,
+nessa oportunidade, qualquer lançamento contábil em contas
+de natureza financeira de forma concomitante.
+70 O lançamento contábil a seguir é realizado no estágio da
+despesa em que se reconhece o direito adquirido pelo credor.
+Natureza da informação: orçamentária
+D 6.2.2.1.3.01.00 Crédito Empenhado a Liquidar
+C 6.2.2.1.3.03.00 Crédito Empenhado Liquidado a Pagar
+71 Segundo as normas de classificação das despesas públicas,
+define-se como material de consumo aquele que, em razão
+de seu uso corrente, não perde normalmente sua identidade
+física e cuja utilização é limitada a três anos.
+
+CEBRASPE – TCEAC – Edital: 2024
+
+Julgue os próximos itens, relativos a execução orçamentária e
+financeira, regime contábil, análise de balanços e intangíveis, de
+acordo com o MCASP (10.ª edição).
+72
+
+No balanço orçamentário, se a receita corrente prevista
+superar a receita corrente executada, haverá déficit corrente;
+se a receita de capital executada for maior que a receita de
+capital prevista, haverá superávit de capital.
+
+73
+
+No momento da ocorrência do fato gerador do IPTU, é lícito
+proceder ao registro contábil do direito a receber, em
+contrapartida de variação patrimonial aumentativa (VPA),
+em contas contábeis de natureza patrimonial.
+
+74
+
+O regime contábil adotado para a receita pública no Brasil é
+o de caixa, devendo-se registrar somente ativos decorrentes
+de fatos geradores de receitas em razão da ocorrência do
+efetivo ingresso dos recursos nos cofres públicos.
+
+75
+
+No setor público brasileiro, os ativos intangíveis devem ser
+amortizados ao longo de uma vida útil definida de, no
+máximo, 10 anos.
+
+Relativamente
+
+ao
+
+conceito,
+
+objetivos
+
+e
+
+finalidades
+
+da
+
+contabilidade, julgue os itens que se seguem.
+76
+
+Contabilidade é a ciência social que estuda e sistematiza os
+princípios de tomada de decisão sobre recursos disponíveis
+ao gerenciamento organizacional.
+
+77
+
+Contribuir para a tomada de decisão sobre comprar, vender
+ou manter instrumento de patrimônio e de dívida das
+entidades é um dos fins da contabilidade.
+
+Em relação ao patrimônio do ente contábil, julgue os itens a
+seguir.
+78
+
+Representação gráfica patrimonial é o mesmo que balanço
+patrimonial.
+
+79
+
+É dispensável que determinado bem ou direito seja de
+propriedade do ente contábil para ser caracterizado como
+elemento patrimonial do seu ativo, mas é obrigatório que
+esse item seja capaz de gerar benefícios econômicos para
+essa mesma entidade.
+
+Julgue os itens subsequentes, a respeito dos atos e fatos
+administrativos.
+80
+
+A compra de um item patrimonial, parte à vista e parte a
+prazo, com juros embutidos no preço, é um exemplo de fato
+administrativo misto.
+
+81
+
+A baixa de um título de crédito considerado incobrável em
+conta de provisão para perda esperada associada ao risco de
+crédito constitui fato administrativo permutativo, pois
+conserva a substância líquida patrimonial.
+
+Acerca do plano de contas contábil e das contas que o integram,
+julgue os próximos itens.
+82 O exemplo abaixo apresenta a conta contábil, expressa por
+um código numérico e seu literal, e o funcionamento da
+conta.
+1.1.1.90.00-2
+Título: CAIXA
+(...)
+registrar o numerário existente, em moeda corrente nacional,
+de propriedade do grupo de consórcio, destinado a depósito
+em instituição financeira.
+83 Contas de débito são contas típicas do ativo e das despesas;
+contas de crédito são tipicamente usadas para expressar itens
+do passivo e das receitas.
+84 Plano de contas é como a ciência contábil denomina ao rol
+de contas, credoras, devedoras ou de dupla natureza,
+representadas, cada uma delas, por um código numérico e
+por uma parte literal que explica sua finalidade.
+85 Em contabilidade, conta pode ser entendida como a
+expressão total ou parcial de um fenômeno ou de uma série
+de fenômenos patrimoniais, passados ou não.
+A respeito da demonstração de resultados do exercício (DRE),
+julgue os itens a seguir.
+86 Para que da DRE seja possível concluir se houve lucro ou
+prejuízo em determinado período de tempo, bem como
+analisar detalhadamente a parte econômica do negócio,
+deve-se adotar o regime de caixa.
+87 As entidades que classificarem os gastos por função devem
+divulgar informação adicional sobre a natureza das despesas,
+incluindo-se as despesas de depreciação e de amortização e
+as despesas com benefícios aos empregados.
+88 A DRE consiste na apresentação, em forma resumida, das
+receitas e despesas decorrentes das operações realizadas pela
+empresa durante o exercício social, com o objetivo de
+demonstrar a formação do resultado líquido do período.
+89 Da receita líquida deduz-se o custo total correspondente a
+vendas e serviços e obtém-se o resultado líquido.
+90 As despesas financeiras devem ser tratadas como resultado
+operacional.
+A respeito do conceito de ativo conforme o Comitê de
+Pronunciamentos Contábeis (CPC), julgue os itens a seguir.
+91 Há situações em que não ocorre a associação entre gastos
+incorridos e a geração de ativos.
+92 O conceito de recurso econômico, base para o conceito de
+ativo, envolve somente dois aspectos: direito e potencial de
+produzir benefícios econômicos.
+93 O benefício econômico futuro refere-se ao potencial de
+contribuição — seja ela direta ou indireta — para o fluxo de
+caixa ou equivalentes de caixa da entidade.
+94 Os ativos de uma empresa representam direitos de utilização
+de riqueza e, em alguns casos, representam somente direitos
+parciais.
+95 São exemplos de ativo as máquinas, os estoques e o depósito
+judicial.
+96 A manutenção em segredo de um know-how que uma
+empresa controle impede que ele seja classificado como
+ativo.
+
+CEBRASPE – TCEAC – Edital: 2024
+
+No que se refere ao conceito de receita, para fins da elaboração
+da DRE, julgue os itens a seguir.
+97
+
+O objetivo da DRE é fornecer aos usuários das
+demonstrações contábeis da empresa as informações
+essenciais sobre a formação do resultado do exercício, que
+evidencia o desempenho da entidade.
+
+98
+
+A receita de venda é contabilizada por ocasião da
+transferência do controle, e não quando de seu recebimento.
+
+99
+
+As receitas representam os aumentos nos ativos, ou redução
+nos passivos, cujo resultado aumenta o patrimônio líquido,
+exceto as contribuições dos detentores de capital.
+
+100 Usualmente, adota-se o método dedutivo na apresentação das
+
+receitas, apresentando-se incialmente as receitas da entidade
+e, posteriormente, as despesas.
+No que se refere à compliance aplicada à gestão pública, julgue
+os itens a seguir.
+101 São aplicáveis ao contexto de compliance na gestão pública
+
+brasileira somente as normas nacionais.
+102 A implementação de programas de compliance na gestão
+
+pública visa garantir a conformidade com leis e
+regulamentos, no sentido de serem prevenidos e detectados
+atos de corrupção.
+Em relação a auditoria governamental, controle interno,
+planejamento de auditoria e gestão de riscos no setor público,
+julgue os itens seguintes.
+103 A implementação de um sistema eficaz de gestão de riscos
+
+permite não apenas a mitigação de riscos, mas também a
+identificação de oportunidades que possam agregar valor à
+organização pública.
+104 O
+
+controle interno inclui políticas e procedimentos
+implementados pela administração para assegurar a
+confiabilidade dos relatórios financeiros e a conformidade
+com leis e regulamentos.
+
+105 O planejamento de auditoria baseado em risco deve
+
+considerar a relevância e a materialidade dos riscos, bem
+como os riscos inerentes aos processos auditados.
+106 O risco inerente é aquele que permanece mesmo após a
+
+implementação de controles internos para mitigação dos
+riscos identificados.
+107 A auditoria de regularidade tem como objetivo principal a
+
+avaliação da eficiência e da eficácia das operações de um
+órgão público.
+Acerca de testes de auditoria e do escopo e da materialidade no
+plano de auditoria, julgue os itens a seguir.
+108 O escopo da auditoria pode ser ajustado durante o processo
+
+de auditoria caso novos riscos ou informações relevantes
+sejam identificados.
+109 Relevância e materialidade são conceitos sinônimos no
+
+contexto da auditoria, não havendo distinção entre eles.
+110 Os testes de auditoria incluem procedimentos como exame
+
+documental, inspeção física, conferência de cálculos e
+entrevistas.
+
+A respeito das evidências de auditoria, da caracterização de
+achados e de procedimentos de auditoria, julgue os próximos
+itens.
+111 Achados de auditoria são sempre considerados graves, pois
+
+se caracterizam pela identificação de desvios ou deficiências
+em relação aos critérios estabelecidos.
+112 A matriz de responsabilização é utilizada para documentar a
+
+responsabilidade dos gestores e servidores pelos achados
+identificados, não sendo obrigatória em todos os tipos de
+auditoria.
+113 A circularização é um procedimento utilizado para confirmar
+
+saldos e transações diretamente com terceiros, garantindo a
+integridade dos registros contábeis.
+Julgue os itens subsecutivos, referentes à comunicação dos
+resultados de auditoria, ao monitoramento das recomendações de
+auditoria e aos relatórios de auditoria.
+114 A documentação da auditoria inclui todos os papéis de
+
+trabalho, evidências coletadas e conclusões alcançadas
+durante o processo de auditoria.
+115 A efetividade do monitoramento das recomendações de
+
+auditoria pode ser avaliada por meio de auditorias
+subsequentes ou revisões específicas.
+116 O relatório de auditoria deve ser elaborado apenas no final
+
+do processo de auditoria, sem necessidade de comunicações
+intermediárias com a entidade auditada no curso desse
+processo.
+Considerando as Normas Brasileiras de Auditoria do Setor
+Público (NBASP) — Níveis 1, 2 e 3 —, julgue os itens que se
+seguem.
+117 Os auditores do setor público não se submetem aos mesmos
+
+padrões de ética aplicáveis aos auditores do setor privado,
+devido às diferenças nas suas funções.
+118 A independência e a objetividade dos auditores podem ser
+
+comprometidas se eles forem designados para auditar
+entidades nas quais tenham desempenhado funções
+gerenciais anteriormente.
+Enquanto conduzia uma auditoria em um órgão público
+estadual do Acre, um auditor de controle externo do TCEAC
+encontrou várias irregularidades em contratos de licitação. Agora,
+ele está na fase de documentação dos achados de auditoria e
+preparação do relatório final.
+A partir dessa situação hipotética, julgue os itens subsequentes.
+119 Se o auditor encontrar resistência do órgão auditado para
+
+fornecer documentos necessários, ele poderá concluir a
+auditoria com base nas informações disponíveis, sem
+mencionar em seu relatório as dificuldades encontradas.
+120 O auditor deve documentar detalhadamente todas as
+
+evidências coletadas, mesmo aquelas que não sustentem
+diretamente suas conclusões, para garantir a transparência do
+processo de auditoria.
+
+

@@ -1,0 +1,6 @@
+{"item": "3", "edital": "P3·DADOS 2.2", "relevancia": "media", "nucleo_id": "n-select-mineracao", "tags": ["TROCA_TERMO"], "nivel": "facil"}
+{"item": "6", "edital": "P3·DADOS 1.5", "relevancia": "media", "nucleo_id": "n-modificacao-adiada-log-write", "tags": ["NORMA_LITERAL"], "nivel": "dificil"}
+{"item": "7", "edital": "P3·DADOS 2.1", "relevancia": "alta", "nucleo_id": "n-update-case", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "8", "edital": "P3·DADOS 2.4", "relevancia": "alta", "nucleo_id": "n-plano-execucao-tecnica-otimizacao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "13", "edital": "P3·DADOS 2.2", "relevancia": "alta", "nucleo_id": "n-view-group-by-order-by", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "15", "edital": "P3·DADOS 2.2", "relevancia": "alta", "nucleo_id": "n-left-join-preserva-tabela-esquerda", "tags": ["NORMA_LITERAL"], "nivel": "medio"}

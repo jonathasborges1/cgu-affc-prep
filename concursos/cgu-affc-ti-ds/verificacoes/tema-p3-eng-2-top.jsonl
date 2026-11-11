@@ -1,0 +1,6 @@
+{"item": "3", "edital": "P3·ENG 2.8", "relevancia": "alta", "nucleo_id": "n-factory-method-vs-builder", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "5", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "dificil"}
+{"item": "6", "edital": "P3·ENG 2.8", "relevancia": "media", "nucleo_id": "n-padroes-projeto-proposito", "tags": ["INVERSAO"], "nivel": "medio"}
+{"item": "9", "edital": "P3·ENG 2.2", "relevancia": "alta", "nucleo_id": "n-encapsulamento-definicao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "10", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "17", "edital": "P3·ENG 5.1", "relevancia": "baixa", "nucleo_id": "n-reuso-nivel-abstracao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

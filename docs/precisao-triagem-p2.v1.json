@@ -1,0 +1,602 @@
+{
+ "P2·DIR 3": {
+  "pool": 235,
+  "n": 30,
+  "no_assunto": 5,
+  "ic90": [
+   0.076,
+   0.299
+  ],
+  "real": 39.2,
+  "part": 0.2437,
+  "part_ic": [
+   0.0982,
+   0.4157
+  ],
+  "rank": [
+   1,
+   1,
+   5
+  ],
+  "ordem": 1,
+  "acum": 0.2437,
+  "faixa": "A",
+  "firme": false
+ },
+ "P2·TRANSP 1": {
+  "pool": 133,
+  "n": 30,
+  "no_assunto": 6,
+  "ic90": [
+   0.1,
+   0.337
+  ],
+  "real": 26.6,
+  "part": 0.1798,
+  "part_ic": [
+   0.0479,
+   0.3352
+  ],
+  "rank": [
+   1,
+   2,
+   7
+  ],
+  "ordem": 2,
+  "acum": 0.4235,
+  "faixa": "A",
+  "firme": false
+ },
+ "P2·AUD 2": {
+  "pool": 113,
+  "n": 30,
+  "no_assunto": 3,
+  "ic90": [
+   0.03,
+   0.22
+  ],
+  "real": 11.3,
+  "part": 0.1094,
+  "part_ic": [
+   0.0077,
+   0.2418
+  ],
+  "rank": [
+   1,
+   4,
+   11
+  ],
+  "ordem": 3,
+  "acum": 0.5329,
+  "faixa": "A",
+  "firme": false
+ },
+ "P2·TRANSP 4": {
+  "pool": 30,
+  "n": 30,
+  "no_assunto": 11,
+  "ic90": [
+   0.236,
+   0.514
+  ],
+  "real": 11.0,
+  "part": 0.0891,
+  "part_ic": [
+   0.014,
+   0.2085
+  ],
+  "rank": [
+   2,
+   5,
+   9
+  ],
+  "ordem": 4,
+  "acum": 0.6219,
+  "faixa": "B",
+  "firme": false
+ },
+ "P2·GOV 1": {
+  "pool": 41,
+  "n": 30,
+  "no_assunto": 12,
+  "ic90": [
+   0.266,
+   0.547
+  ],
+  "real": 16.4,
+  "part": 0.085,
+  "part_ic": [
+   0.0115,
+   0.2116
+  ],
+  "rank": [
+   2,
+   5,
+   10
+  ],
+  "ordem": 5,
+  "acum": 0.7069,
+  "faixa": "B",
+  "firme": false
+ },
+ "P2·GOV 2": {
+  "pool": 66,
+  "n": 30,
+  "no_assunto": 8,
+  "ic90": [
+   0.153,
+   0.41
+  ],
+  "real": 17.6,
+  "part": 0.0826,
+  "part_ic": [
+   0.0163,
+   0.204
+  ],
+  "rank": [
+   2,
+   5,
+   8
+  ],
+  "ordem": 6,
+  "acum": 0.7895,
+  "faixa": "B",
+  "firme": false
+ },
+ "P2·EVID 5": {
+  "pool": 36,
+  "n": 30,
+  "no_assunto": 3,
+  "ic90": [
+   0.03,
+   0.22
+  ],
+  "real": 3.6,
+  "part": 0.0641,
+  "part_ic": [
+   0.0029,
+   0.1834
+  ],
+  "rank": [
+   2,
+   6,
+   15
+  ],
+  "ordem": 7,
+  "acum": 0.8536,
+  "faixa": "B",
+  "firme": false
+ },
+ "P2·DIR 1": {
+  "pool": 109,
+  "n": 30,
+  "no_assunto": 1,
+  "ic90": [
+   0,
+   0.132
+  ],
+  "real": 3.6,
+  "part": 0.0311,
+  "part_ic": [
+   0.008,
+   0.0747
+  ],
+  "rank": [
+   5,
+   7,
+   10
+  ],
+  "ordem": 8,
+  "acum": 0.8846,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·TRANSP 2": {
+  "pool": 26,
+  "n": 26,
+  "no_assunto": 12,
+  "ic90": [
+   0.312,
+   0.617
+  ],
+  "real": 12.0,
+  "part": 0.0143,
+  "part_ic": [
+   0.0066,
+   0.0271
+  ],
+  "rank": [
+   7,
+   9,
+   11
+  ],
+  "ordem": 9,
+  "acum": 0.8989,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·AUD 1": {
+  "pool": 149,
+  "n": 30,
+  "no_assunto": 3,
+  "ic90": [
+   0.03,
+   0.22
+  ],
+  "real": 14.9,
+  "part": 0.0137,
+  "part_ic": [
+   0.0054,
+   0.0272
+  ],
+  "rank": [
+   7,
+   9,
+   12
+  ],
+  "ordem": 10,
+  "acum": 0.9126,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·DIR 4": {
+  "pool": 133,
+  "n": 30,
+  "no_assunto": 3,
+  "ic90": [
+   0.03,
+   0.22
+  ],
+  "real": 13.3,
+  "part": 0.0094,
+  "part_ic": [
+   0.0027,
+   0.0198
+  ],
+  "rank": [
+   8,
+   10,
+   16
+  ],
+  "ordem": 11,
+  "acum": 0.922,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·EVID 3": {
+  "pool": 72,
+  "n": 30,
+  "no_assunto": 5,
+  "ic90": [
+   0.076,
+   0.299
+  ],
+  "real": 12.0,
+  "part": 0.0056,
+  "part_ic": [
+   0.0018,
+   0.0112
+  ],
+  "rank": [
+   10,
+   12,
+   17
+  ],
+  "ordem": 12,
+  "acum": 0.9276,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·AUD 3": {
+  "pool": 33,
+  "n": 30,
+  "no_assunto": 6,
+  "ic90": [
+   0.1,
+   0.337
+  ],
+  "real": 6.6,
+  "part": 0.0053,
+  "part_ic": [
+   0.0016,
+   0.011
+  ],
+  "rank": [
+   10,
+   13,
+   17
+  ],
+  "ordem": 13,
+  "acum": 0.9329,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·DIR 2": {
+  "pool": 95,
+  "n": 30,
+  "no_assunto": 2,
+  "ic90": [
+   0.01,
+   0.177
+  ],
+  "real": 6.3,
+  "part": 0.0038,
+  "part_ic": [
+   0.0005,
+   0.0087
+  ],
+  "rank": [
+   11,
+   14,
+   20
+  ],
+  "ordem": 14,
+  "acum": 0.9367,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·AUD 4": {
+  "pool": 34,
+  "n": 30,
+  "no_assunto": 2,
+  "ic90": [
+   0.01,
+   0.177
+  ],
+  "real": 2.3,
+  "part": 0.0036,
+  "part_ic": [
+   0.0006,
+   0.0081
+  ],
+  "rank": [
+   11,
+   15,
+   19
+  ],
+  "ordem": 15,
+  "acum": 0.9403,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·EVID 2": {
+  "pool": 49,
+  "n": 30,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.081
+  ],
+  "real": 0.0,
+  "part": 0.0032,
+  "part_ic": [
+   0.0005,
+   0.0075
+  ],
+  "rank": [
+   12,
+   15,
+   19
+  ],
+  "ordem": 16,
+  "acum": 0.9435,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·TRANSP 5": {
+  "pool": 20,
+  "n": 20,
+  "no_assunto": 5,
+  "ic90": [
+   0.12,
+   0.425
+  ],
+  "real": 5.0,
+  "part": 0.0026,
+  "part_ic": [
+   0.0011,
+   0.0053
+  ],
+  "rank": [
+   14,
+   16,
+   18
+  ],
+  "ordem": 17,
+  "acum": 0.9461,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·GOV 3": {
+  "pool": 16,
+  "n": 16,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.142
+  ],
+  "real": 0.0,
+  "part": 0.0021,
+  "part_ic": [
+   0.0,
+   0.0051
+  ],
+  "rank": [
+   14,
+   17,
+   21
+  ],
+  "ordem": 18,
+  "acum": 0.9482,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·TRANSP 3": {
+  "pool": 12,
+  "n": 12,
+  "no_assunto": 2,
+  "ic90": [
+   0.04,
+   0.389
+  ],
+  "real": 2.0,
+  "part": 0.0011,
+  "part_ic": [
+   0.0,
+   0.0026
+  ],
+  "rank": [
+   17,
+   19,
+   21
+  ],
+  "ordem": 19,
+  "acum": 0.9493,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·AUD 5": {
+  "pool": 28,
+  "n": 28,
+  "no_assunto": 1,
+  "ic90": [
+   0,
+   0.14
+  ],
+  "real": 1.0,
+  "part": 0.0004,
+  "part_ic": [
+   0.0,
+   0.0013
+  ],
+  "rank": [
+   18,
+   20,
+   21
+  ],
+  "ordem": 20,
+  "acum": 0.9498,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·EVID 1": {
+  "pool": 46,
+  "n": 30,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.081
+  ],
+  "real": 0.0,
+  "part": 0.0003,
+  "part_ic": [
+   0.0,
+   0.001
+  ],
+  "rank": [
+   19,
+   20,
+   22
+  ],
+  "ordem": 21,
+  "acum": 0.9501,
+  "faixa": "C",
+  "firme": false
+ },
+ "P2·DIR 5": {
+  "pool": 11,
+  "n": 11,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.194
+  ],
+  "real": 0.0,
+  "part": 0.0,
+  "part_ic": [
+   0.0,
+   0.0
+  ],
+  "rank": [
+   21,
+   22,
+   22
+  ],
+  "ordem": 22,
+  "acum": 0.9501,
+  "faixa": "C",
+  "firme": true
+ },
+ "P2·EVID 4": {
+  "pool": 26,
+  "n": 26,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.092
+  ],
+  "real": 0.0,
+  "part": 0.0,
+  "part_ic": [
+   0.0,
+   0.0
+  ],
+  "rank": [
+   22,
+   23,
+   23
+  ],
+  "ordem": 23,
+  "acum": 0.9501,
+  "faixa": "C",
+  "firme": true
+ },
+ "P2·GOV 4": {
+  "pool": 50,
+  "n": 30,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.081
+  ],
+  "real": 0.0,
+  "part": 0.0,
+  "part_ic": [
+   0.0,
+   0.0
+  ],
+  "rank": [
+   24,
+   24,
+   24
+  ],
+  "ordem": 24,
+  "acum": 0.9501,
+  "faixa": "C",
+  "firme": true
+ },
+ "P2·GOV 5": {
+  "pool": 60,
+  "n": 30,
+  "no_assunto": 0,
+  "ic90": [
+   0,
+   0.081
+  ],
+  "real": 0.0,
+  "part": 0.0,
+  "part_ic": [
+   0.0,
+   0.0
+  ],
+  "rank": [
+   25,
+   25,
+   25
+  ],
+  "ordem": 25,
+  "acum": 0.9501,
+  "faixa": "C",
+  "firme": true
+ }
+}

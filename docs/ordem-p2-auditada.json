@@ -1,0 +1,282 @@
+{
+  "status": "confiavel_por_faixas",
+  "alta_confianca": true,
+  "metodo": "amostra estratificada ponderada, segunda leitura cega, adjudicacao e bootstrap",
+  "gates": {
+    "amostra_completa": true,
+    "sem_duplicados": true,
+    "estabilidade_faixas_fixas_0_80": true,
+    "temporal_recencia_ponderado_0_85": true,
+    "pior_periodo_recente_0_70": true,
+    "amostragem_probabilistica_aprovada": true
+  },
+  "valores_gates": {
+    "estabilidade": 0.85,
+    "instaveis": [
+      "P2·TRANSP 4",
+      "P2·DIR 1",
+      "P2·DIR 5"
+    ],
+    "temporal_recente": 0.856,
+    "temporal_todos_periodos": 0.845,
+    "pior_periodo_recente": 0.864,
+    "pior_periodo_historico": 0.632,
+    "folds": 4,
+    "recall_lido_diagnostico": 0.527,
+    "amostra_cauda": 525,
+    "margem_maxima_90": 0.0359
+  },
+  "ordem": [
+    {
+      "posicao_estimada": 1,
+      "codigo": "P2·GOV 2",
+      "participacao": 0.1499,
+      "ic90": [
+        0.1073,
+        0.1972
+      ],
+      "faixa_por_participacao": "A"
+    },
+    {
+      "posicao_estimada": 2,
+      "codigo": "P2·GOV 1",
+      "participacao": 0.1244,
+      "ic90": [
+        0.0845,
+        0.1667
+      ],
+      "faixa_por_participacao": "A"
+    },
+    {
+      "posicao_estimada": 3,
+      "codigo": "P2·EVID 2",
+      "participacao": 0.1183,
+      "ic90": [
+        0.0759,
+        0.1659
+      ],
+      "faixa_por_participacao": "A"
+    },
+    {
+      "posicao_estimada": 4,
+      "codigo": "P2·GOV 5",
+      "participacao": 0.1157,
+      "ic90": [
+        0.0651,
+        0.1663
+      ],
+      "faixa_por_participacao": "A"
+    },
+    {
+      "posicao_estimada": 5,
+      "codigo": "P2·TRANSP 5",
+      "participacao": 0.1087,
+      "ic90": [
+        0.0642,
+        0.1582
+      ],
+      "faixa_por_participacao": "A"
+    },
+    {
+      "posicao_estimada": 6,
+      "codigo": "P2·DIR 1",
+      "participacao": 0.0565,
+      "ic90": [
+        0.0342,
+        0.087
+      ],
+      "faixa_por_participacao": "B"
+    },
+    {
+      "posicao_estimada": 7,
+      "codigo": "P2·TRANSP 4",
+      "participacao": 0.047,
+      "ic90": [
+        0.0313,
+        0.0697
+      ],
+      "faixa_por_participacao": "B"
+    },
+    {
+      "posicao_estimada": 8,
+      "codigo": "P2·DIR 5",
+      "participacao": 0.0324,
+      "ic90": [
+        0.008,
+        0.0614
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 9,
+      "codigo": "P2·DIR 4",
+      "participacao": 0.0289,
+      "ic90": [
+        0.0198,
+        0.041
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 10,
+      "codigo": "P2·TRANSP 1",
+      "participacao": 0.0263,
+      "ic90": [
+        0.0207,
+        0.0327
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 11,
+      "codigo": "P2·DIR 3",
+      "participacao": 0.0247,
+      "ic90": [
+        0.0196,
+        0.0307
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 12,
+      "codigo": "P2·TRANSP 2",
+      "participacao": 0.0214,
+      "ic90": [
+        0.0165,
+        0.0271
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 13,
+      "codigo": "P2·DIR 2",
+      "participacao": 0.0194,
+      "ic90": [
+        0.0144,
+        0.0251
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 14,
+      "codigo": "P2·GOV 3",
+      "participacao": 0.0177,
+      "ic90": [
+        0.0131,
+        0.0233
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 15,
+      "codigo": "P2·EVID 3",
+      "participacao": 0.0176,
+      "ic90": [
+        0.0059,
+        0.0374
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 16,
+      "codigo": "P2·AUD 1",
+      "participacao": 0.0162,
+      "ic90": [
+        0.0114,
+        0.0206
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 17,
+      "codigo": "P2·AUD 2",
+      "participacao": 0.0159,
+      "ic90": [
+        0.0115,
+        0.021
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 18,
+      "codigo": "P2·GOV 4",
+      "participacao": 0.0146,
+      "ic90": [
+        0.0109,
+        0.0192
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 19,
+      "codigo": "P2·EVID 4",
+      "participacao": 0.0136,
+      "ic90": [
+        0.0094,
+        0.0182
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 20,
+      "codigo": "P2·AUD 3",
+      "participacao": 0.0133,
+      "ic90": [
+        0.0096,
+        0.0178
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 21,
+      "codigo": "P2·AUD 4",
+      "participacao": 0.007,
+      "ic90": [
+        0.0043,
+        0.01
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 22,
+      "codigo": "P2·EVID 5",
+      "participacao": 0.007,
+      "ic90": [
+        0.0042,
+        0.0102
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 23,
+      "codigo": "P2·TRANSP 3",
+      "participacao": 0.0023,
+      "ic90": [
+        0.0008,
+        0.0042
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 24,
+      "codigo": "P2·EVID 1",
+      "participacao": 0.0007,
+      "ic90": [
+        0.0002,
+        0.0015
+      ],
+      "faixa_por_participacao": "C"
+    },
+    {
+      "posicao_estimada": 25,
+      "codigo": "P2·AUD 5",
+      "participacao": 0.0005,
+      "ic90": [
+        0.0,
+        0.0014
+      ],
+      "faixa_por_participacao": "C"
+    }
+  ],
+  "aviso": "A ordem por faixas esta certificada; posicoes exatas continuam informativas, nao certificadas."
+}

@@ -11,3 +11,12 @@ progresso/
 *.part
 fila/revisao-p1.jsonl
 _to_delete/
+
+# Artefatos locais e regeneraveis
+tmp/
+tmp/tec200/
+app/_backup*
+docs/_bak_pre_censo/
+docs/.cache-*.json
+*.antes-*
+logs/eventos.jsonl

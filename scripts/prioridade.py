@@ -15,6 +15,7 @@ import suficiencia as SU
 PONTOS={'P1':1.0,'P2':1.0,'P3':2.0}
 MINIMOS={'P1':8.0,'P2':12.0,'P3':54.0}
 MIN_CALIBRACAO=15
+ESTABILIDADE_MINIMA=.80
 
 def _json(path,default):
     try: return json.loads(Path(path).read_text(encoding='utf-8'))
@@ -27,17 +28,34 @@ def parametros():
 
 def calibracoes():
     """Converte a calibracao legada de P1 para um contrato unico."""
-    p=_json(BASE/'docs'/'precisao-triagem-p1.json',{})
+    p=dict(_json(BASE/'docs'/'precisao-triagem-p1.json',{}))
+    p.update(_json(BASE/'docs'/'precisao-triagem-p2.json',{}))
+    p.update(_json(BASE/'docs'/'precisao-triagem-p3.json',{}))
     out={}
     for cod,x in p.items():
         n=int(x.get('n') or 0); ac=int(x.get('no_assunto') or 0)
+        pool=int(x.get('pool') or 0)
+        censo=bool(pool and n>=pool)
+        minimo_amostra=30 if cod.startswith(('P1·','P2·')) else 15
+        cb=cod.split('·',1)[0]
+        audit_bloco=_json(BASE/'docs'/('calibracao-%s.json'%cb.lower()),{})
+        chave_audit=next((k for k in (audit_bloco.get('por_assunto') or {}) if k==cod),None)
+        audit_topico=(audit_bloco.get('por_assunto') or {}).get(chave_audit,{})
+        audit_ok=bool(audit_topico.get('completo') and int(audit_topico.get('rotulados') or 0)>=minimo_amostra)
+        if cb=='P1':
+            audit_ok=bool(_json(BASE/'docs'/'classificador-p1.json',{}).get('rotulos',0)>=500 and n>=minimo_amostra)
+        gates=_json(BASE/'docs'/'confiabilidade-blocos.json',{}).get('blocos',{}).get(cb,{})
+        gates_ok=bool(gates.get('confiavel'))
         out[cod]={'n':n,'acertos':ac,'precisao':ac/max(1,n),'precisao_ic90':x.get('ic90'),
-                  'pool':int(x.get('pool') or 0),'censo_completo':bool(x.get('pool') and n>=int(x.get('pool'))),
+                  'pool':pool,'censo_completo':censo,
+                  'amostra_suficiente':bool(censo or audit_ok),
+                  'calibracao_cego_completa':bool(audit_ok),
+                  'triagem_aprovada':gates_ok,
                   'participacao':x.get('part'),'participacao_ic90':x.get('part_ic'),
                   'ordem_validada':x.get('ordem'),'faixa_validada':x.get('faixa'),
                   'posicao_ic90':x.get('rank'),'posicao_firme':bool(x.get('firme')),
                   'base_provas':244,'recall_medido':False,
-                  'origem':'docs/precisao-triagem-p1.json'}
+                  'origem':'docs/precisao-triagem-%s.json'%cod[:2].lower()}
     return out
 
 def _recomendar(l):
@@ -46,6 +64,8 @@ def _recomendar(l):
         falta=max(0,MIN_CALIBRACAO-int(cal.get('n') or 0))
         motivo=('%d rotulos adicionais necessarios; ordem provisoria'%falta) if cal else 'sem amostra rotulada; ordem provisoria'
         return ('roxo','Calibrar triagem',motivo)
+    if not cal.get('triagem_aprovada') and not cal.get('censo_completo'):
+        return ('roxo','Prioridade provisória','amostra do tópico existe, mas a triagem ainda não passou os gates de precisão e recall')
     if not cal.get('recall_medido'):
         l['limitacao_recall']='recall ainda nao medido em itens descartados'
     if l.get('lacuna'): return ('cinza','Ensinar pela base legal','historico confirmado muito pequeno')
@@ -73,7 +93,7 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
     por_bloco={b:[] for b in SU.ITENS_PROVA}
     for original in r['linhas']:
         l=dict(original); c=cal.get(l['codigo']); l['calibracao']=c
-        l['calibrado']=bool(c and (c['n']>=MIN_CALIBRACAO or c.get('censo_completo')))
+        l['calibrado']=bool(c and c.get('amostra_suficiente') and (c.get('calibracao_cego_completa') or c.get('censo_completo')) and c.get('triagem_aprovada'))
         if c and c.get('participacao') is not None:
             l['share_bruto']=l['share']; l['share']=float(c['participacao'])
             ic=c.get('participacao_ic90') or [l['share'],l['share']]
@@ -87,8 +107,10 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
         piso=max(0.0,l['esp_lo'])*l['pontos_item']*(1-l['dominio'])*l['fator_discursiva']*l['fator_minimo']/l['horas_estimadas']
         l['score_conservador']=piso
         pc=(c or {}).get('posicao_ic90') or [l.get('ordem',0)]*3
-        l['posicao_ic90']=pc; l['ordem_exata_confiavel']=bool((c or {}).get('posicao_firme'))
-        l['posicao_exibida']=str((c or {}).get('ordem_validada')) if l['ordem_exata_confiavel'] else ('%s–%s'%(pc[0],pc[-1]) if c and c.get('posicao_ic90') else 'provisoria')
+        l['posicao_ic90']=pc
+        # P2/P3 posicoes vieram de triagem com baixa precisao; nao as declaramos exatas ate haver auditoria propria.
+        l['ordem_exata_confiavel']=bool((c or {}).get('posicao_firme') and l['prova']=='P1')
+        l['posicao_exibida']=str((c or {}).get('ordem_validada')) if l['ordem_exata_confiavel'] else ('%s–%s'%(pc[0],pc[-1]) if c and c.get('posicao_ic90') and l['prova']=='P1' else 'provisoria')
         por_bloco[l['prova']].append(l)
     linhas=[]
     for bloco,L in por_bloco.items():
@@ -101,6 +123,12 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
             if l['prova']=='P1':
                 med=(l.get('calibracao') or {}).get('ordem_validada') or i
                 l['grupo_prioridade']='A essencial' if l['ordem_exata_confiavel'] and med<=3 else ('B alta' if med<=12 else ('C media' if med<=18 else 'D baixa'))
+            elif l['prova']=='P2' and l.get('calibrado'):
+                med=(l.get('calibracao') or {}).get('ordem_validada') or i
+                l['grupo_prioridade']='A essencial' if med<=2 else ('B alta' if med<=7 else ('C media' if med<=10 else 'D baixa'))
+            elif l['prova']=='P3' and l.get('calibrado'):
+                med=(l.get('calibracao') or {}).get('ordem_validada') or i
+                l['grupo_prioridade']='A essencial' if med<=4 else ('B alta' if med<=10 else ('C media' if med<=15 else 'D baixa'))
             else: l['grupo_prioridade']='provisoria'
             l['faixa']='A' if acum<.5 else ('B' if acum<.8 else 'C'); acum+=l['share']
             if (l.get('calibracao') or {}).get('faixa_validada'):
@@ -108,21 +136,38 @@ def priorizar(nivel=1,cobertura=None,dominio=None,base=None):
             l['cor'],l['acao'],l['motivo']=_recomendar(l); linhas.append(l)
     r=dict(r); r['linhas']=linhas; total=len(linhas); ok=sum(1 for l in linhas if l['calibrado'])
     r['modelo']='prioridade-v2'; r['rotulo_estimativa']='incidencia estimada (nao probabilidade)'
-    rec=_json(BASE/'docs'/'rotulos-p1-descartados.json',{}).get('resumo') or {}
+    audit=_json(BASE/'docs'/'rotulos-p1-descartados.json',{})
+    rec=audit.get('resumo') or {}
+    recall_global=False  # auditoria existente cobre P1 e nao deve ser apresentada como recall dos demais blocos
     p1=[l for l in linhas if l['prova']=='P1']; p1ok=sum(l['calibrado'] for l in p1)
+    evid=_json(BASE/'docs'/'confianca-ordem.json',{})
+    conf_blocos=_json(BASE/'docs'/'confiabilidade-blocos.json',{}).get('blocos',{})
     r['calibracao']={'topicos_calibrados':ok,'topicos_total':total,'cobertura':ok/max(1,total),
-                     'recall_medido':bool(rec),'amostra_descartados':rec,'confiavel_para_ordem_global':False,
-                     'P1':{'calibrados':p1ok,'total':len(p1),'ordem_por_faixas_confiavel':p1ok==len(p1) and bool(rec),
+                     'recall_medido':recall_global,'amostra_descartados':rec,'confiavel_para_ordem_global':False,
+                     'P1':{'calibrados':p1ok,'total':len(p1),'ordem_por_faixas_confiavel':bool(conf_blocos.get('P1',{}).get('confiavel')),
                            'ordem_exata_confiavel':sum(l['ordem_exata_confiavel'] for l in p1)}}
     for bloco, itens in por_bloco.items():
         if bloco == 'P1': continue
+        okb = sum(l['calibrado'] for l in itens)
         r['calibracao'][bloco] = {
-            'calibrados': sum(l['calibrado'] for l in itens), 'total': len(itens),
-            'ordem_por_faixas_confiavel': False,
+            'calibrados': okb, 'total': len(itens),
+            'ordem_por_faixas_confiavel': bool(conf_blocos.get(bloco,{}).get('confiavel')) and _ordem_faixas_confiavel(bloco,evid),
             'ordem_exata_confiavel': sum(l['ordem_exata_confiavel'] for l in itens),
             'motivo': 'Falta validar amostra rotulada, descartados e estabilidade das posicoes.'}
     r['formula_score']='itens_esperados * pontos_item * (1-dominio) * fator_discursiva * fator_minimo / horas'
     return r
+
+def _ordem_faixas_confiavel(bloco,evidencias):
+    """Confiança em faixas só quando estabilidade, teste temporal e auditoria de recall sustentam o bloco."""
+    e=evidencias.get(bloco) or {}
+    faixa=e.get('faixas') or {}
+    temporal=e.get('temporal') or {}
+    amostra=e.get('amostragem_probabilistica') or {}
+    est=float(faixa.get('fracao') or 0)
+    razao=float(temporal.get('razao_recencia_ponderada') or 0)
+    pior=temporal.get('pior_fold_recente')
+    return bool(est>=ESTABILIDADE_MINIMA and razao>=.85 and pior is not None and float(pior)>=.70
+                and amostra.get('aprovada') and amostra.get('sem_imputacao_modelo'))
 
 if __name__=='__main__':
     import argparse

@@ -1,0 +1,16 @@
+{
+  "_nota": "Registro dos cadernos criados na conta do TEC Concursos. Consultar ANTES de criar outro caderno; reutilizar quando o tema for o mesmo.",
+  "cadernos": [
+    {
+      "id": 107753370,
+      "url": "https://www.tecconcursos.com.br/questoes/cadernos/107753370",
+      "nome": "Caderno de Estudo",
+      "criado_em": "2026-11-04",
+      "filtro": "Matéria/assunto: PPA e tópicos mesclados de PPA, LDO e LOA; banca CEBRASPE; sem anuladas",
+      "total": 620,
+      "status": "sem respostas; leitura em lote interrompida no item 525 por bloqueio (429)",
+      "gabaritos_coletados": 0,
+      "obs": "Reutilizar para PPA/LDO/LOA. Não varrer inteiro (ver heurísticas)."
+    }
+  ]
+}

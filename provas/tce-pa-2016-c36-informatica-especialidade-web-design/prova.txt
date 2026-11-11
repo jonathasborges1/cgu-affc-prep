@@ -1,0 +1,469 @@
+||251TCEPA_036_01N221458||
+
+CONHECIMENTO
+No que se refere aos conceitos de usabilidade, comunicabilidade,
+acessibilidade e navegabilidade, bem como à arquitetura da
+informação, julgue os itens a seguir.
+51
+
+A escolha de ícones e nomes de links adequados ao contexto
+simbólico do usuário aumenta a sua capacidade de
+interpretação correta da interface e a sua comunicabilidade.
+
+52
+
+A aplicação do preceito da acessibilidade a websites significa
+a possibilidade de tornar todas as informações e os documentos
+acessíveis por meio dos links de navegação.
+
+53
+
+Um sítio possui boa navegabilidade quando todos os seus links
+de navegação estão operacionais.
+
+54
+
+A usabilidade, cujo foco é o usuário, visa tornar fácil
+e eficiente o uso de sítios de Internet.
+
+55
+
+Cabe à engenharia de usabilidade o desenvolvimento de
+interfaces entre sistemas.
+
+56
+
+Planejamento da navegação e redução da informação são
+princípios pertinentes à arquitetura da informação.
+
+57
+
+A arquitetura da informação compõe-se dos sistemas de
+navegação, de organização, de busca e de rotulação.
+
+58
+
+O termo wireframe designa a estrutura de informações em um
+banco de dados.
+
+Julgue os próximos itens acerca de análise de requisitos de
+usabilidade, teste de usabilidade e de interfaces web.
+59
+
+A concepção de uma interface para sítios web implica conhecer
+as características culturais e cognitivas dos usuários.
+
+60
+
+É desnecessária a elaboração
+desenvolvimento de interface web.
+
+61
+
+Os requisitos de usabilidade devem ser estabelecidos em
+função do conteúdo, dos usuários e do contexto de uso.
+
+62
+
+Os testes de usabilidade objetivam detectar problemas de
+responsividade dos sítios.
+
+63
+
+Os testes de usabilidade auxiliam o desenvolvedor a
+identificar, entre outros aspectos, o grau de entendimento da
+interface pelo usuário e as deficiências de suporte tecnológico.
+
+de
+
+protótipos
+
+para
+
+Julgue os itens seguintes, que versam sobre o modelo de
+acessibilidade proposto pelo Governo Eletrônico Brasileiro
+(e-MAG).
+64
+
+Os elementos gráficos em primeiro plano devem possuir baixo
+contraste com o plano de fundo de tal modo que não dificulte
+a acessibilidade de cromodeficientes.
+
+65
+
+Áreas ou elementos de uma página web, ao receberem foco
+do teclado, devem ser claramente destacadas e clicáveis.
+
+66
+
+As páginas de Internet com acessibilidade devem permitir que
+continuem legíveis as informações ampliadas até 200% do
+tamanho original.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+A respeito das diretrizes técnicas de acessibilidade constantes
+da cartilha técnica proposta pelo e-MAG, julgue os itens que
+se seguem.
+67
+
+Em um leiaute de interface com acessibilidade, os itens de um
+menu são organizados conforme as expectativas e os interesses
+dos usuários.
+
+68
+
+As páginas web de governo devem oferecer a conteúdos
+gráficos e sonoros alternativas equivalentes.
+
+Julgue os itens subsecutivos, relativos a diretrizes e recomendações
+da Cartilha de Usabilidade do Projeto Padrões Brasil e-Gov.
+69
+
+Mesmo que um sítio disponibilize uma grande quantidade de
+informações e serviços, sua página inicial deve ter baixa carga
+de informação.
+
+70
+
+Entre os recursos de leiaute que favorecem a acessibilidade da
+interface de um sítio estão a padronização de ícones e cores
+das páginas, o uso de espaços em branco entre conteúdos
+diferentes e o contraste entre o plano de fundo e os grafismos
+e textos.
+
+71
+
+No design de uma página web de governo, deve-se evitar o uso
+de recursos de interface recorrentes em outros sítios de
+Internet, de modo a consolidar uma experiência única do
+usuário com o sítio.
+
+72
+
+A administração pública, ao disponibilizar informações
+e serviços em um sítio de Internet, deve considerar que
+as pessoas buscam informações de maneira sistemática
+e coerente.
+
+73
+
+As páginas vinculadas a um sítio devem ter estrutura,
+identidade e interface próprias, de modo que fique claro ao
+usuário quando ele muda de ambiente.
+
+Julgue os itens a seguir, relativos à acessibilidade digital.
+74
+
+Os elementos fundamentais que devem constar das páginas de
+um sítio governamental são os seguintes: teclas de atalho, barra
+de acessibilidade, mapa do sítio, conteúdo alternativo para
+imagens e apresentação auditiva de formulários e de
+documentos.
+
+75
+
+Webvox, Dosvox, Jaws e Microsoft Vision são softwares
+leitores de tela.
+
+76
+
+No Brasil, compete ao comitê W3C estabelecer, com
+fundamento na Lei n.º 10.098/2000, as bases legais para
+a acessibilidade na web.
+
+77
+
+De acordo com o modelo de acessibilidade e-MAG, para
+desenvolver sítios web acessíveis, devem-se seguir os padrões
+web, as diretrizes e as recomendações da W3C; além disso,
+deve-se realizar a avaliação de acessibilidade.
+
+Julgue os itens seguintes, referentes ao uso e à implementação de
+softwares livres.
+78
+
+Em softwares livres, o uso de copyleft é obrigatório.
+
+79
+
+O acesso ao código-fonte pelos usuários é uma condição
+dispensável no contexto de software livre.
+
+
+||251TCEPA_036_01N221458||
+
+A respeito da elaboração da programação visual de sítios e sistemas
+web, julgue os próximos itens.
+80
+
+Na web, as cores são transformadas em códigos hexadecimais,
+os quais, por sua vez, se baseiam no processo aditivo CMYK.
+
+81
+
+Os processos básicos para a construção de interfaces web
+incluem entendimento, planejamento, criação, implementação
+e testes.
+
+Acerca dos conceitos e das técnicas necessários à construção de
+sítios web em que se utilizam CSS e HTML, julgue os itens que
+se seguem.
+82
+
+HTML é uma linguagem de programação utilizada na
+construção de páginas na Web.
+
+83
+
+CSS é um mecanismo que permite adicionar a documentos web
+estilos, como fontes, cores e espaçamentos.
+
+84
+
+A regra CSS é composta pela seguinte sintaxe.
+seletor {propriedade: valor
+
+Na gestão de sítios, a adoção dos padrões web em governo
+eletrônico e-PWG garante maior qualidade aos sítios, possibilita
+a mensuração de resultados, acelera o processo de adaptação
+e a migração para tecnologias mais modernas, bem como aumenta
+a qualidade da comunicação com a sociedade. Considerando essas
+informações e a aplicação dos padrões e-PWG, julgue os itens
+subsecutivos.
+85
+
+Na fase de desenho do sítio, para estabelecer equilíbrio entre
+a forma e a função, devem ser desenvolvidos o leiaute das
+telas, o protótipo, o teste com usuários e a codificação.
+
+86
+
+Um sítio web bem estruturado deve apresentar características
+como carregamento rápido, acessibilidade e interação eficiente.
+
+No que concerne a aplicativos CMS, julgue os itens a seguir.
+87
+
+No Joomla, a separação entre design e programação dificulta
+a produção de sítios customizados complexos.
+
+88
+
+Os aplicativos Wordpress, Joomla e Drupal, amplamente
+utilizados no Brasil, são gratuitos.
+
+Julgue os itens seguintes no que se refere à construção de
+formulários eletrônicos.
+89
+
+É possível agrupar inputs de um formulário e, ainda, as opções
+de uma tag <select> usando-se a tag <fieldset>.
+
+90
+
+A tag <label> pode ser aplicada a todos os elementos de
+formulário, até mesmo a elementos button.
+
+91
+
+É vedada a utilização de FIELDSET para agrupar qualquer
+variedade de elementos input de formulários.
+
+92
+
+Os elementos HTML usados para a marcação de formulários
+eletrônicos acessíveis são <form>,
+<imput>,
+<textarea>, <select> e <button>.
+
+93
+
+Para se adequarem às tecnologias assistivas, os formulários
+eletrônicos devem ser projetados de acordo com as normas
+e os padrões W3C.
+
+94
+
+O elemento label funciona como um indicador de caminho
+a seguir. Muitos browsers renderizam o conteúdo daquela tag
+como uma área clicável a fim de levar o foco para o campo
+relacionado.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+A propósito da metodologia tableless, julgue os itens subsequentes.
+95
+
+As principais vantagens do uso da metodologia tableless são
+facilidade de manutenção e diminuição de banda,
+características que tornam o sítio mais ágil.
+
+96
+
+Para criar um sítio utilizando tableless, não é necessário ao
+usuário possuir conhecimento aprofundado em HTML e CSS.
+
+O design gráfico tradicional baseia-se em princípios fundamentais
+que sustentam e articulam a criação e a produção de design. No que
+se refere a esse assunto, julgue os itens a seguir.
+97
+
+As cores básicas do sistema de cores RGB são magenta, verde
+e azul.
+
+98
+
+A interatividade é um princípio diferencial em web design.
+
+99
+
+O formato básico do design das páginas a serem divulgadas
+nas telas dos computadores e em dispositivos móveis é
+horizontal.
+
+100
+
+UI design é o planejamento visual e interativo baseado na
+experiência e nas preferências do usuário.
+
+Julgue os próximos itens, acerca de design gráfico.
+101
+
+A legibilidade é um aspecto importante na criação e na
+construção de uma marca visual.
+
+102
+
+A espessura dos traços que definem uma logomarca deve ser
+compensada de acordo com o tamanho ou o nível de resolução
+de uma reprodução.
+
+103
+
+A criação de uma marca visual exige três versões
+fundamentais: a cores, meio-tom e traço (claro/escuro).
+
+104
+
+As logomarcas animadas e sonorizadas, muito utilizadas na
+Web e nas redes sociais, originaram-se da televisão.
+
+Julgue os itens subsecutivos, a respeito da preparação e do
+acompanhamento na produção de material impresso.
+105
+
+A resolução padrão de imagens digitais reproduzidas no
+sistema offset é 300 ppi.
+
+106
+
+Para evitar problemas de impressão e legibilidade, o texto de
+uma publicação em policromia deve ser impresso com 100%
+preto.
+
+107
+
+Os aplicativos de desenho vetorial, como o Illustrator e o
+Scribus, são os mais indicados para a arte final de publicações
+com muitas páginas.
+
+108
+
+O formato padrão de papéis para impressão no sistema offset
+é o DIN (841 mm × 1.189 mm).
+
+Nos sítios da Internet, os filmes, vídeos e as animações fazem parte
+do cotidiano digital. Considerando esse assunto, julgue os seguintes
+itens.
+109
+
+A compressão de imagens com formato GIF é realizada por
+meio da técnica LZW (Lempel-Ziv-Welch) a fim de se reduzir
+o tamanho dos arquivos sem degradar a qualidade da imagem.
+
+110
+
+Atualmente as telas dos computadores denominadas Wide
+Screen (panorâmicas) têm o formato de tela de 4 × 3.
+
+111
+
+Um áudio comprimido com bitrate de 192 kbps, sample rate
+de 44,1 kHz e 16 bits per sample é considerado de boa
+qualidade.
+
+112
+
+Podcasts são programas de áudio digital de naturezas diversas,
+disponibilizados para download em computadores e
+dispositivos móveis.
+
+
+||251TCEPA_036_01N221458||
+
+O trabalho do designer, que deve se adaptar às condições
+tecnológicas de veiculação, depende da criatividade e da elaboração
+de conceitos pautados pelas características dos produtos e do
+público-alvo. A propósito desse assunto, julgue os itens
+subsequentes.
+
+113
+
+A clareza do leiaute, a facilidade de leitura e a hierarquia
+visual são princípios de um boletim informativo.
+
+114
+
+Uma marca visual deve ser pautada, essencialmente, no
+público-alvo.
+
+A fim de que as ideias e as criações do web designer sejam
+colocadas em prática, é necessário realizar o controle dos
+aplicativos e das ferramentas para o desenvolvimento dos projetos.
+Considerando esse assunto, julgue os itens que se seguem.
+
+115
+
+Os aplicativos de desenvolvimento de páginas web, como
+o Photoshop, Corel Draw e Gimp, são dedicados ao desenho
+vetorial.
+
+116
+
+JPEG é um formato de compactação com perdas, sendo
+recomendado para imagens de tons contínuos.
+
+117
+
+Para preservar todos os recursos de edição do Photoshop,
+como, por exemplo, camadas, efeitos e máscaras, deve-se
+salvar uma cópia da imagem no formato TIFF.
+
+118
+
+Ao se salvar um arquivo no formato JPEG, a qualidade da
+imagem pode ser ajustada com valores que variam de 0 a 12.
+A fim de se manter a qualidade de reprodução em imagens
+a serem impressas, o valor máximo deve ser selecionado.
+
+119
+
+Web Open Font Format (WOFF) é um formato de fontes
+tipográficas recomendado pela W3C para ser usado nas
+páginas web.
+
+120
+
+A resolução padrão de uma imagem otimizada para a Internet
+ou para dispositivos móveis varia de 72 ppi a 96 ppi.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Espaço livre
+
+

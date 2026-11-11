@@ -1,0 +1,50 @@
+{"id":"v1-3-01","codigo":"P2·DIR 3","rel":"baixa","motivo":"recurso no tribunal de contas"}
+{"id":"v1-3-02","codigo":"P2·AUD 2","rel":"alta","motivo":"planejamento da auditoria interna por risco"}
+{"id":"v1-3-03","codigo":"OUTRO","rel":"fora","motivo":"saúde"}
+{"id":"v1-3-04","codigo":"OUTRO","rel":"fora","motivo":"liberdade econômica"}
+{"id":"v1-3-05","codigo":"OUTRO","rel":"fora","motivo":"administração clássica"}
+{"id":"v1-3-06","codigo":"P2·DIR 1","rel":"baixa","motivo":"controle prévio de legalidade"}
+{"id":"v1-3-07","codigo":"OUTRO","rel":"fora","motivo":"saúde"}
+{"id":"v1-3-08","codigo":"OUTRO","rel":"fora","motivo":"orçamento (P1)"}
+{"id":"v1-3-09","codigo":"OUTRO","rel":"fora","motivo":"MVC"}
+{"id":"v1-3-10","codigo":"P2·DIR 3","rel":"media","motivo":"dever de prestar contas e controle externo"}
+{"id":"v1-3-11","codigo":"P2·TRANSP 4","rel":"alta","motivo":"transparência e participação social"}
+{"id":"v1-3-12","codigo":"P2·TRANSP 2","rel":"baixa","motivo":"encarregado LGPD"}
+{"id":"v1-3-13","codigo":"P2·DIR 4","rel":"alta","motivo":"responsabilização de pessoa jurídica"}
+{"id":"v1-3-14","codigo":"OUTRO","rel":"fora","motivo":"redes"}
+{"id":"v1-3-15","codigo":"OUTRO","rel":"fora","motivo":"projetos"}
+{"id":"v1-3-16","codigo":"OUTRO","rel":"fora","motivo":"MER"}
+{"id":"v1-3-17","codigo":"OUTRO","rel":"fora","motivo":"SGSI"}
+{"id":"v1-3-18","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-3-19","codigo":"OUTRO","rel":"fora","motivo":"serviço social"}
+{"id":"v1-3-20","codigo":"OUTRO","rel":"fora","motivo":"busca"}
+{"id":"v1-3-21","codigo":"P2·AUD 3","rel":"alta","motivo":"matriz de achados"}
+{"id":"v1-3-22","codigo":"OUTRO","rel":"fora","motivo":"e-Social"}
+{"id":"v1-3-23","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dados sensíveis"}
+{"id":"v1-3-24","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-3-25","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-3-26","codigo":"OUTRO","rel":"fora","motivo":"SGBD"}
+{"id":"v1-3-27","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-3-28","codigo":"OUTRO","rel":"fora","motivo":"servidores de aplicação"}
+{"id":"v1-3-29","codigo":"OUTRO","rel":"fora","motivo":"racismo institucional (P1)"}
+{"id":"v1-3-30","codigo":"OUTRO","rel":"fora","motivo":"modelagem dimensional"}
+{"id":"v1-3-31","codigo":"P2·GOV 2","rel":"media","motivo":"sensibilidade ao risco"}
+{"id":"v1-3-32","codigo":"P2·EVID 1","rel":"media","motivo":"dado x informação"}
+{"id":"v1-3-33","codigo":"OUTRO","rel":"fora","motivo":"CPC"}
+{"id":"v1-3-34","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-3-35","codigo":"P2·GOV 2","rel":"alta","motivo":"conluio e controle interno"}
+{"id":"v1-3-36","codigo":"OUTRO","rel":"fora","motivo":"orçamento (P1)"}
+{"id":"v1-3-37","codigo":"P2·AUD 4","rel":"alta","motivo":"monitoramento de recomendações"}
+{"id":"v1-3-38","codigo":"P2·TRANSP 1","rel":"alta","motivo":"classificação LAI"}
+{"id":"v1-3-39","codigo":"OUTRO","rel":"fora","motivo":"grupos"}
+{"id":"v1-3-40","codigo":"P2·AUD 1","rel":"alta","motivo":"auditoria interna e governança"}
+{"id":"v1-3-41","codigo":"P2·DIR 3","rel":"baixa","motivo":"controle interno estadual"}
+{"id":"v1-3-42","codigo":"OUTRO","rel":"fora","motivo":"modelagem dimensional"}
+{"id":"v1-3-43","codigo":"P2·EVID 3","rel":"media","motivo":"falsos positivos e negativos"}
+{"id":"v1-3-44","codigo":"OUTRO","rel":"fora","motivo":"agronomia"}
+{"id":"v1-3-45","codigo":"P2·GOV 2","rel":"alta","motivo":"riscos e controles internos"}
+{"id":"v1-3-46","codigo":"OUTRO","rel":"fora","motivo":"telecom"}
+{"id":"v1-3-47","codigo":"P2·EVID 5","rel":"media","motivo":"IA no Judiciário e transparência"}
+{"id":"v1-3-48","codigo":"P2·TRANSP 4","rel":"alta","motivo":"dados abertos"}
+{"id":"v1-3-49","codigo":"OUTRO","rel":"fora","motivo":"BPM"}
+{"id":"v1-3-50","codigo":"OUTRO","rel":"fora","motivo":"redes"}

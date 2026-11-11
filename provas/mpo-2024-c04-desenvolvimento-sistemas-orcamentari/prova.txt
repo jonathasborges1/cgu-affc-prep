@@ -1,0 +1,656 @@
+•
+
+•
+
+•
+
+Cada um dos itens da Prova Objetiva P2 está vinculado ao com
+que cada um deles esteja vinculado, marque, na Folha de Res
+julgue o item CERTO; ou o campo designado com o código
+marcação de ambos os campos não serão apenadas, ou seja, nã
+Folha de Respostas, único documento válido para a correção da
+Em seu caderno de prova, caso haja item(ns) que avalie(m) c
+a menos que seja explicitamente informado o contrário,
+configuração-padrão e que não há restrições de proteção, de
+diretórios, recursos e equipamentos mencionados.
+Eventuais espaços livres — identificados ou não pela expressão
+ser utilizados para rascunho.
+
+-- PROVA OB
+
+-- CONHECIMENTO
+PLANEJAMENTO E ORÇAMENTO PÚBLICO
+A respeito de políticas, diretrizes e ações implementadas na área
+das políticas sociais no Brasil, julgue os itens a seguir.
+1
+
+As políticas de educação inclusiva são iniciativas para
+garantir acesso igualitário à educação para pessoas com
+deficiência.
+
+2
+
+As políticas públicas de proteção à infância e à juventude são
+iniciativas para garantir cuidados de saúde adequados para
+mães, bebês e crianças, incluindo acesso a serviços de
+pré-natal, imunizações e cuidados pediátricos.
+
+Em relação às reformas previdenciária, tributária e fiscal
+atualmente em pauta na agenda nacional, julgue os itens
+subsecutivos.
+3
+
+A Reforma Tributária aprovada em 2023 simplifica a
+cobrança dos tributos federais, estaduais e municipais; com
+isso, espera-se que haja aumento de produtividade e,
+consequentemente, redução de custos para consumidores e
+produtores.
+
+4
+
+A principal motivação para a aprovação da Reforma da
+Previdência em 2019 foi a necessidade de correção de
+distorções do antigo regime previdenciário, como a
+disparidade do tempo de contribuição entre homens e
+mulheres.
+
+5
+
+Com o propósito de viabilizar o controle dos gastos públicos,
+principalmente os relacionados a gastos com pessoal e
+despesas correntes, o chamado Novo Regime Fiscal
+Sustentável (NAF), aprovado em dezembro de 2023,
+vigorará por quarenta exercícios financeiros, estabelecendo,
+para cada exercício, limites globais para as despesas
+primárias do orçamento federal.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+mando que imediatamente o antecede. De acordo com o comando a
+spostas, para cada item: o campo designado com o código C, caso
+o E, caso julgue o item ERRADO. A ausência de marcação ou a
+ão receberão pontuação negativa. Para as devidas marcações, use a
+a sua prova objetiva.
+conhecimentos de informática e(ou) tecnologia da informação,
+considere que todos os programas mencionados estão em
+e funcionamento e de uso em relação aos programas, arquivos,
+
+o “Espaço livre” — que constarem deste caderno de prova poderão
+
+BJETIVA P2 --
+
+OS ESPECÍFICOS -A respeito do planejamento governamental no Brasil, incluído o
+planejamento orçamentário, julgue os itens a seguir.
+6
+
+O planejamento plurianual vem sofrendo progressivamente
+modificações desde a promulgação da Constituição Federal
+de 1988, entretanto, em sua trajetória histórica, ainda não
+logrou um novo patamar de qualidade no processo decisório
+ou de governança no setor público.
+
+7
+
+Considerada uma perspectiva histórica e convencional, o
+esforço brasileiro em direção ao planejamento para o
+desenvolvimento começou na década de 20 do século
+passado, com o planejamento para a indústria.
+
+8
+
+A integração da lei orçamentária anual (LOA) ao plano
+plurianual (PPA) é expressa por meio dos projetos.
+
+9
+
+Segundo
+a
+Mensagem
+Presidencial
+do
+Plano
+Plurianual (PPA) 2024-2027, esse PPA foi elaborado de
+forma inovadora, integrada com todos os Ministérios e com
+intensa participação social.
+
+10
+
+Entre as prioridades estabelecidas na Mensagem Presidencial
+do Plano Plurianual 2024-2027, consta expressamente o
+ensino médio.
+
+11
+
+O Plano Plurianual (PPA) 2024-2027 incorpora ao modelo
+brasileiro três princípios de boa governança de planejamento
+internacionalmente recomendados, representados nesse PPA
+pela inclusão de indicadores-chave e metas, seis temas
+prioritários e cinco temas transversais.
+
+12
+
+Uma das principais críticas ao orçamento-programa diz
+respeito às inúmeras dificuldades na adoção de padrões de
+medição do trabalho, especificamente na definição dos
+produtos finais.
+
+Em relação à política de desenvolvimento da mineração e às
+políticas de infraestrutura no Brasil, julgue os itens subsequentes.
+13
+
+Um dos objetivos específicos das políticas públicas de
+infraestrutura ferroviária é ampliar, com recursos privados, a
+capacidade da malha ferroviária federal.
+
+14
+
+É objetivo geral da política pública de desenvolvimento da
+mineração no Brasil criar, nesse setor, um ambiente
+orientado para a sustentabilidade, a transição energética, a
+segurança do público e a atratividade para os investimentos.
+
+
+Com relação ao orçamento na Constituição Federal de 1988, à lei
+de diretrizes orçamentárias (LDO), à lei orçamentária
+anual (LOA), aos conceitos e às classificações orçamentárias,
+julgue os itens a seguir.
+15
+
+Algumas despesas correntes contribuem diretamente para a
+formação ou aquisição de um bem de capital, tais como os
+auxílios a outros entes da Federação e a entidades privadas
+sem fins lucrativos.
+
+16
+
+A abertura de crédito extraordinário, que se dá por meio de
+medida provisória, somente será admitida para atender a
+despesas decorrentes de guerra, de comoção interna ou de
+calamidade pública.
+
+17
+
+De acordo com o modelo de orçamento base-zero, as
+necessidades de financiamento de programas governamentais
+são rigorosamente reavaliadas a cada novo ciclo orçamental,
+exigindo-se que cada item de despesa seja justificado desde a
+base (a partir do zero).
+
+18
+
+A LDO, em consonância com a Lei de Responsabilidade
+Fiscal (LRF), estabelece, anualmente, as diretrizes da
+política fiscal e as respectivas metas para a garantia
+sustentável da dívida pública.
+
+19
+
+Uma orçamentação de médio prazo (medium-term
+expenditure framework — MTEF), que serve de base para a
+prestação de contas, consiste em três elementos principais:
+previsões das disponibilidades de médio prazo, previsão das
+despesas de médio prazo e previsão dos limites máximos de
+endividamento de médio prazo.
+
+Acerca das abordagens orçamentárias contemporâneas, da
+história do orçamento e de suas diretrizes, julgue os itens
+a seguir.
+20
+
+As emendas ao projeto de lei do orçamento propostas por
+parlamentares devem conter indicações dos recursos, que
+podem ser originados de anulações de despesas ou do
+superávit financeiro do exercício anterior.
+
+21
+
+As diretrizes de política fiscal e as metas fiscais para o
+exercício em vigor, em consonância com trajetória
+sustentável da dívida pública, devem orientar a elaboração da
+lei orçamentária anual.
+
+22
+
+O orçamento sensível ao gênero visa analisar qualquer forma
+de receita e de despesa pública, e identificar as diferentes
+implicações que elas têm nos grupos de mulheres, em
+comparação com os homens, a exemplo do gasto público
+com defesa.
+
+23
+
+O sistema orçamentário francês, em sua fase inicial,
+contribuiu com a teoria orçamentária ao consolidar regras
+aceitas até hoje, como a anualidade orçamentária, a votação
+do orçamento anteriormente ao exercício financeiro e a
+universalidade para as previsões financeiras para o exercício
+a que se refere.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+No que diz respeito às classificações e técnicas orçamentárias, à
+responsabilidade fiscal e às normas constitucionais relativas ao
+orçamento público, julgue os seguintes itens.
+Ato do chefe do Poder Executivo pode permitir a
+transposição de recursos de uma categoria de programação
+orçamentária de atividade de ciência e tecnologia, para
+viabilizar os resultados de projetos restritos a essas funções,
+sem necessidade da prévia autorização legislativa.
+25 A classificação programática indica os recursos que são
+aplicados e sua proporção conforme as áreas de atuação das
+organizações estatais, sendo também considerada a
+classificação que proporciona informações gerais aos
+cidadãos a respeito das operações do governo.
+26 As metas fiscais definidas pela LRF constituem limites
+estabelecidos para as receitas, as despesas, a diferença entre
+receitas e despesas, para o endividamento, os gastos com
+pessoal, a limitação de contratação às vésperas das eleições e
+para os gastos com suprimento de fundos.
+27 A implementação da classificação programática por diversos
+países no século XX foi facilitada devido à adoção de
+padrões de medição do trabalho, especialmente na definição
+dos produtos finais, a partir do desenvolvimento dos
+sistemas de informações desenvolvidos por entidades e
+governos.
+24
+
+Em relação ao conceito de receita pública, às suas classificações
+e aos seus estágios, bem como aos tributos e às contribuições
+sociais, julgue os itens a seguir.
+São consideradas derivadas as receitas públicas obtidas pelo
+poder público por intermédio da sua soberania estatal, tais
+como as receitas decorrentes de impostos, tarifas,
+contribuições e empréstimos compulsórios.
+29 Em sentido amplo, consideram-se receitas públicas os
+ingressos de recursos financeiros nos cofres do Estado, o que
+abrange as entradas relativas a tributos, serviços prestados
+pelo poder público e depósitos em caução.
+28
+
+No que diz respeito à receita orçamentária e à despesa
+orçamentária da União, especificamente a seus critérios de
+reconhecimento, à utilização do crédito disponível e à abertura e
+reabertura de créditos adicionais, julgue os itens a seguir.
+Se a lei que abrir um crédito especial for promulgada nos
+últimos quatro meses do exercício financeiro, ele será
+incorporado ao orçamento do exercício financeiro
+subsequente pela sua reabertura nos limites de seus saldos.
+31 Pelo regime orçamentário, a receita é reconhecida a partir do
+momento de sua arrecadação, que necessariamente coincide
+com o momento da ocorrência do seu fato gerador.
+32 Suponha que um Ministério do Poder Executivo federal
+tenha transferido créditos orçamentários para uma unidade
+administrativa pertencente à estrutura de outro Ministério,
+para execução de ações de interesse recíproco. Nesse caso,
+houve provisão de créditos orçamentários.
+33 O pré-empenho é um procedimento facultativo que permite
+reservar o crédito orçamentário a ser utilizado futuramente,
+quando, por motivos administrativos, ainda não se possuem
+todos os elementos necessários à emissão da nota de
+empenho.
+30
+
+
+Quanto ao conceito de despesa pública, às suas classificações e
+aos seus estágios, julgue os itens que se seguem.
+A liquidação, que consiste na verificação do direito
+adquirido pelo credor com base nos títulos e documentos
+comprobatórios do respectivo crédito, é condição necessária
+para a realização do pagamento da despesa.
+35 A despesa pública não efetiva é aquela que, no momento da
+sua realização, não reduz a situação patrimonial líquida da
+entidade, como é o caso das despesas com investimentos e
+com o serviço da dívida (amortização e encargos).
+34
+
+No que tange ao caráter autorizativo ou impositivo do orçamento
+e ao regime de execução das programações incluídas ou
+acrescidas por emendas ao orçamento, julgue os itens a seguir.
+No âmbito da União, as emendas individuais ou de bancada
+de Estado ou do Distrito Federal ao projeto de lei
+orçamentária serão de execução obrigatória, salvo nos casos
+de impedimentos de ordem técnica.
+37 Doutrinariamente, a lei orçamentária anual pode ser
+considerada uma lei formal, que não cria direitos subjetivos e
+que possui efeitos meramente concretos, apenas prevendo as
+receitas e autorizando os gastos, mas a Constituição Federal
+de 1988 estabelece que a administração pública tem o dever
+de executar as programações orçamentárias, adotando os
+meios e as medidas necessários.
+36
+
+Acerca da geração de despesa obrigatória, julgue o item a seguir.
+38
+
+A ampliação de despesa obrigatória por prazo superior a dois
+exercícios financeiros deverá ser precedida da estimativa do
+seu impacto orçamentário-financeiro no exercício em que
+deva entrar em vigor e nos dois subsequentes e da
+comprovação de que a despesa criada ou aumentada não
+afetará as metas de resultados fiscais, devendo, de forma
+exclusiva, seus efeitos ser compensados pelo aumento
+permanente de receita.
+
+Em relação ao Sistema de Planejamento e Orçamento Federal,
+estabelecido pela Lei n.º 10.180/2001, julgue o item subsecutivo.
+39
+
+São considerados órgãos específicos do referido sistema as
+unidades de planejamento e orçamento dos Ministérios, da
+Advocacia-Geral da União, da Vice-Presidência e da
+Casa Civil da Presidência da República.
+
+No que diz respeito às regras gerais de funcionamento da
+Comissão Mista de Orçamento (CMO) do Congresso Nacional,
+julgue o próximo item.
+40
+
+A CMO, diante de indícios de despesas não autorizadas,
+ainda que sob a forma de investimentos não programados ou
+de subsídios não aprovados, poderá solicitar à autoridade
+governamental responsável que, no prazo de cinco dias,
+preste os esclarecimentos necessários.
+FUNDAMENTOS DE GESTÃO DE TECNOLOGIA
+DA INFORMAÇÃO
+
+Acerca do DevOps, julgue os itens seguintes.
+Os recursos de monitoramento são de responsabilidade
+privativa, nessa abordagem, da equipe de operações no processo
+de CI/CD (continuous integration / continuous delivery).
+42 O processo de desenvolvimento e entrega de software
+integrado a um time de operações requer necessariamente a
+utilização da prática de conteinerização.
+41
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+A respeito da segurança da informação, julgue os itens a seguir.
+Um ataque de negação de serviço capaz de parar um serviço
+de tecnologia da informação impacta na autenticidade dos
+dados.
+44 Considere que o sistema de backup utilizado por determinada
+empresa que armazene dados críticos em seus computadores
+receba um mecanismo de segurança adicional, no qual sejam
+replicados os backups entre diferentes localidades físicas.
+Considerando-se essas informações, é correto afirmar que esse
+controle visa garantir a disponibilidade.
+45 É correto afirmar que há violação de autenticidade no caso
+de o conteúdo de um arquivo considerado de conteúdo
+crítico, com requisito de negócio para que seja mantido
+imutável, ser alterado de forma indevida.
+43
+
+Acerca de inteligência artificial, julgue os próximos itens.
+46 A geração de imagens por meio de descrição de textos, sem a
+necessidade de inserir outras figuras ou ilustrações, é um dos
+recursos da inteligência artificial generativa.
+47 A inteligência artificial generativa é capaz de criar novos
+conteúdos e áudios.
+48 Pode-se utilizar machine learning, capaz de reconhecer e
+reproduzir padrões de inteligência artificial com base em
+experiência prévia, para um mecanismo de busca na Internet
+que funcione de forma automatizada.
+A respeito do sistema de administração dos recursos de
+tecnologia da informação (SISP), julgue os itens a seguir.
+49 Compete ao SISP administrar processos de planejamento
+tático e operacional referentes aos recursos de tecnologia da
+informação.
+50 A finalidade do SISP é assegurar suporte dinâmico e
+confiável de informação ao governo federal.
+DESENVOLVIMENTO DE SOFTWARE
+A respeito da gestão de projetos e produtos de software, julgue os
+itens a seguir.
+51 A fase do gerenciamento de projetos constitui-se de
+um conjunto de processos que não gera produtos.
+52 Questões técnicas e não técnicas são envolvidas na
+engenharia de software, como a especificação do
+conhecimento, o conhecimento dos fatores humanos pelo
+engenheiro de software e a gestão de projetos.
+53 A gestão do plano de projeto de software funciona em
+conjunto com a metodologia de desenvolvimento de
+sistemas, principalmente nas fases finais.
+54 O projeto de software pode ser gerido pela gestão com
+reengenharia de software.
+Acerca do ciclo de vida de software e do desenvolvimento de
+software, julgue os itens que se seguem.
+55 Atualmente, a garantia da qualidade não é feita em todas as
+fases do projeto.
+56 Concepção, construção, implementações, maturidade e
+utilização plena, declínio, manutenção e morte podem ser
+consideradas fases do ciclo de vida de um software.
+57 Na etapa de projeto do ciclo de desenvolvimento de
+um software, realiza-se o teste final, ou teste de aceite.
+58 Na etapa de estudo de viabilidade do ciclo de
+desenvolvimento de um software, são estabelecidos os
+objetivos do novo sistema.
+59 Uma das etapas do ciclo de vida e desenvolvimento de
+software é a manutenção.
+60 O principal propósito da atividade de análise é transformar a
+política do cliente e os encargos do projeto em
+uma especificação estruturada do projeto.
+
+
+Julgue os itens a seguir, relativos ao teste de estresse, a testes
+automatizados e à resiliência de aplicações.
+61 O uso de cache e a implementação de mecanismos de
+fallback são estratégias importantes para aumentar
+a resiliência de uma aplicação.
+62 O teste automatizado pode conter recursos de auditoria
+eletrônica com avaliadores e geradores automáticos de testes.
+63 Realiza-se o teste de estresse para confrontar os programas
+com situações anormais, de forma a exigir recursos em maior
+quantidade, frequência ou volume.
+A respeito de arquitetura de aplicações, julgue os próximos itens.
+64 Um gateway de API funciona como um portfólio de
+serviços, em que o usuário escolhe e implementa a chamada
+do serviço necessário.
+65 Em processamentos distribuídos do tipo peer-to-peer, cada
+processo pode ser cliente e servidor para outros processos.
+66 Em DDD (domain-driven design), a linguagem Ubiquitous é
+utilizada para a codificação dos módulos da aplicação.
+67 No
+modelo
+de
+arquitetura
+em
+camadas
+modelo-visão-controlador (MVC), o encapsulamento das
+funcionalidades da aplicação é feito no controlador.
+68 Em um serviço web RESTful, cada um dos métodos possui
+uma URL única como identificador.
+69 No padrão GRASP (general responsibility assignment
+software patterns), a aplicação do controller tem como
+objetivo a separação do controle da interface das demais
+partes do sistema.
+70 Nos webservices que utilizam o SOAP, as solicitações e
+respostas são escritas em HTML para que sejam
+independentes de plataforma.
+A respeito de linguagens de programação, julgue os itens
+seguintes.
+71 As instruções do HTML são escritas em texto comum
+(ASCII) e interpretadas pelo browser, pois o HTML é uma
+linguagem de marcação.
+72 JavaScript, linguagem utilizada para fazer páginas interativas
+da Internet, atua no navegador para tornar as aplicações web
+mais dinâmicas.
+73 A execução da instrução abaixo, escrita em Java, gerará um
+erro, pois a inicialização de um array bidimensional deve ter
+todos os elementos com as mesmas quantidades.
+int[][] matriz = {{1, 2}, {3, 4, 5}}
+
+Na GoLang, que é uma linguagem de programação
+fortemente tipada, os tipos das varáveis devem ser
+declarados antes de elas serem utilizadas.
+75 Em UX, os protótipos são uma evolução dos wireframes,
+com acréscimo de navegabilidade de acordo com as escolhas
+do usuário, para simular o funcionamento da aplicação.
+76 No Go kit, as regras de negócio são implementadas nas
+camadas de serviço e de endpoint.
+77 A execução do Node.js é single-thread, pois as requisições
+no ambiente são tratadas como eventos assíncronos e não
+bloqueáveis.
+74
+
+A respeito de desenvolvimento com containers, julgue o item
+seguinte.
+78 Processos executados em containers nos mesmos
+namespaces são invisíveis entre si — um não tem
+conhecimento dos demais — e executados de forma isolada.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+Julgue os itens a seguir a respeito dos conceitos de DevOps e
+DevSecOps.
+79
+
+Um kubelet funciona como um agente em nível de nó para
+ajudar no gerenciamento e orquestração de contêineres em
+um cluster kubernetes.
+
+80
+
+Docker compose é uma ferramenta para definir e executar
+aplicativos com vários contêineres. É a chave para
+desbloquear uma experiência de desenvolvimento e
+implantação simplificada e eficiente.
+
+81
+
+Um contêiner é uma solução que opera com um sistema
+operacional completo e independente, proporcionando um
+isolamento robusto.
+
+Julgue os itens que se seguem acerca de observabilidade.
+82
+
+Logs são registros do que ocorreu em um sistema específico
+que contém informações importantes que dão à equipe de
+DevOps uma visão holística sobre como o software está
+funcionando, fornecendo-lhes os materiais necessários para
+tomar decisões.
+
+83
+
+A observabilidade é o processo usado para identificar a rota
+percorrida por um conjunto de dados pela rede até a chegada
+em seu banco de dados destino.
+
+Julgue o item seguinte com relação ao conceito de integração
+contínua (CI).
+84
+
+A integração contínua é um compilado organizado de vários
+componentes de serviço que reúne itens, como conectores de
+banco de dados, interface de usuário e regras de negócio, de
+forma que essas partes todas juntas possam realizar ações e
+comandos diversos.
+
+Julgue o próximo item quanto ao conceito de infraestrutura como
+código (IaC).
+85
+
+A IaC é uma forma de disponibilizar códigos-fontes de
+atualização em código aberto para o usuário final.
+
+Julgue o item a seguir a respeito do conceito de entrega
+contínua (CD).
+86
+
+O processo de CD apresenta como uma de suas vantagens à
+possibilidade de atualização anual concomitantemente à
+atualização do sistema operacional.
+
+No que se refere aos conceitos de gestão de configuração, julgue
+os itens subsequentes.
+87
+
+Na prática, o git flow pode ser usado para projetos que têm
+um ciclo de lançamento agendado, que consiste no uso de
+ramificações de recursos e várias ramificações primárias.
+Esse fluxo de trabalho não adiciona novos conceitos ou
+comandos além do necessário para o fluxo de trabalho de
+ramificação de recurso.
+
+88
+
+O comando get clone incorpora as alterações de um
+repositório remoto no ramo atual.
+
+
+Acerca de fundamentos dos bancos de dados relacionais,
+normalização,
+diagrama
+entidade-relacionamento
+e
+linguagem SQL, julgue os itens a seguir.
+89 Nos diagramas de entidades e relacionamentos, o
+particionamento de entidades se dá por especialização
+quando uma entidade de nível mais alto de abstração é
+desmembrada em duas ou mais entidades de nível mais
+baixo.
+90 Em uma consulta SQL, a cláusula FROM corresponde à
+seleção do predicado que envolve atributos da relação
+determinada pela cláusula SELECT.
+91 Por serem uma evolução dos modelos de bancos de dados
+hierárquicos e em redes, os bancos de dados relacionais
+dispõem de caminhos predefinidos por ligações e nós para
+viabilizar o acesso aos dados de forma sistemática e
+ordenada.
+92 Integridade referencial, chaves e integridade de junções de
+relações são restrições características dos bancos de dados
+relacionais estabelecidas para evitar aspectos indesejáveis no
+manuseio de tabelas, como repetição e perda de informação.
+93 Nos bancos de dados relacionais, enquanto a segunda forma
+normal é baseada no conceito de dependência transitiva, a
+terceira forma normal baseia-se no conceito de dependência
+funcional total.
+Acerca das linguagens procedurais para programação de
+stored procedures, bem como de técnicas de otimização de
+consultas SQL e NoSQL, julgue os itens subsecutivos.
+94 Embora, em geral, o armazenamento de dados em bancos
+NoSQL seja mais otimizado do que em bancos de dados
+relacionais, o impacto dessa perceptível escalabilidade
+diminui à medida que aumenta a complexidade do modelo
+de dados usado no armazenamento.
+95 A divisão de tabelas maiores em partições menores é
+geralmente indicada no contexto do gerenciamento de espaço
+de armazenamento dos bancos de dados, porém evitá-la
+constitui medida técnica significativa para aprimorar a
+otimização de consultas SQL em dados localizados de
+grandes tabelas.
+96 A linguagem procedural do padrão SQL/PSM inclui a
+declaração de variáveis locais, o retorno de valores de
+funções, a construção de loops e o controle de fluxo para a
+programação de stored procedures.
+A respeito do desenvolvimento seguro de aplicações,
+frameworks OWASP e testes dinâmicos de aplicações, julgue os
+itens a seguir.
+97 Aplicar sequências de entradas longas para explorar
+vulnerabilidades de buffer overflow é um exemplo de teste
+dinâmico voltado a verificar vulnerabilidades potencialmente
+exploráveis em um aplicativo em execução.
+98 Identificação de dados sensíveis, restrições de acesso,
+autenticação e autorização são exemplos de requisitos de
+segurança relacionados ao desenvolvimento seguro de
+aplicações.
+99 O OWASP SAMM, documento de conscientização padrão
+para desenvolvedores voltado à segurança de aplicações web,
+descreve os riscos de segurança mais críticos e aponta as
+principais medidas a serem adotadas pelos desenvolvedores
+para mitigar esses riscos.
+100 No desenvolvimento seguro de aplicações, o emprego de
+frameworks e bibliotecas que realizem validações contra a
+injeção de código malicioso nas aplicações dispensa a
+adoção de simuladores e de testes automatizados e manuais,
+conferindo ao processo maior produtividade.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+Espaço livre
+
+

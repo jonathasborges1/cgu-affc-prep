@@ -1,0 +1,50 @@
+{"id": "v1-5-01", "codigo": "P1·ESTADO 1", "rel": "alta", "motivo": "política de estado versus política de governo"}
+{"id": "v1-5-02", "codigo": "OUTRO", "rel": "fora", "motivo": "normalização de banco de dados, TI"}
+{"id": "v1-5-03", "codigo": "P1·ADM 1", "rel": "alta", "motivo": "administração indireta, natureza jurídica de autarquia"}
+{"id": "v1-5-04", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "modelo gerencial versus burocrático"}
+{"id": "v1-5-05", "codigo": "OUTRO", "rel": "fora", "motivo": "fiscalização e sanções em contratos administrativos"}
+{"id": "v1-5-06", "codigo": "P1·ADM 2", "rel": "media", "motivo": "gestão baseada em evidências, gestão por resultados"}
+{"id": "v1-5-07", "codigo": "OUTRO", "rel": "fora", "motivo": "ética odontológica"}
+{"id": "v1-5-08", "codigo": "P1·ESTADO 2", "rel": "baixa", "motivo": "controle de constitucionalidade por tribunal de contas, separação de poderes"}
+{"id": "v1-5-09", "codigo": "OUTRO", "rel": "fora", "motivo": "risco legal em fundo de pensão"}
+{"id": "v1-5-10", "codigo": "OUTRO", "rel": "fora", "motivo": "economia, SELIC e câmbio"}
+{"id": "v1-5-11", "codigo": "OUTRO", "rel": "fora", "motivo": "investimentos de plano de benefícios, FIDC"}
+{"id": "v1-5-12", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "lei orçamentária anual e alocação de recursos"}
+{"id": "v1-5-13", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão de identidade, segurança da informação"}
+{"id": "v1-5-14", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, parasitose"}
+{"id": "v1-5-15", "codigo": "P1·SOC 4", "rel": "media", "motivo": "Lei Brasileira de Inclusão, pessoas com deficiência"}
+{"id": "v1-5-16", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "planejamento estratégico organizacional genérico"}
+{"id": "v1-5-17", "codigo": "OUTRO", "rel": "fora", "motivo": "COBIT, governança de TI"}
+{"id": "v1-5-18", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "avaliação de políticas, custo-benefício e custo-efetividade"}
+{"id": "v1-5-19", "codigo": "OUTRO", "rel": "fora", "motivo": "plataforma digital do Poder Judiciário"}
+{"id": "v1-5-20", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, H. pylori"}
+{"id": "v1-5-21", "codigo": "P1·ADM 2", "rel": "media", "motivo": "governança corporativa e interesses dos atores"}
+{"id": "v1-5-22", "codigo": "OUTRO", "rel": "fora", "motivo": "estratégia nacional de segurança cibernética"}
+{"id": "v1-5-23", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "classificação programática da despesa"}
+{"id": "v1-5-24", "codigo": "OUTRO", "rel": "fora", "motivo": "engenharia hidráulica"}
+{"id": "v1-5-25", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão de pessoas e qualidade"}
+{"id": "v1-5-26", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "formulação versus implementação de políticas públicas"}
+{"id": "v1-5-27", "codigo": "OUTRO", "rel": "fora", "motivo": "etnobotânica, semiárido"}
+{"id": "v1-5-28", "codigo": "OUTRO", "rel": "fora", "motivo": "direito do consumidor"}
+{"id": "v1-5-29", "codigo": "OUTRO", "rel": "fora", "motivo": "teoria organizacional, sistemas de influência"}
+{"id": "v1-5-30", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "bioeconomia e biodiversidade, sustentabilidade tangencial"}
+{"id": "v1-5-31", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "teoria dos stakeholders e governança"}
+{"id": "v1-5-32", "codigo": "OUTRO", "rel": "fora", "motivo": "educação, redes de aprendizagem"}
+{"id": "v1-5-33", "codigo": "OUTRO", "rel": "fora", "motivo": "limnologia, meio ambiente"}
+{"id": "v1-5-34", "codigo": "OUTRO", "rel": "fora", "motivo": "português, crase"}
+{"id": "v1-5-35", "codigo": "OUTRO", "rel": "fora", "motivo": "logística integrada"}
+{"id": "v1-5-36", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "prerrogativa de tribunais de contas, controle externo"}
+{"id": "v1-5-37", "codigo": "P1·ADM 5", "rel": "baixa", "motivo": "autenticidade de documentos em serviços digitais"}
+{"id": "v1-5-38", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "cultura organizacional no setor público"}
+{"id": "v1-5-39", "codigo": "OUTRO", "rel": "fora", "motivo": "composição da CONITEC, saúde"}
+{"id": "v1-5-40", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "natureza das decisões de tribunal de contas"}
+{"id": "v1-5-41", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "controle interno, eficiência e eficácia"}
+{"id": "v1-5-42", "codigo": "OUTRO", "rel": "fora", "motivo": "redes sociais, interpretação textual"}
+{"id": "v1-5-43", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "economia circular e políticas de incentivo"}
+{"id": "v1-5-44", "codigo": "P1·ADM 4", "rel": "media", "motivo": "superávit financeiro e créditos adicionais"}
+{"id": "v1-5-45", "codigo": "OUTRO", "rel": "fora", "motivo": "ERP e logística"}
+{"id": "v1-5-46", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "cadeias produtivas sustentáveis da biodiversidade"}
+{"id": "v1-5-47", "codigo": "OUTRO", "rel": "fora", "motivo": "português, reescrita de trecho"}
+{"id": "v1-5-48", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "competência legislativa concorrente, federalismo"}
+{"id": "v1-5-49", "codigo": "P1·ADM 1", "rel": "media", "motivo": "papel da administração pública e funções"}
+{"id": "v1-5-50", "codigo": "OUTRO", "rel": "fora", "motivo": "Windows Active Directory"}

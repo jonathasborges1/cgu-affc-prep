@@ -1,0 +1,377 @@
+[
+ {
+  "ordem": 1,
+  "codigo": "P2·DIR 3",
+  "share": 0.189,
+  "ic90": [
+   0.1496,
+   0.235
+  ],
+  "rank_p5_mediana_p95": [
+   1,
+   1,
+   2
+  ],
+  "faixa": "A"
+ },
+ {
+  "ordem": 2,
+  "codigo": "P2·GOV 2",
+  "share": 0.1834,
+  "ic90": [
+   0.1048,
+   0.2752
+  ],
+  "rank_p5_mediana_p95": [
+   1,
+   2,
+   4
+  ],
+  "faixa": "A"
+ },
+ {
+  "ordem": 3,
+  "codigo": "P2·GOV 1",
+  "share": 0.1164,
+  "ic90": [
+   0.0787,
+   0.1673
+  ],
+  "rank_p5_mediana_p95": [
+   2,
+   3,
+   5
+  ],
+  "faixa": "A"
+ },
+ {
+  "ordem": 4,
+  "codigo": "P2·TRANSP 4",
+  "share": 0.0919,
+  "ic90": [
+   0.0568,
+   0.14
+  ],
+  "rank_p5_mediana_p95": [
+   3,
+   4,
+   7
+  ],
+  "faixa": "A"
+ },
+ {
+  "ordem": 5,
+  "codigo": "P2·DIR 1",
+  "share": 0.0694,
+  "ic90": [
+   0.0233,
+   0.1264
+  ],
+  "rank_p5_mediana_p95": [
+   3,
+   5,
+   11
+  ],
+  "faixa": "B"
+ },
+ {
+  "ordem": 6,
+  "codigo": "P2·TRANSP 1",
+  "share": 0.0588,
+  "ic90": [
+   0.0455,
+   0.0755
+  ],
+  "rank_p5_mediana_p95": [
+   5,
+   6,
+   8
+  ],
+  "faixa": "B"
+ },
+ {
+  "ordem": 7,
+  "codigo": "P2·AUD 1",
+  "share": 0.0581,
+  "ic90": [
+   0.0437,
+   0.0755
+  ],
+  "rank_p5_mediana_p95": [
+   5,
+   6,
+   8
+  ],
+  "faixa": "B"
+ },
+ {
+  "ordem": 8,
+  "codigo": "P2·AUD 2",
+  "share": 0.0469,
+  "ic90": [
+   0.0347,
+   0.0617
+  ],
+  "rank_p5_mediana_p95": [
+   6,
+   8,
+   10
+  ],
+  "faixa": "B"
+ },
+ {
+  "ordem": 9,
+  "codigo": "P2·DIR 4",
+  "share": 0.035,
+  "ic90": [
+   0.009,
+   0.0763
+  ],
+  "rank_p5_mediana_p95": [
+   5,
+   10,
+   15
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 10,
+  "codigo": "P2·TRANSP 2",
+  "share": 0.0346,
+  "ic90": [
+   0.0237,
+   0.0471
+  ],
+  "rank_p5_mediana_p95": [
+   8,
+   10,
+   11
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 11,
+  "codigo": "P2·AUD 3",
+  "share": 0.034,
+  "ic90": [
+   0.0236,
+   0.0465
+  ],
+  "rank_p5_mediana_p95": [
+   8,
+   10,
+   11
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 12,
+  "codigo": "P2·GOV 3",
+  "share": 0.0218,
+  "ic90": [
+   0.014,
+   0.0315
+  ],
+  "rank_p5_mediana_p95": [
+   10,
+   12,
+   13
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 13,
+  "codigo": "P2·AUD 4",
+  "share": 0.0182,
+  "ic90": [
+   0.011,
+   0.0269
+  ],
+  "rank_p5_mediana_p95": [
+   11,
+   13,
+   14
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 14,
+  "codigo": "P2·EVID 5",
+  "share": 0.0116,
+  "ic90": [
+   0.006,
+   0.0182
+  ],
+  "rank_p5_mediana_p95": [
+   13,
+   14,
+   16
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 15,
+  "codigo": "P2·EVID 3",
+  "share": 0.009,
+  "ic90": [
+   0.0039,
+   0.0151
+  ],
+  "rank_p5_mediana_p95": [
+   13,
+   15,
+   18
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 16,
+  "codigo": "P2·TRANSP 5",
+  "share": 0.0073,
+  "ic90": [
+   0.0027,
+   0.0129
+  ],
+  "rank_p5_mediana_p95": [
+   14,
+   16,
+   19
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 17,
+  "codigo": "P2·EVID 2",
+  "share": 0.005,
+  "ic90": [
+   0.0012,
+   0.0095
+  ],
+  "rank_p5_mediana_p95": [
+   15,
+   17,
+   20
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 18,
+  "codigo": "P2·DIR 2",
+  "share": 0.0044,
+  "ic90": [
+   0.0012,
+   0.008
+  ],
+  "rank_p5_mediana_p95": [
+   15,
+   18,
+   20
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 19,
+  "codigo": "P2·TRANSP 3",
+  "share": 0.0032,
+  "ic90": [
+   0.0,
+   0.0066
+  ],
+  "rank_p5_mediana_p95": [
+   16,
+   19,
+   21
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 20,
+  "codigo": "P2·AUD 5",
+  "share": 0.0012,
+  "ic90": [
+   0.0,
+   0.0038
+  ],
+  "rank_p5_mediana_p95": [
+   18,
+   20,
+   21
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 21,
+  "codigo": "P2·EVID 1",
+  "share": 0.0007,
+  "ic90": [
+   0.0,
+   0.0022
+  ],
+  "rank_p5_mediana_p95": [
+   19,
+   21,
+   21
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 22,
+  "codigo": "P2·DIR 5",
+  "share": 0.0,
+  "ic90": [
+   0.0,
+   0.003
+  ],
+  "rank_p5_mediana_p95": [
+   21,
+   22,
+   25
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 23,
+  "codigo": "P2·EVID 4",
+  "share": 0.0,
+  "ic90": [
+   0.0,
+   0.003
+  ],
+  "rank_p5_mediana_p95": [
+   22,
+   23,
+   25
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 24,
+  "codigo": "P2·GOV 4",
+  "share": 0.0,
+  "ic90": [
+   0.0,
+   0.003
+  ],
+  "rank_p5_mediana_p95": [
+   23,
+   24,
+   25
+  ],
+  "faixa": "C"
+ },
+ {
+  "ordem": 25,
+  "codigo": "P2·GOV 5",
+  "share": 0.0,
+  "ic90": [
+   0.0,
+   0.003
+  ],
+  "rank_p5_mediana_p95": [
+   24,
+   25,
+   25
+  ],
+  "faixa": "C"
+ }
+]

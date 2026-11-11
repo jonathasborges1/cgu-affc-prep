@@ -1,0 +1,50 @@
+{"id": "v1-1-01", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "controle legislativo sobre atos do Executivo"}
+{"id": "v1-1-02", "codigo": "OUTRO", "rel": "fora", "motivo": "política nacional de mudança do clima"}
+{"id": "v1-1-03", "codigo": "P1·ETICA 4", "rel": "baixa", "motivo": "diversidade e inclusão em liderança organizacional"}
+{"id": "v1-1-04", "codigo": "OUTRO", "rel": "fora", "motivo": "lógica proposicional"}
+{"id": "v1-1-05", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "financiamento da previdência, proteção social tangencial"}
+{"id": "v1-1-06", "codigo": "OUTRO", "rel": "fora", "motivo": "planejamento estratégico de TI"}
+{"id": "v1-1-07", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "roteiro OCDE, políticas de inovação e mobilidade"}
+{"id": "v1-1-08", "codigo": "OUTRO", "rel": "fora", "motivo": "norma ISO 27005 gestão de riscos de TI"}
+{"id": "v1-1-09", "codigo": "P1·ADM 2", "rel": "media", "motivo": "balanced scorecard, gestão por resultados"}
+{"id": "v1-1-10", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "transparência e controle social, tema de P2"}
+{"id": "v1-1-11", "codigo": "OUTRO", "rel": "fora", "motivo": "Conselho Superior do Ministério Público"}
+{"id": "v1-1-12", "codigo": "P1·ESTADO 1", "rel": "media", "motivo": "tipologia de Estado e autoridade política"}
+{"id": "v1-1-13", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "controle interno estadual, competência do controlador"}
+{"id": "v1-1-14", "codigo": "P1·ESTADO 3", "rel": "alta", "motivo": "capacidade administrativa estatal e implementação"}
+{"id": "v1-1-15", "codigo": "OUTRO", "rel": "fora", "motivo": "interpretação de texto, português"}
+{"id": "v1-1-16", "codigo": "OUTRO", "rel": "fora", "motivo": "direito tributário, ISS municipal"}
+{"id": "v1-1-17", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão de carteira de projetos"}
+{"id": "v1-1-18", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "risco social, tema de governança"}
+{"id": "v1-1-19", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "departamentalização, teoria organizacional"}
+{"id": "v1-1-20", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei Maria da Penha"}
+{"id": "v1-1-21", "codigo": "OUTRO", "rel": "fora", "motivo": "princípios de auditoria, INTOSAI"}
+{"id": "v1-1-22", "codigo": "P1·ESTADO 4", "rel": "media", "motivo": "princípio da isonomia na administração"}
+{"id": "v1-1-23", "codigo": "P1·ESTADO 3", "rel": "baixa", "motivo": "competência federativa do DF"}
+{"id": "v1-1-24", "codigo": "OUTRO", "rel": "fora", "motivo": "acesso à informação, tema de P2"}
+{"id": "v1-1-25", "codigo": "P1·ADM 3", "rel": "baixa", "motivo": "SISNAD como política pública intersetorial"}
+{"id": "v1-1-26", "codigo": "P1·SOC 4", "rel": "media", "motivo": "educação inclusiva e pessoas com deficiência"}
+{"id": "v1-1-27", "codigo": "OUTRO", "rel": "fora", "motivo": "inglês"}
+{"id": "v1-1-28", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "planejamento financeiro curto e médio prazo"}
+{"id": "v1-1-29", "codigo": "P1·ETICA 3", "rel": "baixa", "motivo": "impedimento de juiz, direito processual"}
+{"id": "v1-1-30", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "controle interno e eficiência"}
+{"id": "v1-1-31", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "nova gestão pública no Brasil"}
+{"id": "v1-1-32", "codigo": "OUTRO", "rel": "fora", "motivo": "guarda de papéis de trabalho de auditoria"}
+{"id": "v1-1-33", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "teoria do equilíbrio pontuado"}
+{"id": "v1-1-34", "codigo": "OUTRO", "rel": "fora", "motivo": "educação, temas transversais"}
+{"id": "v1-1-35", "codigo": "P1·ESTADO 2", "rel": "baixa", "motivo": "Tribunal de Contas e separação de poderes"}
+{"id": "v1-1-36", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "políticas econômicas governos 1995 a 2006"}
+{"id": "v1-1-37", "codigo": "OUTRO", "rel": "fora", "motivo": "direito administrativo, anulação de ato"}
+{"id": "v1-1-38", "codigo": "P1·ADM 4", "rel": "media", "motivo": "estrutura programática do orçamento"}
+{"id": "v1-1-39", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "crescimento e desigualdade de renda histórica"}
+{"id": "v1-1-40", "codigo": "OUTRO", "rel": "fora", "motivo": "projeto ético-político do serviço social"}
+{"id": "v1-1-41", "codigo": "OUTRO", "rel": "fora", "motivo": "continuous delivery, engenharia de software"}
+{"id": "v1-1-42", "codigo": "P1·ADM 1", "rel": "alta", "motivo": "centralização e descentralização administrativa"}
+{"id": "v1-1-43", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "autonomia dos entes e competência legislativa"}
+{"id": "v1-1-44", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "formulação de política pública"}
+{"id": "v1-1-45", "codigo": "P1·ADM 4", "rel": "media", "motivo": "classificação de receitas correntes"}
+{"id": "v1-1-46", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, citomegalovírus"}
+{"id": "v1-1-47", "codigo": "OUTRO", "rel": "fora", "motivo": "previdência, pensão por morte"}
+{"id": "v1-1-48", "codigo": "OUTRO", "rel": "fora", "motivo": "regimento escolar, educação"}
+{"id": "v1-1-49", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "planejamento governamental no regime militar"}
+{"id": "v1-1-50", "codigo": "OUTRO", "rel": "fora", "motivo": "publicidade e mídia"}

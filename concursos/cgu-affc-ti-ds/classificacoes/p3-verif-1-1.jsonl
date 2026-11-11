@@ -1,0 +1,15 @@
+{"id": "v1-1-01", "codigo": "P3·DADOS 1", "rel": "alta", "motivo": "MongoDB e manipulacao de documentos", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-02", "codigo": "P3·SEG 4", "rel": "alta", "motivo": "Scrum e backlog", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-03", "codigo": "P3·DADOS 4", "rel": "alta", "motivo": "Criptografia em transito HTTPS", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-04", "codigo": "P3·SEG 3", "rel": "alta", "motivo": "Build em DevOps", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-05", "codigo": "P3·ARQ 2", "rel": "alta", "motivo": "OAuth e JWT", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-06", "codigo": "P3·SEG 4", "rel": "alta", "motivo": "Scrum e sprints", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-07", "codigo": "P3·DADOS 1", "rel": "alta", "motivo": "Cardinalidade de relacionamentos", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-08", "codigo": "OUTRO", "rel": "fora", "motivo": "Engenharia civil e aquecimento solar; texto tambem truncado", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-09", "codigo": "P3·SEG 3", "rel": "alta", "motivo": "Versionamento Git, branches e merge", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-10", "codigo": "OUTRO", "rel": "fora", "motivo": "Hardware e interrupcoes de perifericos", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-11", "codigo": "P3·DADOS 1", "rel": "alta", "motivo": "Propriedades ACID de transacoes", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-12", "codigo": "OUTRO", "rel": "fora", "motivo": "Indexacao arquivistica, nao busca textual em aplicacoes", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-13", "codigo": "P3·DADOS 3", "rel": "alta", "motivo": "Comparacao ELT e ETL", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-14", "codigo": "P3·ARQ 1", "rel": "alta", "motivo": "Acoplamento em arquitetura orientada a servicos", "status": "pendente_verificacao_independente"}
+{"id": "v1-1-15", "codigo": "OUTRO", "rel": "fora", "motivo": "Ontologias e inferencia na web semantica sem cobranca explicita de recuperacao para geracao", "status": "pendente_verificacao_independente"}

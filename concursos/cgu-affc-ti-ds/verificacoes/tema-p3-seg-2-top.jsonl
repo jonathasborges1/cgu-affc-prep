@@ -1,0 +1,6 @@
+{"item": "5", "edital": "P3·SEG 2.2", "relevancia": "alta", "nucleo_id": "n-analise-estatica-boas-praticas", "tags": ["PARTE_CERTA_PARTE_ERRADA"], "nivel": "medio"}
+{"item": "6", "edital": "P3·SEG 2.1", "relevancia": "alta", "nucleo_id": "n-stub-vs-mock", "tags": ["INVERSAO", "TROCA_TERMO"], "nivel": "medio"}
+{"item": "8", "edital": "P3·SEG 2.1", "relevancia": "alta", "nucleo_id": "n-analise-valor-limite-casos-teste", "tags": ["DETALHE_NUMERICO"], "nivel": "dificil"}
+{"item": "14", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "17", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "dificil"}
+{"item": "20", "edital": "P3·SEG 2.1", "relevancia": "alta", "nucleo_id": "n-teste-unitario-componente", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

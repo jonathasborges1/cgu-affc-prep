@@ -1,0 +1,316 @@
+     701002_01N746950
+
+                                  -- CONHECIMENTO
+No que se refere a governo eletrônico, cujo objetivo é prover
+informações e serviços para as pessoas, julgue os itens a seguir.
+51 A dificuldade de a administração pública viabilizar soluções
+   para problemas sociais diversos é um fator que justifica a
+   abertura da participação social, a formação de coalizações
+   com segmentos da sociedade e(ou) o estabelecimento de
+   parcerias que culminem na implantação de políticas que
+   atendam às demandas públicas.
+52 As    finalidades do eGOV incluem garantir a
+   confidencialidade das ações governamentais.
+53   A transparência, referente à possibilidade de acesso do
+     cidadão a informações governamentais, é elemento essencial
+     para o controle do aparelho do Estado pela sociedade.
+
+A participação da população nas decisões governamentais,
+traduzidas nas políticas públicas, é fundamental para a devida
+consolidação da democracia, a transparência, a cidadania e o
+controle social. Acerca desse tema, julgue os itens que se
+seguem.
+54   A gestão por resultados preconiza na provisão de serviços
+     públicos o controle ex ante.
+55   O Programa Auxílio Brasil, que se caracteriza pelo
+     pagamento de uma bolsa mensal (renda mínima), é um
+     programa federal de transferência direta de renda que integra
+     benefícios de assistência social, saúde, educação e emprego,
+     destinado às famílias em situação de pobreza e de extrema
+     pobreza. Logo, de acordo com a classificação da tipologia de
+     Theodore Lowi, trata-se de uma política distributiva.
+
+No que se refere ao planejamento estratégico, à formulação e à
+avaliação de programas bem como às formas de análise baseadas
+nas relações custo-benefício e custo-efetividade, julgue os itens
+subsequentes.
+56   O planejamento estratégico possui extensão temporal de
+     longo prazo e é micro-orientado, com o objetivo de abordar
+     detalhes relativos a tarefas.
+57   O monitoramento é utilizado unicamente na etapa de
+     formulação de políticas públicas.
+58   A formulação de políticas públicas deve ser compreendida
+     como o processo por meio do qual os governos traduzem
+     seus propósitos em programas e ações, os quais produzirão
+     as mudanças ou os resultados desejados no mundo real.
+59   A fase de implementação da política pública caracteriza-se
+     pelo levantamento de alternativas de soluções para o
+     problema público identificado.
+60   A análise custo-efetividade de políticas sociais baseia-se no
+     levantamento de um indicador determinado pela relação
+     entre os valores aplicados e o número de pessoas atendidas,
+     sem considerar os benefícios gerados pelo programa.
+61   Avaliar uma política pública pressupõe que exista definição
+     prévia de critérios e padrões, monitorados por intermédio de
+     indicadores. Logo, a avaliação ex ante é realizada com o
+     intuito de verificar a viabilidade do programa ou do projeto e
+     ocorre em momento anterior ao início deste.
+
+                       CEBRASPE – SEPLAN/RR – Edital: 2022
+
+OS ESPECÍFICOS --
+ Relativamente ao orçamento público, julgue os itens que se
+ seguem.
+ 62   A visão do orçamento público como uma lei que fixa a
+      despesa e estima a receita é própria do orçamento programa.
+ 63   A existência de vários orçamentos autônomos, como o
+      orçamento fiscal e o da seguridade social, viola o princípio
+      da totalidade orçamentária.
+ 64   O processo legislativo orçamentário inicia-se com a recepção
+      pelo Legislativo da proposta orçamentária elaborada pelo
+      Executivo.
+ 65   Da elaboração de uma proposta orçamentária à avaliação dos
+      resultados obtidos com a execução orçamentária, pode
+      decorrer mais de dois exercícios orçamentários.
+
+ Com relação ao orçamento público no Brasil, julgue os itens
+ seguintes.
+ 66   A estrutura programática do orçamento reflete-se na
+      estruturação da despesa em programas compostos por ações
+      voltadas à solução de um problema ou atendimento de uma
+      necessidade social.
+ 67   O plano plurianual é o instrumento de planejamento que
+      estabelece, de forma unificada em nível nacional, diretrizes,
+      objetivos e metas para um período de quatro anos.
+ 68   O conteúdo da lei de diretrizes orçamentárias está previsto na
+      Constituição Federal de 1988 e na Lei Complementar
+      n.º 101/2000.
+ 69   Apesar de vedada a inserção na lei orçamentária
+      anual (LOA) de qualquer dispositivo que não seja a previsão
+      da receita e a fixação da despesa, é permitido que haja, na
+      LOA, autorização para a abertura de créditos suplementares.
+
+ No que se refere às receitas e despesas públicas, julgue os itens
+ subsequentes.
+ 70   Receita orçamentária é toda receita que tenha sido prevista
+      na lei orçamentária anual.
+ 71   A previsão da receita pública é um dos estágios da etapa de
+      execução da receita orçamentária.
+ 72   A nota de empenho é documento indispensável à
+      formalização do empenho, que é o primeiro estágio da
+      despesa orçamentária.
+ 73   Despesa orçamentária pública é o conjunto de dispêndios
+      realizados com vistas à prestação de serviços públicos à
+      sociedade, e sua realização independe de autorização
+      legislativa.
+
+ Julgue os próximos itens com relação aos conceitos de big data.
+ 74   Big data somente se aplica a dados não estruturados.
+ 75   Variedade, em big data, refere-se à quantidade de fontes que
+      geram os dados com potencial de serem altamente
+      desestruturados.
+ 76   Big data envolve o uso de diversos tipos de conceitos e
+      tecnologias, como computação nas nuvens, virtualização,
+      Internet,   estatística, infraestrutura,   armazenamento,
+      processamento, governança e gestão de projetos.
+
+    701002_01N746950
+
+Com base nos conceitos de dados estruturados e não estruturados,
+de análise exploratória de dados e de dados abertos, julgue os
+itens seguintes.
+77 Dados de redes sociais são exemplos de dados não
+     estruturados.
+78 A coleta de dados a partir de arquivos em formato PDF é
+     possível, mesmo que este não possa ser editado. Para isso, a
+     ferramenta de extração de dados deve realizar a conversão do
+     arquivo PDF para outro formato que permita edição.
+79 A análise exploratória de dados é usada principalmente para
+     identificar características da base de dados estudada, e
+     determina se as técnicas estatísticas aplicadas na análise
+     desses dados são adequadas.
+No que se refere às características de um banco de dados
+relacional, julgue os itens que se seguem.
+80 No modelo relacional, as estruturas de dados lógicas não são
+     separadas das estruturas de armazenamento físico, o que
+     significa que os administradores de banco de dados não
+     podem gerenciar o armazenamento de dados físicos sem
+     afetar o acesso a esses dados como uma estrutura lógica.
+81 Atomicidade, uma das propriedades cruciais em transações
+     de banco de dados relacional, é a chave para manter os dados
+     precisos no banco de dados e garantir que eles estejam em
+     conformidade com regras, regulamentos e políticas da
+     empresa.
+82 Em contraste com os modelos relacionais, os modelos
+     dimensionais, ou modelos de dados dimensionais kimball —
+     modelos de dados baseados na técnica desenvolvida por
+     Ralph Kimball —, são estruturas normalizadas projetadas
+     para recuperar dados de um data warehouse.
+83 Visões podem ser usadas para definir relações no esquema
+     externo que exibem para os aplicativos as alterações feitas no
+     esquema conceitual do banco de dados.
+Com pertinência à linguagem SQL, julgue o item abaixo.
+84 Considere-se o seguinte script SQL.
+
+    select   report_code,   year,   month,                   day,
+    wind_speed,
+    case
+      when wind_speed>= 40 then ‘HIGH’
+      when wind_speed>= 30 then ‘MODERATE’
+    else ‘LOW’
+    end as wind_severity
+    from station_data
+
+    O resultado da execução do script resultará em erro, pois,
+    caso haja, na tabela station_data, algum registro no
+    campo wind_speed com valor superior a 40, não será
+    possível predizer se o valor da variável wind_severity
+    será igual a ‘HIGH’.
+A respeito de banco de dados, julgue os próximos itens.
+85 Em um comando SELECT, a cláusula WHERE define que o
+    resultado da consulta é o produto cartesiano das tabelas
+    envolvidas.
+86 Elasticsearch é uma ferramenta baseada em SQL que, ao ser
+    instalada no servidor de uma organização, recupera
+    informações de diversos tipos de bancos de dados.
+87 Em SQL, o comando DISTINCT é utilizado para eliminar
+    resultados repetidos em consultas a tabelas do banco
+    de dados.
+88 No PostgreSQL, as bases de dados são fisicamente
+    separadas, apesar de estarem no mesmo servidor.
+
+                     CEBRASPE – SEPLAN/RR – Edital: 2022
+Com relação a programação e desenvolvimento de sistemas,
+julgue os itens a seguir.
+89   A seguinte notação em JSON representa corretamente a
+     propriedade de “Nome” para as empresas A e B.
+
+     {“Empresas”:[{“Nome”:”A”},{“Nome”:”B”}]}
+90   CSS é um código separado da HTML que pode afetar a
+     aparência das tags em uma única página ou em todo um site
+     da Web.
+91   Em Python, deque é uma coleção ordenada de itens em que
+     novos elementos podem ser incluídos nas duas extremidades,
+     ou seja, no início ou no fim.
+92   Na linguagem C#, o método AddDate(12) acrescenta
+     doze dias a uma variável no formato DateTime.
+
+Acerca de metodologias ágeis e linguagens de modelagem, julgue
+os itens que se seguem.
+93   Em DDD (Domain-Drive Design), linguagem ubíqua é
+     a linguagem empregada no contexto do projeto, que é
+     entendida pela área de negócio e pelos desenvolvedores.
+94   No Scrum, os itens do product backlog devem ser
+     classificados como de prioridade alta, média ou baixa, para o
+     seu desenvolvimento.
+95   Por sua característica intuitiva, a BPMN é utilizada para
+     apresentar modelos de processos para públicos diferentes.
+96   Um scrum team é formado por pessoas com quatro papéis:
+     scrum master, product owner, manager e developers.
+
+Acerca dos protocolos da família TCP/IP, dos protocolos usados
+nas redes sem fio e dos conceitos de routing e switching, julgue
+os itens subsequentes.
+97   O protocolo de terminal virtual (Telnet) e o protocolo de
+     transferência de arquivos (FTP) são exemplos de protocolos
+     da família TCP/IP.
+98   Na família TCP/IP, o UDP (user datagram protocol) é
+     considerado o principal protocolo da camada de aplicação,
+     sendo muito usado para consultas isoladas em ambiente
+     cliente-servidor.
+99   Entre os protocolos usados nas redes sem fio (802.11),
+     o WEP é considerado o mais seguro, pois as máquinas são
+     autenticadas em vez dos usuários.
+100 O protocolo 802.1X, usado em redes sem fio, pode utilizar
+     vários protocolos, como, por exemplo, o EAP-TLS e
+     o EAP-MD5.
+101 A infraestrutura de switching tem como principal função
+     criar ligações prioritárias entre os nós da rede (servidores,
+     hubs etc.), com o objetivo de evitar o congestionamento do
+     backbone IP. Sua única desvantagem em relação ao routing é
+     o fato de que ela não permite o redirecionamento de rotas.
+102 A infraestrutura de routing permite encaminhar a informação
+     entre dois utilizadores ao longo da rede, mediante as tabelas
+     de encaminhamento, as quais indicam o canal a transmitir os
+     dados.
+
+    701002_01N746950
+
+No que diz respeito aos conceitos de criptografia, à assinatura
+digital, aos conceitos utilizados em sistemas operacionais e às
+noções de DevOps, julgue os itens seguintes.
+103 No ECB (electronic codebook), um dos modos de operação
+     usados com a cifra de bloco simétrica, cada bloco de texto
+     claro é criptografado usando-se a mesma chave.
+104 Em uma assinatura digital, é necessário usar alguma
+     informação exclusiva do emissor, a fim de impedir tanto a
+     falsificação quanto a retratação.
+105 Um driver de NTFS é considerado de baixo nível, uma vez
+     que abstrai a maneira pela qual os dados são armazenados
+     em disco.
+106 Quando um usuário executa um programa, alguns processos
+     são criados e inseridos na lista de prontos, denominando-se
+     despacho o ato de designar um processador ao primeiro
+     processo dessa lista.
+107 Colaboração multidisciplinar, teste manual no final do
+     desenvolvimento e implantação contínua são algumas
+     das características marcantes da cultura DevOps.
+108 No Debian, a função principal do programa Aptitude é
+     configurar o apt-get de maneira a saber de onde pegar
+     os pacotes.
+Julgue os itens a seguir acerca dos conceitos de estrutura
+de dados.
+109 Uma árvore binária deve ter, no mínimo, 3 nós.
+110 A estratégia de pesquisa mais adequada para uma estrutura
+    do tipo pilha é a pesquisa binária.
+111 Sempre que houver uma remoção na estrutura de dados
+    denominada fila, o elemento removido será aquele que está
+    na estrutura há mais tempo.
+Julgue o item seguinte a respeito dos conceitos de algoritmo
+de ordenação.
+112 O algoritmo merge sort ordena os elementos de um vetor
+    percorrendo este diversas vezes e, a cada passagem,
+    deslocando até o topo o maior elemento da sequência.
+Julgue o próximo item a respeito dos conceitos de Linux.
+113 Suponha-se o seguinte código bash.
+    tail nome_arquivo.txt -n2 | head -n1
+    A execução do código em tela resultará na apresentação da
+    penúltima linha do arquivo nome_arquivo.txt.
+Julgue o item seguinte a respeito dos conceitos do PostgreSQL.
+114 O comando \dn é utilizado para listar todos os esquemas
+    do banco de dados atualmente conectado em um ambiente
+    PSQL no PostgreSQL.
+Julgue o item a seguir a respeito dos conceitos de
+desenvolvimento de aplicações web.
+115 Aplicações de página única (SPA) apresentam seu conteúdo
+    a partir de um mecanismo de rolagem infinita.
+Julgue o próximo item a respeito do conceito de data
+warehousing.
+116 O esquema em estrela é uma abordagem adotada por data
+    warehouses relacionais e composta por tabela de fatos,
+    várias tabelas de dimensão e chaves estrangeiras da tabela de
+    fatos para as tabelas de dimensão.
+Julgue o item a seguir a respeito do conceito de modelagem
+relacional de dados.
+117 No modelo relacional de dados todas as relações necessitam
+     de uma chave primária formada por uma ou mais tuplas que
+     identificam um único registro.
+
+                    CEBRASPE – SEPLAN/RR – Edital: 2022
+Julgue o item seguinte a respeito dos conceitos de administração
+de dados.
+118 Os comandos TRUNCATE e DROP TABLE removem todas as
+    linhas de uma tabela, porém o comando DROP TABLE exclui
+    também a estrutura da tabela do banco de dados bem como
+    todos os dados armazenados na tabela.
+Julgue o item a seguir a respeito dos conceitos do SGBD Oracle.
+119 A tabela BDA_SORT _SEGMENT informa a quantidade de
+    espaço destinado para ordenar uma consulta no
+    SGBD Oracle.
+Considerando os conceitos de tuning de banco de dados, julgue o
+item a seguir.
+120 O comando EXPLAIN permite otimizar tabelas que executam
+    muitas operações de UPDATE e DELETE em detrimento de
+    operações de INSERT.
+Espaço livre
+

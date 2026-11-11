@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-3 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-3 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -25,103 +25,33 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 - **P3·SEG 5**: 5 Contratação e fiscalização de soluções. | 5.1 Necessidade, estudo técnico preliminar e termo de referência. | 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento. | 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços. | 5.4 Qualidade, níveis de serviço e entregas verificáveis. | 5.5 Fiscalização e pagamento. | 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída. FLÁVIO MARQUES PROL Secretário Executivo Adjunto
 
 ## ITENS
-### v1-3-01 | gab=E
-CSRF (cross-site request forgery) é um ataque que permite ações maliciosas em nome de um usuário autenticado, e basta a utilização de certificados SSL para mitigá-lo, pois eles garantem a criptografia das comunicações entre o usuário e o servidor.
-### v1-3-02 | gab=C
-No domínio entrega, serviço e suporte (DSS), há processos relacionados ao gerenciamento de solicitações e de incidentes de serviço, assim como ao gerenciamento de problemas e de continuidade.
-### v1-3-03 | gab=C
-Na análise de pontos de função, uma consulta implícita de dados ocorre quando a aplicação apresenta dados ao usuário antes de realizar uma transação, sem que o usuário precise solicitar explicitamente os dados.
-### v1-3-04 | gab=C
-No MySQL 5.6, o modo padrão de execução das transações é autocommit, o qual faz que as mudanças realizadas se tornem permanentes após a execução bem-sucedida desse comando; entretanto, esse modo será desabilitado implicitamente, se uma série de instruções for iniciada por meio do comando START TRANSACTION.
-### v1-3-05 | gab=E
-Em um banco de dados relacional, uma tabela está na segunda forma normal quando toda coluna não chave depende diretamente da chave primária.
+### v1-3-01 | gab=C
+O Kanban é uma ferramenta que prevê o progresso de uma sprint no Scrum. No que concerne a governança de dados e ITIL v4, julgue os itens a seguir.
+### v1-3-02 | gab=E
+O processo de comprovar a identidade do usuário aos componentes de segurança do sistema para se conceder acesso com base em quem ele é ou em algo que ele possua é denominado autorização.
+### v1-3-03 | gab=E
+Na arquitetura MVC, o controller contém todo o conteúdo e a lógica de processamento específicos para a aplicação, incluindo o acesso a fontes de dado externas à aplicação.
+### v1-3-04 | gab=C [texto-base: Julgue os seguintes itens, no que se refere a testes de software. O teste de integração é utilizado para descobrir erros associados a interfaces, a fim de que s]
+O teste unitário concentra o esforço de verificação no componente ou módulo de software, usando como guia a descrição de projeto no nível de componente. Nesse processo, caminhos de controle importantes são testados para descobrir erros dentro dos limites do módulo, conforme implementado no código-fonte.
+### v1-3-05 | gab=C [texto-base: Acerca de business intelligence, ETL e OLAP, julgue os itens que se seguem. Na transformação avançada do ETL, a derivação de dados cria novos atributos ou métri]
+A análise preditiva utiliza algoritmos estatísticos e modelos de machine learning para identificar padrões históricos nos dados e projetar tendências futuras, de forma a guiar decisões proativas e permitir a antecipação de cenários críticos para o negócio.
 ### v1-3-06 | gab=C
-No ASP.NET Core, um aplicativo de interface de usuário web renderizada pelo servidor permite uma ampla variedade de versões do navegador no cliente; nesse caso, o HTML e o CSS da página são gerados dinamicamente no próprio servidor e chegam prontas para o cliente.
-### v1-3-07 | gab=E
-O RAG (retrieval-augmented generation) reduz a necessidade de contextualizar prompts, pois o LLM, sozinho, consegue acessar, dinamicamente, informações externas sem qualquer integração prévia com sistemas de recuperação.
+No padrão MVC, o elemento do modelo encapsula as funcionalidades, os objetos de conteúdo e os estados da aplicação. JUSTIFICATIVA - Certo. A arquitetura model-view-controller (MVC) desassocia a interface do usuário da funcionalidade e do conteúdo de informações de uma aplicação. O modelo contém todo o conteúdo e a lógica de processamento específicos à aplicação, inclusive todos os objetos de conteúdo, acesso a fontes de dados/informações externas e toda a funcionalidade de pr
+### v1-3-07 | gab=C
+A mensageria é uma arquitetura flexível que permite o processamento de requisições em ambientes diferentes, como mainframe e cliente-servidor.
 ### v1-3-08 | gab=C
-Kubernetes é uma plataforma utilizada para manter e implantar um grupo de contêineres em tempo de execução, além de ser comumente utilizada junto com a ferramenta Docker, para melhor controle aplicativos em contêineres. e implementação de
-### v1-3-09 | gab=E
-Para autorização de adesão à ata de registro de preço exarada pelo órgão gerenciador, é obrigatório que o órgão interessado publique e compartilhe seu termo de referência ou projeto básico, não sendo necessária a publicação do estudo técnico preliminar da contratação por se tratar de documento inicial da fase de planejamento da contratação.
-### v1-3-10 | gab=E
-É parte da entrega contínua a automatização do processo de teste de código para identificar, o mais rapidamente possível, problemas na pipeline.
+Na arquitetura orientada a serviços (SOA), a WSDL (web services description language) descreve a maneira pela qual a lógica de negócios dos serviços web deve ser acessada. JUSTIFICATIVA - Certo. WSDL é uma linguagem de descrição que define a interface pública dos serviços web e descreve como a lógica de negócio desses serviços deve ser acessada. <FimJust>
+### v1-3-09 | gab=C
+No pentest do tipo caixa branca, o pentester tem conhecimento e alguns detalhes do ambiente e(ou) da aplicação a serem testados. Em referência às principais características de testes de segurança em pipelines de automação de códigos e infraestrutura, julgue os itens seguintes.
+### v1-3-10 | gab=C [texto-base: -- CONHECIMENTO Em relação à segurança de redes sem fio e a protocolos de segurança, julgue os itens a seguir. Uma das diferenças entre VPN IPSec e VPN SSL está]
+O IDS (Intrusion Detection System) é disponibilizado sob a forma de um software instalado em um endpoint, de um hardware dedicado conectado à rede ou mesmo como uma solução de serviço em nuvem; independentemente da forma de disponibilização, o sistema vai usar, pelo menos, um dos principais métodos de detecção a ameaças: detecção baseada em assinatura ou baseada em anomalias.
 ### v1-3-11 | gab=C
-O titular dos dados pessoais que serão objeto de tratamento deverá manifestar seu consentimento de forma livre, informada e inequívoca, devendo este ser feito por escrito ou por outro meio que demonstre a manifestação de vontade do titular.
+Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até 30% do valor inicial do contrato. variável estatística descritiva média amostral desvio padrão amostral ܺ 8 4 ܻ 8 5 Com base nas informações do quadro precedente, que apresenta estatísticas descritivas referentes a duas variáveis quantitativas, ܺ e ܻ, e sabendo que a covariância
 ### v1-3-12 | gab=E
-Especialmente voltado para o armazenamento de dados de sistemas de suporte a decisão (DSS) e data warehouse, os dados no Oracle podem ser armazenados em uma nova área opcional denominada In-Memory (IM). A IM é um suplemento que substitui a system global area (SGA), pois se sobrepõe ao cache de buffer do banco de dados, permitindo alto poder de processamento ao varrer dados colunares rapidamente por meio de vetorização.
-### v1-3-13 | gab=E [texto-base: Julgue os itens subsequentes, relativos a CIS controls, assinatura e certificação digital, segurança em nuvens e ao que dispõe a Lei Geral de Proteção de Dados ]
-Em um sistema de certificação digital baseado em infraestrutura de chaves públicas, a assinatura digital é gerada com a chave pública do signatário e validada com a chave privada do destinatário correspondente. ENGENHARIA DE SOFTWARE
+Arquivos .xml, .csv e .json são exemplos de dados estruturados.
+### v1-3-13 | gab=C
+Uma view é baseada em um tipo de consulta executada em uma ou mais tabelas em um banco relacional; normalmente é um tipo de consulta complexa e utilizada com frequência.
 ### v1-3-14 | gab=E
-Conforme a WCAG, o princípio denominado perceptível determina que os componentes de interface devem ser compreensíveis para o usuário.
-### v1-3-15 | gab=C
-A storage suportará o uso de RAID 5, porém a capacidade de armazenamento será menor, para que haja tolerância a falhas de até um disco.
-### v1-3-16 | gab=C
-Extração, tratamento e carga (ETL) é o processo que coleta dados relevantes dos bancos de dados transacionais, transforma-os em um padrão e os carrega no data warehouse ou no data mart. OS ESPECÍFICOS -- No que se refere à representação do diagrama entidade-relacionamento (ER) precedente, julgue os itens seguintes.
-### v1-3-17 | gab=C
-No Scrum, todo o trabalho necessário para atingir a meta do produto está embutido nas sprints, inclusive as daily scrums e as sprint retrospective.
-### v1-3-18 | gab=E
-De acordo com a Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), o encarregado deve realizar o tratamento de dados pessoais em nome do controlador, com o objetivo de proteger os direitos fundamentais de privacidade.
-### v1-3-19 | gab=E
-A IaC (infraestrutura como código) foi viabilizada pelo surgimento de plataformas de hospedagem de infraestrutura em nuvem, especificamente as plataformas IaaS. Entre os fatores que influenciam diretamente o uso da IaC estão o aumento dos custos e a diminuição na velocidade de implantação da infraestrutura.
-### v1-3-20 | gab=E
-OAuth é um protocolo de autorização utilizado na API RESTful que permite que aplicativos obtenham acesso limitado a recursos, por meio da inserção do nome e da senha do usuário no cabeçalho da solicitação a ser enviada.
-### v1-3-21 | gab=E
-A segregação de funções é um procedimento de segurança que visa separar as funções conflitantes com vistas a evitar que um indivíduo execute potenciais funções conflitantes por conta própria, tendo como exceção procedimentos como solicitar, aprovar e implementar os direitos de acesso, que deve ser executado pelo mesmo indivíduo, a fim de se garantir unicidade.
-### v1-3-22 | gab=E
-O Kanban e o Scrum utilizam sprints no planejamento e na distribuição de tarefas.
-### v1-3-23 | gab=C
-OpenID Connect é um protocolo em que provedores de identidade são capazes de lidar com os processos de autenticação de forma segura, sendo possível verificar as identidades dos usuários de aplicativos que o utilizam.
-### v1-3-24 | gab=E
-A arquitetura SOA (service-oriented architecture) do BPMS (business process management suite) cria uma abordagem altamente acoplada para a mudança de processos de negócios, em que os módulos são denominados processos.
-### v1-3-25 | gab=E
-O ciclo de vida do projeto e o ciclo de vida do produto são conceitos equivalentes, já que ambos os ciclos envolvem os mesmos princípios e domínios de desempenho estabelecidos no PMBOK 7.ª edição.
-### v1-3-26 | gab=C
-Os critérios de julgamento que podem ser utilizados em licitação na modalidade concorrência incluem o menor preço, o maior desconto e o maior retorno econômico. JUSTIFICATIVA - Certo. De acordo com o art. 6.º, XXXVIII, da Lei n.º 14.133/2021, concorrência é “modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser: a) menor preço; b) melhor técnica ou conteúdo artístico
-### v1-3-27 | gab=E
-De acordo com o índice de maturidade em acessibilidade digital do eMAG, o nível 3 refere-se à validação automática para a verificação do atendimento dos requisitos de acessibilidade de produtos contratados por fornecedores de TI.
-### v1-3-28 | gab=E
-Em ambientes de nuvem privada, a segurança é executada por provedores de serviços de nuvem com servidores compartilhados por vários locatários.
-### v1-3-29 | gab=E
-A execução do arquivo HTML a seguir aplicará as configurações definidas no arquivo styles.css aos elementos da página, desde que esse arquivo esteja acessível no caminho especificado.
-### v1-3-30 | gab=E [texto-base: Julgue os itens seguintes, relativos à gestão de riscos. A análise de riscos inclui a consideração das causas e fontes de risco, a probabilidade de ocorrer um e]
-Com base no COBIT 2019, julgue os próximos itens. No domínio entrega, serviço e suporte (DSS), há processos relacionados ao gerenciamento de solicitações e de incidentes de serviço, assim como ao gerenciamento de problemas e de continuidade.
-### v1-3-31 | gab=C
-A modalidade PaaS (plataform as a software) é indicada para desenvolvedores de aplicações que operam na nuvem, pois oferece um ambiente de desenvolvimento de software. No que diz respeito a refatoração e modernização de software, julgue os itens subsequentes.
-### v1-3-32 | gab=C
-Para racionalização dos estoques, convém manter um estoque igual a zero ou o mais próximo possível disso, para evitar eventuais impactos no custo total do produto acabado. No momento da abertura de determinada empresa comercial de artigos de informática, registravam-se 100 unidades de computadores em estoque — todos destinados à comercialização. Por decisão estratégica, optou-se por retirar 5 unidades dos computadores desse estoque e instalá-los em estações de trabalho para p
-### v1-3-33 | gab=E [texto-base: Julgue os próximos itens, com relação à engenharia de software. A atividade projeto e implementação juntamente com a validação do software são duas atividades e]
-Na análise de requisitos se software, os funcionais devem ser restritos ao que o sistema deve fazer; os não funcionais não devem abordar restrições que se apliquem ao sistema como um todo e sim aos detalhes específicos, tais como segurança e desempenho.
-### v1-3-34 | gab=E
-No código a seguir, desenvolvido em Java, a substituição dos caracteres #XPTO por @extends fará que a execução do código apresente BMW x3 como resultado. public class Veiculo { protected String nome; public Veiculo(String nome) { this.nome = “BMW”; } public void Modelo() { } public static void main(String[] args) { Veiculo Veiculo = new Veiculo(““); Veiculo.Modelo(); Veiculo bmw = new Veiculo(““) { #XPTO public void Modelo() { System.out.println(nome + “ “ + “x3”); } }; bmw.M
-### v1-3-35 | gab=E
-Na construção de um banco de dados, o modelo conceitual utiliza os requisitos de negócio, que são decompostos em entidades, atributos e relacionamentos atômicos, e aplica regras para evitar redundâncias.
-### v1-3-36 | gab=E [texto-base: Considerando a situação hipotética anterior, julgue os itens que se seguem, relativos a RESTful e GraphQL. Na situação em apreço, caso seja necessário que a API]
-Os padrões abstract factory e facade são, respectivamente, de criação e estrutural, uma vez que o abstract factory fornece uma interface para criação de famílias de objetos relacionados, ao passo que o facade separa a construção de um objeto complexo da sua representação.
-### v1-3-37 | gab=E
-Os sistemas de bancos de dados NoSQL baseados em documentos armazenam os dados por meio de esquemas do tipo XML.
-### v1-3-38 | gab=E
-Em arquitetura em nuvem, dentre os tipos SaaS, IaaS e PaaS, o serviço de becape é restrito aos dois últimos, haja vista que no SaaS não há como personalizar os recursos de hardware, que é essencial para oferecer métodos eficazes de cópias regulares de um fornecedor de serviços para outro local.
-### v1-3-39 | gab=C
-MapReduce é um modelo de programação desenhado para processar grandes volumes de dados em paralelo, dividindo o trabalho em um conjunto de tarefas independentes.
-### v1-3-40 | gab=C
-Ao se comprovar superfaturamento em contratação por inexigibilidade de licitação, tanto o fornecedor do serviço quanto o agente público responsável pela contratação responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.
-### v1-3-41 | gab=C
-É recomendado aos clientes que implementam OAuth 2.0 usar o tipo de resposta do código de autorização em vez dos tipos de resposta que causam a emissão do token de acesso no terminal de autorização.
-### v1-3-42 | gab=E [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-Julgue os itens subsequentes, a respeito das ferramentas de DevOps e das soluções mobile. O Jenkins é uma ferramenta de integração contínua de código aberto que pode ser instalada e configurada em qualquer servidor, enquanto o Travis CI é uma ferramenta de integração contínua hospedada na nuvem que se integra com o GitHub.
-### v1-3-43 | gab=E
-O item II pode ser atendido com a implantação em conjunto do gerenciamento de incidentes da operação de serviços do ITIL v3 e com a área de conhecimento gerenciamento do tempo do projeto do PMBOK. A seguir são apresentados três itens extraídos de um relatório elaborado por uma empresa de consultoria, acerca da qualidade de software e de contratações de soluções de TI e gestão de projetos em uma organização. I Para melhoria da qualidade do software da organização, é necessário
-### v1-3-44 | gab=C [texto-base: Com base no Guia “d” Simplificação Administrativa, do Programa Gespública do Ministério do Planejamento, Orçamento e Gestão, julgue os próximos itens, acerca de]
-No contexto de simplificação proposto pelo guia em questão, o mapeamento das etapas lógicas de realização de um processo de trabalho permite uma visão integrada desse processo, dos seus detalhes críticos, da interação entre suas partes, dos pontos de controle e das oportunidades de melhoria.
-### v1-3-45 | gab=E
-O registro de atividades gerado por programas e serviços de um computador não é visto como um mecanismo de segurança, já que está associado à análise forense.
-### v1-3-46 | gab=E [texto-base: Julgue os próximos itens, relativos à segurança da informação e proteção de dados, considerando a Instrução Normativa GSI n.º 2 e a Instrução Normativa GSI n.º ]
-A equipe de prevenção, tratamento e resposta a incidentes cibernéticos tem como atribuição assessorar a implementação das ações de segurança da informação e participar da elaboração da política de segurança da informação.
-### v1-3-47 | gab=C
-Docker compose é uma ferramenta para definir e executar aplicativos com vários contêineres. É a chave para desbloquear uma experiência de desenvolvimento e implantação simplificada e eficiente.
-### v1-3-48 | gab=C
-Uma medida rápida executa cálculos comuns e avançados utilizando um conjunto de comandos DAX (data analysis expressions) criados a partir dos dados de entrada fornecidos na caixa de diálogo.
-### v1-3-49 | gab=C
-A proteção de perímetro é usada para dissuadir invasões e para possibilitar que as pessoas utilizem entradas controladas para entrar em uma instalação.
-### v1-3-50 | gab=C
-O sujeito, o provedor de identidade e o provedor de serviços são as partes envolvidas em um processo do tipo autenticação, considerando-se o SAML e o início de sessão única (SSO).
+O modelo de dados vetorial utilizado em sistemas de informação geográfica (SIG) caracteriza-se pela natureza precisa de seu método de representação, por sua eficiência de armazenamento e pela qualidade de sua produção cartográfica, apesar da pouca disponibilidade de ferramentas funcionais para operações como projeções de mapas, processamento de sobreposição e análise cartográfica.
+### v1-3-15 | gab=E
+A LGPD aplica-se ao tratamento dos dados pessoais de brasileiros natos, mesmo que esses dados tenham sido coletados em países estrangeiros. Sociologists have, until recently, tended to avoid technology. This began to change significantly in the late 1980s with the growth and development of both (physical) IT and the (social) debate surrounding it. In a broad sense, sociologists of technology are concerned with explaining how social processes, actions and structures relate to 

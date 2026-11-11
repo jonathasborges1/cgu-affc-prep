@@ -1,0 +1,440 @@
+                                         CONHECIMENTO
+         Em um órgão da administração pública, foi criada uma
+equipe de auditoria para analisar a condução do processo
+de construção de um edifício que constava do plano de obras
+idealizado pelo órgão. Os trabalhos de auditoria focavam
+a elaboração do estudo de viabilidade técnica, econômica e
+ambiental (EVTEA), a confecção dos projetos — básico
+e executivo —, as licitações e os contratos, e a concessão de termos
+aditivos, além dos requisitos técnicos das planilhas de orçamento.
+Na análise da documentação, foram constatados os seguintes fatos.
+I          Na elaboração do EVTEA, para estimar o valor da
+           construção do prédio em questão, havia sido utilizado o
+           custo unitário básico por metro quadrado (CUB/m2).
+II         Na planilha de orçamento, alguns serviços apresentavam
+           custos unitários superiores aos custos unitários de
+           referência estabelecidos no Sistema Nacional de Pesquisa
+           de Custos e Índices da Construção Civil (SINAPI).
+III        O processo licitatório havia utilizado o regime de licitação
+           classificado como empreitada por preço unitário.
+IV         A ficha de composição de preço do serviço de
+           fornecimento de grupo gerador de energia apresentava um
+           valor relativo a benefícios e despesas indiretas (BDI)
+           inferior àqueles referentes aos demais serviços.
+V          A obra havia sofrido um aditivo contratual no valor de
+           R$ 500 mil após 6 meses da assinatura do contrato.
+VI         No edital de licitação, o órgão havia estabelecido que, para
+           efeito de reajustamento do contrato, seria utilizada a data
+           de apresentação da proposta de preço da empresa
+           vencedora, 1.º/1/2016.
+VII        O contrato havia sido assinado em 1.º/4/2016; o valor total
+           da obra, orçado em R$ 2 milhões; e o prazo definido para
+           a execução da obra, de 24 meses.
+VIII       No projeto básico de licitação, não havia sido registrada
+           anotação de responsabilidade técnica (ART) do
+           orçamentista.
+Considerando a situação hipotética apresentada, julgue os itens a
+seguir de acordo com a legislação e com as normas técnicas
+relativas a obras e serviços de engenharia.
+51     O valor do termo aditivo do referido contrato ultrapassou o
+       percentual máximo permitido pela lei de licitações e contratos.
+52     A empresa vencedora do certame licitatório teve direito ao
+       reajustamento do contrato a partir do dia 1.º/4/2017.
+53     A ausência de ART no projeto básico está em conformidade
+       com as normas pertinentes, já que a apresentação desse
+       documento é obrigatória somente na etapa de elaboração do
+       projeto executivo.
+54     Embora o CUB/m2 desconsidere custos como o da construção
+       das fundações do edifício, fornecendo, assim, apenas o valor
+       parcial da obra, a utilização desse índice, na situação
+       apresentada, é admitida pela legislação pertinente.
+55     Os custos dos serviços mencionados no item II poderão ser
+       admitidos, desde que devidamente justificados por meio de
+       relatório técnico elaborado pelo orçamentista e aprovado pelo
+       órgão gestor dos recursos.
+56     O valor de BDI do serviço de fornecimento do grupo gerador
+       poderá ser aceito caso fique devidamente demonstrada a
+       inviabilidade técnico-econômica de parcelamento do objeto da
+       licitação.
+
+               CESPE | CEBRASPE – TCE/PE – Aplicação: 2017
+
+OS ESPECÍFICOS
+          O setor de engenharia de um órgão público está elaborando
+ as especificações técnicas de um projeto básico para licitação tanto
+ de serviço de consultoria quanto de obras e serviços de engenharia,
+ todos relativos à construção de instalações do Sistema Único de
+ Saúde (SUS). Para tanto, o setor consultou o presidente da
+ comissão de licitações, solicitando, entre outras, informações
+ referentes às modalidades, tipos e regimes de licitação mais
+ adequados para a consecução dos serviços a seguir.
+ I   Consultoria de empresa de engenharia para a elaboração de
+     projeto de estruturas de concreto pretendido para o prédio
+     administrativo, com valor estimado de R$ 200 mil e prazo
+     de contrato previsto para 18 meses.
+ II Construção de prédio administrativo, com orçamento estimado
+     de R$ 2 milhões e prazo de 12 meses para a execução da obra.
+ III Pintura de prédio administrativo, com orçamento estimado em
+     R$ 20 mil e prazo de 1 mês para a conclusão do serviço.
+ Com relação a essa situação hipotética, julgue os itens que se
+ seguem, considerando a legislação aplicável a licitações de obras e
+ serviços de engenharia.
+ 57   A licitação para a contratação do serviço de pintura do prédio
+      poderá ser dispensada, devido ao valor estimado para esse
+      serviço.
+ 58   Em razão do tempo necessário para a realização da pintura do
+      prédio, é inexigível a licitação para a contratação desse
+      serviço.
+ 59   Como se trata de serviço de natureza predominantemente
+      intelectual, a consultoria poderá ser contratada mediante
+      licitação do tipo técnica e preço.
+ 60   Para as obras de construção do edifício, poderá ser adotada a
+      modalidade de licitação classificada como concorrência.
+ 61   O regime diferenciado de contratações públicas (RDC) não se
+      aplica à situação hipotética descrita, relativa a obras e serviços
+      de engenharia no âmbito do SUS.
+ De acordo com as resoluções do Conselho Nacional do Meio
+ Ambiente (CONAMA), o processo de licenciamento ambiental
+ requer um tipo de licença ambiental específico para cada fase dos
+ empreendimentos de infraestrutura de transportes. Tendo essa
+ informação como referência e considerando que um empreendedor
+ deseje obter nos órgãos competentes as licenças ambientais
+ necessárias para a construção e posterior operação de uma estrada
+ de rodagem com duas faixas de rolamento, julgue os itens
+ subsequentes.
+ 62   A licença de instalação (LI) e a licença de operação (LO) da
+      estrada poderão ser emitidas em separado ou simultaneamente,
+      uma vez que entre elas não existe vinculação legal nem técnica.
+ 63   Os prazos de validade da licença de instalação (LI) e da licença
+      prévia (LP) poderão ser prorrogados, desde que se limitem aos
+      prazos máximos de 6 anos e 5 anos, respectivamente.
+ 64   A renovação da licença de operação (LO) da estrada de
+      rodagem com duas faixas de rolamento deverá ser requerida
+      com antecedência de, pelo menos,120 dias antes do término da
+      sua data de validade.
+ 65   A elaboração do projeto básico de licitação das obras de
+      construção da estrada deverá anteceder a emissão da licença
+      prévia (LP) pelo órgão ambiental competente.
+
+No que se refere à classificação dos requisitos de qualidade da
+estrutura e à qualidade do projeto, julgue os itens subsequentes.
+
+66   Os materiais e componentes de construção de uma obra devem
+     ser produzidos, ensaiados e utilizados conforme disciplinado
+     em suas respectivas normas, seus procedimentos e suas
+     recomendações.
+67   Constituem requisitos de qualidade a capacidade resistente,
+     o desempenho em serviço e a durabilidade.
+68   A boa qualidade de um projeto estrutural consiste no resultado
+     de um trabalho isolado e sequencial.
+Com relação à análise estrutural, julgue os itens a seguir.
+
+69   Nas estruturas de concreto protendido, a força de protensão
+     deve ser controlada apenas na fase de execução, quando o
+     concreto ainda está muito jovem e não foi submetido a
+     carregamentos.
+70   O modelo de viga contínua é válido nos casos de vigas com
+     vãos e carregamento razoavelmente similares.
+De acordo com a NBR 14.653, julgue os itens seguintes, acerca da
+regressão linear.
+
+71   A vistoria é a atividade técnica realizada por profissional com
+     qualificação específica para averiguar e esclarecer fatos,
+     verificar o estado de um bem, apurar as causas que tenham
+     motivado determinado evento, avaliar bens, seus custos, frutos
+     ou direitos.
+72   Uma hipótese é nula quando se desconsidera uma variável ou
+     um conjunto de variáveis independentes envolvidas no modelo
+     de regressão para explicar a variação do fenômeno observado
+     em um nível de significância preestabelecido.
+73   Para haver um grau de fundamentação — grau III —,
+     a caracterização do imóvel avaliado deve estar restrita às
+     variáveis utilizadas no modelo, e o grau atingido deve ser
+     explicitado no corpo do laudo.
+74   Conforme a NBR 14.653, benfeitoria voluptuária é aquela que,
+     embora dispensável, aumenta ou facilita o uso do bem.
+A respeito do ensaio para aferir a resistência à tração para emboço
+e argamassa única, julgue o próximo item.
+
+75   Os limites mínimos de resistência à tração para argamassa
+     podem ser considerados como atendidos se, de um grupo de
+     seis amostras, pelo menos quatro tenham valores iguais ou
+     superiores a 0,2 MPa (para área interna, pintura ou base para
+     reboco) ou 0,3 MPa (para área externa).
+A propósito da manutenção de edificações para uma gestão
+adequada, julgue os itens que se seguem.
+
+76   A manutenção de edificações visa preservar ou recuperar as
+     condições ambientais adequadas ao uso previsto de tais
+     edificações, mas não inclui serviços realizados para alteração
+     do uso destas.
+77   Os procedimentos relativos à manutenção de edificações
+     incluem uma estrutura de documentação e registro de
+     informações atualizadas, concernentes a manutenções
+     realizadas, registros de reclamações e solicitações dos
+     usuários; acervos de normas e procedimentos padronizados.
+
+              CESPE | CEBRASPE – TCE/PE – Aplicação: 2017
+
+No planejamento de uma obra, a apuração do caminho crítico é
+realizada a partir de uma sequência de atividades. Acerca do
+método do caminho crítico (CPM, em inglês), julgue o item
+subsecutivo.
+78   As atividades de uma sequência podem sofrer alteração de
+     duração sem que isso modifique a duração total de um projeto.
+O SINAPI é uma base de referência de custos que pode ser
+consultada e utilizada na elaboração de orçamentos. A respeito
+desse sistema, julgue os itens a seguir.
+79   Um orçamento realizado com base em previsões e estimativas
+     será integralmente preciso.
+80   Os preços de insumos e custos de composição do SINAPI são
+     coletados pela Caixa Econômica Federal, que realiza o
+     tratamento dos dados e a formação dos índices, para posterior
+     disponibilização para consultas.
+
+
+
+
+O estudo da geometria das tubulações é fundamental para garantir
+o fluxo de água nas estruturas hidráulicas. Nesse sentido, tendo
+como base a figura precedente, considere os reservatórios de água
+R1 e R2, as linhas R1, R2, R3 e R4 e o desenvolvimento dos condutos
+fechados A-E, A-B-C-D-E, A-B”-C”-D”-E e A-B”-C”-D”-E em
+relação às referidas linhas, em que a pressão atmosférica (Pa) é a
+origem das medidas de pressão, e julgue os itens a seguir.
+81   A tubulação A-B’-C’-D’-E funciona como um sifão e, por isso,
+     não precisa de escorva prévia para garantir o escoamento.
+82   O teorema de Bernoulli pode ser aplicado entre os
+     pontos A e E exatamente como foi postulado, pois a
+     conservação de energia se mantém constante para qualquer
+     uma das tubulações que interligue esses dois pontos.
+83   A perda de carga unitária tende ao seno da linha de carga
+     efetiva à medida que a declividade da tubulação tende a zero
+     e, para os condutos livres com fluxo em movimento uniforme,
+     a perda de carga unitária representa a declividade real do
+     conduto.
+84   Sem a atuação de forças externas, o fluxo de água na tubulação
+     A-B”-C”-D”-E se mantém, devido, exclusivamente, à ação
+     da Pa.
+85   No trecho B-C-D do conduto A-B-C-D-E, atua uma pressão
+     inferior à Pa que provoca a formação de uma bolsa gasosa no
+     ponto C, o mais alto da tubulação. Se essa bolsa não for
+     removida, ela crescerá até que a pressão interna do tubo se
+     iguale à Pa enquanto a vazão diminuirá. Nesta situação, uma
+     válvula de expulsão e admissão de ar instalada no ponto mais
+     alto da tubulação restabeleceria a vazão.
+86   As linhas R1, R2, R3 e R4 representam, respectivamente, a linha de
+     carga absoluta, a linha de carga efetiva, o plano de carga
+     absoluto e o plano de carga efetivo.
+
+A respeito de irrigação e obras de saneamento, julgue os itens
+seguintes.
+87   A irrigação por inundação é uma irrigação por superfície que
+     cobre o terreno com uma lâmina de água e pode ser usada na
+     maioria das culturas, e a irrigação por gotejamento, indicada
+     para culturas de alto retorno econômico, é um tipo de irrigação
+     localizada em que a água é levada até o pé da planta,
+     aumentando a eficiência na distribuição dessa água com
+     economia de energia.
+88   A intensidade de aplicação do aspersor pode ser maior do que
+     a velocidade de infiltração básica do solo se a capacidade de
+     campo continuar crescendo com a drenagem natural do terreno.
+     Já a profundidade de irrigação deve ser preferencialmente igual
+     a profundidade efetiva do sistema radicular de uma planta, que
+     é definida como aquela em que se encontra 95% das raízes.
+89   O projeto e as operações a serem realizadas nas lagoas de
+     estabilização facultativas devem garantir, entre outros
+     requisitos, a manutenção das condições propícias à
+     proliferação de bactérias aeróbias na parte superior da lagoa,
+     para que esses microrganismos consigam degradar a matéria
+     orgânica solúvel do esgoto, consumindo o oxigênio livre
+     disponível na água, e produzir água, gás carbônico e nutrientes.
+90   Na captação de um sistema de abastecimento de água,
+     as barragens de manutenção de nível precisam extravasar com
+     segurança os volumes eventualmente excessivos, o que pode
+     ser feito por meio de um vertedor de equação linear ou de um
+     vertedor exponencial.
+91   O consumo de água é uma função de uma série de fatores
+     inerentes à região abastecida influenciada por fatores como
+     clima, padrões de renda, hábitos da população, custo da água,
+     pressão na rede de distribuição e perdas no sistema, que podem
+     ser físicas ou administrativas. No tocante às perdas físicas, as
+     ações principais de controle dessas perdas incluem a
+     setorização da rede e a redução de pressão na rede.
+No que se refere a obras portuárias, julgue os itens que se seguem.
+92   Vários fatores ambientais agregam-se na definição da largura
+     de um canal de acesso que deve considerar ainda uma margem
+     de segurança que garanta uma folga entre a embarcação-tipo
+     e as margens do canal, além de uma distância de passagem.
+     Se o canal for de mão dupla, a largura deve considerar
+     também duas vezes a distância de passagem para reduzir
+     a um nível controlável a interação hidrodinâmica
+     embarcação-embarcação.
+93   Os quebra-mares não são indicados para locais com grande
+     declividade do terreno, pois, além de exigirem obras
+     antieconômicas, os espigões criam turbulências capazes de
+     produzir erosões que os arruinarão, se não for mantido um
+     esquema de manutenção adequado.
+94   Para otimizar economicamente a produtividade de um berço e
+     minimizar seu custo, deve-se levar em conta a capacidade de
+     carga do navio e os custos decorrentes do fato de o navio estar
+     parado.
+95   Tanto nos portos naturais quanto nos artificiais, as áreas de
+     retroporto são áreas terrestres próprias para a movimentação de
+     cargas e passageiros. Os sistemas de movimentação de cargas
+     e as instalações de armazenagem devem ser projetados com a
+     maior flexibilidade possível, ressalvadas as situações de
+     terminais nitidamente especializados.
+
+              CESPE | CEBRASPE – TCE/PE – Aplicação: 2017
+
+
+
+
+        Antes de iniciar os trabalhos, o engenheiro responsável
+pela execução de uma obra de terraplenagem observou que a
+sondagem à percussão realizada no ponto 5 havia gerado uma
+mudança de perfil de subsolo, representado na figura precedente.
+A respeito do ensaio realizado e do perfil apresentado do subsolo,
+julgue os itens a seguir, considerando que o solo acima da rocha foi
+classificado como argila mole e que a protuberância está a 5 m do
+nível do terreno.
+96    O nível d’água registrado próximo ao nível do terreno indica
+      a ocorrência de artesianismo, o que prejudica qualquer
+      atividade de terraplenagem.
+97    O SPT (Standard Penetration Test) apresentado no boletim de
+      sondagem à percussão relativo ao ponto 5 é significativamente
+      menor que o dos demais furos de sondagem.
+98    Para confirmar o comportamento do subsolo apresentado no
+      ponto 5 da figura, o estudo deverá ser ampliado, pois o
+      resultado da sondagem poderia indicar também a presença de
+      um matacão.
+99    Devido à existência de uma camada de argila mole no terreno,
+      a falta de resistência à penetração da haste inviabiliza a
+      execução adequada da sondagem à percussão.
+
+
+
+
+             Manual de custos rodoviários do DNIT. Metodologias e conceitos. SICRO-2. v.1. p. 44.
+
+
+O gráfico precedente representa a evolução de parte do custo
+horário de um equipamento durante sua vida útil. Considerando
+esse gráfico e os conceitos relacionados aos custos de depreciação
+e de reparos de equipamentos, julgue os itens subsequentes.
+100   A vida útil de determinado equipamento é estimada pelo tempo
+      correspondente ao cruzamento entre as curvas de depreciação
+      e o custo de reparo, conforme indicado no gráfico.
+
+101   A apropriação de custos permite definir a vida útil de um
+      equipamento de forma mais precisa do que a aplicação de
+      tabelas de referência de fabricantes.
+102   Com referência ao comportamento dos custos de depreciação
+      e de reparos apresentados no gráfico, a metodologia do
+      SICRO2, na orçamentação de obras rodoviárias, considera, em
+      suas composições de custos dos equipamentos, parcelas de
+      custos variáveis, que mudam conforme a idade da frota.
+          Durante o serviço de terraplenagem em uma rodovia,
+o fiscal técnico da obra notificou a contratada por ter executado os
+serviços em desacordo com as normas vigentes e as boas práticas:
+além de ter executado o aterro com camadas compactadas
+sucessivas de 80 cm de espessura, a construtora aproveitou
+indevidamente material disponível na faixa de domínio da estrada,
+em cuja composição havia micáceas e diatomáceas.
+A partir dessa situação hipotética, julgue os seguintes itens.
+103   O aproveitamento de solos com micáceas e diatomáceas deve
+      ser descartado para uso em aterros, mesmo estando eles
+      próximos ao local de execução da obra.
+104   Aterro compactado com camadas de 80 cm é inadequado, pois
+      as camadas deveriam ter, no mínimo, 100 cm, para garantir
+      economia na execução.
+Em um processo de medição de aterros em obras rodoviárias,
+a fiscalização mediu o aterro por m² de plataforma executada,
+considerando um valor médio de altura de aterro. Com base nessa
+informação, julgue os itens que se seguem.
+105   A medição do aterro deve se restringir às operações de
+      descarga; espalhamento; ajuste e homogeneização do solo;
+      e compactação e acabamento.
+106   A fiscalização deveria ter medido o aterro por quantidade de
+      material transportado, mediante apropriação dos custos
+      de transporte de solo em caminhão basculante.
+          Durante a execução de uma obra rodoviária, a contratada
+pleiteou o reajuste contratual, aplicando o percentual calculado pelo
+índice sobre o montante a receber da obra após a data-base, tendo
+em vista que, mesmo estando com algumas atividades
+injustificadamente atrasadas, o cronograma financeiro estava de
+acordo com o cronograma de desembolso.
+Com relação a essa situação hipotética, julgue os próximos itens.
+107   Caso a contratada tenha direito ao reajustamento, o valor a ser
+      pago será calculado aplicando-se o respectivo índice sobre o
+      saldo contratual após a data base de reajuste.
+108   A contratada tem direito ao reajustamento somente após
+      um ano da entrega das propostas ou do orçamento, dependendo
+      do que esteja previsto no edital de licitação.
+A respeito de impactos ambientais em obras rodoviárias, julgue os
+itens subsecutivos.
+109   O impacto ambiental significativo (IAS) que afete um
+      componente ambiental de importância coletiva é caracterizado
+      como estratégico.
+110   Ações antrópicas que tragam benefícios ao meio ambiente,
+      como a melhora na qualidade das características
+      físico-químicas do solo, caracterizam o impacto ambiental
+      significativo (IAS) como adverso.
+
+              CESPE | CEBRASPE – TCE/PE – Aplicação: 2017
+
+Julgue os itens seguintes, relativos à matemática financeira.
+111   Se a expectativa de mercado for de queda da taxa de juros,
+      então o preço de mercado de um título de renda fixa sem
+      cupom deverá aumentar em resposta à queda dos juros.
+112   A taxa de 24% ao ano é proporcional à taxa de 2% ao mês.
+113   Situação hipotética: Uma instituição financeira emprestou a
+      uma empresa R$ 100.000, quantia entregue no ato, sem prazo
+      de carência, a ser paga em cinco prestações anuais iguais,
+      consecutivas, pelo sistema francês de amortização. A taxa de
+      juros contratada para o empréstimo foi de 10% ao ano, e a
+      primeira prestação deverá ser paga um ano após a tomada do
+      empréstimo. Assertiva: Se o valor das prestações for de
+      R$ 26.380, a soma total dos juros que deverão ser pagos pela
+      empresa, incluídos nas cinco parcelas do financiamento,
+      é inferior a R$ 31.500.
+114   Situação hipotética: Um banco emprestou R$ 12.000 para
+      Maria, que deve fazer a amortização em doze parcelas mensais
+      consecutivas pelo sistema de amortização constante sem
+      carência. A taxa de juros contratada para o empréstimo foi de
+      1% ao mês, e a primeira parcela deverá ser paga um mês após
+      a tomada do empréstimo. Assertiva: O valor da quarta parcela
+      a ser paga por Maria é de R$ 1.090.
+115   Considere que dois capitais, cada um de R$ 10.000, tenham
+      sido aplicados, à taxa de juros de 44% ao mês — 30 dias —,
+      por um período de 15 dias, sendo um a juros simples e outro
+      a juros compostos. Nessa situação, o montante auferido com a
+      capitalização no regime de juros compostos será superior
+      ao montante auferido com a capitalização no regime de
+      juros simples.
+Acerca de aspectos diversos referentes a banco de dados relacional,
+julgue o item a seguir.
+116   A chave estrangeira (foreign key) é o campo que estabelece o
+      relacionamento entre duas tabelas de bancos distintos, sendo
+      necessariamente chave primária na tabela de um dos bancos.
+A respeito da modelagem dimensional, julgue os próximos itens.
+117   No modelo floco de neve (snow flake), todas as tabelas estão
+      relacionadas diretamente com a tabela de fatos, e as tabelas
+      dimensionais devem conter todas as descrições necessárias
+      para definir uma classe nelas mesmas.
+118   Todas as tabelas de um modelo apresentam um elemento de
+      tempo como parte da estrutura de chave.
+Julgue o seguinte item, que se refere a CRISP-DM (Cross-Industry
+Standard Process of Data Mining).
+119   Durante a fase de entendimento do negócio, busca-se descrever
+      claramente o problema, fazer a identificação dos dados e
+      verificar se as variáveis relevantes para o projeto não são
+      interdependentes.
+Com relação a Big Data, julgue o item subsequente.
+120   Além de estar relacionado à grande quantidade de informações
+      a serem analisadas, o Big Data considera o volume, a
+      velocidade e a variedade dos dados estruturados — dos quais
+      se conhece a estrutura de armazenamento — bem como dos
+      não estruturados, como imagens, vídeos, áudios e documentos.
+

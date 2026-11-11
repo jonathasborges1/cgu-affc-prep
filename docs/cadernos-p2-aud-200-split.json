@@ -1,0 +1,49 @@
+{
+  "fonte": "caderno oficial P2·AUD /imprimir",
+  "total_questoes": 200,
+  "max_por_caderno": 5,
+  "criterio": "afinidade pelo assunto do Tec; nenhum caderno mistura assuntos diferentes",
+  "blocos": [
+    {
+      "codigo": "AUD-CONTROLE",
+      "assunto": "Controle - Conceitos, Tipos e Sistemas",
+      "inicio": 1,
+      "fim": 70,
+      "questoes": 70,
+      "cadernos": 14,
+      "faixas": [[1,5],[6,10],[11,15],[16,20],[21,25],[26,30],[31,35],[36,40],[41,45],[46,50],[51,55],[56,60],[61,65],[66,70]]
+    },
+    {
+      "codigo": "AUD-COSO-INTOSAI",
+      "assunto": "Normas Internacionais sobre Controle Interno (COSO, Intosai)",
+      "inicio": 71,
+      "fim": 175,
+      "questoes": 105,
+      "cadernos": 21,
+      "faixas": [[71,75],[76,80],[81,85],[86,90],[91,95],[96,100],[101,105],[106,110],[111,115],[116,120],[121,125],[126,130],[131,135],[136,140],[141,145],[146,150],[151,155],[156,160],[161,165],[166,170],[171,175]]
+    },
+    {
+      "codigo": "AUD-ART70",
+      "assunto": "Abrangência do Controle (art. 70 da CF)",
+      "inicio": 176,
+      "fim": 199,
+      "questoes": 24,
+      "cadernos": 5,
+      "faixas": [[176,180],[181,185],[186,190],[191,195],[196,199]]
+    },
+    {
+      "codigo": "AUD-CF-CONTROLE",
+      "assunto": "Controle Interno na Constituição Federal",
+      "inicio": 200,
+      "fim": 200,
+      "questoes": 1,
+      "cadernos": 1,
+      "faixas": [[200,200]]
+    }
+  ],
+  "resumo": {
+    "cadernos_total": 41,
+    "questoes_por_caderno": "até 5",
+    "proxima_acao": "gerar cada caderno com a faixa correspondente, classificar e verificar antes de aplicar ao banco"
+  }
+}

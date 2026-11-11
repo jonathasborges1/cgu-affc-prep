@@ -1,0 +1,6 @@
+{"item": "5", "edital": "P3·SEG 3.1", "relevancia": "alta", "nucleo_id": "n-cd-inclui-build-e-teste", "tags": ["EXCECAO_OMITIDA", "TROCA_TERMO"], "nivel": "medio"}
+{"item": "8", "edital": "P3·SEG 3.2", "relevancia": "media", "nucleo_id": "n-devsecops-fases-ciclo", "tags": ["TROCA_TERMO"], "nivel": "dificil"}
+{"item": "12", "edital": "P3·SEG 3.1", "relevancia": "alta", "nucleo_id": "n-ci-vs-cd-definicao", "tags": ["INVERSAO", "TROCA_TERMO"], "nivel": "medio"}
+{"item": "13", "edital": "P3·SEG 3.3", "relevancia": "alta", "nucleo_id": "n-cd-automatiza-testes", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "17", "edital": "P3·SEG 3.1", "relevancia": "alta", "nucleo_id": "n-devops-ci-cd-falha-rapida", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "20", "edital": "P3·SEG 3.3", "relevancia": "media", "nucleo_id": "n-jenkins-freestyle-vs-pipeline", "tags": ["TROCA_TERMO"], "nivel": "dificil"}

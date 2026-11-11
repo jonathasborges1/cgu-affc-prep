@@ -1,0 +1,280 @@
+                                  -- CONHECIMENTO
+Em relação aos procedimentos de armazenagem e movimentação
+de cargas, julgue os itens seguintes.
+41 Os transportes dutoviários, quando comparados a outros
+    modais de transportes, são considerados caros, devido às
+    dificuldades de implementação e à complexidade do sistema
+    de carga e descarga dos produtos.
+42 Processos de armazenagem eficazes favorecem a cadeia de
+    suprimentos, pois a perfeita execução das atividades diminui
+    os índices de avarias, fornece registros confiáveis e
+    possibilita o rastreamento dos produtos e o acesso a seu
+    histórico.
+43 A movimentação de cargas de uma única origem para um
+    único destino, conhecida como distribuição física um para
+    um, reduz os custos individuais de movimentação de itens e
+    causa menor impacto no valor do frete ao consumidor final.
+44 A cultura de utilização de paletes para armazenagem
+    proporcionou grandes avanços às operações logísticas,
+    embora apresente altos custos de fabricação.
+Julgue os itens subsequentes, a respeito de logística reversa e
+fundamentos de logística.
+45 É relevante que a tecnologia da informação esteja presente
+    de maneira segregada nos diversos processos logísticos, para
+    que a cadeia de atividades funcione de forma eficiente.
+46 A logística reversa e a distribuição de produtos devem ser
+    tratadas com a mesma seriedade, pois envolvem os mesmos
+    elementos, como armazenagem, frete, estoque e fluxo de
+    materiais.
+47 A logística reversa gera benefícios de ordem econômica,
+    reduz impactos ambientais e proporciona uma imagem
+    corporativa positiva perante o mercado.
+48 O estoque é um processo logístico que pode ser decisivo na
+    determinação do preço do produto, podendo torná-lo mais
+    caro e inviável perante a concorrência caso o controle seja
+    ineficiente.
+49 Um adequado planejamento logístico deve conter a
+    especificação dos meios necessários para a execução do
+    processo e possibilitar ajustes nessa execução, a fim de
+    atender a imprevistos que venham a ocorrer.
+50 Transportes, manutenção de estoques e processamento de
+    pedidos são atividades básicas de logística que visam à
+    otimização e à melhoria dos serviços, desconsiderando-se os
+    custos envolvidos nas operações.
+No que se refere ao controle de inventários e às decisões de
+políticas de estoques, julgue os próximos itens.
+51 O estoque influencia os custos e a rentabilidade da empresa,
+     por isso é melhor a falta de estoque que material em excesso.
+52 A prática de inventário rotativo, em frequência diária ou
+     semanal, possibilita a atuação proativa para que divergências
+     sejam identificadas e suas causas sejam removidas,
+     eliminando-se a necessidade de realizar inventário geral.
+53 Para obter confiabilidade no processo de inventário, o fator
+     preponderante é a eficiência da tecnologia da informação
+     utilizada, independentemente da qualificação dos
+     inventariantes.
+54 A acurácia das informações sobre os saldos de estoques é
+     obtida mediante a confrontação entre a contagem física dos
+     materiais e os registros constantes nos controles existentes.
+55 Restrições na cadeia de abastecimento e falta de materiais
+     que possa comprometer o atendimento ao cliente são razões
+     que justificam a manutenção de estoques.
+56 Empresas que, a fim de não perder vendas e de se preparar
+     para variações de demanda, defendem a visão de que é
+     preciso manter produtos em estoque conseguem administrar
+     seus custos de maneira satisfatória, sem riscos de perdas e
+     obsolescência de produtos.
+
+                     CEBRASPE – PETROBRAS – Edital: 2023
+
+OS ESPECÍFICOS --
+         A atual empresa transportadora de combustíveis líquidos e
+ derivados de petróleo contratada por uma indústria petrolífera
+ apresenta uma série de problemas, tais como atrasos na entrega
+ ao cliente final, derramamento de produtos ao longo de vias
+ públicas, falta de comunicação com o embarcador e o cliente
+ final, incidentes ocorridos nas estradas e frota com vários graus
+ de avaria. Entretanto, o preço do frete médio cobrado pela
+ transportadora contratada é o menor entre as disponíveis no
+ mercado.
+ Tendo como referência essa situação hipotética, julgue os itens
+ seguintes.
+ 57 No caso de as lâmpadas traseiras de um caminhão-tanque da
+     transportadora contratada estarem queimadas, a instalação de
+     faixas luminosas nas laterais do veículo evitará o risco de
+     acidentes no tráfego pelas vias públicas.
+ 58 A fim de minimizar os problemas apresentados, é
+     recomendável que a transportadora contratada implemente
+     sistemas de tecnologia de informação e controle para os
+     vários processos operacionais, pois eles constituem um dos
+     pilares da logística integrada.
+ 59 O contrato com a transportadora citada deve ser mantido,
+     sem que ela seja notificada formalmente pelas
+     irregularidades, pois o preço do frete médio é o menor em
+     relação às demais transportadores concorrentes.
+ 60 O derramamento de produtos pela empresa contratada ao
+     longo de vias públicas prejudica a imagem da petrolífera
+     contratante.
+ 61 Se não houver melhoria do nível de serviços de entrega aos
+     clientes finais, a indústria petrolífera que contrata a
+     transportadora pode perder espaço para concorrentes.
+ 62 Convém que os condutores dos veículos da transportadora
+     contratada realizem curso de aprimoramento profissional,
+     com temas que envolvam a inspeção de veículos antes do
+     transporte e a comunicação com o cliente final.
+ Julgue os itens que se seguem, em relação a modais de transporte
+ e a operações de transporte multimodal em uma indústria
+ petrolífera.
+ 63 O modo marítimo, em comparação ao modo rodoviário,
+     apresenta maior capacidade relativa de carga, associada a
+     tarifas de frete mais competitivas, principalmente a grandes
+     distâncias.
+ 64 Uma das vantagens do transporte multimodal é o ganho de
+     agilidade e economia para todos os envolvidos na
+     movimentação da carga.
+ 65 O transporte multimodal terrestre-marítimo tem a vantagem
+     de apresentar uma boa eficiência logística, mas necessita de
+     vários operadores de transporte multimodal para cada
+     operação terrestre-marítima.
+ 66 A versatilidade do modal rodoviário decorre da possibilidade
+     de transportar produtos com pesos e volumes variados a
+     curtas e médias distâncias.
+ 67 O anteporto é constituído pela bacia de evolução, pelo cais
+     com faixa de atracação e movimentação terrestre e pela
+     estação de serviços.
+ 68 O fato de as ferrovias estarem limitadas a instalações fixas
+     de trilhos não elimina a sua maior versatilidade e
+     flexibilidade em comparação às rodovias no transporte porta
+     a porta.
+ 69 Os fundeadouros são locais onde os navios ancoram à espera
+     de transbordo, podendo executar as operações de carga ou
+     descarga por transferência a embarcações de menor porte.
+
+Julgue o item seguinte, a respeito dos critérios de escolha de
+modo de transporte para a movimentação de carga fracionada ou
+a granel constituída por combustíveis líquidos e derivados de
+petróleo.
+70   Independentemente do modo de transporte escolhido, os
+     veículos de carga e as embalagens utilizadas devem estar em
+     conformidade com as regulamentações específicas para cada
+     tipo de carga transportada, levando-se em consideração suas
+     propriedades e os riscos associados.
+
+No que se refere aos equipamentos e acessórios de movimentação
+de cargas, julgue os itens subsequentes.
+71 O espaço físico destinado aos corredores de uma área de
+   armazenagem deve ser definido sempre a partir da
+   disponibilidade de equipamento para movimentação dos
+   estoques, considerada a menor área para manobras.
+72 Guindastes, elevadores e talhas são equipamentos
+   disponíveis em ambiente de armazenagem para
+   movimentação de cargas.
+
+A respeito de logística internacional, julgue o item seguinte.
+73   O despacho aduaneiro de exportação consiste na
+     oficialização da comercialização por parte do país originário
+     da operação, o que caracteriza a desnacionalização do
+     produto.
+
+Com base na Lei n.º 14.133/2021 (Lei de Licitações e Contratos
+Administrativos), julgue os itens a seguir, relativos ao processo
+licitatório das entidades públicas.
+74 A contratação de bens e serviços especiais de engenharia é
+   feita por meio da modalidade de licitação denominada
+   concorrência, cujo critério de julgamento poderá ser, entre
+   outros, o menor preço ou o maior retorno econômico.
+75 Ato da administração pública pode alterar, de forma
+   unilateral, os contratos administrativos, com mudança nos
+   itens dos contratos e nos preços, quando houver modificação
+   do projeto ou de especificações, para melhor adequação
+   técnica a seus objetivos.
+
+Julgue os itens a seguir, acerca do tráfego urbano.
+76 A taxa de ocupação da via é calculada com base no
+   quociente entre a taxa do fluxo em determinado momento e o
+   respectivo fluxo de saturação de um grupo de movimentos.
+77 A implantação de semáforos em interseções viárias
+   justifica-se pelo descrédito dos usuários em relação à
+   sinalização realizada por outros meios, como faixas e placas
+   indicativas de parada obrigatória.
+78 A segurança viária para o pedestre em semáforos consiste em
+   andar normalmente durante a travessia da via enquanto o
+   sinal estiver verde e aumentar a velocidade das passadas
+   quando o sinal estiver amarelo e intermitente.
+79 Devido ao caráter dinâmico do trânsito, é necessária
+   avaliação periódica do desempenho da operação do tráfego e
+   de sua fluidez em decorrência da programação semafórica ou
+   em virtude de possível reprogramação.
+80   O fluxo de tráfego de veículos em uma via é determinado
+     pela contagem dos veículos que transitam em certa seção da
+     via durante determinado período.
+
+                    CEBRASPE – PETROBRAS – Edital: 2023
+Considerando os conceitos de tecnologias, logística 4.0,
+transformação digital, ERP e custos logísticos, julgue os
+próximos itens.
+81   O custo de estoque de matéria-prima é obtido pelo quociente
+     entre seus custos de armazenagem e os custos do pedido.
+82   O ERP (enterprise resource planning) é um sistema de
+     informação cujo propósito consiste em integrar e padronizar
+     os processos externos da organização para a gestão do
+     relacionamento com clientes e fornecedores.
+83   A introdução no mercado ou na empresa de um produto
+     (bem ou serviço) substancialmente aprimorado não é
+     considerada inovação tecnológica.
+84   O principal foco da logística 4.0 é a atualização de todo o
+     processo, desde o planejamento estratégico até os estoques,
+     por meio do emprego de tecnologias que otimizem o fluxo
+     de suprimento de matérias-primas, produtos semiacabados e
+     acabados, alinhados aos anseios do cliente.
+85   A empresa que desejar atuar no comércio eletrônico deve
+     utilizar intensivamente a tecnologia da informação bem
+     como deve estruturar estratégias eficientes no meio físico
+     com fornecedores e operadores logísticos.
+No que se refere ao transporte de cargas e produtos perigosos,
+julgue os itens a seguir, de acordo com a legislação vigente.
+86 O transporte de produtos perigosos não pode ser realizado
+   em motocicletas, salvo se disposto em contrário no
+   Código de Trânsito Brasileiro.
+87 É permitido o transporte de pessoas juntamente com cargas
+   perigosas, além da equipe auxiliar, desde que os indivíduos
+   transportados assumam formalmente os riscos envolvidos
+   durante o percurso.
+88 Produtos perigosos transportados em veículos classificados
+   como misto podem compartilhar com outros produtos o
+   espaço destinado a cargas.
+Em relação a deveres, obrigações e responsabilidades no
+transporte de cargas perigosas, julgue os próximos itens.
+89 A verificação da categoria da habilitação do motorista é
+   condição suficiente para que ele conduza veículo de
+   transporte de carga perigosa.
+90 O transportador que receba a carga perigosa lacrada ou seja
+   impedido, pelo expedidor, de acompanhar as operações de
+   carga fica desonerado, se comprovado o fato, da
+   responsabilidade      por     acidentes  causados      pelo
+   acondicionamento inadequado da carga.
+91 Ao alterar as condições de carregamento de produtos
+   perigosos para uma melhor otimização de espaço de carga, o
+   transportador assume as responsabilidades atribuídas ao
+   expedidor.
+A respeito dos cuidados preconizados na NR 11 — transporte,
+movimentação, armazenagem e manuseio de materiais —, julgue
+os itens seguintes.
+92 Em locais cujo acesso seja controlado e devidamente
+   justificado, o sinal de advertência sonoro em equipamentos
+   de transporte motorizado poderá ser dispensado pelo
+   profissional de segurança no trabalho.
+93 Os operadores de equipamentos de transporte motorizado
+   deverão ser habilitados e portar, durante o horário de
+   trabalho, cartão de identificação, com nome e fotografia, em
+   lugar visível.
+
+Considerando os conceitos de fogo, triângulo de fogo e formas de ign
+94 No início do fogo, o ponto de fulgor ocorre a uma temperatura
+95 Para que haja fogo e este se mantenha ativo, é necessário que
+    existam.
+96 Durante um incêndio em uma edificação, é possível que um a
+    começar a pegar fogo por convecção, devido a uma massa asce
+97 O oxigênio é o combustível mais comum na maioria dos incênd
+
+Julgue os itens a seguir, relativos à classificação de incêndios e a se
+98 A água pressurizada é o agente extintor mais adequado para co
+99 O pó químico extingue o fogo por reação química e abafamento
+100 A classe B de combustíveis engloba líquidos e gases combustív
+
+Espaço livre
+
+                      CEBRASPE – PETROBRAS – Edital: 2023
+
+nição, julgue os itens subsequentes.
+ maior que a do ponto de combustão.
+ pelo menos dois dos elementos que compõem o triângulo do fogo
+
+ mbiente sem ligação direta com outro que esteja em chamas possa
+endente aquecida de gases.
+dios.
+eu processo de extinção.
+ombater incêndios de classe C.
+ o, podendo ser utilizado em incêndios de classe B.
+veis.
+

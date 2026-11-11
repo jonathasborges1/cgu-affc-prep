@@ -1,0 +1,50 @@
+{"id":"v1-10-01","codigo":"P2·DIR 2","rel":"alta","motivo":"processo disciplinar e instrução"}
+{"id":"v1-10-02","codigo":"OUTRO","rel":"fora","motivo":"sigilo bancário"}
+{"id":"v1-10-03","codigo":"P2·AUD 1","rel":"media","motivo":"competência do controle interno de apurar"}
+{"id":"v1-10-04","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-10-05","codigo":"P2·TRANSP 5","rel":"baixa","motivo":"pluralismo de ideias"}
+{"id":"v1-10-06","codigo":"OUTRO","rel":"fora","motivo":"serviço social"}
+{"id":"v1-10-07","codigo":"OUTRO","rel":"fora","motivo":"administração"}
+{"id":"v1-10-08","codigo":"OUTRO","rel":"fora","motivo":"geoprocessamento"}
+{"id":"v1-10-09","codigo":"OUTRO","rel":"fora","motivo":"IA generativa"}
+{"id":"v1-10-10","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-10-11","codigo":"OUTRO","rel":"fora","motivo":"projetos"}
+{"id":"v1-10-12","codigo":"P2·GOV 1","rel":"baixa","motivo":"prestação de contas"}
+{"id":"v1-10-13","codigo":"OUTRO","rel":"fora","motivo":"auditoria contábil"}
+{"id":"v1-10-14","codigo":"P2·TRANSP 4","rel":"media","motivo":"consulta pública"}
+{"id":"v1-10-15","codigo":"P2·GOV 1","rel":"alta","motivo":"accountability"}
+{"id":"v1-10-16","codigo":"OUTRO","rel":"fora","motivo":"banco de dados"}
+{"id":"v1-10-17","codigo":"OUTRO","rel":"fora","motivo":"segurança"}
+{"id":"v1-10-18","codigo":"OUTRO","rel":"fora","motivo":"NIST"}
+{"id":"v1-10-19","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dado pessoal x sensível"}
+{"id":"v1-10-20","codigo":"OUTRO","rel":"fora","motivo":"BI"}
+{"id":"v1-10-21","codigo":"OUTRO","rel":"fora","motivo":"políticas de inovação"}
+{"id":"v1-10-22","codigo":"OUTRO","rel":"fora","motivo":"logística"}
+{"id":"v1-10-23","codigo":"P2·DIR 2","rel":"baixa","motivo":"sanção e defesa"}
+{"id":"v1-10-24","codigo":"P2·EVID 5","rel":"alta","motivo":"viés discriminatório e IA"}
+{"id":"v1-10-25","codigo":"OUTRO","rel":"fora","motivo":"portais"}
+{"id":"v1-10-26","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-10-27","codigo":"OUTRO","rel":"fora","motivo":"SWOT"}
+{"id":"v1-10-28","codigo":"P2·TRANSP 4","rel":"media","motivo":"consulta pública"}
+{"id":"v1-10-29","codigo":"P2·EVID 3","rel":"media","motivo":"amostragem e cadastro"}
+{"id":"v1-10-30","codigo":"OUTRO","rel":"fora","motivo":"PDPJ"}
+{"id":"v1-10-31","codigo":"OUTRO","rel":"fora","motivo":"interpretação de texto"}
+{"id":"v1-10-32","codigo":"P2·TRANSP 2","rel":"baixa","motivo":"fundamentos da LGPD"}
+{"id":"v1-10-33","codigo":"OUTRO","rel":"fora","motivo":"conflitos"}
+{"id":"v1-10-34","codigo":"OUTRO","rel":"fora","motivo":"criptografia"}
+{"id":"v1-10-35","codigo":"OUTRO","rel":"fora","motivo":"demografia"}
+{"id":"v1-10-36","codigo":"OUTRO","rel":"fora","motivo":"contratos"}
+{"id":"v1-10-37","codigo":"OUTRO","rel":"fora","motivo":"ISO 27005"}
+{"id":"v1-10-38","codigo":"OUTRO","rel":"fora","motivo":"PPA"}
+{"id":"v1-10-39","codigo":"OUTRO","rel":"fora","motivo":"ISO 27005"}
+{"id":"v1-10-40","codigo":"P2·EVID 3","rel":"baixa","motivo":"amostragem sistemática"}
+{"id":"v1-10-41","codigo":"OUTRO","rel":"fora","motivo":"penal"}
+{"id":"v1-10-42","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-10-43","codigo":"P2·AUD 4","rel":"alta","motivo":"relatório de auditoria governamental"}
+{"id":"v1-10-44","codigo":"OUTRO","rel":"fora","motivo":"portfólio"}
+{"id":"v1-10-45","codigo":"P2·GOV 1","rel":"alta","motivo":"governança no setor público"}
+{"id":"v1-10-46","codigo":"OUTRO","rel":"fora","motivo":"qualidade"}
+{"id":"v1-10-47","codigo":"OUTRO","rel":"fora","motivo":"planejamento estratégico"}
+{"id":"v1-10-48","codigo":"OUTRO","rel":"fora","motivo":"agenda 2030"}
+{"id":"v1-10-49","codigo":"P2·GOV 2","rel":"media","motivo":"tratamento de riscos"}
+{"id":"v1-10-50","codigo":"OUTRO","rel":"fora","motivo":"componentização"}

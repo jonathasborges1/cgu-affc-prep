@@ -1,0 +1,443 @@
+||281FUB_013_01N943377||
+
+CONHECIMENTO
+Acerca de estruturas do sistema operacional e de gerenciamento de
+processos e memória, julgue os itens a seguir.
+51
+
+Em se tratando de gerenciamento de memória embasado em
+mapa de bites, tal mapa tem tamanho inversamente
+proporcional ao tamanho da unidade de alocação.
+
+52
+
+Em um sistema operacional monolítico, todos os componentes
+necessários ao seu correto funcionamento são carregados no
+momento em que o computador é iniciado.
+
+53
+
+Em escalonamento de processos implementado a partir de
+algoritmo não preemptivo, um processo que esteja sendo
+executado com intervalo de tempo determinado é suspenso
+para que outro processo entre em execução.
+
+Com relação a sistemas de arquivos, memória virtual e sistemas de
+entrada e saída (E/S), julgue os seguintes itens.
+54
+
+Nas partições de disco em que não haja sistema operacional, o
+bloco de inicialização dá lugar a blocos de dados.
+
+55
+
+Embora um sistema de entrada e saída que use DMA reduza o
+número de interrupções e use hardware dedicado, em alguns
+casos pode ser mais vantajoso um sistema de E/S orientado a
+interrupção.
+
+56
+
+Nos sistemas de memória virtual que utilizam paginação, as
+páginas têm sempre o mesmo tamanho das molduras de página.
+
+57
+
+Nos sistemas de arquivos que utilizam i-nodes, os atributos de
+cada arquivo estão armazenados nas entradas do diretório.
+
+Acerca dos sistemas operacionais GNU/Linux e Windows, julgue
+os itens subsequentes.
+58
+
+O Windows 10 permite o acesso à Internet para a solução de
+problemas, mesmo tendo sido iniciado em modo de segurança.
+
+59
+
+Qualquer leitura feita em arquivos no GNU/Linux provoca
+uma operação de escrita que atualiza a informação atime do
+referido arquivo.
+
+Julgue os próximos itens, relativos à memória principal e à
+memória cache.
+60
+
+O tempo de transferência de dados entre a unidade central de
+processamento e a memória principal é determinado pela
+quantidade de bites transferidos.
+
+61
+
+Com o uso de memória cache, a velocidade de transferência
+entre ela e a unidade central de processamento é insuficiente
+para garantir o aumento de desempenho do sistema de
+computação.
+
+62
+
+Memória cache de nível 2 é aquela que está localizada na
+placa-mãe do computador e, portanto, externamente ao
+processador.
+
+63
+
+Em um sistema de computação, o barramento de dados é
+bidirecional e o barramento de endereços é unidirecional.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+OS ESPECÍFICOS
+No que diz respeito a arquitetura de processadores, memória
+secundária, barramentos de entrada e saída e arquiteturas
+RISC e CISC, julgue os próximos itens.
+64
+
+Os barramentos síncronos são aqueles de melhor desempenho
+quando usados entre dispositivos que tenham tempos de
+transferência distintos.
+
+65
+
+Nos processadores RISC, o processamento de chamadas de
+função é mais otimizado que nos processadores CISC.
+
+66
+
+Uma unidade de controle cujo projeto é embasado no controle
+por microprogramação através de microinstrução horizontal
+tem a possibilidade de iniciar várias micro-operações
+simultaneamente.
+
+67
+
+O tempo de acesso a dados armazenados no disco rígido é
+determinado pela soma do tempo de procura com o tempo de
+transferência do dado.
+
+Acerca de bases numéricas, aritmética computacional e sistema de
+computação, julgue os itens subsecutivos.
+68
+
+Considerando-se que o número subscrito indica a base na
+qual o número está escrito, é correto afirmar que
+10101011112 = 68710.
+
+69
+
+Na representação de complemento a 2, o maior número que
+pode ser representado em um conjunto de 16 bites é 32.768.
+
+70
+
+O controle de quando e do que deve ser feito pelos diversos
+componentes de um computador é realizado pela unidade
+central de processamento, por meio da sua unidade de controle.
+
+Acerca da arquitetura TCP/IP, julgue os itens a seguir.
+71
+
+O IP garante entrega dos pacotes, já que é um serviço
+orientado à conexão.
+
+72
+
+No caso do protocolo de aplicação HTTP, a entrega dos
+pacotes é confiável porque o HTTP utiliza o TCP para
+entregá-los.
+
+73
+
+O ICMP encontra-se na camada de enlace do modelo TCP/IP,
+sendo o protocolo utilizado para a realização de testes de
+conectividade em redes.
+
+Acerca de funcionamento de roteadores e processo de roteamento
+em si, julgue os itens subsequentes.
+74
+
+O roteador em que for utilizado um endereço classe C só
+poderá ter duas interfaces de rede.
+
+75
+
+A máscara de rede determina o tamanho e o fluxo dos pacotes
+na rede.
+
+76
+
+Um roteador considera o endereço IP de destino no cabeçalho
+IP para tomar decisões de roteamento.
+
+
+||281FUB_013_01N943377||
+
+Com relação a placas de vídeo modernas, julgue os próximos itens,
+acerca de GPU (graphics processing unit).
+77
+
+GPU corresponde ao tamanho em unidades da memória RAM
+para processamento gráfico na placa de vídeo.
+
+78
+
+O trabalho de uma GPU consiste em executar uma sequência
+de etapas relacionadas, entre outras, com a elaboração de
+elementos geométricos, aplicação de cores e inserção de
+efeitos.
+
+79
+
+Uma GPU reduz o uso do processador principal do
+computador relacionado às tarefas de geração e processamento
+de imagens.
+
+Com relação às principais diferenças entre portas paralelas e seriais,
+assim como ao seu uso, julgue os itens que se seguem.
+80
+
+A notação 8/N/1 em portas seriais determina que sejam
+transmitidos oito bites de dados, com paridade ímpar e um bite
+de CRC.
+
+81
+
+Uma porta paralela (DB-25) é formada por dezessete linhas de
+sinal e oito linhas ligadas ao terra.
+
+82
+
+Dispositivos RS-232 normalmente são classificados em DTE
+e DCE, o que permite definir quais fios em portas seriais irão
+enviar sinais de dados.
+
+Estruturas de pilhas, filas e árvores binárias são amplamente
+utilizadas para a construção de algoritmos e programas de
+computador. Acerca dessas estruturas, julgue os itens subsecutivos.
+83
+
+Uma estrutura do tipo árvore é considerada binária se e
+somente se um conjunto infinito de elementos denominados
+nós existir.
+
+84
+
+Nas estruturas de pilhas, a inserção de um novo item ou a
+remoção de um item já existente ocorre tanto na extremidade
+de baixo quanto no topo da pilha.
+
+85
+
+Em uma lista linear, a inserção de um elemento é feita em uma
+extremidade e a eliminação, na outra. Esse tipo de estrutura
+também é conhecida como FIFO (first in, first out).
+
+Julgue os itens seguintes, relativos a DNS (domain name system),
+que é amplamente utilizado na Internet para resolução de nomes.
+86
+
+Caso precise ser consultado em uma requisição DNS, um root
+server deverá indicar corretamente o servidor responsável por
+determinado domínio e seu endereço IP.
+
+87
+
+Sendo um sistema de nome centralizado e hierárquico, o DNS
+faz uso do protocolo WWW para resolver um nome em um
+endereço IP.
+
+88
+
+Registro DNS do tipo A (address) indica o endereço IP
+atribuído a determinado nome.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+Espaço livre
+
+
+||281FUB_013_01N943377||
+
+Ferramentas de firewall são amplamente utilizadas em redes de
+computadores, de maneira a permitir ou negar determinado fluxo de
+pacotes. Com relação a firewall convencional de rede, julgue os
+itens subsecutivos.
+89
+
+Ao verificar a porta de origem e de destino de um pacote do
+tipo UDP, o firewall fragmenta automaticamente pacotes UDP
+com a porta de origem 01 e de destino como 02, já que são
+portas utilizadas para controle de fluxo de pacotes de tempo
+real.
+
+90
+
+Um firewall é capaz de verificar tanto o endereço IP de origem
+quanto o endereço IP de destino em um pacote de rede.
+
+91
+
+Um firewall é incapaz de fazer roteamento.
+
+Memórias são utilizadas por computadores como recurso auxiliar
+para armazenamento de dados necessários ao processamento.
+Acerca dos tipos de memória volátil, julgue os seguintes itens.
+92
+
+Memórias do tipo SIMM de 30 vias ou 72 vias podem ser
+utilizadas em PCs padrão 386, 486 e Pentium.
+
+93
+
+DIMM (dual inline memory module) é um dos tipos de
+encapsulamento para memória DRAM. Por padrão, pentes de
+memória DIMM só possuem um tipo, denominados DDR.
+
+<script>
+var a1, a2, a3
+a1 = prompt("?:")
+a2 = prompt("?:")
+a3 = parseInt(a1) + parseInt(a2) // "+" soma
+alert("veja = " + a3) // "+" combina
+</script>
+
+Com base nesse trecho de código JavaScript, julgue os itens a
+seguir.
+94
+
+Ao se executar esse código em uma página HTML, serão
+exibidas duas caixas de entrada de dados e uma caixa de
+mensagem para o usuário.
+
+95
+
+Por ser um código JavaScript, o trecho em questão é executado
+do lado servidor.
+
+Acerca dos conceitos de análise e projeto de sistemas em
+engenharia de software, julgue os itens subsequentes.
+96
+
+O objetivo da tarefa de validação, realizada na etapa de análise
+de requisitos, consiste em assegurar que o software atenderá
+às necessidades levantadas pelo cliente.
+
+97
+
+Na atividade de levantamento de requisitos, as características
+de qualidade que o sistema deve possuir e que estão
+relacionadas às suas funcionalidades são denominadas
+requisitos funcionais.
+
+98
+
+Aspectos como arquitetura do sistema, linguagem da
+programação utilizada e padrão de interface gráfica são
+especificados na atividade de implementação do processo de
+desenvolvimento.
+
+99
+
+Os testes de integração servem para verificar se o sistema
+desenvolvido está em conformidade com os requisitos
+levantados.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+Em relação aos processos e às fases do ciclo de vida da biblioteca
+de gerenciamento de projetos ITIL, versão 3, julgue os itens a
+seguir.
+100
+
+O propósito da fase de transição de serviço é oferecer serviços
+que sejam necessários ao uso operacional do negócio.
+101 O processo de gerenciamento de segurança da informação está
+incluso nos processos de desenho de serviço.
+102 O gerente de demanda deve participar da elaboração de
+acordos de nível de serviço.
+103 No ciclo de desenho de serviço, cabe ao gerente do nível de
+serviço a produção e manutenção de um catálogo de serviços
+preciso.
+104 Após a investigação e detecção da origem de um problema, o
+processo de gerenciamento de incidentes deve ser focado na
+proposição de uma solução rápida, que pode ser uma solução
+de contorno.
+105 Os processos de gerenciamento de capacidade e avaliação de
+serviço fazem parte do ciclo de transição de serviço.
+A respeito das principais instruções da linguagem SQL, julgue os
+itens subsecutivos.
+106
+
+A instrução create
+
+assertion <nome-asserção>
+check <predicado> é utilizada para definir restrições de
+
+integridade.
+107 O operador BETWEEN-AND retornará verdadeiro se o valor da
+coluna na cláusula WHERE for maior ou igual ao primeiro valor
+e menor ou igual ao segundo valor.
+108 SELECT é uma instrução de controle de banco de dados que
+permite recuperar o conteúdo de uma ou mais tabelas.
+109 Em uma consulta SQL que contém as cláusulas WHERE e
+HAVING, a cláusula WHERE é aplicada às linhas no conjunto de
+resultados.
+Espaço livre
+
+
+||281FUB_013_01N943377||
+
+Considerando o diagrama precedente, que representa o modelo
+entidade-relacionamento de um sistema de aluguel de livros de uma
+repartição pública, julgue os itens que se seguem.
+110
+
+No modelo apresentado, um empréstimo contém vários itens,
+entretanto um item só pode estar contido em um único
+empréstimo.
+111 As entidades Usuário, Empréstimo e Livro são classificadas como
+fracas.
+112 O atributo marcado com um asterisco em cada tabela indica
+que aquela é a chave primária da tabela, sendo necessária a
+especificação do seu tipo naquele momento.
+113 Livro_Empréstimo é uma entidade associativa, composta
+pelas chaves das duas entidades principais, Livro e
+Empréstimo.
+Acerca dos conceitos de bancos de dados, julgue os itens seguintes.
+114
+
+Uma solução para evitar a redundância controlada de
+informações é o uso do compartilhamento de dados; dessa
+forma, cada informação é armazenada uma única vez.
+115 Em sistemas gerenciados de banco de dados, a independência
+dos dados refere-se à capacidade de modificar a estrutura
+lógica ou física do banco, sem a necessidade de uma
+reprogramação dos programas de aplicativos.
+116 Em um projeto de banco de dados, a modelagem conceitual
+define quais dados vão aparecer no banco de dados, mas sem
+considerar a sua implementação.
+A respeito dos conceitos de análise orientada a objetos em
+engenharia de software, julgue os seguintes itens.
+117
+
+Denomina-se polimorfismo o fato de duas ou mais classes de
+superclasses diferentes possuírem um método com a mesma
+assinatura, mas com comportamentos diferentes.
+118 O conjunto de valores das características de determinado
+objeto é denominado estado.
+119 Quando uma classe é subclasse de várias superclasses, mas
+somente herda características de uma classe, a herança é do
+tipo simples.
+120 Uma das vantagens de se utilizar encapsulamento em
+orientação a objetos é impedir o acesso direto aos atributos de
+um objeto.
+
+
+CESPE | CEBRASPE – FUB – Aplicação: 2016
+
+Espaço livre
+
+

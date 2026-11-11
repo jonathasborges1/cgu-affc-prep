@@ -1,0 +1,384 @@
+CEBRASPE – INPI – Edital: 2023
+
+-- CONHECIMENTOS ESPECÍFICOS -Ao comentar em uma rede social a respeito de
+informações veiculadas por um jornalista, certo internauta
+escreveu: “Ou o jornalista é muito mal informado ou age de
+má-fé. Em minha opinião, as duas coisas.”
+Com base no texto precedente e nos aspectos de lógica
+sentencial, julgue os itens seguintes.
+51 Sob o ponto de vista da lógica sentencial, a opinião do
+internauta manifesta no trecho “as duas coisas” é
+incompatível com o conectivo lógico empregado na fala
+anterior a esse trecho.
+52 A tabela-verdade associada à proposição “Ou o jornalista é
+muito mal informado ou age de má-fé” possui 4 linhas.
+53 A negação da proposição “Ou o jornalista é muito mal
+informado ou age de má-fé” pode ser corretamente expressa
+por “Ou o jornalista é muito bem informado ou age de
+boa-fé”.
+54 A proposição “Ou o jornalista é muito mal informado ou age
+de má-fé” é equivalente a “O jornalista é muito mal
+informado, mas não age de má-fé, ou age de má-fé, mas não
+é muito mal informado”.
+55 A negação da proposição “Ou o jornalista é muito mal
+informado ou age de má-fé” pode ser corretamente expressa
+por “O jornalista é muito mal informado se, e somente se,
+age de má-fé”.
+Érica: “Vocês estão felizes ou tristes?”
+Jorge: “Eu sou feliz, mas estou triste.”
+Luana: “Eu estou alegre, mas sou infeliz.”
+Carla: “Que triste, Luana!”
+Considerando os aspectos da lógica sentencial presentes no
+diálogo anterior e, ainda, que “estar triste” e “ser infeliz” sejam
+negações de “estar alegre” e “ser feliz”, respectivamente, julgue
+os próximos itens.
+56 A frase dita por Érica é uma proposição composta por
+disjunção.
+57 A frase dita por Jorge é uma proposição composta por
+conjunção.
+58 A frase dita por Carla é uma proposição simples.
+59 A frase dita por Luana é a negação da frase dita por Jorge.
+60 Do ponto de vista lógico, a frase dita por Jorge é equivalente
+a “não é verdade que eu sou infeliz ou estou alegre”.
+61 Considerando-se que a frase dita por Luana seja falsa,
+conclui-se que ela é feliz.
+P: “Como Carlos enfrentou resistência dos produtores locais,
+articulou e negociou o fornecimento com produtores de outros
+estados.”
+Considerando a proposição P precedente, julgue os próximos
+itens.
+62 A tabela-verdade associada à proposição P possui 16 linhas.
+63 A negação de P pode ser corretamente expressa por
+“Uma vez que não enfrentou resistência dos produtores
+locais, Carlos não negociou ou não articulou o fornecimento
+com produtores de outros estados.”.
+64 Sob o ponto de vista lógico, a proposição P pode ser escrita
+como “Uma vez que enfrentou resistência dos produtores
+locais, Carlos articulou e negociou o fornecimento com
+produtores de outros estados.”.
+65 A negação de P pode ser corretamente expressa por
+“Carlos enfrentou resistência dos produtores locais, mas não
+negociou ou não articulou o fornecimento com produtores de
+outros estados.”.
+
+Considerando que “todo médico sabe muito de biologia” e que
+“há médicos que são cardiologistas”, julgue os itens que se
+seguem.
+66
+
+Há quem saiba muito de biologia que é cardiologista.
+
+67
+
+Todo cardiologista sabe muito de biologia.
+Suponha que as seguintes sentenças são verdadeiras.
+
+I João é vascaíno ou Cláudia é flamenguista.
+II Antônio não é botafoguense.
+III Se Cláudia é flamenguista, então Antônio é botafoguense.
+Com base nessas sentenças, julgue os itens a seguir.
+68
+
+João é vascaíno.
+
+69
+
+Se Cláudia não é flamenguista, então João não é vascaíno.
+
+Considere que a seguinte sequência numérica, crescente e
+infinita, tenha sido criada com determinado padrão.
+5 9 17 33 65 129 257 (...)
+Com relação a essa sequência, julgue os próximos itens.
+70
+
+O primeiro termo da sequência com valor superior a 60.000
+é o 15..
+
+71
+
+O 9. termo da sequência é igual a 1.025.
+
+Um explorador encontrava-se em uma planície bastante
+grande e sem obstáculos quando decidiu, para chegar ao seu
+destino, caminhar, na sequência, 1 km para o norte, 3 km para o
+leste, 3 km para o sul, 1 km para o oeste e 1 km para o norte,
+apreciando as paisagens existentes.
+Nessa situação hipotética, para chegar ao seu destino e caminhar
+menos, o explorador poderia ter caminhado
+72
+
+2 km para o oeste e, na sequência, 1 km para o norte.
+
+73
+
+2 km para o sudeste.
+
+Com base no gráfico precedente, que mostra a relação entre a
+velocidade e a altitude de voo de um avião, julgue os seguintes
+itens.
+74
+
+Até atingir o valor máximo, a velocidade de voo aumentou
+em 1 km/h para cada acréscimo de 5 m na altitude.
+
+75
+
+A velocidade aumentou continuamente até que o avião
+atingisse a sua altitude máxima de voo.
+
+CEBRASPE – INPI – Edital: 2023
+
+Um colegiado de dez membros, responsável por dirimir
+conflitos de qualquer natureza, será dividido em duas turmas de
+cinco membros cada, ambas com igual autoridade para dirimir
+situações de conflito. Nenhum membro pode participar das duas
+turmas, e todos os membros têm igual função em cada turma.
+Sabe-se que, dos dez membros, André e Alex têm entre si
+inimizade notória, enquanto Luzia e Cristiano têm amizade
+íntima.
+Com base nessa situação hipotética, julgue os itens seguintes.
+76 Há menos de 50 maneiras distintas de se distribuírem os dez
+membros entre as duas turmas de modo que Luzia e
+Cristiano estejam ambos em uma mesma turma, mas André e
+Alex estejam em turmas diferentes.
+77 Há mais de 1.000 maneiras distintas de se distribuírem os
+dez membros entre as duas turmas.
+78 Se os membros forem distribuídos aleatoriamente entre as
+duas turmas, a probabilidade de que André, Alex, Luzia e
+Cristiano estejam todos em uma mesma turma será inferior a
+2,5%.
+79 Há mais de 50 maneiras distintas de se distribuírem os dez
+membros entre as duas turmas de modo que Luzia e
+Cristiano estejam ambos em uma mesma turma.
+80 Se uma situação de conflito for distribuída aleatoriamente
+entre as turmas, a probabilidade de o conflito vir a ser
+dirimido pela turma de que Luzia participe será de 10%.
+Na tabela a seguir, são apresentados dados relativos a
+depósitos de desenho industrial (DI), extraídos do Anuário
+Estatístico de Propriedade Industrial (PI) 2000-2019, do INPI. Os
+dados relativos a DI referem-se a todos os pedidos de depósito de
+desenhos industriais protocolados no INPI no ano de referência e
+inseridos na base de produção de PI até a data de extração.
+ano
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+
+depósitos de DI
+3.563
+3.732
+4.354
+5.104
+4.967
+5.209
+5.344
+5.323
+5.990
+5.237
+6.070
+6.889
+6.682
+6.847
+6.590
+6.038
+6.027
+6.000
+6.111
+6.432
+INPI, Assessoria de Assuntos Econômicos, BADEPI v7.0.
+Internet: <www.gov.br/inpi>.
+
+Acerca das informações presentes na tabela, julgue os itens
+seguintes.
+81 A série de depósitos de DI apresentada é amodal.
+82 A mediana da série de depósitos de DI apresentada
+corresponde à média aritmética simples das quantidades
+referentes aos anos de 2009 e 2010.
+83 A média das quantidades de depósitos de DI referentes aos
+anos de 2015 a 2019 é superior a 6.100.
+
+Se a quantidade de depósitos de DI no ano de 2020 for
+inferior a 6.200, então a média de depósitos referentes aos
+anos de 2015 a 2020 diminuirá em relação à média referente
+aos anos de 2015 a 2019.
+85 Utilizando-se como critério o desvio máximo, conclui-se que
+as quantidades de depósitos de DI referentes aos primeiros
+cinco anos da série apresentada são mais dispersas que
+aquelas referentes aos últimos cinco anos dessa série.
+86 O desvio padrão das quantidades de depósitos de DI
+referentes aos nos de 2017 a 2019 é superior a 190.
+84
+
+Marcos foi visitar uma cidade nova por dois dias. No
+primeiro dia, ele foi a uma hamburgueria, sentou-se em uma
+mesa na varanda e tomou refrigerante de guaraná. No segundo
+dia, a probabilidade de ele tomar refrigerante de guaraná é de
+60%, a probabilidade de ele retornar à hamburgueria é de 20% e,
+indo lá, a chance de ele sentar-se à mesma mesa é de 1/50.
+Em relação à situação hipotética apresentada, julgue os itens
+seguintes.
+A probabilidade de Marcos retornar à hamburgueria no
+segundo dia e sentar-se na mesma mesa é superior a 1%.
+88 A probabilidade de Marcos retornar à hamburgueria ou
+tomar refrigerante de guaraná é inferior a 70%.
+89 As informações apresentadas permitem inferir que a
+probabilidade de Marcos tomar, no segundo dia, refrigerante
+de algum sabor diferente do de guaraná é inferior a 20%.
+90 A probabilidade de Marcos retornar à hamburgueria no
+segundo dia, mas não se sentar à mesma mesa nem tomar
+refrigerante de guaraná é superior a 10%.
+87
+
+Em relação aos raciocínios falaciosos, julgue os itens seguintes.
+91
+
+Na entrevista a seguir, a resposta de Marcos é fundada em
+um raciocínio falacioso denominado falsa causa.
+
+Entrevistador: Marcos, você poderia nos contar de onde vem
+o seu sucesso pessoal e profissional?
+Marcos: Bem, é fácil! Não sou uma pessoa mesquinha,
+respeito meus pais, tenho consideração e estima pelos meus
+amigos, sou uma pessoa trabalhadora, tenho minhas crenças
+acerca do certo e do errado... É isso!
+92 No diálogo a seguir, o Professor recorre à sua autoridade de
+professor e especialista para justificar o seu raciocínio.
+Aluno: Professor, o que você acha do livro que acabou de ser
+lançado por Sicrano de Tal?
+Professor: Esse livro traz informações pouco aprofundadas
+sobre os temas que aborda e dessa caracterização inicial já se
+conclui que ele apresenta informações superficiais demais
+acerca do que se discute nele.
+93 O argumento a seguir é inválido devido à sua forma.
+Se eu não me alimentar bem, não consigo fazer os exercícios
+na academia.
+Não consegui fazer os exercícios na academia.
+Logo, eu não me alimentei bem.
+94 Quando um delegado formula a pergunta “Você continua
+furtando celulares e carteiras nos transportes públicos?”,
+tanto uma resposta “sim” quanto uma resposta “não” serão
+prejudiciais ao interrogado.
+
+CEBRASPE – INPI – Edital: 2023
+95
+
+No diálogo a seguir, fica claro, na resposta de Beto, um
+apelo à ignorância usado por ele para desqualificar a
+sugestão de André.
+André: Beto, eu sugiro que você pratique alguma atividade
+física para sua vida ser mais saudável.
+Beto: Nunca vi você fazer atividade física alguma, André!
+Você só vive dentro de casa e sentado na frente do
+computador! Quem é você para sugerir que eu faça atividade
+física? Quero não! Obrigado.
+
+Em relação à propriedade industrial e aos direitos autorais, julgue
+os itens a seguir.
+A proteção de uma obra intelectual, ao contrário da proteção
+de uma marca, não está condicionada a prévio registro.
+97 O direito de propriedade industrial e o autoral são vitalícios.
+96
+
+98
+
+Os direitos autorais e a propriedade industrial são
+considerados bens móveis.
+
+A respeito de aspectos atinentes à marca, observada a Lei
+n.º 9.279/1996, julgue os itens subsecutivos.
+99
+
+O registro de marcas somente pode ser requerido por
+particulares, sejam pessoas físicas, sejam pessoas jurídicas.
+
+100 Monumentos oficiais públicos, nacionais ou estrangeiros,
+
+não podem ser registrados como marcas.
+101 O pedido de registro de marca pode referir-se a mais de um
+
+sinal distintivo.
+102 O pedido de registro de marca comporta oposição, a qual
+
+deverá ser apresentada dentro de sessenta dias.
+103 É viável o registro de uma marca que reproduza, por
+
+exemplo, uma cédula de cinquenta reais.
+104 No caso de marca coletiva, o pedido de registro deverá
+
+conter, obrigatoriamente, regulamento de utilização que
+verse sobre condições e proibições de uso da marca.
+105 O contrato de licença de uso de uma marca produz efeitos
+perante terceiros a partir da celebração do negócio,
+independentemente de registro no INPI.
+106 A cessão de uma marca deve ser anotada pelo INPI, com a
+qualificação completa do cessionário.
+Em relação ao INPI, julgue os próximos itens.
+107 O INPI é uma autarquia federal vinculada ao Ministério da
+
+Fazenda, à qual é atribuída competência para a concessão e a
+garantia dos direitos de propriedade industrial.
+108 De acordo com seu organograma, o INPI é composto de
+quatro diretorias: executiva, de administração, de patentes e
+de marcas.
+109 Compete ao presidente da República nomear o presidente do
+INPI, ao passo que os diretores serão nomeados pelo titular
+do ministério ao qual o instituto está vinculado.
+110 A diretoria de administração geral do INPI tem por
+atribuição a supervisão das atividades de recursos humanos,
+de serviços gerais, de patrimônio, de contabilidade e de
+finanças.
+111 O diretor de marcas do INPI é a autoridade responsável para
+dar a decisão final em processo administrativo de nulidade
+de marcas.
+
+Julgue os itens que se seguem, a respeito de direitos e obrigações
+relativos à propriedade industrial, levando em conta o direito de
+marca, observada a Lei n.º 9.279/1996.
+112 A marca de certificação não se confunde com a marca do
+produto, estando aquela adstrita à compatibilidade do
+produto ou serviço com determinadas normas ou
+especificações técnicas.
+113 A marca notoriamente conhecida no respectivo ramo de
+atividade gozará de proteção especial, desde que esteja
+previamente depositada ou registrada no Brasil.
+114 É vedado ao INPI, no âmbito da análise do registro de
+marcas, indeferir o pedido sem prévia audiência da parte
+requerente.
+115 É dever do titular da marca zelar pela integridade e reputação
+desta, sendo a ele facultado impedir a citação da marca em
+publicação que não tenha conotação comercial, a exemplo de
+obras científicas ou literárias.
+116 A prorrogação do registro da marca somente poderá ser
+formalizada até o termo final da vigência do registro.
+117 É válido o licenciamento do uso da marca, hipótese na qual o
+licenciado poderá gozar dos mesmos poderes do titular para
+agir em defesa da marca.
+118 O desuso da marca por mais de cinco anos consecutivos
+implica a caducidade desta, extinguindo-se o respectivo
+registro, a menos que o titular justifique a interrupção do uso
+da marca por razões legítimas.
+119 A extinção do registro da marca ensejará o prejuízo do
+processo de nulidade que já tiver sido iniciado.
+120 A declaração de nulidade do registro de marca pode ser total
+ou parcial, gerando efeitos desde a data do depósito do
+pedido de registro, e não do deferimento deste último.
+Espaço livre
+
+

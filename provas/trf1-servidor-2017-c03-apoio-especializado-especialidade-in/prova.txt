@@ -1,0 +1,486 @@
+||355_TRF1_003_01N690708||
+
+
+                                      CONHECIMENTO
+
+
+
+
+Tendo como base o diagrama de entidade e relacionamento
+precedente, julgue o item a seguir.
+
+51   Os comandos DDL abaixo permitem criar as tabelas do diagrama.
+
+     CREATE TABLE tbldepartamento
+     (
+       codigo_departamento integer NOT NULL,
+       nome_departamento character varying(100),
+       chefe_departamento integer,
+       CONSTRAINT departamento_pkey PRIMARY KEY
+     (codigo_departamento),
+        CONSTRAINT departamento_chefe_fkey foreign
+     key (chefe_departamento) references
+     tblprofessor
+     );
+
+     CREATE TABLE tblprofessor
+     (
+       codigo_professor integer NOT NULL,
+       nome_professor character varying(100),
+       codigo_departamento integer,
+        CONSTRAINT professor_primarykey PRIMARY KEY
+     (codigo_professor),
+           CONSTRAINT   professor_departamento_fkey
+     foreign key (codigo_departamento) references
+     tbldepartamento
+     );
+Acerca de estrutura de dados, julgue o próximo item.
+
+52   A fila é uma lista de elementos em que os itens são sempre
+     inseridos em uma das extremidades e excluídos da outra.
+A respeito dos algoritmos de classificação, julgue o item a seguir.
+
+53   No pior caso, quando o vetor está inversamente ordenado, o
+     algoritmo booble sort executa n2 operações para a
+     ordenação de um vetor de n elementos.
+Julgue os itens seguintes, relativos ao banco de dados Oracle.
+
+54   Em Oracle PL/SQL, a declaração CONSTANT não pode impor
+     a restrição NOT NULL.
+55   AWR (automatic workload repository) é um repositório de
+     informações de estatísticas de desempenho que possibilita a
+     detecção de problemas.
+
+                 CESPE | CEBRASPE – TRF1 – Aplicação: 2017
+
+
+OS ESPECÍFICOS
+ Considerando o SGBD Postgresql, julgue o próximo item.
+ 56   Após a execução do trecho de código SQL a seguir, a tabela
+      tbl_conceito não será criada.
+
+      begin;
+        savepoint primeiro;
+        create table tbl_conceito (id int, nome
+      varchar);
+        rollback to savepoint primeiro;
+      commit;
+ Acerca dos conceitos de árvores e grafos, julgue os itens que se
+ seguem.
+ 57   A soma dos graus de todos os vértices de um grafo é sempre
+      par.
+ 58   A árvore representada abaixo tem grau 3.
+
+
+
+
+ A respeito dos conceitos de banco de dados, normalização, controle
+ de concorrência e modelagem, julgue os itens subsecutivos.
+ 59   Atomicidade é a propriedade que garante que as transações não
+      sejam afetadas pelo funcionamento umas das outras nem
+      tenham acesso aos resultados parciais entre si.
+ 60   Em uma tabela na segunda forma normal, todos os atributos
+      não chave são dependentes da chave primária.
+ protected String VAR1 =
+    "oracle.jdbc.driver.OracleDriver";
+ protected String VAR2 =
+    "jdbc:oracle:thin:@localhost:1521:ORADB1";
+ protected String VAR3 = "USER";
+ protected String VAR4 = "PASS123";
+ Considerando o trecho de código precedente, com a definição de
+ algumas variáveis, julgue os itens a seguir.
+ 61   De acordo com a definição das variáveis, o trecho de código a
+      seguir permite uma conexão ao banco de dados em questão,
+      sem gerar nenhum tipo de erro.
+      .
+      .
+      .
+      try {
+         Class.forName(VAR1);
+         conn = DriverManager.getConnection(VAR1,
+      VAR3, VAR4);
+      .
+      .
+      .
+
+ 62   O parâmetro de localhost aponta para o endereço
+      loopback da estação em questão e a porta 1521 está
+      relacionada com o listener do SGBD Oracle.
+
+||355_TRF1_003_01N690708||
+
+function evaluate($P, $Q) {
+ return $P <=> Q;
+}
+
+evaluate(7, 6);
+
+
+Considerando o trecho de código apresentado, em PHP 7, julgue os
+itens seguintes.
+
+63   A substituição de evaluate(7, 6); por evaluate(6, 7);
+     gera erro, porque, quando se utiliza evaluate, o primeiro
+     operador deve ser maior que o segundo.
+64   Ao se executar o código, o resultado de evaluate(7, 6);
+     será 1.
+
+Com relação a sistemas operacionais, julgue os itens a seguir.
+
+65   O início de uma tarefa em lote é um tipo de evento que faz que
+     o sistema operacional crie processos.
+66   Na técnica denominada escalonamento de processos, o sistema
+     operacional mantém parte do espaço de endereçamento de um
+     processo na memória principal e parte em dispositivo de
+     armazenamento secundário, realizando trocas de trechos de
+     código e de dados entre eles, de acordo com a necessidade.
+
+A respeito de redes de computadores, julgue os itens seguintes.
+
+67   Considerar comprometido o certificado digital da autoridade
+     certificadora é uma das razões para a revogação de um
+     certificado digital de usuário antes da sua data de expiração.
+68   No padrão Ethernet, após detectar e sinalizar uma colisão, o
+     método CSMA/CD determina que a estação que deseja
+     transmitir espere por um tempo aleatório, conhecido como
+     backoff, e, em seguida, tente realizar a transmissão novamente.
+69   Diferentemente da topologia em estrela, em que cada enlace
+     físico de transmissão conecta apenas dois dispositivos, a
+     topologia em anel tem uma configuração multiponto, por meio
+     da qual cada enlace físico pode conectar vários pontos.
+70   No padrão IEEE 802.11n, o suporte à tecnologia MIMO
+     potencializa a velocidade de transmissão da camada física e
+     reduz problemas decorrentes do efeito destrutivo da
+     interferência por multicaminho.
+71   As bridges conectam redes locais de mesma tecnologia,
+     estendendo o domínio de difusão e permitindo a transmissão,
+     entre segmentos, de frames íntegros, de frames com erros e de
+     frames cujo comprimento não esteja especificado no protocolo
+     LAN vigente.
+72   No modelo de referência OSI, cabe ao nível de sessão realizar
+     transformações, tais como compressão e criptografia, nos
+     dados.
+
+                 CESPE | CEBRASPE – TRF1 – Aplicação: 2017
+
+Acerca de serviços encontrados em infraestrutura de informação,
+julgue os itens subsequentes.
+73   A segurança integrada em um modelo de computação em
+     nuvem SaaS é de responsabilidade do fornecedor do serviço,
+     cabendo ao cliente exigir que os termos da segurança adequada
+     ao seu negócio estejam estabelecidos em acordo de nível de
+     serviço.
+74   Uma organização que prioriza a eficiência e a otimização no
+     uso do espaço de armazenamento dos becapes de dados deve
+     adotar estratégias embasadas em becapes completos e em
+     becapes diferenciais combinados.
+         A seguir são apresentados três itens extraídos de um
+relatório preparado por uma empresa de consultoria a respeito da
+governança de tecnologia de informação (TI) de uma organização.
+I    A organização carece de um processo para transformar a
+     estratégia do negócio em estratégias e ações de TI que
+     garantam que os objetivos sejam apoiados.
+II   Faz-se necessário elaborar um documento formal, produto da
+     fase de alinhamento estratégico, que esteja alinhado ao modelo
+     de governança proposto pela organização, bem como aos seus
+     objetivos e às suas estratégias.
+III Embora o planejamento estratégico da organização disponha
+    que se deve garantir a transparência para as partes interessadas,
+    foi identificada a necessidade de implantar ações que visem
+    atingir esse objetivo.
+Considerando essa situação hipotética, julgue os próximos itens.
+75   O item I trata essencialmente da falta de um alinhamento
+     estratégico na organização, que pode ser realizado com ou sem
+     um plano estratégico de negócio formal.
+76   O item II trata essencialmente da falta do plano de TI, principal
+     produto da fase de alinhamento estratégico, considerado um
+     dos planos funcionais cujos projetos e serviços são derivados
+     e alinhados à estratégia da organização.
+77   As ações citadas no item III podem ser realizadas com base no
+     processo chamado “garantir a transparência para as partes
+     interessadas” do domínio governança do COBIT 5, que trata,
+     entre outros aspectos, da medição e dos relatórios de
+     desempenho da TI corporativa para os stakeholders aprovarem
+     metas e ações corretivas necessárias.
+         A seguir são apresentados três itens extraídos de um
+relatório elaborado por uma empresa de consultoria, acerca da
+gestão de serviços de TI e da gestão de projetos em uma
+organização.
+I    De acordo com o manual de serviços de TI da organização,
+     o termo de abertura é usado para descrever os detalhes para um
+     novo acordo com a fase de estratégia de serviço (da ITIL).
+II   Há necessidade de implantar um processo que seja responsável
+     por gerenciar o ciclo de vida das ações concernentes à garantia
+     de que a operação normal de um serviço seja restaurada tão
+     rapidamente quanto possível e que o impacto no negócio seja
+     minimizado.
+III A organização possui um ambiente em rápida mutação, sendo
+    difícil a definição antecipada dos requisitos e do escopo dos
+    projetos.
+A respeito dessa situação hipotética, julgue os itens a seguir.
+78   O termo de abertura mencionado no item I não pode ser
+     utilizado para criação de um novo serviço de acordo com o
+     ITIL v3, haja vista ser um documento para iniciar projetos
+     segundo o PMBOK 5.
+79   Infere-se do item III que se podem utilizar, de acordo com o
+     PMBOK 5, ciclos de vida adaptativos ou utilizadores de
+     métodos ágeis projetados para reagir a altos níveis de mudança
+     e ao envolvimento contínuo das partes interessadas.
+
+||355_TRF1_003_01N690708||
+
+80   O item II pode ser atendido com a implantação em conjunto do
+     gerenciamento de incidentes da operação de serviços do ITIL
+     v3 e com a área de conhecimento gerenciamento do tempo do
+     projeto do PMBOK.
+
+         A seguir são apresentados três itens extraídos de um
+relatório elaborado por uma empresa de consultoria, acerca da
+qualidade de software e de contratações de soluções de TI e gestão
+de projetos em uma organização.
+
+I    Para melhoria da qualidade do software da organização,
+     é necessário implantar um processo para confirmar que o
+     produto de trabalho do processo ou do projeto atende
+     apropriadamente os requisitos especificados.
+
+II   A organização implantou os dois processos necessários para se
+     atingir o nível de maturidade G — Parcialmente Gerenciado —
+     do MPS.BR.
+
+III A contratação de empresa terceirizada para auxiliar a
+    implantação do MPS.BR na organização foi realizada mediante
+    a métrica homem-hora.
+
+Tendo como referência essa situação hipotética, julgue os itens
+seguintes.
+
+81   Para se atender ao item I, podem-se utilizar tanto o processo
+     verificação do MPS.BR quanto os subsídios encontrados na
+     área do processo verificação do CMMI.
+82   Infere-se do item II que a organização já atingiu
+     necessariamente o nível de maturidade 2 — Gerenciado — do
+     CMMI.
+83   À luz da Instrução Normativa MP/SLTI n.o 4/2014, o item III
+     é ilegal, uma vez que é absoluta a proibição de se adotar a
+     métrica homem-hora ou equivalente para aferição de esforço.
+
+A respeito da gestão de segurança da informação, julgue os itens
+subsequentes.
+
+84   Em um acesso a sistemas e aplicações mediante log-on,
+     recomenda-se que, caso ocorra uma condição de erro,
+     o sistema não informe qual parte do dado de entrada está
+     correta ou incorreta.
+85   Recomenda-se que os controles de acesso de ambientes lógico
+     e físico sejam considerados de forma separada.
+86   Os ativos mantidos no inventário da empresa podem ter um
+     proprietário, que pode ser um indivíduo ou uma entidade.
+87   Na classificação e rotulação de ativos de informação,
+     os rótulos utilizados devem ser de difícil reconhecimento, com
+     o objetivo de dificultar seu roubo por pessoas internas e
+     externas à organização.
+88   A fim de melhorar a interoperabilidade de dados, as
+     informações compartilhadas entre organizações devem manter
+     a mesma classificação e rotulação.
+
+                 CESPE | CEBRASPE – TRF1 – Aplicação: 2017
+
+Julgue os itens subsecutivos com relação à norma ABNT NBR ISO
+27005, que fornece diretrizes para o processo de gestão de riscos de
+segurança da informação (GRSI) de uma organização.
+
+89   As opções para tratamento do risco de segurança da
+     informação — modificação do risco, retenção do risco, ação de
+     evitar o risco e compartilhamento do risco — não são
+     mutuamente exclusivas.
+90   Na fase executar são realizadas ações que incluem a
+     reaplicação do processo de GRSI.
+91   Entre os ativos de suporte e infraestrutura incluem-se os
+     recursos humanos, as instalações físicas e a estrutura da
+     organização.
+92   A qualidade e a exatidão do processo de análise quantitativa de
+     riscos estão relacionadas à disponibilidade de dados históricos
+     e auditáveis.
+Text 3A5AAA
+
+ 1             The corruption of trust after a mass credentials breach
+     — along with the opacity of the correction process — can
+     permanently alter market share and even entire industries.
+ 4   Public trust has never been at such a premium, and the stakes
+     are high for enterprise organizations to offer transparency,
+     clarity and efficiency.
+ 7             Undeniably, authentication requires game-changing
+     transparency and ease of solution today to prepare for the scale
+     of transformation tomorrow. Many of us charged with seeing
+10   around corners are only beginning to perceive the coming sea
+     change in security, amplified by the internet of things (IoT) and
+     all its conveniences and inevitable uses. The industry must lay
+13   a new foundation of trust for administrators and end users
+     alike. The time has come to realize that cyber security is no
+     longer just a technology issue, it is a business one too.
+16             Our brave new world (private and public) has opened
+     two-way paths between personal, sensitive data and access to
+     it on mobile phones, tablets and laptops. To use an analogy,
+19   individuals today carry their keys, driver’s licenses and credit
+     cards on their person everywhere they go. No one would
+     volunteer to leave them in a storage unit with a hundred of
+22   other IDs, credit cards and keys. Yet this happens every minute
+     of every day with personal credentials. As evidence of
+     criminals feeding on this untenable situation, reports show 81%
+25   of intentional data breaches are credentials-based.
+                                            Internet: <www.forbes.com> (adapted).
+
+
+
+According to the text 3A5AAA, judge the following items.
+
+93   Nowadays mass credentials breaches should be considered
+     both a technology and a business issue.
+94   The pronoun “this” (R.22) refers to the practice of keeping
+     personal documents in a safe place.
+95   The internet of things (IoT) makes enterprises more susceptible
+     to security threats.
+96   In the context, the expression “seeing around corners”
+     (R. 9 and 10) means being suspicious.
+
+||355_TRF1_003_01N690708||
+
+Acerca dos direitos e deveres e da remuneração de servidores
+públicos, julgue os itens a seguir.
+97    A administração pública poderá determinar o desconto na
+      remuneração do servidor correspondente aos dias não
+      trabalhados no caso de greve deflagrada em razão de atraso no
+      pagamento de salários.
+98    Servidores públicos que paralisem suas atividades por trinta e
+      um dias consecutivos em razão de adesão a movimento
+      grevista, mesmo com o cumprimento das devidas formalidades
+      legais relativas à greve, poderão ser demitidos por abandono
+      de cargo, desde que respeitados os princípios do devido
+      processo legal e da ampla defesa.
+99    Em casos excepcionais, o reajuste da remuneração de
+      servidores públicos poderá ser fixado por meio de decreto do
+      presidente da República.
+Com relação a licitações e contratos administrativos, organização
+administrativa, controle da administração pública e processo
+administrativo, julgue os próximos itens.
+100   Oficial de justiça que receba dinheiro de advogado para dar
+      cumprimento preferencial a uma determinação judicial em
+      detrimento de outras terá praticado, conforme a Lei de
+      Improbidade Administrativa, ato de improbidade que importa
+      enriquecimento ilícito.
+101   Indivíduo que tenha trabalhado na estrutura decisória de
+      partido político, vinte e quatro meses após o seu desligamento
+      dessa atividade poderá ser indicado como membro do conselho
+      de administração de empresa estatal.
+102   A sessão pública promovida por determinado ministério para
+      debater alterações no marco regulatório do setor, com o
+      objetivo de conhecer, por meio oral, as opiniões de pessoas e
+      de entidades sobre o tema, de acordo com a legislação
+      pertinente, é denominada consulta pública.
+103   O procedimento licitatório para a construção de hospitais
+      universitários integrantes do SUS poderá seguir as regras do
+      regime diferenciado de contratação.
+          Alguns meses após a assinatura de contrato de concessão
+de geração e transmissão de energia elétrica, a falta de chuvas
+comprometeu o nível dos reservatórios, o que deteriorou as
+condições de geração de energia, elevando os custos da
+concessionária. A agência reguladora promoveu, então, alterações
+tarifárias visando restabelecer o equilíbrio econômico-financeiro
+firmado no contrato. Todavia, sem que houvesse culpa ou dolo da
+concessionária, o fornecimento do serviço passou a ser intermitente,
+o que provocou danos em eletrodomésticos de usuários de energia
+elétrica.
+Considerando essa situação hipotética, julgue os itens que se
+seguem.
+104   A alteração tarifária promovida pela agência reguladora é
+      exemplo de exercício do poder hierárquico da agência sobre as
+      concessionárias.
+105   A agência reguladora agiu ilegalmente: a falta de chuvas não
+      constitui evento extraordinário ou imprevisível a ensejar o
+      reequilíbrio econômico-financeiro firmado no contrato.
+106   A concessionária deverá ser responsabilizada pelos danos
+      causados a usuários.
+
+                 CESPE | CEBRASPE – TRF1 – Aplicação: 2017
+
+Em cada um dos itens seguintes é apresentada uma situação
+hipotética, seguida de uma assertiva a ser julgada considerando-se
+os princípios que regem o direito administrativo e o regime jurídico
+das entidades paraestatais e do terceiro setor.
+
+107   Sérgio foi reprovado em concurso público, mas, por força de
+      decisão liminar obteve sua nomeação e tomou posse no cargo
+      pretendido. Seis anos depois, a medida foi revogada por
+      decisão judicial definitiva e Sérgio foi exonerado pela
+      administração. Nessa situação, ao exonerar Sérgio a
+      administração violou o princípio da proteção da confiança
+      legítima.
+108   André integra a diretoria de uma organização de sociedade
+      civil de interesse público e foi nomeado para ocupar cargo
+      público efetivo. Nessa situação, de acordo com a legislação
+      vigente, André poderá continuar integrando a diretoria da
+      entidade mesmo após tomar posse no cargo público.
+Em relação à eficácia das normas constitucionais, aos direitos
+e garantias fundamentais e às disposições gerais constitucionais
+sobre os servidores públicos, julgue os itens a seguir.
+
+109   A Constituição Federal, ao prever, de forma exaustiva, os
+      direitos e garantias fundamentais dos indivíduos, faz que sejam
+      desconsiderados outros direitos humanos, mesmo que estejam
+      previstos em tratados internacionais dos quais o Brasil seja
+      parte.
+110   A redução dos riscos inerentes ao trabalho, por meio da
+      implementação de normas de saúde, higiene e segurança,
+      é direito dos trabalhadores em geral, sendo aplicável também
+      aos servidores ocupantes de cargos públicos.
+111   Servidor público poderá acumular o seu cargo público com
+      emprego público remunerado vinculado a sociedade de
+      economia mista.
+112   As normas de eficácia limitada apresentam aplicabilidade
+      indireta, mediata e reduzida, tendo eficácia somente depois que
+      normativa posterior lhes garanta aplicabilidade.
+A respeito do Poder Judiciário e das funções essenciais à justiça,
+julgue os itens que se seguem.
+
+113   Os juízes adquirem vitaliciedade após dois anos de exercício;
+      esse direito não depende de participação em curso oficial ou
+      em curso reconhecido por escola nacional de formação e
+      aperfeiçoamento de magistrados.
+114   Os pagamentos devidos pelas fazendas públicas dos entes
+      federados, em virtude de sentença judiciária, deverão ser
+      efetuados exclusivamente na ordem cronológica de
+      apresentação dos precatórios; são de natureza administrativa as
+      decisões dos tribunais proferidas no cumprimento dos
+      precatórios judiciais.
+115   O ato de vitaliciamento de membro do Ministério Público, por
+      ter natureza de ato administrativo, está sujeito ao controle de
+      legalidade pelo Conselho Nacional do Ministério Público.
+116   A competência do Conselho Nacional de Justiça para apurar
+      violações aos deveres funcionais se aplica apenas aos
+      servidores do Poder Judiciário; ela não alcança os magistrados,
+      pois, se assim não fosse, caracterizaria afronta à independência
+      funcional.
+
+||355_TRF1_003_01N690708||
+
+Com relação aos Poderes Legislativo e Executivo, julgue os seguint
+117   Independentemente de lei, o presidente da República pode, por
+118   O controle externo a cargo do Congresso Nacional é exercido co
+      de natureza jurisdicional, de julgar as contas dos administrador
+119   Nas situações de relevância e urgência, o chefe do Poder Exec
+      relativa à organização do Poder Judiciário.
+120   Lei estadual, de iniciativa parlamentar, que crie atribuiçõe
+      inconstitucional por vício de iniciativa.
+Espaço livre
+
+                  CESPE | CEBRASPE – TRF1 – Aplicação: 2017
+
+tes itens.
+r decreto, dispor sobre a extinção de cargo público vago.
+om o auxílio do Tribunal de Contas da União, que possui a atribuição,
+res e demais responsáveis pela gestão do dinheiro público.
+cutivo federal poderá editar medida provisória que trate de matéria
+
+es para determinada secretaria do estado, deverá ser declarada
+

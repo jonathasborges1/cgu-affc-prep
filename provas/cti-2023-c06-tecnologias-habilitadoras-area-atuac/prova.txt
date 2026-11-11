@@ -1,0 +1,319 @@
+                                 -- CONHECIMENTO
+Em relação às tecnologias para a indústria 4.0, julgue os itens
+a seguir.
+51 Uma das vantagens da indústria 4.0 é a redução da
+   necessidade de armazenamento dos dados gerados em uma
+   planta industrial, pelo processamento existente nos
+   dispositivos atuais de controle e automação.
+52 A conectividade presente na indústria 4.0 requer o
+   desenvolvimento de soluções de cyber segurança para a
+   proteção de dados e segredos industriais, anteriormente
+   protegidos pelo isolamento geográfico e restrições de acesso
+   às plantas industriais.
+53   Na indústria 4.0, os equipamentos e processos automatizados
+     trabalham em separado do banco de dados.
+54   Uma indústria que deseje operar no formato 4.0 deve possuir
+     diversos bancos de dados.
+
+Julgue os itens subsequentes, que versam acerca de sistemas
+operacionais.
+55 Por permitir a identificação de cada usuário que se conecte a
+   ele, um sistema operacional possibilita que processos
+   executados por usuários sejam interrompidos sem afetar as
+   tarefas de outros usuários.
+56 Em um sistema multithread, partes distintas de um mesmo
+   processo são executadas ao mesmo tempo.
+57 Uma thread que busca informações armazenadas na
+   memória secundária deve enviar ao sistema operacional uma
+   solicitação contendo o tipo de operação a ser realizada e um
+   identificador do arquivo, não sendo necessário fornecer o
+   endereço de memória onde o arquivo deverá ser armazenado,
+   nem a quantidade de dados a ser transferida.
+58 Caso não exista espaço suficiente na RAM, os sistemas
+   operacionais utilizam a memória virtual, realocando dados
+   da memória principal para a memória secundária.
+
+Em relação às características da tecnologia IoT (Internet das
+coisas), julgue os itens que se seguem.
+59 Pode-se utilizar IoT em prateleiras inteligentes para controle
+   de estoque, com sensores de peso ou identificadores por
+   radiofrequência, para a solicitação de reposição automática
+   de produtos.
+60 A utilização de inteligência artificial conversacional
+   possibilita o uso de dispositivos IoT em ambiente doméstico.
+61 Com a utilização de dispositivos e sensores IoT, é possível
+   realizar correções de parâmetros de máquinas, remotamente,
+   por meio de aplicações conectadas à nuvem.
+62   As aplicações de IoT utilizam algoritmos de aprendizado de
+     máquina para analisar grandes quantidades de dados de
+     sensores conectados em nuvem.
+
+Julgue os itens subsecutivos, a respeito da linguagem Python.
+63 Python é uma linguagem multiplataforma com programação
+   estrutural.
+64 São vantagens da linguagem Python: o grande número de
+   palavras-chave associadas com compilação e um coletor de
+   lixo para gerenciar automaticamente o uso de memória.
+
+                                CEBRASPE – CTI – Edital: 2023
+
+OS ESPECÍFICOS --
+ aluno1 = “Maria”
+ 2aluno = “Jose”
+ nota final = 9.50
+ aprovado = True
+ Com base no trecho de código precedente, escrito em Python,
+ julgue os próximos itens.
+ 65   A variável de nome 2aluno está sintaticamente incorreta;
+      ela deve ser nomeada como aluno2 para que o comando
+      fique declarado de forma correta.
+ 66   A variável de nome         nota     final     está declarada
+      corretamente.
+ #define PI 3.14159
+
+ Struct CalculoCircunf{
+    private:
+       int raio;
+       int circunf;
+       int fcalcula (){
+            circunf = 2*PI*raio;
+            return circunf;
+       }
+ };
+
+ int main (){
+      CalculoCircunf p;
+      printf(“%d”, p.fcalcula( ) );
+      return 0;
+ }
+ Com base no código precedente, escrito em C++, julgue os itens
+ a seguir.
+ 67   O comando CalculoCircunf p; cria um objeto do tipo
+      CalculoCircunf.
+ 68   Caso seja corretamente executado, o código apresentará na
+      tela o valor armazenado na variável circunf.
+ 69   Em C++ é obrigatória a definição de pelo menos uma função
+      main, que marca o ponto de início de execução do programa.
+ 70   A instrução #define PI 3.14159 faz com que toda
+      ocorrência de PI no código seja substituída por 3.14159
+      antes da compilação do programa.
+
+ Acerca da interação humano-robô (IHR), julgue os itens
+ subsequentes.
+ 71   Certos tipos de robôs de serviço também podem ser
+      desenvolvidos segundo a abordagem IHR.
+ 72   A IHR pode se dar por meio vocal, visual e tátil.
+ 73   No conceito de IHR centrada no robô, avalia-se como o robô
+      pode completar suas especificações de tarefas de maneira
+      que seja aceitável e confortável aos humanos.
+ 74   No âmbito de IHR, a técnica de personas corresponde a uma
+      ferramenta de desenvolvimento.
+ 75   Unidades de medição inercial são utilizadas para
+      sensoriamento de informações acústicas provenientes do
+      usuário.
+
+O objetivo do servo-controle visual é ajustar a postura, ou seja, a
+posição e a orientação da ferramenta de um robô em relação a
+algum objeto-alvo de referência, a partir da extração de
+características de imagens. A respeito de servo-controle visual de
+robôs, julgue os itens a seguir.
+76 Servo-controle visual não permite o rastreamento de
+    objetos-alvo que estejam em movimento.
+77 Para implementação de controle servo-visual, é preciso que a
+    câmera esteja fixada na ferramenta de trabalho do robô.
+78 Algoritmos para estimação da postura do objeto de
+    referência em relação à câmera são computacionalmente
+    pesados e dependem criticamente da precisão de calibração
+    da câmera e do modelo geométrico do objeto.
+79 No servo-controle visual baseado em posição, omite-se a
+    estimação da postura, e as características da imagem são
+    usadas diretamente, ou seja, o controle é realizado no espaço
+    bidimensional de coordenadas da imagem.
+80 O servo-controle visual estabelece um sistema de controle
+    em malha fechada, em que o processamento de imagens gera
+    informações a serem realimentadas para o controlador.
+81 Em servo-controle visual, transformações entre sistemas de
+    referência distintos podem ser caracterizadas por matrizes de
+    transformação homogênea, que contemplam ações de
+    translação, rotação e escalonamento.
+Com relação a técnicas de processamento digital de imagens em
+visão computacional aplicada à robótica, julgue os próximos
+itens.
+82 Segmentação corresponde ao particionamento de regiões na
+     imagem que tenham significados específicos para
+     determinada aplicação.
+83 Se uma imagem tiver sido corrompida por ruídos impulsivos
+     durante o processo de captura, é possível atenuar esses
+     ruídos com a utilização de um filtro de mediana.
+84 A transformada de Hough corresponde a uma técnica para
+     suavizar as bordas de determinada forma geométrica na
+     imagem.
+85 Filtros convolucionais não podem ser utilizados, por
+     exemplo, na detecção de bordas na imagem de uma câmera
+     de um sistema detector de embalagens.
+Julgue os próximos itens, relativos a aprendizado de máquina.
+86 O aprendizado de máquina computacional tem como
+    objetivo aplicar técnicas computacionais na tentativa de
+    validar padrões em dados e ratificar padrões que podem ser
+    observados explicitamente nos dados.
+87 Aprendizado de máquina e mineração de dados são termos
+    idênticos em relação aos seus objetivos e funções, pois
+    ambos lidam com algoritmos de inteligência artificial para
+    padrões em grandes conjuntos de dados em busca de
+    conhecimento.
+88 Aprendizado de máquina pode ser definido como a criação e
+    o uso de modelos que são aprendidos a partir dos dados.
+89 No contexto do aprendizado de máquina, um algoritmo é
+    definido como a especificação de uma relação probabilística
+    existente entre variáveis diferentes.
+90 Em aprendizado de máquina, um modelo de bom
+    desempenho com dados já treinados, mas que não lide muito
+    bem com novos dados é denominado subajuste, ou seja, no
+    subajuste se aprende com base no ruído dos dados.
+91 Ocorre sobreajuste quando o modelo não pode determinar
+    uma relação significativa entre os dados de entrada e saída,
+    ou seja, quando o modelo não é treinado pelo período
+    apropriado em relação à quantidade de dados.
+
+                               CEBRASPE – CTI – Edital: 2023
+92   Overfitting é um comportamento esperado e desejável de
+     aprendizado de máquina, uma vez que descreve assertividade
+     e acurácia altas quando o modelo de aprendizado de máquina
+     fornece previsões precisas para novos dados com base nos
+     dados de treinamento.
+93   As tarefas de aprendizado de máquina podem ser divididas
+     em três grandes grupos: classificação, agrupamento e
+     associação, devendo o primeiro grupo possuir uma classe
+     que se pretenda prever.
+94   No aprendizado de máquinas, o aprendizado supervisionado
+     compreende um conjunto de dados de treinamento para
+     ensinar modelos a mostrar a saída desejada.
+95   A regressão é um tipo de aprendizado não supervisionado
+     cujo objetivo é entender a relação entre variáveis
+     dependentes.
+96   Naive bayes é um algoritmo de machine learning
+     supervisionado que realiza classificação com base no
+     princípio da independência condicional de classe a partir do
+     teorema de Bayes, em que o algoritmo avalia o quanto ele
+     contribuiu para classificar a instância como boa ou ruim,
+     construindo uma tabela de probabilidades.
+97   Clustering é uma técnica de mineração de dados que agrupa
+     dados não rotulados com base em suas semelhanças ou
+     diferenças; os algoritmos de cluster podem ser categorizados
+     em sobrepostos, hierárquicos ou probabilísticos.
+Julgue os próximos itens, relativos a extração e representação
+de conhecimento, ontologias, tecnologias semânticas e
+OWL (Ontology Web Language).
+98 As ontologias e seus elementos são identificados por meio
+    dos IRI (internationalized resource identifiers), em que cada
+    IRI deve ser absoluto, ou seja, não relativo; logo dois IRI são
+    estruturalmente equivalentes se e somente se suas
+    representações de strings forem idênticas.
+99 A OWL é uma linguagem de esquema para conformidade
+    sintática utilizada para o desenvolvimento de aplicações
+    baseadas na web semântica e avalia se o documento está
+    sintaticamente estruturado.
+100 As ontologias leves (lightweight ontologies) têm por objeto a
+    definição detalhada, embora simples, de cada conceito
+    representado de modo que se possa definir a taxonomia que
+    representa a relação hierárquica entre conceitos.
+101 A semântica baseada em RDF da OWL 2 atribui significado
+    diretamente aos gráficos RDF e pode ser aplicada a qualquer
+    ontologia OWL 2, sem restrições, assim como qualquer
+    ontologia OWL 2 pode ser mapeada para RDF.
+102 Entidades são os blocos de construção fundamentais das
+    ontologias OWL 2 e definem o vocabulário de uma
+    ontologia; assim, o conjunto de entidades constitui a
+    assinatura de uma ontologia.
+103 A OWL é uma linguagem voltada para a instanciação de
+    ontologia web, podendo a ontologia OWL formalizar um
+    domínio, definindo classes e propriedades e, por meio da
+    semântica formal OWL, especificar como derivar
+    consequências lógicas.
+104 A OWL pode ser utilizada por aplicações que precisam
+    processar o conteúdo da informação, ao invés de apenas
+    disponibilizar conteúdo.
+105 Em relação à representação do conhecimento, o termo
+    ontologia refere-se a uma estrutura de conceitos
+    representados por um vocabulário lógico, um modelo
+    informacional que descreve e representa um domínio de
+    conhecimento específico.
+
+Com base nos padrões estabelecidos pelas normas ABNT NBR
+ISO 37.120:2017 e NBR ISO 37.122:2019, julgue os itens
+a seguir.
+106 Os indicadores previstos nas citadas normas são formulados
+    para cada 100 mil habitantes da cidade, a fim de permitir que
+    cidades de diferentes tamanhos comparem os resultados
+    entre si com relativa facilidade e eficiência; no entanto, para
+    cidades pequenas, há as medidas intermediárias de 1 mil e
+    10 mil   habitantes,   admitindo-se    um     pequeno    ajuste
+    matemático para refletir essas diferenças, com o objetivo de
+    obter uma comparação precisa.
+107 Consoante a NBR ISO 37.120:2017, a taxa de desemprego
+    da cidade, que é um indicador essencial, é considerada um
+    dos indicadores mais simples e esclarecedores do mercado
+    de trabalho, sendo usada para medir a oferta de trabalho e
+    localizar os ciclos de negócio de uma cidade.
+108 A NBR ISO 37.120:2017 divide os indicadores em
+    essenciais, de apoio e de perfil, sendo estes últimos
+    utilizados como uma referência informativa.
+
+No que se refere à análise e à mineração de dados, julgue os
+próximos itens.
+109 Entre as técnicas de mineração de dados, a análise de
+    sequência e caminho se caracteriza pelo processo de
+    encontrar relacionamentos entre dois conjuntos de dados
+    diferentes e aparentemente não relacionados.
+110 A análise preditiva de dados se diferencia da análise
+    prescritiva de dados porque a primeira tem o objetivo de
+    determinar as consequências das decisões tomadas, enquanto
+    a segunda utiliza fatos do passado para visualizar e prever
+    eventos futuros.
+111 A mineração de dados pode ser entendida como um
+    subconjunto da análise de dados, pois é usada para descobrir
+    padrões ocultos em conjuntos de dados brutos, enquanto o
+    enfoque da análise de dados se encontra no exame dos
+    conjuntos de dados para a obtenção de conclusões precisas.
+112 Entre as tarefas de mineração de dados, as preditivas são
+    aquelas que usam os valores dos atributos descritivos para
+    encontrar padrões que descrevam os dados de maneira que o
+    ser humano possa interpretá-los.
+113 A modelagem preditiva é a mais profunda para a estimativa
+    de resultados desconhecidos e inclui técnicas de amostra
+    como árvores de decisão, redes neurais, análise de regressão
+    e classificação.
+114 A tarefa de agrupamento de dados consiste na análise de
+    conjuntos de dados em que estão presentes apenas as
+    descrições dos dados e pode até mesmo resolver problemas
+    de detecção de desvios.
+
+                              CEBRASPE – CTI – Edital: 2023
+Com relação a Big Data, julgue os itens seguintes.
+115 Entre as quatro análises possíveis no Big Data, a análise
+    diagnóstica tem como foco recomendar ações específicas a
+    serem tomadas, e seus resultados podem ser usados para
+    melhorar a eficiência, a eficácia e a produtividade das
+    empresas.
+116 Big Data é um conjunto de dados maior e mais complexo de
+    novas fontes de dados que softwares tradicionais de
+    processamento de dados não conseguem gerenciar devido ao
+    seu volume.
+117 Volume,     variedade, velocidade, valor, veracidade,
+    variabilidade e visualização são conceitos abrangidos na
+    definição de Big Data.
+No que se refere à análise exploratória de dados e ao
+pré-processamento de dados, julgue os próximos itens.
+118 A fase de pré-processamento de dados é um processo
+    semiautomático que depende da capacidade do analista de
+    identificar os problemas presentes nos dados e a natureza
+    desses problemas, bem como os métodos para solucioná-los.
+119 A análise multivariada com gráficos, um dos tipos primários
+    de análise exploratória de dados, faz uso de imagens para
+    exibir a relação entre duas ou mais variáveis.
+120 A análise exploratória de dados tem por finalidade confirmar
+    conceitos predefinidos e, adicionalmente, descobrir padrões
+    e formular hipóteses para estudos futuros, mediante a
+    exploração de um conjunto de dados.
+Espaço livre
+

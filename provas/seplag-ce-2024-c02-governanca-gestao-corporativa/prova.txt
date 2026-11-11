@@ -1,0 +1,356 @@
+CEBRASPE – SEPLAG/CE – Edital: 2024
+
+-- CONHECIMENTOS ESPECIALIZADOS -LEGISLAÇÃO FEDERAL E ESTADUAL DO CEARÁ
+ESPECÍFICA SOBRE A TEMÁTICA
+(LEIS, DECRETOS E DEMAIS NORMATIVAS
+DISPONIBILIZADAS NA INTERNET)
+Com base no Decreto estadual n.º 34.097/2021, que institui o
+Sistema Único Integrado de Tramitação Eletrônica (SUITE),
+julgue os itens a seguir.
+Os processos administrativos eletrônicos, que são compostos
+integralmente por documentos nato-digitais, devem ser
+protegidos por meio do uso de métodos de segurança de
+acesso e de armazenamento em formato digital, para garantir
+autenticidade, preservação e integridade dos dados.
+92 A cada processo cadastrado no SUITE é atribuído um
+número único de protocolo (NUP), cujos dígitos se
+distribuem em quatro grupos, que representam,
+respectivamente, o código do órgão/entidade; o número
+sequencial do processo, que deve ser reiniciado a cada ano;
+o ano de criação do processo; e o código de validação do
+número do processo.
+93 É facultativa a utilização, por parte dos órgãos e das
+entidades do Poder Executivo do estado do Ceará, do
+número único de protocolo (NUP) gerado pelo SUITE, desde
+que observadas as regras de implantação estabelecidas pelo
+órgão gestor do sistema.
+94 Para a impugnação da integridade do documento
+digitalizado, é imprescindível a instauração de diligência
+visando à verificação do documento objeto de controvérsia,
+mediante alegação motivada e fundamentada de adulteração.
+95 A administração poderá exigir, a seu critério, por prazo
+indeterminado, a exibição do original de documento
+digitalizado no âmbito dos órgãos ou das entidades ou
+enviado eletronicamente pelo interessado.
+96 É livre o acesso à consulta do conteúdo dos processos
+eletrônicos gerados no SUITE, em observância à legislação
+vigente de acesso à informação.
+97 As assinaturas eletrônicas são classificadas em simples,
+avançadas e qualificadas.
+98 É obrigatório o uso de assinatura eletrônica avançada nos
+atos assinados pelo chefe do Poder Executivo, por
+secretários de Estado ou por titulares de órgãos do Poder
+Executivo.
+99 Devem ser informados em sítio à disposição na Internet os
+requisitos e os mecanismos estabelecidos internamente pelos
+órgãos ou entidades do Poder Executivo estadual para o
+reconhecimento de assinatura eletrônica avançada.
+100 As atividades no âmbito do SUITE são consideradas
+realizadas na data e no horário registrados pelo sistema,
+considerando-se o horário local do estado do Ceará.
+101 Todo defeito de transmissão ou recepção de dados e
+informações no âmbito do SUITE enseja justa causa pelo
+descumprimento de obrigações e prazos legais.
+102 A invalidação e a revogação de documento do processo serão
+efetuadas mediante novo ato processual, tornando sem efeito
+o ato anterior, cujo documento, porém, ainda deverá ser
+mantido no processo.
+
+GESTÃO LOGÍSTICA E PATRIMONIAL
+Na figura a seguir, que representa a gestão logística da
+cadeia produtiva de roupa de tecido do tipo jeans, as caixas e as
+setas numeradas indicam, respectivamente, os atores e os fluxos
+dos subsistemas logísticos.
+
+91
+
+A partir das informações precedentes, e considerando aspectos de
+gestão logística e patrimonial a elas relacionados, julgue os itens
+que se seguem.
+103 Os atores relacionados com as setas 1.2 e 1.3 correspondem
+aos bens que foram comercializados, armazenados e postos
+nos canais de distribuição reversos, por algum motivo como
+término de validade, problemas de qualidade, avarias no
+transporte, erros de pedido do produto, entre outros, antes
+que eles fossem consumidos.
+104 As decisões sobre o que, como, quando e quanto fazer em
+termos de produção, de forma a mobilizar máquinas e
+equipamentos, materiais e pessoas no processo produtivo,
+estão associadas ao momento das ações conjuntas dos atores
+ligados pela seta 2.4.
+105 Na representação da indústria, dos fornecedores e do
+atacarejo, o ERP (enterprise resource planning) é voltado
+especificamente a garantir um sistema integrado de gestão
+documental que seja seguro para as organizações, com o
+objetivo de controlar o inventário físico e a acurácia em seus
+estoques.
+106 Considere que o fornecedor indicado pela seta 2.1 esteja situado
+em Belém, no estado do Pará (região Norte), e tenha optado
+pelo modo de transporte aquaviário para enviar 100 toneladas
+da matéria-prima a uma fábrica localizada em Porto Alegre, no
+estado do Rio Grande do Sul (região Sul). Nesse caso, o
+fornecer buscou, para a operação, proporcionar o menor custo
+de transporte, já que o modal escolhido permite a
+movimentação de grandes volumes para distâncias superiores a
+1,5 mil quilômetros, tendo a variável tempo, nessa escolha,
+importância secundária.
+107 A Logística 4.0 tem foco na agilidade da comunicação entre
+os atores da cadeia, para maior controle e sincronização, com
+o menor risco, e busca eliminar o desperdício, como está
+ilustrado na figura, que apresenta o fluxo direto e reverso da
+logística.
+108 Na figura apresentada, o ator distribuição é responsável pelo
+gerenciamento do almoxarifado de matéria-prima, com
+políticas de níveis de estocagem, para gerar controle e
+avaliação do material estocado e o uso racional da área de
+armazenagem.
+109 O setor de compras da indústria faz parte da operação na
+figura apresentada.
+
+CEBRASPE – SEPLAG/CE – Edital: 2024
+
+Acerca de gestão do patrimônio, julgue os itens a seguir.
+110 No caso de empresas agropecuárias, os recursos patrimoniais
+
+encontram-se vivos e se classificam no sistema patrimonial
+como semoventes, o que agrupa animais e plantações.
+111 Os recursos patrimoniais de empresas públicas ou privadas
+interagem, direta ou indiretamente, com o sistema de
+produção de bens e(ou) serviços e podem ser classificados
+como equipamentos e máquinas, edificações, terrenos,
+jazidas e intangíveis.
+112 A quantidade de horas em que uma máquina opera
+diariamente não interfere no resultado do cálculo da sua
+depreciação para alienação no futuro.
+Julgue os próximos itens com base no Manual de Contabilidade
+Aplicada ao Setor Público e na Lei estadual n.º 17.065/2019.
+113 A alienação de bens imóveis do governo do estado do Ceará
+
+deve ser realizada mediante concorrência ou leilão público.
+114 O Plano de Contas Aplicado ao Setor Público (PCASP)
+
+formaliza a consolidação das contas nacionais e a sua
+convergência aos padrões internacionais de contabilidade
+pública, apresentando, de forma inovadora, a contabilidade
+orçamentária como maior protagonista, seguida da
+contabilidade patrimonial.
+GESTÃO CORPORATIVA DE
+AQUISIÇÃO DE BENS E SERVIÇOS
+Em relação a contratos de bens públicos e regime de execução
+indireta na administração pública, julgue os itens que se seguem,
+com base na Lei n.º 14.133/2021 (Lei de Licitações e Contratos),
+na Instrução Normativa SEGES n.º 5/2017 (Regime de Execução
+Indireta) e no Decreto estadual n.º 35.283/2023 (Regulamentação
+do Estudo Técnico Preliminar e do Termo de Referência).
+115 Para os casos de prorrogações dos contratos de serviços e
+
+No que se refere ao sistema de compras no âmbito da
+administração pública do estado do Ceará, julgue os itens
+seguintes, com base no Decreto estadual n.º 35.322/2023.
+121 Como órgão gestor do cadastro de fornecedores, a SEPLAG
+
+possui a atribuição de instituir e disciplinar o procedimento e
+as competências para a avaliação dos fornecedores, em
+parceria com a Controladoria e Ouvidoria Geral do
+Estado (CGE).
+122 A especificação dos bens e serviços no catálogo de compras
+
+deve assegurar a adequada identificação do bem ou serviço,
+não sendo necessária, nesta etapa, a utilização da linguagem
+comercial predominante.
+123 A inclusão no catálogo de bens e serviços de item
+
+assemelhado a outro já catalogado está condicionada à
+comprovação da existência do novo item no mercado, bem
+como à comprovação de que o item já catalogado não atende
+à finalidade ou aplicação pretendida.
+Acerca da terceirização de serviços e da reserva de cotas em
+contratos administrativos, julgue o item a seguir, à luz da Lei
+estadual n.º 18.434/2023 e do Decreto estadual n.º 35.357/2023.
+124 Para a execução indireta de serviços sob o regime de
+
+dedicação exclusiva de mão de obra, o Poder Executivo pode
+reservar o percentual de até 10% das vagas para a
+contratação de pessoas cadastradas no CadÚnico do Governo
+Federal, obedecidos os critérios legais.
+Com relação ao planejamento financeiro de curto e de longo
+prazo no âmbito da administração pública, julgue os itens
+subsecutivos.
+
+fornecimentos contínuos, é obrigatória a elaboração do
+estudo técnico preliminar.
+116 A Lei n.º 14.133/2021 aplica-se tanto à alienação e à
+concessão de direito real de uso de bens quanto à concessão
+e à permissão de uso de bens públicos.
+117 As funções relacionadas ao poder de polícia, de regulação,
+de outorga de serviços públicos e de aplicação de sanção não
+são objeto de execução indireta na administração pública.
+
+125 No planejamento financeiro de longo prazo, utiliza-se o
+
+Julgue os itens subsequentes, a respeito dos processos de
+compras governamentais e do gerenciamento de materiais e
+estoques.
+
+GOVERNANÇA PÚBLICA
+
+118 O objetivo central da administração de recursos materiais no
+
+setor público é fomentar o mercado, mediante políticas de
+aquisição em grande escala e compras compartilhadas.
+119 O sistema de reposição periódica de estoque também é
+denominado modelo de máximos e mínimos; e, nesse
+sistema, a quantidade comprada somada com a quantidade
+existente em estoque deve ser suficiente para atender ao
+consumo até a chegada da encomenda seguinte.
+120 A durabilidade, a fragilidade, a perecibilidade e a
+incorporabilidade do material são exemplos de atributos
+relevantes para a classificação e o gerenciamento de
+materiais permanentes.
+
+orçamento de capital para mapear as perspectivas futuras
+sobre o fluxo de caixa dos projetos de investimento,
+considerando-se um horizonte de razoável previsibilidade.
+126 O planejamento financeiro de curto prazo restringe-se às
+
+análises de excedentes ou faltas de caixa e à tomada de
+decisão do valor do capital de giro líquido.
+
+Julgue os próximos itens, a respeito de governança, risco e
+compliance.
+127 A estrutura que abarca os processos de direção e controle de
+
+uma organização é a gestão de riscos.
+128 Os modos de interação entre agentes, shareholders e
+
+stakeholders são estabelecidos pela estrutura de governança.
+129 Para que o compliance seja efetivo, é fundamental a gestão
+
+dos riscos associados ao tema da integridade.
+130 A governança corporativa distingue-se do modelo gerencial
+
+na medida em que a primeira é orientada ao cidadão,
+incluindo-o como agente da mudança, enquanto o segundo é
+voltado à satisfação do cliente do serviço público.
+
+CEBRASPE – SEPLAG/CE – Edital: 2024
+
+Em relação a convênios de cooperação, consórcios públicos e
+organizações da sociedade civil de interesse público (OSCIP),
+julgue os itens que se seguem.
+131 Os
+
+convênios
+
+de
+
+cooperação
+
+na
+
+área
+
+de
+
+saúde,
+
+diferentemente dos consórcios públicos, devem obedecer aos
+princípios, às diretrizes e às normas que regulamentam o
+Sistema Único de Saúde (SUS).
+132 A União pode celebrar convênio com um consórcio público,
+
+caso em que se aplicarão aos entes federativos nele
+
+Julgue os itens a seguir, referentes ao governo eletrônico.
+144 O Sistema Único Integrado de Tramitação Eletrônica
+(SUITE) é o sistema de gestão e tramitação de processos
+eletrônicos dos Poderes Executivo e Legislativo do estado do
+Ceará.
+145 O crescimento das expectativas dos cidadãos sobre os
+serviços públicos tem impulsionado a implantação de um
+governo eletrônico.
+146 A adoção do governo eletrônico prejudica a transparência da
+gestão pública, uma vez que poucos cidadãos têm acesso à
+Internet.
+
+tenham personalidade jurídica de direito privado não
+
+Julgue os itens subsecutivos, a respeito de gestão da qualidade,
+gestão de mudanças, gestão por processos e cultura de inovação.
+147 No setor público, a cultura de inovação está restrita a
+laboratórios especializados.
+148 A principal característica do modelo de excelência gerencial
+é o fato de ele ser integrador.
+149 O estrito cumprimento da lei é prescindível para a mudança
+organizacional no setor público.
+150 Uma vantagem da adoção da gestão por resultados em uma
+organização é a facilitação da gestão por competências e da
+gestão do conhecimento organizacional.
+
+precisam atender às normas de direito público.
+
+Espaço livre
+
+consorciados as exigências legais de regularidade.
+133 Desde que não tenham fins lucrativos, cooperativas podem
+
+ser qualificadas como OSCIP.
+134 Um
+
+consórcio
+
+público
+
+pode
+
+ser
+
+contratado
+
+pela
+
+administração direta dos entes da Federação consorciados,
+desde que por meio do devido processo licitatório.
+135 Associações e fundações instituídas por consórcio que
+
+Acerca de teorias de governança corporativa, julgue os itens
+a seguir.
+136 Os custos de transação são aqueles incorridos para planejar e
+
+monitorar as estruturas de governança.
+137 A governança corporativa é uma ferramenta para tratar os
+
+conflitos de interesse abordados pela teoria da agência.
+138 A teoria dos stakeholders, assim como a governança
+
+corporativa, sustenta que as organizações devem considerar,
+em suas ações, todas as partes interessadas.
+MODERNIZAÇÃO E INOVAÇÃO DA GESTÃO PÚBLICA
+No que diz respeito a governança, accountability e compliance,
+julgue os itens subsequentes.
+139 Accountability compreende o compromisso das entidades e
+
+de seus agentes em assumir as responsabilidades que lhes
+tenham sido conferidas e responder por suas ações e decisões
+nesse contexto.
+140 Na administração pública, os programas de compliance
+
+resumem-se a medidas de punição por atos de corrupção no
+governo.
+141 São quatro os eixos que devem estruturar os programas de
+
+compliance na administração pública: comprometimento e
+apoio da alta administração; existência de unidade
+responsável pela implementação do programa no órgão ou na
+entidade; análise, avaliação e gestão dos riscos associados à
+integridade; e punição de casos de corrupção.
+142 O alcance da accountability depende de a organização e seus
+
+agentes terem claro entendimento de suas responsabilidades.
+143 A
+
+conduta ética inclui-se entre os mecanismos de
+
+compliance.
+
+

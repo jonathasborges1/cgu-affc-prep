@@ -1,0 +1,515 @@
+CEBRASPE – TCE/RJ – Edital: 2021
+
+-- CONHECIMENTOS ESPECÍFICOS -Julgue os itens a seguir, referentes à informação e a dados,
+estruturados e não estruturados.
+101 No contexto de Big Data, os dados em formato de textos
+longos, de vídeos ou de imagens são considerados dados
+estruturados, quando armazenados em um campo de um
+banco de dados relacional.
+102 A informação normalmente envolve a participação humana
+na sua estruturação e na busca do seu significado, enquanto
+os dados são mais facilmente obtidos e quantificados por
+máquinas.
+Julgue os próximos itens, a respeito da modelagem dimensional
+de dados.
+103 Um modelo dimensional que adote um esquema floco de
+neve permite que uma tabela de dimensão originária do
+esquema estrela seja decomposta de forma hierárquica.
+104 Uma constelação de fatos é um conjunto de conceitos que
+compartilham entre si as suas tabelas de fatos.
+Em um banco de dados relacional, foram criadas as
+seguintes relações, posteriormente transformadas e preenchidos
+seus dados em tabelas. As chaves primárias estão realçadas em
+itálico.
+professor
+(cpf_professor,
+nome,
+titulação,
+salario)
+curso
+(cod_curso,
+titulo,
+objetivo,
+cpf_professor_coord)
+contrato (cpf_professor, cod_curso, data_inicio)
+
+Tendo como referência as informações precedentes, julgue os
+itens subsecutivos.
+105 Em uma instância da relação professor, não pode haver
+tuplas com diferentes números de colunas, mesmo que o
+cpf_professor_coord seja inexistente.
+106 Para efeito de integridade referencial, uma ação correta na
+relação contrato é criar um atributo numero_contrato
+como chave primária, não sendo mais necessários, nessa
+relação, os atributos cpf_professor e cod_curso.
+107 O comando SQL a seguir cria uma visão com todos os dados
+dos professores e dos respectivos cursos que eles coordenam,
+não incluindo os cursos sem um professor com a função de
+coordenador.
+create view coordenador_curso as
+select * from professor p left outer join
+curso s on true
+where p.cpf_professor = s.cpf_professor_coord;
+
+108 O comando SQL a seguir tem a sintaxe correta para obter o
+
+código dos cursos e o valor médio do salário dos professores,
+mas mostrando apenas aqueles cursos cuja média do salário
+dos seus professores é inferior a 5.000 reais.
+Select c.cod_curso, avg (salario)
+from contrato c, professor p
+where c.cpf_professor = p.cpf_professor
+and avg (salario) < 5000;
+
+Com referência aos conceitos e técnicas de mineração de dados,
+julgue os itens seguintes.
+109 Para encontrar regras de associação negativas de interesse,
+como a identificação de padrões nos dados de um arquivo, a
+hierarquia é uma técnica usada com base no conhecimento
+prévio sobre um conjunto de atributos do arquivo.
+110 No aprendizado não supervisionado dos dados, usa-se uma
+amostra para treinamento, e os registros são colocados em
+agrupamentos semelhantes entre si quanto aos seus padrões.
+111 Em um modelo para um aprendizado supervisionado dos
+dados no formato de uma árvore de decisão, um algoritmo de
+construção da árvore busca minimizar a informação
+necessária para classificar os dados nas partições da árvore.
+
+Julgue os itens subsequentes, referentes a Big Data e visualização
+e análise exploratória de dados.
+112 Uma vez que Big Data engloba um grande volume e
+variedade de dados, o atributo veracidade tem sido inserido
+nas premissas do conceito para avaliar a confiabilidade e a
+consistência dos dados da solução.
+113 As aplicações do Big Data exigem o uso de dados externos à
+organização para que as análises possam extrair valor dos
+dados e para viabilizar a percepção do seu significado.
+114 A análise prescritiva é empregada na análise de Big Data
+para relatar acontecimentos e para fazer previsões de
+comportamentos futuros de indivíduos e processos.
+115 Conhecimentos representados em banco de dados ajudam a
+descobrir padrões em um conjunto de regras, em equações
+associando diferentes variáveis ou em modelos.
+Julgue os itens que se seguem, relacionados à administração de
+bancos de dados.
+116 A criação de índices em tabelas com alto grau de duplicidade
+garante um aumento na eficiência de consultas a essas
+tabelas.
+117 O projeto físico do banco de dados trata do mapeamento do
+modelo de dados conceitual para um modelo lógico que seja
+possível de ser processado pelo SGBD.
+Acerca de técnicas de análise de desempenho e otimização de
+consultas a bancos de dados, julgue os itens a seguir.
+118 No processo de otimização de consultas de bancos de dados
+relacionais, em consultas que façam uso de ORDER_BY, a
+criação de índice nas colunas ORDER_BY é uma opção que
+pode melhorar o desempenho de tais consultas.
+119 No processo de análise de desempenho de um banco de
+dados, na análise de planos de execução é possível
+diagnosticar que a exclusão de índices pode levar à melhoria
+de desempenho do banco de dados.
+120 Ao escrever consultas para bancos de dados relacionais, o
+uso de subconsultas e tabelas aninhadas costuma apresentar
+melhor desempenho que o uso de JOIN.
+Quanto a balanceamento de carga, failover e replicação de
+estados, julgue os próximos itens.
+121 O failover em um sistema de banco de dados, sem nenhum
+prejuízo para a qualidade das informações consultadas, é
+garantido pela replicação das bases de dados em sítios
+distintos.
+122 Para que seja possível realizar a replicação de bancos de
+dados, um pré-requisito essencial é que os diversos nós
+envolvidos sejam homogêneos quanto à sua configuração de
+software (sistema operacional e SGBD).
+123 Em um balanceamento de carga por transação, todas as
+transações de determinado cliente são enviadas para a
+mesma réplica do banco de dados, até que a conexão seja
+fechada.
+Julgue os itens subsequentes, relacionados a topologias típicas de
+ambientes de alta disponibilidade e escalabilidade.
+124 Na topologia master-slave, dados nunca são criados no nó
+slave, podendo apenas ser lidos nesse tipo de nó.
+125 Com a finalidade de garantir alta disponibilidade de um
+banco de dados, pode-se implementar um cluster de failover,
+que garante a disponibilidade em caso de falha de sistema
+operacional, por exemplo, sem garantir disponibilidade em
+caso de falha de disco.
+
+CEBRASPE – TCE/RJ – Edital: 2021
+
+Julgue os itens seguintes, referentes a arquiteturas e aplicações
+data warehouse, ETL e OLAP.
+126 Em um data warehouse que use uma arquitetura de três
+
+camadas, a mineração de dados interage diretamente com as
+fontes de dados.
+127 Uma interface OLAP pode ser utilizada tanto com dados
+armazenados em bases de dados relacionais quanto com
+bases de dados multidimensionais.
+128 No processo de ETL, na fase de transformação os dados são
+
+padronizados, sendo transformados em um formato
+unificado, independentemente do seu formato de origem.
+
+Acerca de técnicas de modelagem e otimização de bases de dados
+multidimensionais, julgue os itens subsecutivos.
+129 É possível que aconteçam atributos nulos em tabelas
+
+dimensão.
+
+130 Ao utilizar um esquema estrela, as tabelas dimensão são
+
+propositalmente desnormalizadas.
+
+Acerca de arquitetura de software, julgue os próximos itens.
+131 No tipo de estrutura funcional, os conectores representam
+
+Com relação à engenharia de software, julgue os itens a seguir.
+143 Para levantamento de requisitos, pode-se considerar que
+
+clientes e usuários finais de um software são pessoas ou
+entidades diferentes.
+144 O diagrama de classes da UML inclui atributos e operações
+
+de uma classe, sem apresentar o dinamismo da comunicação
+com outras classes.
+145 Confiabilidade é um conceito de qualidade de software que
+
+identifica a quantidade de tempo que o software fica
+disponível para uso.
+146 Cada processo do diagrama de fluxo de dados (DFD) deve
+
+ter pelo menos uma entrada ou uma saída, sendo as duas
+exigidas em situações específicas.
+A respeito de desenvolvimento de sistemas, julgue os próximos
+itens.
+147 A análise estática de código-fonte adota a verificação por
+
+boas práticas, que considera elementos como identação e
+convenção de nomes.
+
+interfaces de dados entre as entidades funcionais.
+132 O conceito de interoperabilidade é utilizado para medir o
+grau de facilidade com que o usuário consegue
+operacionalizar um software.
+
+148 Um sítio da Internet é considerado responsivo quando atende
+
+133 No modelo MVC para aplicações web, o controlador é
+
+o S representa a autovalidação, que gera um resultado a ser
+interpretado pelo responsável.
+
+134 Na arquitetura em camadas, a camada mais interna realiza
+
+150 A BPMN é utilizada para descrever processos desde a sua
+
+responsável por gerenciar as requisições dos usuários.
+
+interações com o sistema operacional.
+
+às solicitações do usuário de forma assíncrona, apresentando
+as informações sem delay.
+149 Quando aplicados os princípios FIRST em testes de unidade,
+
+forma inicial até a modelagem mais detalhada.
+
+Quanto ao desenvolvimento de sistemas web, julgue os itens
+seguintes.
+135 A versão 3 do CSS trouxe para as bordas das páginas web as
+
+opções de definição de cor, arredondamento de cantos e
+multiplicidade de linhas.
+136 HTML5 é uma linguagem de programação que permite
+estruturar páginas web e executar comandos como loops de
+repetição, por exemplo.
+137 Um dos objetivos de usar Ajax é manter a página web
+atualizada, efetuando uma recarga completa para cada
+interação do usuário.
+138 Uma aplicação construída como SPA (single page
+applications) carrega, quando necessário e de forma
+assíncrona, apenas a parte principal da página, mantendo os
+demais elementos fixos.
+Julgue os itens subsequentes, a respeito dos padrões XML,
+XSLT, SOAP, REST e JSON.
+139 A linguagem XSLT é utilizada para converter um documento
+
+XML em uma página HTML ou em outro documento XML.
+140 O padrão REST é utilizado na implementação de serviços
+web, em que cada método é identificado por uma URL única.
+141 SOAP é um protocolo baseado em arquivos HTML que
+permite a comunicação entre aplicativos através da Internet.
+142 JSON é uma alternativa ao XML para representar dados,
+baseado em texto e com pares nome e valor para representar
+as informações.
+
+Considerando a figura precedente como referência inicial, julgue
+os itens a seguir, em relação à engenharia de requisitos.
+151 Estudos etnográficos prescindem na etapa indicada por #2 na
+
+figura, uma vez que estão mais afetos à atividade indicada
+por #1.
+152 No contexto da engenharia de requisitos, a matriz de
+
+rastreabilidade é um artefato da rastreabilidade de requisitos
+que descreve a relação entre os requisitos e outros artefatos
+da engenharia de software, indicando a presença de um
+vínculo entre esses requisitos e os artefatos.
+153 A prototipação como técnica a ser implementada no contexto
+
+da engenharia pode ser executada na etapa indicada por #2
+na figura, conquanto não na atividade indicada por #4.
+
+CEBRASPE – TCE/RJ – Edital: 2021
+
+Julgue os próximos itens, a respeito de arquitetura de software.
+161 A arquitetura orientada a serviços (SOA) é uma forma de
+
+Tendo como referência inicial a figura precedente, que mostra o
+processo de projeto de interface do usuário, julgue os próximos
+itens, a respeito da engenharia de usabilidade.
+154 Diferentemente da atividade indicada por #4 na figura, na
+atividade indicada por #3 pode-se envolver o uso da
+prototipação como maneira prática de validar o que foi
+projetado.
+155 A atividade indicada por #1 na figura deve levar em conta as
+variações de tarefas bem como atender os requisitos gerais
+dos usuários, concentrando-se, em adendo, no grau de
+facilidade de uso e aprendizado da interface.
+Acerca de RUP (rational unified process) e XP (extreme
+programming), julgue os seguintes itens.
+156 No RUP, a disciplina Requisitos tem como fulcro definir
+uma interface de usuário para o sistema, possuindo, como
+uma de suas tarefas, desenvolver a visão geral para o
+sistema; a disciplina Teste valida o sistema quanto aos
+requisitos elicitados.
+157 Uma das práticas da XP é a integração contínua que visa
+aperfeiçoar o projeto de codificação do sistema de software,
+tal que a estrutura interna se aprimora sem que seu
+comportamento se altere.
+158 Na XP, as histórias dos usuários (casos de uso) devem
+descrever os detalhes dos requisitos da solução, tais como a
+tecnologia a ser utilizada e a modelagem do banco de dados;
+isso irá permitir planejar melhor a interface do usuário na
+release planning e, consequentemente, o desenvolvimento da
+solução.
+
+Internet: <www.cin.ufpe.br/> (com adaptações).
+
+Com base no diagrama de caso de uso precedente, julgue os itens
+subsequentes, em relação à UML.
+159 O caso de uso pedir catálogo opcionalmente aciona o
+caso de uso fazer pedido; este último aciona
+obrigatoriamente o fornecer dados do cliente.
+160 O ator cliente pode acionar pedido de Internet e
+também pedido por telefone.
+
+desenvolvimento de sistemas distribuídos na qual os
+componentes de sistema são serviços autônomos.
+162 A arquitetura MVC (Model-View-Controller) separa a
+interface do usuário da funcionalidade e do conteúdo de
+informações; a camada model contém todo o conteúdo e a
+lógica de processamento específicos à aplicação bem como
+acesso a fontes de dados e toda a funcionalidade de
+processamento específica para a aplicação.
+163 Os padrões de projeto abrangem um amplo espectro de
+abstração e aplicação; especificamente, o factory method
+pattern separa a construção de um objeto complexo de sua
+representação de modo que o mesmo processo de construção
+possa criar diferentes implementações do mesmo objeto.
+
+tipo
+ALI
+AIE
+SE
+EE
+
+aplicação
+complexidade
+baixa
+baixa
+média
+média
+
+quantidade
+1
+2
+3
+4
+
+Considerando os valores da tabela precedente, julgue os itens a
+seguir, em relação a métricas e estimativas de software.
+164 Para a aplicação em questão, caso se utilize a análise de
+pontos de função (APF), o tamanho de pontos de função sem
+fator de ajuste será 48.
+165 Para a aplicação em tela, utilizando-se a medição estimativa
+baseada no método da NESMA, o tamanho de pontos de
+função sem fator de ajuste é superior a 47.
+Julgue os itens seguintes, a respeito de sistemas operacionais,
+tecnologias de redes de computadores e arquiteturas em nuvem.
+166 No modelo IaaS de serviço em nuvem, o consumidor
+gerencia e controla sistemas operacionais, armazenamento,
+componentes e sistemas de segurança e a infraestrutura de
+nuvem subjacente.
+167 Na execução de um programa, se ocorrer um evento de falta
+de página após a referência a um endereço de memória, o
+sistema operacional troca um quadro de página em memória
+física pelo quadro de página em memória virtual que contém
+o endereço referenciado no programa em execução.
+168 Diferentemente das bridges, os repetidores são dispositivos capazes
+de reconhecer e examinar os quadros da camada de enlace.
+169 No padrão Gigabit Ethernet, tanto no modo de operação
+half-duplex quanto no modo full-duplex, o uso do protocolo
+CSMA/CD para evitar colisões é dispensável, em razão da
+extensão de portadora, uma característica voltada à prevenção de
+colisões incluída originalmente nas definições do padrão.
+No que se refere a servidores de aplicação, gestão e operação de
+bancos de dados e sistemas gerenciadores de bancos de dados,
+julgue os itens a seguir.
+170 No Tomcat 10, os arquivos de definição e de configuração,
+incluindo o arquivo server.xml, localizam-se por padrão
+no diretório /bin.
+171 A automação de processos, como a detecção de padrões para
+a realização de tarefas repetitivas, é uma boa prática de
+gestão de bancos de dados voltada a aumentar a eficiência
+das operações e dos processos.
+172 No PostgreSQL 13, o conceito de extensão confiável permite
+que usuários de banco de dados instalem extensões que um
+superusuário estabeleça como confiáveis.
+173 Uma das funções de um sistema gerenciador de bancos de
+dados é garantir a verificação de integridade, reduzindo a
+redundância e maximizando a consistência dos dados.
+
+CEBRASPE – TCE/RJ – Edital: 2021
+
+Acerca de arquitetura de TI, DevOps e COBIT 2019, julgue os
+itens subsequentes.
+174 A arquitetura de TI é um conjunto de práticas de gestão dos
+
+profissionais e processos envolvidos, que vão garantir o bom
+funcionamento da atividade de TI.
+175 Na cascata de objetivos em COBIT 2019, os objetivos de
+
+alinhamento enfatizam a coordenação de todos os esforços
+de TI com os objetivos de negócios.
+176 Em DevOps, além das ferramentas do ambiente de
+
+desenvolvimento integrado, são relevantes as ferramentas
+para gerenciamento de controle de fontes, trabalho
+colaborativo e planejamento de projetos.
+177 Entre os fatores de design em COBIT 2019, o cenário de
+
+ameaças identifica o tipo de risco relacionado à informação e
+à tecnologia ao qual a empresa está atualmente exposta e
+indica quais áreas de risco estão excedendo os riscos típicos
+da organização.
+Acerca de ITIL v4 e PMBOK 7, julgue os itens a seguir.
+178 De acordo com o PMBOK 7, os modelos de liderança
+
+situacional descrevem maneiras de adaptar o estilo de
+liderança de alguém para atender às necessidades dos
+indivíduos e da equipe do projeto.
+179 Em ITIL 4, no contexto de gerenciamento de arquiteturas, a
+
+arquitetura de serviços é aquela que permite que a
+organização analise suas capacidades em termos de
+alinhamento com todas as atividades necessárias para criar
+valor para a organização e seus clientes.
+180 Segundo a ITIL 4, monitorar o desempenho da organização e
+
+suas práticas, produtos e serviços é uma atividade de
+governança do corpo diretivo da organização, que tem o
+objetivo de garantir que o desempenho esteja de acordo com
+as políticas e orientações organizacionais.
+Julgue os itens seguintes, a respeito dos algoritmos RSA e AES,
+da esteganografia, da função hash e da segurança em banco de
+dados.
+181 Pelo fato de os algoritmos RSA usarem o conceito de
+
+fatoração de números primos, eles não são vulneráveis a
+ataques.
+182 A esteganografia é um método de criptografia que torna os
+
+dados ininteligíveis a estranhos, por meio de diversas
+transformações do texto, com o uso do algoritmo AES.
+183 Embora seja muito simples, a função hash é o método mais
+
+seguro de criptografar dados, pois tanto o valor de hash
+quanto a própria função hash são secretos e não requerem
+mecanismos de proteção.
+184 O fato de um usuário possuir uma conta não o capacita a
+
+toda funcionalidade oferecida pelo sistema de gerenciamento
+de banco de dados (SGBD).
+185 Controle de acesso e controle de inferência são medidas
+
+usadas para fornecer segurança nos bancos de dados.
+
+Julgue os itens a seguir, quanto às ferramentas e técnicas de
+exploração de vulnerabilidades em aplicativos web, à Open Web
+Application Security Project (OWASP) e às ameaças e
+vulnerabilidades em aplicações web.
+186 O tipo de ataque em que o atacante explora a relação de
+confiança que um sítio possui com o navegador que o acessa
+é conhecido como CSRF (cross-site request forgery).
+187 As ferramentas de spidering são usadas na exploração de falhas e
+têm como finalidade catalogar solicitações HTTP/S enviadas a
+partir do navegador e respostas geradas pela aplicação web.
+188 Classificação de Risco para o Top 10 é uma metodologia baseada
+na OWASP Risk Rating Methodology e consiste em estimar,
+para cada categoria do Top 10, o risco peculiar que cada falha
+introduz em uma aplicação web típica e, posteriormente, ordenar
+o Top 10 de acordo com as falhas que tipicamente introduzem o
+risco mais significativo para uma aplicação.
+189 Caso uma aplicação permita que comandos SQL sejam
+digitados nos inputs de seus formulários e concatenados
+diretamente nos comandos SQL da própria aplicação, sem
+que seja realizada uma validação ou tratamento antecedente,
+certamente essa aplicação estará vulnerável ao ataque
+conhecido como SQL Injection.
+190 A característica principal do ataque cross-site scripting
+(XSS) é que ele é realizado somente de um modo: por meio
+do envio de códigos JavaScript pelos formulários de cadastro
+de uma aplicação web com a finalidade de manipular as
+informações no navegador do usuário.
+Acerca dos softwares maliciosos e da segurança de ativos de
+rede, julgue os itens subsequentes.
+191 Os trojans possuem características totalmente distintas em
+relação aos vírus; a principal delas é que os trojans não
+permitem ser controlados à distância pela pessoa que os
+instalou, diferentemente dos vírus.
+192 O IPSec (Internet Protocol Security) pode ser usado para
+implementar segurança em roteadores.
+193 Quando instalado e ao ser executado pelo operador do
+sistema, o rootkit substitui arquivos executáveis importantes
+do sistema operacional.
+194 O keylogger é o software malicioso existente mais limitado,
+uma vez que ele possui uma única forma de agir, que
+consiste em capturar todos os caracteres digitados no teclado.
+195 Em uma transferência de pacote (que consiste em um cabeçalho
+e alguns dados do usuário) entre hosts por meio de uma rede
+frame relay ou ATM usando a criptografia de ponta a ponta, em
+que todo o pacote é criptografado, o switch frame relay ou
+ATM receberá o pacote criptografado e poderá ler o cabeçalho
+e, então, encaminhá-lo ao outro host.
+No que diz respeito à segurança em redes wireless, ao protocolo
+Syslog e ao Microsoft Event Viewer, julgue os itens seguintes.
+196 O Event Viewer é uma ferramenta destinada à auditoria de
+dados em ambiente Windows e que proporciona ao
+administrador do sistema visualizar todos os logs de eventos;
+a maior desvantagem dessa ferramenta é que ela não permite
+a integração com o Agendador de Tarefas do Windows.
+197 A única forma que garante que um espião não possa
+determinar o nome de uma rede sem fio é “fechar a rede”;
+esse procedimento é realizado nos pontos de acesso sem fio e
+impede que os programas de monitoramento de redes sem
+fio vejam o nome da rede.
+198 Ao utilizar a tecnologia WEP (Wired Equivalent Privacy)
+para proteger uma rede wireless, o usuário é obrigado a
+digitar uma senha, a fim de se associar à rede.
+199 O protocolo Syslog pode ser usado para integrar diferentes
+sistemas em um só repositório de dados.
+200 Os protocolos TCP e UDP são usados pelo protocolo Syslog
+para o envio de mensagens.
+
+

@@ -1,0 +1,427 @@
+-- CONHECIMENTO
+Julgue os itens a seguir, relativos ao ITIL v4.
+51
+
+O ITIL v4 suporta abordagens diferentes de trabalho como
+ágil, DevOps e Lean.
+
+52
+
+A investigação da causa raiz de incidentes para evitar que no
+futuro aconteçam novamente os mesmos tipos de incidente é
+de responsabilidade da prática de gerenciamento de
+problemas.
+
+53
+
+Obter/construir é uma atividade da cadeia de valor a qual
+garante que os componentes do serviço estejam disponíveis
+quando forem necessários.
+
+54
+
+Entre as quatro dimensões de gerenciamento de serviços, a
+gestão financeira está incluída para manutenção dos serviços
+e alinhada ao negócio da organização.
+
+Com base na Lei nº 13.709/2018 (LGPD), julgue os próximos
+itens.
+55
+
+Pessoa natural ou jurídica que realiza o tratamento de dados
+pessoais em nome do operador é denominada de controlador.
+
+56
+
+O tratamento de dados pessoais de crianças pode ser
+realizado, desde que siga o recomendado no Estatuto da
+Criança e do Adolescente.
+
+Considerando
+
+o
+
+Decreto
+
+n.º
+
+7.579/2011
+
+(Sistema
+
+de
+
+Administração dos Recursos de Tecnologia da Informação –
+SISP, do Poder Executivo Federal), julgue os itens seguintes.
+57
+
+Empresas estatais federais não estão aderentes ao SISP por
+possuírem autonomia e regulamentação apropriada e
+específica para cada segmento.
+
+58
+
+Uma das finalidades do SISP é estimular o uso racional dos
+recursos de tecnologia da informação.
+
+A respeito de design thinking, julgue os itens que se seguem.
+59
+
+A empatia é um componente central no design thinking, pois
+sua elaboração envolve a compreensão profunda das
+experiências e emoções dos usuários.
+
+60
+
+O design thinking, uma abordagem linear que segue uma
+sequência definida de etapas, possibilita que as iterações ou
+revisões sejam feitas somente ao final das etapas.
+
+A respeito de Lean startup, julgue os itens a seguir.
+61
+
+O Lean startup foca esforços apenas no desenvolvimento do
+produto e nas suas características.
+
+62
+
+O Lean startup enfatiza a criação de um produto mínimo
+viável (MVP) para testar hipóteses de negócio com o
+mínimo de esforço e recursos.
+
+
+CEBRASPE – ANM – Edital: 2024
+
+OS ESPECÍFICOS -No que se refere a contratações e orçamento públicos, e à Lei
+n.º 14.133/2021, julgue os itens a seguir.
+63
+
+Em contratações realizadas por instituição científica,
+tecnológica e de inovação (ICT) pública ou por agência de
+fomento, demonstrada inequívoca vantagem à administração,
+configura hipótese de inexigibilidade de licitação a
+contratação que tenha por objeto a transferência de
+tecnologia ou licenciamento de direito de uso ou de
+exploração de criação protegida.
+
+64
+
+A alta administração de órgãos públicos é responsável pela
+governança de contratações públicas, de modo a monitorar
+processos licitatórios e respectivos contratos, assegurando o
+alinhamento dessas contratações às leis orçamentárias.
+
+65
+
+O julgamento por técnica e preço é compulsório em
+licitações que envolvam bens e serviços especiais de
+tecnologia da informação e comunicação.
+
+66
+
+Caracterizada pelo planejamento, a fase homologatória do
+procedimento licitatório deve ser compatibilizada com as leis
+orçamentárias.
+
+67
+
+Repactuação é o modo de manutenção do equilíbrio
+econômico-financeiro pelo qual se aplica o índice de
+correção monetária previsto em contrato, retratando-se a
+variação efetiva do custo de produção, porém, admitindo-se
+índices específicos ou setoriais.
+
+68
+
+Podem restringir-se a bens e serviços desenvolvidos no país
+as licitações voltadas a sistemas de tecnologia de informação
+e comunicação estratégicos.
+
+Com relação à Lei n.º 14.133/2021 e às Instruções Normativas
+SGD/ME n.º 94/2022 e SEGES/ME n.º 65/2021, n.º 58/2022 e
+n.º 81/2022, julgue os itens subsequentes.
+69
+
+Fica dispensada a elaboração de termo de referência nas
+hipóteses em que a Lei n.º 14.133/2021 dispensar licitações.
+
+70
+
+Como condição para conclusão de contratos administrativos,
+a administração pública poderá exigir certificação por
+organização independente acreditada pelo Instituto Nacional
+de Metrologia, Qualidade e Tecnologia.
+
+71
+
+Durante a fase de gestão do contrato, a equipe de
+planejamento da contratação deve proceder às ações de
+gerenciamento de riscos e produzir o mapa de gerenciamento
+de riscos.
+
+72
+
+Embora disposto que a definição do objeto de contratação
+deve ser precisa, clara e suficiente, são vedadas
+especificações excessivas, irrelevantes ou desnecessárias que
+limitem ou frustrem a competição ou a realização do
+fornecimento da solução.
+
+73
+
+Em casos de prorrogações de contratos de serviços e
+fornecimentos contínuos, é dispensada a elaboração de
+estudo técnico preliminar.
+
+74
+
+Exceto em licitações cujo critério de julgamento seja o maior
+desconto, orçamentos estimados para contratações poderão
+ser sigilosos, desde que justificado e não haja prejuízos à
+divulgação de quantitativos detalhados e demais informações
+essenciais para elaboração de propostas.
+
+
+Julgue os itens a seguir, acerca de conceitos, políticas e gestão de
+riscos relacionados à segurança da informação.
+75 Para efeitos de classificação, informações compartilhadas
+entre organizações devem manter seus estados e atributos de
+classificação inalterados, independentemente de seu contexto
+em cada organização, mesmo que seus esquemas de
+classificação sejam diferentes.
+76 De acordo com a ABNT NBR ISO/IEC 27001, para
+assegurar que as contínuas avaliações de riscos de segurança
+da informação produzam resultados comparáveis, válidos e
+consistentes, a organização deverá estabelecer e aplicar
+processos para tratamento desses riscos.
+77 O propósito das políticas de segurança da informação
+organizacionais é assegurar adequação contínua, suficiência,
+efetividade da direção de gestão e suporte à segurança da
+informação de acordo com requisitos comerciais, legais,
+estatutários, regulamentares e contratuais.
+78 Conforme a ABNT NBR ISO/IEC 27005, na avaliação de
+probabilidade de análise de riscos de segurança da
+informação, a fonte de incerteza de avaliação sistêmica é
+aquela que deriva do uso de ferramentas que inevitavelmente
+modelam eventos de forma simples.
+Acerca de hashes, ICP-Brasil, métodos de autenticação e
+autenticação baseada em múltiplos fatores, julgue os itens que
+se seguem.
+79 No método de autenticação por token, usuários fornecem
+tokens exclusivos e individuais, gerados por um sistema ou
+serviço, válidos por tempo limitado, oferecendo maior
+segurança em comparação a autenticações por senha,
+especialmente contra reutilizações indevidas.
+80 A utilização de múltiplo fator de autenticação (MFA),
+combinando uma senha e um código de autenticação enviado
+por SMS, garante blindagem contra ataques embasados em
+engenharia social, mesmo que o atacante tenha acesso a
+informações pessoais sensíveis da vítima.
+81 Algoritmos de hash modernos, como o SHA-256, eliminam
+sistematicamente a possibilidade de colisões devido à sua
+alta capacidade de processamento, garantindo que entradas
+diferentes gerem saídas únicas indefinidamente.
+82 Na ICP-Brasil, autoridades certificadoras de segundo nível
+podem ser órgãos públicos ou privados, sendo responsáveis
+pelo processo de distribuição, gerenciamento e emissão de
+certificados digitais para outras entidades, como autoridades
+de registro.
+Julgue os próximos itens, a respeito de ataques de negação de
+serviço, controles CIS, gerenciamento de incidentes de segurança
+da informação e gestão de riscos e continuidade de negócio.
+83 Considerando que os riscos, em sua maior parte, são
+estáticos, o monitoramento permanente de cenários de
+eventos, valores de ativos, ameaças e vulnerabilidades é
+desnecessário, podendo ser realizado essencialmente em
+ciclos periódicos de dois a três anos, conforme o tipo de
+negócio da organização.
+84 Conforme a ABNT NBR ISO/IEC 27002, a resposta a
+incidentes de segurança da informação deve incluir, quando
+necessária, a análise forense de segurança da informação.
+85 Um dos métodos usados em ataques PDoS consiste em
+explorar vulnerabilidades de um sistema ou dispositivo para
+substituir seu software básico por uma imagem corrompida
+de firmware, inviabilizando, assim, o funcionamento do
+dispositivo ou do sistema inteiro.
+86 De acordo com o controle CIS 03, no que se refere a dados, é
+importante para a organização desenvolver processos que
+incluam frameworks de gestão, diretrizes de classificação e
+requisitos de proteção, manuseio, retenção e descarte.
+
+
+CEBRASPE – ANM – Edital: 2024
+
+Julgue os itens a seguir, relativos a redes neurais artificiais.
+Nas redes neurais multicamadas, quando se aumenta
+significativamente a dimensão da rede neural, o esforço
+computacional para sua implementação tem um aumento
+insignificante.
+88 Uma rede neural feedforward se distingue das demais pela
+presença de uma ou mais camadas ocultas, cujos nós de
+computação são chamados de neurônios ocultos ou unidades
+ocultas, devido ao fato de que essa parte da rede neural não é
+vista diretamente da entrada ou saída da rede.
+89 Os nós de origem na camada de entrada da rede neural, isto
+é, na primeira camada oculta, fornecem os respectivos
+elementos do padrão de ativação (vetor de entrada), que
+constituem os sinais de entrada aplicados aos neurônios (nós
+de computação) na segunda camada.
+87
+
+No que se refere a inteligências artificiais (IAs) generativas e
+discriminativas, julgue os itens seguintes.
+90 Para aplicações do mundo real, como geração de imagens, as
+distribuições são extremamente complexas, e o aprendizado
+profundo não conseguiu melhorar o desempenho dos
+modelos generativos, por isso se tem optado por investir em
+uma classe importante de modelos de linguagem de grande
+escala (LLMs — large language models) autorregressivos
+baseados em transformadores.
+91 Um prompt é um conjunto de instruções que o modelo
+generativo utiliza para prever a resposta desejada.
+92 O aprendizado nas IAs discriminativas é realizado a partir da
+probabilidade condicional p(x|y).
+93 Uma IA generativa cujo aprendizado é realizado a partir da
+distribuição de probabilidade conjunta p(x,y), em que x é o
+dado de entrada e y é o rótulo que se queira classificar, pode
+gerar mais amostras por si só artificialmente, com base em
+suposições a respeito da distribuição de dados.
+94 A equação a seguir é utilizada no algoritmo de Naive Bayes
+para modelar explicitamente a distribuição real de cada
+classe.
+arg max{p(x|y)∙p(y)}
+Modelos generativos autorregressivos, modelos baseados em
+fluxo, modelos baseados em inversão frequencial e modelos
+baseados em energia são os principais grupos em que se
+divide a modelagem generativa profunda.
+96 Uma vez que uma GAN (generative adversarial network) é
+treinada, a rede discriminadora é descartada e a rede
+geradora pode ser utilizada para sintetizar novos exemplos
+no espaço de dados por amostragem do espaço latente e
+propagação dessas amostras pela rede geradora treinada.
+97 O ChatGPT e o DeepSeek são plataformas de IA generativas
+baseadas em modelos de linguagem de grande escala
+(LLMs — large language models) e o princípio tecnológico
+dessas plataformas é a arquitetura transformer, que ajuda o
+modelo a aprender as relações entre palavras e frases em
+longos trechos de texto.
+95
+
+No que se refere à computação em nuvem, julgue os itens a
+seguir.
+98 Máquinas virtuais e contêineres são versões digitais de um
+computador físico com as mesmas características e os
+mesmos processos em execução.
+99 Uma nuvem privada do tipo VPC (virtual private cloud)
+pode ser instalada em um provedor público.
+100 Nos modelos IaaS (infrastructure as a service), PaaS
+(plataform as a service) e SaaS (software as a service), a
+camada do sistema operacional é gerenciada pelo provedor
+de serviços.
+
+
+A respeito de banco de dados, julgue os próximos itens.
+101 Em SQL, a instrução mais simples para selecionar registros
+
+de uma tabela é composta pelas cláusulas SELECT e WHERE.
+102 Em um banco de dados relacional, a cláusula UNIQUE deve
+
+ser aplicada a chaves alternativas, que não a chave primária,
+para garantir a não duplicidade da chave alternativa.
+103 Os triggers são baseados no modelo evento-condição-ação,
+
+no qual um evento no banco de dados dispara uma ação
+quando determinada condição é atingida.
+Em relação a BI (business intelligence) e à modelagem de dados,
+julgue os itens que se seguem.
+104 Quando todas as colunas não chave de uma tabela dependem
+
+de toda a chave composta, essa tabela está na segunda forma
+normal (2FN).
+105 No diagrama entidade relacionamento (DER), as interações
+
+entre dois atributos são representadas pelos relacionamentos
+entre si.
+106 Em BI, a informação é o resultado da organização dos dados,
+
+ao passo que o conhecimento é a geração de valor com a
+informação.
+107 No ETL, a qualificação de dados engloba o processo de
+
+conformidade, no qual são identificados registros repetidos.
+108 Bancos de dados utilizados em data warehouses empregam
+
+uma modelagem específica e otimizada, denominada
+modelagem multidimensional.
+Julgue os itens a seguir, relativos às tecnologias CSV e JSON, à
+Linguagem SQL e ao modelo CRISP-DM.
+109 Durante a fase de data preparation (preparação dos dados)
+
+do modelo CRISP-DM, é necessário que todos os dados
+sejam normalizados e transformados em variáveis numéricas,
+independentemente de sua natureza original, para facilitar a
+análise posterior.
+110 Arquivos CSV devem obrigatoriamente incluir um cabeçalho
+
+na primeira linha para identificar os campos.
+111 A tecnologia JSON permite a aninhamento de objetos e
+
+arrays, possibilitando a construção de estruturas de dados
+complexas.
+112 No
+
+modelo
+CRISP-DM,
+durante
+a
+fase
+de
+evaluation (avaliação), os resultados do modelo são
+comparados com os objetivos do negócio para determinar
+sua eficácia e adequação.
+
+113 A cláusula GROUP BY, do SQL, pode ser utilizada sem a
+
+presença de funções agregadas, desde que haja uma cláusula
+ORDER BY para organizar os resultados da consulta.
+114 Para excluir uma tabela na linguagem SQL e liberar os
+
+recursos alocados por ela, inclusive índices e triggers
+associados, deve-se fazer uso do comando DELETE TABLE,
+pois ele remove tanto os dados quanto a estrutura da tabela.
+
+
+CEBRASPE – ANM – Edital: 2024
+
+A respeito de overfitting e underfitting, de deep learning e de
+métodos de data mining, julgue os itens que se seguem.
+115 Para reconhecer padrões de ocorrência que se repetem em
+determinados conjuntos de dados, como, por exemplo,
+padrões de consumo, é usado o método de data mining
+denominado associação.
+116 O overfitting ocorre quando um modelo de machine learning
+tem alta precisão nos dados de treinamento, mas apresenta
+desempenho significativamente pior em novos dados.
+117 A única maneira de se evitar o underfitting em um modelo
+de machine learning é reduzir a quantidade de dados de
+entrada, pois isso impede que o modelo fique sobrecarregado
+de informações irrelevantes.
+118 O uso de GPUs e TPUs acelera os cálculos necessários para
+operações matriciais e retropropagação em modelos de deep
+learning.
+119 A regressão é o método de data mining usado para prever
+valores contínuos como, por exemplo, previsão de vendas,
+preços de ações, identificação de transações fraudulentas,
+entre outros.
+120 O deep learning elimina completamente a necessidade de
+pré-processamento de dados, pois as redes neurais são
+capazes
+de
+aprender
+todas
+as
+características
+automaticamente.
+Espaço livre
+
+

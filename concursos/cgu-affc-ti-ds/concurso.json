@@ -1,0 +1,27 @@
+{
+  "id": "cgu-affc-ti-ds",
+  "orgao": "Controladoria-Geral da União (CGU)",
+  "edital": "Edital nº 1 – CGU – AFFC, de 8 de outubro de 2026",
+  "banca": "Cebraspe",
+  "pagina_oficial": "http://www.cebraspe.org.br/concursos/cgu_26_affc",
+  "cargo": {
+    "numero": 4,
+    "nome": "Auditor Federal de Finanças e Controle (AFFC)",
+    "especialidade": "Tecnologia da Informação – Desenvolvimento de Sistemas",
+    "lotacao": "Órgão Central – DF",
+    "vagas_imediatas": {"AC": 6, "PcD": 1, "PP": 3, "total": 10},
+    "limite_de_aprovados_no_concurso": {"AC": 25, "PcD": 5, "PP": 14, "PI": 5, "PQ": 5, "total": 54},
+    "aprovados_nas_objetivas_por_modalidade": 36
+  },
+  "prova": {"data": "2026-12-13", "objetivas": "manhã, 5 h", "discursiva": "tarde, 3 h 30"},
+  "provas_objetivas": {
+    "P1": {"nome": "Conhecimentos básicos", "itens": 40, "pontos_por_item": 1, "minimo": 8},
+    "P2": {"nome": "Conhecimentos complementares", "itens": 40, "pontos_por_item": 1, "minimo": 12},
+    "P3": {"nome": "Conhecimentos específicos", "itens": 90, "pontos_por_item": 2, "minimo": 54},
+    "soma_minima_P1_P2_P3": 78, "total_pontos_objetivas": 260, "julgamento": "Certo/Errado; errado desconta o mesmo valor"
+  },
+  "prova_discursiva": {"P4": {"questao_1": {"linhas": 30, "pontos": 30, "area": "complementares"}, "questao_2": {"linhas": 60, "pontos": 70, "area": "específicos (situação-problema)"}, "minimo": 50}},
+  "nota_final": "NFC = NFPO/26 + NFPD/10",
+  "ranking": {"ano_referencia": 2026, "limiar_cobertura": 0.70, "limiar_massa": 0.80, "max_nucleos_por_aula": 10},
+  "programa": {"arquivo": "programa.json", "fonte": "edital-oficial.pdf (item 15)", "sha256_edital": "d4ccc50d4fdff5345ce197658eb60ba0afa85bc841d9aef1b265900c71653985"}
+}

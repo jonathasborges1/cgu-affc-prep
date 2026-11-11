@@ -1,7 +1,128 @@
 {
   "modelo": "backtest-temporal-v2",
-  "n_itens_classificados": 93,
-  "folds_banco": [],
+  "n_itens_classificados": 1247,
+  "folds_banco": [
+    {
+      "ano_teste": 2016,
+      "bloco": "P2",
+      "treino": 32,
+      "teste": 13,
+      "mae_share": 0.18630127291543427,
+      "recall_top5": 1.0
+    },
+    {
+      "ano_teste": 2017,
+      "bloco": "P2",
+      "treino": 45,
+      "teste": 20,
+      "mae_share": 0.11000482462748132,
+      "recall_top5": 1.0
+    },
+    {
+      "ano_teste": 2017,
+      "bloco": "P3",
+      "treino": 43,
+      "teste": 36,
+      "mae_share": 0.0670111972437554,
+      "recall_top5": 0.7777777777777778
+    },
+    {
+      "ano_teste": 2019,
+      "bloco": "P3",
+      "treino": 79,
+      "teste": 10,
+      "mae_share": 0.05362711611788197,
+      "recall_top5": 0.8
+    },
+    {
+      "ano_teste": 2020,
+      "bloco": "P3",
+      "treino": 89,
+      "teste": 39,
+      "mae_share": 0.025960538753303068,
+      "recall_top5": 0.8717948717948718
+    },
+    {
+      "ano_teste": 2021,
+      "bloco": "P3",
+      "treino": 128,
+      "teste": 81,
+      "mae_share": 0.020987383220826383,
+      "recall_top5": 0.7037037037037037
+    },
+    {
+      "ano_teste": 2022,
+      "bloco": "P2",
+      "treino": 69,
+      "teste": 8,
+      "mae_share": 0.14211525141917294,
+      "recall_top5": 1.0
+    },
+    {
+      "ano_teste": 2022,
+      "bloco": "P3",
+      "treino": 209,
+      "teste": 59,
+      "mae_share": 0.024433332095477794,
+      "recall_top5": 0.8305084745762712
+    },
+    {
+      "ano_teste": 2023,
+      "bloco": "P2",
+      "treino": 77,
+      "teste": 14,
+      "mae_share": 0.1597490339200631,
+      "recall_top5": 0.9285714285714286
+    },
+    {
+      "ano_teste": 2023,
+      "bloco": "P3",
+      "treino": 268,
+      "teste": 143,
+      "mae_share": 0.034370031388616856,
+      "recall_top5": 0.5034965034965035
+    },
+    {
+      "ano_teste": 2024,
+      "bloco": "P1",
+      "treino": 24,
+      "teste": 43,
+      "mae_share": 0.027213444126515014,
+      "recall_top5": 0.9534883720930233
+    },
+    {
+      "ano_teste": 2024,
+      "bloco": "P2",
+      "treino": 91,
+      "teste": 58,
+      "mae_share": 0.10887014477661398,
+      "recall_top5": 0.9137931034482759
+    },
+    {
+      "ano_teste": 2024,
+      "bloco": "P3",
+      "treino": 411,
+      "teste": 546,
+      "mae_share": 0.03456270622009009,
+      "recall_top5": 0.532967032967033
+    },
+    {
+      "ano_teste": 2025,
+      "bloco": "P2",
+      "treino": 149,
+      "teste": 6,
+      "mae_share": 0.09124002905070182,
+      "recall_top5": 0.8333333333333334
+    },
+    {
+      "ano_teste": 2025,
+      "bloco": "P3",
+      "treino": 957,
+      "teste": 59,
+      "mae_share": 0.03416874417017431,
+      "recall_top5": 0.5254237288135594
+    }
+  ],
   "p1_rotulos": {
     "rotulos": 650,
     "folds": [
@@ -54,10 +175,10 @@
     "gate_dados_minimos": true
   },
   "resumo": {
-    "folds": 0,
-    "itens_teste": 0,
-    "mae_share_medio": 0.0,
-    "recall_top5_medio": 0.0
+    "folds": 15,
+    "itens_teste": 1135,
+    "mae_share_medio": 0.04311215514899309,
+    "recall_top5_medio": 0.6370044052863436
   },
   "gate_dados_minimos": true,
   "conclusao": "P1 avaliavel; P2/P3 ainda sem rotulos temporais suficientes"

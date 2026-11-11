@@ -1,0 +1,5 @@
+{"item": "3", "edital": "P3·DADOS 1.5", "relevancia": "media", "nucleo_id": "n-bloqueio-deadlock-sgbd", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "5", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["ESCOPO"], "nivel": "dificil"}
+{"item": "8", "edital": "P3·ENG 3.1", "relevancia": "media", "nucleo_id": "n-multicore-paralelismo-threads", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "13", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "15", "edital": "P3·ENG 5.2", "relevancia": "media", "nucleo_id": "n-migracao-paralela-legado", "tags": ["ABSOLUTO"], "nivel": "medio"}

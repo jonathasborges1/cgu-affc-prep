@@ -1,0 +1,13 @@
+{
+ "pool": 8228,
+ "lidas": 110,
+ "p3_lidas": 16,
+ "estimativa_amostral": 1197,
+ "estimativa_modelo": 1328,
+ "ic90_modelo": [
+  950,
+  1690
+ ],
+ "auc_lidas": 0.8257978723404256,
+ "aviso": "so 110 lidas e ~16 positivos: tratar como ordem de grandeza; nao substitui leitura"
+}

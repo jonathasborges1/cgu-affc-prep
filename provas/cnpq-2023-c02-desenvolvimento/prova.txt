@@ -1,0 +1,384 @@
+-- CONHECIMENTO
+Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+51 O projeto básico, documento constitutivo da primeira etapa
+do planejamento de uma contratação, dá a base para o
+anteprojeto e caracteriza o interesse público na contratação.
+52 Na contratação de projetos e serviços de desenvolvimento de
+softwares, os autores devem ceder à administração pública
+todos os direitos patrimoniais a eles relativos; assim, os
+softwares poderão ser livremente alterados e utilizados em
+outras ocasiões, sem necessidade de novas autorizações por
+parte dos autores.
+No que se refere à gestão e à fiscalização de contratos de TI,
+julgue os itens que se seguem.
+53 A renovação contratual e o gerenciamento de riscos de uma
+contratação de TI poderão utilizar como subsídio o histórico
+de gestão de contrato, artefato que permite documentar os
+principais acontecimentos positivos ou negativos que
+ocorrerem durante a execução do contrato.
+54 Na execução de um serviço de TI, o contratado poderá
+empregar um agente público que estiver atuando na
+fiscalização ou na gestão do contrato, desde que o edital de
+licitação expressamente o permita.
+Julgue os itens que se seguem, relativos a eMAG e ePING.
+55 De acordo com o índice de maturidade em acessibilidade
+digital do eMAG, o nível 3 refere-se à validação automática
+para a verificação do atendimento dos requisitos de
+acessibilidade de produtos contratados por fornecedores de
+TI.
+56 O avaliador e simulador de acessibilidade em sítios do
+governo federal (ASES) possui três formas de validação: por
+URI, por upload de arquivo e por código fonte.
+57 Perceptível, operável, compreensível e inteligente são os
+quatro princípios propostos pelo World Wide Web
+Consortium que regem a acessibilidade na Web.
+58 Os padrões e políticas preconizados pela ePING são de uso
+obrigatório por parte do Poder Executivo do governo federal.
+59 Na ePING, o desenvolvimento de ontologias e de recursos de
+organização da informação, a adoção de padrão de
+modelagem de dados e de uma política de disseminação de
+dados e informações fazem parte da dimensão semântica das
+políticas gerais.
+Com relação ao ITIL v4 e ao Cobit 2019, julgue os itens que se
+seguem.
+60 O Cobit 2019 propõe um sistema de governança corporativa
+de TI que, por ser genérico e universal, pode ser
+implementado por qualquer tipo de organização,
+independentemente de sua natureza ou área de negócio, sem
+a necessidade de adaptação ou personalização às
+necessidades da organização.
+61 No domínio de avaliar, dirigir e monitorar, encontram-se
+processos de governança do Cobit 2019.
+62 A cadeia de valor de serviço do ITIL v4 possui como
+elemento central o sistema de valor de serviço (SVS).
+63 O gerenciamento de desempenho do Cobit 2019 utiliza-se de
+cinco níveis de maturidade de áreas foco, alcançados quando
+todos os processos contidos em uma área foco estão em um
+determinado nível de capacidade de processos, o qual é
+embasado no CMMI (Capability Maturity Model
+Integration).
+64 Desenvolvimento e gerenciamento de software é uma das
+práticas de gerenciamento de serviços do ITIL v4.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+OS ESPECÍFICOS -Julgue os itens a seguir, considerando a Lei n.º 12.527/2011
+(Lei de Acesso à Informação), o Decreto n.º 7.845, o Decreto
+n.º 7.724, e suas alterações.
+65 O Decreto n.º 7.724 inclui autarquias e sociedades de
+economia mista na sua abrangência.
+66 A Lei n.º 12.527/2011 reconhece a obrigatoriedade de
+consentimento para divulgação de informações pessoais
+quando estas forem necessárias à prevenção e diagnóstico
+médico, quando o interessado estiver física ou legalmente
+incapaz, com a finalidade única e exclusiva de tratamento
+médico.
+67 O Decreto n.º 7.845 tem por objetivo regulamentar
+exclusivamente procedimentos para credenciar e tratar
+segurança da informação classificada como confidencial no
+âmbito do Poder Executivo federal.
+Com base na Lei n.º 12.737/2012 (Lei de Delitos Informáticos),
+julgue os itens a seguir.
+68 Multa financeira e atuação em trabalhos sociais são as penas
+previstas para interrupção ou perturbação de serviço de
+informação de utilidade pública.
+69 Configura-se como crime divulgar informações de forma não
+autorizada, obtidas por meio de invasão.
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados),
+julgue os itens subsecutivos.
+70 Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais
+tem assegurado o direto de obter informações a respeito do
+tratamento dos seus dados.
+71 A Lei Geral de Proteção de Dados aborda o tratamento de
+dados pessoais e se aplica também à administração pública.
+72 Os dados que forem anonimizados serão considerados dados
+pessoais para os fins da Lei Geral de Proteção de Dados
+independente se a anonimização possa ser revertida ou não.
+Julgue os itens subsequentes, a respeito de governo eletrônico.
+Um dos princípios fundamentais do governo eletrônico é a
+transparência promovida por meio do acesso a informações
+públicas.
+74 O governo eletrônico contempla o desenvolvimento de
+padrões de interoperabilidade que definem um conjunto de
+especificações técnicas, as quais ajudam a regulamentar o
+uso de tecnologia da informação e da comunicação no Poder
+Executivo federal.
+75 Programas e especificações de segurança da informação não
+fazem parte das iniciativas de governo eletrônico.
+73
+
+Julgue os próximos itens, no que se refere à arquitetura de
+sistemas.
+76 No sistema com arquitetura em camadas, a camada mais
+interna é responsável pela integração com o sistema
+operacional.
+77 Na arquitetura MVC (model-view-controler), o componente
+controlador incorpora todos os estados de um webapp.
+78 As diversas visões da descrição arquitetural de um sistema
+representam as necessidades específicas de um grupo
+específico de envolvidos.
+79 Na arquitetura orientada a objeto, os dados e as operações
+são encapsulados para facilitar a manipulação das
+informações.
+
+
+A respeito de contêineres, julgue os itens seguintes.
+80
+
+Para facilitar o intercâmbio de dados, arquivos e diretórios
+de um contêiner específico estão disponíveis para outros
+contêineres.
+
+81
+
+A utilização de contêineres garante que o mesmo pacote seja
+instalado nos diversos ambientes de uma organização, como,
+por exemplo, ambientes de desenvolvimento, homologação e
+produção de TI.
+
+82
+
+Devido a conflitos de implementação, aplicações com
+microsserviços não podem ser construídas com a utilização
+de contêineres.
+
+Julgue os itens subsecutivos, com relação a requisitos e
+componentes de software.
+83
+
+No desenvolvimento de um sistema, arquitetura e design são
+considerados como sinônimos, possuindo os mesmos
+objetivos de qualidade e comportamento.
+
+84
+
+O design de software pode ser aplicado como produto, em
+uma abstração do mundo real, ou como processo, orientado
+aos objetivos do software.
+
+85
+
+Além dos requisitos funcionais, o designer de software deve
+considerar os requisitos não funcionais, que representam as
+expectativas dos clientes e usuários.
+
+86
+
+O projeto de componentes de um software detalha a estrutura
+de cada componente em um nível de abstração próximo à
+linguagem de máquina.
+
+No que se refere a serviços de integração, julgue os itens que se
+seguem.
+87
+
+A sequência a seguir é uma lista que representa um objeto no
+formato JSON.
+{atributo1:valor1 , atributo2:valor 2}
+
+88
+
+Na gestão de configuração de software, os elementos de
+processos representam ações e tarefas para um controle
+eficaz das alterações no software.
+
+89
+
+A existência de um repositório de versões é fundamental
+para o controle das alterações nos artefatos individuais.
+
+90
+
+As mensagens SOAP são escritas em HTML para facilitar a
+manipulação em diversas plataformas.
+
+91
+
+Em um serviço web do tipo RESTful, todos os métodos são
+identificados pela mesma URL.
+
+Acerca de padrões de projeto, julgue os itens seguintes.
+92
+
+O padrão adapter da visão GoF permite que uma classe de
+persistência seja adaptada de acordo com o banco de dados
+utilizado na aplicação.
+
+93
+
+Os padrões de comando da visão GoF determinam o
+encapsulamento de uma ação e seus respectivos parâmetros.
+
+94
+
+Na visão GoF, o padrão singleton define que cada classe
+pode ser instanciada em um único objeto.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Julgue os itens subsequentes, com relação a ferramentas de
+DevOps, gestão de ativos e autenticação única (single sing-on).
+95
+
+Uma das vantagens do single sign-on é garantir a
+privacidade das informações do usuário, por meio do uso da
+identidade federada.
+
+96
+
+Os módulos puppets de DevOps permitem que um usuário
+defina os nomes e as localizações dos diretórios de um
+sistema.
+
+97
+
+Em DevOps, a análise estática de código e geração de
+documentação fazem parte do processo de build de uma
+aplicação.
+
+98
+
+Na gestão de ativos, um dos objetivos da classificação da
+informação é prevenir, por exemplo, a divulgação indevida
+de dados em mídias físicas.
+
+99
+
+O controle de acesso da gestão de ativos é responsável por
+tratar os controles lógicos (privilégios e senhas, por
+exemplo) e físicos (segurança física e do ambiente, por
+exemplo) de uma organização.
+
+100 Uma premissa do processo de autenticação do modelo single
+
+sign-on é garantir a revelação mínima de dados para um
+contexto.
+A respeito de Scrum, julgue os itens a seguir.
+101 O backlog do produto é um subconjunto de itens do backlog
+
+do sprint selecionado pela equipe do produto para ser
+completado na forma do incremento de código durante o
+sprint ativo atual.
+102 Os princípios do Scrum são utilizados para orientar as
+
+atividades de desenvolvimento dentro de um processo que
+incorpora as atividades metodológicas para requisitos,
+análise, projeto, evolução e entrega do software; em cada
+uma dessas atividades são realizadas tarefas em sprints
+específicos, correspondentes a cada uma delas.
+Em relação aos aspectos associados à qualidade do software,
+julgue os itens que se seguem.
+103 Caso um sistema esteja sujeito a uma probabilidade de
+
+ataque de 25% e a sua probabilidade de repelir esse ataque
+seja de 95%, a integridade do software será muito alta, de
+aproximadamente 99%.
+104 De acordo com a norma ISO 25010, o modelo de qualidade
+
+em uso aplicado ao software descreve as seguintes
+características: adequação funcional, eficiência de
+desempenho, compatibilidade, usabilidade, confiabilidade,
+segurança, facilidade de manutenção e portabilidade.
+Acerca de controle de versão, julgue o próximo item.
+105 Para se implantar um gerenciamento efetivo de alterações do
+
+tipo “codifique e vá em frente”, recomenda-se modificar o
+processo convencional de controle de alterações de software,
+criando-se classes de alterações que terão fluxos de
+tratamentos diferenciados.
+
+
+Julgue os itens subsequentes, considerando os aspectos da
+engenharia de software associados ao levantamento de requisitos
+ou à elicitação de requisitos, os quais combinam elementos de
+solução de problemas, elaboração, negociação e especificação do
+software.
+106 Os diagramas de casos de uso, diagramas de atividades e
+
+diagramas de sequência constituem ferramentas para a
+modelagem de requisitos e a definição de cenários na UML.
+107 Um caso de uso, independentemente da sua forma,
+
+representa o software ou o sistema do ponto de vista do
+analista.
+No que se refere às técnicas de análise de desempenho dos
+softwares, julgue os itens seguintes.
+108 A finalidade do teste de esforço é determinar o modo como,
+
+por exemplo, a aplicação web e seu ambiente do lado do
+servidor responderão a várias condições operacionais.
+109 Os testes de carga e os testes de esforço são testes de
+
+desempenho que exigem instrumentação de hardware e
+software, uma vez que frequentemente é necessário medir a
+utilização dos recursos de forma precisa.
+Julgue os itens a seguir, relativos aos elementos da modelagem
+funcional baseada na UML.
+110 Um diagrama de sequência da UML complementa o caso de
+
+uso por meio de uma representação gráfica do fluxo de
+interação em um cenário específico, representando como o
+sistema reage a eventos internos.
+111 Independentemente do nível de abstração procedural, o
+
+diagrama de atividades da UML deve ser utilizado apenas
+para representar detalhes do processamento.
+Julgue os itens subsecutivos, relacionados a DevSecOps.
+112 No contexto das equipes de desenvolvimento de software, o
+
+DevSecOps representa uma evolução pelo fato de integrar ao
+processo uma equipe específica que trata exclusivamente da
+segurança de software, liberando as equipes de
+desenvolvimento e operacionais dessa tarefa, de forma a
+agilizar significativamente a entrega do software.
+113 O
+
+processo shift left tem por objetivo encorajar os
+desenvolvedores de software a migrarem a segurança da
+direita (fim) para a esquerda (início) do processo de DevOps
+(entrega).
+
+Em relação ao desenvolvimento guiado por teste (TDD), julgue
+os itens que se seguem.
+114 No TDD, o teste deve ser criado com o objetivo de fazer o
+
+segmento de código falhar, gerando-se um processo iterativo
+que permite a submissão de muitas subfunções
+simultaneamente, o que confere uma agilidade significativa
+ao processo.
+115 O TDD é uma tendência que enfatiza o projeto de casos de
+
+teste antes da criação do código fonte e se caracteriza como
+parte do modelo ágil de desenvolvimento de software.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Considerando o modelo de processo de prototipação, julgue os
+próximos itens.
+116 O envolvimento do cliente, o uso do protótipo em produção
+parcial, o rápido planejamento e o fácil gerenciamento são
+vantagens da prototipação.
+117 Após a definição dos objetivos gerais, o protótipo, nessa
+modelagem, atua como um mecanismo para identificar os
+requisitos do software.
+Julgue os itens seguintes, a respeito do desenvolvimento
+orientado ao comportamento (BDD).
+118 Ao se utilizar a metodologia BDD, espera-se que as entregas
+sejam feitas com menor quantidade de retrabalho e com
+cobertura de testes automatizados, a documentação passe a
+ser integrada ao sistema, e os projetos passem a ter
+estimativas dentro do prazo, com custos controlados.
+119 Durante o período do BDD, os planos serão validados pelos
+desenvolvedores conforme previsto pelo TDD por meio de
+ferramentas de teste como JUnit e Mockito.
+120 A linguagem ubíqua Cucumber é utilizada para a definição
+de cenários iniciais no BDD e permite que a equipe de
+negócios faça levantamentos com as partes interessadas
+(stakeholders) e os transforme em histórias do usuário
+(user story).
+Espaço livre
+
+

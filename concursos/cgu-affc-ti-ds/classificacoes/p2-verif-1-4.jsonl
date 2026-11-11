@@ -1,0 +1,50 @@
+{"id":"v1-4-01","codigo":"P2·AUD 1","rel":"media","motivo":"ceticismo profissional"}
+{"id":"v1-4-02","codigo":"P2·AUD 1","rel":"media","motivo":"fiscalização x auditoria"}
+{"id":"v1-4-03","codigo":"OUTRO","rel":"fora","motivo":"VoIP"}
+{"id":"v1-4-04","codigo":"P2·EVID 3","rel":"alta","motivo":"avaliação de impacto e causalidade"}
+{"id":"v1-4-05","codigo":"P2·TRANSP 1","rel":"alta","motivo":"pedidos de acesso e motivação"}
+{"id":"v1-4-06","codigo":"P2·GOV 2","rel":"alta","motivo":"segregação de funções"}
+{"id":"v1-4-07","codigo":"OUTRO","rel":"fora","motivo":"PDPJ"}
+{"id":"v1-4-08","codigo":"OUTRO","rel":"fora","motivo":"biotecnologia"}
+{"id":"v1-4-09","codigo":"OUTRO","rel":"fora","motivo":"finanças"}
+{"id":"v1-4-10","codigo":"OUTRO","rel":"fora","motivo":"RH"}
+{"id":"v1-4-11","codigo":"OUTRO","rel":"fora","motivo":"contagem de pontos"}
+{"id":"v1-4-12","codigo":"OUTRO","rel":"fora","motivo":"projetos"}
+{"id":"v1-4-13","codigo":"P2·AUD 3","rel":"alta","motivo":"suficiência e adequação da evidência"}
+{"id":"v1-4-14","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-4-15","codigo":"OUTRO","rel":"fora","motivo":"administração (P1)"}
+{"id":"v1-4-16","codigo":"OUTRO","rel":"fora","motivo":"logística"}
+{"id":"v1-4-17","codigo":"OUTRO","rel":"fora","motivo":"interpretação de texto"}
+{"id":"v1-4-18","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dados sensíveis sem consentimento"}
+{"id":"v1-4-19","codigo":"OUTRO","rel":"fora","motivo":"resposta a incidentes"}
+{"id":"v1-4-20","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-4-21","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-4-22","codigo":"OUTRO","rel":"fora","motivo":"sociologia (P1)"}
+{"id":"v1-4-23","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}
+{"id":"v1-4-24","codigo":"OUTRO","rel":"fora","motivo":"arquitetura"}
+{"id":"v1-4-25","codigo":"P2·GOV 1","rel":"baixa","motivo":"transição e prestação de contas"}
+{"id":"v1-4-26","codigo":"OUTRO","rel":"fora","motivo":"data warehouse"}
+{"id":"v1-4-27","codigo":"P2·DIR 2","rel":"alta","motivo":"acesso a autos de procedimento investigativo"}
+{"id":"v1-4-28","codigo":"P2·AUD 1","rel":"alta","motivo":"três linhas"}
+{"id":"v1-4-29","codigo":"OUTRO","rel":"fora","motivo":"arquivologia"}
+{"id":"v1-4-30","codigo":"P2·GOV 2","rel":"baixa","motivo":"gestão de riscos proporcional"}
+{"id":"v1-4-31","codigo":"OUTRO","rel":"fora","motivo":"economia"}
+{"id":"v1-4-32","codigo":"OUTRO","rel":"fora","motivo":"receita pública"}
+{"id":"v1-4-33","codigo":"OUTRO","rel":"fora","motivo":"comunicação"}
+{"id":"v1-4-34","codigo":"OUTRO","rel":"fora","motivo":"OneDrive"}
+{"id":"v1-4-35","codigo":"OUTRO","rel":"fora","motivo":"contratos"}
+{"id":"v1-4-36","codigo":"P2·AUD 3","rel":"media","motivo":"evidências ineptas"}
+{"id":"v1-4-37","codigo":"OUTRO","rel":"fora","motivo":"contratos"}
+{"id":"v1-4-38","codigo":"OUTRO","rel":"fora","motivo":"segurança"}
+{"id":"v1-4-39","codigo":"OUTRO","rel":"fora","motivo":"LRF"}
+{"id":"v1-4-40","codigo":"P2·GOV 2","rel":"baixa","motivo":"controles contra lavagem"}
+{"id":"v1-4-41","codigo":"OUTRO","rel":"fora","motivo":"transporte"}
+{"id":"v1-4-42","codigo":"P2·GOV 1","rel":"media","motivo":"papéis na gestão de riscos corporativos"}
+{"id":"v1-4-43","codigo":"OUTRO","rel":"fora","motivo":"automação"}
+{"id":"v1-4-44","codigo":"P2·AUD 2","rel":"baixa","motivo":"amostragem baseada em risco"}
+{"id":"v1-4-45","codigo":"P2·AUD 1","rel":"alta","motivo":"auditoria governamental interna e externa"}
+{"id":"v1-4-46","codigo":"OUTRO","rel":"fora","motivo":"banco de dados"}
+{"id":"v1-4-47","codigo":"OUTRO","rel":"fora","motivo":"finanças"}
+{"id":"v1-4-48","codigo":"OUTRO","rel":"fora","motivo":"tributário"}
+{"id":"v1-4-49","codigo":"P2·AUD 3","rel":"baixa","motivo":"circularização"}
+{"id":"v1-4-50","codigo":"OUTRO","rel":"fora","motivo":"registro de preços"}

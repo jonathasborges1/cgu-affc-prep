@@ -1,0 +1,476 @@
+||525_TCDF_CB1_01N153704||
+
+•       Cada um dos itens das provas objetivas está vinculado ao coman
+        cada um deles esteja vinculado, marque, na Folha de Resposta
+        o item CERTO; ou o campo designado com o código E, caso j
+•       A ausência de marcação ou a marcação de ambos os campos não
+        devidas marcações, use a Folha de Respostas, único document
+•       Caso haja item(ns) constituído(s) pela estrutura Situação hipotét
+        hipotética deverão ser considerados premissa(s) para o julgame
+•       Eventuais espaços livres — identificados ou não pela expressão
+        ser utilizados para rascunho.
+
+                                                         CONHECIMEN
+Texto CB1A1
+    1            Viver em uma cidade ou no campo tem diferenças
+        bem definidas em várias áreas, como mercado de trabalho,
+        opções de lazer e transporte. Mas o que um novo estudo
+    4   descobriu é que o ambiente em que você cresce também tem
+        influência nas suas habilidades de localização — e esse efeito
+        varia de país para país.
+    7            Na pesquisa, os estudiosos analisaram dados de um
+        jogo de celular para aferir a habilidade de navegação espacial
+        das pessoas. No game, os jogadores controlam um barco e têm
+10      que memorizar um mapa do mar onde há certos locais
+        marcados. Eles então têm que seguir o caminho guiados apenas
+        pela memória, passando pelos objetivos invisíveis antes de
+13      cruzar a linha de chegada. A pesquisa envolveu mais de 440
+        mil pessoas de 38 países.
+                 Além da jogatina, os pesquisadores também aplicaram
+16      questionários e coletaram dados sobre os participantes, como
+        idade, gênero, nível educacional e local de origem. Os
+        resultados mostraram que pessoas que haviam crescido em
+19      cidades erravam muito mais no game, enquanto quem era de
+        áreas rurais ou vilarejos tinha uma taxa de acerto maior. E isso
+        se manteve independentemente de correções de outros fatores,
+22      como idade ou gênero. Estudos anteriores da mesma equipe
+        mostraram que há correlação entre as habilidades de navegação
+        das pessoas no jogo e na vida real — como se localizar em uma
+25      cidade, por exemplo.
+                 A diferença entre moradores urbanos e rurais foi
+        maior nos Estados Unidos da América, onde as cidades
+28      costumam ter formato de grade (com ruas paralelas e
+        perpendiculares). Já na Europa, onde as cidades são mais
+        irregulares, a diferença entre pessoas oriundas de zonas
+31      urbanas e pessoas vindas de zonas rurais foi menor.
+                 O estudo não estabeleceu os motivos por trás do
+        resultado, mas dá para teorizar. Embora as cidades possam
+34      passar a impressão de serem mais confusas e caóticas do que
+        as tranquilas zonas rurais, elas estão cheias de elementos e
+        recursos de localização (placas, nomes de ruas, normas de
+37      trânsito etc.). Também oferecem meios de transporte, como
+        ônibus ou metrô, em que você não precisa memorizar o
+        caminho — somente os pontos inicial e final. Talvez tudo isso,
+40      a longo prazo, acabe prejudicando o desenvolvimento da
+        capacidade de se orientar. Já em áreas rurais ou vilarejos, sem
+        essas ajudas, o jeito é aprender na marra mesmo.
+                          Bruno Carbinatto. Pessoas que crescem em cidades têm senso de direção
+                          pior. In: Revista Superinteressante, fev./2020. Internet:
+                          <https://super.abril.com.br> (com adaptações).
+
+
+
+Com relação às ideias e à tipologia do texto CB1A1, julgue os itens
+a seguir.
+1       Depreende-se do texto que fatores como idade e gênero têm
+        impacto semelhante ao impacto do local de habitação no que
+        se refere à medida das habilidades de localização das pessoas.
+
+                             CEBRASPE – TCDF – Aplicação: 2021
+
+ndo que imediatamente o antecede. De acordo com o comando a que
+as, para cada item: o campo designado com o código C, caso julgue
+julgue o item ERRADO.
+o serão apenadas, ou seja, não receberão pontuação negativa. Para as
+ to válido para a correção das suas provas objetivas.
+tica: ... seguida de Assertiva: ..., os dados apresentados como situação
+ento da assertiva proposta.
+o “Espaço livre” — que constarem deste caderno de provas poderão
+
+
+NTOS BÁSICOS
+  2    De acordo com o texto, os meios de transporte e o aparato de
+
+       sinalização urbana podem debilitar o desenvolvimento de um
+
+       senso de orientação espacial mais acurado.
+
+
+  3    Infere-se dos dois últimos parágrafos do texto que, quanto mais
+
+       organizado o formato de uma cidade, piores serão as
+
+       habilidades de navegação de seus habitantes.
+
+
+  4    Sendo uma reportagem de divulgação científica, o texto
+
+       apresenta     uma    estrutura    tipológica    essencialmente
+
+       argumentativa.
+
+
+  Considerando os sentidos e os aspectos linguísticos do texto
+
+  CB1A1, julgue os itens que se seguem.
+
+
+
+  5    A expressão “esse efeito” (R.5) faz referência à relação entre
+
+       local de moradia e habilidade de localização, estabelecida
+
+       anteriormente.
+
+
+  6    No texto, o sentido de “teorizar” (R.33) é equivalente a criar
+
+       hipóteses.
+
+
+  7    No último período do texto, a expressão “o jeito é aprender na
+
+       marra” (R.42) estabelece a ideia de que as pessoas que moram
+
+       em áreas rurais ou vilarejos aprendem a se orientar enfrentando
+
+       com coragem as circunstâncias dificultosas.
+
+
+  8    O pronome “Eles” (R.11) retoma “estudiosos” (R.7).
+
+||525_TCDF_CB1_01N153704||
+
+Texto CB1A2
+
+    1             O mundo urbano já abriga mais da metade da
+        população do planeta, e os processos de urbanização espalham
+        globalmente, mas de forma desigual, tanto os benefícios quanto
+    4   as crises da ocupação urbana do espaço. Com isso, o
+        planejamento urbano e a gestão das cidades e áreas
+        metropolitanas vêm sendo inseridos em discussões na busca de
+    7   alternativas para a urbanização e para o desenvolvimento
+        urbano, a fim de mitigar os impactos nocivos e adaptar o
+        ordenamento territorial e a distribuição socioespacial das
+10      cidades às condições de ambiente e clima locais e regionais.
+        O movimento de (re)pensar o planejamento das cidades para
+        que se obtenha um modelo em que o desenvolvimento urbano
+13      possa ser mais social e ambientalmente sustentável passará a
+        ser essencial daqui a alguns anos, considerando-se tanto as
+        desigualdades que esses processos carregam em si quanto os
+16      problemas ambientais e climáticos desencadeados por eles.
+                  Por um lado, uma parcela da população urbana usufrui
+        dos avanços técnico-científicos, da infraestrutura e do conforto
+19      que a vida urbana e sua produção econômica disponibilizam;
+        por outro lado, grande parte do mundo sofre com as
+        consequências socioeconômicas das políticas econômicas e de
+22      expansão de mercados, que promovem exclusão, desigualdade
+        e vulnerabilidade no mercado de trabalho e na gestão e no
+        planejamento urbanos. As cidades, sejam elas grandes
+25      aglomerados, como metrópoles, ou pequenas comunidades,
+        enquanto aglomerações urbanas, são permeadas, em diversos
+        níveis, por questões de desigualdade socioeconômica e
+28      questões que envolvem uma mudança de discurso para
+        melhorar as condições ambientais, como propostas de consumo
+        consciente e saneamento básico: o meio urbano e o padrão do
+31      desenvolvimento urbano são um desafio quando se considera
+        promover mudanças nos padrões insustentáveis de consumo.
+        Ana Célia Baía Araújo e Zoraide Souza Pessoa. O desafio das cidades sustentáveis: prós e contras de
+        uma proposta para o desenvolvimento urbano. Internet: <http://anpur.org.br> (com adaptações).
+
+
+
+Considerando as ideias do texto CB1A2, julgue os itens a seguir.
+
+9       Segundo o texto, os padrões de consumo promovidos pelas
+        aglomerações urbanas são irreversíveis, o que justifica a
+        necessidade de se repensar o planejamento das cidades.
+10      De acordo com o texto, há uma tendência de discussões com
+        vistas a minorar impactos negativos das ocupações urbanas e
+        promover adaptabilidade do ordenamento territorial e da
+        distribuição socioespacial das cidades às suas condições
+        regionais.
+11      Depreende-se do texto que planejamento das cidades e
+        sustentabilidade social e ambiental são aspectos que deverão
+        ser pensados separadamente.
+
+                          CEBRASPE – TCDF – Aplicação: 2021
+
+Com relação aos aspectos linguísticos e aos sentidos do texto
+CB1A2, julgue os próximos itens.
+12   O emprego de vírgulas para isolar o trecho “enquanto
+     aglomerações urbanas” (R.26) justifica-se pela natureza
+     explicativa desse trecho dentro do período.
+13   A forma verbal “vêm” (R.6) é acentuada devido à concordância
+     que estabelece com o termo “o planejamento urbano e a gestão
+     das cidades e áreas metropolitanas” (R. 4 a 6).
+14   Sem prejuízo da correção gramatical e da coerência do texto,
+     o trecho “uma parcela da população urbana usufrui dos
+     avanços técnico-científicos, da infraestrutura e do conforto que
+     a vida urbana e sua produção econômica disponibilizam”
+     (R. 17 a 19) poderia ser reescrito da seguinte forma: uma
+     parcela da população urbana usufrui dos avanços
+     técnico-científicos, da infraestrutura e do conforto
+     disponibilizados pela vida urbana e pela produção econômica
+     deles.
+15   A correção gramatical do texto seria mantida caso se inserisse
+     o acento indicativo de crase no vocábulo “a” presente no
+     trecho “daqui a alguns anos” (R.14), visto que o emprego desse
+     sinal é optativo nesse caso.
+Considerando aspectos relevantes acerca do Distrito Federal, desde
+distintos contextos históricos à realidade atual, julgue os itens
+seguintes.
+16   A ocupação das áreas vizinhas à nova capital, inaugurada em
+     1960, em larga medida acompanhou a experiência de
+     planejamento urbano que presidiu a construção de Brasília. Daí
+     a facilidade de implantação da Região Integrada de
+     Desenvolvimento (RIDE), que minimiza ao extremo as
+     pressões por emprego e por serviços essenciais das populações
+     do Entorno sobre o Distrito Federal.
+17   A ideia de transferência da capital brasileira para o interior do
+     país é antiga: no contexto da Independência, um importante
+     argumento para essa mudança era o da segurança ante a
+     possibilidade de ataque vindo pelo mar. Na República, no
+     governo de Juscelino Kubitschek, na segunda metade da
+     década de 50 do século XX, prevalecia a defesa da
+     interiorização do desenvolvimento, incorporando-se aos
+     centros dinâmicos da economia nacional extensas regiões até
+     então relegadas a um plano secundário.
+No que se refere a diversos aspectos do Distrito Federal e da Região
+Integrada de Desenvolvimento do Distrito Federal e Entorno
+(RIDE-DF), julgue os próximos itens.
+18   As sedes de antigas fazendas e os setores tradicionais dos
+     assentamentos vernaculares do DF, como Planaltina e
+     Brazlândia, são exemplos da identidade de uso e ocupação do
+     solo e da morfologia arquitetônica das cidades do Planalto
+     Central anteriores à construção da cidade de Brasília — à
+     época da construção da nova capital, essas cidades de pequeno
+     porte eram centros de apoio ao meio rural goiano.
+19   Os congestionamentos, as deficiências do transporte público,
+     os longos períodos de tempo gastos nos deslocamentos e as
+     distâncias entre os municípios do Entorno e as Regiões
+     Administrativas do DF geram uma deseconomia de escala
+     relacionada ao transporte de massa público e privado na
+     RIDE-DF.
+
+||525_TCDF_CB1_01N153704||
+
+Com base na Lei Orgânica do Distrito Federal, julgue os itens a
+seguir.
+20   Conselheiro do Tribunal de Contas do Distrito Federal que
+     praticar crime de homicídio para assegurar a sua impunidade
+     na prática do crime de estelionato será julgado pelo Superior
+     Tribunal de Justiça.
+21   A remuneração do auditor de controle externo do Tribunal de
+     Contas do Distrito Federal não poderá exceder, em espécie, o
+     subsídio mensal do chefe do Poder Executivo.
+A respeito da tributação, do orçamento e da ordem econômica do
+Distrito Federal, julgue os itens a seguir.
+22   O turismo é fator que possibilita o desenvolvimento
+     socioeconômico e a afirmação de valores culturais nacionais e
+     locais, cabendo ao Distrito Federal desenvolver efetiva
+     infraestrutura turística para promoção, no Brasil e no exterior,
+     do turismo distrital.
+23   Se o governo do Distrito Federal pretender majorar tributo de
+     sua competência, faltando sessenta dias para o encerramento do
+     exercício financeiro, ele dependerá, necessariamente, de
+     autorização na lei de diretrizes orçamentárias para encaminhar
+     projeto de lei à Câmara Legislativa com a respectiva pretensão.
+A respeito de atos administrativos, dos princípios administrativos,
+do processo administrativo e dos poderes da administração pública,
+julgue os itens a seguir.
+24   O ato regulamentar poderá impor obrigações e direitos, desde
+     que estes não sejam contrários à lei que tiver ensejado a sua
+     prática.
+25   Por meio da licença, ato unilateral e vinculado, a administração
+     faculta aos interessados o exercício de determinada atividade.
+26   Dado o princípio da confiança, caso verificada legítima
+     expectativa do administrado, pode haver a manutenção de atos
+     administrativos antijurídicos.
+27   Segundo entendimento do STJ, o ato de instauração válido do
+     processo administrativo disciplinar constitui o marco inicial da
+     contagem do prazo prescricional.
+A respeito de serviços públicos, improbidade administrativa, acesso
+a informação, e licitações e contratos, julgue os itens que se seguem.
+28   Jovem de quinze anos de idade que apresente ao TCDF pedido
+     de acesso a informação independerá de representação dos seus
+     pais ou responsáveis para que seja atendido.
+29   Pessoa física que elabore projeto básico ou executivo para
+     licitação de órgão público poderá participar do mesmo certame
+     licitatório se não for servidor da administração pública
+     envolvida.
+30   Em um contrato de concessão pública, o poder concedente
+     poderá autorizar que os financiadores e garantidores da
+     concessionária assumam temporariamente o controle da
+     administração, o que lhes permite indicar membros dos
+     conselhos de administração e fiscal e, também, exercer poder
+     de veto de proposta submetida à votação dos acionistas ou
+     quotistas da concessionária.
+31   Situação hipotética: Órgão público transferiu recurso público
+     para entidade privada, para prestação de serviço de saúde, sem
+     que fosse previamente celebrado contrato, convênio ou
+     qualquer instrumento congênere, conforme prevê a legislação.
+     Assertiva: Nesse caso, o ato enquadra-se como improbidade
+     administrativa, tenha ele sido cometido com dolo ou culpa.
+
+                          CEBRASPE – TCDF – Aplicação: 2021
+
+A respeito dos princípios fundamentais, de emenda constitucional,
+do direito ao sigilo e da organização político-administrativa do
+Estado, julgue os itens subsequentes.
+32   É constitucional tribunal de contas determinar, nos processos
+     de sua competência, a quebra do sigilo bancário de dados
+     constantes do Banco Central do Brasil.
+33   O Distrito Federal, regido por lei orgânica aprovada pela
+     Câmara Legislativa do Distrito Federal, possui as competências
+     legislativas reservadas tanto aos estados da Federação quanto
+     aos municípios.
+34   Consoante dispositivo constitucional, compete ao STF o
+     processamento de julgamento de descumprimento de tratado de
+     extradição, por ser matéria que ofende a soberania externa.
+35   É inconstitucional regulamentação de regime jurídico de
+     servidores militares estaduais por emenda constitucional de
+     origem parlamentar.
+Com relação ao Poder Legislativo, ao Poder Judiciário e ao
+Ministério Público, julgue os itens seguintes.
+36   Comissão parlamentar de inquérito que concluir pela existência
+     de indício de crime cometido pelo investigado deverá, pelo
+     respectivo procurador judicial, promover, perante o Poder
+     Judiciário, a responsabilidade criminal do infrator.
+37   Membro de tribunal de contas estadual que, no exercício da sua
+     função, cometer ato previsto como crime comum deverá ser
+     processado e julgado originariamente pelo Superior Tribunal
+     de Justiça.
+38   O Ministério Público de Contas da União é o órgão integrante
+     do Ministério Público da União que atua na busca da
+     responsabilidade civil dos que fraudarem o emprego de
+     recursos públicos.
+39   Partido político que tomar conhecimento de irregularidade ou
+     ilegalidade na execução de programa governamental que
+     envolva recurso público federal será parte legítima para
+     denunciar esse fato ao Tribunal de Contas da União.
+A respeito de personalidade jurídica, direitos da personalidade e
+capacidade, julgue os itens seguintes, de acordo com as disposições
+do Código Civil e da Lei de Introdução às Normas do Direito
+Brasileiro.
+40   De acordo com o Código Civil, a emancipação voluntária do
+     menor, por concessão de ambos os pais, será feita por
+     instrumento público, independendo de reconhecimento judicial
+     para produzir efeitos.
+41   A alteração da finalidade originalmente prevista no contrato
+     social de sociedade limitada caracteriza, por si só, desvio de
+     finalidade apto a justificar a desconsideração da personalidade
+     jurídica na hipótese de inadimplemento contratual que
+     prejudique terceiros.
+42   A caracterização de ilícito civil decorrente da exposição não
+     autorizada do nome da pessoa em publicação que a sujeite ao
+     desprezo público independe da comprovação de existência de
+     intenção difamatória.
+43   Nos contratos internacionais, a obrigação decorrente do
+     contrato é considerada como constituída no lugar onde residir
+     o oblato, conforme regra prevista na Lei de Introdução às
+     Normas do Direito Brasileiro.
+
+||525_TCDF_CB1_01N153704||
+
+A respeito do negócio jurídico, da prescrição, da prova do fato
+jurídico e de contratos civis, julgue os próximos itens.
+44   O engano do declarante quanto ao objeto do negócio jurídico
+     que deu ensejo à propositura da ação enseja a anulabilidade da
+     confissão.
+45   Considere que Pedro tenha sido designado mandatário em um
+     contrato regulado pelo Código Civil e que, nesse contrato, haja
+     uma cláusula segundo a qual Pedro assume a obrigação de não
+     renunciar ao mandato. Nessa situação, a cláusula que define a
+     obrigação de não renunciar ao mandato é nula.
+46   Nas declarações de vontade, importa mais a vontade real do
+     que a declarada, prevalecendo a teoria da confiança.
+47   A pretensão deduzida em ação baseada na garantia da evicção
+     decorrente de inadimplemento contratual submete-se ao prazo
+     prescricional geral.
+Julgue os itens a seguir, referentes aos princípios constitucionais e
+às diversas espécies de atos judiciais existentes no processo civil.
+48   De acordo com o princípio do juiz natural, o magistrado que
+     presidir a instrução do processo deve obrigatoriamente prolatar
+     sentença, salvo se estiver licenciado ou afastado por motivo
+     legítimo.
+49   Em primeiro grau, o mérito do processo civil pode ser
+     examinado, de forma parcial e definitiva, em decisão
+     interlocutória.
+50   O Código de Processo Civil dispensa a oportunidade de
+     manifestação prévia das partes caso o juiz decida extinguir o
+     processo sem resolução do mérito em decorrência de relevante
+     vício de ordem processual resultante de questão que não tenha
+     sido objeto de contraditório prévio.
+A respeito de mandado de segurança, ação popular e ação civil
+pública, julgue os itens a seguir.
+51   De acordo com o STF, é lícito ao Poder Judiciário, em
+     situações excepcionais, determinar que a administração pública
+     adote medidas assecuratórias de direitos constitucionalmente
+     reconhecidos como essenciais.
+52   Depois de prestadas as informações e emitido parecer pelo
+     Ministério Público, a desistência do mandado de segurança
+     depende de manifestação da autoridade coatora.
+53   Pode o STJ, em ação popular, declarar incidentalmente a
+     inconstitucionalidade da norma atacada, se a controvérsia
+     constitucional for a causa de pedir.
+No tocante à disciplina do direito penal, julgue os itens a seguir.
+54   Incidindo o agente em erro sobre a proibição de sua conduta
+     pelo ordenamento jurídico, sem consciência da ilicitude, seu
+     comportamento estará isento de pena, em razão de uma
+     excludente de punibilidade.
+55   Segundo a classificação doutrinária dominante, os ofendículos,
+     desde que instalados com moderação, caracterizam situação de
+     exclusão de antijuridicidade.
+56   Para a abolitio criminis, não basta a revogação formal da lei
+     penal anterior, impondo-se, para a sua caracterização, o fato
+     de que o mesmo conteúdo normativo não tenha sido
+     preservado nem deslocado para outro dispositivo legal.
+
+                           CEBRASPE – TCDF – Aplicação: 2021
+
+Acerca de crimes contra a fé pública e contra a administração
+pública, julgue os itens a seguir.
+
+57   Governador de estado que exige acesso direto a conteúdo de
+     inquéritos policiais sigilosos para proveito próprio não
+     comete qualquer crime contra a administração pública.
+58   Agente público que assina, em nome de subordinado,
+     documento publicado em Diário Oficial comete crime de
+     falsidade ideológica.
+
+No que se refere aos crimes previstos na Lei n.º 8.666/1993,
+julgue o próximo item.
+
+59   Agente público que deixa de observar formalidades
+     pertinentes a inexigibilidade a licitação somente comete
+     crime se a inexigibilidade for ilegal.
+        Uma amostra aleatória simples, sem reposição, de
+tamanho 100, será retirada de uma população constituída por
+1.000 indivíduos, com o objetivo de se estimar a média µ das
+idades desses 1.000 indivíduos. Essa amostra é representada por
+um conjunto de variáveis aleatórias X1, ... , X100, e o estimador da
+média populacional µ é dado pela seguinte expressão.
+
+                              100
+                       X   X i / 100.
+                              i 1
+
+
+Tendo como referência essa situação hipotética, e considerando
+que o desvio padrão populacional da distribuição das idades seja
+igual a 2 anos, julgue os itens que se seguem.
+
+60   A variância do estimador X é inferior a 0,04.
+61   Se, no plano amostral em apreço, (x1, ... , x100) representa uma
+     possível realização de X1, ... , X100 e se P(X1 = x1, ... , X100 =
+     x100) denota sua probabilidade de ocorrência, é correto
+     afirmar que P(X1 = x1, ... , X100 = x100) = 0,1.
+62   No plano amostral em questão, as variáveis aleatórias X1, ...
+     , X100 são independentes.
+
+Considerando que P e Q sejam, respectivamente, as proposições
+“Ausência de evidência de um crime não é evidência da ausência
+do crime.” e “Se não há evidência, não há crime.”, julgue os itens
+a seguir.
+
+63   A negação da proposição Q pode ser corretamente expressa
+     por “Não há evidência, mas há crime.”.
+64   A negação da proposição P pode ser corretamente expressa
+     por “Presença de evidência de um crime é evidência da
+     presença do crime.”.
+65   Embora tenham naturezas distintas quanto à composição, uma
+     vez que P é uma proposição simples e Q é uma proposição
+     composta, é correto afirmar que, no campo semântico, essas
+     duas proposições expressam a mesma ideia.
+

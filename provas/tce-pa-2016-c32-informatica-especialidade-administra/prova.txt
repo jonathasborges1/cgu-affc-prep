@@ -1,0 +1,330 @@
+||251TCEPA_032_01N576641||
+
+                                       CONHECIMENTO
+No que se refere a algoritmos e estruturas de dados, julgue os itens
+a seguir.
+51   Em uma lista circular, o ponteiro anterior ao início da lista
+     aponta para o fim, e o ponteiro próximo à célula do fim da lista
+     aponta para o início.
+52   Embora o QuickSort e o MergeSort sejam algoritmos de
+     ordenação do tipo divisão e conquista, somente o MergeSort
+     utiliza intervalos de comparação denominados gap.
+53   É possível eliminar dados em uma fila somente no início
+     da estrutura.
+Com relação a sistemas gerenciadores de bancos de dados (SGBD),
+julgue os próximos itens.
+54   No nível conceitual da arquitetura de três camadas de banco de
+     dados, cada esquema externo descreve a parte do banco que
+     interessa a determinado grupo de usuários e oculta desse grupo
+     o restante do banco de dados.
+55   O SGBD deve possuir um controle de concorrência que
+     garanta a manipulação controlada de um mesmo dado por
+     múltiplos usuários, a fim de assegurar que os resultados das
+     atualizações sejam corretos.
+56   O OLTP (online transaction processing) é utilizado para
+     garantir concorrência nas transações de um SGBD, ao passo
+     que a propriedade de isolamento permite que diversas
+     transações sejam efetuadas simultaneamente.
+Julgue os itens seguintes, acerca de linguagens e manipulação de
+um SGBD.
+57   As DMLs de alto nível são incapazes de especificar e restaurar
+     múltiplos registros em um único comando.
+58   A operação delete pode violar a integridade referencial caso
+     chaves estrangeiras de outras tuplas mencionem a tupla
+     removida no banco de dados.
+59   Para se eliminar a restrição empfunfk de uma tabela chamada
+     empregado, pode-se utilizar o seguinte comando.
+     ALTER   TABLE  TBEMPREGADO              DROP     CONSTRAINT
+     EMPFUNFK CASCADE;
+60   Um compilador DDL tem a função de processar os comandos
+     DDL para que sejam identificadas as seguintes operações sobre
+     o banco de dados: recuperação, inserção, remoção
+     e modificação dos dados.
+Julgue os itens subsequentes, acerca de segurança da informação de
+um SGBD e de um BI (Business Intelligence).
+61   A ferramenta SSIS (SQL server integration services) possui
+     um recipiente macro que contém dois arquivos associados com
+     as extensões SUO e SLN. Esse recipiente é denominado
+     solution e nele podem ser armazenados um ou mais projetos.
+62   CRISP-DM é uma metodologia proprietária que identifica
+     as fases Business Understanding e Data Understanding
+     na implantação de um projeto de data mining.
+63   MOLAP é um método utilizado para apresentar, fisicamente
+     e em formato relacional, os dados em formato OLAP.
+64   Situação hipotética: O proprietário de determinada relação
+     concedeu, com grant option, um privilégio sobre essa relação
+     a uma conta. Assertiva: Nessa situação, a conta poderá
+     conceder esse privilégio para outras contas sem que
+     o proprietário saiba.
+
+              CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+ Julgue os próximos itens, relativos a redes SAN (Storage Area
+ Network) e NAS (Network Attached Storage).
+ 65   Embora redes NAS e SAN possam se conectar a uma rede
+      local LAN para fornecer acesso a arquivos para clientes
+      heterogêneos, apenas redes SAN possuem armazenamento
+      dedicado a aplicativos do tipo file serving.
+ 66   Em redes SAN, a infraestrutura de rede pode basear-se em
+      FC (Fibre Channel) ou em Gigabit Ethernet, ao passo que
+      o armazenamento se baseia em redes dedicadas e escaláveis
+      que conectam servidores e dispositivos de storages usualmente
+      no nível de bloco.
+ 67   Quando uma SAN é configurada em uma intranet, seus
+      dispositivos de armazenamento são conectados diretamente
+      a um computador central ou a um servidor e não podem, sem
+      suporte especial, ser acessados de outros computadores, por
+      razões de segurança e privacidade.
+ No que se refere a Switches, Directors Fiber Channel e FCP
+ (Fibre Channel Protocol), julgue os itens que se seguem.
+ 68   Das cinco camadas do protocolo de comunicação FCP, FCP-4
+      é a camada mais alta e FC-3 é a camada em que o SCSI e o IP
+      trabalham.
+ 69   Apesar das semelhanças entre Switches e Directors Fiber
+      Channel, apenas Switches podem ser aplicados em redes SAN
+      e utilizados como FCoE (Fibre Channel over Ethernet).
+ Acerca de sistemas de fitoteca e de soluções de armazenamento
+ RAID, julgue os itens subsecutivos.
+ 70   O RAID 10, em uma disposição de quatro discos, como
+      a apresentada na figura a seguir, garante a proteção dos dados
+      mesmo que até três discos apresentem falha nos segmentos de
+      RAID 1.
+
+
+
+
+ 71   No RAID 5 com sete discos, a falha simultânea de até dois
+      discos não ocasiona a perda de dados. Contudo, se um terceiro
+      disco falhar antes da recriação dos discos defeituosos, serão
+      perdidos todos os dados no volume.
+ 72   Além de garantir a disponibilidade das informações, sistemas
+      para fitotecas gerenciam as datas de retenção dos arquivos
+      e otimizam o ciclo de reutilização das fitas liberando os
+      volumes conforme as configurações.
+ 73   Comparado ao RAID 5, o RAID 6 apresenta maior lentidão na
+      sincronização de um disco com falha, já que grava, para cada
+      bloco de dados, dois blocos de paridade em todos os discos no
+      volume.
+
+||251TCEPA_032_01N576641||
+
+Com relação aos protocolos CIFS (common internet file system)
+e NFS (network file system), julgue os itens subsequentes.
+74   Por comportar sistemas heterogêneos, o NFS permite que
+     as operações de read e write sejam executadas
+     independentemente da localização física do arquivo.
+75   O CIFS, que constitui uma extensão do SMB (server message
+     block), é um protocolo de rede que pode ser enviado
+     a dispositivos remotos e que fornece a base para
+     o compartilhamento de arquivos no Windows.
+76   O NFS permite que um servidor Linux compartilhe diretórios
+     e arquivos com os clientes por meio de uma rede, de modo que
+     usuários e programas possam acessar arquivos em sistemas
+     remotos como se esses arquivos estivessem armazenados
+     localmente.
+Acerca da elaboração e execução de políticas de becape e de
+restauração de dados, julgue os itens a seguir.
+77   No esquema de rotação de mídias para becape GFS
+     (grandfather-father-son), são criados conjuntos de becapes
+     diários, semanais e mensais. Os becapes diários compreendem
+     os becapes rotacionados a cada dia, a partir dos quais se realiza
+     um becape semanal, ao passo que os becapes semanais são
+     rotacionados a cada semana e servem de base para um becape
+     mensal.
+78   O objetivo de uma empresa, ao elaborar e estabelecer sua
+     política de becape, consiste em determinar que os serviços de
+     becape sejam orientados para a restauração de informações em
+     menor tempo possível.
+Com relação aos conceitos básicos de arquitetura e tecnologias de
+sistemas de informação, julgue os itens a seguir.
+79   Em uma aplicação web que utilize a arquitetura MVC,
+     o componente view pode ser uma página HTML e o controller
+     constitui o código que produz os dados dinâmicos a serem
+     usados pelo HTML.
+80   O desempenho de sistemas implementados com base em uma
+     arquitetura de componentes distribuídos pode ser aumentado
+     por meio da reconfiguração dinâmica desses sistemas.
+81   Em uma aplicação desenvolvida em 3 camadas, a camada de
+     dados é responsável pela guarda dos dados do repositório,
+     cujo acesso e cuja manipulação são responsabilidades da
+     camada de regras de negócio.
+Julgue os próximos itens, relativos aos padrões XML, XSLT,
+UDDI, WSDL, SOAP e JSON/REST.
+82   No arquivo XSLT, a inclusão do elemento <xsl:sort>
+     em qualquer ponto do documento garante que os dados de
+     saída sejam ordenados.
+83   Um nó UDDI é membro de um único registro UDDI.
+84   Em um serviço definido por meio de WSDL, o elemento
+     portType provê as definições de tipos de dados utilizados
+     para descrever as mensagens trocadas.
+85   Comparativamente ao XML, o parsing de informações em
+     JSON é mais rápido devido ao fato de ser capaz de executar
+     instruções de processamento.
+86   No modelo de processamento SOAP, as mensagens não são
+     coordenadas nem se correlacionam.
+87   As desvantagens dos esquemas XML incluem a falta de
+     suporte a diferentes tipos de dados.
+
+              CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Acerca de APS (Application Platform Suite) e de tecnologia
+Middleware, julgue os itens subsecutivos.
+
+88    O desenvolvimento de um Middleware com base em um estilo
+      de arquitetura específico simplifica o projeto de aplicações.
+89    Quanto ao método de implantação de aplicações, a utilização
+      de APS possibilita que o desenvolvimento independa de
+      fornecedores.
+Julgue os itens subsequentes, relativos a SOA, web services
+e servidor web.
+
+90    Os web services devem ser projetados para ser utilizados
+      independentemente de paradigmas de programação.
+91    O servidor web é responsável pelo armazenamento e pela
+      disponibilização dos dados solicitados pelas páginas web.
+92    A comunicação assíncrona pode ser implementada com
+      o objetivo de proporcionar baixo acoplamento em SOA.
+A respeito dos meios de transmissão que utilizam par trançado,
+julgue o item a seguir.
+
+93    Cabos categoria 5 suportam enlaces de até 10 Gbps.
+A respeito da arquitetura TCP/IP, julgue o próximo item.
+
+94    O protocolo UDP deve ser utilizado na camada de transporte
+      a fim de se garantir que uma aplicação envie e entregue dados
+      considerados críticos independentemente da velocidade de
+      transmissão.
+
+A respeito dos protocolos de acesso múltiplo e de elementos de
+interconexão, julgue os itens subsecutivos.
+
+95    Uma bridge pode ser utilizada para interligar duas redes
+      distintas de uma organização.
+96    Na camada física, podem-se utilizar elementos de interconexão
+      como hub, switch e bridge.
+97    O protocolo de acesso múltiplo CSMA possui a capacidade de
+      detecção de portadora.
+A respeito do padrão IEEE 802 e de redes sem fio, julgue os itens
+que se seguem.
+
+98    Redes sem fio que operam no padrão N são capazes de utilizar
+      a frequência de 2,4 GHz.
+99    Um switch layer 2 é capaz de realizar roteamento entre duas
+      redes distintas.
+No que se refere à administração do sistema operacional Windows
+Server 2008 R2, julgue os seguintes itens.
+
+100   Quando uma estação de trabalho é inserida em um domínio
+      mantido em um active directory, é criada uma conta com
+      o nome dessa estação.
+101   O serviço DHCP (Dynamic Host Configuration Protocol)
+      é capaz de atualizar, de forma dinâmica, o serviço DNS
+      (domain name system).
+
+||251TCEPA_032_01N576641||
+
+Com relação aos protocolos de redes locais, julgue os itens
+subsequentes.
+
+102   Quando utilizado em uma conexão remota, o protocolo SSH
+      é capaz de transferir, de forma criptografada, os dados
+      referentes ao usuário e a senha no momento da autenticação.
+103   Um host com endereço IP 192.168.1.130 e máscara de
+      rede com 25 bites pode acessar um host com endereço
+      IP 192.168.1.120, uma vez que este último também utiliza uma
+      máscara de rede com 25 bites.
+104   Se, a partir de um computador com IP 192.168.100.249,
+      o comando ping 192.168.100.250 for enviado por meio
+      de uma máscara de rede de 24 bites, será criado, na tabela ARP
+      do computador 192.168.100.249, um registro com o endereço
+      IP 192.168.100.250 e com o endereço MAC desse
+      computador.
+105   A apresentação da mensagem destination unreachable em um
+      tráfego capturado na comunicação entre computadores indica
+      que esse tráfego utiliza protocolo FTP.
+106   Se uma comunicação que utiliza o protocolo FTP for
+      estabelecida, o comando GET poderá ser enviado pelo
+      computador para efetuar o download de um arquivo.
+
+Julgue os itens a seguir, relativos a organização e arquitetura de
+computadores.
+
+107   Nos computadores pessoais, os barramentos internos ao
+      microprocessador interligam os registradores, caches internos
+      e demais componentes do processador, ao passo que os
+      barramentos locais conectam placas controladoras, interfaces
+      e periféricos.
+108   Os registradores e a unidade lógica aritmética (ULA) são
+      componentes do nível lógico digital das máquinas multiníveis
+      contemporâneas.
+109   Uma das funções de uma unidade central de processamento
+      é buscar instruções de programas armazenados na memória
+      principal, examiná-las e executá-las uma após a outra.
+110   Registradores, cache e mídias de armazenamento são
+      elementos componentes da hierarquia de memórias.
+111   Um subsistema de entrada e saída deve converter as
+      informações de entrada em uma forma inteligível para
+      a máquina.
+
+Acerca das arquiteturas de processadores comerciais, julgue
+o próximo item.
+
+112   Um dos objetivos da implementação de arquiteturas multicore
+      nos atuais processadores comerciais é permitir a plena
+      utilização de paralelismo em nível de threads, para que
+      se aumente o desempenho do processamento das aplicações,
+      especialmente das concebidas com baixo grau de paralelismo
+      em nível de instrução.
+
+              CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+No que se refere à arquitetura e às características dos sistemas
+
+operacionais, julgue os itens que se seguem.
+
+
+113   Uma entrada na tabela de processos de um sistema operacional
+      contém informações sobre o estado do processo, seu contador
+      de programa, o ponteiro da pilha, a alocação da memória, entre
+
+      outras informações de controle úteis ao gerenciamento
+      de concorrência dos processos.
+
+114   A estratégia de gerenciamento de memória conhecida como
+      swapping permite que programas sejam executados mesmo se
+      estiverem parcialmente carregados na memória principal.
+
+115   Na arquitetura monolítica de sistemas operacionais, o núcleo
+      do sistema fornece um número reduzido de serviços, como,
+      por exemplo, gerenciamento de memória de baixo nível,
+
+      comunicação entre processos e sincronização básica
+      de processos, enquanto os demais serviços do sistema são
+      disponibilizados em uma estrutura de camadas.
+
+116   Um sistema operacional distribuído caracteriza-se como um
+      sistema único que gerencia recursos em mais de um
+
+      computador, o que proporciona a falsa percepção de que vários
+      computadores compõem um único computador de grande
+      capacidade.
+
+117   O gerenciamento de armazenamento auxiliar de um sistema
+      de arquivos é responsável por garantir que as informações
+      armazenadas em um arquivo não sejam corrompidas.
+
+118   Um sistema operacional de rede controla vários computadores
+      da rede, enquanto um sistema operacional distribuído controla
+      um computador que coopera com os demais da rede.
+
+119   Nos sistemas operacionais Linux, o sistema de gerenciamento
+      de memória divide o espaço de endereçamento físico de um
+      sistema nas seguintes zonas: memória DMA, memória normal
+      e memória alta.
+
+120   Uma característica dos sistemas de arquivos modernos
+      é suportar um sistema hierárquico em que os diretórios podem
+      ter subdiretórios, e estes podem ter outros subdiretórios,
+      e assim sucessivamente.
+

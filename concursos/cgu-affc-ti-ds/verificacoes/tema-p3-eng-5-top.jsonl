@@ -1,0 +1,6 @@
+{"item": "4", "edital": "P3·ENG 5.1", "relevancia": "alta", "nucleo_id": "n-coesao-acoplamento-refatoracao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "8", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["NORMA_LITERAL"], "nivel": "dificil"}
+{"item": "11", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["ABSOLUTO"], "nivel": "medio"}
+{"item": "12", "edital": "P3·ENG 5.2", "relevancia": "alta", "nucleo_id": "n-analise-legado-fluxo-controle", "tags": ["ABSOLUTO"], "nivel": "medio"}
+{"item": "14", "edital": "P1·ADM 4.1", "relevancia": "baixa", "nucleo_id": "n-projeto-vs-atividade-orcamento", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "19", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["TROCA_TERMO"], "nivel": "medio"}

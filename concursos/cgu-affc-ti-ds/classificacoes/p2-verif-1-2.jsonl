@@ -1,0 +1,50 @@
+{"id":"v1-2-01","codigo":"OUTRO","rel":"fora","motivo":"estatística/probabilidade"}
+{"id":"v1-2-02","codigo":"P2·TRANSP 5","rel":"media","motivo":"liberdade de expressão x direitos da personalidade"}
+{"id":"v1-2-03","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dados abertos e LGPD"}
+{"id":"v1-2-04","codigo":"OUTRO","rel":"fora","motivo":"tesauros"}
+{"id":"v1-2-05","codigo":"OUTRO","rel":"fora","motivo":"logística"}
+{"id":"v1-2-06","codigo":"OUTRO","rel":"fora","motivo":"tributário"}
+{"id":"v1-2-07","codigo":"OUTRO","rel":"fora","motivo":"SQL"}
+{"id":"v1-2-08","codigo":"OUTRO","rel":"fora","motivo":"empresarial"}
+{"id":"v1-2-09","codigo":"P2·AUD 3","rel":"baixa","motivo":"arquivo de auditoria independente e evidência"}
+{"id":"v1-2-10","codigo":"OUTRO","rel":"fora","motivo":"ANP"}
+{"id":"v1-2-11","codigo":"OUTRO","rel":"fora","motivo":"SWOT"}
+{"id":"v1-2-12","codigo":"OUTRO","rel":"fora","motivo":"tributário"}
+{"id":"v1-2-13","codigo":"OUTRO","rel":"fora","motivo":"Hadoop"}
+{"id":"v1-2-14","codigo":"P2·TRANSP 1","rel":"baixa","motivo":"acesso a arquivos e documentos"}
+{"id":"v1-2-15","codigo":"P2·AUD 2","rel":"baixa","motivo":"auditoria contábil e materialidade"}
+{"id":"v1-2-16","codigo":"OUTRO","rel":"fora","motivo":"ANP"}
+{"id":"v1-2-17","codigo":"OUTRO","rel":"fora","motivo":"GPU"}
+{"id":"v1-2-18","codigo":"P2·DIR 1","rel":"alta","motivo":"dever de motivação"}
+{"id":"v1-2-19","codigo":"OUTRO","rel":"fora","motivo":"PPA (P1)"}
+{"id":"v1-2-20","codigo":"P2·GOV 3","rel":"alta","motivo":"unidade de integridade e vulnerabilidades"}
+{"id":"v1-2-21","codigo":"P2·TRANSP 5","rel":"baixa","motivo":"direito de resposta"}
+{"id":"v1-2-22","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-2-23","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-2-24","codigo":"OUTRO","rel":"fora","motivo":"governança de TI"}
+{"id":"v1-2-25","codigo":"P2·GOV 2","rel":"alta","motivo":"COSO e limites do controle interno"}
+{"id":"v1-2-26","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-2-27","codigo":"P2·GOV 2","rel":"alta","motivo":"segregação de funções"}
+{"id":"v1-2-28","codigo":"OUTRO","rel":"fora","motivo":"psicologia"}
+{"id":"v1-2-29","codigo":"OUTRO","rel":"fora","motivo":"consumidor"}
+{"id":"v1-2-30","codigo":"P2·GOV 1","rel":"alta","motivo":"governança, gestão de riscos e supervisão"}
+{"id":"v1-2-31","codigo":"OUTRO","rel":"fora","motivo":"modelagem dimensional"}
+{"id":"v1-2-32","codigo":"OUTRO","rel":"fora","motivo":"recursos hídricos"}
+{"id":"v1-2-33","codigo":"OUTRO","rel":"fora","motivo":"licitação"}
+{"id":"v1-2-34","codigo":"OUTRO","rel":"fora","motivo":"agricultura familiar"}
+{"id":"v1-2-35","codigo":"P2·TRANSP 5","rel":"baixa","motivo":"comunicação pública"}
+{"id":"v1-2-36","codigo":"P2·GOV 2","rel":"media","motivo":"monitoramento e controles"}
+{"id":"v1-2-37","codigo":"P2·TRANSP 1","rel":"alta","motivo":"classificação de informação"}
+{"id":"v1-2-38","codigo":"OUTRO","rel":"fora","motivo":"regulação"}
+{"id":"v1-2-39","codigo":"OUTRO","rel":"fora","motivo":"custos"}
+{"id":"v1-2-40","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-2-41","codigo":"OUTRO","rel":"fora","motivo":"civil"}
+{"id":"v1-2-42","codigo":"P2·DIR 3","rel":"baixa","motivo":"sanções do controle externo"}
+{"id":"v1-2-43","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-2-44","codigo":"OUTRO","rel":"fora","motivo":"OLAP"}
+{"id":"v1-2-45","codigo":"OUTRO","rel":"fora","motivo":"sistemas judiciais"}
+{"id":"v1-2-46","codigo":"OUTRO","rel":"fora","motivo":"economia"}
+{"id":"v1-2-47","codigo":"OUTRO","rel":"fora","motivo":"projetos"}
+{"id":"v1-2-48","codigo":"OUTRO","rel":"fora","motivo":"metas de políticas públicas (P1)"}
+{"id":"v1-2-49","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-2-50","codigo":"OUTRO","rel":"fora","motivo":"solução de problemas"}

@@ -1,0 +1,476 @@
+||251TCEPA_010_01N996948||
+
+                                      CONHECIMENTO
+
+
+
+
+                                                          cronogram
+
+
+
+
+                                                 diagrama de rede –
+
+
+Legenda
+
+
+
+
+Considere que, utilizando-se da técnica PERT/CPM no planejame
+montado o cronograma de Gantt e o diagrama de rede precedente
+apresentados, julgue os itens a seguir.
+51   O caminho crítico do diagrama de flechas é definido pela sequê
+52   Suponha que seja necessário fazer uma modificação no projeto
+     treze. Nessa situação, não haverá impacto para o prazo final da
+53   Se o gerente da obra for informado de que há falta de esquadrias
+     o cronograma da obra atrasará seis dias.
+54   Se o gerente da construtora refizer o planejamento da obra, redu
+     da obra será reduzido de um dia.
+
+                CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+
+
+
+
+ma de Gantt
+
+
+
+
+ método das flechas
+
+
+
+
+ento das atividades de construção de uma casa, o engenheiro tenha
+es. Com base nessas informações e no cronograma e no diagrama
+
+
+ ência das seguintes atividades: A-B-C-D-G-H.
+ do telhado e que, por isso, a atividade telhado se prolongue até o dia
+a obra, pois há dois dias de folga para tal atividade.
+ s no mercado e o fornecedor só garantir entrega para o dia dezesseis,
+
+uzindo em um dia a duração dos serviços de instalações, o prazo total
+
+||251TCEPA_010_01N996948||
+
+         O engenheiro de uma empreiteira recebeu a tarefa de,
+mediante técnicas de análise de investimento, realizar o estudo de
+viabilidade econômico-financeira de um projeto de construção de
+uma linha de transmissão. As técnicas selecionadas pelo engenheiro
+foram a payback simples, o valor presente líquido (VPL) e a taxa
+interna de retorno (TIR).
+Considerando as técnicas usadas pelo engenheiro, julgue os itens
+subsequentes, acerca da situação apresentada.
+55     O projeto de construção da linha de transmissão é considerado
+       viável econômica e financeiramente quando o resultado do
+       cálculo do VPL é maior que zero.
+56     Se a taxa de remuneração de mercado for maior que a TIR,
+       o projeto de construção da linha de transmissão será
+       considerado viável econômica e financeiramente.
+57     O payback simples tem como objetivo calcular o período
+       (prazo) que a empreiteira irá precisar para recuperar
+       contabilmente o capital investido no projeto de construção da
+       linha de transmissão.
+58     Para obter a TIR do projeto de construção da linha
+       de transmissão, é necessário calcular a taxa de juros que torna
+       o VPL igual a zero.
+         Por ocasião da fiscalização de representantes do Ministério
+do Trabalho e Emprego nas instalações do canteiro de obras de uma
+construtora, foram realizadas as seguintes constatações:
+
+       I   o canteiro de obras possuía quarenta e cinco empregados;
+
+      II   segundo o cronograma físico, a duração da obra é de quatro
+           meses;
+
+     III   o canteiro de obras não possui comissão interna de
+           prevenção de acidentes (CIPA), mas possui uma comissão
+           provisória de prevenção de acidentes;
+
+     IV    um operário não usava o equipamento de proteção
+           individual (EPI) porque não tinha dinheiro para comprá-lo;
+
+     V     a empresa não possui programa de condições e meio
+           ambiente de trabalho na indústria da construção (PCMAT);
+
+     VI    o programa de prevenção de riscos ambientais (PPRA) foi
+           elaborado pelo engenheiro civil que atuava como
+           responsável técnico da obra;
+
+ VII       a construtora não elaborou programa de controle médico de
+           saúde ocupacional (PCMSO) para aplicar no canteiro de
+           obras.
+
+A respeito dessa situação hipotética, julgue os itens que se seguem.
+59     O PCMAT não é obrigatório na situação apresentada, pois há
+       menos de cinquenta empregados trabalhando no canteiro.
+60     Um dos documentos que compõem o PCMAT é o leiaute
+       inicial do canteiro de obras, que inclui o dimensionamento das
+       áreas de vivência.
+61     O engenheiro civil que atuava como responsável técnico
+       da obra poderia ter elaborado o PPRA se possuísse curso
+       de especialização em engenharia de segurança do trabalho.
+62     Como a empresa elaborou o PPRA, não há obrigatoriedade
+       da elaboração do PCMSO.
+63     Não há irregularidade no item III, uma vez que a duração
+       da obra é inferior a seis meses.
+64     O item IV poderia ser resolvido pelo empregador por meio do
+       fornecimento do EPI, cujo valor poderia ser posteriormente
+       descontado do salário do empregado.
+
+                 CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+         Quando do estacionamento dos caminhões bomba
+e betoneira em determinada obra, o engenheiro da construtora
+responsável pela obra realizou alguns procedimentos para garantir
+que o concreto estivesse de acordo com o que fora encomendado
+à empresa fabricante e com o especificado no projeto. Ao iniciar
+os procedimentos, ele verificou que o lacre do caminhão betoneira
+não coincidia com o código da nota fiscal. Ainda assim, ele aceitou
+o lote porque as outras informações da nota estavam de acordo com
+as especificações de projeto. Em seguida, pediu para o condutor
+do caminhão betoneira, que estava ligado ao caminhão bomba,
+gerar um primeiro jato com uma pequena quantidade de concreto,
+para realizar o ensaio de abatimento (slump test).
+         O engenheiro solicitou ao ajudante que confeccionasse três
+corpos de prova que serviriam para testar a resistência do concreto
+em laboratório para a concretagem de pilares de um andar
+da edificação com volume correspondente a 9 m3. Durante
+a concretagem da laje, para acelerar o adensamento do concreto,
+o encarregado colocou o vibrador de imersão em contato com
+as paredes das fôrmas e ferragens já concretadas.
+Com base nessa situação hipotética, julgue os itens subsecutivos.
+65    É recomendável que o encarregado encoste o vibrador
+      de imersão nas ferragens já concretadas até que surja água
+      na superfície da laje de concreto.
+66    O engenheiro deveria ter devolvido o lote devido
+      à incompatibilidade do lacre do caminhão e o código na nota
+      fiscal, por questões de segurança.
+67    O engenheiro contrariou recomendação de procedimento
+      de recebimento de concreto ao indicar o uso do primeiro jato
+      de concreto para o ensaio de abatimento.
+68    Para a realização dos ensaios de resistência do concreto
+      dos pilares em laboratório, o engenheiro deveria ter
+      confeccionado pelo menos um corpo de prova para cada metro
+      cúbico de concreto.
+
+Ficha de composição de custo unitário de serviço de armação
+                      de aço CA–50
+ord     insumo      unidade índice custo unitário (R$)   custo total (R$)
+ 1    armador          h      0,20         12,00              2,40
+ 2    ajudante         h      0,20          8,00              1,60
+ 3    aço CA–50       kg      1,15          4,00              4,60
+ 4    arame           kg      0,05          5,00              0,25
+      total                                                   8,85
+
+
+
+Sabendo que a composição de custo unitário de serviço de armação
+de aço CA–50 inclui corte, dobra e instalação do aço, em kg,
+e considerando que uma semana de trabalho possui quarenta
+e quatro horas, julgue os itens que se seguem, a partir das
+informações da tabela.
+69    Considerando-se que o preço de venda do serviço de armação
+      seja igual a R$ 10,00 é correto afirmar que o BDI adotado
+      é superior a 10%.
+70    Considerando-se o Sistema Nacional de Pesquisa de Custos
+      e Índices da Construção Civil (SINAPI), é correto afirmar que
+      o percentual de encargos sociais sobre preço da mão de obra
+      horista é inferior ao percentual de encargos da mão de obra
+      mensalista para o mesmo serviço de armação.
+
+||251TCEPA_010_01N996948||
+
+71   Se forem mobilizados cinco armadores e cinco ajudantes,
+     a produção semanal esperada da equipe será superior a
+     1.200 kg.
+72   O orçamentista do serviço de armação deve prever uma perda
+     superior a 10% referente à quantidade de aço CA–50.
+73   Se a produtividade do ajudante for ajustada na composição
+     para 10,00 kg/h, o serviço de armação terá um custo total
+     superior a R$ 8,00.
+        Um pintor, ao executar a pintura de paredes internas em
+uma obra, diluiu a tinta PVA com água e, somente após a segunda
+demão, aplicou um selador transparente sobre a tinta ainda fresca.
+A respeito dessa situação hipotética, julgue os itens a seguir.
+74   A diluição da tinta PVA com água foi adequada, caso tenha
+     sido obedecida a proporção especificada pelo fabricante.
+75   Seria uma opção apropriada para o trabalho desse pintor o uso
+     da tinta esmalte, que é mais adequada e usual para pintura de
+     paredes internas.
+76   Houve um equívoco da parte do pintor: a aplicação do selador
+     deve ser feita sobre a tinta já seca, após a última demão.
+No que se refere a programação e acompanhamento de obras,
+julgue os itens subsequentes.
+77   As informações sobre quantidades e duração dos serviços são
+     dados utilizados para subsidiarem a análise de desempenho de
+     prazo da obra.
+78   Para se alimentar o sistema de apropriação de custos dos
+     serviços elencados em uma obra, a duração e a quantidade
+     dos principais serviços são dados suficientes.
+Espaço livre
+
+                CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+códigos                 descrição                    unidade coeficiente
+
+          concretagem       de    paredes      em
+          edificações multifamiliares feitas com
+          sistema de fôrmas manuseáveis com
+90857     concreto usinado bombeável, Fck 20           m3
+          Mpa,     lançado       com    bomba
+          lança-lançamento,      adensamento     e
+          acabamento. af_06/2015
+
+          carpinteiro de fôrmas com encargos
+88262                                                   h       0,161
+          complementares
+
+          pedreiro com encargos
+88309                                                   h       0,644
+          complementares
+
+          servente com encargos
+88316                                                   h       0,724
+          complementares
+
+          vibrador de imersão, diâmetro de
+          ponteira 45 mm, motor elétrico
+90586                                                 CHP        0,06
+          trifásico, potência de 2 CV-CHP
+          diurno. af_06/2015
+
+          vibrador de imersão, diâmetro de
+          ponteira 45 mm, motor elétrico
+90587                                                 CHI       0,101
+          trifásico, potência de 2 CV-CHI
+          diurno. af_06/2015
+
+          concreto usinado bombeável, classe
+          de resistência c20, com brita 0 e 1,
+39849     slump = 190 +/! 20 mm, inclui                m3        1,08
+          serviço de bombeamento (NBR
+          8953)
+
+
+Essa tabela representa uma ficha de composição de serviço de
+concretagem de paredes, oriunda do Sistema Nacional de Pesquisa
+de Custos e Índices da Construção Civil (SINAPI). A partir dessas
+informações, julgue os próximos itens.
+
+79   Apesar de o coeficiente do servente ser maior do que o do
+     pedreiro, não é possível afirmar qual dessas categorias
+     representa maior custo na produção da concretagem de parede.
+
+80   Durante a execução do serviço, o vibrador de imersão possui
+     mais tempo improdutivo do que produtivo.
+
+81   Uma equipe composta por um carpinteiro, dois pedreiros e um
+     servente que trabalhem com a produtividade descrita na
+     composição apresentada, tem capacidade para produzir 1 m³ de
+     concretagem de parede em 0,724 horas.
+
+82   O coeficiente do concreto usinado bombeável da composição
+     indica uma perda esperada de 8% de massa na execução do
+     serviço.
+
+83   De acordo com os valores dos coeficientes, conclui-se que
+     a produtividade do servente é maior do que a do carpinteiro.
+
+||251TCEPA_010_01N996948||
+
+         Durante a medição de uma obra pública, o fiscal da obra,
+com base no regime de execução empreitada por preço global,
+constatou que o serviço de assentamento de piso cerâmico estava
+parcialmente concluído, visto que faltava a aplicação do rejunte em
+50% da área prevista para o referido serviço. Além disso, a
+quantidade executada de piso superava em 20% a quantidade
+prevista no orçamento da obra, anexo ao contrato.
+Com relação a essa situação hipotética, julgue os itens que
+se seguem.
+84   Independentemente do critério adotado para medição por parte
+     da fiscalização, é correto afirmar que o serviço de
+     assentamento do piso está atrasado.
+85   Caso sejam verificadas falhas no piso após o aceite do serviço
+     por parte da fiscalização, o contratado será obrigado a sanar os
+     problemas, sem direito a cobrar os custos pelo retrabalho.
+86   O fiscal poderá considerar que o piso está totalmente
+     concluído, para fins de medição, tendo em vista que o rejunte
+     é irrelevante na quantificação do serviço.
+87   Para pagamento do excedente de piso, o fiscal poderá
+     compensar na medição a inserção de outros serviços não
+     executados no período, desde que não haja desequilíbrio
+     financeiro no contrato.
+         Durante a construção de um prédio público, a execução das
+escavações das fundações foi prejudicada por chuvas de verão, cujo
+índice pluviométrico foi muito acima da média histórica, o que
+causou retrabalhos e atraso na execução da obra. O contratado
+registrou o fato no diário de obras e pleiteou um aditivo contratual
+de dilação de prazo e aumento de custos, pois o serviço compunha
+o caminho crítico da programação da obra.
+Com referência a essa situação hipotética, julgue os seguintes itens.
+88   O acréscimo de prazo de execução afeta os custos com
+     administração local.
+89   O registro no diário de obras será suficiente para garantir ao
+     contratado a dilação de prazo de execução, dispensando-se
+     a apresentação de boletins meteorológicos e a análise de
+     cronograma.
+90   Por se tratar apenas de escavação, não se justificariam
+     tecnicamente custos de retrabalhos na situação apresentada.
+91   A escavação, sendo parte do caminho crítico da obra, poderá
+     gerar um acréscimo no cronograma de mais de um dia em
+     consequência da chuva atípica.
+De acordo com os conceitos básicos e a aplicação do Sistema
+Nacional de Pesquisa de Custos e Índices da Construção Civil
+(SINAPI), julgue os itens subsecutivos.
+92   Na metodologia adotada pelo SINAPI, são empregados os
+     menores valores para os preços dos insumos coletados.
+93   Para garantir uniformidade na orçamentação com base no
+     SINAPI, os percentuais de encargos sociais incidentes sobre os
+     insumos de mão de obra são calculados mediante uma média
+     ponderada nacional.
+94   Nas situações em que o IBGE não obtém informações
+     suficientes, são atribuídos preços de insumos para garantir que
+     o SINAPI possua preço de referência atualizado para todos os
+     insumos em todas as localidades.
+
+               CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Julgue os itens a seguir, relativos a custos e encargos financeiros
+de uma empresa responsável por obras de edificação.
+
+95    Os encargos financeiros são os custos decorrentes de possíveis
+      atrasos de pagamento.
+96    A administração central engloba todos               os   custos
+      administrativos da sede e do canteiro de obras.
+Julgue os itens seguintes, acerca de barragens, soleiras, órgãos
+extravasores e tomada de água.
+
+97    Para evitar a formação de vórtices na tomada submersa em
+      pequenas centrais hidrelétricas, a submergência da aresta
+      superior da boca de entrada da tomada d’água deve ser de no
+      mínimo 1 m, em relação ao nível de água mínimo operativo.
+98    Em vertedores proporcionais, quanto maior for a relação entre
+      o comprimento da soleira horizontal e a altura da soleira
+      lateral, menores serão as vazões, para mesma carga hidráulica.
+99    É indicado o uso de tapete drenante horizontal em barragem
+      de terra com fundação permeável exposta com cut-off
+      positivo (pequena profundidade) e com seção heterogênea
+      se a permeabilidade da fundação for duvidosa e não houver
+      possibilidade de erosão regressiva.
+100   Para o dimensionamento do extravasor de barragens,
+      é suficiente a análise dos seguintes parâmetros hidrológicos:
+      intensidade de precipitação e vazão máxima de enchente.
+Julgue os itens subsequentes, relativos aos canais, túneis e bueiros.
+
+101   Um canal trapezoidal somente funcionará com seção de
+      máxima eficiência se seu formato for um semi-hexágono
+      regular.
+102   O bueiro esconso é aquele cujo eixo é ortogonal ao eixo
+      da estrada. Comparado ao bueiro normal, ele gera um
+      comprimento menor, quanto à esconsidade. Para esse tipo
+      de bueiro, não é necessário detalhamento construtivo.
+103   O escoamento gradualmente variado acontece em canais
+      prismáticos, a montante de vertedores, enquanto o escoamento
+      rapidamente variado acontece no ressalto hidráulico, quando
+      passa de supercrítico para subcrítico.
+No que se refere a centrais hidrelétricas, turbinas e geradores,
+julgue os próximos itens.
+
+104   Em uma turbina Francis em operação, a água entra no rotor
+      pela periferia e sai axialmente em relação ao eixo. Esse tipo de
+      turbina pode ser executada tanto com eixo na horizontal quanto
+      na vertical.
+105   Geralmente, o acoplamento do gerador ao eixo da turbina
+      Pelton é rígido, sendo o ajuste na rotação feito usando-se
+      transmissão por redutores de engrenagens ou por correias.
+106   Se vazão de estiagem do rio for menor que a descarga
+      necessária à potência a ser instalada, recomenda-se a
+      implantação de pequenas centrais hidrelétricas a fio de água
+      para atender à demanda mínima prevista.
+107   Na turbina do tipo Turgo, a água entra por um lado do rotor
+      e sai no lado oposto, não havendo interferência do retorno do
+      jato nas conchas da turbina, ao contrário do que ocorre na
+      turbina do tipo Pelton.
+
+||251TCEPA_010_01N996948||
+
+Julgue os itens subsequentes, relativos a irrigação.
+
+108   Em se tratando de sistema supervisionado, o controle da
+      partida do funcionamento das estações de bombeamento em
+      projetos de irrigação, de suas operações e de seu desligamento
+      é realizado por unidades terminais remotas, sem a assistência
+      do pessoal da estação. Esse tipo de sistema exige uma série
+      de dados para implantar a lógica de controle e iniciar a ação
+      de controle requerida.
+109   É possível diminuir os custos de produção de bens e serviços
+      com a implantação de obras de armazenamento de água com
+      fins múltiplos — incluindo-se a irrigação —, em comparação
+      a projetos que atendam a uma única finalidade.
+110   A irrigação por pivô central é um método de irrigação
+      mecanizado, enquanto a microaspersão é um método fixo que
+      distribui a água de forma pontual.
+111   Após a emancipação de um projeto de irrigação, as funções de
+      controle do uso da água e de assistência técnica em produção
+      agrícola deixam de ser do órgão público, passando ao distrito
+      de irrigação.
+Julgue os itens que se seguem, relativos ao tratamento de água e de
+efluentes.
+
+112   Em lagoas facultativas, observa-se o seguinte processo:
+      as bactérias aeróbias consomem o oxigênio livre da água,
+      do que resultam, como subproduto, água, gás carbônico
+      e nutriente; as algas consomem o gás carbônico e o nutriente,
+      liberando oxigênio.
+113   Os tanques sépticos são utilizados para a purificação dos
+      esgotos, pela redução da carga orgânica. Entre os tipos
+      de tanques sépticos, os mais eficientes para a decantação
+      de sólidos são os cilíndricos.
+114   O uso do floco-decantador é indicado quando o escoamento
+      é descontínuo e quando há variações significativas da vazão e
+      da composição da água bruta.
+Com relação aos reservatórios de cheias, bacias de acumulação,
+canalização de cursos de água e reflorestamento, julgue os itens
+subsecutivos.
+
+115   Os reservatórios off-line são utilizados para reduzir o volume
+      armazenado, funcionando com um sistema de bombeamento,
+      o que reduz a necessidade de se escavar abaixo da cota do
+      sistema de drenagem para esgotar o volume que tenha
+      excedido a capacidade de drenagem.
+116   Embora requeira elevado recurso financeiro, a restauração da
+      vegetação florestal pela técnica da nucleação é indicada para
+      áreas degradadas bastante extensas.
+117   O método da curva auxiliar em função do volume do
+      reservatório, usado para o amortecimento de cheias em
+      reservatórios, consiste em um algoritmo matemático que
+      permite pesquisar soluções no instante t (tempo) com base nos
+      volumes armazenados no instante t – 1.
+118   Para garantir a efetividade das obras de aprofundando do canal
+      do rio, essas obras devem ser realizadas em trecho muito
+      extenso. Esse tipo de obra resulta na elevação da declividade
+      da linha de água e no aumento dos níveis a montante.
+
+               CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Acerca de obras portuárias, julgue os itens que se seguem.
+119   O desagregador giratório, equipamento hidráulico para
+      dragagem, utiliza uma broca para manter arrancamento
+      do material. A pá de sucção, por sua vez, suspende as
+      partículas do fundo a partir de injeção de jatos d’água contra
+      o leito; nesse caso, a sucção é feita por um grande bocal de
+      aspiração.
+120   As funções operacionais básicas do Portêiner, o guindaste de
+      maior representatividade na logística operacional dos terminais
+      especializados na movimentação de contêineres, são as de
+      guincho, translação e carro. Esse guindaste é responsável pela
+      movimentação da carga no sentido terra-mar e vice-versa.
+Espaço livre
+

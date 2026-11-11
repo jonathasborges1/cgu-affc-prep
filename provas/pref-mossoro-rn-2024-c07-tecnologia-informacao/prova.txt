@@ -1,0 +1,543 @@
+-- CONHECIMENTO
+Com referência à elaboração de demonstrações contábeis pela
+legislação societária e pelos pronunciamentos técnicos do Comitê
+de Pronunciamentos Contábeis, julgue os itens subsequentes.
+Os resultados abrangentes que afetaram o patrimônio líquido
+ao longo do exercício são apresentados tanto na
+demonstração do resultado do exercício quanto na
+demonstração dos resultados abrangentes.
+52 Independentemente do método adotado, direto ou indireto, a
+demonstração dos fluxos de caixa apresenta, de forma
+estática e dedutiva, o modo como foi constituído o saldo de
+caixa do fim de exercício.
+51
+
+Julgue os itens seguintes, a respeito ativos contingentes e
+combinações de negócios.
+53
+
+A fusão é uma combinação de negócios em que duas ou mais
+sociedades se unem para formar uma nova sociedade,
+devendo os direitos e as obrigações dessas sociedades ser
+transferidos para o patrimônio da nova sociedade.
+
+54
+
+O ativo contingente, que não deve ser objeto de
+reconhecimento pela contabilidade, surge de um evento que
+dá origem à possibilidade de entrada de benefícios futuros
+para a entidade, a depender da ocorrência de um ou mais
+eventos futuros cujo desfecho seja incerto.
+
+À luz das Normas Brasileiras de Contabilidade de Auditoria
+(NBC TA e NBC PA), julgue o próximo item, a respeito de
+evidências de auditoria.
+55
+
+As evidências de auditoria obtidas de fontes externas são
+sempre menos confiáveis que as evidências geradas
+internamente pela entidade auditada.
+
+Acerca de auditoria no ativo circulante, julgue o item
+subsequente.
+56
+
+A recomposição contábil do fluxo de caixa da entidade deve
+desconsiderar transações que não afetem diretamente o
+caixa, como depreciação e amortização, focando
+exclusivamente em entradas e saídas efetivas de dinheiro.
+
+Acerca de passivos fictícios e da identificação de erros e fraudes
+na escrituração contábil e fiscal, julgue o item a seguir.
+57
+
+Ao identificar indícios de fraudes ou erros significativos na
+escrita fiscal, o auditor deve revisar a totalidade das
+transações fiscais da entidade auditada, para garantir que
+todas as irregularidades sejam descobertas e corrigidas antes
+da emissão do relatório final de auditoria.
+
+Com base na Lei Complementar n.º 105/2001, que dispõe sobre o
+sigilo das operações de instituições financeiras, julgue o seguinte
+item.
+58
+
+Cabe ao Poder Executivo de cada ente federado disciplinar,
+inclusive quanto à periodicidade e aos limites de valor, os
+critérios segundo os quais as instituições financeiras deverão
+informar à respectiva administração tributária (isto é, da
+União, dos estados, do Distrito Federal e dos municípios) as
+operações financeiras efetuadas pelos usuários de seus
+serviços.
+
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+OS ESPECÍFICOS -À luz do Código Tributário do Município de Mossoró (CTMM),
+julgue os seguintes itens.
+59
+
+A incidência do IPTU, cuja base de cálculo é o valor venal
+do imóvel, está condicionada à legitimidade do título de
+aquisição ou da posse do imóvel.
+
+60
+
+O CTMM prevê, em relação ao IPTU, alíquotas distintas
+para imóveis edificados e não edificados.
+
+Em relação ao Sistema Tributário Nacional, à luz das disposições
+da Constituição Federal de 1988, julgue os itens que se seguem.
+61
+
+O imposto sobre bens e serviços, cuja competência é
+compartilhada entre estados, DF e municípios, possui regime
+específico de tributação para serviços financeiros, operações
+com bens imóveis, planos de assistência à saúde e concursos
+de prognósticos.
+
+62
+
+O IPTU e o ITCMD são impostos municipais que incidem
+sobre a propriedade.
+
+Em conformidade com as regras do processo administrativo
+tributário do município de Mossoró, observada a jurisprudência
+dos tribunais superiores pertinentes ao processo judicial
+tributário, julgue os itens subsequentes.
+63
+
+A concessão liminar da cautelar fiscal dispensa a fazenda
+pública de caução, mas não de justificação prévia.
+
+64
+
+No curso do processo administrativo fiscal, o fisco poderá
+exigir a qualquer tempo a exibição de livros e comprovantes
+de atos e operações que possam constituir fato gerador de
+obrigação tributária não extinta.
+
+Julgue os itens a seguir, a respeito de sistemas de arquivos, banco
+de dados NoSQL e sistemas de indexação de dados.
+65
+
+O Hadoop Distributed File System (HDFS) usa uma tabela
+para rastrear os clusters em um volume de armazenamento;
+esses clusters se conectam por meio de diretórios e arquivos
+associados e o HDFS suporta arquivos com tamanhos de
+volume de até 4 GB.
+
+66
+
+As regiões são a unidade básica de trabalho no HBase, que é
+usada como divisão pela estrutura de redução do mapa; a
+região contém objetos de armazenamento que correspondem
+a famílias de colunas.
+
+67
+
+O elasticsearch indexa todos os dados em cada campo e cada
+campo indexado possui uma estrutura de dados dedicada e
+otimizada.
+
+68
+
+CREATE
+(database:Database
+{name:"Pedro"})[r:FALA_COM]->(message:Message
+{name:"Maria"}) RETURN database, message, r
+
+A expressão Neo4J acima cria a estrutura mostrada a seguir.
+
+
+Julgue os itens a seguir, a respeito de ingestão de dados.
+69
+
+Ingestão de dados é o processo de importação e
+processamento de dados para uso posterior ou
+armazenamento em um banco de dados.
+
+70
+
+Uma ferramenta que suporta CDC (change data capture) é
+capaz de capturar os dados de uma origem no momento em
+que estes são criados ou alterados, e os transporta para um
+destino, com baixa latência.
+
+71
+
+A ingestão de dados em lote pode fornecer insights
+instantâneos e requer recursos significativos de poder
+computacional e largura de banda da rede para poder ser
+executada.
+
+72
+
+Streaming data ingestion é uma técnica de ingestão e
+processamento de grandes volumes de dados ou fontes de
+dados de sistemas legados, em que não é possível entregar
+dados em fluxos; ela exige que todos os dados necessários
+sejam carregados em algum tipo de armazenamento, um
+banco de dados ou sistema de arquivos para serem
+processados.
+
+Acerca do processamento de dados, julgue os itens a seguir.
+73
+
+MapReduce é uma ferramenta de uso restrito a frameworks
+de Big Data, como o Hadoop, e deve ser aplicado
+exclusivamente no tratamento de dados estruturados, sendo
+ineficiente para processar dados não estruturados.
+
+74
+
+O processamento massivo de dados é necessário para
+diversos tipos de aplicações, como, por exemplo, a análise de
+logs de servidores web, o processamento de dados de
+sensores IoT e a análise de dados climáticos.
+
+75
+
+O processamento em lote é inadequado para tarefas que
+exigem resposta imediata e interatividade, sendo
+recomendado para tarefas que podem ser agendadas e
+executadas sem a necessidade de interação.
+
+76
+
+O processamento em tempo real geralmente requer menos
+recursos computacionais em comparação ao processamento
+offline.
+
+Julgue os itens que se seguem, a respeito de qualidade de dados.
+77
+
+A qualidade dos dados é normalmente definida como uma
+propriedade relativa dos dados, em vez de absoluta.
+
+78
+
+Os principais componentes dos processos de qualidade para
+modelos de dados incluem a definição de secundário, a
+modelagem de processos e a revisão por pares.
+
+79
+
+A limpeza de dados consiste em remover ou modificar dados
+corretos, completos, relevantes ou que estão formatados
+incorretamente.
+
+80
+
+Profiling de dados é um exemplo de técnica utilizada para
+melhorar e manter a qualidade dos dados, e envolve a análise
+dos dados para entender sua estrutura, seu conteúdo e suas
+inter-relações; tal processo ajuda a identificar problemas
+como duplicações, inconsistências e anomalias dos dados.
+
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Julgue os próximos itens, a respeito de modelagem de dados.
+81
+
+A otimização de bases de dados para BI visa garantir que as
+consultas analíticas sejam executadas de maneira eficiente e
+rápida, a exemplo da indexação, que poderia ser a criação de
+índices nas tabelas de fatos e dimensões para acelerar a
+recuperação de dados; índices comuns incluem índices de
+colunas, índices compostos e índices bitmap.
+
+82
+
+A modelagem lógica de dados inclui índices e constraints,
+assim como chaves primária e estrangeira.
+
+83
+
+Uma tabela estará na terceira forma normal (3FN) se e
+somente se ela estiver na 1FN e na 2FN, e se todos os
+atributos não chave primária puderem ser obtidos somente
+por meio da chave primária.
+
+84
+
+A modelagem dimensional de dados tem o foco na rápida
+disponibilização dos dados e se preocupa apenas com a
+visualização; o modelo dimensional surgiu para atender os
+sistemas transacionais (OLTP).
+
+85
+
+São exemplos das principais operações que podem ser
+realizadas em um modelo OLAP: Roll-down, Drill-up,
+Peach e Push-up.
+
+Em relação à governança de dados, julgue os itens a seguir.
+86
+
+Segundo o DAMA-DMBoK, um dos objetivos do
+gerenciamento de metadados é coletar e integrar os
+metadados de diversas fontes.
+
+87
+
+O manual de normas e padrões é o principal documento
+utilizado em uma organização para a governança de dados.
+
+88
+
+A área de armazenamento de dados e operações do
+DAMA-DMBoK é responsável pelo ciclo de vida dos dados,
+desde o planejamento até o descarte.
+
+89
+
+A administração de dados atua em um contexto mais
+abrangente que a gestão de dados, com foco no controle das
+estruturas dos metadados da entidade.
+
+90
+
+Uma das premissas da governança de dados é garantir o
+controle da qualidade dos dados, focando nas atividades
+operacionais de correção de dados.
+
+Acerca de Big Data, julgue os próximos itens.
+91
+
+A propriedade de volume em Big Data refere-se à
+diversidade de tipos e formatos de dados coletados,
+analisados e utilizados.
+
+92
+
+Em um data lake, os dados são armazenados como foram
+coletados, sem a necessidade de análise prévia para
+estruturação.
+
+93
+
+No Hive do Apache Hadoop, as consultas são escritas em
+SQL; para tal, é necessário o conhecimento do MapReduce.
+
+94
+
+A arquitetura Lambda difere da arquitetura Kappa devido à
+existência da camada batch, que permite acesso ao histórico
+dos dados processados.
+
+95
+
+No processo de ELT, a limpeza e a transformação dos dados
+ocorrem dentro do data warehouse, enquanto que, no ETL,
+essas etapas ocorrem antes de os dados serem carregados na
+base de destino.
+
+
+Julgue os itens subsequentes, relativos ao desenvolvimento de
+sistemas de computação.
+96
+
+Tags em XML ou documentos no formato JSON são
+exemplos de dados semiestruturados que não possuem uma
+organização definida, mas contêm elementos que permitem
+sua análise.
+
+97
+
+A arquitetura orientada a serviços (SOA) facilita a integração
+de diferentes aplicações por meio de web services que
+utilizam protocolos como HTTP, XML, SOAP ou REST
+para a troca de dados.
+
+98
+
+Na arquitetura em camadas, estas são rigidamente separadas,
+com comunicação direta apenas entre camadas adjacentes;
+no modelo-visão-controlador (MVC), a interação entre os
+componentes é mais flexível; por exemplo, o controlador
+pode atualizar diretamente a camadas de visão.
+
+99
+
+UDDI é uma linguagem usada para a formatação de
+documentos JSON para comunicação entre serviços web.
+
+100 A WSDL é utilizada para descrever os serviços web,
+
+incluindo a localização dos serviços e os métodos
+disponíveis.
+Julgue os itens subsecutivos, referentes a segurança da
+informação e proteção de dados.
+101 A política de segurança da informação adotada em uma
+
+organização deve ser periodicamente analisada para se
+buscar sua adequação e eficiência, assim como deve ser
+revista para atender a mudanças, por exemplo, nos negócios
+e em aspectos contratuais, regulamentares e legais.
+102 Considerando o padrão TLP (traffic light protocol), o padrão
+TLP:AMBER pode ser usado quando há um risco mínimo ou
+não há previsão de risco de mau uso da informação, de
+acordo com regras e procedimentos aplicáveis para
+divulgação pública.
+103 Um analisador de protocolos de redes é capaz de capturar e
+
+analisar pacotes de dados em tempo real em redes ethernet,
+wi-fi e Bluetooth, independentemente de configurações de
+permissões e limitações de hardware e de software.
+
+Acerca de gestão de segurança e riscos, julgue os itens que se
+seguem.
+104 Conforme a norma ABNT NBR ISO/IEC 27005:2023,
+
+apesar de o tratamento de riscos envolver um processo
+iterativo que abrange formulação e seleção, planejamento e
+implementação e avaliação da eficácia, é possível que ele
+não leve imediatamente a um nível aceitável de riscos
+residuais e, nesse caso, deve ser feita outra tentativa para se
+encontrar mais tratamentos de riscos.
+105 A versão atualizada da norma ABNT NBR ISO/IEC 27001
+
+introduziu, em relação a sua versão anterior, novos controles
+de segurança que atendem às necessidades de proteção para
+novas tendências e abordagens de cibersegurança; no
+entanto, mesmo com essa modificação, o número de
+controles foi reduzido de uma versão para a outra.
+
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Julgue os próximos itens, relativos a gestão, qualidade e
+governança de tecnologia da informação.
+106 Gerenciamento de demanda, no ITIL, é o processo
+
+responsável por entendimento, previsão e influência da
+demanda do cliente por serviços que, em um nível
+estratégico, pode envolver análise de padrões de atividade de
+negócio e perfis de usuário.
+107 À luz da governança no setor público, o accountability diz
+respeito às ações organizacionais e ao comportamento do
+agente público, referindo-se à adesão e ao alinhamento
+consistente aos valores, princípios e normas éticas comuns
+para sustentar e priorizar o interesse público sobre os
+interesses privados.
+108 No COBIT 5, há processo no domínio alinhar, planejar e
+organizar (APO) que fornece abordagem estruturada e as
+habilidades de recursos humanos, com o objetivo de
+otimizá-los de modo a atender aos interesses da empresa.
+109 De acordo com o PMBOK, projeto é um esforço temporário
+empreendido para criar um serviço único; logo, não pode
+haver elementos repetitivos de forma absoluta em atividades
+e entregas de projeto.
+110 De acordo com MPS.BR (Melhoria de Processo do Software
+Brasileiro, versão janeiro/2021), para se atingir o nível de
+maturidade F – Gerenciados é suficiente implementar os
+processos gerência de projetos, engenharia de requisitos,
+gerência de configuração, medição e aquisição.
+Julgue os próximos itens, a respeito de processos de
+desenvolvimento de software e de UML.
+111 No modelo em cascata, o processo de projeto de sistemas
+
+aloca os requisitos tanto para sistemas de hardware como
+para sistemas de software, incluindo a descrição das
+abstrações fundamentais do sistema de software e seus
+relacionamentos.
+112 Na UML, o diagrama de estrutura composta descreve uma
+colaboração em que um conjunto de instâncias cooperam
+entre si para realizar uma tarefa.
+113 Conforme o diagrama de caso de uso a seguir, todas as vezes
+que o caso de uso faturar compra for acionado pelo ator
+sistema, obrigatoriamente também será acionado o caso de
+uso finalizar compra.
+
+
+Julgue os itens subsequentes, relativos a modelagem de dados e a
+análise de pontos de função.
+114 Considerando que a tabela seguinte descreve a quantidade de
+funções de dados e de transações e respectivas
+complexidades de um sistema, é correto afirmar que, nesse
+caso, o sistema possui exatamente 22 pontos de função sem
+fator de ajuste.
+função
+
+complexidade
+
+quantidade
+
+arquivo de interface externa (AIE)
+
+média
+
+1
+
+entrada externa (EE)
+
+média
+
+2
+
+saída externa (SE)
+
+baixa
+
+1
+
+consulta externa (CE)
+
+baixa
+
+1
+
+115 No modelo entidade-relacionamento a seguir, considerando
+que idDepartamento e idChefe são, respectivamente,
+chaves
+primárias
+de
+departamento
+e
+de
+chefe_departamento,
+é
+correto
+afirmar
+que
+funcionario é uma entidade associativa.
+
+Acerca de sistemas operacionais, arquitetura em nuvem e
+virtualização, julgue os itens subsequentes.
+116 Em virtualização, um hipervisor é definido como sendo um
+componente de software que gerencia várias máquinas
+virtuais em um computador, garantindo que cada uma delas
+receba os recursos alocados e não interfira na operação de
+outras máquinas virtuais.
+117 A partir da versão Windows Server 2012, há a possibilidade
+de upgrade de arquiteturas de computador de 32 bits para
+64 bits.
+118 Em uma solução de computação em nuvem SaaS (software
+as a service), é possível para o usuário desenvolver, executar
+e gerenciar aplicações sem o trabalho de criar e manter a
+infraestrutura ou plataforma que normalmente está associada
+a esses processos.
+Julgue os itens seguintes, relativos a COBIT 2019 e ITIL 4.
+119 Segundo o ITIL v4, o propósito de uma organização é criar
+valor para suas partes interessadas; esse valor pode ser
+definido como sendo a percepção dos benefícios, utilidade e
+importância de algo que é produzido ou fornecido; no
+entanto, o seu entendimento está sujeito à percepção das
+partes interessadas, sejam elas clientes ou consumidores de
+um serviço.
+120 Entre os novos fatores de design do COBIT 2019, aquele que
+é categorizado como contextual tem foco nas escolhas de
+decisão internas da organização, o que pode incluir objetivos
+de longo prazo para o crescimento dos negócios, viabilizados
+pela adoção de novas tendências tecnológicas ou pela
+migração das abordagens tradicionais de entrega e
+gerenciamento de serviços de TI.
+
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+Espaço livre
+
+

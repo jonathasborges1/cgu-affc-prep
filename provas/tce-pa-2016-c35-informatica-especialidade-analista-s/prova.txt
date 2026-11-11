@@ -1,0 +1,282 @@
+||251TCEPA_035_01N627055||
+
+                                       CONHECIMENTO
+Acerca de criptografia simétrica e assimétrica, julgue os itens
+a seguir.
+
+51   Em criptografia simétrica, a mesma chave é utilizada no
+     processo de cifrar e decifrar a mensagem.
+52   Por suportar três tamanhos de chaves distintas, o algoritmo
+     AES é considerado um algoritmo de criptografia assimétrica.
+53   Durante a construção de uma chave pública, é suficiente
+     utilizar apenas um número primo, visto que a fatoração é um
+     ataque ineficiente em criptografia assimétrica.
+Julgue os próximos itens, a respeito de elementos utilizados para
+proteção e segurança de redes de computadores.
+
+54   Um analisador de protocolo (sniffer) será considerado um
+     elemento de roteamento ao ser utilizado em uma rede, visto
+     que ele captura o pacote e o injeta novamente na rede.
+55   Um proxy acessa serviços de rede em nome de um usuário; um
+     proxy do tipo socks encaminha pacotes TCP e UDP.
+56   Um firewall que opera na camada de rede é capaz de verificar
+     o endereço IP de origem e de destino para tomar uma decisão
+     de negar ou permitir a passagem do pacote.
+No que se refere às características e ao uso de softwares maliciosos,
+julgue os itens seguintes.
+
+57   Os bots, programas de computador que executam operações na
+     forma de agentes em nome de um atacante, podem ser
+     controlados remotamente e são capazes de, entre outras
+     atividades, enviar spam.
+58   Um Rootkit, software que permite ao atacante obter controle
+     administrativo na máquina infectada, pode ser removido por
+     qualquer antivírus com base em assinatura, haja vista ser de
+     fácil detecção.
+Acerca de algoritmos e protocolos de segurança em redes wireless,
+julgue os itens subsequentes.
+
+59   O padrão WPA (wi-fi protected access) utiliza o conceito de
+     uma chave compartilhada (PSK) e o TKIP (temporal key
+     integrity protocol) para encriptação.
+60   O WPA2 (wi-fi protected access version 2) tem por base o
+     padrão de segurança 802.11i e utiliza o AES para encriptação.
+61   O protocolo WEP (wired equivalent privacy) é considerado
+     seguro, uma vez que, para quebrá-lo, é necessário utilizar
+     mecanismos de força bruta superior ao algoritmo DES.
+Com relação às configurações de segurança em servidores Linux
+e Windows 2012 R2, julgue os itens subsecutivos.
+
+62   No Windows 2012 R2, a ferramenta security configuration
+     wizard auxilia o administrador do sistema a aumentar a
+     segurança de um servidor Windows.
+63   Por padrão, qualquer usuário criado em um servidor Linux
+     é do tipo root.
+64   O SELinux é um modo de segurança implementado em nível
+     de usuário no Linux.
+
+               CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+ Acerca dos protocolos Syslog e Microsoft Event Viewer, julgue
+ os itens que se seguem.
+
+ 65   O nível de severidade das mensagens de um Syslog varia
+      de 0 a 1, sendo o nível 0 referente a erro crítico, e o nível 1, a
+      kernel panic.
+ 66   Por padrão, o Microsoft Event Viewer, ferramenta utilizada
+      para visualizar registro de eventos no Windows, visualiza
+      apenas erros e deve ser explicitamente configurado para
+      visualizar eventos críticos do Windows.
+ 67   O Syslog permite separar o software que gera mensagens,
+      do sistema que as armazena, do software que analisa tais
+      mensagens.
+
+ Acerca da comunicação de dados, julgue os itens a seguir.
+
+ 68   Os padrões de cabeamento 1000BaseSX e 1000BaseLX
+      são utilizados para atingir a taxa de transmissão de 1 gigabit
+      por segundo através das fibras ópticas monomodo.
+ 69   WiMAX é um padrão de comunicação sem fio utilizado
+      em redes MAN.
+ 70   A capacidade máxima de transmissão de um canal sem ruído
+      deve ser calculada por meio da equação de Shannon.
+ 71   O processo de propagação de luz por meio de uma fibra óptica
+      baseia-se no fenômeno da reflexão total dos raios luminosos.
+
+ Julgue os próximos itens, relativos a protocolos utilizados em redes
+ de comunicação.
+
+ 72   No protocolo SNMP, uma MIB define uma base de dados
+      que contém informações de gerenciamento relativas
+      aos dispositivos gerenciados.
+ 73   HTTP, SMTP, POP, PPP, SSH e FTP são exemplos
+      de protocolos da camada de aplicação.
+ 74   O protocolo de roteamento RIP, implementado na camada
+      de aplicação, utiliza o protocolo de transporte TCP.
+ 75   O protocolo OSPF utiliza os serviços do protocolo IP para
+      transportar suas mensagens.
+ 76   O protocolo ARP efetua a tradução de nomes para endereços
+      IP dentro de uma sub-rede.
+
+ No que se refere a equipamentos de interconexão em redes, julgue
+ os itens subsequentes.
+
+ 77   Bridges e switches são elementos de interconexão que operam
+      na camada de rede.
+ 78   Os componentes principais de um roteador são portas
+      de entrada, matriz de comutação, portas de saída e processador
+      de roteamento.
+
+||251TCEPA_035_01N627055||
+
+Julgue os próximos itens, relativos à administração e à operação
+de redes.
+79   Pilha dupla, fragmentação e acoplamento são as principais
+     técnicas de transição do IPV4 para o IPV6.
+80   Redes de armazenamento podem ser construídas a partir
+     de uma infraestrutura dedicada, por meio da tecnologia
+     FC SAN, ou a partir de uma infraestrutura de rede existente,
+     por meio das tecnologias IP SAN e FCoE.
+81   A tecnologia NAT permite conectar a Internet a uma rede
+     de dispositivos com espaço de endereçamento próprio,
+     exigindo, para tanto, apenas um endereço IP válido.
+No que se refere a aplicações multimídia e qualidade de serviço,
+julgue os itens que se seguem.
+82   A arquitetura Diffserv foi proposta para prover, de maneira
+     flexível e escalável, a diferenciação de serviços em uma rede.
+83   H323 é uma pilha de protocolos proposta para realizar
+     a padronização de jogos online na Internet.
+84   O protocolo SIP opera com o estabelecimento,
+     o gerenciamento e a terminação de sessões de áudio, vídeo
+     ou dados.
+85   A disciplina de escalonamento de filas WFQ, assim como
+     a disciplina Round Robin, não permite que classes
+     distintas recebam quantidades diferentes de serviço.
+No que diz respeito aos fundamentos de banco de dados, julgue os
+itens a seguir.
+86   Arquivos agrupados possibilitam a realização de operações
+     de varredura e pesquisa com seleção por igualdade, mas não
+     a de operações de inserção.
+87   Um banco de dados do tipo relacional é aquele composto por
+     um conjunto de relações conhecidas como tabelas.
+88   A redundância em banco de dados deve ser reduzida, mas não
+     totalmente eliminada.
+89   Um arquivo de registros desordenados (heap files) é uma
+     estrutura simples em que os registros são armazenados nas
+     páginas do arquivo de forma aleatória.
+
+
+
+
+Considerando a figura apresentada, que ilustra o modelo de um
+banco de dados hipotético, julgue os itens que se seguem.
+90   As cardinalidades mínimas do referido modelo são
+     representadas por n.
+91   Se esse modelo for implementado, ele permitirá a criação
+     de duas tabelas, uma para cada entidade, uma vez que
+     relacionamentos do tipo n:n utilizam o método fusão de tabelas
+     para serem implementados.
+92   De acordo com a figura, não é necessário que uma licitação
+     tenha uma modalidade.
+93   A figura expõe um modelo lógico, uma vez que ele contém
+     detalhes de implementação e é independente de um sistema
+     gerenciador de banco de dados (SGBD).
+
+               CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Acerca da configuração e administração dos bancos de dados SQL
+Server 2008 R2 e MySQL 5.7, julgue os itens subsequentes.
+94    ANSI e STRIC_TRANS_TABLES são exemplos de SQL
+      Mode utilizados pelo MySQL.
+95    A ferramenta SQL Server Configuration Manager permite
+      realizar configurações de modo que uma instância do SQL
+      Server se inicie automaticamente quando o servidor for ligado.
+96    Caso a senha de uma conta do SQL Server 2008 R2 seja
+      alterada, a nova senha entrará em vigor imediatamente, sem
+      a necessidade de reinicialização do SQL Server.
+97    No MySQL 5.7, ao se digitar o comando mysqld --help,
+      será exibida uma lista completa e detalhada de todos os
+      comandos utilizados pelo SGBD.
+No que concerne à linguagem SQL, julgue os itens seguintes.
+98    O comando create table pode ser utilizado para criar tanto
+      uma tabela vazia quanto uma com dados de outra tabela.
+99    Ao se criar uma view, não é necessário que os nomes dos
+      atributos da view sejam os mesmos dos atributos da tabela.
+100   Para que um usuário possa executar o comando select em
+      uma view, não é necessário que ele tenha esse privilégio
+      diretamente na view, mas apenas na tabela a que a view faz
+      referência.
+101   A inserção de uma consulta na cláusula from de outra consulta
+      não configura erro de sintaxe.
+102   Em versões recentes da linguagem SQL, o comando delete
+      permite a exclusão de valores em atributos específicos,
+      mantendo-se inalterados os valores dos outros atributos que
+      compõem a tupla.
+Acerca dos sistemas operacionais Linux e Windows Server, julgue
+os itens que se seguem.
+103   Todo comando do prompt do Linux é uma sequência de letras,
+      números e caracteres, sendo cat, Cat e CAT comandos
+      diferentes, pois o sistema operacional é case-sensitive.
+104   Um usuário Linux pode ter permissão de leitura de um arquivo,
+      e não de exclusão. A cada arquivo estão associadas permissões,
+      que se tornam inalteráveis após a criação desse arquivo.
+105   No Linux, o tipo de permissão r possibilita ao usuário executar
+      o comando ls e listar o conteúdo de um diretório, ao passo
+      que o tipo w admite a gravação e exclusão de um diretório,
+      cabendo ao tipo x facultar ao usuário a execução de um
+      arquivo script.
+106   A instalação de uma atualização do Windows Server 2012 R2
+      possibilita a alteração da arquitetura de 32 bites para 64 bites.
+107   Se o Windows Server Essentials for instalado como máquina
+      virtual sem que o equipamento esteja conectado à rede, as
+      funcionalidades de DirectAccess estarão bloqueadas durante
+      a execução do assistente de configuração.
+Julgue os itens subsequentes, relativos aos sistemas de arquivos
+NTFS e EXT4.
+108   No Windows, após se converter uma partição para NTFS,
+      é possível, sem formatá-la, usar o sistema de arquivos FAT.
+109   O sistema padrão de arquivos EXT4, que é utilizado pelo
+      Linux, pode ser acessado pelo Windows por meio de
+      programas específicos.
+
+||251TCEPA_035_01N627055||
+
+A respeito da LVM (logical volume manager), julgue o próximo
+item.
+110   O comando # lvcreate -L 8020 -n tce00 vg00 cria
+      um volume que é chamado tce00 e que possui oito gigabaites
+      e vinte megabaites.
+Com relação à administração de servidores web, julgue os itens
+a seguir.
+111   O servidor Tomcat provê o uso de tags plug-in, como o JSTL,
+      para o desenvolvimento de páginas JSP. Para serem utilizadas
+      outras tags, deve-se declará-las na página, e o servidor
+      identificará, automaticamente, o plug-in a ser executado.
+112   No Apache Server, o servidor http é configurado por meio do
+      arquivo httpd.conf, que possui três sessões, sendo a sessão
+      Main a responsável por informar o número de requisições
+      concorrentes e a possibilidade de existirem múltiplos domínios
+      no servidor.
+Julgue os itens seguintes, relativos a tipologias de ambientes com
+alta disponibilidade e escalabilidade.
+113   Para utilizar o clustering de failover nos servidores Windows,
+      os serviços como Microsoft Exchange Server podem ser
+      executados em máquinas físicas, mas não em máquinas
+      virtuais.
+114   Os servidores Windows Server configurados em cluster
+      permitem que os administradores gerenciem os nós como um
+      sistema único, e não como computadores separados.
+Com referência a máquinas virtuais portáteis, julgue os itens
+subsecutivos.
+115   Quando o administrador cria uma máquina virtual com banco
+      de dados, deve ser definido o espaço que ela irá utilizar, visto
+      que, havendo necessidade de ampliação de espaço, uma nova
+      máquina virtual deverá ser criada.
+116   Por meio do uso da VMWare vSphere, é possível migrar uma
+      máquina virtual de um host para outro sem a interrupção de
+      algum serviço.
+No que tange a subsistemas de armazenamento de dados, julgue os
+itens que se seguem.
+117   Um armazenamento conectado a uma rede NAS utiliza
+      o sistema de arquivos de rede NFS que possibilita a clientes
+      Windows, Linux e Unix acessarem os arquivos mediante uma
+      rede IP.
+118   SAN é uma rede de armazenamento de dados que provê
+      escalabilidade a fim de aumentar a capacidade de
+      armazenamento, exigindo-se, para a execução desse serviço,
+      que se desliguem os servidores e seus clientes de rede.
+No que se refere a tipos e classificações de datacenters, julgue os
+itens subsequentes.
+119   Os datacenters do tipo 2N possuem redundância completa
+      e, por serem classificados como TIER 3, apresentam
+      disponibilidade de noventa e seis horas de proteção contra
+      interrupção de energia.
+120   Um datacenter portátil, que pode ser utilizado por empresas
+      que tenham dificuldade de expansão predial, provê economia
+      de espaço e energia.
+
+               CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Espaço livre
+

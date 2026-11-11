@@ -1,0 +1,50 @@
+{"id": "v1-10-01", "codigo": "OUTRO", "rel": "fora", "motivo": "ISS tributário fora do edital"}
+{"id": "v1-10-02", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "ato administrativo presunção legitimidade, direito administrativo"}
+{"id": "v1-10-03", "codigo": "P1·ADM 4", "rel": "media", "motivo": "fase final do orçamento, prestação de contas"}
+{"id": "v1-10-04", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "intersetorialidade em políticas públicas"}
+{"id": "v1-10-05", "codigo": "OUTRO", "rel": "fora", "motivo": "interpretação de texto"}
+{"id": "v1-10-06", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "ciclo de políticas públicas, agenda"}
+{"id": "v1-10-07", "codigo": "OUTRO", "rel": "fora", "motivo": "LGPD tratamento de dados pelo poder público"}
+{"id": "v1-10-08", "codigo": "OUTRO", "rel": "fora", "motivo": "sucessão tributária e clima do DF"}
+{"id": "v1-10-09", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "conceito de democracia e poder do povo"}
+{"id": "v1-10-10", "codigo": "P1·SOC 4", "rel": "media", "motivo": "discriminação em política pública, igualdade"}
+{"id": "v1-10-11", "codigo": "OUTRO", "rel": "fora", "motivo": "sintaxe de português"}
+{"id": "v1-10-12", "codigo": "P1·ADM 4", "rel": "media", "motivo": "LRF despesa com pessoal e limites fiscais"}
+{"id": "v1-10-13", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "servidores públicos, limitação física, readaptação"}
+{"id": "v1-10-14", "codigo": "P1·SOC 3", "rel": "alta", "motivo": "transição demográfica, crescimento populacional"}
+{"id": "v1-10-15", "codigo": "P1·ADM 2", "rel": "media", "motivo": "escola das relações humanas, teorias administrativas"}
+{"id": "v1-10-16", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "burocracia weberiana"}
+{"id": "v1-10-17", "codigo": "OUTRO", "rel": "fora", "motivo": "educação e sociedade, pedagogia"}
+{"id": "v1-10-18", "codigo": "OUTRO", "rel": "fora", "motivo": "redação oficial, exposição de motivos"}
+{"id": "v1-10-19", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "abuso de poder, excesso de poder"}
+{"id": "v1-10-20", "codigo": "OUTRO", "rel": "fora", "motivo": "poder de polícia SUSEP, direito administrativo"}
+{"id": "v1-10-21", "codigo": "P1·ESTADO 6", "rel": "baixa", "motivo": "indícios de fraude, situação hipotética"}
+{"id": "v1-10-22", "codigo": "OUTRO", "rel": "fora", "motivo": "computação em nuvem, segurança TI"}
+{"id": "v1-10-23", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Reforma do Aparelho do Estado 1995"}
+{"id": "v1-10-24", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "federalismo e políticas sociais"}
+{"id": "v1-10-25", "codigo": "P1·ESTADO 6", "rel": "alta", "motivo": "patrimonialismo, corrupção e nepotismo"}
+{"id": "v1-10-26", "codigo": "OUTRO", "rel": "fora", "motivo": "suprimento de fundos, contabilidade pública"}
+{"id": "v1-10-27", "codigo": "OUTRO", "rel": "fora", "motivo": "sistema viário, engenharia urbana"}
+{"id": "v1-10-28", "codigo": "P1·ETICA 2", "rel": "media", "motivo": "código de ética de controladoria estadual, governança"}
+{"id": "v1-10-29", "codigo": "P1·ETICA 3", "rel": "baixa", "motivo": "publicidade de declaração de bens, justiça militar"}
+{"id": "v1-10-30", "codigo": "OUTRO", "rel": "fora", "motivo": "coisa julgada, processo civil"}
+{"id": "v1-10-31", "codigo": "OUTRO", "rel": "fora", "motivo": "sanções do regimento do TCDF"}
+{"id": "v1-10-32", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "administração pós-burocrática, modelos"}
+{"id": "v1-10-33", "codigo": "OUTRO", "rel": "fora", "motivo": "contabilidade pública, empresas estatais dependentes"}
+{"id": "v1-10-34", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "controles internos e contabilidade"}
+{"id": "v1-10-35", "codigo": "OUTRO", "rel": "fora", "motivo": "multiletramento escolar"}
+{"id": "v1-10-36", "codigo": "OUTRO", "rel": "fora", "motivo": "PRONAF Bioeconomia, crédito rural"}
+{"id": "v1-10-37", "codigo": "P1·ETICA 5", "rel": "media", "motivo": "plano de integridade, gestão da ética e riscos"}
+{"id": "v1-10-38", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "conselhos profissionais prestam contas ao TCU"}
+{"id": "v1-10-39", "codigo": "OUTRO", "rel": "fora", "motivo": "concessão de serviço público, direito administrativo"}
+{"id": "v1-10-40", "codigo": "P1·ADM 2", "rel": "media", "motivo": "modelo de gestão para resultados estadual"}
+{"id": "v1-10-41", "codigo": "P1·ADM 5", "rel": "alta", "motivo": "eMAG, acessibilidade em portais públicos"}
+{"id": "v1-10-42", "codigo": "OUTRO", "rel": "fora", "motivo": "custos no setor público, SIAFI"}
+{"id": "v1-10-43", "codigo": "OUTRO", "rel": "fora", "motivo": "fiscalização de obras, cronograma"}
+{"id": "v1-10-44", "codigo": "OUTRO", "rel": "fora", "motivo": "segurança da informação, incidentes"}
+{"id": "v1-10-45", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "restrição de manifestação política de servidores"}
+{"id": "v1-10-46", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "TCDF e contas do governador"}
+{"id": "v1-10-47", "codigo": "OUTRO", "rel": "fora", "motivo": "índice de custo da construção"}
+{"id": "v1-10-48", "codigo": "P1·ESTADO 5", "rel": "alta", "motivo": "gestão por resultados e valor público"}
+{"id": "v1-10-49", "codigo": "P1·ADM 2", "rel": "media", "motivo": "participação social, conselhos e consultas"}
+{"id": "v1-10-50", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "administração gerencial versus burocrática"}

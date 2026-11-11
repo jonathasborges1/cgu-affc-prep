@@ -1,0 +1,308 @@
+     89301101303170
+
+                                 -- CONHECIMENTO
+Julgue os próximos itens, relativos a BI (business intelligence).
+51 Business intelligence se baseia na experiência prática de
+    colaboradores e tomadores de decisão, consistindo em uma
+    transformação organizada e centralizada de informações.
+52 Inteligência de negócios faz uso de fontes diversificadas,
+    como bancos de dados tradicionais, data warehouse e data
+    marts, bem como técnicas de data mining, buscando
+    correlações e fatos ocultos.
+53 O processo de BI tem base na transformação de dados em
+    informações, depois em decisões e por fim em ações.
+Acerca da metodologia de ponto de função, julgue os itens
+subsequentes.
+54 Contagem de aplicação é o tipo de contagem de pontos de
+   função em que é medida a funcionalidade fornecida aos
+   usuários finais quando o projeto estiver pronto, no momento
+   de sua instalação.
+55 A metodologia de ponto de função tem como foco principal
+   a visão do usuário, a medida independe da tecnologia
+   utilizada e(ou) da linguagem de programação em que a
+   funcionalidade foi implementada.
+De acordo com o que dispõem os conceitos de business
+intelligence, julgue os itens que se seguem.
+56 A análise de dados prescritiva diz respeito a conhecer o que
+   está acontecendo na organização e entender tendências e
+   causas subjacentes de tais ocorrências.
+57 Data warehouse é um repositório de dados históricos e
+   correntes de potencial interesse para gestores de toda a
+   organização.
+58 Um sistema de BI apresenta quatro componentes
+   principais: um DW (data warehouse), análise de negócios,
+   BPM (business process management) e uma interface do
+   usuário.
+59 A mineração de processos é um ramo da mineração de dados
+   que utiliza inteligência de negócios para prever tendências,
+   ajudando tomadores de decisão a estudarem o impacto de
+   suas decisões no futuro da organização.
+Julgue os próximos itens, a respeito dos sistemas de suporte à
+decisão e gestão de conteúdo.
+60 Soluções de sistemas de suporte à decisão baseados em
+   modelos de previsão auxiliam a determinar as consequências
+   ao se alterar alguma decisão.
+61 Um sistema de apoio à decisão tem como características a
+   manipulação de limitado volume de dados, o processamento
+   de dados de fontes diferentes e orientação textual e gráfica.
+62 Sistemas de apoio à decisão complementam os recursos
+   intelectuais dos indivíduos com as capacidades do
+   computador para melhorar a qualidade das decisões.
+No que se refere à arquitetura e aplicações de data warehouse
+com ETL e OLAP, julgue os itens subsecutivos.
+63 Processos OLTP utilizam bancos de dados transacionais como
+   fonte de dados, enquanto OLAP utilizam Data Warehouse
+   ou Data Mart.
+64 Extração, tratamento e carga (ETL) é o processo que coleta
+   dados relevantes dos bancos de dados transacionais,
+   transforma-os em um padrão e os carrega no data warehouse
+   ou no data mart.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS --
+
+
+
+ No que         se refere    à    representação do diagrama
+ entidade-relacionamento (ER) precedente, julgue os itens seguintes.
+ 65   Várias vendas contêm 1 mercadoria.
+ 66   1 companhia possui muitas mercadorias.
+ A respeito da construção de relatórios e dashboards interativos
+ em ferramentas de BI, julgue os seguintes itens.
+ 67 Os dashboards oferecem exibições textuais de informações
+     ad hoc e exibidas em múltiplas mensagens.
+ 68 Um dashboard bem projetado possui como característica a
+     exigência de numerosa codificação customizada para ser
+     implementado, utilizado e mantido.
+ 69 A característica mais distintiva de um dashboard são suas
+     três camadas de informação: monitoramento, análise e
+     gerenciamento.
+ 70 A camada de informação “análise” de um dashboard faz uso
+     de dados dimensionais resumidos para analisar a causa-raiz
+     dos problemas.
+ A respeito de dados estruturados e não estruturados, julgue os
+ itens seguintes.
+ 71 Arquivos .xml, .csv e .json são exemplos de dados
+      estruturados.
+ 72 Se, em certa organização, grande parte dos dados for
+      constituída de dados estruturados, mas também houver
+      muitos dados de arquivos .pdf e .docx, então os dados, em
+      geral, serão classificados como semiestruturados.
+ Em relação à avaliação de modelos de dados, julgue os itens
+ subsequentes.
+ 73 No desenvolvimento ágil, a etapa de avaliação de modelos se
+     torna dispensável, pois o desenvolvimento de software é
+     feito de forma mais rápida.
+ 74 A aplicação do ciclo PCDA nos processos de construção e
+     avaliação de modelos de dados implica que a qualidade será
+     controlada, em vez de planejada.
+ 75 A avaliação de modelos de dados deve ser uma atividade
+     formal que compreenda a elaboração de laudos técnicos que
+     registrem observações, ressalvas e eventuais erros
+     encontrados durante a verificação da modelagem.
+ Julgue os itens a seguir, relativos a ELT e ETL.
+ 76 No processo de transformação, os dados de cada fonte serão
+     transformados, limpos e agregados, de acordo com os
+     requisitos, para garantir que sejam armazenados em um
+     formato consistente e universal.
+ 77 Em geral, para uma mesma base de dados, o custo de
+     manutenção de um ELT é mais baixo que o de um ETL.
+ 78 Para uma mesma base de dados, um ETL demanda menos
+     espaço de armazenamento do que um ELT.
+ Julgue os próximos itens, relativos à metodologia Scrum.
+ 79 Uma vez que o Scrum team é autogerenciável, com
+     capacidade de decidir internamente como será executada a
+     solução, cabe a ele criar e comunicar claramente os itens do
+     product backlog.
+ 80 A sprint planning inicia a sprint ao definir o trabalho a ser
+     realizado na sprint.
+
+     89301101303170
+
+A respeito de modelagem de dados, julgue os itens a seguir.
+81   A modelagem conceitual representa o negócio sob a
+     perspectiva dos dados, e, em projetos de TI, o principal
+     objetivo de um modelo de dados conceitual é fornecer uma
+     visão geral dos requisitos de informação envolvidos no
+     projeto.
+82   O modelo em estrela e o modelo em floco de neve são os
+     principais modelos de dados relacionais.
+83   Um banco de dados que se encontra na terceira forma normal
+     obrigatoriamente está também na segunda e na primeira
+     formas normais.
+84   A integridade referencial é uma parte essencial de qualquer
+     banco de dados relacional, que, entre outros benefícios,
+     facilita as consultas.
+85   A modelagem dimensional é uma técnica de modelagem de
+     banco de dados que usa um modelo de dados baseado em
+     dimensões para organizar os dados, e as tabelas de
+     dimensões são sempre as maiores tabelas do modelo
+     dimensional.
+Em relação às linguagens de banco de dados SQL, DDL e DML,
+julgue os itens que se seguem.
+86 Somente são possíveis os seguintes quatro tipos de JOIN
+   em SQL, segundo o padrão ANSI: INNER JOIN, LEFT JOIN,
+   RIGHT JOIN e CROSS JOIN.
+87 Na DDL, que é uma linguagem declarativa, é descrito o que
+   se deseja fazer, em vez de como fazê-lo, como comandos
+   para definir tabelas e procedures, tal qual exemplificado
+   a seguir.
+
+     CREATE TABLE <tablename> (col1 int, col2 int,
+     col3 int)
+88   A DML é uma linguagem que interage com os objetos do
+     banco de dados, em vez de interagir com os dados.
+No que se refere a banco de dados NoSQL e data lake, julgue os
+próximos itens.
+89 Considere-se que uma empresa de comércio eletrônico
+   deseje armazenar todos os dados relacionados às interações
+   dos clientes em seu site — registros de visitas, cliques,
+   compras, avaliações, comentários, entre outros. Nessa
+   situação, se a empresa decidir não estruturar e organizar
+   esses dados antecipadamente, será melhor armazenar esses
+   dados em uma solução data lake do que em um banco
+   relacional.
+90 Os bancos relacionais permitem uma escalabilidade mais
+   barata e menos trabalhosa que os bancos não relacionais,
+   pois não exigem máquinas extremamente poderosas e sua
+   facilidade de manutenção possibilita um número menor de
+   profissionais necessários.
+Julgue os próximos itens, relativos a gerenciamento de projetos,
+de acordo com o PMBOK 7.ª edição.
+91 Um dos princípios estipulados pelo PMBOK 7.ª edição é o
+   enfoque no valor, segundo o qual valor é o indicador de
+   sucesso definitivo do projeto; nesse sentido, as equipes
+   podem, para apoiar a percepção de valor dos projetos, alterar
+   o foco das entregas para os resultados pretendidos.
+92 Os domínios de desempenhos são executados em sprints em
+   sequência de importância.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+Julgue os itens seguintes, relativos à gestão de riscos.
+93 A análise de riscos inclui a consideração das causas e fontes
+   de risco, a probabilidade de ocorrer um evento específico, a
+   probabilidade de que este evento provoque consequências e a
+   gravidade dessas eventuais consequências.
+94 Na gestão de riscos, o nível de risco refere-se à significância
+   de um risco, demonstrada pela combinação das
+   consequências e de seu impacto.
+Considerando a ITIL 4, julgue os itens a seguir.
+95 A solicitação de um usuário que inicia uma ação de serviço
+   acordada como parte regular da entrega de serviço deve ser
+   gerenciada pela prática de gerenciamento de incidente, de
+   modo que se restaure a operação normal do serviço o mais
+   rápido possível.
+96 A prática de gerenciamento de segurança da informação tem
+   como objetivo principal a elaboração e manutenção da
+   política de segurança da informação da organização.
+Com base no COBIT 2019, julgue os próximos itens.
+97 No domínio entrega, serviço e suporte (DSS), há processos
+   relacionados ao gerenciamento de solicitações e de
+   incidentes de serviço, assim como ao gerenciamento de
+   problemas e de continuidade.
+98 O processo estratégia gerenciada do domínio alinhar,
+   planejar e organizar (APO) visa garantir que cada iniciativa
+   da organização esteja claramente conectada a uma estratégia
+   abrangente, de modo que haja transformação digital na
+   organização.
+No que se refere ao uso da notação BPMN para a gestão de
+processos e para a modelagem de processos de negócio, julgue os
+itens que se seguem.
+99   De acordo com a notação BPMN apresentada na figura a
+     seguir, a Tarefa 2 (#2) e a Tarefa 3 (#3) serão executadas
+     concomitantemente.
+
+
+
+
+100 De acordo com a notação BPMN apresentada na figura a
+    seguir, apenas uma das tarefas #1, #2 e #3 será executada,
+    ou seja, no momento de decisão (#Decisão), um único
+     caminho deverá ser seguido.
+
+    89301101303170
+
+Julgue os itens que se seguem, acerca de conceitos de
+computação em nuvem.
+101 O IaaS é o serviço de computação em nuvem que utiliza um
+    modelo de pagamento por demanda, de maneira que o cliente
+    paga apenas pelos serviços utilizados.
+102 Em PaaS, o cliente não tem de se preocupar com a camada
+    de infraestrutura, podendo concentrar-se somente nas
+    aplicações que deseja disponibilizar.
+103 Escalabilidade é a característica flexível de um serviço em
+    nuvem que permite o redimensionamento de recursos de
+    acordo com a demanda do cliente em tempo real, de forma
+    automatizada e instantânea.
+104 Uma das diferenças entre nuvens privadas e nuvens públicas
+    é o fato de que as primeiras usam uma infraestrutura
+    compartilhada.
+
+No que se refere aos componentes centrais da arquitetura em
+nuvem, julgue os itens seguintes.
+105 Apesar da automação do provisionamento da infraestrutura
+    com a IaC, ainda é preciso fazer ajustes no gerenciamento de
+    servidores e sistemas operacionais quando uma aplicação é
+    criada ou implantada.
+106 Entre os componentes de uma arquitetura em nuvem, a
+    plataforma de front-end é aquela que contém a infraestrutura
+    do cliente, incluindo, por exemplo, recursos de
+    armazenamento      e    mecanismos       de    segurança   e
+    gerenciamento.
+107 Uma região é composta por um conjunto de data centers
+    isolados uns dos outros, o que se denomina zonas de
+    disponibilidade.
+108 IaC refere-se ao gerenciamento e provisionamento da
+    infraestrutura por meio de códigos, em vez de processos
+    manuais, e o controle de versão é uma parte importante desse
+    gerenciamento.
+
+A respeito da Política de Segurança da Informação (POSIN),
+julgue os itens subsequentes.
+109 Uma POSIN deve estar em conformidade com a legislação
+    vigente, com as normas pertinentes, com os requisitos
+    regulamentares e contratuais e com as melhores práticas de
+    segurança da informação.
+110 Competências e responsabilidades, apesar de serem
+    importantes, não devem constar da POSIN, pois sua
+    definição é restrita à alta administração da organização.
+
+Com base na ABNT NBR ISO/IEC 27002:2022, julgue os itens
+a seguir.
+111 Em um perímetro de segurança física, as portas corta-fogo
+    devem ser providas de alarme e monitoramentos e devem ser
+    testadas em conjunto com as paredes, a fim de se estabelecer
+    o nível de resistência exigido.
+112 Os direitos concedidos a usuários com acessos privilegiados
+    são restritos e controlados, sendo necessário ter requisitos
+    para expirar esse tipo de acesso.
+113 No desenvolvimento de uma política para criptografia, o uso
+    de criptografia no transporte de mídias móveis é opcional,
+    desde que, para o transporte, as mídias sejam lacradas e
+    rastreadas durante todo o tempo em que estiverem em trânsito.
+
+                     CEBRASPE – DATAPREV – Edital: 2023
+A respeito de ciclo de vida de desenvolvimento seguro, julgue os
+itens que se seguem.
+114 Durante a fase de implementação, são aplicados padrões de
+     codificação e testes.
+115 A modelagem de ameaças pode ser aplicada no componente
+     de um software, para apoiar a seleção de recursos de
+     segurança.
+116 A fase de implementação contempla a aplicação de testes de
+     segurança sem o uso de soluções para análise de código.
+117 Na fase de suporte e manutenção, deve ser estabelecido um
+     time ou grupo responsável por respostas a incidentes de
+     segurança.
+Acerca da análise dinâmica de código, julgue os itens a seguir.
+118 Na análise dinâmica, é possível revisar todo o código-fonte
+    sem a necessidade de execução do software.
+119 Durante a análise dinâmica, é possível identificar exceções
+    que não foram tratadas.
+No que se refere a OWASP Top 10, julgue o seguinte item.
+120 Insecure design recomenda o uso de LIMIT e outros
+    controles SQL para prevenir a divulgação em massa de
+    registros em caso de injeção de SQL.
+Espaço livre
+

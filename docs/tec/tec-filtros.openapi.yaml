@@ -1,0 +1,176 @@
+openapi: 3.0.3
+info:
+  title: TEC Concursos - API interna da tela "Filtrar questoes" (documentacao observada)
+  version: 2026-11-04
+  description: |
+    Documentacao NAO oficial, feita por observacao do trafego que a propria tela
+    https://www.tecconcursos.com.br/questoes/filtrar envia no navegador do usuario logado
+    (04/11/2026). Nao e contrato publicado pelo TEC: pode mudar sem aviso.
+
+    O que foi OBSERVADO (nomes, formatos e numeros abaixo vieram de requisicoes reais):
+    - corpos de POST em formato form-urlencoded (filtros[i].tipo / filtros[i].id)
+    - respostas JSON dos endpoints de busca de assunto, contagem, lista de ids e matérias
+
+    O que NAO foi verificado esta marcado com "(nao verificado)".
+
+    Uso responsavel: estes endpoints servem a tela. Chamadas diretas em rajada fora da
+    tela geraram bloqueio (HTTP 405/429, "Human Verification") em 04/11/2026. Os termos de
+    uso do TEC nao foram lidos. Para estudo, use os filtros pela interface (ver README).
+servers:
+  - url: https://www.tecconcursos.com.br
+security:
+  - sessionCookie: []
+tags:
+  - name: Descoberta
+    description: Achar matéria e assunto pelo nome
+  - name: Filtro
+    description: Contar e listar questões de um conjunto de filtros
+  - name: Distribuicao
+    description: Quantas questões por matéria e por assunto
+  - name: Questao
+    description: Detalhe de uma questão
+paths:
+  /api/assuntos:
+    get:
+      tags: [Descoberta]
+      summary: Busca assuntos por nome (campo "Nome" da tela)
+      parameters:
+        - {name: formato, in: query, required: true, schema: {type: string, enum: [OBJETIVA]}, description: "Objetivas. Valor para discursivas e inedita: nao verificado"}
+        - {name: hierarquico, in: query, schema: {type: boolean}, description: "false = busca plana por nome; true = arvore (visto com materia=141)"}
+        - {name: nome, in: query, schema: {type: string}, description: "Texto da busca. Observado em minusculas e sem acento: scrum, ppa, instrumentos+orcamentarios"}
+        - {name: materia, in: query, schema: {type: integer}, description: "Com hierarquico=true, lista a arvore de assuntos da matéria"}
+        - {name: universo, in: query, schema: {type: string}, description: "Vazio nas chamadas observadas"}
+      responses:
+        "200":
+          description: Assuntos que contem o texto
+          content:
+            application/json:
+              schema: {$ref: "#/components/schemas/AssuntosResponse"}
+              example:
+                assuntos:
+                  - id: 4253
+                    nome: SCRUM
+                    materia: {id: 138, nome: "TI - Engenharia de Software", dataAtualizacao: "04/11/2026"}
+                    hierarquia: "02.02.02"
+                    descendentes: "4253;"
+  /api/questoes/contagem/filtros:
+    post:
+      tags: [Filtro]
+      summary: Conta questões do conjunto de filtros (contador "questões encontradas")
+      requestBody:
+        required: true
+        content:
+          application/x-www-form-urlencoded:
+            schema: {$ref: "#/components/schemas/ContagemRequest"}
+            example: "universo=&formato=OBJETIVA&gerarEmSerie=false&caderno=&filtros[0].tipo=ASSUNTO&filtros[0].id=1463&filtros[1].tipo=FILTRO_QUESTAO&filtros[1].id=REMOVER_ANULADAS&filtros[2].tipo=BANCA&filtros[2].id=4"
+      responses:
+        "200":
+          description: Total de questões
+          content:
+            application/json:
+              schema: {type: object, properties: {int: {type: integer}}}
+              example: {int: 1674}
+  /api/questoes/filtros:
+    post:
+      tags: [Filtro]
+      summary: Lista os IDs das questões do conjunto de filtros (uma pagina)
+      description: |
+        NAO devolve o texto das questões, só ids. A resposta observada tem cerca de 100 ids
+        (corpo de ~815 caracteres) mesmo quando o total e de milhares: o resto vem por paginação
+        (parametro `pagina`, vazio na primeira chamada; formato das paginas seguintes: nao verificado).
+        A ordem padrão da tela e "Aleatórias".
+      requestBody:
+        required: true
+        content:
+          application/x-www-form-urlencoded:
+            schema: {$ref: "#/components/schemas/ListaRequest"}
+            example: "formato=OBJETIVA&universo=&pagina=&filtros[0].id=1463&filtros[0].tipo=ASSUNTO&filtros[1].id=REMOVER_ANULADAS&filtros[1].tipo=FILTRO_QUESTAO&filtros[2].id=4&filtros[2].tipo=BANCA"
+      responses:
+        "200":
+          description: IDs das questões da pagina
+          content:
+            application/json:
+              schema: {type: object, properties: {questoes: {type: array, items: {type: integer}}}}
+              example: {questoes: [3828763, 3830511, 3830513, 3830515]}
+  /api/materias/buscar-questoes-por-materia:
+    post:
+      tags: [Distribuicao]
+      summary: Número de questões por matéria para o filtro atual (tabela abaixo dos filtros)
+      description: "Corpo da requisição: nao verificado (provavelmente os mesmos filtros). Resposta observada abaixo."
+      responses:
+        "200":
+          description: Matérias com contagem
+          content:
+            application/json:
+              example: {list: [{id: 138, nome: "TI - Engenharia de Software", numeroQuestoes: 5050}]}
+  /api/assuntos/buscar-questoes-por-asssunto-mais-materia:
+    post:
+      tags: [Distribuicao]
+      summary: Número de questões por assunto dentro de uma matéria (o nome do endpoint tem "asssunto" com 3 s)
+      description: "Corpo e resposta: nao verificados nesta sessão. Alimenta a tabela hierarquica de assuntos."
+      responses:
+        "200": {description: OK}
+  /api/questoes/{id}/deslogado:
+    get:
+      tags: [Questao]
+      summary: Detalhe de uma questão por id
+      description: |
+        Observado respondendo HTTP 402 em sessão anterior (usuário sem plano ou limite diário do
+        plano gratuito esgotado). O formato da resposta com sucesso: nao verificado nesta sessão.
+        No fluxo de cadernos, a leitura é por /api/cadernos/{caderno}/questoes/{n} (ver docs do projeto).
+      parameters:
+        - {name: id, in: path, required: true, schema: {type: integer}}
+      responses:
+        "402": {description: "Pagamento ou plano necessário (observado)"}
+components:
+  securitySchemes:
+    sessionCookie:
+      type: apiKey
+      in: cookie
+      name: sessao
+      description: "Cookie de sessão do navegador logado. O nome real do cookie nao foi inspecionado."
+  schemas:
+    Filtro:
+      type: object
+      description: "Um item de filtros[i]. Em form-urlencoded: filtros[i].tipo e filtros[i].id"
+      properties:
+        tipo:
+          type: string
+          description: "Tipos observados: ASSUNTO, FILTRO_QUESTAO, BANCA. Outros (MATERIA, ANO, ORGAO...): nao verificados."
+          enum: [ASSUNTO, FILTRO_QUESTAO, BANCA]
+        id:
+          type: string
+          description: |
+            ASSUNTO: id numerico do assunto (ex.: 1463). Selecionar o pai já inclui os filhos (campo descendentes).
+            BANCA: id numerico da banca (ex.: 4 = CEBRASPE/CESPE).
+            FILTRO_QUESTAO: REMOVER_ANULADAS (observado); REMOVER_DESATUALIZADAS (nao verificado).
+    ContagemRequest:
+      type: object
+      properties:
+        universo: {type: string, description: "vazio nas chamadas observadas"}
+        formato: {type: string, enum: [OBJETIVA]}
+        gerarEmSerie: {type: boolean, example: false}
+        caderno: {type: string, description: "vazio nas chamadas observadas"}
+        filtros: {type: array, items: {$ref: "#/components/schemas/Filtro"}}
+    ListaRequest:
+      type: object
+      properties:
+        formato: {type: string, enum: [OBJETIVA]}
+        universo: {type: string}
+        pagina: {type: string, description: "vazio na 1a chamada"}
+        filtros: {type: array, items: {$ref: "#/components/schemas/Filtro"}}
+    AssuntosResponse:
+      type: object
+      properties:
+        assuntos:
+          type: array
+          items:
+            type: object
+            properties:
+              id: {type: integer}
+              nome: {type: string}
+              materia:
+                type: object
+                properties: {id: {type: integer}, nome: {type: string}, dataAtualizacao: {type: string}}
+              hierarquia: {type: string, description: "Codigo da posição na árvore, ex.: 02.05.01"}
+              descendentes: {type: string, description: "Ids do assunto e de todos os filhos, separados por ponto e vírgula"}

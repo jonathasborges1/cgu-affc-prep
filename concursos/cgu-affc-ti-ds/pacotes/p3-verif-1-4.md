@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-4 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-4 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -25,103 +25,33 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 - **P3·SEG 5**: 5 Contratação e fiscalização de soluções. | 5.1 Necessidade, estudo técnico preliminar e termo de referência. | 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento. | 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços. | 5.4 Qualidade, níveis de serviço e entregas verificáveis. | 5.5 Fiscalização e pagamento. | 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída. FLÁVIO MARQUES PROL Secretário Executivo Adjunto
 
 ## ITENS
-### v1-4-01 | gab=C
-No método de autenticação por token, usuários fornecem tokens exclusivos e individuais, gerados por um sistema ou serviço, válidos por tempo limitado, oferecendo maior segurança em comparação a autenticações por senha, especialmente contra reutilizações indevidas.
+### v1-4-01 | gab=E
+No ambiente GIT, uma branch é definida como uma coleção de referências junto com um banco de dados de objetos que contém todos os objetos que são acessíveis a partir das referências dos “ramos” do desenvolvimento.
 ### v1-4-02 | gab=C
-O OLAP (online analytical processing) permite a realização de consultas analíticas complexas em grandes volumes de dados, organizados em estruturas multidimensionais, sem impactar negativamente o desempenho dos sistemas transacionais.
-### v1-4-03 | gab=E
-Streaming data ingestion é uma técnica de ingestão e processamento de grandes volumes de dados ou fontes de dados de sistemas legados, em que não é possível entregar dados em fluxos; ela exige que todos os dados necessários sejam carregados em algum tipo de armazenamento, um banco de dados ou sistema de arquivos para serem processados.
+A especificação do OpenID Connect determina que a autenticação pode ocorrer, entre outras formas, em fluxo implícito, no qual tokens são devolvidos diretamente para a parte confiável, em um URI (Uniform Resource Identifier) de redirecionamento.
+### v1-4-03 | gab=E [texto-base: • Nos itens que avaliarem conhecimentos de informática e(o informado o contrário, considere que todos os programas menc proteção, de funcionamento e de uso em r]
+Scrum consiste de um processo linear para o desenvolvimento de produtos e possui uma sequência de etapas de forma rígida e predefinida, o que agiliza as entregas.
 ### v1-4-04 | gab=C
-É proibida a contratação de qualquer novo sistema, módulo ou funcionalidade privados, mesmo de forma não onerosa, que causem dependência tecnológica do fornecedor e que não permitam o compartilhamento não oneroso na Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br).
-### v1-4-05 | gab=C
-O MFA pode utilizar o fator de inerência, conhecido como autenticação por biometria, por ser uma das opções mais seguras disponíveis, considerando a sua dificuldade de ser contornada. OS ESPECÍFICOS -Em relação a ameaças e vulnerabilidades em aplicações, julgue os itens subsequentes.
-### v1-4-06 | gab=C
-A reescrita de sistemas legados envolve a migração do código existente para uma arquitetura moderna, utilizando-se frameworks e padrões atuais.
-### v1-4-07 | gab=C
-A referida norma determina que a organização deve avaliar o desempenho da segurança da informação e a eficácia do sistema de gestão da segurança da informação (SGSI), bem como estabelece, entre outros requisitos, o que precisa ser monitorado e medido, assim como os métodos para monitoramento, medição, análise e avaliação.
-### v1-4-08 | gab=C [texto-base: Com base nas Resoluções CNJ n.º 335/2020, n.º 396/2021 e n.º 522/2023, bem como nas Portarias CNJ n.º 252/2020, n.º 253/2020, n.º 131/2021 e n.º 162/2021, julgu]
-Um dos objetivos da Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) é instituir plataforma única para a publicação e a disponibilização de aplicações, microsserviços e modelos de inteligência artificial, por meio de computação em nuvem.
-### v1-4-09 | gab=E
-Leafleat é uma biblioteca R para criar e manipular uma hierarquia de classes ou árvore de herança, mostrando os relacionamentos entre classes na programação orientada a objetos. library('dplyr') lista <- data.frame( id = c(10,11,12,13), nome = c('pedro','mauro','maria','joana'), sexo = c('M','M','F','F'), uf = c('PA','RJ','AL',NA), row.names=c('r1','r2','r3','r4') )
-### v1-4-10 | gab=C [texto-base: Julgue os itens a seguir, quanto às ferramentas e técnicas de exploração de vulnerabilidades em aplicativos web, à Open Web Application Security Project (OWASP)]
-O tipo de ataque em que o atacante explora a relação de confiança que um sítio possui com o navegador que o acessa é conhecido como CSRF (cross-site request forgery).
-### v1-4-11 | gab=C [texto-base: A respeito de arquitetura, segurança, integridade, concorrência, recuperação após falhas e gerenciamento de transições em sistemas de gerenciamento de banco de ]
-Em um ambiente Oracle, a implementação de controle de concorrência por meio de isolamento de transações, combinada ao uso de backups incrementais e de log de redo, é suficiente para garantir a integridade e a recuperação completa dos dados após falha inesperada. JUSTIFICATIVA - Certo. No Oracle, o gerenciamento da concorrência por meio de níveis de isolamento, juntamente à utilização de redo logs e backups incrementais, é uma abordagem robusta para garantir a integridade e a 
-### v1-4-12 | gab=C [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-Threads são porções de um programa que, mesmo interligados e concorrentes, podem ser executados de forma paralela, como em sistemas multitarefa.
-### v1-4-13 | gab=C
-JWT (JSON Web Token) é o formato dos tokens fornecidos pelo SSO (single sign on) da PDPJ-Br.
-### v1-4-14 | gab=E
-Equipes de DevOps monitoram continuamente o ciclo de vida do desenvolvimento, desde o planejamento até a implantação, e utilizam o Git para reiniciar os contêineres automaticamente em caso de falha.
-### v1-4-15 | gab=E
-Em desenvolvimento web, o HTML é utilizado para estruturar páginas web, o CSS, para adicionar funcionalidades interativas à página e o JavaScript, para personalizar estilos da página.
-### v1-4-16 | gab=C
-No processo de ELT, a limpeza e a transformação dos dados ocorrem dentro do data warehouse, enquanto que, no ETL, essas etapas ocorrem antes de os dados serem carregados na base de destino.
-### v1-4-17 | gab=C
-Um data mart é um repositório de dados orientado a um departamento ou a uma função específica dentro de uma organização.
-### v1-4-18 | gab=E
-Os sistemas de armazenamento de dados S3 fornecem um caminho de migração conveniente para os usuários dos bancos de dados relacionais que desejam usar recursos orientados a objeto; eles aceitam uma forma nativa de acesso direto aos dados de uma linguagem de programação orientada a objeto, usando uma linguagem nativa denominada S.
-### v1-4-19 | gab=C
-Os três principais padrões de projeto (design patterns) são os criacionais, os estruturais e os comportamentais; os padrões criacionais aumentam a flexibilidade e a reutilização de código porque oferecem diversas alternativas de criação de objetos.
-### v1-4-20 | gab=C
-Considere que uma arquitetura distribuída disponibilize serviço na Web, contendo um servidor web, e que vários clientes acessem esse servidor por meio de chamadas de procedimento remoto, usando o HTTP. Nessa situação, a arquitetura é do tipo cliente-servidor, em que o modelo lógico de serviços independentes, rodando em servidores separados, pode ser implementado em um único computador. 548010_01N536447
-### v1-4-21 | gab=E
-Na inteligência artificial, o agente inteligente deve ser capaz de ter autonomia, isto é, deve ter a capacidade de acumular conhecimento que seja útil em suas ações.
-### v1-4-22 | gab=C
-Zonas de disponibilidade em uma arquitetura em nuvem são grupos separados de datacenters dentro de determinada região, zonas essas que devem estar próximas o suficiente para ter conexões de baixa latência com outras zonas de disponibilidade.
-### v1-4-23 | gab=C
-Como pré-requisito para a execução de um spring boot, é necessário ter uma versão válida do Java instalado.
-### v1-4-24 | gab=E [texto-base: Julgue os próximos itens, com relação à segurança e arquitetura de banco de dados e administração de dados e de banco de dados. O role contém as definições de p]
-Um esquema de banco de dados pode ser definido como a representação gráfica e simbológica dos componentes de um banco de dados, seja comercial, industrial ou residencial.
-### v1-4-25 | gab=E [texto-base: Julgue os itens que se seguem com base no disposto no Código Penal e nas Leis n.º 12.850/2013, n.º 13.869/2019 e n.º 9.613/1998 e respectivas alterações.]
-À falta de qualquer indício da prática de infração, a requisição de procedimento investigatório de delito administrativo em desfavor de alguém é crime de abuso de autoridade, ainda que tal requisição seja realizada por meio de sindicância devidamente justificada. JUSTIFICATIVA - Errado. Lei n.º 13.869/2019: “Art. 27. Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prátic
-### v1-4-26 | gab=C
-Em uma organização, a integração entre comunicação e marketing permite conferir mais consistência às mensagens da organização, otimizar custos, evitar retrabalhos e alcançar melhores resultados financeiros.
-### v1-4-27 | gab=C [texto-base: Julgue os itens seguintes, a respeito de aspectos de representação, métodos e técnicas de desenho e fluxo de projetação vinculados ao projeto de arquitetura.]
-A representação ortográfica em suas diversas formas é o método amplamente utilizado para representar objetos em todos os campos do desenho técnico e, portanto, é considerada a linguagem técnica mais usual.
-### v1-4-28 | gab=C
-Quando comparada ao Python, a linguagem Java, apesar de ter uma sintaxe mais verbosa, com estrutura textual repetitiva e regras sintáticas mais rígidas, é mais adequada para aplicações que exigem alto desempenho, devido à velocidade de execução. OS ESPECÍFICOS --
-### v1-4-29 | gab=C [texto-base: Julgue os itens a seguir, com relação a sistemas de proteção antispam, a normas da NBR ISO/IEC 27005, aos planos de continuidade de negócios e a disposições da ]
-Os planos de continuidade de negócios devem incluir detalhes das ações que as equipes executarão para monitorar o impacto da disrupção e a resposta da organização sobre ela. GESTÃO, QUALIDADE E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO E ENGENHARIA DE SOFTWARE
-### v1-4-30 | gab=C
-A metodologia de ponto de função tem como foco principal a visão do usuário, a medida independe da tecnologia utilizada e(ou) da linguagem de programação em que a funcionalidade foi implementada.
-### v1-4-31 | gab=E
-A expressão SQL a seguir está sintaticamente correta e permite inserir dois alunos de nomes Pedro e Maria na tabela alunos. I N S E R T V A L U E S ( ' P e d r o ' , 'Maria') INTO alunos;
-### v1-4-32 | gab=C
-Navegador web é um programa que habilita o usuário para interagir com documentos HTML hospedados em servidores que respondem ao protocolo HTTP e(ou) ao HTTPS.
-### v1-4-33 | gab=E
-Testes estáticos (SAST) têm a função de tentar encontrar falhas de segurança no código de uma aplicação após o sistema entrar em produção.
-### v1-4-34 | gab=C
-Para um auditório funcionar de forma satisfatória, além do fator acústico, é necessária a boa visibilidade, que é alcançada com a construção de uma adequada curva de visibilidade, respeitando algumas dimensões. Assim, nas figuras precedentes, considerando-se que a letra w corresponde à linha de visão até a borda inferior da tela de projeção, x pode variar entre 0,90 m e 1,00 m; y entre 1,10 m e 1,20 m; e z entre 0,13 m e 0,15 m. DADE: ARQUITETURA ||251TCEPA_021_01N902751|| in
-### v1-4-35 | gab=E
-Python só permite a leitura e a escrita de arquivos .csv e .xsls por meio da biblioteca Pandas.
-### v1-4-36 | gab=C
-Considere-se que, para contratar um novo profissional, uma empresa elabore um banco de dados com o padrão de perfil dos melhores colaboradores ocupantes do cargo na organização e que, com base nesse padrão, sejam coletados os dados dos candidatos para análises estatísticas com vistas a uma predição do melhor perfil a ser selecionado. Nessa situação, a organização utiliza a técnica de seleção denominada people analytics.
-### v1-4-37 | gab=E
-Entre os peixes, o filhote é o único que se contamina com o mercúrio. 651004_01N575229 Os fungicidas da classe dos ditiocarbamatos (DCs) são de baixa toxicidade e largamente utilizados na agricultura, principalmente em culturas de hortaliças. A próxima tabela apresenta estruturas químicas de fungicidas DCs. O principal produto de degradação dos DCs, a etilenotioureia (ETU), tem a capacidade de induzir tumor na glândula tireoide e no fígado de camundongos. A ETU inibe a peroxi
-### v1-4-38 | gab=E
-No modelo IaaS de serviço em nuvem, o consumidor gerencia e controla sistemas operacionais, armazenamento, componentes e sistemas de segurança e a infraestrutura de nuvem subjacente.
-### v1-4-39 | gab=E
-Para se proceder à qualificação técnica de pessoa física ou jurídica em casos de habilitação em certames, exige-se a apresentação de comprovação de atividade com delimitação de tempo (preferencialmente os últimos cinco anos) e local específico da experiência prévia, caso o fator geográfico seja relevante para a prestação do serviço ou a construção de obra.
-### v1-4-40 | gab=C
-Considerado o conceito da solução ORM Hibernate, conclui-se que a hierarquia apresentada anteriormente está errada. O correto seria a hierarquia que se segue, uma vez que o Hibernate não se incorpora ao banco de dados relacional, mas se encontra entre a camada de acesso a dados do aplicativo Java e o banco de dados relacional. Data Access Layer Java Persistence Hibernate Native API API Hibernate JDBC Relational Database
-### v1-4-41 | gab=E
-No projeto de um barramento, deve-se implementar a arbitração, que consiste no envio de sinais de forma assíncrona ou sincronizada com um relógio central.
-### v1-4-42 | gab=C
-De acordo com a especificação OAuth 2.0, o token de acesso, credencial utilizada para acessar recursos protegidos, é uma string que representa uma autorização emitida para o cliente.
-### v1-4-43 | gab=E
-A arquitetura da hiperconvergência pode ser utilizada para a melhoria da interoperabilidade de um datacenter, uma vez que ela é um sistema unificado e definido por software que combina todos os elementos de um ambiente de alta disponibilidade.
-### v1-4-44 | gab=C
-A matriz de riscos é cláusula contratual que tem por objetivo atribuir responsabilidades às partes pelos riscos relacionados a eventos supervenientes à contratação, enquanto o mapa de gerenciamento de riscos é um instrumento de registro e comunicação da atividade de gerenciamento de riscos ao longo de todas as fases de contratação.
-### v1-4-45 | gab=C
-A segurança integrada em um modelo de computação em nuvem SaaS é de responsabilidade do fornecedor do serviço, cabendo ao cliente exigir que os termos da segurança adequada ao seu negócio estejam estabelecidos em acordo de nível de serviço.
-### v1-4-46 | gab=E
-Os requisitos funcionais de um software descrevem o que o software deve fazer, considerando critérios de desempenho das funcionalidades.
-### v1-4-47 | gab=C
-Os padrões IEEE 802.11a/b/g/n/ac para redes sem fio diferem-se quanto às bandas de frequências, às técnicas de multiplexação e às técnicas de modulação do canal de comunicação, o que permite velocidades maiores nos padrões mais modernos.
-### v1-4-48 | gab=E
-A dosagem da relação aldosterona plasmática/atividade de renina plasmática deve ser realizada para a confirmação do diagnóstico. Paciente de 56 anos de idade apresentou-se ao ambulatório referindo episódios de dor torácica opressiva de moderada intensidade havia três dias, a qual surgia independentemente de atividade física e cedia espontaneamente, em menos de 15 minutos. Nas últimas 24 horas, teve dois episódios de maior intensidade, os quais cederam espontaneamente em torno
-### v1-4-49 | gab=C
-Em comparação aos modelos IaaS (infrastructure as a service) e SaaS (software as a service), a implantação do modelo PaaS (platform as a service) exige um investimento inicial menor, por serem desnecessários, por exemplo, investimentos com infraestrutura.
-### v1-4-50 | gab=E
-O Ansible é uma ferramenta de integração contínua que permite automatizar o processo de construção, teste e implantação de software e pode ser integrado a outras ferramentas DevOps, como Git, Docker e Kubernetes.
+Para atender os requisitos II e III, é correto utilizar a arquitetura modelo-visão-controlador (MVC): o componente modelo gerencia o sistema de dados e as operações associadas a esses dados; a visão define e gerencia o modo como os dados são apresentados ao usuário; e o controlador gerencia as interações do usuário e as passa para os demais componentes.
+### v1-4-05 | gab=E
+A adoção do controle de acesso baseado em papéis (RBAC) elimina a necessidade da autenticação baseada em múltiplos fatores (MFA), uma vez que os papéis e as permissões são suficientes para garantir a segurança do acesso às informações.
+### v1-4-06 | gab=E
+No projeto de um sistema VLSI em modo misto utilizando VHDL padrão, pode-se empregar a mesma metodologia de simulação para os componentes digitais e analógicos, uma vez que a linguagem oferece suporte uniforme para a simulação de ambos os tipos de circuitos sem necessidade de adaptações específicas para cada domínio.
+### v1-4-07 | gab=C [texto-base: Considerando essa situação hipotética, julgue os itens subsequentes, que tratam de licitações e contratação de obras públicas bem como de legislação ambiental.]
+Essa peça técnica, denominada projeto básico, além de possibilitar a avaliação do custo da obra e a definição dos métodos e do prazo de execução, assegura a viabilidade técnica e o adequado tratamento do impacto ambiental do empreendimento.
+### v1-4-08 | gab=C
+Requisitos funcionais definem o que o software deve fazer, e requisitos não funcionais definem como o software deve fazer.
+### v1-4-09 | gab=C
+A utilização da criptografia de chave assimétrica possibilita o uso de certificação digital ou assinatura digital. JUSTIFICATIVA - Certo. A chave assimétrica é emitida por autoridade competente e permite que o fluxo dos dados criptografados sejam identificados em cada fase, o que possibilita que a certificação desse processo seja possível.
+### v1-4-10 | gab=C
+A APF visa medir a funcionalidade de um software solicitada pelo usuário. Essa medição ocorre antes mesmo do desenvolvimento do software, de forma a estimar o seu tamanho e o seu custo.
+### v1-4-11 | gab=C
+Um certificado digital possibilita a assinatura de documentos, a prova de identidade, a criptografia de dados e a garantia da integridade da informação gerada por seu detentor.
+### v1-4-12 | gab=E
+Ao se utilizar o REST em uma arquitetura com web services, a mensagem SOAP pode ser codificada com o uso de JSON, desde que seja utilizada, no XML resultante, uma referência DTD em que seja possível definir a estrutura, os elementos e os atributos do documento XML.
+### v1-4-13 | gab=E
+A arquitetura de software em sistemas distribuídos costuma ser organizada em aplicações encapsuladas, comumente emprega o modelo MVC (model-view-controller) para separar as responsabilidades de apresentação, processamento e acesso a dados, ao custo de maiores manutenção, escalabilidade e flexibilidade.
+### v1-4-14 | gab=C
+A implementação de OpenID Connect no XYZ Digital perm confiável autentica o usuário em nome do sistema.
+### v1-4-15 | gab=C
+A estrutura de certificação digital do tipo X.509 é utilizada para emitir certificados SSL/TLS, em que a autoridade certificadora garante a autenticidade da chave pública.

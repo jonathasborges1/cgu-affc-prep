@@ -1,0 +1,408 @@
+     89301001183743
+
+                                  -- CONHECIMENTO
+Considerando os conceitos e princípios da mecânica dos sólidos,
+julgue os itens que se seguem.
+
+51   Considere-se que a viga representada na figura a seguir,
+     assumida como rígida e sem peso, esteja submetida à carga P
+     em sua extremidade direita e seja sustentada na extremidade
+     esquerda por um pino sem atrito e também por um cabo
+     vertical A, montado a uma distância x de B.
+
+
+
+
+     Nessa configuração, a força do cabo que atua em A é dada
+     pela equação a seguir, em que By é a reação vertical no pino
+     B.
+                                  ∙
+                           ஺           ௬
+                                   ℎ
+
+
+52   Considere-se o mecanismo esquematizado na figura a seguir.
+
+
+
+
+     Nesse mecanismo, a trajetória traçada pelo ponto T será
+     igual à do ponto S, porém ampliada por um fator igual a
+          ⁄   .
+
+53   Suponha-se que o elevador esquematizado na figura a seguir
+     pese 5 kN e que esteja subindo com uma aceleração de
+     3 m/s2. Suponha-se, ainda, que o operador, cujo peso é de
+     0,7 kN, esteja em pé sobre uma balança, colocada no piso do
+     elevador.
+
+
+
+
+     Com base nessa situação hipotética e assumindo-se que a
+     aceleração da gravidade no local seja g = 10 m/s2, é correto
+     afirmar que a balança mostraria uma leitura menor que
+     700 N.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS --
+ Com base em conceitos e princípios da mecânica dos fluidos,
+ julgue os itens seguintes.
+ 54   Considere-se que a figura a seguir represente três
+      configurações — A), B) e C) — de trechos de tubulações por
+      onde escoe, em regime estacionário, da esquerda para a
+      direita, um líquido incompressível. Considere-se, ainda, que,
+      em cada configuração, haja saídas verticais para a atmosfera,
+      em secções diferentes, ocupadas pelo líquido até as alturas
+      indicadas.
+
+
+
+
+    Com base na hipótese e na figura precedentes e
+    assumindo-se um escoamento sem atrito, é correto concluir
+    que a configuração B) é a única que está de acordo com a
+    realidade física.
+ 55 Sabendo-se que um medidor de pressão oceânica montado
+    em um dispositivo ancorado abaixo da superfície do oceano
+    indica, em condições normais de temperatura e pressão na
+    superfície, uma pressão absoluta de 1,13 Mpa,
+    considerando-se que, no local, a pressão atmosférica Patm =
+    100 kPa e a densidade da água do mar é ρ =1030 kg/m3, e
+    assumindo-se a aceleração da gravidade como g = 10 m/s2, é
+    correto afirmar que o dispositivo está a 100 m de
+    profundidade.
+
+ Tendo como base os conceitos e princípios da termodinâmica e
+ da transferência de calor, julgue os itens a seguir.
+ 56   Suponha-se que um tanque esférico de aço — representado
+      na figura a seguir — com diâmetro interno 0,5 m e 5 mm de
+      parede e com isolamento térmico composto por duas
+      camadas de material isolante, seja usado para armazenar
+      nitrogênio líquido, cujo ponto de ebulição é −196 °C.
+      Suponha-se, também, que a esfera esteja em um ambiente
+      atmosférico cuja temperatura seja 20 °C.
+
+
+
+
+    Com base na hipótese apresentada e considerando-se que a
+    resistência      térmica       absoluta     combinada       da
+    parede/isolamento/ar seja 0,6 K/W, é correto afirmar que
+    será transferido calor ao nitrogênio líquido à taxa de 360 W.
+ 57 Considere-se que 18 litros de gás na temperatura de 27 °C
+    estejam contidos em um cilindro a uma pressão de 10 atm e
+    que, por meio de um pistão, o volume do gás seja reduzido, a
+    temperatura aumente para 42 °C e a pressão, para 20 atm.
+    Nesse caso, assumindo-se que o gás se comporta como um
+    gás ideal, o volume final de gás contido no cilindro será
+    menor que 10 litros.
+
+    89301001183743
+
+A respeito dos materiais usados na construção mecânica, julgue o
+item subsequente.
+58 Entre os aços inoxidáveis, os aços denominados inox PH são
+    endurecíveis por precipitação, por meio de tratamentos
+    térmicos de solubilização e envelhecimento; a microestrutura
+    martensítica, semiaustenítica ou austenítica desses aços
+    proporcionam excelente combinação entre resistência à
+    corrosão, típica dos aços inox, com resistência mecânica e
+    boa ductilidade.
+
+
+
+
+Considerando o sistema de medição de um reservatório de água,
+esquematizado na figura precedente, julgue o item seguinte,
+relativo a instrumentação.
+59 A variável controlada é a vazão de água, a variável
+     manipulada é o nível de água no tanque e o agente de
+     controle é a água.
+Em relação a sistemas mecânicos e sistemas fluidomecânicos,
+julgue os itens seguintes.
+60 Se, em uma embreagem de múltiplos discos, o número de
+    superfícies em contato for igual a cinco, então serão
+    necessários seis discos para compor a embreagem.
+61 Em instalações de bombeamento, a opção pelo uso de duas
+    bombas de menor capacidade em paralelo ao invés de uma
+    implica redução da possibilidade de cavitação.
+62 Um elevador acionado por parafusos de potência pode baixar
+    sozinho se, por qualquer razão, o coeficiente de fricção da
+    rosca se tornar maior que a tangente do ângulo de avanço da
+    rosca.
+Em um datacenter, problemas na climatização colocam em risco
+a operação e a integridade dos equipamentos de tecnologia. Com
+muitos servidores gerando calor constantemente, uma
+climatização eficiente é crucial para evitar superaquecimento e
+manter o funcionamento adequado. Considere que, recentemente,
+o sistema de refrigeração desse datacenter apresentou variações
+de desempenho, resultando em locais com temperaturas acima do
+aceitável. Tal circunstância gera preocupações quanto à operação
+dos servidores e à vida útil dos componentes e pode causar
+desperdício de energia devido à ineficiência do sistema. Tendo
+em vista esse cenário, julgue os itens que se seguem.
+63 A eficiência energética do sistema de refrigeração do
+     datacenter não tem impacto significativo no seu custo
+     operacional.
+64 A distribuição adequada do fluxo de ar frio no interior do
+     datacenter é fundamental para manter um campo de
+     temperaturas uniforme.
+65 A carga térmica no datacenter é composta apenas pelo calor
+     latente gerado pelos equipamentos eletrônicos.
+66 A adoção de técnicas de contenção de corredores quentes e
+     frios não tem influência na eficiência da climatização dos
+     equipamentos usados no datacenter.
+67 No datacenter, a carga térmica latente é mais relevante para
+     o projeto do sistema de refrigeração do que a carga térmica
+     sensível.
+
+                     CEBRASPE – DATAPREV – Edital: 2023
+Os trabalhadores dos escritórios do Centro de Processamento de
+Dados (CPD) de uma empresa de tecnologia têm expressado
+crescentes preocupações em relação às condições de trabalho. O
+ambiente é caracterizado por longas jornadas em frente a
+computadores e monitores, e os funcionários têm manifestado um
+aumento de desconfortos físicos, como dores nas costas, fadiga
+ocular e cansaço extremo. Dada a situação apresentada e tendo
+em conta as Normas Regulamentadoras (NRs) do Ministério do
+Trabalho e Emprego relacionadas ao assunto, julgue os itens que
+se seguem.
+68 Devem ser implementadas medidas de prevenção, a partir da
+     AEP ou da AET, que evitem que os trabalhadores, ao
+     realizarem suas atividades, sejam obrigados a efetuar de
+     forma contínua e repetitiva posturas nocivas do pescoço e
+     movimentos dos braços em frequência que possa
+     comprometer a segurança e a saúde dos trabalhadores. Uma
+     única medida de prevenção não é suficiente para a
+     conformidade com o requerido pelas NRs.
+69 A falta de consideração ergonômica quanto ao leiaute e às
+     características das estações de trabalho no CPD por meio de
+     uma avaliação ergonômica preliminar (AEP) devidamente
+     registrada pela organização caracteriza uma infração ao
+     estabelecido pelas NRs.
+70 Uma análise ergonômica do trabalho (AET) é requerida
+     quando a AEP e as medidas que dela decorrem mostram-se
+     inadequadas ou insuficientes ou ainda quando sugerida pelo
+     acompanhamento de saúde dos trabalhadores.
+Quanto à administração direta e indireta, julgue os itens que
+se seguem.
+71 A DATAPREV é uma autarquia e seus servidores são
+     regidos pela Consolidação das Leis do Trabalho (CLT),
+     embora o acesso aos respectivos cargos dependa da
+     aprovação em concurso público.
+72 A criação de ministérios por intermédio de lei é exemplo de
+     descentralização da administração pública, uma vez que eles
+     desempenham suas atividades com autonomia, seguindo as
+     diretrizes da Presidência da República.
+73 As agências reguladoras são consideradas autarquias sob
+     regime especial, criadas por lei e dotadas de poder
+     regulamentar e normativo nos limites nela estabelecidos.
+A respeito dos atos administrativos, julgue os seguintes itens.
+74 Nos atos administrativos complexos, há vontade de mais de
+    um órgão, sem qualquer subordinação entre eles, o que
+    diferencia aqueles atos dos atos compostos, os quais
+    dependem da verificação ou aprovação de outro agente.
+75 Haja vista o interesse público, os atos administrativos têm
+    presunção absoluta de legitimidade, de maneira que somente
+    o Poder Judiciário pode afastar sua aplicação.
+Em relação ao processo administrativo, julgue os itens a seguir.
+76 A notificação do interessado no processo administrativo, de
+   forma a permitir-lhe acesso aos autos e informá-lo do fato
+   sobre o qual deve apresentar defesa, garante a observância
+   da ampla defesa e do contraditório, afastando o cerceamento
+   de defesa.
+77 Os atos devem ser realizados em dias úteis, no horário
+   normal de funcionamento da repartição em que tramitar o
+   processo, porém podem ser concluídos depois desse horário,
+   caso já iniciados, ainda que eventual adiamento não ocasione
+   prejuízo ao curso regular do procedimento ou dano ao
+   interessado e à administração pública.
+
+     89301001183743
+
+Acerca dos agentes públicos e das funções públicas, julgue os
+itens subsequentes.
+78 Caso ocupante exclusivamente de cargo em comissão seja
+     exonerado sob o fundamento de ter praticado ato de
+     improbidade administrativa, mas se comprove que ele não
+     cometeu tal conduta, o ato de exoneração deverá ser anulado,
+     ante a teoria dos motivos determinantes, ainda que a
+     exoneração não necessite de fundamentação.
+79 É pacificado o entendimento de que os magistrados se
+     incluem na categoria dos agentes políticos, que são os
+     titulares dos cargos estruturais da organização política do
+     país, razão pela qual constituem os formadores da vontade
+     superior do Estado.
+80 O acesso a cargos e empregos públicos somente se dá por
+     intermédio de concurso público de provas ou de provas e
+     títulos, conforme a complexidade do cargo ou emprego.
+Quanto aos poderes administrativos, julgue os itens a seguir.
+81 É ínsita ao poder regulamentar a possibilidade de especificar
+   procedimentos previstos na lei.
+82 O poder de polícia é a faculdade de que dispõe a
+   administração pública para condicionar e restringir o uso e
+   gozo de bens, atividades e direitos individuais, em benefício
+   da coletividade ou do próprio Estado.
+Em relação às licitações e contratos administrativos, julgue os
+itens a seguir, de acordo com o disposto na Lei n.º 14.133/2021.
+83 O diálogo competitivo consiste em modalidade de licitação
+     prevista para a contratação de objeto que envolva inovação
+     tecnológica, considerando-se a impossibilidade de o órgão ou
+     entidade ter sua necessidade satisfeita sem a adaptação de
+     soluções disponíveis no mercado; a impossibilidade de as
+     especificações técnicas definidas com precisão pela
+     administração; ou, ainda, outras hipóteses julgadas necessárias
+     pelo agente público, desde que devidamente fundamentadas.
+84 Nas licitações de obras e serviços de engenharia e
+     arquitetura, será preferencialmente adotada, sempre que
+     adequada ao objeto da licitação, a modelagem da informação
+     da construção (building information modelling — BIM) ou
+     tecnologias e processos integrados similares ou mais
+     avançados que venham a substituí-la.
+85 Aplica-se a modalidade pregão à contratação de serviço
+     comum de engenharia, que é considerado todo serviço de
+     engenharia que tenha por objeto ações, objetivamente
+     padronizáveis em termos de desempenho de qualidade, de
+     manutenção, de adequação e de adaptação de bens móveis
+     e imóveis, com preservação das características originais
+     dos bens.
+
+
+                                                variável
+       estatística descritiva               ܺ              ܻ
+       média amostral                       8              8
+       desvio padrão amostral               4              5
+Com base nas informações do quadro precedente, que apresenta
+estatísticas descritivas referentes a duas variáveis quantitativas, ܺ
+e ܻ, e sabendo que a covariância amostral entre elas é igual a 15,
+julgue os itens a seguir.
+86 O coeficiente de correlação linear de Pearson entre as
+     variáveis ܺ e ܻ é superior a 0,6.
+              ଶ௑ା௒
+87   Se ܼ =          , então a média amostral de ܼ é igual a 8.
+               ଷ
+88 O modelo ܻ ෠ = 2ܺ − 10 representa a reta de regressão linear
+   simples da variável ܻ sobre a variável ܺ ajustada pelo
+   método de mínimos quadrados ordinários.
+89 A variância amostral da diferença ܺ − ܻ é igual a 11.
+
+                      CEBRASPE – DATAPREV – Edital: 2023
+       Três eventos aleatórios, ‫ܣ‬, ‫ ܤ‬e ‫ܥ‬, possuem probabilidade
+de ocorrência igual a ܲሺ‫ܣ‬ሻ = 0,5, ܲሺ‫ܤ‬ሻ = 0,3 e ܲሺ‫ܥ‬ሻ = 0,2,
+respectivamente.
+Com base nessas informações, e considerando ܲሺ‫ܤ ∩ ܣ‬ሻ = 0,
+ܲሺ‫ܥ ∩ ܣ‬ሻ = 0 e ܲሺ‫ܥ ∩ ܤ‬ሻ = 0, julgue os seguintes itens.
+90   Os eventos ‫ ܣ‬e ‫ ܤ‬são independentes.
+91 O valor da probabilidade condicional ܲሺ‫ܥ ∪ ܤ|ܤ‬ሻ é igual a
+   0,3.
+92 ܲሺ‫ܥ ∪ ܣ‬ሻ = 0,7.
+93   ܲሺ‫ܥ ∩ ܤ ∩ ܣ‬ሻ = 0,03.
+
+        Um estudo estatístico foi realizado para testar a hipótese
+nula ‫ܪ‬଴ : ߤ ≤ 37 contra a hipótese alternativa ‫ܪ‬ଵ : ߤ > 37, em que
+ߤ denota a média populacional. Nesse estudo, que foi efetuado
+mediante amostragem aleatória simples de tamanho ݊ = 30,
+obteve-se uma média amostral igual a 38 e variância amostral
+igual a 750.
+Com base nessa situação hipotética, e supondo que a população
+siga uma distribuição normal, julgue os seguintes itens, sabendo
+que ܲሺܶ > 1,7ሻ = 0,05, em que ܶ segue uma distribuição t de
+Student com 29 graus de liberdade.
+94   O p-valor do teste em questão é inferior a 0,05.
+95   Se o nível de significância do teste for igual a 5%, então não
+     haverá evidências estatísticas contra a hipótese nula, mesmo
+     que a média amostral seja superior a 37.
+96   38±1,7 representa uma estimativa intervalar de 90% de
+     confiança para a média populacional.
+97   Se o tamanho da amostra fosse maior que 30, então o valor
+     da probabilidade ܲሺܶ > 1,7ሻ seria superior a 0,05.
+98   O teste em questão é unilateral.
+
+       Para determinado levantamento estatístico, 100 domicílios
+serão selecionados aleatoriamente de uma população constituída
+por 3.650 domicílios. Cada domicílio selecionado será visitado
+por um entrevistador, que coletará as informações desejadas
+sobre todas as pessoas residentes nesse domicílio.
+A respeito desse plano amostral, julgue os itens a seguir.
+99  Cada domicílio representa uma unidade amostral.
+100 O levantamento estatístico descrito remete a uma
+    amostragem aleatória estratificada, na qual cada domicílio
+    representa um estrato da população.
+
+Julgue os itens a seguir, relativos ao Microsoft Word e ao
+Microsoft Excel avançado.
+101 O Microsoft Word permite que se utilizem modelos
+    personalizados da Microsoft, mas impede a criação de
+    modelos a partir de documentos existentes.
+102 No Microsoft Excel, é possível referenciar células que estão
+    em outras planilhas da mesma pasta de trabalho.
+103 A célula de uma planilha do Microsoft Excel pode conter
+    dados de uma página da Internet.
+104 JavaScript é a linguagem de programação utilizada para
+    escrever macros no Microsoft Excel.
+105 Macros podem ser criadas utilizando-se um gravador de
+    macros embutido no Microsoft Excel, que registra ações
+    enquanto se executa uma tarefa.
+
+    89301001183743
+
+No que se refere à manipulação de vetores em Python, julgue os
+itens seguintes.
+106 O código a seguir, escrito em Python, será executado sem
+    erros, pois, nativamente, é possível realizar operações
+    matemáticas complexas em vetores sem a necessidade de
+    importar bibliotecas.
+    u = [1, 2, 3]
+    v = [[1], [2], [3]]
+    print(u @ v)
+107 Uma lista é um tipo de vetor em Python.
+
+Acerca da importação de dados em Python, julgue os itens que se
+seguem.
+108 A leitura de arquivos .xml não requer a instalação da
+    biblioteca Pandas.
+109 Python só permite a leitura e a escrita de arquivos .csv e
+    .xsls por meio da biblioteca Pandas.
+110 As classes elementTree e minidom servem para análise e
+    modificação de dados XML.
+111 Com a função json.loads(), é possível ler os dados de um
+    arquivo JSON.
+
+No que se refere às bibliotecas Numpy, Pandas, Matplotlib e
+Scipy, julgue os itens subsequentes.
+112 A plotagem de gráficos em Python permite a criação de
+    histogramas.
+113 É possível criar um gráfico de linhas com a biblioteca
+    Matplotlib.
+114 A biblioteca Pandas permite a manipulação de data frames
+    em Python.
+115 A regressão linear multivariada é usada para análises
+    estatísticas em Python e trabalha com uma variável
+    explicativa.
+116 A  biblioteca Scipy permite criar regressões lineares
+    multivariadas.
+
+A respeito do AutoCAD, julgue os itens a seguir.
+117 Com o comando FILLET (equivalente ao comando CONCORD
+    da versão em português), é possível criar um
+    arredondamento ou uma concordância das arestas de dois
+    objetos 2D ou das faces adjacentes de um sólido 3D.
+118 O   comando      ARRAYPATH      (equivalente ao comando
+    MATRIZCAMINHO da versão em português) pode ser usado
+    para distribuir uniformemente cópias de objetos ao longo de
+    um caminho que pode ser uma linha, uma polilinha, uma
+    hélice, um círculo, um arco ou uma elipse.
+119 O comando MIRROR (equivalente ao comando ESPELHAR da
+    versão em português) oferece a opção de criar múltiplas
+    cópias espelhadas de objetos ao mesmo tempo, através da
+    definição de um ponto de base e do número de cópias
+    desejado.
+120 No comando MIRROR (equivalente ao comando ESPELHAR
+    da versão em português), por padrão, a direção do texto não
+    é alterada quando se espelha um objeto de texto.
+
+               CEBRASPE – DATAPREV – Edital: 2023
+Espaço livre
+

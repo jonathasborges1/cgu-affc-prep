@@ -1,0 +1,428 @@
+CEBRASPE – ANP – Edital: 2022
+
+725003_01N794599
+
+-- CONHECIMENTOS ESPECÍFICOS -A respeito da logística e suprimento de derivados de petróleo,
+julgue os itens a seguir.
+51
+
+A distância entre o campo e os terminais de armazenamento
+e a natureza e quantidade dos fluidos a serem movimentados,
+entre outros fatores, determinam o tipo de transporte a ser
+adotado.
+
+52
+
+Na fase de transação do serviço logístico, encontram-se
+elementos relacionados às declarações escritas, à estrutura e
+à flexibilidade da empresa relacionada à política formal de
+serviços.
+
+53
+
+Custos de setup são decorrentes da mudança de condições do
+sistema logístico.
+
+54
+
+Em gasodutos submarinos de grande extensão, a pressão do
+gás mantém-se constante, o que dispensa a necessidade de
+estações de recompressão do gás.
+
+Com relação à estrutura da indústria de petróleo e do gás natural,
+julgue os seguintes itens.
+55
+
+Um autoprodutor que não utilize a totalidade da sua
+produção de gás natural como matéria-prima em suas
+instalações estará em desacordo com os termos de regulação
+da Agência Nacional do Petróleo, Gás Natural e
+Biocombustíveis.
+
+56
+
+Nos termos estabelecidos na legislação federal, o
+consumidor livre de gás natural tem a opção de adquirir o
+produto de qualquer agente que realiza a atividade de
+comercialização de gás natural.
+
+57
+
+Cabe à Agência Nacional do Petróleo, Gás Natural e
+Biocombustíveis (ANP) autorizar a prática das atividades de
+refino, liquefação, carregamento, processamento, tratamento,
+transporte, estocagem e acondicionamento de petróleo e gás
+natural.
+
+58
+
+A Petrobrás, associada ou não a terceiros, pode exercer, fora
+do território nacional, as atividades integrantes de seu objeto
+social.
+
+Sobre as características da cadeia produtiva do petróleo, julgue os
+itens subsequentes.
+59
+
+O upstream engloba as atividades de exploração, de
+perfuração e de transporte dos produtos, da refinaria até os
+postos de consumo.
+
+60
+
+O objetivo das perfurações de poço do tipo estratigráfico é
+levantar dados gerais sobre a bacia petrolífera e dados sobre
+a disposição sequencial das rochas de subsuperfície.
+
+61
+
+A plataforma do tipo autoelevável é composta por uma balsa
+e três ou mais pernas extensíveis, de tamanhos variáveis e
+acionadas de modo mecânico ou hidráulico.
+
+62
+
+A zona explotada do tipo seletivo é composta por várias
+colunas de produção inseridas no poço, em que é possível a
+produção simultânea de dois ou mais reservatórios
+diferentes.
+
+Acerca das instalações de transferência e transporte de gás
+natural, julgue os itens subsecutivos.
+63 Nos campos de produção offshore, é exigida apurada análise
+técnica e econômica antes da construção de gasoduto
+submarino, o que torna tal logística onerosa e complexa.
+64 O gasoduto de transferência é o duto destinado à
+movimentação de gás natural, considerado de interesse
+específico, embora não exclusivo, de seu proprietário ou
+explorador da atividade, com início e término em suas
+próprias instalações de produção.
+65 A reinjeção de gás natural em reservatórios produtores com o
+intuito de evitar descarte ou de promover a recuperação
+secundária de hidrocarboneto constitui atividade de
+estocagem subterrânea do produto.
+66 Os tanques de membrana de navios gaseiros possuem
+paredes com reduzida espessura, suportadas pela estrutura da
+embarcação, as quais podem contrair e expandir livremente.
+No que se refere às medições volumétricas de petróleo e gás
+natural, julgue os próximos itens.
+67 Em caso de falha detectada em sistema ou presumida em
+instrumento, esse sistema ou instrumento pode ser
+temporariamente utilizado até a substituição por outro de
+mesma especificação técnica.
+68 Os pontos de medição fiscal de petróleo devem estar
+localizados após as instalações de estocagem e transporte,
+tais como tanques de navio e dutos de transporte.
+69 Os sistemas de medição de petróleo em linha devem ser
+projetados de forma que gases ou vapores não passem pelos
+medidores nas aplicações de medição fiscal, de apropriação e
+de transferência de custódia.
+70 O transvasamento é a operação de carga e descarga de gás
+natural liquefeito (GNL) entre recipientes e veículos
+transportadores, podendo ser realizada nas unidades de
+liquefação, nas distribuidoras ou nas unidades consumidoras
+finais.
+Julgue os itens que se seguem, quanto às características gerais
+dos combustíveis líquidos.
+71 A densidade de um líquido, que pode ser medida pela razão
+entre massa e volume, é independente da temperatura desse
+líquido.
+72 O ponto de névoa, considerado um fator crítico para o
+desempenho dos combustíveis diesel em climas frios, é a
+temperatura na qual se inicia a cristalização do óleo.
+73 A concentração de metilésteres saturados é determinante
+para o ponto de névoa.
+74 Os óleos vegetais apresentam ponto de névoa inferior ao do
+óleo diesel convencional.
+75 Define-se viscosidade como a razão entre a massa e o
+volume de um combustível líquido a dada temperatura.
+76 O controle da viscosidade visa permitir uma boa atomização
+do óleo e preservar a sua característica lubrificante.
+77 Em comparação ao diesel convencional, os óleos vegetais
+apresentam valores de viscosidade bastante baixos.
+78 O ponto de fulgor corresponde à menor temperatura na qual
+o combustível libera uma quantidade de voláteis suficiente
+para, com o ar, formar uma mistura capaz de inflamar-se
+momentaneamente quando aplicada uma centelha ou um
+aquecimento gradual.
+79 O índice de acidez é um dos parâmetros para estimar o
+estado de conservação do biocombustível.
+80 O ponto de fulgor influencia diretamente o desempenho do
+combustível.
+81 Quanto maior for o índice de saponificação, menor será a
+produção de biodiesel para uma mesma massa de óleo e(ou)
+gordura.
+
+CEBRASPE – ANP – Edital: 2022
+
+725003_01N794599
+
+Com relação a noções gerais de química orgânica, julgue os itens
+a seguir.
+82 A interação entre matéria orgânica, sedimentos e condições
+termoquímicas apropriadas é essencial para os estágios
+iniciais da formação de petróleo.
+83 O craqueamento térmico realiza-se na presença de uma
+grande variedade de catalizadores.
+84 O álcool hidratado é obtido pela destilação de álcool comum
+com o benzeno ou pela adição de cal viva.
+85 O gás natural é uma combinação dos gases metano (CH4) e
+hexano (C6H14), sendo este último seu principal componente.
+86 No processo de produção de petróleo, um dos contaminantes
+mais indesejados é a água.
+No que se refere às famílias de compostos orgânicos, julgue os
+itens seguintes.
+87 Todos os álcoois possuem um grupo funcional hidroxila
+ligado a um átomo de hidrogênio e outro ligado a um ou
+mais átomos de carbono, como no benzaldeído.
+88 O etanol tem a fórmula estrutural C2H6O e é o membro mais
+simples de uma família de compostos orgânicos conhecidos
+como álcoois.
+89 Hidrocarbonetos são compostos que contêm apenas átomos
+de carbono, hidrogênio e oxigênio.
+90 As fontes primárias de alcanos são o petróleo e o gás natural,
+cujo principal componente é o metano.
+Considerando as disposições da Lei do Petróleo, julgue os itens a
+seguir.
+91 Proteger o meio ambiente é um dos objetivos das políticas
+nacionais para o aproveitamento racional das fontes de
+energia.
+92 O Conselho Nacional de Política Energética será
+regulamentado mediante ato normativo do ministro de
+Estado de Minas e Energia.
+93 O acervo técnico constituído de dados e informações a
+respeito das bacias sedimentares brasileiras é considerado
+parte integrante dos recursos petrolíferos nacionais.
+94 Poderá ser autorizada a revenda varejista de gasolina e etanol
+hidratado fora do estabelecimento autorizado.
+95 Ainda que uma empresa não seja constituída sob as leis
+brasileiras, ela poderá receber autorização da ANP para
+exercer a atividade de exportação de petróleo.
+Julgue os itens seguintes, a respeito da exploração das atividades
+econômicas
+de
+transporte,
+escoamento,
+tratamento,
+processamento, estocagem subterrânea, acondicionamento,
+liquefação, regaseificação e comercialização de gás natural.
+96 O confinamento de gás natural na forma gasosa, para fins de
+movimentação, é considerado prestação de serviço público.
+97 Caso haja mais de um transportador interessado na obtenção
+de autorização para construção de gasoduto de transporte de
+gás natural, a escolha do projeto mais vantajoso se dará por
+meio de processo seletivo público.
+98 Para iniciar a atividade de comercialização de gás natural, a
+pessoa jurídica deverá ter sede no Brasil e ser previamente
+autorizada pela ANP.
+99 O enchimento da tubulação utilizada para transportar gás
+natural de um lugar para outro se enquadra como
+acondicionamento de gás natural.
+100 O sistema de transporte de gás natural poderá conter mais de
+uma área de mercado de capacidade, cuja regulação cabe à
+ANP, de forma a favorecer o processo de fusão entre elas.
+
+No que se refere à regulamentação para a construção, ampliação
+e operação de instalações de movimentação de petróleo, seus
+derivados, gás
+natural, inclusive liquefeito (GNL),
+biocombustíveis e demais produtos regulados pela ANP, julgue
+os itens que se seguem.
+101 A alteração do arranjo físico das instalações está sujeita à
+
+autorização de construção pela ANP.
+102 Considere-se que certa empresa possua autorização de
+
+construção para alteração nas instalações de movimentação
+de petróleo e que não tenha iniciado as obras no prazo
+definido no cronograma físico-financeiro. Nessa situação
+hipotética, a ANP não poderá revogar a autorização de
+construção.
+103 A anotação de responsabilidade técnica é documento que
+
+deverá constar do pedido da autorização de operação.
+104 O exercício da atividade de distribuição de gás natural
+
+comprimido (GNC) a granel abrange apenas a aquisição, o
+recebimento e a compressão do gás natural.
+105 Na gestão de segurança operacional dos dutos terrestres, é
+
+responsabilidade da empresa concessionária determinar que
+o operador da instalação disponha de um sistema de gestão
+que atenda ao Regulamento Técnico de Dutos Terrestres
+para Movimentação de Petróleo, Derivados e Gás Natural
+(RTDT).
+No que diz respeito à gestão de segurança operacional de
+terminais para movimentação e armazenamento de petróleo, seus
+derivados, gás natural e biocombustíveis e à autorização para a
+atividade de transporte a granel de petróleo, seus derivados, gás
+natural e biocombustíveis por meio aquaviário, julgue os itens
+seguintes.
+106 O titular de autorização outorgada pela ANP deverá
+
+assegurar o livre acesso às instalações do terminal e às
+operações em curso, para fins de movimentação e
+armazenamento de petróleo.
+107 A pessoa jurídica autorizada a construir central de
+
+distribuição de GNL a granel ficará responsável, perante a
+ANP, pela execução dos serviços apenas se não tiver
+contratado empresa prestadora de serviço especializado.
+108 Estará sujeito a penalidade o titular de autorização outorgada
+
+pela ANP para movimentação e armazenamento de gás
+natural que não dispuser de um sistema de gestão que atenda
+ao estabelecido no Regulamento Técnico de Terminais para
+Movimentação e Armazenamento de Petróleo, Derivados,
+Gás Natural e Biocombustíveis (RTT).
+109 Uma operação STS (ship-to-ship) poderá ocorrer tanto em
+
+embarcações
+movimento.
+
+atracadas
+
+quanto
+
+em
+
+embarcações
+
+em
+
+110 Empresas autorizadas pela ANP a exercer a atividade de
+
+transporte a granel de biocombustíveis por meio aquaviário
+poderão operar em qualquer terminal situado em território
+nacional.
+
+CEBRASPE – ANP – Edital: 2022
+
+725003_01N794599
+
+Russia is making heaps of money from oil,
+but there is a way to stop that
+The United States and its allies are leaning heavily on
+economic sanctions to punish Russia for its invasion of Ukraine.
+But a key element in that strategy, restrictions on Russian oil
+exports, mostly appears to be causing pain for ordinary people in
+other countries. European nations, in particular, are causing
+considerable damage to their own economies without reducing
+Russia’s oil revenue.
+Nations seeking to help Ukraine have focused on reducing
+Russia’s energy exports instead of reducing Russia’s earnings
+from energy exports. Russia is exporting less oil but, in a
+perverse twist, it is earning more money. The sanctions have
+raised prices, more than offsetting the decline in exports. In May
+2022, Russia earned 883 million euros per day from oil exports,
+up from 633 million euros per day in May 2021.
+New sanctions that the European Union and Britain have
+agreed to impose on Russia by year’s end are likely to drive oil
+prices even higher. Some analysts warn that the price for a barrel
+of oil could exceed $ 200, well above the spike in the early weeks
+of the war, when oil prices topped out around $ 124.
+Internet: <www.nytimes.com> (adapted).
+
+Based on the text above, judge the following items.
+111 The text criticizes the restrictions imposed on Russia’s
+
+exports because they do not affect the amount of oil
+available for purchase in international markets.
+112 At the beginning of the war between Russia and Ukraine,
+
+there was a decrease in oil prices, which went from $ 200 a
+barrel to approximately $ 124 a barrel.
+113 The text suggests that the pain caused for ordinary people by
+
+rising oil prices may worsen in the near future.
+114 It is correct to infer from the text that the US and its allies
+
+have shot themselves in the foot with their economic
+sanctions against Russia.
+115 Even though oil prices have soared as a result of the
+
+sanctions imposed on Russia, they were not high enought to
+compensate for Russia’s loss in oil exports.
+Espaço livre
+
+Environmental and economic impacts of crude oil and
+natural gas production in developing countries
+Environmental impacts that occur during the production
+of crude oil would mostly occur from long-term habitat change
+within the oil and gas field, production activities (including
+facility
+
+component
+
+maintenance
+
+or
+
+replacement),
+
+waste
+
+management (e.g. produced water), noise (e.g. from well
+operations, compressor or pump stations, flare stack, vehicle and
+equipment), the presence of workers and potential spills.
+The adverse environmental impacts which could happen
+during production of crude oil and natural gas include:
+disturbance of wildlife due to noise and human activity; exposure
+of biota to contaminants; and mortality of biota resulting from
+collisions against aboveground facilities or with vehicles.
+The presence of production wells, ancillary facilities and
+access road reduces habitat quality, disturbs the biota and thus
+affects ecological resources. Discharge of produced water
+inappropriately onto soil or into surface water bodies can result in
+salinity levels becoming too high to sustain plant growth.
+Wildlife
+
+is
+
+always
+
+prone
+
+to
+
+have
+
+contact
+
+with
+
+petroleum-based products and other contaminants in reserve pits
+and water management facilities. Animals could become
+entrapped in the oil and drown, or they could ingest toxic
+quantities of oil, or succumb to cold stress if the oil damages the
+insulation provided by their feathers or fur.
+Internet: <www.core.ac.uk> (adapted).
+
+Based on the text, judge the following items.
+116 The environmental damages potentially caused by the oil and
+
+gas industry are many and varied, as there are different
+possible sources of problems.
+117 The second period of the third paragraph could be correctly
+
+rewritten, without change in meaning, as: Disposal of
+produced water inappropriately onto soil or into surface
+water bodes can cause salinity levels to become so high that
+plant growth is no longer sustainable.
+118 In the first period of the third paragraph, the expression
+
+“ancillary facilities” implies the idea of a place, a building or
+a piece of equipment that houses or is used for activities that
+support the production of oil.
+119 The last period of the text could be correctly rewritten,
+
+without this changing its meaning, as Animals would, then,
+become entrapped in the oil and drown, or ingest toxic
+quantities of oil, or succumb to cold stress if the oil
+damages the insulation provided by their feathers or fur.
+120 It is correct to conclude that the text emphasizes how
+
+agricultural production may be badly affected by higher
+salinity levels.
+
+

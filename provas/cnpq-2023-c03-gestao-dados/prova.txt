@@ -1,0 +1,450 @@
+-- CONHECIMENTO
+Julgue os itens seguintes, a respeito de ETL e de manipulação,
+tratamento e visualização de dados.
+51 Em gráficos interativos, um usuário pode detalhar áreas de
+interesse, de modo que é possível passar de uma visualização
+agregada, que mostra o total de vendas de um ano inteiro,
+para os números de vendas mensais de determinado ano.
+52 No processo de ETL, extrair refere-se à obtenção de dados e
+envolve ocupar-se com diferentes tipos de esquemas e regras
+em vários sistemas de origem.
+No que se refere a processamento de linguagem natural (PNL) e a
+deep learning, julgue os itens subsecutivos.
+53 Deep learning é um algoritmo que simula o cérebro humano
+por meio de algoritmos probabilísticos de aprendizado do
+comportamento em que uma população de representações
+abstratas de solução é selecionada em busca de soluções
+melhores.
+54 PNL é um campo da ciência da computação que trata da
+interação entre computadores e linguagens humanas e tem
+por objetivo proporcionar aos computadores a capacidade de
+compreender e reproduzir a linguagem humana.
+Julgue os itens a seguir, a respeito de mineração de dados, de
+arquitetura dos dados e de modelagem de dados.
+55 No Relacionamento entre a Entidade1 e a Entidade2 a
+seguir, os pés de galinha em ambos os lados indicam uma
+relação muitos para muitos entre as entidades.
+
+Mineração de dados combina técnicas de descoberta de
+conhecimento com técnicas de implementação eficientes que
+permitem seu uso em bancos de dados extremamente
+grandes.
+57 Modelos de dados lógicos fornecem maiores detalhes acerca
+dos conceitos e relacionamentos no domínio em
+consideração, indicando atributos de dados, como tipos de
+dados e seus respectivos comprimentos, e relacionamentos
+entre entidades, além de informar como será organizado e
+quais regras de negócios estão envolvidas.
+56
+
+Acerca de técnicas de modelagem de BI (business intelligence),
+de big data e de linguagem de manipulação de dados (DML),
+julgue os itens que se seguem.
+58 As tabelas de dimensão na modelagem para BI são estruturas
+de dados com informações agregadas e medidas específicas.
+59 A DML não procedimental exige que um usuário especifique
+quais dados são necessários sem especificar como obtê-los.
+60 Variedade, uma das métricas de big data, é caracterizada por
+armazenar e processar uma quantidade de dados muito maior
+do que os bancos de dados tradicionais foram projetados
+para suportar, incluindo os bancos de dados relacionais
+paralelos.
+Julgue os itens subsecutivos, com base em análise de dados e
+informações e em mapeamento de fonte de dados.
+61 O mapeamento dos dados tem como objetivo coletar,
+armazenar, recuperar, manipular, visualizar e analisar dados
+espaciais ligados ao sistema de coordenadas.
+62 A análise descritiva envolve a utilização de técnicas
+estatísticas e algoritmos para fazer previsões ou estimativas
+sobre eventos futuros com base em dados históricos.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+OS ESPECÍFICOS -No que se refere a sistemas gerenciadores de banco de dados
+(SGDB), julgue os próximos itens.
+63
+
+Um SGBD se caracteriza por ser um programa de acesso de
+dados em formato de entidade e relacionamento.
+
+64
+
+Evitar redundância, uma das funções de um SGBD, tem por
+objetivo evitar que cópias dos mesmos dados sejam
+armazenadas em lugares diferentes.
+
+A respeito de arquitetura e políticas de engenharia de dados,
+julgue o item que se segue.
+65
+
+O arquiteto de dados é responsável por realizar alterações no
+esquema dos dados e na organização física da entidade para
+refletir as mudanças nas necessidades da organização ou para
+alterar a organização física para melhorar o desempenho.
+
+categoria| modelo
+
+| valor|
+
+---------+---------+------+
+1
+|
+A
+|
+40|
+1
+|
+A
+|
+18|
+1
+|
+B
+|
+76|
+2
+|
+B
+|
+97|
+
+Tendo como referência a tabela precedente, de nome dados,
+julgue os itens subsequentes, com relação à SQL.
+66
+
+Considere-se a seguinte expressão SQL.
+select categoria, modelo, sum(valor)
+from dados
+group by cube(categoria, modelo)
+
+Essa expressão, após executada, apresentará o resultado a
+seguir.
+categoria|modelo|sum|
+---------+------+---+
+|
+|231|
+1|A
+| 58|
+2|B
+| 97|
+1|B
+| 76|
+2|
+| 97|
+1|
+|134|
+|B
+|173|
+|A
+| 58|
+67
+
+As expressões SQL a seguir geram resultados que são
+equivalentes.
+delete from dados;
+drop table dados;
+
+68
+
+As expressões SQL a seguir, após serem executadas, gerarão
+o mesmo resultado.
+insert into dados values (2,'C',40);
+insert into dados (categoria, modelo, valor)
+values (2,'C',40);
+
+
+Julgue os itens a seguir, a respeito da Política Nacional de
+Segurança da Informação (PNSI), prevista no Decreto
+n.º 9.637/2018.
+69
+
+A segurança da informação abrange a segurança física e a
+proteção a dados organizacionais.
+
+70
+
+Entre os princípios da PNSI, incluem-se soberania nacional e
+visão abrangente e sistêmica da segurança da informação.
+
+71
+
+Entre os objetivos previstos na PNSI, estão orientar ações
+relacionadas à segurança dos dados custodiados por
+entidades públicas e fomentar a formação e a qualificação
+dos recursos humanos necessários à segurança da
+informação.
+
+72
+
+A Estratégia Nacional de Segurança da Informação deve
+conter as ações estratégicas e os objetivos relacionados à
+segurança da informação, sendo sua construção e
+manutenção de responsabilidade da presidência da
+República.
+
+73
+
+O comitê gestor de segurança da informação foi instituído
+com a atribuição de assessorar a Agência Brasileira de
+Inteligência.
+
+Considerando o Decreto n.º 10.748/2021, que institui a Rede
+Federal de Gestão de Incidentes Cibernéticos, julgue os itens que
+se seguem.
+74
+
+Um dos objetivos previstos no referido decreto é a promoção
+da cooperação entre os participantes da rede federal de
+gestão de incidentes cibernéticos.
+
+75
+
+Conforme o mencionado decreto, a equipe de coordenação
+setorial se encarrega de prevenção, tratamento e resposta a
+incidentes cibernéticos das agências reguladoras.
+
+76
+
+O Tribunal de Contas da União é responsável por elaborar,
+atualizar e divulgar um plano de gestão de incidentes
+cibernéticos para as entidades da administração pública
+federal direta, autárquica e fundacional, a fim de minimizar
+vazamento de informações críticas.
+
+77
+
+Compete ao Ministério da Defesa convocar reunião para
+deliberar a respeito da ocorrência de incidente cibernético.
+
+Com relação à Estratégia Nacional de Segurança de
+Infraestruturas Críticas, de que trata o Decreto n.º 10.569/2020, e
+da Política Nacional de Segurança de Infraestruturas Críticas,
+instituída pelo Decreto n.º 9.573/2018, julgue os itens
+subsequentes.
+78
+
+Conscientização e capacitação compõem um dos principais
+pilares para a efetividade de segurança de infraestruturas
+críticas.
+
+79
+
+Identificar ameaças e vulnerabilidades de infraestruturas
+críticas é uma atribuição dos grupos técnicos de segurança de
+infraestruturas críticas.
+
+80
+
+A Política Nacional de Segurança de Infraestruturas Críticas
+tem como princípio a análise de riscos para reação a
+incidentes.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Julgue os próximos itens, referentes ao Plano Nacional de
+Segurança de Infraestruturas Críticas, de que trata o Decreto
+n.º 11.200/2022, e ao Plano de Gestão de Incidentes Cibernéticos
+para a administração pública federal, previsto na
+Portaria GSI/PR n.º 120/2022.
+81 O Conselho Nacional de Desenvolvimento Científico e
+Tecnológico é responsável por promover a cooperação com
+órgãos e entidades nacionais e internacionais nas atividades
+voltadas para a segurança de infraestruturas críticas.
+82 A distribuição de responsabilidades referente à área
+prioritária de biossegurança e bioproteção é atribuição do
+Ministério da Defesa.
+83 De acordo com a Portaria GSI/PR n.º 120/2022, a segurança
+de redes é um dos principais controles organizacionais na
+administração pública federal.
+84 A designação do gestor de segurança da informação é parte
+das atividades preparatórias previstas no Plano de Gestão de
+Incidentes Cibernéticos para a administração pública federal.
+Considerando o Glossário de Segurança da Informação, constante
+da Portaria GSI/PR n.º 93/2021, julgue os seguintes itens.
+85 Análise estática é descrita como o tipo de teste que verifica a
+lógica interna de software em busca de falhas ou
+vulnerabilidades.
+86 Administrador de perfil institucional é o agente público com
+autorização de responsável pela área interessada para
+administrar perfis institucionais de órgão ou entidade da
+administração pública federal, direta e indireta, nas redes
+sociais.
+Julgue os itens subsecutivos, a respeito da estrutura de gestão da
+segurança da informação nos órgãos e nas entidades da
+administração pública federal, de que trata a Instrução Normativa
+GSI n.º 1/2020.
+87 Uma política de atualização deve ser criada para descrever os
+controles de segurança da informação com a orientação do
+uso adequado de ativos de informação.
+88 Todos os órgãos e entidades da administração pública federal
+são obrigados a ter uma política de segurança da informação,
+devidamente implementada.
+Julgue os próximos itens, relativos à segurança da informação e
+proteção de dados, considerando a Instrução Normativa GSI n.º 2
+e a Instrução Normativa GSI n.º 3.
+89 Cabe ao gestor de segurança da informação de cada órgão ou
+entidade elaborar o plano de gestão de riscos de segurança da
+informação e o relatório de tratamento de riscos.
+90 Compete aos órgãos e às entidades da administração pública
+federal direta e indireta, em seu âmbito de atuação, instituir e
+implementar a equipe de prevenção, tratamento e resposta a
+incidentes cibernéticos.
+91 A equipe de prevenção, tratamento e resposta a incidentes
+cibernéticos
+tem
+como
+atribuição
+assessorar
+a
+implementação das ações de segurança da informação e
+participar da elaboração da política de segurança da
+informação.
+92 Nos aspectos de segurança da informação, a gestão de riscos
+de segurança da informação, a avaliação de conformidade e a
+gestão de mudanças são processos de realização obrigatória
+pelos órgãos e pela entidade da administração pública
+federal.
+93 Ao gestor de segurança da informação cabe coordenar o
+processo de mapeamento de ativos de informação e designar
+um agente responsável pela gestão dos ativos de informação.
+
+
+Acerca da segurança da informação quando se trata da utilização
+de computação em nuvem e de mídias sociais, julgue os itens
+subsequentes, de acordo com a Instrução Normativa GSI n.º 5 e
+com a Instrução Normativa GSI n.º 6 consolidada em 2021.
+94 Nuvem privada, nuvem comunitária, nuvem pública e nuvem
+híbrida são modelos de implantação que compõem a
+computação em nuvem.
+95 Ao comitê de segurança da informação compete
+supervisionar a aplicação do ato normativo sobre o uso
+seguro de computação em nuvem.
+96 Definir os requisitos criptográficos mínimos para o
+armazenamento de dados e informações, custodiados pela
+administração pública federal, em soluções de computação
+em nuvem é competência do comitê de segurança da
+informação.
+97 Informações classificadas ou de acesso restrito poderão ser
+publicadas com a autorização do administrador de perfis
+institucionais em mídias sociais.
+98 O ato normativo e suas atualizações sobre o uso de mídias
+sociais deverão ser divulgados a todos os servidores,
+empregados públicos, militares e prestadores de serviço do
+órgão ou da entidade.
+99 Os servidores, empregados públicos, militares e prestadores
+de serviço não poderão disponibilizar nas mídias sociais
+conteúdo que infrinja a Lei n.º 7.716/1989, as leis de
+propriedade intelectual ou as leis de privacidade.
+100 Poderão realizar ou autorizar postagens em mídias sociais
+em nome do órgão ou da entidade apenas servidores
+terceirizados e servidores efetivos.
+Julgue os itens subsequentes, relativos à segurança da informação
+e proteção de dados, de acordo com a Instrução Normativa GSI
+n.º 6 – Original / Instrução Normativa GSI n.º 7 e com a
+Instrução Normativa GSI n.º 1.
+101 É de atribuição do comitê de segurança da informação
+interno dos órgãos e das entidades da administração pública
+federal coordenar a elaboração da política de segurança da
+informação e das normas internas de segurança da
+informação do órgão.
+102 A periodicidade para a revisão da política de segurança da
+informação não deve exceder 4 anos.
+103 Cabe à alta administração do órgão ou da entidade apreciar e
+aprovar o relatório de avaliação de conformidade e
+encaminhá-lo ao gestor de segurança da informação.
+Acerca de disposições gerais, orientações básicas, conceitos e
+definições relativos à segurança da informação, julgue os itens
+subsecutivos, considerando as normas complementares do GSI.
+104 A equipe de tratamento e resposta a incidentes em redes
+computacionais deve ser chefiada e gerenciada por um
+agente responsável, que pode ser um militar de carreira ou
+um servidor terceirizado.
+105 A equipe de tratamento e resposta a incidentes em redes
+computacionais deve viabilizar e assegurar a
+disponibilidade, a integridade, a confidencialidade e a
+autenticidade da informação.
+106 Os agentes públicos que utilizam dispositivos móveis
+corporativos não devem instalar, nesses dispositivos,
+aplicativos ou recursos não disponibilizados pelo setor
+responsável, salvo no caso de o agente ser um funcionário do
+suporte técnico.
+107 Hash é um método criptográfico que, quando aplicado sobre
+uma informação, gera um resultado único e de tamanho fixo,
+independentemente do tamanho da informação.
+108 O registro de eventos relevantes em um dispositivo ou sistema
+computacional é denominado log ou registro de auditoria.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+109 O projeto básico, documento constitutivo da primeira etapa
+
+do planejamento de uma contratação, dá a base para o
+anteprojeto e caracteriza o interesse público na contratação.
+110 Na contratação de projetos e serviços de desenvolvimento de
+
+softwares, os autores devem ceder à administração pública
+todos os direitos patrimoniais a eles relativos; assim, os
+softwares poderão ser livremente alterados e utilizados em
+outras ocasiões, sem necessidade de novas autorizações por
+parte dos autores.
+No que se refere à gestão e à fiscalização de contratos de TI,
+julgue os itens que se seguem.
+111 A renovação contratual e o gerenciamento de riscos de uma
+
+contratação de TI poderão utilizar como subsídio o histórico
+de gestão de contrato, artefato que permite documentar os
+principais acontecimentos positivos ou negativos que
+ocorrerem durante a execução do contrato.
+112 Na execução de um serviço de TI, o contratado poderá
+
+empregar um agente público que estiver atuando na
+fiscalização ou na gestão do contrato, desde que o edital de
+licitação expressamente o permita.
+Julgue os itens a seguir, considerando a Lei n.º 12.527/2011
+(Lei de Acesso à Informação), o Decreto n.º 7.845, o Decreto
+n.º 7.724, e suas alterações.
+113 A Lei n.º 12.527/2011 reconhece a obrigatoriedade de
+
+consentimento para divulgação de informações pessoais
+quando estas forem necessárias à prevenção ao diagnóstico
+médico, quando o interessado estiver física ou legalmente
+incapaz, com a finalidade única e exclusiva de tratamento
+médico.
+114 O Decreto n.º 7.724 inclui autarquias e sociedades de
+
+economia mista na sua abrangência.
+115 O
+
+Decreto n.º 7.845 tem por objetivo regulamentar
+exclusivamente procedimentos para credenciar e tratar
+segurança da informação classificada como confidencial no
+âmbito do Poder Executivo federal.
+
+Com base na Lei n.º 12.737/2012 (Lei de Delitos Informáticos),
+julgue os itens a seguir.
+116 Multa financeira e atuação em trabalhos sociais são as penas
+
+previstas para interrupção ou perturbação de serviço de
+informação de utilidade pública.
+117 Configura-se como crime divulgar informações de forma não
+
+autorizada, obtidas por meio de invasão.
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados),
+julgue os itens subsecutivos.
+118 Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais
+
+tem assegurado o direto de obter informações a respeito do
+tratamento dos seus dados.
+119 A Lei Geral de Proteção de Dados aborda o tratamento de
+
+dados pessoais e se aplica também à administração pública.
+120 Os dados que forem anonimizados serão considerados dados
+
+pessoais para os fins da Lei Geral de Proteção de Dados
+independente se a anonimização possa ser revertida ou não.
+
+

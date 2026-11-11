@@ -18,9 +18,15 @@ def conc():
     if not os.path.exists(a): return os.path.join(D,'concursos','cgu-affc-ti-ds')
     with open(a,encoding='utf-8') as f: ativo=f.read().strip()
     return os.path.join(D,'concursos',ativo)
+_LC={}
 def lerj(f):
-    if not os.path.exists(f): return []
-    with open(f,encoding='utf-8') as arq: return [json.loads(l) for l in arq if l.strip()]
+    """Leitura com cache por (arquivo, mtime, tamanho): só relê o que mudou. Devolve cópia rasa da lista."""
+    try: st=os.stat(f)
+    except OSError: return []
+    ch=(st.st_mtime_ns,st.st_size); h=_LC.get(f)
+    if h and h[0]==ch: return list(h[1])
+    with open(f,encoding='utf-8') as arq: v=[json.loads(l) for l in arq if l.strip()]
+    _LC[f]=(ch,v); return list(v)
 def _pai(cod,nivel):
     pre,num=cod.rsplit(' ',1); return '%s %s'%(pre,num.split('.')[0]) if nivel==1 else cod
 def _ano_prova(pid,meta):
@@ -58,8 +64,9 @@ def calcular(nivel=1,cob=None,B=300,seed=7):
     bl=lambda c: c.split('·')[0]
     am={c:[] for c in cods}
     for _ in range(B):
-        ep=[provas[rnd.randrange(len(provas))] for _ in provas]
-        soma={c:sum(forte.get(c,{}).get(p,0)*pesos.get(p,1) for p in ep) for c in cods}; tot={}
+        ep=[provas[rnd.randrange(len(provas))] for _ in provas]; cnt={}
+        for p in ep: cnt[p]=cnt.get(p,0)+1       # mesma soma de antes, agrupada por prova sorteada (só itera as provas que têm item do assunto)
+        soma={c:sum(n*pesos.get(p,1)*cnt.get(p,0) for p,n in forte.get(c,{}).items()) for c in cods}; tot={}
         for c in cods: tot[bl(c)]=tot.get(bl(c),0)+soma[c]
         for c in cods: am[c].append(soma[c]/tot[bl(c)] if tot[bl(c)] else 0)
     pc=lambda v,q: sorted(v)[min(len(v)-1,int(q*len(v)))]

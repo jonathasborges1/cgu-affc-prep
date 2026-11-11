@@ -1,0 +1,5 @@
+{"item": "7", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-objetivo-conformidade-leis", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "9", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-controle-interno-processo-nao-automacao", "nucleo_novo": false, "tags": ["CONCEITO_MISTURADO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "14", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-objetivo-operacoes-desempenho", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "16", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-controle-interno-avaliacao-por-julgamento", "nucleo_novo": false, "tags": ["ABSOLUTO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "19", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-cinco-componentes", "nucleo_novo": false, "tags": ["TROCA_TERMO"], "nivel": "Médio", "confianca": "media", "duvida": null}

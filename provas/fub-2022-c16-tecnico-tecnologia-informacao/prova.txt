@@ -1,0 +1,531 @@
+678016_01N178787
+
+-- CONHECIMENTO
+Julgue os próximos itens, relativos a sistemas operacionais
+Windows e Linux.
+51
+
+Considere-se que, em uma rede de computadores, seja
+necessária a comunicação dos servidores Linux e Windows
+de modo a integrar os servidores e desktops Linux aos
+ambientes do Active Directory (AD). Nesse caso, uma das
+opções para prover essa integração é a instalação e
+configuração do SAMBA, versão 4.1, que pode ser
+executado como um controlador de domínio do AD.
+
+52
+
+Considere-se que, no Linux, haja apenas dois arquivos
+dentro do diretório /home/usuario e que o tamanho de
+cada um desses arquivos tenha sido obtido, em uma saída
+hipotética, como a seguir.
+122G /home/usuario/arquivoa
+117M /home/usuario/arquivob
+
+Nessa situação, as referidas informações também podem ser
+obtidas, de forma similar, por meio do seguinte comando.
+df -h /home/usuario/
+53
+
+No Linux, o LDAP é um protocolo de acesso a diretórios
+cujas informações a respeito de objetos são organizadas de
+maneira hierárquica em uma estrutura em árvore. O caminho
+completo para a entrada desejada é denominado nome
+distinto, que identifica e descreve exclusivamente uma
+entrada nessa árvore.
+
+54
+
+Considere-se que, no Windows, seja necessário organizar os
+objetos no LDAP de acordo com o Organograma da UnB,
+cujo domínio DNS, nesse caso, é unb.br. Considere-se,
+ainda, que, no Organograma, DiretoriaA esteja no topo e
+que DepartamentoB esteja imediatamente abaixo de
+DiretoriaA. Nessa situação, é possível obter, por meio do
+LDAP, o nome do objeto em formato canônico
+(canonical name) conforme apresentado a seguir, para o caso
+em questão.
+unb.br/Organograma/DiretoriaA/DepartamentoB
+
+Julgue os itens subsecutivos, a respeito de cloud computing e
+virtualização.
+55
+
+Na virtualização, o hypervisor é responsável por virtualizar
+tanto processadores quanto memória e prover serviços tais
+como dispositivos de entrada/saída para as máquinas
+virtuais.
+
+56
+
+Considere-se que seja necessário implantar um serviço de
+provimento de webmail tal que o gestor do serviço não
+necessite gerenciar os sistemas operacionais subjacentes dos
+servidores que provejam o serviço. Nessa situação, o modelo
+mais adequado a ser adotado seria o IaaS (infraestrutura
+como um serviço), em que não é necessário gerenciar
+recursos nem o software de gestão do e-mail, ou manter os
+servidores no qual esse software esteja sendo executado.
+
+
+CEBRASPE – FUB – Edital: 2022
+
+OS ESPECÍFICOS -Em relação a ambientes com alta
+escalabilidade, julgue os itens seguintes.
+
+disponibilidade
+
+e
+
+57
+
+Uma arquitetura básica de cluster em uma rede de
+computadores tem como característica permitir o
+aproveitamento de recursos computacionais ociosos nas
+máquinas sempre que a carga de trabalho na rede cluster o
+exigir.
+
+58
+
+Considere-se que seja necessário implantar uma arquitetura
+com o objetivo de aumentar a disponibilidade de servidores
+de arquivos, em uma rede com servidor Windows Server.
+Nesse caso, uma das opções é criar um cluster de failover,
+no qual os servidores clusterizados (nós) sejam conectados
+por meios físicos e por software, tal que, caso um desses nós
+do cluster falhe, um outro nó entrega o serviço.
+
+Julgue os itens a seguir, relacionados a balanceamento de carga e
+failover.
+59
+
+No Windows, o NLB (network load balancing) permite
+gerenciar dois ou mais servidores como um único cluster
+virtual de modo a prover alta disponibilidade de servidores
+web, incluindo-se recursos internos que podem detectar uma
+falha em um nó de cluster ou ainda equilibrar a carga da rede
+quando hosts são adicionados.
+
+60
+
+Considere-se que, na situação representada na figura a
+seguir, o balanceamento de carga seja realizado por meio de
+um algoritmo round robin. Considere-se, ainda, que as
+máquinas HTTP Server 1 e HTTP Server 2 possuam
+configurações idênticas e que ambas executem ativamente o
+mesmo tipo de serviço, simultaneamente.
+
+Nesse cenário, tem-se um exemplo de cluster de alta
+disponibilidade do modo ativo-ativo.
+Acerca de tecnologias de datacenter, julgue os itens que se
+seguem.
+61
+
+A implantação de solução de hiperconvergência pode suprir
+a necessidade de um datacenter para gerenciar sistemas com
+base em software e ainda permitir a redundância de todo o
+ambiente de infraestrutura por meio dos seus nós
+independentes, inclusive para nuvem.
+
+62
+
+A hiperconvergência pode ser utilizada com o fulcro de
+melhorar a interoperabilidade do datacenter, uma vez que a
+infraestrutura
+hiperconvergente
+combina
+rede,
+armazenamento e virtualização em um único sistema,
+incorporando todos os workloads e oferecendo uma visão
+única e integrada de todos os sistemas.
+
+
+678016_01N178787
+
+Julgue os itens subsequentes, com relação a tecnologias de RAID
+e deduplicação.
+63
+
+A implementação do RAID 6 requer, no mínimo, cinco
+discos, pois sua arquitetura gerencia dupla paridade
+distribuída com os demais discos, o que permite a falha de
+até dois discos.
+
+64
+
+A deduplicação de dados, que consiste na compactação de
+dados especificamente no momento em que se realiza o
+becape dos dados em um dispositivo de armazenamento de
+massa, permite diminuir significativamente os requisitos de
+capacidade de armazenamento.
+
+65
+
+O RAID 10 combina o espelhamento de disco (RAID 1) com
+a separação de dados em strips (RAID 0), o que provê maior
+velocidade de acesso aos dados, em detrimento da proteção
+no que se refere à disponibilidade contra a falha da unidade
+de disco.
+
+Julgue os próximos itens, a respeito de segurança em redes de
+computadores.
+66
+
+DMZ (DeMilitarized Zone) é uma sub-rede que se situa entre
+uma rede confiável e uma rede não confiável, como a
+Internet, provendo isolamento físico entre essas duas redes.
+
+67
+
+A utilização de firewall em uma rede de computadores não
+inviabiliza a implementação da solução de DMZ.
+
+68
+
+Flood attack é um tipo de ataque que tem a finalidade de
+inundar a banda de um ou vários servidores DNS; ele faz que
+mensagens legítimas não possam ser respondidas e,
+consequentemente, que o serviço fique indisponível.
+
+69
+
+SSTP (secure socket tunneling protocol) é um protocolo
+VPN usado para conexões seguras e cuja tecnologia
+aproveita os handshakes SSL/TLS; ele usa a mesma porta
+que SSL/TLS e baseia a conexão na autenticação do usuário,
+em vez de baseá-la em um dispositivo.
+
+Acerca de certificação digital e de voz sobre IP (VoIP), julgue os
+itens a seguir.
+70
+
+VoIP é uma tecnologia que utiliza a Internet para realizar
+chamadas telefônicas.
+
+71
+
+Certificado digital funciona como uma autorização que
+permite a identificação inequívoca do emissor de uma
+mensagem ou transação feita em meios eletrônicos.
+
+Quanto a gerenciamento de redes de computadores e qualidade
+de serviço, julgue os itens subsequentes.
+72
+
+O algoritmo do balde vazado é um método de controle de
+congestionamento em que um número variável de
+solicitações é temporariamente armazenado e organizado em
+uma saída de pacotes com taxa definida, em um modo de
+transferência assíncrona; ele é usado para implementar
+policiamento e modelagem de tráfego em redes de dados
+Ethernet e celular.
+
+73
+
+Redes virtuais (VLAN) operam na camada 5 do modelo OSI
+e são configuradas com a utilização de servidores de
+segmentação de comunicação.
+
+74
+
+O agente componente da rede SNMP (simple network
+management protocol) é um equipamento de hardware que
+gerencia o protocolo das redes NetBios e ATM, entre outros.
+
+
+CEBRASPE – FUB – Edital: 2022
+
+Julgue os itens subsecutivos, a respeito de tecnologias e
+protocolos de redes locais e de comunicação de dados.
+75
+
+A camada física do modelo OSI trata da transmissão de bits
+normais dos conectores para conexões de rede.
+
+76
+
+O padrão da rede local sem fio recebeu a denominação
+IEEE 802.11; em particular, o padrão IEEE 802.11g trabalha
+em 2,4 GHz e possibilita uma velocidade de transmissão de
+até 54 Mbps.
+
+77
+
+Os dispositivos direct attached storage (DAS) possuem
+sistema operacional próprio e interligam servidores e
+unidades de armazenamento para proporcionar maior
+desempenho no tráfego de dados com o protocolo fibre
+channel.
+
+78
+
+O campo TTL (time to live) do pacote IP é decrementado em
+um em cada roteador.
+
+No que se refere a conceitos de malware e detectores de intrusão,
+julgue os itens seguintes.
+Um sistema de detecção de invasão consiste na exploração
+de um bug do computador, introduzindo código em um
+programa vulnerável para alterar o curso de execução.
+80 Malwares utilizam um protocolo de monitoramento de ativos
+financeiros com o objetivo de trazer informações para os
+usuários infectados.
+79
+
+Julgue os itens a seguir, a respeito de projeto e desenvolvimento
+de sistemas.
+81
+
+Hibernate é um modelo computacional que faz parte de um
+processo avançado de gerenciamento de memória dos
+protocolos comumente utilizados em redes legadas.
+
+82
+
+Em AngularJS, a característica two-way data binding
+permite que, quando os dados no modelo são alterados, a
+exibição reflita a alteração e, quando os dados na exibição
+são alterados, o modelo também seja atualizado; isso
+acontece de forma imediata e automática, garantindo que o
+modelo e a visualização sejam atualizados o tempo todo.
+
+83
+
+O encapsulamento em Java consiste no princípio pelo qual
+um conjunto de objetos derivados de uma mesma superclasse
+pode invocar métodos que tenham a mesma identificação
+(assinatura), mas apresentem comportamentos distintos.
+
+Com relação a conceitos de SOA e de webservice, julgue os
+próximos itens.
+84
+
+REST (REpresentational State Transfer) é um protocolo
+para troca de informações estruturadas, cujo formato de
+mensagem é embasado na linguagem de marcação extensível
+(XML).
+
+85
+
+Universal Description, Discovery and Integration (UDDI) é
+a representação de dados e metadados sobre serviços da Web
+e consiste de um registro, para uso em uma rede pública ou
+na infraestrutura interna de uma organização, para
+classificar, catalogar e gerenciar serviços.
+
+Acerca de controles e testes de segurança para aplicações web,
+julgue o item seguinte.
+86
+
+A metodologia empregada nos testes de caixa branca tem
+como base a geração de casos de teste por meio do
+conhecimento da estrutura interna do programa.
+
+
+678016_01N178787
+
+<html>
+<p id=“saida”></p>
+<head>
+<script type=“text/javascript” >
+const user = {
+nome: 'Pedro Maria',
+email: 'pedro.maria@gmail.com',
+idade: 25,
+nascimento: '21/02/1996',
+masculino: true
+};
+document.getElementById(“saida”).
+innerHTML = ““;
+for (const key in user) {
+document.getElementById(“saida”).
+InnerHTML += `$ {key}:
+$ {user[key]}`;
+}
+</script>
+</head>
+</html>
+
+Considerando o código precedente, em HTML, julgue o item a
+seguir.
+87 O código em questão apresenta um erro de sintaxe, porque
+atribui valores de tipos diferentes a uma mesma variável.
+Julgue os itens subsecutivos, com base no modelo de
+acessibilidade do governo eletrônico.
+88 O modelo recomenda que não devem ser utilizadas
+marcações para redirecionar a uma nova página, como o uso
+do atributo http-equiv com conteúdo refresh do
+elemento META.
+89 Caso sejam utilizados múltiplos manipuladores de eventos
+para uma ação, de modo que ela funcione tanto pelo mouse
+como pelo teclado, é importante testar o resultado final em
+diferentes navegadores e por meio da utilização de diferentes
+recursos de tecnologia assistiva.
+Julgue o item a seguir, a respeito de padrões de processo.
+90 O MR-MPS-SW é um modelo de referência associado à
+melhoria de processo de software, baseado em níveis de
+maturidade. No primeiro nível a ser implementado, o nível
+de maturidade E, o processo é objeto de melhorias
+incrementais e inovações; o objetivo é mensurar as
+consequências das mudanças identificadas, a partir de
+investigação de enfoques inovadores, para a definição e
+implantação do processo.
+Com relação a requisitos de software, julgue os itens a seguir.
+91 Os requisitos associados a um sistema para que ele reaja ao
+receber dados nulos são denominados requisitos funcionais.
+92 Os requisitos de domínio podem ser requisitos funcionais
+quando forem parte do domínio da aplicação; por sua vez, os
+requisitos não funcionais não podem fazer parte dos
+requisitos de domínio.
+93 Um requisito é considerado funcional quando estiver
+relacionado a uma propriedade do sistema, tal como a
+confiabilidade.
+94 Se, para um sistema, o requisito de espaço para
+armazenamento for de pelo menos 1 TB, então ele constitui
+um requisito funcional.
+95 O requisito é considerado de produto bem como não
+funcional, quando for determinada uma taxa de falhas
+aceitável para o sistema.
+96 A necessidade de interoperabilidade para determinar como
+um sistema irá interagir com outro sistema é considerada um
+requisito externo bem como não funcional.
+
+
+CEBRASPE – FUB – Edital: 2022
+
+Com base no RUP (Rational Unified Process), julgue os itens
+seguintes.
+As atividades realizadas no processo são descritas na
+perspectiva prática.
+98 A perspectiva estática tem a capacidade de mostrar as fases
+do modelo ao longo do tempo.
+99 A fase de construção inclui o desenvolvimento do sistema e
+os testes com a respectiva documentação associada para ser
+liberada aos usuários.
+100 O estabelecimento de um business case para o sistema é
+parte integrante da fase de concepção.
+97
+
+No que se refere a níveis de abstração, modelos de dados e
+normalização em bancos de dados, julgue os próximos itens.
+101 A ação de eliminar campos de uma tabela que não dependem
+
+da chave é estabelecida pela segunda forma normal.
+102 O nível de abstração de dados em que é definida
+detalhadamente a maneira pela qual os dados de um sistema
+estão estruturalmente armazenados e como podem ser
+computacionalmente acessados corresponde ao nível de
+visão do usuário.
+103 Os modelos de dados representacionais incorporam alguns
+conceitos acerca da forma como os dados são organizados no
+armazenamento computacional, enquanto mantêm a
+facilidade de compreensão pelos usuários finais.
+Acerca de tipos de bancos de dados, julgue os itens que se
+seguem.
+104 Nos bancos de dados hierárquicos, cada registro é uma
+
+coleção de atributos, sendo a associação entre dois registros
+denominada ligação.
+105 Mecanismos de indexação e controle de simultaneidade são
+recursos dispensáveis em bancos de dados orientados a
+objetos, em razão da natureza dos objetos e dos componentes
+estado e comportamento a eles inerentes.
+A respeito de data warehouse, data mining e business
+intelligence, julgue os itens subsequentes.
+
+106 Diferentemente dos bancos de dados transacionais, os data
+
+warehouses caracterizam-se pela volatilidade, já que neles as
+informações armazenadas são alteradas com muito mais
+frequência, praticamente em tempo real.
+107 Coletar e transformar dados de várias fontes e descobrir
+tendências e inconsistências são etapas gerais dos processos
+de business intelligence.
+108 Sistemas de data mining viabilizam a extração de novos
+padrões significativos de informação que não seriam
+necessariamente encontrados por meio de meras consultas ou
+processamento de dados ou metadados no data warehouse.
+Julgue os itens subsecutivos, referentes a técnicas de otimização
+de consultas SQL e a técnicas de modelagem multidimensional.
+109 Apesar de poupar espaço de armazenamento, a modelagem
+
+snowflake é contraindicada para consultas com alta demanda
+de processamento em razão do seu potencial para impactar
+negativamente os tempos de resposta das consultas.
+110 O uso de seletividade e estimativa de custos na otimização
+de consultas SQL consiste na modificação da representação
+interna de uma consulta em uma árvore de consulta com o
+objetivo de melhorar o seu desempenho.
+
+
+678016_01N178787
+
+Julgue os itens seguintes, a respeito de governança de TI,
+gerenciamento de serviços de TI e gerenciamento de projetos de
+TI.
+111 Entre os objetivos do COBIT, inclui-se a prescrição de
+
+estratégias, arquiteturas e custos, de acordo com o perfil das
+organizações que adotam o framework.
+112 De acordo com o ITIL v4, nas ofertas de serviços de acesso a
+
+recursos concedidos ou licenciados, os recursos permanecem
+sob controle do provedor e podem ser acessados pelo
+consumidor durante o período de consumo do serviço
+acordado.
+113 Segundo o PMBOK, entre os domínios de desempenho dos
+
+projetos, estão incerteza, entrega, partes interessadas e
+abordagem de desenvolvimento, e ciclo de vida.
+114 De acordo com o PMBOK, os domínios de desempenho dos
+
+projetos fornecem orientação para o comportamento das
+pessoas envolvidas em projetos, enquanto os princípios
+direcionam as áreas de foco para a demonstração de
+influência desse comportamento orientado.
+Com relação a governo digital e contratação de serviços de TI,
+julgue os próximos itens.
+115 De acordo com a Instrução Normativa MPOG n.º 5/2017, é
+
+vedada a execução indireta na administração pública federal
+das funções relacionadas à regulação e à outorga de serviços
+públicos.
+116 De acordo com a Lei n.º 14.129/2021, a estratégia de
+
+governo digital da administração pública de cada ente
+federado deve estar subordinada à estratégia federal, sendo
+vedada qualquer edição ou iniciativa alternativa de estratégia
+para interoperabilidade técnica.
+Acerca do plano de segurança da informação e do plano de
+continuidade de negócio de TI, julgue os itens a seguir.
+117 No contexto do plano de continuidade de negócio de TI, a
+
+estratégia de continuidade de negócio define a criticidade
+dos processos de negócio, suas prioridades de recuperação,
+interdependências e os requisitos de segurança da
+informação e comunicações para que os objetivos de
+recuperação sejam atendidos nos prazos estabelecidos.
+118 Um plano de segurança da informação inclui tarefas de
+
+segurança da informação específicas que deverão ser
+verificadas por meio de planos ou programas de auditoria.
+Julgue os itens subsecutivos, relativos a gerenciamento de riscos
+de TI.
+119 O propósito da identificação de riscos é compreender a
+
+natureza do risco e suas características, e envolve a
+consideração detalhada de incertezas, fontes, consequências,
+probabilidade, eventos, cenários, controles e a eficácia da
+identificação.
+120 A avaliação de riscos envolve a comparação dos resultados
+
+da análise de riscos frente aos critérios de riscos
+estabelecidos para determinar onde é necessária ação
+adicional.
+
+
+CEBRASPE – FUB – Edital: 2022
+
+Espaço livre
+
+

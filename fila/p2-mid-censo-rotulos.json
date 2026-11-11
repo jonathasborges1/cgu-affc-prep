@@ -1,0 +1,7358 @@
+[
+  {
+    "k": "anatel-2024-c02-ciencias-dados#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "anatel-2024-c02-ciencias-dados#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c01-administracao#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c01-administracao#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "anm-2024-c01-administracao#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "anm-2024-c01-administracao#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "anm-2024-c01-administracao#119",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#67",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#69",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#108",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#110",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#120",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#53",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 4"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#71",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "anm-2024-c24-tecnologia-informacao-ciencia-dados#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "anm-2024-c25-tecnologia-informacao-governanca-ino#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "anm-2024-c25-tecnologia-informacao-governanca-ino#120",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#23",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#25",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#31",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#33",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#44",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anp-pss-2022-c02-atividades-fiscalizacao-producao-com#91",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#65",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#68",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#73",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#79",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#82",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#84",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#95",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#96",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#100",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#58",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#72",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#110",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#112",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#73",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "bdmg-2024-c03-engenharias#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c03-engenharias#58",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados#92",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "bdmg-2024-cg-bloco-comum#25",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "bdmg-2024-cg-bloco-comum#34",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "bdmg-2024-cg-bloco-comum#38",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "bdmg-2024-cg-bloco-comum#42",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "capes-2023-c01-analista-ciencia-tecnologia#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "capes-2023-c01-analista-ciencia-tecnologia#81",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "capes-2023-c01-analista-ciencia-tecnologia#92",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "capes-2023-c01-analista-ciencia-tecnologia#113",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#101",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#102",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#103",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#77",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#83",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#84",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#93",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#94",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#57",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#60",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#62",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#95",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#96",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#117",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "capes-2023-c05-informatica#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "capes-2023-c05-informatica#59",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cau-br-2023-c02-analista-geotecnologia#90",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-br-2023-c02-analista-geotecnologia#93",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-br-2023-c02-analista-geotecnologia#119",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cau-br-2023-c03-analista-infraestrutura-tecnologia-i#92",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cau-br-2023-c03-analista-infraestrutura-tecnologia-i#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cau-br-2023-c04-analista-sistema-informacao#95",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cau-br-2023-c10-assistente-tecnologia-informacao#60",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cau-br-2023-c10-assistente-tecnologia-informacao#62",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#59",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#60",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#65",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#67",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#72",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#87",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#89",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#97",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#18",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#24",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#25",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#34",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#36",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#38",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cge-rj-2023-cg-bloco-comum#13",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cge-rj-2023-cg-bloco-comum#15",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cge-rj-2023-cg-bloco-comum#41",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cnj-2024-c02-apoio-especializado-especialidade-an#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "cnj-2024-c02-apoio-especializado-especialidade-an#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "cnj-2024-c02-apoio-especializado-especialidade-an#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#53",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#115",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#117",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#66",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#68",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#74",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#90",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#91",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#93",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#101",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#102",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#103",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#110",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#113",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#114",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#115",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#119",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#65",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#66",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#98",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#103",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#116",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es#119",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es#62",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es#79",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es#80",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es#82",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#64",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#80",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#85",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#87",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#99",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#115",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#68",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#69",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#77",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c01-administracao-recursos-logisticos#78",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#74",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#76",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#99",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#63",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#76",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#89",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#90",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "cnpq-2023-c03-gestao-dados#115",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#59",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#66",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#77",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#92",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#102",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#119",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#69",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#71",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#80",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#95",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#96",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#98",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#103",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#108",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#109",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#63",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#64",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#69",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#82",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#113",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#116",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c07-infraestrutura#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#52",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#73",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#83",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c06-engenharia-pesca-aquicultura#104",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c06-engenharia-pesca-aquicultura#112",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#111",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#112",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c07-estatistica#115",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c09-jornalismo#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#108",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#117",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "codevasf-2024-c11-tecnologia-informacao#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "codevasf-2024-c11-tecnologia-informacao#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "codevasf-2024-c11-tecnologia-informacao#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "codevasf-2024-c11-tecnologia-informacao#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos#18",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos#20",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos#23",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cpnuje-2024-c17-apoio-especializado-especialidade-te#58",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "cpnuje-2024-c17-apoio-especializado-especialidade-te#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "cpnuje-2024-c17-apoio-especializado-especialidade-te#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cpnuje-2024-c21-apoio-especializado-especialidade-pr#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c01-tecnologias-habilitadoras-area-atuac#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c02-saude-avancada-area-atuacao#53",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c04-tecnologias-habilitadoras-area-atuac#55",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#55",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#56",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#77",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#79",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#103",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "cti-2023-c06-tecnologias-habilitadoras-area-atuac#111",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cti-2023-c06-tecnologias-habilitadoras-area-atuac#114",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cti-2023-c06-tecnologias-habilitadoras-area-atuac#119",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "cti-2023-c07-saude-avancada-area-atuacao#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c08-saude-avancada-area-atuacao#108",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c09-tecnologias-habilitadoras-area-atuac#78",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cti-2023-c09-tecnologias-habilitadoras-area-atuac#80",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#53",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#55",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#56",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#59",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#60",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#63",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#71",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#83",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#84",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#87",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#109",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c04-arquitetura-engenharia-tecnologica#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#53",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#67",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#71",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#105",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#68",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#72",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#74",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#76",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#77",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c07-desenvolvimento-software#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c07-desenvolvimento-software#71",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#78",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#81",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#98",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "dataprev-2023-c09-engenharia-eletrica#88",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#93",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#95",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#108",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#114",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#115",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "dataprev-2023-c13-gestao-pessoas#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "dataprev-2023-c13-gestao-pessoas#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#58",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#60",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#92",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#95",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#96",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#118",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c15-gestao-economico-financeira#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c15-gestao-economico-financeira#91",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "dataprev-2023-c16-infraestrutura-operacoes-facilities#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c16-infraestrutura-operacoes-facilities#72",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c17-inteligencia-informacao#72",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "dataprev-2023-c18-logistica-aquisicoes-contratos#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c18-logistica-aquisicoes-contratos#105",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c18-logistica-aquisicoes-contratos#106",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c18-logistica-aquisicoes-contratos#110",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c19-seguranca-cibernetica#106",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#57",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#58",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#66",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "dataprev-2023-c20-seguranca#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "dataprev-2023-c21-sustentacao-tecnologica#106",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "dataprev-2023-c21-sustentacao-tecnologica#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dpdf-analista-2020-c09-apoio-especializado-especialidade-in#113",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dpdf-analista-2020-c10-apoio-especializado-especialidade-in#103",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "dpdf-analista-2020-c10-apoio-especializado-especialidade-in#118",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "dpdf-analista-2020-c11-apoio-especializado-especialidade-in#65",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#24",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#26",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#30",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#36",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#39",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#43",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#46",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#79",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#87",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#88",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#90",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#92",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#99",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "fub-2019-c01-analista-tecnologia-informacao#57",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "P2·EVID 1"
+  },
+  {
+    "k": "fub-2025-c03-auditor#53",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#55",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#58",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#79",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "fub-2025-c03-auditor#86",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "fub-2025-c03-auditor#87",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "fub-2025-c03-auditor#89",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "fub-2025-c03-auditor#93",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#102",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#103",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c03-auditor#113",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#59",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#61",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#63",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#87",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#100",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#120",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "fub-2025-c18-tecnico-tecnologia-informacao#85",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "fub-2025-c18-tecnico-tecnologia-informacao#103",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c18-tecnico-tecnologia-informacao#104",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "fub-2025-c18-tecnico-tecnologia-informacao#118",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#60",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#68",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#78",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#81",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#89",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#90",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#96",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#97",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#98",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#111",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#119",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#58",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#71",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#73",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#115",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#69",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#84",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#88",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#103",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-clinica-medica-programas#43",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-nefrologia-programa-transp#42",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-nefrologia-programa-transp#89",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#8",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#46",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#47",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#52",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#54",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-pediatria-programas-endocr#60",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-prova-objetiva-programa-residencia#59",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-prova-objetiva-programa-residencia#75",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-prova-objetiva-programa-residencia#79",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-prova-objetiva-programa-residencia#81",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·EVID 1"
+  },
+  {
+    "k": "hub-medica-2020-x-requisito-clinica-medica#53",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-requisito-clinica-medica#66",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-requisito-pediatria#42",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-requisito-pediatria#90",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inoversasul-2024-c05-analista-planejamento#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inoversasul-2024-c05-analista-planejamento#83",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inoversasul-2024-c05-analista-planejamento#84",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c11-a11-gestao-tecnologia-informacao#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "inpi-2023-c11-a11-gestao-tecnologia-informacao#105",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "inpi-2023-c11-a11-gestao-tecnologia-informacao#106",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "inpi-2023-c12-p1-biologia-celular-molecular#110",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c13-p2-bioquimica-imunologia-biologia#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c13-p2-bioquimica-imunologia-biologia#102",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c13-p2-bioquimica-imunologia-biologia#112",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c13-p2-bioquimica-imunologia-biologia#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c14-p3-redes-comunicacao-sem#57",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c14-p3-redes-comunicacao-sem#58",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c14-p3-redes-comunicacao-sem#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c14-p3-redes-comunicacao-sem#118",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c15-p4-processamento-sinais-processament#63",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c15-p4-processamento-sinais-processament#76",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c17-t1-formacao-qualquer-area#58",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c17-t1-formacao-qualquer-area#107",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-cc1#67",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "inpi-2023-cc1#68",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "inpi-2023-cc1#69",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "inpi-2023-cc1#70",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "inpi-2023-cc1#73",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "inpi-2023-cc1#89",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcom-2022-c01-tecnicas-complexidade-gerencial-tecn#109",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mcti-insa-2024-c02-ciencia-tecnologia-alimentos-codigo#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c02-ciencia-tecnologia-alimentos-codigo#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c02-ciencia-tecnologia-alimentos-codigo#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#52",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#55",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#63",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "mcti-insa-2024-c07-sistema-producao-animal-codigo#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c08-sistema-producao-vegetal-codigo#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c10-biodiversidade-codigo-t10#72",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c13-desertificacao-codigo-t13#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c14-gestao-informacao-popularizacao-conh#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "mcti-insa-2024-c14-gestao-informacao-popularizacao-conh#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "mcti-insa-2024-c14-gestao-informacao-popularizacao-conh#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "mcti-insa-2024-c15-inovacao-codigo-t15#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c17-sistema-producao-animal-codigo#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c17-sistema-producao-animal-codigo#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c18-sistema-producao-vegetal-codigo#119",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#80",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#94",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#95",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#96",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#97",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#99",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#100",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#115",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c01-administracao#79",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c01-administracao#97",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c01-administracao#98",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c01-administracao#100",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c05-ciencias-computacao#82",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c05-ciencias-computacao#83",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-cg-bloco-comum#23",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-cg-bloco-comum#29",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "mp-ce-servidor-2025-cg-bloco-comum#31",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "mp-ce-servidor-2025-cg-bloco-comum#33",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#11",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#12",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#23",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#25",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#28",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#29",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#32",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#45",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mp-go-servidor-2024-cg-bloco-comum#46",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-c01-administracao-banco-dados#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-c02-administracao-infraestrutura-tecnolo#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-c03-administracao-seguranca-redes#71",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-c03-administracao-seguranca-redes#72",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-c04-analise-sistemas#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-c19-tecnico-informatica#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-c19-tecnico-informatica#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-c19-tecnico-informatica#73",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#16",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#22",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#23",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#27",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#29",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#30",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#33",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#34",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#48",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mpo-2024-c01-geral#49",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mpo-2024-c01-geral#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "mpo-2024-c01-geral#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#63",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c02-desenvolvimento-institucional#44",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mpo-2024-c02-desenvolvimento-institucional#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mpo-2024-c02-desenvolvimento-institucional#67",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mpo-2024-c02-desenvolvimento-institucional#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c02-desenvolvimento-institucional#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-c03-governanca-gestao-projetos-ti#50",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-c03-governanca-gestao-projetos-ti#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c03-governanca-gestao-projetos-ti#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c05-gestao-infraestrutura-ti#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#84",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c07-gestao-contratos-ti#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mpo-2024-c07-gestao-contratos-ti#91",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mpo-2024-c07-gestao-contratos-ti#92",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#36",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#37",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#40",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#42",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#43",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#22",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#26",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#29",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#30",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#31",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#32",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#33",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#37",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#41",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#42",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#44",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "pc-df-adm-2024-c01-analista-informatica-area-atuacao#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#47",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#85",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#96",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#99",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-nm-2023-c03-logistica-transportes-controle#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ns-2021-c04-analista-sistemas-engenharia-softwar#117",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c05-analista-sistemas-infraestrutura#77",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#54",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#59",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#63",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#66",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#81",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#93",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#114",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio#115",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c07-ciencia-dados#97",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ntj-2023-c03-logistica-transportes-controle#52",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ntj-2023-c03-logistica-transportes-controle#53",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ntj-2023-c03-logistica-transportes-controle#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ntj-2023-c03-logistica-transportes-controle#75",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "pge-rj-2022-c02-analista-sistemas-metodos#75",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pge-rj-2022-c02-analista-sistemas-metodos#89",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "pref-cachoeiro-2024-cg-bloco-comum#46",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "pref-cachoeiro-2024-cg-bloco-comum#49",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "pref-cachoeiro-2024-cg-bloco-comum#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "pref-cachoeiro-2024-cg-bloco-comum#58",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-2024-cg-bloco-comum#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c01-analista-sistemas#92",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c04-auditor-fiscal-defesa-consumidor#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c04-auditor-fiscal-defesa-consumidor#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c05-auditor-fiscal-meio-ambiente#87",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c05-auditor-fiscal-meio-ambiente#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c06-auditor-fiscal-obras#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c06-auditor-fiscal-obras#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c08-auditor-fiscal-transportes#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c09-auditor-fiscal-tributos-municipais#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c10-auditor-fiscal-sanitario#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c10-auditor-fiscal-sanitario#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c10-auditor-fiscal-sanitario#88",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-procurador-2024-cg-bloco-comum#21",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "pref-cachoeiro-procurador-2024-cg-bloco-comum#23",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#51",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#54",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#68",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#87",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#91",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#93",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#101",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#105",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#118",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#119",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#60",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#65",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#90",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#109",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#113",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao#97",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao#105",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao#113",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#60",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#74",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#76",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#85",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#96",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#100",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#102",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#110",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#117",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#71",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#120",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#88",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#112",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#119",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#88",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#91",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#110",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#117",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#119",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#72",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c06-engenharia#103",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#55",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c07-tecnologia-informacao#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#81",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#85",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#89",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#100",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#106",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#86",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#89",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#97",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#98",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#104",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#106",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#15",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#18",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#55",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#56",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#85",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#86",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#105",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#114",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#119",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#124",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#125",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#130",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#131",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#141",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-especif#157",
+    "ano": 2019,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#59",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#120",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#131",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "semed-aracaju-2024-cg-bloco-comum#29",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "semed-aracaju-2024-cg-bloco-comum#40",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "semed-aracaju-2024-cg-bloco-comum#41",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "semed-aracaju-2024-cg-bloco-comum#45",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 5"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#136",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#137",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#139",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#143",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "seplag-ce-2024-c03-ciencia-computacao-ou-afins#126",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c03-ciencia-computacao-ou-afins#150",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "seplag-ce-2024-c04-contabilidade-publica#91",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c04-contabilidade-publica#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c04-contabilidade-publica#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c04-contabilidade-publica#111",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c04-contabilidade-publica#122",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#104",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#121",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#126",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#143",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#41",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#42",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#43",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#44",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#45",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#46",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#67",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#71",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "seplag-ce-2024-cg-bloco-comum#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "seplag-ce-2024-x-prova-objetiva-conhecimentos-basicos#34",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-x-prova-objetiva-conhecimentos-basicos#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplan-rr-2022-c02-tecnologia-informacao#77",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "serpro-2023-c01-tecnologia#53",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "serpro-2023-c01-tecnologia#54",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "stj-2024-c03-apoio-especializado-especialidade-an#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stj-2024-c18-apoio-especializado-especialidade-su#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#51",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#53",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#54",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#56",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#60",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#61",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#64",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#66",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#83",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#102",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "stm-2025-c03-apoio-especializado-especialidade-an#77",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "stm-2025-c03-apoio-especializado-especialidade-an#105",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c06-apoio-especializado-especialidade-su#92",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "stm-2025-c06-apoio-especializado-especialidade-su#95",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "stm-2025-c06-apoio-especializado-especialidade-su#99",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c06-apoio-especializado-especialidade-su#101",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "stm-2025-cg-bloco-comum#20",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-cg-bloco-comum#30",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "stm-2025-cg-bloco-comum#31",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "stm-2025-cg-bloco-comum#34",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 3"
+  },
+  {
+    "k": "stm-2025-cg-bloco-comum#38",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "stm-analista-tecnico-2017-c10-apoio-especializado-especialidade-pr#64",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#63",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#64",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#65",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#66",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#71",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#85",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#125",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "susep-2025-cg-bloco-comum#21",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "susep-2025-cg-bloco-comum#24",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "susep-2025-cg-bloco-comum#39",
+    "ano": 2025,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#31",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#69",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#79",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#83",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#98",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tbg-2023-c04-desenvolvimento-software#51",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#27",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#29",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#39",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#41",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#43",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#44",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#57",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#59",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#106",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#108",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#109",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#129",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#147",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#160",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "tc-df-auditor-2024-c02-auditor-controle-externo-area#144",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#38",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#50",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#91",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-x-prova-objetiva-p1-gabarito#9",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-auditor-2024-x-prova-objetiva-p1-gabarito#12",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-x-prova-objetiva-p1-gabarito#16",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-auditor-2024-x-prova-objetiva-p1-gabarito#26",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "tc-df-procurador-2020-c01-procurador-ministerio-publico-junto#25",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c01-procurador-ministerio-publico-junto#33",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#82",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#87",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#94",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#97",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#101",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#103",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#108",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#109",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#110",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#111",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#121",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#178",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#180",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2020-c02-prova-objetiva-conhecimentos-ii#181",
+    "ano": 2020,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#1",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#3",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#26",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#27",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#34",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#44",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#50",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#55",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#83",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#87",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#122",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#137",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#141",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#142",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#143",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#144",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#146",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#150",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#151",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#155",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#157",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#162",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#166",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#167",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#168",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#169",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#170",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#173",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#63",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#69",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#72",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#87",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#67",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#52",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#79",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#98",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c04-engenharia-civil#66",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c04-engenharia-civil#103",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-ac-2024-c04-engenharia-civil#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#87",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#100",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#119",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c06-gestao-dados#62",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c06-gestao-dados#89",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c06-gestao-dados#91",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c07-infraestrutura-ti#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c07-infraestrutura-ti#116",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-ac-2024-c10-seguranca-informacao#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c10-seguranca-informacao#92",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c11-sistemas-informacao#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-ac-2024-c12-administracao#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-ac-2024-c13-direito#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c13-direito#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c13-direito#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c13-direito#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#56",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#57",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#107",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 3"
+  },
+  {
+    "k": "tce-ac-2024-c15-arquitetura#82",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c15-arquitetura#83",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c15-arquitetura#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c16-contabilidade#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c16-contabilidade#113",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#51",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#55",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#68",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#70",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#75",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#77",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#85",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#86",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#88",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#93",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#95",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 4"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#103",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#104",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#105",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#63",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#64",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#65",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#96",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·AUD 4"
+  },
+  {
+    "k": "tce-ac-2024-c18-engenharia-civil#97",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#60",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#67",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#80",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#90",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#92",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-ac-2024-c20-tecnico-informatica#78",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#15",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#31",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#35",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#39",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#43",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#47",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#14",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#36",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#39",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#52",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#54",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#57",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#63",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#65",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#70",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#71",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#73",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#78",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#80",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#105",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#108",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#109",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#124",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#125",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#126",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#127",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#128",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#55",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#58",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#59",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#60",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#62",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#71",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#98",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#59",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#60",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#63",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#65",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#66",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#69",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#71",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#87",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#92",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#99",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#115",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#52",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#54",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#57",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#58",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#59",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#68",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#73",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#76",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#77",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#78",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#79",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#80",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#81",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#85",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#92",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#97",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#102",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#104",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#51",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#53",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#54",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#55",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#56",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#57",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#62",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#63",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#64",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#65",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#72",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#73",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#80",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#83",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#91",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#95",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#98",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#110",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#116",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#4",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·AUD 1"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#10",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#13",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#24",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#25",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#26",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#27",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#49",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-controle-externo-rea#50",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#10",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#13",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#25",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#26",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#31",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#42",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#44",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#46",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#19",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#23",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#25",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#27",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#28",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#29",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#30",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#39",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#42",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-julgamento#43",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#24",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#27",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#36",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#38",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#41",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#43",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#44",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#112",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#115",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#1",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#18",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#25",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#29",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#30",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#36",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#39",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#41",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#43",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#50",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#51",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#56",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#76",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#77",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#87",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#88",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#92",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#93",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#97",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#98",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#102",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#105",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#110",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#111",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#112",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#114",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#120",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#123",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#141",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#142",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#150",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#152",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#153",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#157",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#160",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#175",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#180",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#182",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#184",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#185",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#187",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#190",
+    "ano": 2022,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#43",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#63",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#64",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#71",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#80",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#82",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c01-administracao#84",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c03-ciencias-computacao#64",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-sc-auditor-2021-c03-ciencias-computacao#93",
+    "ano": 2021,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#61",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#64",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#76",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#82",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#87",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#93",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#97",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#100",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#102",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#104",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#106",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#107",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#115",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#117",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-cg-bloco-comum#17",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "tj-es-2023-cg-bloco-comum#48",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-cg-bloco-comum#49",
+    "ano": 2023,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#75",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#85",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#88",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#97",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#98",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#103",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#115",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#120",
+    "ano": 2017,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#53",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#54",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#55",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#76",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#84",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#101",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#102",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "trf6-2024-c03-apoio-especializado-especialidade-an#99",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf6-2024-c13-apoio-especializado-especialidade-go#61",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "trf6-2024-c13-apoio-especializado-especialidade-go#94",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "trf6-2024-c22-apoio-especializado-especialidade-te#59",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "trf6-2024-c22-apoio-especializado-especialidade-te#81",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "trf6-2024-c22-apoio-especializado-especialidade-te#118",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "trt10-2024-c11-apoio-especializado-especialidade-te#74",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "trt10-2024-c11-apoio-especializado-especialidade-te#114",
+    "ano": 2024,
+    "fonte": "mid4",
+    "y": "P2·EVID 4"
+  }
+]

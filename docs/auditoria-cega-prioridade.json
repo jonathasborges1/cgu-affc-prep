@@ -1,0 +1,84 @@
+{
+  "P2": {
+    "bloco": "P2",
+    "metodo": "auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral",
+    "n_manifesto": 60,
+    "n_rotulado": 60,
+    "n_ambiguo": 1,
+    "erros_integridade": [],
+    "por_estrato": {
+      "baixo": {
+        "n": 20,
+        "peso": 9.2,
+        "tp": 9.2,
+        "fp": 174.79999999999998,
+        "precisao": 0.05
+      },
+      "medio": {
+        "n": 19,
+        "peso": 9.2,
+        "tp": 18.4,
+        "fp": 156.39999999999998,
+        "precisao": 0.10526315789473685
+      },
+      "alto": {
+        "n": 20,
+        "peso": 9.25,
+        "tp": 27.75,
+        "fp": 157.25,
+        "precisao": 0.15
+      }
+    },
+    "precisao_ponderada": 0.10178374402353807,
+    "precisao_ic90": [
+      0.0507539536594336,
+      0.16963957337256347
+    ],
+    "recall_ponderado": null,
+    "recall_ic90": null,
+    "recall_status": "nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados",
+    "regra": "sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis",
+    "amostra_ids": 60
+  },
+  "P3": {
+    "bloco": "P3",
+    "metodo": "auditoria cega estratificada por tercil de score, ponderada pelo inverso da fração amostral",
+    "n_manifesto": 60,
+    "n_rotulado": 60,
+    "n_ambiguo": 2,
+    "erros_integridade": [],
+    "por_estrato": {
+      "baixo": {
+        "n": 20,
+        "peso": 2.6,
+        "tp": 23.400000000000002,
+        "fp": 28.6,
+        "precisao": 0.45000000000000007
+      },
+      "medio": {
+        "n": 19,
+        "peso": 2.6,
+        "tp": 28.6,
+        "fp": 20.8,
+        "precisao": 0.5789473684210525
+      },
+      "alto": {
+        "n": 19,
+        "peso": 2.65,
+        "tp": 29.15,
+        "fp": 21.2,
+        "precisao": 0.5789473684210527
+      }
+    },
+    "precisao_ponderada": 0.5347611202635915,
+    "precisao_ic90": [
+      0.43130148270181223,
+      0.6385502471169687
+    ],
+    "recall_ponderado": null,
+    "recall_ic90": null,
+    "recall_status": "nao_estimavel: amostra v2 foi retirada do conjunto recuperado; nao inclui sorteio representativo dos descartados",
+    "regra": "sem confiança alta automática nesta auditoria; intervalo e divergências permanecem visíveis",
+    "amostra_ids": 60
+  }
+}

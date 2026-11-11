@@ -1,0 +1,50 @@
+{"id": "v1-12-01", "codigo": "OUTRO", "rel": "fora", "motivo": "fisioterapia/medicina, fora do edital"}
+{"id": "v1-12-02", "codigo": "P1·ADM 4", "rel": "alta", "motivo": "planos e orçamentos, sustentabilidade da dívida/fiscal"}
+{"id": "v1-12-03", "codigo": "OUTRO", "rel": "fora", "motivo": "continuidade de negócios, TI"}
+{"id": "v1-12-04", "codigo": "OUTRO", "rel": "fora", "motivo": "seleção de pessoal, gestão de RH"}
+{"id": "v1-12-05", "codigo": "P1·SOC 4", "rel": "baixa", "motivo": "idoso, fiscalização de entidades; tangencia idade/direitos"}
+{"id": "v1-12-06", "codigo": "OUTRO", "rel": "fora", "motivo": "bens públicos, direito administrativo específico"}
+{"id": "v1-12-07", "codigo": "OUTRO", "rel": "fora", "motivo": "análise de negócios, TI/projetos"}
+{"id": "v1-12-08", "codigo": "OUTRO", "rel": "fora", "motivo": "anulação de ato administrativo, direito administrativo"}
+{"id": "v1-12-09", "codigo": "OUTRO", "rel": "fora", "motivo": "engenharia de software, análise de projeto"}
+{"id": "v1-12-10", "codigo": "OUTRO", "rel": "fora", "motivo": "incidentes cibernéticos, TI"}
+{"id": "v1-12-11", "codigo": "OUTRO", "rel": "fora", "motivo": "licitações e contratos de TI"}
+{"id": "v1-12-12", "codigo": "OUTRO", "rel": "fora", "motivo": "custo da qualidade, gestão da qualidade"}
+{"id": "v1-12-13", "codigo": "OUTRO", "rel": "fora", "motivo": "ciência e semiárido, fora do edital"}
+{"id": "v1-12-14", "codigo": "OUTRO", "rel": "fora", "motivo": "recrutamento, gestão de pessoas"}
+{"id": "v1-12-15", "codigo": "P1·SOC 3", "rel": "baixa", "motivo": "trabalho como valor na CF; ordem social"}
+{"id": "v1-12-16", "codigo": "P1·ADM 2", "rel": "media", "motivo": "administração por objetivos, gestão por resultados"}
+{"id": "v1-12-17", "codigo": "OUTRO", "rel": "fora", "motivo": "arquivologia"}
+{"id": "v1-12-18", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "funções econômicas do Estado, função distributiva"}
+{"id": "v1-12-19", "codigo": "P1·ETICA 1", "rel": "media", "motivo": "dignidade, equidade e ética em auditoria"}
+{"id": "v1-12-20", "codigo": "P1·ADM 2", "rel": "media", "motivo": "patrimonialismo colonial, modelos de administração"}
+{"id": "v1-12-21", "codigo": "P1·SOC 3", "rel": "media", "motivo": "desigualdades regionais, território, RIDE"}
+{"id": "v1-12-22", "codigo": "OUTRO", "rel": "fora", "motivo": "repartição de receitas tributárias, direito tributário"}
+{"id": "v1-12-23", "codigo": "P1·ADM 4", "rel": "media", "motivo": "receita e despesa orçamentária em transferências"}
+{"id": "v1-12-24", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "movimentação financeira, cota e repasse"}
+{"id": "v1-12-25", "codigo": "P1·SOC 5", "rel": "media", "motivo": "fundo de combate à pobreza, desigualdades"}
+{"id": "v1-12-26", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "descentralização e responsabilização gerencial"}
+{"id": "v1-12-27", "codigo": "P1·SOC 2", "rel": "media", "motivo": "povos indígenas, formação social e hierarquias"}
+{"id": "v1-12-28", "codigo": "P1·ADM 3", "rel": "baixa", "motivo": "políticas de inovação, indicadores e monitoramento"}
+{"id": "v1-12-29", "codigo": "OUTRO", "rel": "fora", "motivo": "direito empresarial, sociedade anônima"}
+{"id": "v1-12-30", "codigo": "OUTRO", "rel": "fora", "motivo": "segurança de alimentos, APPCC"}
+{"id": "v1-12-31", "codigo": "OUTRO", "rel": "fora", "motivo": "ISO 27001, segurança da informação"}
+{"id": "v1-12-32", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "DASP, burocracia, patrimonialismo e governança"}
+{"id": "v1-12-33", "codigo": "P1·SOC 4", "rel": "baixa", "motivo": "acessibilidade em ferramenta Office, tema TI"}
+{"id": "v1-12-34", "codigo": "OUTRO", "rel": "fora", "motivo": "gestão por competências, gestão de pessoas"}
+{"id": "v1-12-35", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "cidadania, participação democrática além do voto"}
+{"id": "v1-12-36", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "representação proporcional na Câmara dos Deputados"}
+{"id": "v1-12-37", "codigo": "OUTRO", "rel": "fora", "motivo": "anulação/revogação de ato, direito administrativo"}
+{"id": "v1-12-38", "codigo": "OUTRO", "rel": "fora", "motivo": "licitações e compras, indicação de marca"}
+{"id": "v1-12-39", "codigo": "OUTRO", "rel": "fora", "motivo": "aquicultura, tilápia"}
+{"id": "v1-12-40", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "transposição de recursos orçamentários em CT&I"}
+{"id": "v1-12-41", "codigo": "P1·SOC 4", "rel": "media", "motivo": "diferenças, assimetria e desigualdade na educação"}
+{"id": "v1-12-42", "codigo": "OUTRO", "rel": "fora", "motivo": "correção gramatical, português"}
+{"id": "v1-12-43", "codigo": "OUTRO", "rel": "fora", "motivo": "história, chegada de D. João, texto de português"}
+{"id": "v1-12-44", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "regressividade tributária e desigualdade; tema tributário"}
+{"id": "v1-12-45", "codigo": "OUTRO", "rel": "fora", "motivo": "engenharia civil, normas técnicas"}
+{"id": "v1-12-46", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "balanced scorecard, gestão estratégica"}
+{"id": "v1-12-47", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina clínica"}
+{"id": "v1-12-48", "codigo": "OUTRO", "rel": "fora", "motivo": "licitação, exigência de registro profissional"}
+{"id": "v1-12-49", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "ordem econômica e abuso do poder econômico"}
+{"id": "v1-12-50", "codigo": "OUTRO", "rel": "fora", "motivo": "contribuições, direito tributário/previdenciário"}

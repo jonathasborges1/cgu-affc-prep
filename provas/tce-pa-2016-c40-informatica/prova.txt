@@ -1,0 +1,601 @@
+||251TCEPA_040_01N452317||
+
+CONHECIMENTO
+Com relação à organização e à arquitetura de computadores, julgue
+os itens a seguir.
+51
+
+A unidade de disco rígido é um periférico de entrada e saída,
+assim como os modems e os dispositivos de memória do tipo
+pendrive.
+
+52
+
+A BIOs, unidade responsável pelo boot do computador, realiza
+um conjunto de instruções quando o computador é iniciado.
+
+53
+
+Em caso de ausência de energia, com consequente
+desligamento do computador, o conteúdo armazenado em sua
+memória RAM será preservado, ao contrário do que ocorrerá
+com o conteúdo armazenado na memória ROM.
+
+54
+
+Dispositivos como processadores, memória RAM e
+barramentos ISA e PCi estão localizados na placa mãe,
+responsável pela comunicação entre o processador e os
+periféricos instalados na máquina.
+
+55
+
+Diferentemente do processamento em batch, o processamento
+em tempo real executa uma série de programas em sequência,
+sem a intervenção do usuário final.
+
+Julgue os seguintes itens, relativos ao diagnóstico de problemas em
+estações de trabalho e à manutenção de computadores.
+56
+
+No Windows Vista, para se verificar se o adaptador de rede
+está funcionando adequadamente, deve-se acessar,
+sequencialmente, o Painel de Controle, a opção Gerenciador
+de Dispositivos do Sistema de Manutenção e a opção
+Adaptadores de rede.
+
+57
+
+Tanto em ações com fins corretivos quanto em ações com fins
+preventivos podem-se utilizar utilitários de sistema
+operacional, como o RegEdit e o MS-Config, e softwares
+antivírus para a varredura de ameaças à segurança de
+computadores.
+
+58
+
+A criação de discos de recuperação de sistema é útil no caso de
+as instalações serem malsucedidas, mas não no caso de perda
+de arquivos causada por infecções de vírus ou malwares.
+
+59
+
+A conta de administrador do sistema deve ser usada pelos
+membros da equipe de suporte e pelo usuário da máquina, para
+todas as ações necessárias para a manutenção da máquina.
+
+60
+
+Como a instalação de plug-ins e complementos de instalação
+deve ser realizada automaticamente, de acordo com a
+orientação do sítio visitado, o nível de permissão no navegador
+deve ser mantido de inferior a médio.
+
+61
+
+Somente os controles Active X originários de sítios conhecidos
+e confiáveis devem ser executados em um computador.
+
+Com relação ao sistema operacional Windows, julgue os itens que
+se seguem.
+62
+
+O BitLocker do Windows 7 é uma funcionalidade que permite
+aumentar a capacidade de memória do computador se o
+sistema estiver lento por insuficiência da memória RAM.
+
+63
+
+As atualizações da versão do Windows 7 para a versão
+Ultimate podem ser realizadas usando-se o Windows Anytime
+para comprar o disco de atualização ou a versão online da
+atualização. Realizadas essas atualizações, serão mantidos os
+programas instalados na máquina, assim como os arquivos e
+configurações utilizadas antes das atualizações.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+A respeito do ambiente Linux, julgue os próximos itens.
+64
+
+Compartilhar arquivos entre o Linux e o Windows utilizando
+o NFS (network file system) é fácil e seguro, uma vez que
+o Windows contém o NFS integrado e configurado contra
+vulnerabilidades existentes na Internet.
+
+65
+
+Em um computador Linux, não é necessária nenhuma
+configuração para habilitar a comunicação da placa de rede
+sem fio com o ponto de acesso, uma vez que o gerenciador da
+placa PCMCIA ou PC reconhece a placa de rede sem fio
+e carrega o driver correto.
+
+66
+
+A utilização do BIND (Berkeley Internet Name Domain)
+durante a instalação do Linux permite selecionar o nome do
+servidor durante a seleção dos pacotes de instalação, a fim de
+permitir o gerenciamento de DNS.
+
+67
+
+Para utilizar o Shell Bash do Linux por meio de um
+super-usuário com alto nível de privilégio, é necessário utilizar
+o comando su- seguido de senha para o root.
+
+68
+
+Na configuração de uma rede TCP/IP, é possível fazer que a
+placa de rede obtenha um endereço IP automaticamente ou por
+meio do DHCP.
+
+69
+
+A instalação e a configuração do Samba permitem, via
+protocolo SMB (server message block), o acesso, em
+computadores com Linux, a discos e impressoras
+compartilhados pelo Windows.
+
+Julgue os itens subsequentes, acerca de becape.
+70
+
+A central de sincronização do Windows 7 realiza o becape
+completo do computador, armazenando a cópia em uma
+partição específica do disco rígido.
+
+71
+
+A opção mount -t vfat permite fazer o becape dentro
+de uma partição de disco DOS/Windows, caso em que
+a hierarquia de diretório aparece como parte do sistema de
+arquivos Linux.
+
+72
+
+No Linux, o Tape Archiver -tar cria cada arquivo
+compactado separadamente, não sendo permitido que esse
+arquivo contenha diretórios com outros arquivos.
+
+73
+
+No Windows, a cópia do estado do sistema permite realizar
+a cópia de segurança de registro e arquivos de inicialização.
+
+Acerca do pacote Microsoft Office, julgue os itens a seguir.
+74
+
+No Outlook, se a opção Com cópia oculta (Cco) estiver ativada
+durante a criação de uma nova mensagem de email, poderá ser
+efetuada a inserção de um ou mais endereços como
+destinatários, que receberão cópias do email com o conteúdo
+ocultado.
+
+75
+
+Arquivos do PowerPoint salvos no formato de apresentação de
+eslaides (pps/ppsx) são, automaticamente, abertos no modo
+de exibição e, nessa condição, não podem ser editados.
+
+76
+
+No Word, para que as orientações das páginas do documento
+se alternem entre retrato e paisagem, é necessário haver
+quebras de seções entre cada mudança de orientação.
+
+77
+
+A função SOMASE, do Excel, executa a soma do conteúdo de
+células especificadas em um intervalo segundo um critério ou
+uma condição.
+
+
+||251TCEPA_040_01N452317||
+
+A respeito dos conceitos básicos de Internet e intranet, protocolos,
+ferramentas e aplicativos, julgue os itens seguintes.
+78
+
+Mensagens baixadas por meio da utilização do protocolo
+IMAP não são apagadas automaticamente do servidor, devido
+ao fato de esse protocolo disponibilizar ao usuário mecanismos
+adicionais para manipular as caixas de correio e suas
+mensagens diretamente no servidor.
+
+79
+
+Diferentemente do HTTP, o protocolo de transferência de
+arquivos (FTP) utiliza duas conexões paralelas em portas
+distintas com o servidor: uma porta para a conexão de controle
+e outra para a conexão que viabiliza a transferência de dados.
+
+80
+
+A implementação do protocolo HTTPS é realizada
+introduzindo-se uma nova camada no modelo TCP/IP (camada
+SSL/TLS), posicionada entre as camadas de transporte e de
+rede.
+
+81
+
+Navegador web é um programa que habilita o usuário para
+interagir com documentos HTML hospedados em servidores
+que respondem ao protocolo HTTP e(ou) ao HTTPS.
+
+82
+
+Entre os sistemas utilizados no ordenamento dos links na
+página de resultados de buscas realizadas no Google inclui-se
+o PageRank, sistema que se baseia em algoritmos que avaliam
+a relevância dos links.
+
+Julgue os itens subsequentes, relativos aos princípios de
+infraestrutura e serviços de redes de comunicação.
+83
+
+Na camada de transporte da Internet, os serviços orientados
+à conexão (protocolo UDP) garantem a transferência e a
+recepção correta e ordenada dos dados, ao passo que os
+serviços sem conexão (protocolo TCP) não garantem a ordem
+de recepção dos dados.
+
+84
+
+Elementos ativos de rede conhecidos como switches L2
+roteiam pacotes IP entre diversas estações de trabalho em uma
+rede de computadores bem como definem a melhor rota que
+cada pacote deve seguir até seu destino.
+
+85
+
+Comutação de circuitos é a tecnologia presumida no modelo
+TCP/IP e, por isso, a mais utilizada pela infraestrutura mundial
+da Internet.
+
+86
+
+Na topologia em barramento, todos os computadores são
+ligados em um mesmo barramento físico de dados, ao passo
+que, na topologia em anel, os computadores são conectados em
+pares formando um caminho fechado.
+
+A propósito dos modelos OSI e TCP/IP, ambientes cliente/servidor
+e das infraestruturas de computação em nuvem, julgue os próximos
+itens.
+87
+
+O modelo OSI é definido por nove camadas, entre as quais se
+destacam as camadas de aplicação, transporte, rede e a física.
+
+88
+
+Os modelos TCP/IP e OSI possuem camadas de transporte
+e de rede comparáveis bem como camadas de apresentação que
+incluem serviços diferenciados.
+
+89
+
+A arquitetura cliente/servidor garante que todos os
+computadores que estejam interligados se comuniquem
+indiscriminadamente e atuem, ao mesmo tempo, como clientes
+e servidores de serviços e processos, trocando recursos entre
+si.
+
+90
+
+Os protocolos de roteamento interno de uma rede incluem
+o protocolo RIP, que utiliza um algoritmo de menor caminho,
+e o protocolo OSPF, que utiliza um algoritmo mais simples,
+com base em tabelas de vetor distância.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+91
+
+O conceito de nuvens comunitárias se refere a uma
+infraestrutura de nuvem disponibilizada ao público em geral,
+ao passo que o conceito de nuvens híbridas se refere a uma
+infraestrutura de nuvem disponibilizada para uso exclusivo de
+uma organização.
+
+Julgue os itens subsecutivos, referentes às noções de segurança da
+informação.
+92
+
+O princípio de não repúdio impede que o autor de um
+documento negue a criação e a assinatura desse documento.
+
+93
+
+A infraestrutura de chaves públicas brasileira (ICP – Brasil)
+é uma cadeia hierárquica e de confiança que viabiliza a
+emissão de certificados digitais apenas para pessoas jurídicas,
+por meio de uma autoridade de registro (AR).
+
+94
+
+Phishing é um tipo de fraude por meio da qual um golpista
+tenta obter dados pessoais e financeiros de outro usuário da
+Internet utilizando, por exemplo, páginas falsas de comércio
+eletrônico e redes sociais, bem como mensagens eletrônicas
+que contenham formulários de solicitações falsas de
+recadastramento.
+
+95
+
+Hardening é um processo de alteração na infraestrutura física
+dos recursos dos computadores em rede cujo objetivo principal
+consiste em preparar a infraestrutura para enfrentar erros. Esse
+processo inclui habilitar o acesso de todos os usuários aos
+recursos de todos os servidores, de forma a garantir que
+qualquer recurso de hardware esteja disponível aos usuários
+existentes.
+
+96
+
+A segurança da informação visa preservar, entre outros, os
+seguintes princípios: o da confidencialidade, o qual garante que
+a informação não será conhecida por pessoas não autorizadas;
+o da integridade, o qual garante que a informação armazenada
+ou transferida está correta e é apresentada corretamente para
+quem a consulta; e o da disponibilidade, o qual garante que
+a informação poderá ser obtida pelo usuário sempre que
+necessário.
+
+Considerando a linguagem utilizada na construção de algoritmos,
+julgue os itens a seguir.
+97
+
+O algoritmo a seguir fornece como resultado 50 números pares.
+início
+cont : inteiro;
+para cont de 1 até 100 faça
+se (cont resto 2) = 0
+entao escreva (cont,"é número par");
+fim se;
+fim para;
+fim algoritmo
+
+98
+
+Se o algoritmo para o cálculo da média de determinado aluno
+utilizar a fórmula média = (P1 + 2*P2) / 3, em que P1 e P2
+referem-se, respectivamente, às notas do aluno na primeira e na
+segunda prova, e se a média mínima necessária para o aluno
+ser aprovado na disciplina for 4,5, esse aluno será aprovado se
+obtiver nota 5,0 na primeira prova e 4,0 na segunda prova.
+
+Julgue os itens seguintes, relativos a linguagens de programação.
+99
+
+Utilizando-se linguagens fracamente tipadas, é possível alterar
+o tipo de dado contido em uma variável durante a execução do
+programa.
+
+100
+
+Em se tratando de linguagens procedimentais, os dados são
+globais e, portanto, acessíveis a todos os procedimentos.
+
+
+||251TCEPA_040_01N452317||
+
+Com relação aos tipos de dados elementares e estruturados, julgue
+os itens subsequentes.
+101
+
+Em uma árvore binária balanceada, para todo nó que não seja
+considerado um nó-folha, a subárvore da esquerda terá chaves
+menores que a chave do nó.
+
+102
+
+O algoritmo a seguir efetuará o cálculo da variável C apenas se
+o valor da variável X não for maior que 5.
+var
+A, B, C, X : inteiro
+início
+leia (A, B, X)
+se não (X > 5)
+então
+C  (A + B) * X
+senão
+C  (A - B) * X
+fim se
+escreva C
+fim algoritmo.
+
+Acerca de funções e procedimentos em subprogramas, julgue os
+itens que se seguem.
+103
+
+A passagem de parâmetro em uma rotina pode ocorrer de duas
+maneiras: por valor ou por referência. Em se tratando da
+passagem por valor, alteram-se os valores dos parâmetros que
+foram passados para a função.
+
+104
+
+No algoritmo solução1 apresentado a seguir as variáveis X,
+A e B são criadas com escopo global; no algoritmo solução2
+apresentado após algoritmo solução1, as variáveis A e B são
+criadas com escopo global e a variável X com escopo local.
+algoritmo solução1
+var
+A, B, X : inteiro
+início
+leia (A, B)
+X  A
+A  B
+B  X
+escreva (A, B)
+Fim algoritmo.
+algoritmo solução2
+var
+A, B : inteiro
+Procedimento TROCA
+var
+X : inteiro
+início
+X  A
+A  B
+B  X
+fim
+início
+leia (A, B)
+TROCA
+escreva (A, B)
+Fim algoritmo.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Com relação às estruturas de controle em programas de
+computador, julgue os itens subsecutivos.
+105
+
+A chamada de uma função para execução é feita citando-se o
+seu identificador no meio de uma expressão. Uma função é dita
+recursiva quando chama ela própria.
+
+106
+
+Diferentemente do que ocorre com os comandos da estrutura
+repita do algoritmo1 apresentado a seguir, os comandos
+da estrutura enquanto do algoritmo2 apresentado a seguir
+são executados pelo menos uma vez.
+algoritmo1
+var
+X: inteiro
+início
+X  20
+repita
+imprima (X)
+X  X+1
+até (X<10)
+fim
+algoritmo2
+var
+X: inteiro
+início
+X  20
+enquanto (X<10)
+imprima (X)
+X  X+1
+fim enquanto
+fim
+
+107
+
+Para cada corrotina, é necessária uma pilha de registros de
+ativação que cresça e diminua durante a sua execução,
+independentemente das pilhas das outras corrotinas.
+
+Considerando os conceitos de bibliotecas, julgue os itens
+subsequentes.
+108
+
+Na compilação de um programa que chama uma biblioteca
+compartilhada, todo o código da biblioteca é copiado e
+inserido dentro do binário final.
+
+109
+
+Em um arquivo de biblioteca, que consiste em uma coleção de
+funções pré-definidas, são armazenados o nome e o
+código-objeto de cada função.
+
+No que se refere à compilação e interpretação de programas, julgue
+os próximos itens.
+110
+
+Os interpretadores, em vez de produzirem um programa objeto,
+fruto da tradução, executam diretamente as operações
+especificadas no código-fonte.
+
+111
+
+Compilador é um utilitário responsável por executar um
+programa objeto diretamente na máquina.
+
+No que concerne a banco de dados, julgue os itens a seguir.
+112
+
+O resultado da consulta a seguir, que utiliza o operador
+UNION, não elimina os registros duplicados entre as tabelas.
+SELECT depto FROM emp
+UNION
+SELECT depto FROM depto;
+
+113
+
+Em bancos de dados relacionais, chave estrangeira é aquela
+que permite uma ligação lógica entre duas tabelas — a chave
+estrangeira de uma tabela se liga logicamente à chave primária
+de outra tabela.
+
+
+||251TCEPA_040_01N452317||
+
+Com base na ITIL v3, julgue os itens subsequentes, relativos a
+gerenciamento de serviços de TI.
+
+114
+
+O processo service change refere-se somente à mudança em
+um serviço já existente no ambiente de produção.
+
+115
+
+Known error é um incidente cuja causa raiz é documentada e
+cuja solução de contorno identificada.
+
+116
+
+O gerenciamento do catálogo de serviços atua como fonte
+centralizada de informações sobre todos os serviços acordados.
+
+Com base no disposto nas Leis n.º 8.666/1993 e n.º 10.520/2002,
+julgue os itens que se seguem.
+
+117
+
+O instrumento licitatório denominado pregão destina-se à
+aquisição de bens e serviços comuns, salvo se o contratante for
+entidade controlada indiretamente pela União.
+
+118
+
+A administração deve realizar procedimento licitatório para a
+contratação, com terceiros, de compras, serviços, obras,
+alienações e permissões, entre outros objetos.
+
+Considerando as boas práticas em contratações de TI no âmbito da
+administração pública federal, julgue o próximo item.
+
+119
+
+A Instrução Normativa n.º 4/2014 do MPOG/SLTI obriga à
+realização de diligências e(ou) prova de conceito com todos os
+licitantes previamente classificados, para fins de comprovação
+de atendimento das especificações técnicas.
+
+Em relação ao sistema de registro de preços, julgue o item seguinte.
+
+120
+
+Esse sistema consiste em um conjunto de procedimentos para
+o registro formal de preços relativos à prestação de serviços e
+aquisição de bens, para contratações futuras, em que as
+empresas, concordando em fornecer nas mesmas condições do
+primeiro colocado, disponibilizam os bens e serviços a preços
+e prazos registrados em ata específica.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Espaço livre
+
+

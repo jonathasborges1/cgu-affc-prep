@@ -1,0 +1,1258 @@
+{
+ "tema": "P2·DIR 3",
+ "n_itens": 35,
+ "n_nucleos": 18,
+ "alvo_amostra": 10,
+ "fracao": 0.28,
+ "teto": 6,
+ "max_nucleos": 5,
+ "simulacao": false,
+ "aulas": [
+  {
+   "k": 1,
+   "nucleos": [
+    {
+     "id": "n-dir3-controle-interno-finalidades",
+     "texto": "Controle interno finalidades.",
+     "edital": "P2·DIR 3.1",
+     "massa": 5,
+     "cota": 1,
+     "amostra": [
+      "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#65"
+     ],
+     "reserva": [
+      "tce-pe-2017-x-analista-gest-rea-julgamento#21",
+      "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#108",
+      "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao#107",
+      "tce-pa-2016-x-administrativa-especialidade-adminis#34"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-externo-tribunais-contas",
+     "texto": "Controle externo tribunais contas.",
+     "edital": "P2·DIR 3.1",
+     "massa": 3,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c12-administracao#56"
+     ],
+     "reserva": [
+      "tce-pe-2017-x-analista-gest-rea-julgamento#16",
+      "tce-pa-2016-x-informatica-especialidade-administra#31"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-prestacao-contas-controle",
+     "texto": "Prestacao contas controle.",
+     "edital": "P2·DIR 3.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-x-administrativa-especialidade-arquite#2"
+     ],
+     "reserva": [
+      "tce-pa-2016-x-fiscalizacao-especialidade-administr#31"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-interno-externo-social",
+     "texto": "Controle interno externo social.",
+     "edital": "P2·DIR 3.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c19-tecnico-administrativo-especialidade#54"
+     ],
+     "reserva": [
+      "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#55"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-sistema-controle-interno-integrado",
+     "texto": "Sistema controle interno integrado.",
+     "edital": "P2·DIR 3.1",
+     "massa": 2,
+     "cota": 1,
+     "amostra": [
+      "inpi-2023-cc1#53"
+     ],
+     "reserva": [
+      "tce-pe-2017-x-analista-controle-externo-rea#17"
+     ],
+     "saturou": false
+    }
+   ],
+   "massa": 14,
+   "amostra": 5,
+   "reserva": 9,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#65",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "65",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "O rol de atribuições da CGMJP excetua a apuração da utilização de recursos públicos municipais na prática de atos ilegais por agentes privados.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "tce-ac-2024-c12-administracao#56",
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "item": "56",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 12: ANALISTA MINISTERIAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_012_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_012_01.PDF",
+      "ano": 2024,
+      "enunciado": "A fiscalização contábil da União e das entidades da administração direta e indireta será exercida pelo Congresso Nacional, mediante controle externo.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-externo-tribunais-contas",
+      "nucleo_texto": "Controle externo tribunais contas."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-arquite#2",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-arquite",
+      "item": "2",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 4: auditor de controle externo - área: administrativa - especialidade: arquitetura",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB7_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB7_01.pdf",
+      "ano": 2016,
+      "enunciado": "As contas do prefeito e da prefeitura devem ser prestadas separadamente, uma vez que servem a funções distintas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-prestacao-contas-controle",
+      "nucleo_texto": "Prestacao contas controle."
+     },
+     {
+      "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#54",
+      "prova_id": "tce-ac-2024-c19-tecnico-administrativo-especialidade",
+      "item": "54",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 19: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO ADMINISTRATIVO – ESPECIALIDADE: \r\nINSTRUTIVO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_019_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_019_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os fundamentos do controle interno governamental são de competência exclusiva do Poder Executivo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-externo-social",
+      "nucleo_texto": "Controle interno externo social."
+     },
+     {
+      "k": "inpi-2023-cc1#53",
+      "prova_id": "inpi-2023-cc1",
+      "item": "53",
+      "ref": "Cebraspe INPI 2023 conhecimentos comuns (CC1)",
+      "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+      "ano": 2023,
+      "enunciado": "Os Poderes Executivo, Legislativo e Judiciário deverão instituir e manter sistemas de controle interno de forma separada com fito de aprimoramento e monitoramento da estrutura do Estado.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-sistema-controle-interno-integrado",
+      "nucleo_texto": "Sistema controle interno integrado."
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-pe-2017-x-analista-gest-rea-julgamento#21",
+      "prova_id": "tce-pe-2017-x-analista-gest-rea-julgamento",
+      "item": "21",
+      "ref": "Cebraspe TCE/PE 2017 2017 ·  Caderno de provas - Conhecimentos B�sicos - cargo 5: analista de gest�o � �rea: julgamento",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/332_TCEPE_CB4_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/Gab_Definitivo_332_TCEPE_CB4_01.pdf",
+      "ano": 2017,
+      "enunciado": "Cabe aos responsáveis pelo controle interno dar ciência ao respectivo tribunal de contas de qualquer irregularidade ou ilegalidade de que tenham conhecimento, sob pena de responsabilidade solidária. À luz da Lei n.º 8.429/1992 — Lei de Improbidade Administrativa —, julgue o próximo item.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#108",
+      "prova_id": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "108",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 1: Auditor Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_001_01.PDF",
+      "ano": 2017,
+      "enunciado": "Entre as finalidades dos controles internos, excluem-se a de comprovar a legalidade e a de avaliar os resultados da gestão orçamentária, financeira e patrimonial.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao#107",
+      "prova_id": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao",
+      "item": "107",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 3: Auditor Municipal de Controle Interno – Área: Tecnologia da Informação – Campo de Atuação: Desenvolvimento de Sistemas",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_003_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_003_01.PDF",
+      "ano": 2017,
+      "enunciado": "Ao mencionar que os controles internos devem “avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União”, o inciso I do artigo constitucional em questão mostra-se contraditório com as características descritas pelo COSO ICIF 2013, em que o controle interno é planejado para assegurar tanto o alcance dos objetivos relacionados às operações, quanto a produção de relatórios e a adequação às normas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "tce-pe-2017-x-analista-gest-rea-julgamento#16",
+      "prova_id": "tce-pe-2017-x-analista-gest-rea-julgamento",
+      "item": "16",
+      "ref": "Cebraspe TCE/PE 2017 2017 ·  Caderno de provas - Conhecimentos B�sicos - cargo 5: analista de gest�o � �rea: julgamento",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/332_TCEPE_CB4_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/Gab_Definitivo_332_TCEPE_CB4_01.pdf",
+      "ano": 2017,
+      "enunciado": "O controle externo é exercido pelo Poder Legislativo com auxílio dos tribunais de contas.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-externo-tribunais-contas",
+      "nucleo_texto": "Controle externo tribunais contas."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#55",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "55",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "O controle externo é exercido mediante provocação, ao passo que o controle interno é exercido apenas por iniciativa própria.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-externo-social",
+      "nucleo_texto": "Controle interno externo social."
+     },
+     {
+      "k": "tce-pe-2017-x-analista-controle-externo-rea#17",
+      "prova_id": "tce-pe-2017-x-analista-controle-externo-rea",
+      "item": "17",
+      "ref": "Cebraspe TCE/PE 2017 2017 ·  Caderno de provas - Conhecimentos B�sicos - cargo 3: analista de controle externo � �rea: auditoria de contas p�blicas",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/332_TCEPE_CB2_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/Gab_Definitivo_332_TCEPE_CB2_01.pdf",
+      "ano": 2017,
+      "enunciado": "Em se tratando da avaliação da execução dos programas de governo e dos orçamentos da União, os Poderes Legislativo, Executivo e Judiciário manterão sistema de controle interno de forma integrada.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-sistema-controle-interno-integrado",
+      "nucleo_texto": "Sistema controle interno integrado."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-adminis#34",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "item": "34",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 3: auditor de controle externo - área: administrativa - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB6_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB6_01.pdf",
+      "ano": 2016,
+      "enunciado": "O controle interno situa-se no âmbito do controle administrativo e é exercido, em cada Poder, sobre seus próprios órgãos e entidades. Qualquer irregularidade que seja detectada e não comunicada ao respectivo tribunal de contas acarreta pena de responsabilidade solidária.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "tce-pa-2016-x-informatica-especialidade-administra#31",
+      "prova_id": "tce-pa-2016-x-informatica-especialidade-administra",
+      "item": "31",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 32: auditor de controle externo - área: informática - especialidade: administrador de banco de dados",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB4_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB4_01.pdf",
+      "ano": 2016,
+      "enunciado": "O controle exercido pelos tribunais de contas sobre as casas legislativas é considerado controle interno, haja vista a posição dos tribunais de contas no âmbito do Poder Legislativo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-externo-tribunais-contas",
+      "nucleo_texto": "Controle externo tribunais contas."
+     },
+     {
+      "k": "tce-pa-2016-x-fiscalizacao-especialidade-administr#31",
+      "prova_id": "tce-pa-2016-x-fiscalizacao-especialidade-administr",
+      "item": "31",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 20: auditor de controle externo - área: fiscalização - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB2_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB2_01.pdf",
+      "ano": 2016,
+      "enunciado": "No âmbito do controle externo, estão sujeitas ao dever de prestar contas as pessoas físicas e as pessoas jurídicas que utilizem, guardem, gerenciem ou administrem dinheiros, bens e valores públicos, desde que submetidas a regime de direito público.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-prestacao-contas-controle",
+      "nucleo_texto": "Prestacao contas controle."
+     }
+    ]
+   }
+  },
+  {
+   "k": 2,
+   "nucleos": [
+    {
+     "id": "n-controle-interno-finalidades",
+     "texto": "O controle interno avalia o cumprimento das metas do PPA e a execução dos programas e orçamentos, além do controle contábil, financeiro e orçamentário",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-x-informatica#36"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-fiscalizacao-lrf-controle",
+     "texto": "Fiscalizacao lrf controle.",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "anm-2024-c02-administracao-economia-contabilidade#76"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-apoio-controle-externo",
+     "texto": "Apoio controle externo.",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#58"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-legislativo-executivo",
+     "texto": "Controle legislativo executivo.",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#4"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-interno-cgu-recursos",
+     "texto": "Controle interno cgu recursos.",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c13-direito#65"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 5,
+   "amostra": 5,
+   "reserva": 0,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "tce-pa-2016-x-informatica#36",
+      "prova_id": "tce-pa-2016-x-informatica",
+      "item": "36",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 40: auxiliar técnico de controle externo - área: informática",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB8_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB8_01.pdf",
+      "ano": 2016,
+      "enunciado": "Na administração pública, o controle interno deve restringir-se à fiscalização contábil, financeira e orçamentária.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Restringir-se\" à fiscalização contábil, financeira e orçamentária; inclui metas do PPA",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-controle-interno-finalidades",
+      "nucleo_texto": "O controle interno avalia o cumprimento das metas do PPA e a execução dos programas e orçamentos, além do controle contábil, financeiro e orçamentário"
+     },
+     {
+      "k": "anm-2024-c02-administracao-economia-contabilidade#76",
+      "prova_id": "anm-2024-c02-administracao-economia-contabilidade",
+      "item": "76",
+      "ref": "Cebraspe ANM 24 2024 · CARGO 2: ANALISTA ADMINISTRATIVO – ESPECIALIDADE: ADMINISTRAÇÃO, ECONOMIA, CONTABILIDADE E DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/Gab_Definitivo_038_ANM_002_01.PDF",
+      "ano": 2024,
+      "enunciado": "O Poder Legislativo, diretamente ou com o auxílio dos tribunais de contas, e o sistema de controle interno de cada Poder e do Ministério Público devem fiscalizar o cumprimento da LRF.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-fiscalizacao-lrf-controle",
+      "nucleo_texto": "Fiscalizacao lrf controle."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#58",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "58",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "Cabe ao controle interno apoiar o controle externo na sua missão institucional de zelar pela regular aplicação dos recursos públicos.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-apoio-controle-externo",
+      "nucleo_texto": "Apoio controle externo."
+     },
+     {
+      "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#4",
+      "prova_id": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico",
+      "item": "4",
+      "ref": "Cebraspe TCE RJ 22 PROCURADOR 2022 · CARGO DE PROCURADOR DO MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_22_PROCURADOR/arquivos/788_TCE_RJ_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_22_PROCURADOR/arquivos/GAB_DEFINITIVO_788_TCE_RJ_001_01.PDF",
+      "ano": 2022,
+      "enunciado": "Cabe ao Congresso Nacional fiscalizar e controlar, diretamente ou por qualquer de suas casas, os atos do Poder Executivo, incluídos os da administração indireta.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-legislativo-executivo",
+      "nucleo_texto": "Controle legislativo executivo."
+     },
+     {
+      "k": "tce-ac-2024-c13-direito#65",
+      "prova_id": "tce-ac-2024-c13-direito",
+      "item": "65",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 13: ANALISTA MINISTERIAL – ÁREA: DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_013_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_013_01.PDF",
+      "ano": 2024,
+      "enunciado": "A Controladoria-Geral da União, órgão central do sistema de controle interno do Poder Executivo federal, é responsável pela fiscalização da aplicação de recursos públicos federais repassados, por meio de convênios, aos municípios. No tocante às fontes do direito administrativo, aos atos administrativos e aos agentes públicos, julgue os itens que se seguem.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-cgu-recursos",
+      "nucleo_texto": "Controle interno cgu recursos."
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c12-administracao#56",
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "item": "56",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 12: ANALISTA MINISTERIAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_012_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_012_01.PDF",
+      "ano": 2024,
+      "enunciado": "A fiscalização contábil da União e das entidades da administração direta e indireta será exercida pelo Congresso Nacional, mediante controle externo.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-externo-tribunais-contas",
+      "nucleo_texto": "Controle externo tribunais contas."
+     },
+     {
+      "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#54",
+      "prova_id": "tce-ac-2024-c19-tecnico-administrativo-especialidade",
+      "item": "54",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 19: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO ADMINISTRATIVO – ESPECIALIDADE: \r\nINSTRUTIVO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_019_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_019_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os fundamentos do controle interno governamental são de competência exclusiva do Poder Executivo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-externo-social",
+      "nucleo_texto": "Controle interno externo social."
+     },
+     {
+      "k": "inpi-2023-cc1#53",
+      "prova_id": "inpi-2023-cc1",
+      "item": "53",
+      "ref": "Cebraspe INPI 2023 conhecimentos comuns (CC1)",
+      "url": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/930_INPI_CC1_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/INPI_23/arquivos/GAB_DEFINITIVO_930_INPI_CC1_01.PDF",
+      "ano": 2023,
+      "enunciado": "Os Poderes Executivo, Legislativo e Judiciário deverão instituir e manter sistemas de controle interno de forma separada com fito de aprimoramento e monitoramento da estrutura do Estado.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-sistema-controle-interno-integrado",
+      "nucleo_texto": "Sistema controle interno integrado."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#65",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "65",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "O rol de atribuições da CGMJP excetua a apuração da utilização de recursos públicos municipais na prática de atos ilegais por agentes privados.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-finalidades",
+      "nucleo_texto": "Controle interno finalidades."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-arquite#2",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-arquite",
+      "item": "2",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 4: auditor de controle externo - área: administrativa - especialidade: arquitetura",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB7_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB7_01.pdf",
+      "ano": 2016,
+      "enunciado": "As contas do prefeito e da prefeitura devem ser prestadas separadamente, uma vez que servem a funções distintas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-prestacao-contas-controle",
+      "nucleo_texto": "Prestacao contas controle."
+     }
+    ]
+   }
+  },
+  {
+   "k": 3,
+   "nucleos": [
+    {
+     "id": "n-dir3-controle-recursos-publicos",
+     "texto": "Controle recursos publicos.",
+     "edital": "P2·DIR 3.1",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#106"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-social",
+     "texto": "Controle social.",
+     "edital": "P2·DIR 3.2",
+     "massa": 5,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c14-administracao#59"
+     ],
+     "reserva": [
+      "tce-ac-2024-c19-tecnico-administrativo-especialidade#53",
+      "tce-ac-2024-c13-direito#54",
+      "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#74",
+      "tce-ac-2024-c12-administracao#60"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-jurisdicional-administracao",
+     "texto": "Controle jurisdicional administracao.",
+     "edital": "P2·DIR 3.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-x-administrativa-especialidade-adminis#38"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-administrativo-peticao",
+     "texto": "Controle administrativo peticao.",
+     "edital": "P2·DIR 3.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-x-fiscalizacao-especialidade-administr#34"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-auditoria-controle-gestao",
+     "texto": "Auditoria controle gestao.",
+     "edital": "P2·DIR 3.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#27"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 9,
+   "amostra": 5,
+   "reserva": 4,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#106",
+      "prova_id": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "106",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 1: Auditor Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_001_01.PDF",
+      "ano": 2017,
+      "enunciado": "Aos controles internos compete verificar a utilização dos recursos públicos, mas estão dispensados de analisar recursos administrados por entidades de direito privado, como é o caso de parcerias público-privadas, em que há aplicação de recursos públicos e privados.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-recursos-publicos",
+      "nucleo_texto": "Controle recursos publicos."
+     },
+     {
+      "k": "tce-ac-2024-c14-administracao#59",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "59",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os tribunais de contas e os setores de controle interno são órgãos que exercem controle social por meio dos processos de elaboração, implantação e fiscalização de políticas públicas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-adminis#38",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "item": "38",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 3: auditor de controle externo - área: administrativa - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB6_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB6_01.pdf",
+      "ano": 2016,
+      "enunciado": "A ação civil pública, um dos meios ou instrumentos de controle jurisdicional da administração pública, objetiva proteger os interesses individuais, como, por exemplo, a defesa dos direitos do consumidor.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-jurisdicional-administracao",
+      "nucleo_texto": "Controle jurisdicional administracao."
+     },
+     {
+      "k": "tce-pa-2016-x-fiscalizacao-especialidade-administr#34",
+      "prova_id": "tce-pa-2016-x-fiscalizacao-especialidade-administr",
+      "item": "34",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 20: auditor de controle externo - área: fiscalização - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB2_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB2_01.pdf",
+      "ano": 2016,
+      "enunciado": "O direito de petição configura instrumento de controle administrativo: por meio dele, assegura-se a qualquer pessoa a defesa de direitos, individuais ou coletivos, bem como o direito de peticionar contra ilegalidade ou abuso de poder, perante autoridade administrativa competente de qualquer dos poderes constituídos.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-administrativo-peticao",
+      "nucleo_texto": "Controle administrativo peticao."
+     },
+     {
+      "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#27",
+      "prova_id": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto",
+      "item": "27",
+      "ref": "Cebraspe TCE PB 22 AUDITOR 2022 · CARGO DE AUDITOR – CONSELHEIRO SUBSTITUTO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PB_22_AUDITOR/arquivos/723_TCEPB_AUDITOR_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PB_22_AUDITOR/arquivos/GAB_DEFINITIVO_723_TCEPB_AUDITOR_001_01.PDF",
+      "ano": 2022,
+      "enunciado": "O controle interno realizado por meio de auditoria com a finalidade de acompanhar a execução do orçamento tem por objetivo verificar a legalidade na aplicação do dinheiro público e auxiliar o tribunal de contas no exercício de sua missão institucional.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-auditoria-controle-gestao",
+      "nucleo_texto": "Auditoria controle gestao."
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#53",
+      "prova_id": "tce-ac-2024-c19-tecnico-administrativo-especialidade",
+      "item": "53",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 19: TÉCNICO DE CONTROLE EXTERNO – ÁREA: TÉCNICO ADMINISTRATIVO – ESPECIALIDADE: \r\nINSTRUTIVO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_019_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_019_01.PDF",
+      "ano": 2024,
+      "enunciado": "O controle social deve observar as ações tomadas pelos responsáveis públicos durante sua gestão, verificando a conformidade com os princípios da administração privada.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "TROCA_TERMO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "tce-ac-2024-c13-direito#54",
+      "prova_id": "tce-ac-2024-c13-direito",
+      "item": "54",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 13: ANALISTA MINISTERIAL – ÁREA: DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_013_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_013_01.PDF",
+      "ano": 2024,
+      "enunciado": "O ordenamento jurídico estabelece que o povo, diretamente, pode utilizar-se do controle administrativo para orientar e revisar a atuação administrativa de todos os órgãos, entidades e agentes públicos, em todos os Poderes e níveis de Federação.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#74",
+      "prova_id": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas",
+      "item": "74",
+      "ref": "Cebraspe PREF CACHOEIRO 24 - ADM 2024 · CARGO 7: AUDITOR FISCAL DE POSTURAS",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_CACHOEIRO_24_ADM/arquivos/937_PCI_ADMINISTRATIVO_007_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_CACHOEIRO_24_ADM/arquivos/GAB_DEFINITIVO_937_PCI_ADMINISTRATIVO_007_01.PDF",
+      "ano": 2024,
+      "enunciado": "Além de examinar os valores dos gastos públicos, o objetivo do controle social é analisar a sua economicidade, imparcialidade e racionalidade, e a adequação do atendimento das necessidades da sociedade.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "tce-ac-2024-c12-administracao#60",
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "item": "60",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 12: ANALISTA MINISTERIAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_012_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_012_01.PDF",
+      "ano": 2024,
+      "enunciado": "O controle social, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "anm-2024-c02-administracao-economia-contabilidade#76",
+      "prova_id": "anm-2024-c02-administracao-economia-contabilidade",
+      "item": "76",
+      "ref": "Cebraspe ANM 24 2024 · CARGO 2: ANALISTA ADMINISTRATIVO – ESPECIALIDADE: ADMINISTRAÇÃO, ECONOMIA, CONTABILIDADE E DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/038_ANM_002_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/ANM_24/arquivos/Gab_Definitivo_038_ANM_002_01.PDF",
+      "ano": 2024,
+      "enunciado": "O Poder Legislativo, diretamente ou com o auxílio dos tribunais de contas, e o sistema de controle interno de cada Poder e do Ministério Público devem fiscalizar o cumprimento da LRF.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-fiscalizacao-lrf-controle",
+      "nucleo_texto": "Fiscalizacao lrf controle."
+     },
+     {
+      "k": "tce-ac-2024-c13-direito#65",
+      "prova_id": "tce-ac-2024-c13-direito",
+      "item": "65",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 13: ANALISTA MINISTERIAL – ÁREA: DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_013_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_013_01.PDF",
+      "ano": 2024,
+      "enunciado": "A Controladoria-Geral da União, órgão central do sistema de controle interno do Poder Executivo federal, é responsável pela fiscalização da aplicação de recursos públicos federais repassados, por meio de convênios, aos municípios. No tocante às fontes do direito administrativo, aos atos administrativos e aos agentes públicos, julgue os itens que se seguem.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-interno-cgu-recursos",
+      "nucleo_texto": "Controle interno cgu recursos."
+     },
+     {
+      "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#4",
+      "prova_id": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico",
+      "item": "4",
+      "ref": "Cebraspe TCE RJ 22 PROCURADOR 2022 · CARGO DE PROCURADOR DO MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_22_PROCURADOR/arquivos/788_TCE_RJ_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_RJ_22_PROCURADOR/arquivos/GAB_DEFINITIVO_788_TCE_RJ_001_01.PDF",
+      "ano": 2022,
+      "enunciado": "Cabe ao Congresso Nacional fiscalizar e controlar, diretamente ou por qualquer de suas casas, os atos do Poder Executivo, incluídos os da administração indireta.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-legislativo-executivo",
+      "nucleo_texto": "Controle legislativo executivo."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#58",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "58",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "Cabe ao controle interno apoiar o controle externo na sua missão institucional de zelar pela regular aplicação dos recursos públicos.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-apoio-controle-externo",
+      "nucleo_texto": "Apoio controle externo."
+     },
+     {
+      "k": "tce-pa-2016-x-informatica#36",
+      "prova_id": "tce-pa-2016-x-informatica",
+      "item": "36",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 40: auxiliar técnico de controle externo - área: informática",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB8_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB8_01.pdf",
+      "ano": 2016,
+      "enunciado": "Na administração pública, o controle interno deve restringir-se à fiscalização contábil, financeira e orçamentária.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "ABSOLUTO"
+      ],
+      "padrao": "\"Restringir-se\" à fiscalização contábil, financeira e orçamentária; inclui metas do PPA",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-controle-interno-finalidades",
+      "nucleo_texto": "O controle interno avalia o cumprimento das metas do PPA e a execução dos programas e orçamentos, além do controle contábil, financeiro e orçamentário"
+     }
+    ]
+   }
+  },
+  {
+   "k": 4,
+   "nucleos": [
+    {
+     "id": "n-dir3-controle-gestao-resultados",
+     "texto": "Controle gestao resultados.",
+     "edital": "P2·DIR 3.2",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c12-administracao#57"
+     ],
+     "reserva": [],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-autonomia-controle-externo",
+     "texto": "Autonomia controle externo.",
+     "edital": "P2·DIR 3.3",
+     "massa": 5,
+     "cota": 1,
+     "amostra": [
+      "tce-ac-2024-c17-direito#100"
+     ],
+     "reserva": [
+      "cnmp-2023-c07-apoio-tecnico-especializado-especial#73",
+      "tce-pe-2017-x-analista-gest-rea-administra#18",
+      "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#57",
+      "tce-pe-2017-x-analista-gest-rea-administra#22"
+     ],
+     "saturou": false
+    },
+    {
+     "id": "n-dir3-controle-externo-sancoes",
+     "texto": "Controle externo sancoes.",
+     "edital": "P2·DIR 3.4",
+     "massa": 1,
+     "cota": 1,
+     "amostra": [
+      "tce-pa-2016-x-administrativa-especialidade-adminis#33"
+     ],
+     "reserva": [],
+     "saturou": false
+    }
+   ],
+   "massa": 7,
+   "amostra": 3,
+   "reserva": 4,
+   "cadernos": {
+    "B1": [
+     {
+      "k": "tce-ac-2024-c12-administracao#57",
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "item": "57",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 12: ANALISTA MINISTERIAL – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_012_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_012_01.PDF",
+      "ano": 2024,
+      "enunciado": "O controle externo consiste no conjunto de atividades, planos, métodos e procedimentos interligados utilizados para assegurar que os objetivos dos órgãos e das entidades da administração pública sejam alcançados.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-gestao-resultados",
+      "nucleo_texto": "Controle gestao resultados."
+     },
+     {
+      "k": "tce-ac-2024-c17-direito#100",
+      "prova_id": "tce-ac-2024-c17-direito",
+      "item": "100",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 17: AUDITOR DE CONTROLE EXTERNO – ÁREA: DIREITO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_017_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_017_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os trabalhos de auditoria realizados em órgãos do Poder Executivo federal pelo Tribunal de Contas da União são considerados atos de controle interno.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.3",
+      "nucleo": "n-dir3-autonomia-controle-externo",
+      "nucleo_texto": "Autonomia controle externo."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-adminis#33",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "item": "33",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 3: auditor de controle externo - área: administrativa - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB6_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB6_01.pdf",
+      "ano": 2016,
+      "enunciado": "No exercício de suas funções sancionatórias, o TCE/PA poderá aplicar ao responsável por contas consideradas irregulares a penalidade de inabilitação, por prazo determinado, para o exercício de cargo em comissão ou função de confiança na administração estadual.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.4",
+      "nucleo": "n-dir3-controle-externo-sancoes",
+      "nucleo_texto": "Controle externo sancoes."
+     }
+    ],
+    "C1": [
+     {
+      "k": "tce-ac-2024-c14-administracao#59",
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "item": "59",
+      "ref": "Cebraspe TCE_AC_24 2024 · CARGO 14: AUDITOR DE CONTROLE EXTERNO – ÁREA: ADMINISTRAÇÃO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_014_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_014_01.PDF",
+      "ano": 2024,
+      "enunciado": "Os tribunais de contas e os setores de controle interno são órgãos que exercem controle social por meio dos processos de elaboração, implantação e fiscalização de políticas públicas.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-social",
+      "nucleo_texto": "Controle social."
+     },
+     {
+      "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#73",
+      "prova_id": "cnmp-2023-c07-apoio-tecnico-especializado-especial",
+      "item": "73",
+      "ref": "Cebraspe CNMP 23 2023 · Cargo 7: Analista do CNMP – Área: Apoio Técnico Especializado – Especialidade: Gestão Pública",
+      "url": "https://cdn.cebraspe.org.br/concursos/CNMP_23/arquivos/814_CNMP_007_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/CNMP_23/arquivos/GAB_DEFINITIVO_814_CNMP_007_01.PDF",
+      "ano": 2023,
+      "enunciado": "O controle externo, como o exercido pela CGU, ocorre quando o órgão controlador não integra a estrutura do órgão controlado e, nesse caso, é justificado porque a CGU não integra nenhum dos ministérios fiscalizados, mas sim a estrutura da Presidência da República.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.3",
+      "nucleo": "n-dir3-autonomia-controle-externo",
+      "nucleo_texto": "Autonomia controle externo."
+     },
+     {
+      "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#27",
+      "prova_id": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto",
+      "item": "27",
+      "ref": "Cebraspe TCE PB 22 AUDITOR 2022 · CARGO DE AUDITOR – CONSELHEIRO SUBSTITUTO",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PB_22_AUDITOR/arquivos/723_TCEPB_AUDITOR_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PB_22_AUDITOR/arquivos/GAB_DEFINITIVO_723_TCEPB_AUDITOR_001_01.PDF",
+      "ano": 2022,
+      "enunciado": "O controle interno realizado por meio de auditoria com a finalidade de acompanhar a execução do orçamento tem por objetivo verificar a legalidade na aplicação do dinheiro público e auxiliar o tribunal de contas no exercício de sua missão institucional.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-auditoria-controle-gestao",
+      "nucleo_texto": "Auditoria controle gestao."
+     },
+     {
+      "k": "tce-pe-2017-x-analista-gest-rea-administra#18",
+      "prova_id": "tce-pe-2017-x-analista-gest-rea-administra",
+      "item": "18",
+      "ref": "Cebraspe TCE/PE 2017 2017 ·  Caderno de provas - Conhecimentos B�sicos - cargo 4: analista de gest�o � �rea: administra��o",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/332_TCEPE_CB3_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/Gab_Definitivo_332_TCEPE_CB3_01.pdf",
+      "ano": 2017,
+      "enunciado": "Conforme a Constituição Federal de 1988, o sistema de controle interno de cada Poder deve apoiar o controle externo no exercício de sua função, razão por que o controle interno é subordinado ao controle externo.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.3",
+      "nucleo": "n-dir3-autonomia-controle-externo",
+      "nucleo_texto": "Autonomia controle externo."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#57",
+      "prova_id": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "57",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 4: Técnico Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_004_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_004_01.PDF",
+      "ano": 2017,
+      "enunciado": "Compete ao controle interno auxiliar o Poder Legislativo no julgamento das contas prestadas anualmente pelo presidente da República.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "INVERSAO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.3",
+      "nucleo": "n-dir3-autonomia-controle-externo",
+      "nucleo_texto": "Autonomia controle externo."
+     },
+     {
+      "k": "tce-pe-2017-x-analista-gest-rea-administra#22",
+      "prova_id": "tce-pe-2017-x-analista-gest-rea-administra",
+      "item": "22",
+      "ref": "Cebraspe TCE/PE 2017 2017 ·  Caderno de provas - Conhecimentos B�sicos - cargo 4: analista de gest�o � �rea: administra��o",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/332_TCEPE_CB3_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PE_17/arquivos/Gab_Definitivo_332_TCEPE_CB3_01.pdf",
+      "ano": 2017,
+      "enunciado": "Conforme previsto na Constituição Federal de 1988, o controle externo é competência do Poder Legislativo, que o exerce mediante auxílio do Tribunal de Contas da União, órgão subordinado àquele Poder. À luz das disposições da Lei n.º 8.429/1992 — Lei de Improbidade Administrativa — e suas alterações, julgue os itens a seguir.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.3",
+      "nucleo": "n-dir3-autonomia-controle-externo",
+      "nucleo_texto": "Autonomia controle externo."
+     },
+     {
+      "k": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra#106",
+      "prova_id": "pref-jp-cgm-2017-c01-auditoria-fiscalizacao-ouvidoria-tra",
+      "item": "106",
+      "ref": "Cebraspe CGM JOÃOPESSOA/PB 2017 2017 · Cargo 1: Auditor Municipal de Controle Interno – Área: Auditoria, Fiscalização, Ouvidoria e Transparência – Campo de Atuação: Geral",
+      "url": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/356_PMJPCGM_001_01.PDF",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/PREF_JP_17_CGM/arquivos/GAB_DEFINITIVO_356_PMJPCGM_001_01.PDF",
+      "ano": 2017,
+      "enunciado": "Aos controles internos compete verificar a utilização dos recursos públicos, mas estão dispensados de analisar recursos administrados por entidades de direito privado, como é o caso de parcerias público-privadas, em que há aplicação de recursos públicos e privados.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "EXCECAO_OMITIDA"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.1",
+      "nucleo": "n-dir3-controle-recursos-publicos",
+      "nucleo_texto": "Controle recursos publicos."
+     },
+     {
+      "k": "tce-pa-2016-x-administrativa-especialidade-adminis#38",
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "item": "38",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 3: auditor de controle externo - área: administrativa - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB6_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB6_01.pdf",
+      "ano": 2016,
+      "enunciado": "A ação civil pública, um dos meios ou instrumentos de controle jurisdicional da administração pública, objetiva proteger os interesses individuais, como, por exemplo, a defesa dos direitos do consumidor.",
+      "gabarito": "E",
+      "nivel": "medio",
+      "tags": [
+       "CONCEITO_MISTURADO"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-jurisdicional-administracao",
+      "nucleo_texto": "Controle jurisdicional administracao."
+     },
+     {
+      "k": "tce-pa-2016-x-fiscalizacao-especialidade-administr#34",
+      "prova_id": "tce-pa-2016-x-fiscalizacao-especialidade-administr",
+      "item": "34",
+      "ref": "Cebraspe TCE/PA 2016 2016 ·  Caderno de provas - Conhecimentos Básicos - cargo 20: auditor de controle externo - área: fiscalização - especialidade: administração",
+      "url": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/251TCEPA_CB2_01.pdf",
+      "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_PA_16/arquivos/Gab_Definitivo_251TCEPA_CB2_01.pdf",
+      "ano": 2016,
+      "enunciado": "O direito de petição configura instrumento de controle administrativo: por meio dele, assegura-se a qualquer pessoa a defesa de direitos, individuais ou coletivos, bem como o direito de peticionar contra ilegalidade ou abuso de poder, perante autoridade administrativa competente de qualquer dos poderes constituídos.",
+      "gabarito": "C",
+      "nivel": "medio",
+      "tags": [
+       "NORMA_LITERAL"
+      ],
+      "padrao": "O item explora a distinção e as finalidades dos controles público interno, externo e social.",
+      "edital": "P2·DIR 3.2",
+      "nucleo": "n-dir3-controle-administrativo-peticao",
+      "nucleo_texto": "Controle administrativo peticao."
+     }
+    ]
+   }
+  }
+ ]
+}

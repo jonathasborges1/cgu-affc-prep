@@ -1,0 +1,70 @@
+{"id": "n-sim-01-csrf", "texto": "CSRF: definição (ideia simulada 1)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-02-csrf", "texto": "CSRF: defesa (ideia simulada 2)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-03-csrf", "texto": "CSRF: troca de pilar (CIA) (ideia simulada 3)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-04-xss", "texto": "XSS: definição (ideia simulada 4)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-05-xss", "texto": "XSS: defesa (ideia simulada 5)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-06-xss", "texto": "XSS: troca de pilar (CIA) (ideia simulada 6)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-07-sql-injection", "texto": "SQL injection: definição (ideia simulada 7)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-08-sql-injection", "texto": "SQL injection: defesa (ideia simulada 8)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-09-sql-injection", "texto": "SQL injection: troca de pilar (CIA) (ideia simulada 9)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-10-ldap-injection", "texto": "LDAP injection: definição (ideia simulada 10)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-11-ldap-injection", "texto": "LDAP injection: defesa (ideia simulada 11)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-12-ldap-injection", "texto": "LDAP injection: troca de pilar (CIA) (ideia simulada 12)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-13-ddos", "texto": "DDoS: definição (ideia simulada 13)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-14-ddos", "texto": "DDoS: defesa (ideia simulada 14)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-15-ddos", "texto": "DDoS: troca de pilar (CIA) (ideia simulada 15)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-16-ssrf", "texto": "SSRF: definição (ideia simulada 16)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-17-ssrf", "texto": "SSRF: defesa (ideia simulada 17)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-18-ssrf", "texto": "SSRF: troca de pilar (CIA) (ideia simulada 18)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-19-xxe", "texto": "XXE: definição (ideia simulada 19)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-20-xxe", "texto": "XXE: defesa (ideia simulada 20)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-21-xxe", "texto": "XXE: troca de pilar (CIA) (ideia simulada 21)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-22-idor", "texto": "IDOR: definição (ideia simulada 22)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-23-idor", "texto": "IDOR: defesa (ideia simulada 23)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-24-idor", "texto": "IDOR: troca de pilar (CIA) (ideia simulada 24)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-25-jwt", "texto": "JWT: definição (ideia simulada 25)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-26-jwt", "texto": "JWT: defesa (ideia simulada 26)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-27-jwt", "texto": "JWT: troca de pilar (CIA) (ideia simulada 27)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-28-oauth-20", "texto": "OAuth 2.0: definição (ideia simulada 28)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-29-oauth-20", "texto": "OAuth 2.0: defesa (ideia simulada 29)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-30-oauth-20", "texto": "OAuth 2.0: troca de pilar (CIA) (ideia simulada 30)", "edital": "P3·SEG 1.1"}
+{"id": "n-sim-31-cors", "texto": "CORS: definição (ideia simulada 31)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-32-cors", "texto": "CORS: defesa (ideia simulada 32)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-33-cors", "texto": "CORS: troca de pilar (CIA) (ideia simulada 33)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-34-csp", "texto": "CSP: definição (ideia simulada 34)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-35-csp", "texto": "CSP: defesa (ideia simulada 35)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-36-csp", "texto": "CSP: troca de pilar (CIA) (ideia simulada 36)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-37-tls", "texto": "TLS: definição (ideia simulada 37)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-38-tls", "texto": "TLS: defesa (ideia simulada 38)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-39-tls", "texto": "TLS: troca de pilar (CIA) (ideia simulada 39)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-40-sast", "texto": "SAST: definição (ideia simulada 40)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-41-sast", "texto": "SAST: defesa (ideia simulada 41)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-42-sast", "texto": "SAST: troca de pilar (CIA) (ideia simulada 42)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-43-dast", "texto": "DAST: definição (ideia simulada 43)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-44-dast", "texto": "DAST: defesa (ideia simulada 44)", "edital": "P3·SEG 1.2"}
+{"id": "n-sim-45-dast", "texto": "DAST: troca de pilar (CIA) (ideia simulada 45)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-46-sca", "texto": "SCA: definição (ideia simulada 46)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-47-sca", "texto": "SCA: defesa (ideia simulada 47)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-48-sca", "texto": "SCA: troca de pilar (CIA) (ideia simulada 48)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-49-waf", "texto": "WAF: definição (ideia simulada 49)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-50-waf", "texto": "WAF: defesa (ideia simulada 50)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-51-waf", "texto": "WAF: troca de pilar (CIA) (ideia simulada 51)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-52-fuzzing", "texto": "Fuzzing: definição (ideia simulada 52)", "edital": "P3·SEG 1.3"}
+{"id": "n-sim-53-fuzzing", "texto": "Fuzzing: defesa (ideia simulada 53)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-54-fuzzing", "texto": "Fuzzing: troca de pilar (CIA) (ideia simulada 54)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-55-hardening", "texto": "Hardening: definição (ideia simulada 55)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-56-hardening", "texto": "Hardening: defesa (ideia simulada 56)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-57-hardening", "texto": "Hardening: troca de pilar (CIA) (ideia simulada 57)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-58-mfa", "texto": "MFA: definição (ideia simulada 58)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-59-mfa", "texto": "MFA: defesa (ideia simulada 59)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-60-mfa", "texto": "MFA: troca de pilar (CIA) (ideia simulada 60)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-61-gestão-de-segredos", "texto": "Gestão de segredos: definição (ideia simulada 61)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-62-gestão-de-segredos", "texto": "Gestão de segredos: defesa (ideia simulada 62)", "edital": "P3·SEG 1.4"}
+{"id": "n-sim-63-gestão-de-segredos", "texto": "Gestão de segredos: troca de pilar (CIA) (ideia simulada 63)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-64-log-e-monitoramento", "texto": "Log e monitoramento: definição (ideia simulada 64)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-65-log-e-monitoramento", "texto": "Log e monitoramento: defesa (ideia simulada 65)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-66-log-e-monitoramento", "texto": "Log e monitoramento: troca de pilar (CIA) (ideia simulada 66)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-67-controle-de-acesso", "texto": "Controle de acesso: definição (ideia simulada 67)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-68-controle-de-acesso", "texto": "Controle de acesso: defesa (ideia simulada 68)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-69-controle-de-acesso", "texto": "Controle de acesso: troca de pilar (CIA) (ideia simulada 69)", "edital": "P3·SEG 1.6"}
+{"id": "n-sim-70-desserialização", "texto": "Desserialização: definição (ideia simulada 70)", "edital": "P3·SEG 1.6"}

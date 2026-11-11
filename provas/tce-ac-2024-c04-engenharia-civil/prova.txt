@@ -1,0 +1,348 @@
+                                   -- CONHECIMENTO
+Em relação a planejamento de projetos e obras, julgue os itens a
+seguir.
+51 O projeto básico de terraplenagem para edificação deve
+   apresentar o detalhamento das soluções de terraplenagem
+   para a implantação da edificação e conter todas as
+   especificações de construção necessárias à execução da
+   terraplenagem.
+52 O projeto básico de estrutura metálica deve estar
+   harmonizado com os projetos de arquitetura, estrutura de
+   concreto, fundações e demais instalações.
+53   No projeto de sistema predial de esgoto sanitário estão os
+     seguintes objetivos gerais: impedir que os gases provenientes
+     do interior do sistema predial de esgoto sanitário atinjam
+     áreas de utilização; impossibilitar o acesso de corpos
+     estranhos ao interior do sistema; permitir que os seus
+     componentes sejam facilmente inspecionáveis.
+54   Em projetos e execuções de fundações, os ensaios
+     complementares de laboratório visam classificar o solo e
+     determinar parâmetros de resistência, de deformabilidade e
+     de permeabilidade, sendo os mais comuns, conforme a
+     norma brasileira de referência, os de cone, de palheta, de
+     cisalhamento direto e de adensamento.
+
+Julgue os próximos itens, a respeito da análise e interpretação de
+editais de licitação, contratos e aditivos contratuais.
+55   O contrato de uma obra de reforma de um edifício público
+     poderá     ser   alterado     tanto    quantitativa   quanto
+     qualitativamente, de forma unilateral, pela administração
+     pública, desde que as alterações não transfigurem o objeto da
+     contratação e observem o limite de acréscimos e supressões
+     de 50% do valor contratado atualizado.
+56   Entre as situações que justificam a extinção de um contrato,
+     que deverá ser formalmente motivada nos autos do processo,
+     assegurados o contraditório e a ampla defesa, está o não
+     cumprimento ou cumprimento irregular de normas editalícias
+     ou de cláusulas contratuais, de especificações, de projetos ou
+     de prazos.
+57   De acordo com a Lei n.º 14.133/2021, o pregão é uma
+     modalidade de licitação que pode ser usada para a
+     contratação de obras, sendo obrigatório para a aquisição de
+     bens e serviços comuns; nesse caso, o critério de julgamento
+     poderá ser o de menor preço ou o de maior desconto.
+58   Como regra geral, a execução de um serviço na obra deve
+     possuir lastro contratual e as alterações contratuais, mediante
+     formalização de aditivos de serviços, devem ocorrer antes da
+     autorização e execução dos serviços na obra, ainda que não
+     haja pagamento antecipado.
+59   No regime de empreitada por preço global, exige-se que o
+     projeto licitado permita o levantamento dos quantitativos
+     com elevada acurácia, bem como que contenha um
+     detalhamento completo de todos os componentes da obra, a
+     fim de que haja uma incerteza mínima na orçamentação da
+     obra.
+
+                            CEBRASPE – TCEAC – Edital: 2024
+
+OS ESPECÍFICOS --
+ No que se refere à fiscalização de obras e serviços, julgue os itens
+ a seguir.
+ 60   Conforme disposto na Lei n.º 14.133/2021, em caso de
+      ordem de paralisação ou suspensão do contrato de uma obra,
+      o cronograma de execução será prorrogado automaticamente
+      pelo tempo correspondente ao que a obra ficar paralisada.
+ 61   De acordo com a Lei n.º 14.133/2021, o responsável pela
+      fiscalização de uma obra pode autorizar a medição de
+      determinados serviços que não tenham sido executados ou
+      tenham sido concluídos parcialmente em determinado mês,
+      desde que, no mês seguinte, ocorra a execução completa dos
+      serviços medidos no mês anterior.
+ 62   Para resultados de sondagens de simples reconhecimento
+      com SPT, o índice de resistência à penetração é expresso
+      como a soma do número de golpes requeridos para a segunda
+      e terceira etapas de penetração de 15 cm, adotando-se os
+      números obtidos nessas etapas mesmo quando a penetração
+      não tiver sido de exatos 15 cm.
+ 63   Para o controle da entrada e saída de equipamentos do
+      canteiro de obras, dos serviços em andamento, do efetivo de
+      pessoal e das condições climáticas, exige-se da contratada a
+      elaboração de relatórios semanais (livro de obra).
+ 64   Em obras de edificações, o controle tecnológico é obrigatório
+      na execução: de aterros para suporte de fundações,
+      pavimentos ou estruturas de contenção; de aterros com
+      alturas superiores a 1 m; e de aterros com volumes
+      superiores a 1.000 m3.
+ 65   Antes do início da execução das estruturas de concreto,
+      recomenda-se a realização de uma análise preliminar de
+      risco, com vistas à identificação de riscos tanto no ambiente
+      interno quanto no ambiente externo à obra, e à avaliação da
+      necessidade de ações para eliminar problemas potenciais ou
+      para evitar a recorrência de problemas já observados em
+      outras obras.
+
+ A respeito dos princípios e conceitos envolvidos nas licitações de
+ obras públicas, julgue os itens a seguir.
+ 66   Encerradas as fases de julgamento e habilitação, o processo
+      licitatório será encaminhado à autoridade superior, que
+      procederá, de ofício, à anulação da licitação, caso haja
+      ilegalidade insanável.
+ 67   No regime de contratação semi-integrada de uma obra
+      pública, o contratado é responsável por elaborar e
+      desenvolver o projeto executivo, além de executar os
+      procedimentos necessários e suficientes para a entrega final
+      da obra.
+ 68   A licitação na modalidade maior desconto é aquela em que o
+      certame é vencido pela licitante que apresentar o maior
+      desconto em relação ao preço estimado pela administração.
+ 69   É vedada à administração a contratação de execução de obras
+      de engenharia pelo sistema de registro de preços, a fim de
+      que os princípios da eficiência, da competitividade e da
+      isonomia sejam observados.
+ 70   A licitação é dispensável quando a competição é inviável,
+      como no caso da contratação de equipe de fiscalização de
+      obras públicas.
+
+Acerca dos contratos administrativos de obras públicas, julgue os
+itens que se seguem.
+71 Quando constatada a necessidade de modificação do regime
+     de execução de uma obra pública, decorrente de verificação
+     técnica da inaplicabilidade dos termos originalmente
+     avençados, o contrato poderá ser alterado unilateralmente
+     pela administração.
+72 No caso de necessidade de aditamento para término de uma
+     obra pública dentro dos limites legais, os preços unitários
+     dos itens a serem acrescentados e não previstos no contrato
+     serão fixados por meio da aplicação da relação geral entre os
+     valores apresentados pelo contratado e o do orçamento-base
+     da administração sobre os preços de referência vigentes na
+     data do aditamento.
+73 É facultada à administração a possibilidade de que uma
+     seguradora assuma a execução e a conclusão de uma obra
+     pública, desde que prevista em edital a exigência de
+     prestação de garantia na modalidade seguro-garantia.
+74 No caso de uma obra pública recém-concluída que apresente
+     vazamento no sistema hidráulico, comprovadamente
+     ocasionado por má-fé de um empregado, o contratado está
+     desobrigado de corrigir o defeito a suas expensas, devendo a
+     administração arcar com essa despesa, movendo ação
+     regressa contra aquele empregado.
+       Durante a realização das escavações para a construção de
+uma garagem subterrânea em uma obra pública, percebeu-se a
+necessidade de se escorar o terreno, pois as edificações
+adjacentes começaram a apresentar trincas e fissuras. Contudo,
+esse serviço não estava previsto no contrato.
+Considerando a situação hipotética precedente, julgue os itens
+subsequentes.
+75 Em função da justificada necessidade de antecipação de seus
+    efeitos, uma vez que há riscos às construções vizinhas, o
+    contratado poderá iniciar os serviços de escoramento sem a
+    formalização do termo aditivo, que deverá ocorrer no prazo
+    máximo de um mês.
+76 Caso se comprove que a ausência de previsão do serviço de
+    escoramento decorra de falha de projeto, que ensejará
+    necessária alteração contratual, o responsável técnico pelo
+    projeto poderá ser responsabilizado, e providências para o
+    ressarcimento dos danos à administração deverão ser
+    adotadas.
+Em relação à avaliação de custos de uma obra pública, desde a
+etapa de planejamento até sua execução completa, julgue os
+próximos itens.
+77 Para a obtenção do orçamento de uma obra, o cálculo dos
+    encargos sociais deve considerar seguros, administração
+    central e tributos a serem pagos à construtora contratada.
+78 O orçamento sintético contempla as composições analíticas
+    dos serviços necessários à execução de uma obra,
+    apresentando a relação completa dos insumos, o que
+    possibilita a avaliação dos gastos com mão de obra, materiais
+    e equipamentos empregados na construção.
+79 A ausência de aditivo para contemplar alterações no
+    cronograma físico-financeiro previamente aprovado constitui
+    uma irregularidade concernente à execução contratual.
+80 A taxa de benefício e despesas indiretas (BDI), que
+    contempla a remuneração da empresa construtora e suas
+    despesas indiretas, deve ser aplicada sobre o custo direto
+    total para a obtenção do preço final estimado para a obra.
+
+                          CEBRASPE – TCEAC – Edital: 2024
+A análise e a compatibilização de projetos são etapas cruciais no
+processo de construção de edificações. Nesse sentido, julgue os
+itens subsequentes.
+81 Atrasos no cronograma e riscos de segurança da edificação
+   são problemas gerados pela falta de análise e
+   compatibilização do projeto.
+82 O uso da ferramenta BIM (Building Information Modeling)
+   promove a integração de diferentes disciplinas de projeto,
+   facilitando na detecção de conflitos.
+Julgue os itens a seguir, relativos ao licenciamento ambiental,
+com base na Resolução CONAMA n.º 237/1997.
+83 A renovação da licença de operação para atividade de
+   beneficiamento de borracha natural deve ser requerida pelo
+   empreendedor com antecedência mínima de sessenta dias da
+   expiração do prazo de validade da respectiva licença.
+84 No caso hipotético da implantação de uma rodovia no Acre,
+   cujo traçado adentre o Parque Nacional da Serra do
+   Divisor,    o     licenciamento    ambiental      seria de
+   responsabilidade do IBAMA.
+85 Para atividade de lavra de material radioativo em área
+   situada em apenas um estado da Federação, o licenciamento
+   será emitido pelo órgão estadual competente.
+Com relação ao estudo de impacto ambiental (EIA) e ao relatório
+de impacto ambiental (RIMA), segundo a Resolução CONAMA
+n.º 001/1986, julgue os itens subsecutivos.
+86 O RIMA apresenta critérios para a identificação e
+   quantificação dos impactos ambientais gerados pela
+   implantação e operação de um aterro sanitário.
+87 No desenvolvimento do EIA, o grau de severidade do
+   impacto ambiental faz parte da atividade de diagnóstico da
+   área de influência do empreendimento a ser licenciado.
+88 O licenciamento ambiental para a construção de um porto
+   fluvial na cidade de Rio Branco estará condicionado à
+   apresentação de EIA/RIMA.
+Com base na Lei de Crime Ambiental (Lei n.º 9.605/1998),
+julgue os itens seguintes.
+89 A exploração de madeira de espécie nativa em área de
+   preservação permanente com autorização do órgão
+   competente atende à Lei n.º 9.605/1998.
+90 A exploração de rocha granítica, sem a devida licença de
+   operação, configura-se como crime ambiental, com pena
+   prevista de detenção, de seis meses a um ano, e multa.
+Acerca da Lei n.º 14.133/2021 e suas alterações, julgue os itens
+a seguir.
+91 A empreitada por preço global foi substituída pela
+   contratação por tarefa.
+92 A modalidade contratação integrada, onde a contratada se
+   responsabiliza pelos projetos e todas as etapas da obra, é
+   obrigatória para empreendimentos acima de 10 milhões.
+Julgue os próximos itens, relativos às concessões, segundo a Lei
+n.º 8.987/1995.
+93 Os contratos de concessões permitem delegar os serviços
+   públicos, porém não transferem a titularidade desses serviços
+   para o concessionário.
+94 A permissão de serviços públicos é outorgada a título
+   precário, dispensando o processo licitatório.
+
+Julgue o item subsequente, referente às                   parcerias
+público-privadas, regidas pela Lei n.º 11.079/2004.
+95   A concessão patrocinada envolve a prestação de serviços
+     públicos ou de interesse público em que a remuneração do
+     parceiro privado ocorre exclusivamente por meio de tarifas
+     cobradas dos usuários.
+Julgue os itens a seguir, com base na legislação pertinente à
+administração de contratos.
+96  As despesas referentes a serviços sustentáveis podem ter a
+    ordem cronológica de pagamento alterada pela
+    administração, mediante prévia justificativa da autoridade
+    competente.
+97 O regime de execução é uma cláusula necessária em todo
+    contrato de obra.
+98 Apenas os contratos com prazo de duração superior a 1 ano
+    deverão conter cláusula que estabeleça o índice de
+    reajustamento de preço, com data-base vinculada à data do
+    orçamento estimado.
+99 A divulgação no Portal Nacional de Contratações Públicas é
+    condição indispensável para a eficácia do contrato e seus
+    aditamentos.
+100 Nos contratos de obras e serviços de engenharia, sempre que
+    compatível com o regime de execução, a medição será
+    mensal.
+101 Nas contratações de obras de grande vulto, poderá ser
+    exigida a prestação de garantia, em percentual equivalente a
+    até 10% do valor inicial do contrato.
+A respeito do controle e acompanhamento de execução de
+contratos de obras e serviços, julgue os próximos itens.
+102 O objeto do contrato será recebido, em se tratando de obras,
+    provisoriamente,      definitivamente     e     pendente      de
+    regularização.
+103 O quantitativo de contratos por agente público e a
+    complexidade da fiscalização deverão ser considerados na
+    designação para o exercício da função de fiscal de contrato
+    de obras.
+104 A fiscalização técnica de uma obra faz o acompanhamento
+    dos aspectos administrativos contratuais quanto às
+    obrigações previdenciárias, fiscais e trabalhistas.
+105 Uma das atividades do gestor do contrato de obras é realizar
+    o recebimento definitivo do objeto do contrato.
+106 Em uma execução de obras, o atraso na liberação de área
+    sujeita a desapropriação constitui motivo para a extinção do
+    contrato.
+107 Na execução contratual de obras, a administração tem prazo
+    de até 15 dias úteis para as decisões sobre as solicitações e as
+    reclamações.
+Julgue os itens subsecutivos, acerca dos pagamentos relativos às
+obras públicas.
+108 Em se tratando de empresa de pequeno porte, desde que
+    demonstrado o risco de descontinuidade do cumprimento do
+    objeto do contrato, a ordem cronológica de pagamento pela
+    administração pública poderá ser alterada, mediante prévia
+    justificativa da autoridade competente e posterior
+    comunicação ao órgão de controle interno da administração e
+    ao tribunal de contas competente.
+109 O pagamento da despesa será efetuado após sua regular
+    liquidação e emissão de ordem de pagamento.
+
+                          CEBRASPE – TCEAC – Edital: 2024
+Em relação ao reajustamento de preços em contratos de obras
+públicas, julgue os itens a seguir.
+110 Os reajustes de preços, mesmo os previstos no próprio
+    contrato, implicam variação do valor contratual, o que
+    caracteriza uma necessidade de alteração contratual por
+    termo aditivo.
+111 Nos casos em que o índice de reajustamento previsto em
+    contrato não refletir a variação ponderada dos custos de
+    insumos utilizados em determinado tipo de obra, as cláusulas
+    monetárias poderão ser alteradas, unilateralmente, pela
+    administração pública, sem prévia concordância do
+    contratado.
+
+       Um servidor público, ocupante do cargo de
+engenheiro civil, foi designado para acompanhar e fiscalizar a
+obra de construção da nova sede do órgão público em que ele
+trabalha, tendo sido a contratação da obra realizada pelo regime
+de execução semi-integrada.
+A partir dessa situação hipotética, julgue os itens a seguir, a
+respeito da fiscalização e documentação de obras e serviços de
+engenharia.
+112 O recebimento da obra será realizado, provisoriamente, pelo
+    fiscal, mediante termo detalhado, quando verificado o
+    cumprimento das exigências de caráter técnico.
+113 Por ser o fiscal da obra em tela servidor público e, por isso,
+    detentor de anotação de responsabilidade técnica (ART) de
+    cargo e função, é dispensável a emissão da ART de
+    fiscalização.
+114 Devido ao regime de contratação em questão, o contratado é
+    responsável tanto pela execução da obra quanto pela
+    elaboração do projeto básico e do executivo, que, nesse caso,
+    deverão ser examinados e recebidos pelo fiscal, antes do
+    início da obra.
+115 Para prevenir riscos na execução contratual, o fiscal do
+    contrato poderá ser auxiliado pelos órgãos de
+    assessoramento jurídico e de controle interno do órgão
+    público responsável pela contratação.
+116 O engenheiro detentor do acervo apresentado na licitação
+    deve ser mantido durante a execução da obra, pois a troca
+    por outro profissional só é possível se aprovada pela
+    administração pública.
+117 No regime de contratação em tela, em regra, não são
+    permitidos aditivos por variação de quantitativos.
+118 Eventual atraso injustificado no início da obra constitui
+    motivo para rescisão amigável do contrato, por acordo entre
+    as partes e desde que por conveniência da administração
+    pública, manifestada a concordância do fiscal.
+119 Caso sejam verificados, durante a execução da obra, defeitos
+    decorrentes dos materiais empregados, o fiscal deverá
+    providenciar os aditivos contratuais necessários para a
+    aquisição de novos materiais.
+120 No regime de execução semi-integrada, a medição é feita por
+    etapas, conforme cronograma físico-financeiro.
+

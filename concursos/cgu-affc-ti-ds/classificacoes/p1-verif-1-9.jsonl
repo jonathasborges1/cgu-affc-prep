@@ -1,0 +1,50 @@
+{"id": "v1-9-01", "codigo": "P1·ADM 1", "rel": "alta", "motivo": "administração direta da União composição"}
+{"id": "v1-9-02", "codigo": "P1·ADM 5", "rel": "alta", "motivo": "acessibilidade digital e usabilidade"}
+{"id": "v1-9-03", "codigo": "OUTRO", "rel": "fora", "motivo": "PDTIC do Judiciário, tema de TI"}
+{"id": "v1-9-04", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, exame laboratorial"}
+{"id": "v1-9-05", "codigo": "OUTRO", "rel": "fora", "motivo": "mediação de conflitos, teoria organizacional"}
+{"id": "v1-9-06", "codigo": "P1·ADM 3", "rel": "media", "motivo": "estruturação de programas e burocracias especializadas"}
+{"id": "v1-9-07", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "plano estratégico organizacional e orçamento"}
+{"id": "v1-9-08", "codigo": "P1·ESTADO 2", "rel": "baixa", "motivo": "crime de responsabilidade, Lei 1.079"}
+{"id": "v1-9-09", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "operações de crédito LRF, restrições fiscais"}
+{"id": "v1-9-10", "codigo": "OUTRO", "rel": "fora", "motivo": "improbidade e responsabilização de pessoa jurídica"}
+{"id": "v1-9-11", "codigo": "P1·ADM 4", "rel": "media", "motivo": "LDO e orçamento, transparência"}
+{"id": "v1-9-12", "codigo": "OUTRO", "rel": "fora", "motivo": "reescrita de trecho, língua portuguesa"}
+{"id": "v1-9-13", "codigo": "P1·ESTADO 3", "rel": "alta", "motivo": "burocracia de nível de rua e discricionariedade"}
+{"id": "v1-9-14", "codigo": "OUTRO", "rel": "fora", "motivo": "escritório de projetos, gerenciamento de projetos"}
+{"id": "v1-9-15", "codigo": "P1·ADM 5", "rel": "media", "motivo": "interoperabilidade e cidadania digital"}
+{"id": "v1-9-16", "codigo": "OUTRO", "rel": "fora", "motivo": "difusão científica, tema de ciência"}
+{"id": "v1-9-17", "codigo": "P1·ADM 4", "rel": "media", "motivo": "orçamento da seguridade social constitucional"}
+{"id": "v1-9-18", "codigo": "OUTRO", "rel": "fora", "motivo": "pensão por morte, previdência de servidor"}
+{"id": "v1-9-19", "codigo": "OUTRO", "rel": "fora", "motivo": "controladoria e governança corporativa"}
+{"id": "v1-9-20", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "controle interno e autonomia na auditoria"}
+{"id": "v1-9-21", "codigo": "P1·ADM 2", "rel": "media", "motivo": "custo-benefício, administração pública versus privada"}
+{"id": "v1-9-22", "codigo": "P1·ADM 3", "rel": "media", "motivo": "controle judicial de políticas públicas"}
+{"id": "v1-9-23", "codigo": "OUTRO", "rel": "fora", "motivo": "ação monitória, processo civil"}
+{"id": "v1-9-24", "codigo": "P1·ESTADO 1", "rel": "media", "motivo": "autoridade, poder e legitimidade organizacional"}
+{"id": "v1-9-25", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "intervenção federal em estado, federalismo"}
+{"id": "v1-9-26", "codigo": "P1·SOC 5", "rel": "media", "motivo": "renda básica, proteção social"}
+{"id": "v1-9-27", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "OKR e planejamento estratégico"}
+{"id": "v1-9-28", "codigo": "OUTRO", "rel": "fora", "motivo": "agroindústria de laticínios"}
+{"id": "v1-9-29", "codigo": "P1·SOC 4", "rel": "media", "motivo": "igualdade salarial entre gêneros"}
+{"id": "v1-9-30", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "estatais municipais, governança e compliance"}
+{"id": "v1-9-31", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "execução indireta de atividades de TI"}
+{"id": "v1-9-32", "codigo": "OUTRO", "rel": "fora", "motivo": "PMBOK, gerenciamento de riscos de projeto"}
+{"id": "v1-9-33", "codigo": "OUTRO", "rel": "fora", "motivo": "processo administrativo, legitimados interessados"}
+{"id": "v1-9-34", "codigo": "OUTRO", "rel": "fora", "motivo": "imunologia e biologia celular"}
+{"id": "v1-9-35", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "FUNDEB, financiamento da educação"}
+{"id": "v1-9-36", "codigo": "P1·SOC 4", "rel": "baixa", "motivo": "conhecimento tradicional de comunidades"}
+{"id": "v1-9-37", "codigo": "P1·ADM 1", "rel": "alta", "motivo": "parcerias com organizações da sociedade civil"}
+{"id": "v1-9-38", "codigo": "P1·ESTADO 7", "rel": "media", "motivo": "conflito agente-principal e governança"}
+{"id": "v1-9-39", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "governo empreendedor e pós-burocracia"}
+{"id": "v1-9-40", "codigo": "P1·ADM 2", "rel": "media", "motivo": "Estado social e reformas administrativas"}
+{"id": "v1-9-41", "codigo": "OUTRO", "rel": "fora", "motivo": "projeto social pedagógico, educação"}
+{"id": "v1-9-42", "codigo": "OUTRO", "rel": "fora", "motivo": "pesca, redes de emalhar"}
+{"id": "v1-9-43", "codigo": "OUTRO", "rel": "fora", "motivo": "ITIL 4, gestão de serviços de TI"}
+{"id": "v1-9-44", "codigo": "OUTRO", "rel": "fora", "motivo": "direito tributário, contribuições sociais"}
+{"id": "v1-9-45", "codigo": "OUTRO", "rel": "fora", "motivo": "governança de TI"}
+{"id": "v1-9-46", "codigo": "OUTRO", "rel": "fora", "motivo": "recursos petrolíferos, direito do petróleo"}
+{"id": "v1-9-47", "codigo": "OUTRO", "rel": "fora", "motivo": "norma ISO de segurança da informação"}
+{"id": "v1-9-48", "codigo": "P1·SOC 4", "rel": "media", "motivo": "inclusão digital e barreiras digitais"}
+{"id": "v1-9-49", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "autotutela, limites ao exercício do poder"}
+{"id": "v1-9-50", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "eficiência na avaliação de políticas públicas"}

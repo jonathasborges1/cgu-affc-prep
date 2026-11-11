@@ -1,0 +1,22 @@
+{
+  "bloco": "P3",
+  "status": "em_classificacao_nao_validado",
+  "amostra": 221,
+  "pacotes": 15,
+  "classificados": 15,
+  "pendentes": 206,
+  "verificacao_independente": false,
+  "confiavel_para_prioridade": false,
+  "limitacoes": [
+    "Amostra apenas de itens fortes; nao mede recall.",
+    "ENG 3, ENG 4 e ENG 5 sem amostra: investigar ausencias.",
+    "Textos truncados exigem consulta ao item integral antes de uso.",
+    "Rotulos iniciais nao alteram pesos nem entram no banco validado."
+  ],
+  "proximos_passos": [
+    "Classificar os 14 pacotes restantes.",
+    "Revisar independentemente amostra e casos de fronteira.",
+    "Amostrar descartados e fracos, incluindo assuntos sem itens fortes.",
+    "Calcular precisao, intervalos e estabilidade antes de publicar prioridade."
+  ]
+}

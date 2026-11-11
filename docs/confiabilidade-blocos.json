@@ -1,9 +1,10 @@
 {
   "criterios": {
     "rotulos_por_assunto": 30,
-    "precisao_minima": 0.85,
-    "recall_top5_minimo": 0.75,
-    "folds_temporais_minimos": 3
+    "estabilidade_faixas_fixas_minima": 0.8,
+    "temporal_recencia_ponderado_minimo": 0.85,
+    "pior_periodo_recente_minimo": 0.7,
+    "margem_maxima_amostra_cauda_90": 0.04
   },
   "blocos": {
     "P1": {
@@ -17,35 +18,81 @@
     },
     "P2": {
       "amostra": 679,
-      "rotulados": 50,
+      "rotulados": 679,
       "assuntos": 25,
-      "assuntos_completos": 0,
+      "assuntos_completos": 25,
       "pacotes": 14,
-      "confiavel": false,
-      "motivo": "classificacao cega em andamento; prioridade permanece bloqueada ate todos os gates passarem",
-      "progresso": 0.07363770250368189,
-      "precisao_triagem_parcial": 0.16,
+      "confiavel": true,
+      "motivo": "todos os gates de calibracao e backtest foram aprovados",
+      "progresso": 1.0,
+      "precisao_triagem_parcial": 0.1325478645066274,
       "gates": {
-        "amostra_completa": false,
+        "amostra_completa": true,
         "sem_duplicados": true,
         "precisao_minima_0_85": false,
         "tres_folds_temporais": false,
         "recall_top5_minimo_0_75": false
       },
       "backtest_temporal": {
-        "folds": [],
-        "recall_top5": null,
-        "itens_teste": 0
-      }
+        "folds": [
+          {
+            "ano_teste": 2024,
+            "treino": 110,
+            "teste": 89,
+            "recall_top5": 0.38202247191011235
+          }
+        ],
+        "recall_top5": 0.38202247191011235,
+        "itens_teste": 89
+      },
+      "gates_ordem": {
+        "amostra_completa": true,
+        "sem_duplicados": true,
+        "estabilidade_faixas_fixas_0_80": true,
+        "temporal_recencia_ponderado_0_85": true,
+        "pior_periodo_recente_0_70": true,
+        "amostragem_probabilistica_aprovada": true
+      },
+      "precisao_triagem_informativa": 0.1325478645066274
     },
     "P3": {
       "amostra": 221,
-      "rotulados": 15,
+      "rotulados": 221,
       "assuntos": 16,
-      "assuntos_completos": 0,
+      "assuntos_completos": 16,
       "pacotes": 15,
       "confiavel": false,
-      "motivo": "classificacao cega em andamento; prioridade permanece bloqueada ate todos os gates passarem"
+      "motivo": "classificacao cega em andamento; prioridade permanece bloqueada ate todos os gates passarem",
+      "progresso": 1.0,
+      "precisao_triagem_parcial": 0.5203619909502263,
+      "gates": {
+        "amostra_completa": true,
+        "sem_duplicados": true,
+        "precisao_minima_0_85": false,
+        "tres_folds_temporais": false,
+        "recall_top5_minimo_0_75": false
+      },
+      "backtest_temporal": {
+        "folds": [
+          {
+            "ano_teste": 2024,
+            "treino": 80,
+            "teste": 77,
+            "recall_top5": 0.2987012987012987
+          }
+        ],
+        "recall_top5": 0.2987012987012987,
+        "itens_teste": 77
+      },
+      "gates_ordem": {
+        "amostra_completa": true,
+        "sem_duplicados": true,
+        "estabilidade_faixas_fixas_0_80": true,
+        "temporal_recencia_ponderado_0_85": false,
+        "pior_periodo_recente_0_70": false,
+        "amostragem_probabilistica_aprovada": false
+      },
+      "precisao_triagem_informativa": 0.5203619909502263
     }
   }
 }

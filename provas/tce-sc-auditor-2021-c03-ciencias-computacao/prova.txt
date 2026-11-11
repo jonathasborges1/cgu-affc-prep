@@ -1,0 +1,458 @@
+Nos itens que avaliarem conhecimentos de informática e(ou)
+informado o contrário, considere que todos os programas mencio
+proteção, de funcionamento e de uso em relação aos programas, arq
+
+-- CONHECIMENTO
+Julgue o item a seguir, a respeito de otimização.
+41
+
+O índice secundário é empregado quando se utiliza um
+campo de indexação que não seja a chave primária da tabela.
+tabela1
+campo
+
+0
+2
+3
+3
+4
+4
+6
+7
+
+tabela2
+campo
+
+5
+5
+7
+8
+8
+9
+
+Considerando as tabela1 e tabela2 apresentadas, julgue os
+itens que se seguem, referentes a banco de dados.
+42 Considere que o comando a seguir seja executado sem erro.
+select campo from tabela2
+where exists
+(select campo from tabela1)
+
+Nesse caso, o resultado será a tabela seguinte.
+
+43
+
+Considere que o comando a seguir seja executado sem erro.
+select campo from tabela2
+except
+select campo from tabela1
+
+Nesse caso, o resultado obtido será a tabela seguinte.
+
+Julgue os próximos itens, com relação à segurança e arquitetura
+de banco de dados e administração de dados e de banco de dados.
+O role contém as definições de permissões, privilégios e
+garantias de acesso aos objetos do banco e aos dados.
+45 Um esquema de banco de dados pode ser definido como a
+representação gráfica e simbológica dos componentes de um
+banco de dados, seja comercial, industrial ou residencial.
+46 O comando create database aluno permite criar uma
+tabela de nome aluno no banco de dados.
+44
+
+
+CEBRASPE | TCE/SC – Edital: 2021
+
+) tecnologia da informação, a menos que seja explicitamente
+onados estão em configuração-padrão e que não há restrições de
+quivos, diretórios, recursos e equipamentos mencionados.
+
+OS ESPECÍFICOS -Julgue o item a seguir, a respeito de modelagem e normalização
+de dados.
+47 Um esquema de relação R está na primeira forma normal
+(1FN) se os domínios de todos os seus atributos forem
+atômicos.
+A respeito de inteligência do negócio, julgue os itens a seguir.
+48 Um dos objetivos da inteligência de negócios é fornecer aos
+tomadores de decisão a capacidade de realizar análises
+adequadas, por meio de acesso a dados, desde que não se
+permita a manipulação desses dados, a fim de garantir a
+segurança da informação.
+49 Uma dimensão degenerada é caracterizada por não possuir
+uma tabela própria, mas apenas residir na tabela fato como
+um atributo pertencente à chave primária.
+50 O ROLAP é um processamento analítico on-line que cria
+visões multidimensionais a partir de um banco de dados
+relacional existente.
+51 Ferramentas de OLAP disponibilizam operações de
+drill-down e drill-across: a primeira permite visualizar um
+maior nível de detalhe; a segunda, mover-se lateralmente de
+um conjunto de dados para outro, mantendo-se no mesmo
+nível de detalhe.
+52 Os conceitos de data warehouse (DW) e data mining (DM)
+são relacionados à inteligência de negócios; a principal
+diferença entre eles é que o DW atua na análise dos eventos
+do passado, enquanto o DM limita-se na predição dos
+eventos futuros.
+53 O esquema de modelagem multidimensional estrela (star
+schema) é caracterizado pela normalização de suas tabelas
+dimensionais.
+Julgue os itens a seguir, considerando conceitos de estatística.
+54 A representação gráfica da distribuição normal é uma curva
+em forma de sino, simétrica em torno da média, e que recebe
+o nome de curva normal ou de Gauss.
+55 Com os seguintes dados, a variância da população é de
+149,25.
+36; 64; 18; 40; 35; 30; 41; 32
+Julgue o item seguinte, a respeito da administração da Internet.
+56 É prevista a participação de representantes da comunidade
+científica e tecnológica no Comitê Gestor da Internet
+(CGI.BR), entre cujas atribuições e responsabilidades se
+inclui o estabelecimento de diretrizes estratégicas
+relacionadas ao uso e desenvolvimento da Internet no Brasil.
+Julgue o próximo item, acerca da televisão digital no Brasil.
+O Decreto n.º 4.901/2003 instituiu o Fundo de
+Universalização dos Serviços de Telecomunicações, que tem
+por finalidade proporcionar recursos destinados a promover a
+inclusão social e a diversidade socioeconômica do país por
+meio da televisão digital.
+
+57
+
+Julgue o item a seguir, referente ao COBIT 2019.
+58 O COBIT é uma estrutura técnica de TI para gerenciar toda a
+tecnologia, e sua estrutura de governança deve ser rigorosa e
+focar exclusivamente as questões existentes priorizadas.
+
+
+Julgue o seguinte item, a respeito da ITIL 4.
+59 Entre os componentes principais da ITIL SVS (service value
+system) se inclui a prática de aplicar um modelo único
+integrado.
+Julgue o item subsecutivo, considerando conceitos de gestão do
+conhecimento.
+60 A gestão do conhecimento está relacionada à ação, à atitude
+e a uma intenção específica dos seres humanos.
+Em relação a conceitos de informação e conhecimento e de banco
+de dados relacionais, julgue os itens subsequentes.
+61 Informação pode ser definida como um conjunto de fatos
+diferentes relativos a uma transação e que é, geralmente,
+desprovida de significado; ela é considerada a matéria-prima
+dos sistemas de informação.
+62 O conhecimento serve para dar suporte ao processamento
+decisório; ele representa a informação tratada, confiável e
+íntegra.
+63 Ao se criar um índice, deve-se observar, inicialmente, o seu
+impacto no banco de dados com relação às operações de
+atualização.
+64 Em banco de dados relacionais, o mapeamento do
+relacionamento não deve seguir a cardinalidade, pois a
+pluralidade dos tipos de cardinalidade (0, 1 e n) dificulta o
+mapeamento; ele deve ser realizado com base apenas na
+chave primária.
+No que diz respeito a big data e à Lei n.º 12.527/2011 e suas
+alterações (Lei de Acesso à Informação), julgue os itens
+seguintes.
+65 A Lei de Acesso à Informação não se aplica às entidades
+privadas sem fins lucrativos, independentemente de elas
+receberem ou não recursos públicos.
+66 Big data necessitam de algoritmos de computação mais
+robustos em comparação aos algoritmos tradicionais de
+banco de dados, que não são capazes de lidar com os
+volumes de dados representados em big data.
+67 Considera-se integridade, para efeito da Lei de Acesso à
+Informação, a qualidade da informação não modificada,
+inclusive quanto à origem, trânsito e destino.
+Julgue os próximos itens, com relação à engenharia de software.
+A atividade projeto e implementação juntamente com a
+validação do software são duas atividades executadas no
+processo de desenvolvimento de software: a primeira versa
+sobre a produção do software, com fulcro no atendimento
+das especificações; a segunda em possuir um software
+validado, de modo a garantir que ele atenda às demandas do
+cliente.
+69 Na análise de requisitos se software, os funcionais devem ser
+restritos ao que o sistema deve fazer; os não funcionais não
+devem abordar restrições que se apliquem ao sistema como
+um todo e sim aos detalhes específicos, tais como segurança
+e desempenho.
+70 Os modelos de processo de software em cascata e
+incremental possuem abordagens distintas. O primeiro
+considera as atividades fundamentais do processo,
+representando cada uma delas em fases distintas, tais como
+especificação de requisitos, implementação e teste;
+o segundo intercala as atividades de especificação,
+desenvolvimento e validação em uma série de versões do
+sistema, ao longo do seu ciclo de vida.
+68
+
+
+CEBRASPE | TCE/SC – Edital: 2021
+71
+
+No diagrama de atividade a seguir, todas as atividades
+inseridas na região de atividade interrompível (interruptible
+activity region) serão afetadas no caso do acionamento de
+#2, interrompendo qualquer processamento que ocorra
+dentro da região #1.
+
+72
+
+Considere que, no modelo entidade relacionamento mostrado
+a seguir, IdDoenca, IdPessoa e IdDoencaPessoa sejam
+respectivamente chaves primárias simples de Doenca,
+Pessoa e Doenca_Pessoa.
+
+Nesse caso, a modelagem está incorreta, pois, sendo
+Doenca_Pessoa uma tabela associativa às chaves
+estrangeiras IdPessoa e IdDoenca, nela contidas,
+deveriam fazer parte da chave primária de Doenca_Pessoa,
+uma vez que os relacionamentos #1 e #2 são identificados.
+73
+
+Se as tabelas a seguir descrevem a quantidade e a
+complexidade das funções de dados e de transação de duas
+aplicações #A e #B, então a quantidade de pontos de função
+brutos da aplicação #A é maior que a da aplicação #B.
+
+
+Julgue os itens subsecutivos, relativos a sistemas operacionais,
+redes de computadores e arquitetura em nuvem.
+74
+
+No Red Hat Enterprise Linux 7, systemd é um gerenciador
+de sistema e de serviços; o comando systemctl se
+comunica com serviços que são gerenciados pelo systemd.
+O serviço nfs-server é reiniciado como a seguir.
+systemctl reload nfs-server.service
+
+75
+
+No Red Hat Enterprise Linux 7, firewalld é um serviço de
+firewall baseado em host (host-based firewall) que utiliza os
+conceitos de zonas e serviços, em que as zonas são conjuntos
+predefinidos de regras.
+
+76
+
+Em arquitetura em nuvem, dentre os tipos SaaS, IaaS e PaaS,
+o serviço de becape é restrito aos dois últimos, haja vista que
+no SaaS não há como personalizar os recursos de hardware,
+que é essencial para oferecer métodos eficazes de cópias
+regulares de um fornecedor de serviços para outro local.
+
+Considerando os sistemas de gerenciamento de banco de dados
+(SGBD) e o Comitê Gestor da Internet no Brasil (CGIbr), julgue
+os itens seguintes.
+77
+
+Cabe ao CGIbr estabelecer diretrizes na execução do registro
+de nomes de domínio, bem como na alocação de endereço
+IP.
+
+78
+
+No PostgreSQL 13 é possível obter informações das
+configurações correntes do SGBD por meio de consultas às
+suas views nativas. O comando abaixo permite obter o
+número máximo de conexões ativas que uma database, de
+nome bancodedados, pode receber.
+SELECT max_connections FROM pg_stat_database
+WHERE datname= 'bancodedados';
+
+Julgue os próximos itens, com relação a COBIT 2019 e ITIL 4.
+79
+
+As práticas no sistema de valores de serviço (SVS) da ITIL 4
+destinam-se a atingir um objetivo; elas estão relacionadas ao
+gerenciamento de serviço que busca habilitar o valor, na
+forma de serviços, para os clientes.
+
+80
+
+O DevOps no COBIT 2019 é considerado uma área de foco
+(focus area), porque ele pode ser considerado uma questão
+de governança de TIC, sendo assim necessário realizar o
+gerenciamento de seus componentes.
+
+Julgue o item a seguir, a respeito da NBR ISO/IEC
+n.º 27001:2013.
+81
+
+Segundo a referida norma, um incidente de segurança da
+informação é uma ocorrência identificada de um estado de
+sistema, serviço ou rede, que indica uma possível falha no
+sistema de gestão da informação.
+
+Julgue o item seguinte, acerca de controle de acesso.
+82
+
+No controle de acesso, somente os usuários que tenham sido
+especificamente autorizados podem usar e receber acesso às
+redes e aos seus serviços.
+
+
+CEBRASPE | TCE/SC – Edital: 2021
+
+Julgue o próximo item, que se refere a desenvolvimento e
+manutenção de sistemas.
+83
+
+Mudanças em sistemas dentro do ciclo de vida de
+desenvolvimento devem ser controladas utilizando-se
+procedimentos formais de controle de mudanças.
+
+Julgue o item subsequente, a respeito de políticas para o uso de
+dispositivo móvel.
+84
+
+A ameaça em segurança dos dispositivos móveis da empresa
+denominada ataques de engenharia social é caracterizada
+pelo mau uso dos recursos de rede, dispositivo ou identidade,
+como, por exemplo, ataques de negação de serviço.
+
+Julgue o item a seguir, acerca de segurança para trabalho remoto.
+85
+
+A rede privada virtual, ou VPN (virtual private network), é
+uma tecnologia de rede implementada para conectar um ou
+mais computadores a uma rede privada pela Internet.
+
+Com relação a segurança em recursos humanos, julgue o seguinte
+item.
+86
+
+Na NBR n.º 27001:2013, está previsto que as
+responsabilidades
+pela
+segurança
+da
+informação
+permaneçam válidas após um encerramento ou mudança da
+contratação, devendo ser definidas, comunicadas aos
+funcionários ou partes externas e cumpridas.
+
+No que tange a gestão de riscos e continuidade do negócio,
+julgue o próximo item.
+87
+
+Segundo a NBR n.º 27005:2019, a abordagem da gestão de
+riscos de segurança da informação define que se deve adotar
+um método de fazer a gestão da segurança para todos os
+processos existentes para facilitar o treinamento dos
+colaboradores.
+
+Julgue os próximos itens, relativos ao que estabelecem as Leis
+n.º 13.303/2016 e n.º 10.520/2002.
+A fase externa do pregão será iniciada desde que haja pelo
+menos três propostas apresentadas, sendo consideradas
+somente aquelas cujas ofertas não possuam valores
+superiores a 10% em relação à oferta de valor mais baixo.
+89 Se a empresa XYZ for uma empresa pública cuja maioria do
+capital votante seja de propriedade do Distrito Federal, será
+admitida, nesse caso, a participação de entidades da
+administração indireta dos estados no capital dessa empresa.
+88
+
+Com relação à gestão de contratação de soluções de TI e aos atos
+normativos do ME/SLTI Instrução Normativa n.º 1/2019, julgue
+os itens a seguir.
+Na fase de gestão de contratação de soluções de TI, o gestor
+do contrato, com o apoio da equipe de planejamento da
+contratação, acompanha e tem como objetivo garantir a
+adequada prestação dos serviços durante todo o período de
+execução do contrato.
+91 Na gestão e fiscalização do contrato de fornecimento da
+solução de TI, devem-se estipular os critérios de aceitação
+dos serviços prestados, abrangendo, entre outros aspectos, os
+níveis mínimos de serviços com os valores adequados aos
+elementos que compõem essa solução.
+92 A análise de riscos se inicia na fase de gestão do contrato, na
+qual a equipe de fiscalização do contrato, sob coordenação
+do gestor do contrato, realiza a análise dos principais riscos e
+acompanha as ações de tratamento desses riscos.
+90
+
+
+Julgue os próximos itens, relativos à Lei n.º 13.709/2018 (Lei
+Geral de Proteção de Dados atualizada).
+93
+
+Em caso de cumprimento de obrigação regulatória pelo
+controlador, permite-se o tratamento de dados pessoais.
+
+94
+
+Competem ao controlador, e não a encarregado, as decisões
+referentes ao tratamento de dados pessoais.
+
+During a ransomware hack, attackers infiltrate a target’s
+computer system and encrypt its data. They then demand a
+payment before they will release the decryption key to free the
+system. This type of extortion has existed for decades, but in the
+2010s it exploded in popularity, with online gangs holding local
+governments, infrastructure and even hospitals hostage.
+Ransomware is a collective problem—and solving it will require
+collaborative action from companies, the government and
+international partners.
+As long as victims keep paying, hackers will keep
+profiting from this type of attack. But cybersecurity experts are
+divided on whether the government should prohibit the paying of
+ransoms. Such a ban would disincentivize hackers, but it would
+also place some organizations in a moral quandary. For, say, a
+hospital, unlocking the computer systems as quickly as possible
+could be a matter of life or death for patients, and the fastest
+option may be to pay up.
+Collective action can help. If all organizations that fall
+victim to ransomware report their attacks, they will contribute to
+a trove of valuable data, which can be used to strike back against
+attackers. For example, certain ransomware gangs may use the
+exact same type of encryption in all their attacks. “White hat”
+hackers can and do study these trends, which allows them to
+retrieve and publish the decryption keys for specific types of
+ransomware. Many companies, however, remain reluctant to
+admit they have experienced a breach, wishing to avoid potential
+bad press. Overcoming that reluctance may require legislation,
+such as a bill introduced in the Senate last year that would require
+companies to report having paid a ransom within 24 hours of the
+transaction.
+Internet: <www.scientificamerican.com> (adapted).
+
+Judge the following items according to the text above.
+95
+
+It can be inferred from the text that ransomware is a type of
+malicious software designed to block access to a computer
+system until a sum of money is paid.
+
+96
+
+The text says that, in order to avoid bad press, companies
+should be required by law to report having paid ransom.
+
+97
+
+The author of the text claims that the solution to ransomware
+is to stop paying ransoms.
+
+98
+
+It can be concluded from the text that the quickest option for
+hospitals being under attack of ransomware would be to pay
+more than the amount the attackers demand.
+
+In the second paragraph of the text,
+99
+
+the word “quandary” could be correctly replaced by
+dilemma without any change in the meaning of the sentence.
+
+100 the word “disincentivize” could be correctly replaced by
+
+deter without any change in the meaning of the sentence.
+
+
+CEBRASPE | TCE/SC – Edital: 2021
+
+Espaço livre
+
+

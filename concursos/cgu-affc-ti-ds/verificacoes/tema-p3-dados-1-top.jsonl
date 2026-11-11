@@ -1,0 +1,6 @@
+{"item": "2", "edital": "P3·DADOS 1.2", "relevancia": "alta", "nucleo_id": "n-chave-valor-pares-identificador", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "3", "edital": "P3·DADOS 1.2", "relevancia": "alta", "nucleo_id": "n-nosql-documento-vs-relacional", "tags": ["TROCA_TERMO", "CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "5", "edital": "P3·DADOS 1.7", "relevancia": "alta", "nucleo_id": "n-jpa-eager-carrega-associacao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "7", "edital": "P3·DADOS 1.1", "relevancia": "media", "nucleo_id": "n-atributo-derivado", "tags": ["CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "10", "edital": "P3·DADOS 1.1", "relevancia": "media", "nucleo_id": "n-modelo-conceitual-vs-logico", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "17", "edital": "P3·DADOS 3.2", "relevancia": "alta", "nucleo_id": "n-etl-definicao-dw", "tags": ["NORMA_LITERAL"], "nivel": "facil"}

@@ -1,0 +1,8 @@
+{"data":"2026-11-07","metodo":"bootstrap 2000x; recuperados (679 itens rotulados) + descartados (300 itens, ano>=2017); precisao do recuperado variada de 7% a 20%","certificada":false,
+"faixas":[
+{"n":1,"nome":"Estudar primeiro","itens":[["P2·DIR 3","~24%","posição 1–5"],["P2·TRANSP 1","~18%","posição 1–7"]]},
+{"n":2,"nome":"Bloco (indistinguíveis entre si)","itens":[["P2·AUD 2","~11%","1–11"],["P2·TRANSP 4","~10%","2–9"],["P2·GOV 1","~9%","2–9"],["P2·GOV 2","~8%","2–8"]]},
+{"n":3,"nome":"Depois","itens":[["P2·EVID 5","~6%","2–16, muito incerta"],["P2·DIR 1","~3%","5–11"]]},
+{"n":4,"nome":"Baixa incidência","itens":[["P2·TRANSP 2","~1%","7–11"],["P2·AUD 1","~1%","7–12"],["P2·DIR 4","~1%","8–15"]]},
+{"n":5,"nome":"Sem evidência no histórico: estudar pela base legal","itens":[["P2·EVID 3","<1%",""],["P2·AUD 3","<1%",""],["P2·DIR 2","<1%",""],["P2·AUD 4","<1%",""],["P2·EVID 2","<1%",""],["demais","",""]]}],
+"limites":"Só 16 de 300 descartados eram P2; rotulador único; gates do app (precisão ≥0,85, 3 folds, recall top-5 ≥0,75) não passam."}

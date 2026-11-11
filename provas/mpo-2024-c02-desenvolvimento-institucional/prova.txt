@@ -1,0 +1,734 @@
+•
+
+•
+
+•
+
+Cada um dos itens da Prova Objetiva P2 está vinculado ao com
+que cada um deles esteja vinculado, marque, na Folha de Res
+julgue o item CERTO; ou o campo designado com o código
+marcação de ambos os campos não serão apenadas, ou seja, nã
+Folha de Respostas, único documento válido para a correção da
+Em seu caderno de prova, caso haja item(ns) que avalie(m) c
+a menos que seja explicitamente informado o contrário,
+configuração-padrão e que não há restrições de proteção, de
+diretórios, recursos e equipamentos mencionados.
+Eventuais espaços livres — identificados ou não pela expressão
+ser utilizados para rascunho.
+
+-- PROVA OB
+
+-- CONHECIMENTO
+PLANEJAMENTO E ORÇAMENTO PÚBLICO
+A respeito de políticas, diretrizes e ações implementadas na área
+das políticas sociais no Brasil, julgue os itens a seguir.
+1
+
+As políticas de educação inclusiva são iniciativas para
+garantir acesso igualitário à educação para pessoas com
+deficiência.
+
+2
+
+As políticas públicas de proteção à infância e à juventude são
+iniciativas para garantir cuidados de saúde adequados para
+mães, bebês e crianças, incluindo acesso a serviços de
+pré-natal, imunizações e cuidados pediátricos.
+
+Em relação às reformas previdenciária, tributária e fiscal
+atualmente em pauta na agenda nacional, julgue os itens
+subsecutivos.
+3
+
+A Reforma Tributária aprovada em 2023 simplifica a
+cobrança dos tributos federais, estaduais e municipais; com
+isso, espera-se que haja aumento de produtividade e,
+consequentemente, redução de custos para consumidores e
+produtores.
+
+4
+
+A principal motivação para a aprovação da Reforma da
+Previdência em 2019 foi a necessidade de correção de
+distorções do antigo regime previdenciário, como a
+disparidade do tempo de contribuição entre homens e
+mulheres.
+
+5
+
+Com o propósito de viabilizar o controle dos gastos públicos,
+principalmente os relacionados a gastos com pessoal e
+despesas correntes, o chamado Novo Regime Fiscal
+Sustentável (NAF), aprovado em dezembro de 2023,
+vigorará por quarenta exercícios financeiros, estabelecendo,
+para cada exercício, limites globais para as despesas
+primárias do orçamento federal.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+mando que imediatamente o antecede. De acordo com o comando a
+spostas, para cada item: o campo designado com o código C, caso
+o E, caso julgue o item ERRADO. A ausência de marcação ou a
+ão receberão pontuação negativa. Para as devidas marcações, use a
+a sua prova objetiva.
+conhecimentos de informática e(ou) tecnologia da informação,
+considere que todos os programas mencionados estão em
+e funcionamento e de uso em relação aos programas, arquivos,
+
+o “Espaço livre” — que constarem deste caderno de prova poderão
+
+BJETIVA P2 --
+
+OS ESPECÍFICOS -A respeito do planejamento governamental no Brasil, incluído o
+planejamento orçamentário, julgue os itens a seguir.
+6
+
+O planejamento plurianual vem sofrendo progressivamente
+modificações desde a promulgação da Constituição Federal
+de 1988, entretanto, em sua trajetória histórica, ainda não
+logrou um novo patamar de qualidade no processo decisório
+ou de governança no setor público.
+
+7
+
+Considerada uma perspectiva histórica e convencional, o
+esforço brasileiro em direção ao planejamento para o
+desenvolvimento começou na década de 20 do século
+passado, com o planejamento para a indústria.
+
+8
+
+A integração da lei orçamentária anual (LOA) ao plano
+plurianual (PPA) é expressa por meio dos projetos.
+
+9
+
+Entre as prioridades estabelecidas na Mensagem Presidencial
+do Plano Plurianual 2024-2027, consta expressamente o
+ensino médio.
+
+10
+
+Segundo
+a
+Mensagem
+Presidencial
+do
+Plano
+Plurianual (PPA) 2024-2027, esse PPA foi elaborado de
+forma inovadora, integrada com todos os Ministérios e com
+intensa participação social.
+
+11
+
+O Plano Plurianual (PPA) 2024-2027 incorpora ao modelo
+brasileiro três princípios de boa governança de planejamento
+internacionalmente recomendados, representados nesse PPA
+pela inclusão de indicadores-chave e metas, seis temas
+prioritários e cinco temas transversais.
+
+12
+
+Uma das principais críticas ao orçamento-programa diz
+respeito às inúmeras dificuldades na adoção de padrões de
+medição do trabalho, especificamente na definição dos
+produtos finais.
+
+Em relação à política de desenvolvimento da mineração e às
+políticas de infraestrutura no Brasil, julgue os itens subsequentes.
+13
+
+Um dos objetivos específicos das políticas públicas de
+infraestrutura ferroviária é ampliar, com recursos privados, a
+capacidade da malha ferroviária federal.
+
+14
+
+É objetivo geral da política pública de desenvolvimento da
+mineração no Brasil criar, nesse setor, um ambiente
+orientado para a sustentabilidade, a transição energética, a
+segurança do público e a atratividade para os investimentos.
+
+
+Com relação ao orçamento na Constituição Federal de 1988, à lei
+de diretrizes orçamentárias (LDO), à lei orçamentária
+anual (LOA), aos conceitos e às classificações orçamentárias,
+julgue os itens a seguir.
+15
+
+Algumas despesas correntes contribuem diretamente para a
+formação ou aquisição de um bem de capital, tais como os
+auxílios a outros entes da Federação e a entidades privadas
+sem fins lucrativos.
+
+16
+
+A abertura de crédito extraordinário, que se dá por meio de
+medida provisória, somente será admitida para atender a
+despesas decorrentes de guerra, de comoção interna ou de
+calamidade pública.
+
+17
+
+De acordo com o modelo de orçamento base-zero, as
+necessidades de financiamento de programas governamentais
+são rigorosamente reavaliadas a cada novo ciclo orçamental,
+exigindo-se que cada item de despesa seja justificado desde a
+base (a partir do zero).
+
+18
+
+A LDO, em consonância com a Lei de Responsabilidade
+Fiscal (LRF), estabelece, anualmente, as diretrizes da
+política fiscal e as respectivas metas para a garantia
+sustentável da dívida pública.
+
+19
+
+Uma orçamentação de médio prazo (medium-term
+expenditure framework — MTEF), que serve de base para a
+prestação de contas, consiste em três elementos principais:
+previsões das disponibilidades de médio prazo, previsão das
+despesas de médio prazo e previsão dos limites máximos de
+endividamento de médio prazo.
+
+Acerca das abordagens orçamentárias contemporâneas, da
+história do orçamento e de suas diretrizes, julgue os itens
+a seguir.
+20
+
+As diretrizes de política fiscal e as metas fiscais para o
+exercício em vigor, em consonância com trajetória
+sustentável da dívida pública, devem orientar a elaboração da
+lei orçamentária anual.
+
+21
+
+As emendas ao projeto de lei do orçamento propostas por
+parlamentares devem conter indicações dos recursos, que
+podem ser originados de anulações de despesas ou do
+superávit financeiro do exercício anterior.
+
+22
+
+O orçamento sensível ao gênero visa analisar qualquer forma
+de receita e de despesa pública, e identificar as diferentes
+implicações que elas têm nos grupos de mulheres, em
+comparação com os homens, a exemplo do gasto público
+com defesa.
+
+23
+
+O sistema orçamentário francês, em sua fase inicial,
+contribuiu com a teoria orçamentária ao consolidar regras
+aceitas até hoje, como a anualidade orçamentária, a votação
+do orçamento anteriormente ao exercício financeiro e a
+universalidade para as previsões financeiras para o exercício
+a que se refere.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+No que diz respeito às classificações e técnicas orçamentárias, à
+responsabilidade fiscal e às normas constitucionais relativas ao
+orçamento público, julgue os seguintes itens.
+Ato do chefe do Poder Executivo pode permitir a
+transposição de recursos de uma categoria de programação
+orçamentária de atividade de ciência e tecnologia, para
+viabilizar os resultados de projetos restritos a essas funções,
+sem necessidade da prévia autorização legislativa.
+25 A classificação programática indica os recursos que são
+aplicados e sua proporção conforme as áreas de atuação das
+organizações estatais, sendo também considerada a
+classificação que proporciona informações gerais aos
+cidadãos a respeito das operações do governo.
+26 As metas fiscais definidas pela LRF constituem limites
+estabelecidos para as receitas, as despesas, a diferença entre
+receitas e despesas, para o endividamento, os gastos com
+pessoal, a limitação de contratação às vésperas das eleições e
+para os gastos com suprimento de fundos.
+27 A implementação da classificação programática por diversos
+países no século XX foi facilitada devido à adoção de
+padrões de medição do trabalho, especialmente na definição
+dos produtos finais, a partir do desenvolvimento dos
+sistemas de informações desenvolvidos por entidades e
+governos.
+24
+
+Em relação ao conceito de receita pública, às suas classificações
+e aos seus estágios, bem como aos tributos e às contribuições
+sociais, julgue os itens a seguir.
+São consideradas derivadas as receitas públicas obtidas pelo
+poder público por intermédio da sua soberania estatal, tais
+como as receitas decorrentes de impostos, tarifas,
+contribuições e empréstimos compulsórios.
+29 Em sentido amplo, consideram-se receitas públicas os
+ingressos de recursos financeiros nos cofres do Estado, o que
+abrange as entradas relativas a tributos, serviços prestados
+pelo poder público e depósitos em caução.
+28
+
+No que diz respeito à receita orçamentária e à despesa
+orçamentária da União, especificamente a seus critérios de
+reconhecimento, à utilização do crédito disponível e à abertura e
+reabertura de créditos adicionais, julgue os itens a seguir.
+Suponha que um Ministério do Poder Executivo federal
+tenha transferido créditos orçamentários para uma unidade
+administrativa pertencente à estrutura de outro Ministério,
+para execução de ações de interesse recíproco. Nesse caso,
+houve provisão de créditos orçamentários.
+31 Se a lei que abrir um crédito especial for promulgada nos
+últimos quatro meses do exercício financeiro, ele será
+incorporado ao orçamento do exercício financeiro
+subsequente pela sua reabertura nos limites de seus saldos.
+32 Pelo regime orçamentário, a receita é reconhecida a partir do
+momento de sua arrecadação, que necessariamente coincide
+com o momento da ocorrência do seu fato gerador.
+33 O pré-empenho é um procedimento facultativo que permite
+reservar o crédito orçamentário a ser utilizado futuramente,
+quando, por motivos administrativos, ainda não se possuem
+todos os elementos necessários à emissão da nota de
+empenho.
+30
+
+
+Quanto ao conceito de despesa pública, às suas classificações e
+aos seus estágios, julgue os itens que se seguem.
+34
+
+A liquidação, que consiste na verificação do direito
+adquirido pelo credor com base nos títulos e documentos
+comprobatórios do respectivo crédito, é condição necessária
+para a realização do pagamento da despesa.
+
+35
+
+A despesa pública não efetiva é aquela que, no momento da
+sua realização, não reduz a situação patrimonial líquida da
+entidade, como é o caso das despesas com investimentos e
+com o serviço da dívida (amortização e encargos).
+
+No que tange ao caráter autorizativo ou impositivo do orçamento
+e ao regime de execução das programações incluídas ou
+acrescidas por emendas ao orçamento, julgue os itens a seguir.
+36
+
+No âmbito da União, as emendas individuais ou de bancada
+de Estado ou do Distrito Federal ao projeto de lei
+orçamentária serão de execução obrigatória, salvo nos casos
+de impedimentos de ordem técnica.
+
+37
+
+Doutrinariamente, a lei orçamentária anual pode ser
+considerada uma lei formal, que não cria direitos subjetivos e
+que possui efeitos meramente concretos, apenas prevendo as
+receitas e autorizando os gastos, mas a Constituição Federal
+de 1988 estabelece que a administração pública tem o dever
+de executar as programações orçamentárias, adotando os
+meios e as medidas necessários.
+
+Acerca da geração de despesa obrigatória, julgue o item a seguir.
+38
+
+A ampliação de despesa obrigatória por prazo superior a dois
+exercícios financeiros deverá ser precedida da estimativa do
+seu impacto orçamentário-financeiro no exercício em que
+deva entrar em vigor e nos dois subsequentes e da
+comprovação de que a despesa criada ou aumentada não
+afetará as metas de resultados fiscais, devendo, de forma
+exclusiva, seus efeitos ser compensados pelo aumento
+permanente de receita.
+
+Em relação ao Sistema de Planejamento e Orçamento Federal,
+estabelecido pela Lei n.º 10.180/2001, julgue o item subsecutivo.
+39
+
+São considerados órgãos específicos do referido sistema as
+unidades de planejamento e orçamento dos Ministérios, da
+Advocacia-Geral da União, da Vice-Presidência e da
+Casa Civil da Presidência da República.
+
+No que diz respeito às regras gerais de funcionamento da
+Comissão Mista de Orçamento (CMO) do Congresso Nacional,
+julgue o próximo item.
+40
+
+A CMO, diante de indícios de despesas não autorizadas,
+ainda que sob a forma de investimentos não programados ou
+de subsídios não aprovados, poderá solicitar à autoridade
+governamental responsável que, no prazo de cinco dias,
+preste os esclarecimentos necessários.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+COMUNICAÇÃO
+Julgue os itens seguintes, relativos à comunicação interna, que
+abrange ramificações em várias hierarquias e setores, como a
+comunicação entre departamentos, órgãos ou unidades, entre
+pessoas e supervisores, entre chefias e diretorias.
+41
+
+Os conceitos de comunicação interna e de endomarketing
+são muito próximos e, por isso, confundidos em várias
+situações e aplicações; entretanto a existência de
+comunicação interna em uma empresa independe de um
+programa de endomarketing.
+
+42
+
+A existência de um profissional de relações públicas na
+estrutura do departamento de comunicação de uma empresa
+torna desnecessária a presença de um jornalista, pois o
+profissional de relações públicas agrega a especialidade de
+realizar as tarefas de assessoria de imprensa, de atendimento
+a jornalistas e de produção de textos, entre outras.
+
+43
+
+O profissional de relações públicas é o responsável pelo bom
+relacionamento com os públicos internos, de acordo com os
+interesses da organização.
+
+No que se refere a plano de comunicação, julgue os itens a
+seguir.
+44
+
+Uma
+
+empresa
+
+cujo
+
+foco
+
+esteja
+
+voltado
+
+para
+
+seus
+
+colaboradores internos, cujo público externo esteja bem
+definido e cujo objeto de trabalho seja bem delimitado
+prescinde da apresentação de planos de comunicação.
+45
+
+Para a produção de um plano de comunicação, o profissional
+precisa definir, entre as estratégias principais de
+comunicação, o conceito, o mote ou o tema, além das
+técnicas e canais a serem utilizados.
+
+46
+
+A apresentação do produto é uma etapa primordial de um
+plano de comunicação; assim, é imprescindível que mesmo
+um excelente plano, idealizado com criatividade e que
+preveja grandes ações, seja apresentado no formato correto e
+pelo meio adequado.
+
+A respeito do rádio como meio de comunicação e informação,
+julgue os itens que se seguem.
+47
+
+A ideia de que o inconsciente tem uma função relevante na
+compreensão da mensagem do rádio deve ser desmitificada,
+pois a grande popularidade que a informação do jornalismo
+radiofônico ainda hoje possui deve-se à capacidade técnica,
+dos métodos e das conquistas da evolução do veículo, e não
+do fato de as pessoas ouvirem com o cérebro.
+
+48
+
+O discurso do rádio, produzido a partir de uma composição
+sonora centrada na palavra de um único emissor, produz um
+efeito de realidade limitado e insuficiente.
+
+49
+
+O jornalismo tem uma relação estreita com a dimensão
+temporal, sendo esta essencial para a estrutura e a linguagem
+do rádio.
+
+
+Considerando as políticas de comunicação, a comunicação
+pública e o processo democrático no contexto da sociedade
+digital, julgue os itens subsequentes.
+50 No cenário da sociedade digital, onde o monopólio de
+informação está concentrado em grandes empresas de
+tecnologia, é preciso repensar a atuação dessas empresas
+bem como o conteúdo informativo que é oferecido na rede.
+51 Qualquer cidadão é capaz de, a partir de seus próprios
+anseios, sentimentos e liberdade de escolha, discernir a
+informação que consome na Internet e avaliá-la quanto à
+adequação ou inadequação, de acordo com suas necessidades
+sociais e políticas, não sendo necessária qualquer mediação
+ou controle dessa mídia.
+52 As conversas e as interações políticas entre o público e o
+privado pela Internet permitem que indivíduos, sociedade
+civil e órgãos públicos dialoguem de forma fácil e
+instantânea e, para que a rede mundial de computadores seja
+de fato democrática, é preciso que as pessoas tenham seus
+próprios computadores, por isso a promoção do acesso
+digital está diretamente ligada à venda de computadores.
+O jornalismo começou impresso e hoje está presente na tela de
+computadores e telefones celulares, tendo ocorrido mudanças na
+estrutura e no formato da apresentação das notícias. Acerca desse
+tema, julgue os seguintes itens.
+53 No webjornalismo, a personalização da notícia, apesar de
+configurar o produto de acordo com os interesses individuais
+do leitor, é limitante, pois não permite que este percorra seu
+próprio caminho na busca de informações.
+54 O webjornalismo passa pela potencialização da notícia como
+forma de atingir o público.
+55 Hipertextualidade,
+multimidialidade, interatividade e
+personalização são elementos de um produto jornalístico na
+Web, não fazendo parte do formato jornalístico impresso.
+Acerca das mídias sociais e plataformas digitais, bem como do
+marketing em mídias sociais e de suas ferramentas e estratégias,
+julgue os itens subsequentes.
+56 Endomarketing é uma estratégia focada em ações que visam
+atrair e fidelizar clientes para as mídias digitais.
+57 Os blogs são os precursores das mídias sociais na Internet,
+surgidas no início dos anos 2000.
+58 O recurso de feed RSS oferece a possibilidade de
+distribuição de conteúdo em tempo real.
+59 O email marketing é uma ferramenta que automatiza a
+comunicação digital, mas é recomendado que seu uso seja
+pontual, considerando-se a base de contatos.
+60 O marketing nas mídias sociais objetiva promover interação
+com os consumidores e criar estratégias que se dinamizem ao
+ponto de ignorar as atividades mercadológicas.
+A respeito do jornalismo digital, julgue os itens subsecutivos.
+61 A hipermídia incorpora uma variedade de linguagens, como
+textos, imagens, áudio e vídeo.
+62 O universo digital e online propiciou ao jornalismo aumento
+do alcance das notícias, diversificação dos canais de
+interação e uma maior audiência.
+A respeito da acessibilidade em plataformas digitais, julgue o
+item a seguir.
+63 No processo de desenvolvimento de software de uma
+plataforma digital, a acessibilidade deve ser considerada
+posteriormente à codificação.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+Acerca de podcasts e videocasts, julgue os itens a seguir.
+Os videocasts admitem a criação de gravações simples.
+65 Os podcasts seguem o formato único de produção opinativa
+e são transmitidos apenas via Internet.
+64
+
+Acerca do uso de estratégias de SEO, julgue o próximo item.
+66 A otimização dos mecanismos de busca objetiva alcançar
+rankings orgânicos, além de gerar tráfego e posicionamento
+em rede.
+No que se refere à publieditorial, julgue o item a seguir.
+67 Publieditorial corresponde a um conjunto de informações
+encaminhadas aos veículos de comunicação para divulgação
+e veiculação gratuita em formato de marketing interativo.
+De acordo com as normas de cerimonial na administração pública
+federal, julgue os itens subsequentes.
+68 A ordem de preferência ou designação de ordem hierárquica
+de autoridades e símbolos oficiais segue sempre a ordem de
+precedência.
+69 As solenidades organizadas pelos Ministérios não podem ser
+presididas pelos respectivos ministros.
+A respeito dos recursos de acessibilidade e comunicação para
+eventos, julgue o item a seguir.
+70 Recomenda-se que, em eventos da administração pública,
+haja intérprete e tradutor da língua brasileira de sinais
+(LIBRAS), como também audiodescrição simultânea.
+ESTRATÉGIA E PLANEJAMENTO
+A respeito da estratégia organizacional, julgue os itens
+subsequentes.
+71 A estratégia baseada em recursos admite que os recursos
+mais valiosos de uma organização são suas competências
+essenciais.
+72 O processo de formulação estratégica engloba as variáveis de
+nível ambiental.
+73 O conceito de estratégia baseia-se na premissa de haver
+intencionalidade de controle dos rumos organizacionais por
+seus atores.
+74 A adoção de táticas, que direcionam continuamente a
+estratégia, está restrita ao primeiro escalão das organizações.
+75 Atualmente, nos estudos acerca da estratégia organizacional,
+o capital financeiro, e não mais o capital humano, é
+considerando o principal recurso estratégico.
+Acerca do planejamento estratégico, julgue os itens subsecutivos.
+76 O balanced scorecard adota um conjunto de perspectivas
+analíticas hierarquicamente definidas, com o propósito maior
+de atender aos interesses dos stakeholders.
+77 Na análise SWOT, consideram-se dois níveis de análise: o
+interno, representado por pontos fortes e fracos, e o externo,
+representado por ameaças e oportunidades.
+78 Como ferramenta gerencial, o planejamento estratégico
+baseia-se em indicadores quantitativos analisados em
+modelos de predição estatística, tendo, portanto, baixo grau
+de subjetividade.
+79 Toda a estrutura organizacional deve ser considerada no
+planejamento estratégico, já que esse planejamento consiste
+em uma análise transversal e integral.
+80 Na elaboração de um planejamento estratégico, a avaliação
+dos resultados precede a etapa de formulação de alternativas
+estratégicas.
+
+
+Acerca das metodologias ágeis, julgue os itens subsequentes.
+81 A assimilação de metodologias ágeis no desenvolvimento de
+software tem um impacto significativo na gestão de projetos,
+na dinâmica de equipe e no desempenho organizacional,
+desde que haja uma compreensão profunda do
+comportamento do usuário para a adoção bem-sucedida
+dessas inovações.
+82 A adoção de metodologias ágeis no setor público é inviável
+devido à complexidade da arquitetura dos sistemas de
+software e à rigidez da legislação.
+Julgue os itens a seguir, relativos ao gerenciamento de projetos.
+83 Os domínios de desempenho de projetos — partes
+interessadas, equipe, abordagem de desenvolvimento e ciclo
+de vida, planejamento, trabalho do projeto, entrega, medição
+e incerteza — são independentes entre si, podendo ser
+tratados de forma isolada durante a execução do projeto.
+84 As demandas e tendências atuais do gerenciamento de
+projetos ocasionaram as seguintes mudanças: a transição de
+um padrão embasado em processos para um padrão
+embasado em princípios; a adoção de uma visão de sistemas
+de gerenciamento de projetos; o reconhecimento da
+relevância contínua do Guia PMBOK®; e a necessidade de
+um profissional com perfil menos descritivo e mais pautado
+em princípios.
+Tendo em vista o ciclo PDCA, julgue os itens que se seguem.
+85 A ferramenta gráfico de controle tem como finalidade a
+visualização do tipo de relacionamento existente entre duas
+variáveis, que podem ser duas causas de um processo, uma
+causa e um efeito do processo ou dois efeitos do processo.
+86 A fase fazer (do) do PDCA consiste na comparação de novos
+dados aos dados de linha de base para determinar se houve
+uma melhoria e se as medidas no enunciado do objetivo
+foram atingidas, podendo-se fazer uso de ferramentas como
+gráficos de Pareto, histogramas, gráficos de execução,
+gráficos de dispersão e gráficos de controle para auxiliar
+nessa análise.
+Julgue o item seguinte, considerando a natureza do
+benchmarking.
+87 Considerando a natureza global dos negócios, é correto
+afirmar que benchmarking é o processo de identificar,
+entender e adaptar práticas excepcionais de organizações em
+qualquer lugar do mundo para ajudar uma organização a
+melhorar seu desempenho. Trata-se, portanto, de uma
+atividade que olha para fora dos limites de um país para
+alcançar a melhor prática, alta implementação e melhoria.
+A respeito dos processos de melhoria contínua, julgue os itens
+subsequentes.
+88 Para uma atividade cujos executores apresentem alto nível de
+especialização vertical e baixo nível de especialização
+horizontal, o tipo mais adequado de padronização é o de
+processos.
+89 O Kaizen é crucial para a eficiência operacional e a
+excelência organizacional e, apesar de ter sido desenvolvido
+para produtos e processos padronizáveis, pode ser aplicado
+em diferentes contextos de produção com baixo grau de
+padronização.
+Acerca das cadeias de valor no contexto da gestão pública, julgue
+o próximo item.
+90 A abordagem de microdesempenho foca principalmente na
+melhoria da confiança e na satisfação do cidadão em
+instituições públicas por meio da entrega de serviços,
+enquanto o modelo da cadeia de valor da administração
+pública amplia essa visão ao conectar a entrega de serviços a
+outras áreas de desempenho gerencial, como gestão de
+pessoas e liderança.
+
+
+CEBRASPE – STDI/SOF/MPO – Edital: 2024
+
+GESTÃO DE PESSOAS
+Acerca do processo de gestão de pessoas nas organizações,
+julgue os itens que se seguem.
+91
+
+A estratégia empresarial, o redesenho de processos e serviços
+e a gestão da mudança são atividades que destacam a
+importância do órgão ou da unidade de gestão de pessoas em
+uma organização.
+
+92
+
+A função básica de uma unidade de gestão de pessoas em
+uma organização é coordenar a atuação das pessoas nas
+diversas áreas e departamentos, gerenciando o desempenho e
+os conflitos nas equipes.
+
+Acerca de comportamento organizacional, relações entre
+indivíduo e organização, motivação, liderança, estilos de
+liderança, desempenho e trabalho em equipe, julgue os itens que
+se seguem.
+93
+
+A cultura de uma organização está relacionada à percepção
+mais momentânea do contexto, ao passo que o clima
+organizacional está associado a percepções e aprendizados
+internalizados ao longo da história de uma organização.
+
+94
+
+A motivação do indivíduo é um fator intrínseco, por isso
+uma chefia ou uma organização não são capazes, por si
+mesmas, de motivar alguém, podendo, no máximo, oferecer
+estímulos que incentivem o indivíduo a se motivar.
+
+95
+
+O tamanho de uma equipe é considerado irrelevante para o
+seu funcionamento, visto que a quantidade de membros não
+impacta o desempenho do grupo.
+
+96
+
+Segundo a teoria da atribuição da liderança, a uma pessoa é
+concedida liderança sobre outras pessoas e processos, o que,
+muitas vezes, explica a tendência de se responsabilizar o
+líder pelo bom ou mau desempenho de um grupo ou equipe.
+
+Em relação a desenvolvimento de pessoas e gestão de
+competências, julgue os itens subsequentes.
+97
+
+A configuração dos treinamentos e das ações educacionais
+no contexto das organizações deve sempre partir da visão do
+instrutor, uma vez que este detém o domínio técnico do
+assunto.
+
+98
+
+O mapeamento das competências avaliadas como essenciais
+para uma organização pode ser considerado um dos
+principais insumos para o levantamento e a avaliação das
+necessidades de treinamento e desenvolvimento e favorecer,
+ainda, o alinhamento dos interesses individuais aos
+organizacionais.
+
+A respeito da liderança e da gestão de pessoas no contexto
+posterior à pandemia de covid-19, julgue os itens subsecutivos.
+99
+
+Em um contexto de trabalho híbrido, é importante que o
+gestor desenvolva um estilo autocrático de liderança,
+valendo-se de mecanismos de controle e supervisão do
+tempo e de sua disponibilidade, especialmente em relação às
+pessoas que atuam de forma remota.
+
+100 Um dos principais desafios dos gestores no contexto
+
+pós-pandemia é o trabalho híbrido, que exige das lideranças
+habilidades para conciliar e integrar equipes, consideradas as
+especificidades tanto do trabalho presencial quanto do
+remoto.
+
+

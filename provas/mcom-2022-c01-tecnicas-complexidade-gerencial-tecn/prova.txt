@@ -1,0 +1,550 @@
+677001_01N727917
+
+-- CONHECIMENTO
+No que diz respeito aos dados estruturados e não estruturados,
+aos bancos de dados relacionais, ao modelo de referência
+CRISP-DM e à modelagem preditiva, julgue os itens seguintes.
+51
+
+Dados estruturados são aqueles representados em um
+formato estrito como, por exemplo, a informação
+armazenada nos bancos de dados.
+
+52
+
+A principal característica dos dados não estruturados é que
+eles não possuem metadados.
+
+53
+
+No modelo relacional, uma tabela é chamada, formalmente,
+de relação, enquanto uma linha é chamada de tupla.
+
+54
+
+No banco de dados relacional, é permitido criar uma chave
+primária utilizando-se dois ou mais campos definidos como
+chaves estrangeiras.
+
+55
+
+A modelagem preditiva é um processo matemático
+executado automaticamente pelo computador, entretanto ela
+não cria um modelo inteiro sozinha, pois necessita da
+intervenção do analista na fase inicial do processo de
+modelagem.
+
+56
+
+No início de um processo de descoberta de conhecimento em
+bases de dados (KDD), o CRISP-DM recomenda, em relação
+ao levantamento do hardware existente, que o processo de
+KDD seja realizado em plataforma com arquitetura não
+expansível, que forneça suporte e acesso somente à base de
+dados homogênea.
+
+Julgue os itens seguintes, quanto à SQL, às variáveis
+quantitativas e ao diagrama boxplot.
+57
+
+Em um diagrama de boxplot, cada caixa representa diversas
+variáveis a serem analisadas por meio do resumo de quatro
+números de um conjunto de dados que é composto pelo
+primeiro quartil, pelo segundo quartil, pelo terceiro quartil e
+pela mediana.
+
+58
+
+O comando a seguir, além de conceder o privilégio de leitura
+na tabela outorga para o usuário mcom, permite também
+que o mcom possa conceder esse privilégio para outros
+usuários.
+GRANT SELECT ON outorga TO mcom WITH GRANT
+OPTION;
+
+59
+
+O comando CREATE TABLE pode ser usado para realizar o
+backup de uma única tabela, copiando seus dados e suas
+definições (chaves primárias, estrangeiras, índices, entre
+outros); por exemplo, o comando a seguir cria o backup da
+tabela radcom.
+CREATE TABLE
+radcom;
+
+radcom_bkp
+
+AS
+
+SELECT
+
+*
+
+FROM
+
+60
+
+As variáveis quantitativas discretas são aquelas que
+assumem valores no conjunto dos números naturais, como o
+número de municípios brasileiros que recebem atualmente a
+programação de TV em sinal analógico, por exemplo.
+
+61
+
+Os boxplots podem ser usados para realizar análise de um
+estudo da associação entre uma variável quantitativa e uma
+qualitativa.
+
+
+CEBRASPE – MCOM – Edital: 2022
+
+OS ESPECÍFICOS -Acerca de processamento MapReduce, julgue o item a seguir.
+62 MapReduce é um modelo de programação desenhado para
+processar grandes volumes de dados em paralelo, dividindo
+o trabalho em um conjunto de tarefas independentes.
+Com relação a sistemas de arquivos distribuídos e
+armazenamento orientado a objeto, julgue os próximos itens.
+63 Os sistemas de armazenamento de dados S3 fornecem um
+caminho de migração conveniente para os usuários dos
+bancos de dados relacionais que desejam usar recursos
+orientados a objeto; eles aceitam uma forma nativa de acesso
+direto aos dados de uma linguagem de programação
+orientada a objeto, usando uma linguagem nativa
+denominada S.
+64 O HDFS fornece acesso de alto rendimento a grandes
+conjuntos de dados; o sistema armazena, separadamente,
+metadados do sistema de arquivos e dados de aplicativos:
+enquanto os metadados são armazenados em um servidor
+dedicado, denominado NameNode, os dados da aplicação são
+armazenados em outros
+servidores, denominados
+DataNodes.
+Julgue o item subsecutivo, referente à HBase.
+65 Uma tabela HBase tem, pelo menos, uma família de colunas,
+que é uma coleção de todas as colunas da tabela.
+CREATE (n:Estado { ibge:11, name:'Rondonia',
+sigla : 'RO' });
+CREATE (n:Municipio { ibge:110001, nome:'Alta
+Floresta Doeste' , uf:11});
+CREATE (n:Municipio { ibge:110040, nome:'Alto
+Paraiso' , uf:11});
+CREATE (n:Municipio { ibge:110020, nome:'Porto
+Velho' , uf:11});
+CREATE (n:Estado { ibge:12, nome:'Acre', sigla :
+'AC' });
+CREATE
+(m:Municipio
+{
+ibge:120001,
+nome:'Acrelandia' , uf:12});
+CREATE (o:Municipio { ibge:120005, nome:'Assis
+Brasil' , uf:12});
+MATCH (a:Estado),(b:Municipio)
+WHERE a.ibge = b.uf
+CREATE (a)<-[r:pertence]-(b)
+RETURN r, b.nome, a.nome
+
+Considerando o código precedente em um banco de dados Neo4J,
+julgue o item subsequente.
+66 A seguir, é apresentado o resultado obtido após a execução
+do código em questão.
+
+Acerca de visualização de dados, julgue o item a seguir.
+67 Os dados caracterizados como categorias sem ordem, como,
+por exemplo, cachorro, cenoura, cebola, casa, também
+chamados de fatores, são categorias discretas e únicas sem
+ordem inerente.
+
+
+677001_01N727917
+
+No que se refere à qualidade de dados, julgue os itens que se
+seguem.
+68
+
+O framework Strong-Wang se concentra na qualidade dos
+dados e nas percepções dos dados dos consumidores e define
+as seguintes quatro dimensões: usabilidade, problemas de
+tempo, flexibilidade e unicidade.
+
+69
+
+Na visão DMBOK, a equipe do programa Data Quality
+envolve profissionais de gerenciamento de dados comerciais
+e técnicos e é responsável por conduzir o trabalho de
+aplicação de técnicas de gerenciamento de qualidade aos
+dados, a fim de garantir que os dados sejam adequados ao
+consumo para diversas finalidades.
+
+70
+
+Na visão DMBOK, qualidade de dados refere-se tanto às
+características associadas a dados de alta qualidade quanto
+aos processos de armazenamento e recuperação, na medida
+em que estes atendem os requisitos de normalização corretos.
+
+Julgue os próximos itens, a respeito de ETL, ELT e data lake.
+71
+
+Data lake é um tipo de repositório que armazena grandes
+volumes de dados, sob um esquema de banco de dados
+comum, unificado, visando responder perguntas específicas
+do negócio; esse sistema de armazenamento também oferece
+uma visão multidimensional dos dados atômicos e
+resumidos.
+
+72
+
+O processo ETL (extrair, transformar e carregar) permite
+analisar grandes volumes de dados de forma rápida; para
+isso, é necessário duplicar o espaço em disco e triplicar o
+tempo no carregamento e na transformação de dados em
+relação ao ELT (extrair, carregar e transformar), que
+compacta os dados no carregamento.
+
+Julgue o item a seguir, quanto à ingestão de dados.
+73
+
+A ingestão de dados é o processo de obtenção e importação
+de dados para uso imediato ou armazenamento em um banco
+de dados. Em um processo de ingestão de dados eficaz, a
+primeira etapa consiste em priorizar as fontes de dados;
+arquivos individuais devem ser validados, e os itens de dados
+devem ser roteados para os destinos corretos.
+
+Julgue os próximos itens, relativos a testes de software, TDD
+(test driven development) e XML.
+74
+
+Considere que todas as prefeituras do país devam enviar
+mensalmente ao Ministério das Comunicações arquivos
+XML que contenham dados referentes à aplicação dos
+programas de governo, devendo os arquivos enviados estar
+no formato XML e ser entregues no site do ministério em
+formulário próprio, caso em que se faz necessário validar os
+dados inseridos dentro dos arquivos XML, de forma a se
+verificar o conteúdo por meio de regras preestabelecidas.
+Nessa situação hipotética, para validar o documento XML e
+provar que ele é válido, deve-se utilizar a XSLT, pois esta
+define a estrutura, os elementos e os atributos legais de um
+documento XML.
+
+75
+
+No TDD, os testes que embasam a refatoração são do tipo
+caixa preta, pois o foco é a funcionalidade em vez do modo
+de desenvolvimento, logo, ao se utilizar o TDD, é
+incompatível executar testes unitários em uma estratégia
+caixa branca.
+
+
+CEBRASPE – MCOM – Edital: 2022
+
+Julgue os itens seguintes, a respeito de acessibilidade e
+usabilidade.
+76 De acordo com o Modelo de Acessibilidade em Governo
+Eletrônico (eMAG), não se devem utilizar âncoras, isto é,
+links para uma mesma página. No lugar delas, devem ser
+utilizadas marcações semânticas adequadas, como H1, H2,
+H3 para cabeçalhos e Ul, Ol, Dl para listas.
+77 O código HTML a seguir especifica corretamente, por meio
+do atributo subtitle, uma alternativa de texto para a
+imagem logo-mcom.jpg, sendo essa uma diretriz de
+acessibilidade da W3C, que trata de fornecer alternativas de
+texto para qualquer conteúdo não textual.
+<img src=“logo-mcom.jpg” subtitle=“Logomarca
+do Ministério” width=“300” height=“500”>
+
+Acerca de arquiteturas, práticas e serviços, julgue os itens
+subsequentes.
+78 DesignOps está relacionado às práticas operacionais que
+permitem o gerenciamento de equipes de design por meio de
+abordagens que combinam a experiência do usuário com o
+gerenciamento de operações de tecnologias e processos
+compatíveis com o DevOps para a entrega de ativos de
+design.
+79 Considere que o Ministério das Comunicações possua um
+serviço estratégico desenvolvido em arquitetura monolítica,
+disponibilizado por meio de aplicativo monolítico e acessível
+por meio de browser no servidor de aplicação, que acessa
+um banco de dados em outro servidor. Considere, ainda, que
+os usuários desse serviço reclamem frequentemente da
+usabilidade do sistema, que é agravada pela impossibilidade
+de consumir serviços a partir dele. Nessa situação hipotética,
+a adoção da MASA (Mesh App and Service Architecture)
+ajudaria a resolver esse problema, uma vez que, nessa
+arquitetura, o backend do aplicativo é personalizável, pois
+consiste em vários módulos independentes que os
+desenvolvedores podem criar e atualizar, de modo a permitir
+uma experiência múltipla do usuário ao acessar o aplicativo
+por meio de dispositivos distintos.
+Julgue os itens que se seguem, relativos a desenvolvimento de
+sistemas web e metodologias ágeis.
+80 De acordo com o Scrum 2020, product backlog é um artefato
+considerado como fonte de trabalho realizado pelo scrum
+team; o compromisso existe para reforçar o empirismo e os
+valores scrum para o scrum team; e a meta do produto é o
+compromisso do product backlog.
+81 A tecnologia WebSockets possibilita abrir uma sessão de
+comunicação interativa entre o browser do lado cliente e um
+servidor, de modo que haja um canal de comunicação
+full-duplex entre cliente e servidor por meio de uma única
+conexão TCP/IP.
+Com relação a sistemas operacionais e redes de computadores,
+julgue os itens subsequentes.
+82 As camadas de aplicação, transporte e enlace estão presentes
+no modelo OSI e no modelo TCP/IP.
+83 Um firewall do tipo filtro de pacotes tem como objetivo
+permitir ou negar a entrada de um conjunto de informações
+em uma rede de computadores, considerando o IP e(ou) a
+porta de origem.
+84 A multiprogramação de sistemas operacionais permite que
+um mesmo processo seja executado em computadores com
+Windows e Linux.
+
+
+677001_01N727917
+
+Julgue os próximos itens, a respeito de banco de dados.
+Os comandos SQL contidos em uma STORED PROCEDURE
+devem ser enviados pelo cliente ao servidor do banco de
+dados, para serem executados.
+86 Em um banco de dados PostgreSQL, TABLESPACE é
+considerado um diretório onde os arquivos de dados são
+armazenados.
+87 Independentemente do sistema operacional que esteja
+instalado, no MySQL os nomes de tabelas são case
+sensitives.
+85
+
+Acerca de arquitetura de TI, julgue os itens que se seguem.
+88 Na arquitetura cliente/servidor multinível, uma mesma
+aplicação pode ser servidor para um cliente e cliente para
+outro servidor, desde que não simultaneamente.
+89 Em containers, a decomposição de funções de uma aplicação
+resulta em microsserviços, independentes entre si e com
+fraco acoplamento.
+Julgue os próximos itens, relativos a engenharia de software e
+processos de desenvolvimento de software.
+90 Na orientação a objetos, uma classe é uma descrição
+generalizada acerca de uma coleção de objetos similares, em
+que métodos são instâncias de uma classe específica e
+herdam seus atributos e suas propriedades.
+91 Conforme o modelo espiral da figura a seguir, o software
+será desenvolvido em uma série de versões evolucionárias,
+consistindo em um protótipo, nas primeiras iterações, e,
+progressivamente, em versões cada vez mais sofisticadas,
+nas iterações posteriores.
+
+Julgue os itens a seguir, a respeito de UML e MVC.
+92 Na arquitetura MVC, o controller contém todo o conteúdo e
+a lógica de processamento específicos para a aplicação,
+incluindo o acesso a fontes de dado externas à aplicação.
+93 Para o diagrama de sequência a seguir, #3, #4 e #5 são
+objetos; a mensagem #1 é executada antes da #2; e #3 fica
+ativado durante toda sua linha de vida.
+
+
+CEBRASPE – MCOM – Edital: 2022
+<?php
+$nome =
+'Maria';
+?>
+
+$_GET['user']
+
+??
+
+$_POST['user']
+
+??
+
+Com base no trecho de código precedente, desenvolvido em PHP
+7, julgue o item seguinte.
+94 Os operadores ?? farão retornar o primeiro valor definido
+entre $_GET['user'], $_POST['user'] e 'Maria', ou
+seja, caso os dois primeiros operandos não existam ou sejam
+nulos, $nome receberá o valor Maria.
+
+Considerando o modelo precedente, no qual IdChefe é chave
+estrangeira relacionada à chave primária IdEmpregado, ambas
+em Empregado, julgue os itens a seguir, relativos a modelagem
+de dados e SQL.
+95 A sintaxe SQL apresentada a seguir é a correta para a criação
+da tabela Empregado.
+CREATE TABLE Empregado (
+IdEmpregado INT NOT NULL,
+IdChefe INT NULL,
+NoEmpregado VARCHAR(45),
+PRIMARY KEY (IdEmpregado),
+FOREIGN KEY (IdChefe)
+REFERENCES Empregado (IdEmpregado));
+96
+
+De acordo com o relacionamento indicado por #1,
+Empregado possui vários projetos relacionados a ele,
+havendo, no mínimo, um Projeto.
+
+Considerando o COBIT 2019, a ITIL 4 e o Decreto
+n.º 10.332/2020, julgue os itens seguintes.
+97 Suponha que o Ministério das Comunicações tenha de
+aplicar controles e atividades que visem obter e sustentar o
+gerenciamento eficaz dos ativos de dados corporativos em
+todo o seu ciclo de vida, desde sua criação até o seu
+arquivamento. Nesse contexto hipotético, pode ajudar na
+resolução dessa demanda o processo Dados Gerenciados
+(Managed Data), do COBIT 2019, que visa garantir a
+utilização eficaz dos ativos de dados críticos para atingir as
+metas e os objetivos corporativos.
+98 De acordo com o Decreto n.º 10.332/2020, o Plano de
+Transformação Digital, o Plano Diretor de Tecnologia da
+Informação e Comunicação e o Plano de Dados Abertos
+serão elaborados pela unidade competente dos órgãos, para
+consecução dos objetivos estabelecidos na Estratégia de
+Governo Digital.
+99 A cadeia de valor de serviço da ITIL 4 representa o modo
+como todos os componentes e as atividades de uma
+organização funcionam em conjunto; para facilitar a criação
+de valor, ela agrega dentro de si as práticas e os princípios
+orientadores.
+
+
+677001_01N727917
+
+No que se refere ao gerenciamento de projetos e à governança de
+TI, julgue os itens subsecutivos.
+a
+
+100 De acordo com o PMBOK (6. edição), o ciclo PDCA (plan,
+
+do, check, act) é a base para a melhoria contínua da
+qualidade do projeto.
+101 O COBIT estabelece seis níveis de maturidade para os
+
+processos de TI; no mais evoluído deles, há uma
+realimentação do desempenho medido.
+102 Na ITIL 4, cliente e usuário assumem o mesmo papel no que
+
+se refere ao consumo de serviços de uma organização.
+Acerca de engenharia de software, julgue os próximos itens.
+103 A engenharia de software é dividida em compreender o
+
+problema, planejar uma solução, executar o plano e examinar
+o resultado.
+104 Requisitos funcionais definem o que o software deve fazer, e
+
+requisitos não funcionais definem como o software deve
+fazer.
+105 Quanto à qualidade, o atributo de funcionalidade considera a
+
+estética e a facilidade no uso de um software.
+106 Refatorar um software consiste em modificar o seu
+
+comportamento interno e externo, mantendo-se inalterada
+sua estrutura interna.
+Julgue os itens seguintes, com base nas normas da ABNT.
+107 Segundo a ABNT NBR ISO/IEC 27005:2019, a modificação
+
+do risco de segurança da informação permite a aceitação do
+risco, de acordo com critérios estabelecidos.
+108 De acordo com a ABNT NBR ISO/IEC 27001:2013, o uso
+
+de dispositivos móveis e o trabalho remoto exigem os
+mesmos controles.
+109 As diretrizes da ABNT NBR ISO/IEC 27002:2013 incluem a
+
+segregação de funções, com objetivo de reduzir o uso
+indevido dos ativos de TI da organização.
+Julgue os itens a seguir, com relação a sistemas de gestão da
+segurança da informação.
+110 Os
+
+benefícios
+
+information
+
+que
+
+and
+
+as
+
+event
+
+ferramentas
+
+SIEM
+
+management)
+
+(security
+
+oferecem
+
+são
+
+identificação aprimorada e tempo de resposta por meio da
+agregação e normalização de dados.
+111 Segundo a NBR 27001:2013, as responsabilidades e
+
+obrigações relativas à segurança da informação que
+permaneçam válidas após o encerramento ou uma mudança
+da contratação devem ser definidas, comunicadas aos
+funcionários ou partes externas e cumpridas.
+
+
+CEBRASPE – MCOM – Edital: 2022
+
+Julgue os próximos itens, a respeito de ataques a redes de
+computadores, softwares maliciosos e vulnerabilidades em
+aplicações.
+112 Flood attack é um tipo de ação em redes de computadores
+
+com a finalidade de inundar a banda da rede para coletar
+informações referentes a dados pessoais e financeiros dos
+usuários.
+113 XSS é um ataque baseado na web e executado em aplicativos
+
+vulneráveis; nos ataques XSS, o conteúdo malicioso é
+entregue aos usuários por meio do JavaScript geralmente.
+114 Malware é qualquer software intencionalmente criado para
+
+causar danos a um computador, servidor, cliente ou a uma
+rede de computadores.
+Julgue os itens seguintes, referentes a mecanismos de
+autenticação, segurança de aplicativos web e segurança de redes
+de computadores.
+115 Autenticação multifatorial (MFA) consiste em um método de
+
+autenticação no qual os usuários devem fornecer dois ou
+mais campos de informação, como, por exemplo, usuário e
+senha.
+116 Denomina-se three-pronged firewall a utilização de um
+
+firewall com três pontos de rede: um para a rede privada,
+outro para a rede pública, e outro para a DMZ.
+117 Computadores com botnet são aqueles cuja partição de boot
+
+é configurada para que sua segurança seja máxima, com
+monitoramento e com acesso remoto somente via senha.
+Acerca de sistema de backup, julgue o item a seguir.
+118 O backup incremental é um meio de se criar um subsistema
+
+de armazenamento composto por vários discos individuais,
+com vistas ao ganho de segurança — por meio da
+redundância de dados — e de desempenho.
+A respeito de registros de auditoria e de segurança em servidores
+WWW, julgue os itens subsequentes.
+119 O protocolo de transferência de hipertexto seguro, HTTPS, é
+
+um protocolo de comunicação da Internet que protege a
+integridade e a confidencialidade dos dados durante a
+interação entre o computador do usuário e o site acessado.
+120 Syslog é o arquivo de registro do sistema operacional
+
+Windows no qual se pode encontrar o exato momento em
+que cada pacote foi instalado ou atualizado, informação essa
+que pode ser útil para o desenvolvimento de medidas de
+segurança.
+
+

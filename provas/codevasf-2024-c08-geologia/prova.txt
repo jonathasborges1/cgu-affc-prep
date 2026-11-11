@@ -1,0 +1,312 @@
+CEBRASPE – CODEVASF – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Julgue os seguintes itens, referentes à mineralogia.
+51 A calcita é um mineral identificado como biaxial, pois
+apresenta birrefringência quando a luz passa por seus
+cristais.
+52 As substâncias não cristalinas, tais como gases, líquidos,
+vidros e cristais do sistema cúbico, são consideradas
+isotrópicas.
+53 Os minerais anisotrópicos possuem mais de um índice de
+refração e são divididos em dois grupos: os monaxiais e os
+biaxiais.
+54 Todas as substâncias cristalinas são anisotrópicas.
+Acerca da classificação genérica das rochas sedimentares, ígneas
+e metamórficas, julgue os itens a seguir.
+55 A rocha esteatito, popularmente conhecida como
+pedra-sabão, é uma rocha ígnea intemperizada composta por
+talco, dolomita e anfibólios, sendo encontrada na região do
+quadrilátero ferrífero brasileiro, em Minas Gerais.
+56 Migmatito é uma rocha híbrida (ígneo-metamórfica) com
+feições ígneas e metamórficas interdigitadas.
+57 Carbonatito é uma rocha metamórfica composta por mais de
+50% de minerais carbonáticos, a saber, calcita, dolomita
+e(ou) ankerita.
+58 Varvitos são rochas sedimentares compostas por varves e
+originadas em lagos de ambientes glaciais ou proglaciais.
+59 Ortognaisse é uma rocha metamórfica derivada de rocha
+ígnea, ao passo que paraconglomerado é uma rocha
+sedimentar clástica matriz suportada (mais de 15% de
+matriz).
+Em relação a paleontologia, mineralogia e geoquímica, julgue os
+itens subsequentes.
+60 Os icnofósseis abrangem diferentes tipos de estruturas
+resultantes das atividades de organismo que pode ser
+preservado em sedimentos, rochas ou corpo fóssil, como
+bioturbações, bioerosões, coprólitos, ovos e nidificações.
+61 As análises de isótopos Sm/Nd apresentam vantagens
+significativas para o entendimento da evolução magmática
+quando comparadas às análises de isótopos de Rb/Sr e U/Pb.
+62 Todos os fósseis ocorrem em rochas sedimentares e se
+formam, portanto, em ambiente de bacias sedimentares por
+meio dos processos sedimentares típicos: erosão, transporte,
+sedimentação, compactação, cimentação e diagênese.
+63 A fosfatização é um processo de fossildiagênese que ocorre
+em ambientes ricos em matéria orgânica e pode compor os
+fósseis na forma de apatita.
+Acerca das rochas ígneas, julgue os próximos itens.
+64 Nos termos da nomenclatura composicional das rochas,
+félsico diz respeito à presença dos minerais silicatados de
+cores claras.
+65 A rocha denominada plutônica fanerítica apresenta textura
+fanerítica, o que indica que ela que foi cristalizada
+lentamente abaixo da superfície da Terra.
+66 As rochas que têm cristais e componentes demasiado
+pequenos para serem identificados a olho nu incluem-se na
+classificação de rochas faneríticas.
+No que se refere à geologia de engenharia de barragens, julgue os
+seguintes itens.
+67 A presença de rochas sedimentares na fundação de uma
+barragem é considerada ideal.
+68 Rochas metamórficas são consideradas excelentes materiais
+para a construção do núcleo de uma barragem.
+
+A respeito do intemperismo de solos tropicais, julgue os itens a
+seguir.
+69
+
+Solos tropicais são geralmente ricos em nutrientes devido ao
+intenso intemperismo químico característico dos trópicos.
+
+70
+
+A alta pluviosidade em climas tropicais acelera as reações
+químicas no solo, o que resulta em um intemperismo mais
+intensivo.
+
+Em relação à geomorfologia, julgue os seguintes itens.
+71
+
+A presença de calhas relictas em uma região é um indicador
+inconsistente de atividade hidrológica passada.
+
+72
+
+O estudo do perfil longitudinal de um rio pode ser utilizado
+para prever áreas potenciais de risco de inundação, ainda que
+não haja dados históricos de enchentes na região.
+
+Julgue os seguintes itens, a respeito de métodos geofísicos.
+73
+
+A presença de corpos de minério com alta densidade pode
+ser detectada por meio de anomalias gravimétricas positivas.
+
+74
+
+Por sua capacidade de mapear variações no subsolo, a
+tomografia sísmica é adequada para a investigação de solos
+altamente heterogêneos, visto que ela fornece dados críticos
+para o entendimento da distribuição de diferentes materiais
+geológicos nessas condições.
+
+Em relação à geologia de engenharia de obras viárias e
+obras subterrâneas, julgue os próximos itens.
+75
+
+A análise geotérmica do subsolo é dispensável para a
+construção de túneis em regiões de clima temperado.
+
+76
+
+A utilização de geossintéticos na estabilização de solos é
+redundante em áreas onde o substrato rochoso seja
+superficial.
+
+77
+
+A presença de veios de quartzo é benéfica a obras
+subterrâneas, pois aumenta a estabilidade ao redor da rocha.
+
+78
+
+Solos com alta plasticidade são ideais para servir como base
+de pavimentos em rodovias.
+
+Julgue os próximos itens, relativos aos processos de erosão.
+79
+
+A construção de barragens em rios tende a eliminar a erosão
+a jusante devido ao controle do fluxo de água.
+
+80
+
+Em áreas urbanas, as superfícies impermeáveis contribuem
+para a redução da erosão.
+
+Acerca dos movimentos gravitacionais de massa, julgue os itens
+subsequentes.
+81
+
+Técnicas de revegetação podem ser ineficazes em encostas
+compostas por rochas com pouca cobertura de solo, em razão
+da falta de substrato adequado para o crescimento das
+plantas, o que limita a capacidade de estas estabilizarem a
+encosta através de suas raízes.
+
+82
+
+A probabilidade de deslizamentos em encostas que
+apresentem gradientes menores que 15 graus é menor que em
+encostas com gradientes maiores que 15 graus, devido à
+menor força gravitacional que age sobre o material do solo.
+
+CEBRASPE – CODEVASF – Edital: 2024
+
+Julgue os itens subsequentes, a respeito de geoprocessamento.
+83
+
+A estrutura de dados do tipo quadtree exige capacidade de
+armazenamento maior que a estrutura matricial simples,
+embora o tempo de processamento daquela estrutura para a
+busca de um atributo seja menor que o desta.
+
+84
+
+As operações de buffer disponível na maioria dos sistemas
+de informações geográficas sempre resultam na geração de
+polígonos fechados.
+
+85
+
+Mapas de solos, dados de precipitação e modelos digitais de
+elevação derivados de imagens de satélite são armazenados
+no formato matricial.
+
+86
+
+Quanto maior for o tamanho das células, maior será a
+acurácia das medidas efetuadas em dados no formato raster.
+
+Com base na figura precedente, que representa a distribuição
+espacial de dois polígonos, A e B, em um sistema de coordenadas
+cartesianas xOy, julgue os itens seguintes.
+87
+
+Os polígonos A e B possuem a mesma área.
+
+88
+
+O polígono A é formado por dois arcos, enquanto, no
+ponto 1, há um encontro de três arcos.
+
+Um técnico deve identificar, em seu trabalho de campo, as
+principais unidades litológicas presentes em uma transecção que
+mede 5 centímetros em um mapa planimétrico com nomenclatura
+XF-24-V-A-IV-2, além de anotar o mergulho das camadas de
+cada unidade encontrada.
+Com base na situação hipotética apresentada, julgue os itens que
+se seguem.
+89
+
+Para determinar a medida do mergulho das camadas, o
+técnico deve medir o ângulo formado entre o plano da
+camada litológica e o plano horizontal.
+
+90
+
+O comprimento real da transecção é 2,5 km.
+
+Julgue os itens seguintes, relativos a cartografia geoambiental.
+91
+
+Áreas em que predominam neossolos litólicos,
+caracterizados como solos profundos e com alta fertilidade,
+são ideais para a produção de alimentos.
+
+92
+
+Áreas com elevada densidade de drenagem, em geral, são
+mais favoráveis à expansão urbana que áreas com baixa
+densidade de drenagem.
+
+93
+
+De acordo com a legislação ambiental vigente, áreas com
+declividade acima de 45° não podem ser ocupadas.
+
+A respeito da contaminação de aquíferos, julgue os seguintes
+itens.
+94 O método de biorremediação consiste na utilização de
+micro-organismos para degradar contaminantes orgânicos
+em aquíferos.
+95 Para o tratamento da água contaminada em aquíferos, as
+barreiras reativas permeáveis devem ser instaladas acima da
+superfície do solo.
+96 Os processos naturais utilizados na atenuação natural
+monitorada são bastante eficazes na limpeza de aquíferos
+contaminados, não havendo necessidade do emprego de
+outras técnicas de monitoramento.
+97 O método de bomba e tratamento é eficaz para a remoção de
+contaminantes voláteis de aquíferos.
+Julgue os itens a seguir, no que se refere à contaminação de
+solos.
+98 A bioacumulação de contaminantes orgânicos ocorre em
+tecidos vegetais, mas é improvável de ocorrer no caso de
+metais pesados.
+99 Técnicas de espectroscopia são utilizadas para a
+identificação da presença de metais pesados no solo.
+100 A construção civil é fundamental tanto para a expansão
+urbana de uma cidade como para a descontaminação dos
+solos.
+Acerca das mudanças climáticas e atmosféricas na história
+geológica da Terra, julgue os itens subsequentes.
+101 Os períodos interglaciais foram marcados por uma
+estabilidade climática que minimizou mudanças ambientais.
+102 As glaciações do Pré-Cambriano são indicativos de que o
+planeta teve períodos de temperatura extremamente baixa
+antes do desenvolvimento de vida complexa.
+103 A tectônica de placas teve pouca influência nas mudanças
+climáticas ao longo da história geológica do planeta.
+104 Bolhas de ar em núcleos de gelo mostram correlação entre os
+níveis de CO2 e as variações climáticas ao longo da história
+geológica do planeta.
+Julgue os itens a seguir, no que se refere à geologia econômica.
+105 Os maiores depósitos de minerais metálicos do Brasil são
+encontrados
+principalmente
+em
+faixas
+móveis
+neoproterozoicas.
+106 Denomina-se relação estéril/minério a concentração mínima
+necessária para tornar economicamente viável a extração de
+um mineral de minério.
+107 No Brasil, o diamante e o alumínio são extraídos
+principalmente de rochas kimberlíticas e bauxíticas,
+respectivamente.
+108 Uma concentração de 20 ppm de ouro em uma amostra de
+sedimento de rio indica que há 20 gramas de ouro em uma
+tonelada de sedimento.
+Com base na legislação mineral e ambiental vigente no Brasil,
+julgue os itens subsequentes.
+109 O proprietário da terra onde a jazida esteja sendo lavrada
+possui direito a 50% do lucro total auferido pela empresa
+mineradora.
+110 O prazo de validade de autorização para a pesquisa mineral é
+de quatro anos.
+111 A instituição pública que autoriza a pesquisa mineral de
+campo em determinada área de estudo é o Departamento
+Nacional de Produção Mineral (DNPM).
+
+CEBRASPE – CODEVASF – Edital: 2024
+
+Acerca da lavra de mina subterrânea e da lavra de mina a céu aberto, julgue os próximos itens.
+112 São métodos de lavras a céu aberto: lavras em tiras e lavras em bancadas.
+113 O método de lavra denominado strip mining é indicado para os casos em que o minério esteja recoberto por camadas pouco
+espessas de material estéril.
+114 O critério utilizado para a escolha do método lavra a céu aberto ou lavra subterrânea restringe-se à profundidade do minério.
+Com relação à gestão de recursos hídricos no Brasil, julgue os itens seguintes.
+115 A extração de água subterrânea para consumo final ou para irrigação está sujeita à outorga pelo poder público.
+116 Em situações de escassez, os usos prioritários dos recursos hídricos devem ser destinados ao consumo humano e ao industrial.
+No que tange à cartografia de riscos geológicos urbanos e à segurança na mineração, julgue os seguintes itens.
+117 É recomendável que os taludes das barragens de rejeito de mineração sejam revegetados com espécies arbóreo-arbustivas, em
+detrimento das espécies herbáceas, a fim de contribuir para a melhoria da estética do ambiente.
+118 O Serviço Geológico do Brasil estabelece que a escala dos mapas de riscos geológicos em áreas urbanas seja de 1:10.000 ou
+superior.
+119 Os mapas de riscos geológicos urbanos devem ser disponibilizados no sistema de coordenadas geográficas e no datum WGS84.
+120 As setorizações de áreas de risco geológico em zonas urbanas são desenvolvidas exclusivamente em regiões onde existem
+imóveis em que haja permanência humana, como casas, edifícios, hospitais, escolas e estabelecimentos comerciais.
+Espaço livre
+
+

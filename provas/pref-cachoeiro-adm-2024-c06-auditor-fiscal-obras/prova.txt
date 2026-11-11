@@ -1,0 +1,318 @@
+CE
+
+-- CONHECIMENTO
+Acerca do papel do Estado e da atuação do governo nas finanças
+públicas, julgue o item que se segue.
+61 Uma das formas de se buscar equidade na sociedade por
+meio da intervenção estatal consiste na criação de um tributo
+proporcional para financiar o orçamento público; assim, os
+mais ricos pagariam proporcionalmente mais impostos que
+os mais pobres.
+A ação planejada do Estado na manutenção de suas atividades e
+na execução de seus projetos materializa-se por meio do
+orçamento público. A respeito desse assunto, julgue os itens a
+seguir.
+62 Em consonância com o princípio da totalidade orçamentária,
+cada ente da Federação deve elaborar uma única lei
+orçamentária com todas as receitas previstas e despesas
+fixadas para o exercício financeiro.
+63 Durante o ciclo orçamentário, a Lei de Diretrizes
+Orçamentárias define diretrizes, programas, objetivos e
+metas para a estruturação do plano plurianual que vai
+orientar a atuação governamental no quadriênio.
+No que se refere ao sistema de planejamento e de orçamento
+público no Brasil, julgue os itens seguintes.
+64 A União, os estados, o Distrito Federal e os municípios
+estabelecerão, em atos próprios, a classificação funcional dos
+seus orçamentos, organizados por funções e subfunções, em
+consonância com a estrutura de programas do sistema de
+planejamento e orçamento federal.
+65 As unidades orçamentárias integram o sistema de
+planejamento e orçamento e ocupam o maior nível da
+classificação institucional, sendo responsáveis pela
+apresentação da programação orçamentária detalhada da
+despesa por programa, ação e subtítulo.
+Em 20/1/2022, a Prefeitura de Cachoeiro de Itapemirim
+emitiu os boletos para a cobrança do IPTU de 2022, no valor de
+R$ 34.033.996,80. Em 1.º/1/2023, o município fez a cobrança
+judicial dos valores do IPTU de 2022 dos contribuintes
+inadimplentes, no montante de R$ 4.033.000,00.
+A partir dessa situação hipotética, julgue os itens que se seguem.
+66 O valor de R$ 4.033.000,00 corresponde à receita do IPTU
+de 2022 inscrita em dívida ativa municipal.
+67 No momento da emissão dos boletos para a cobrança do
+IPTU de 2022 (20/1/2022), quando a Prefeitura de Cachoeiro
+de Itapemirim identificou a ocorrência do fato gerador do
+IPTU, determinou a matéria tributável, calculou o montante
+do tributo devido e identificou o sujeito passivo, o estágio da
+receita do IPTU era o da cobrança.
+À luz da Lei Complementar n.º 101/2000 (Lei de
+Responsabilidade Fiscal — LRF), julgue os próximos itens.
+68 A LRF atribuiu novas funções à lei de diretrizes
+orçamentárias, além daquelas já constantes da Constituição
+Federal de 1988, sendo uma dessas inovações o anexo de
+metas fiscais, instrumento no qual são estabelecidas metas
+anuais relativas a receitas, despesas, resultados nominal e
+primário e montante da dívida pública.
+69 Entre os parâmetros estabelecidos na LRF para
+acompanhamento das metas e dos limites fiscais, está a
+receita corrente líquida, que, no âmbito municipal, é apurada
+sem deduções de transferências constitucionais.
+70 A regra de ouro prevista na LRF estabelece que nenhum ato
+que provoque aumento da despesa de pessoal poderá ser
+editado nos 180 dias anteriores ao final da legislatura ou do
+mandato dos chefes dos Poderes Executivos.
+
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+OS ESPECÍFICOS -Com relação a projeto e execução de aterramento de instalações
+elétricas prediais de baixa tensão, julgue os itens seguintes.
+O aterramento funcional consiste na ligação à terra dos
+elementos condutores estranhos ao sistema, com o objetivo
+de proporcionar o funcionamento correto e seguro das
+instalações elétricas da edificação.
+72 Nas normas vigentes, é permitido o uso das próprias
+armaduras de concreto das fundações da edificação como
+aterramento.
+71
+
+A respeito de caixas de gordura e caixas de inspeção, dispositivos
+comumente utilizados em sistemas prediais de esgotos sanitários,
+julgue os itens subsecutivos.
+Caixas de inspeção podem ser usadas para receber efluentes
+fecais.
+74 Em edificações de vários pavimentos sobrepostos, quando o
+uso de caixas de gordura coletivas não for autorizado pela
+autoridade pública competente, o uso de caixas de gordura
+individuais nos andares fica a critério do projetista.
+73
+
+Julgue o item a seguir, de acordo com a NBR 9077:2001.
+75
+
+As saídas de emergência são dimensionadas em função da
+população da edificação.
+
+Um prédio particular, localizado na área urbana de
+Cachoeiro de Itapemirim, foi avaliado para fins de aquisição pela
+respectiva prefeitura. Durante a auditoria do processo,
+verificou-se que o avaliador adotou uma situação paradigma, em
+vez de realizar a vistoria do referido bem, uma vez que possuía
+em mãos toda a documentação necessária para a realização dos
+trabalhos. Além disso, o avaliador identificou o valor de mercado
+do bem por meio do método involutivo, sob a justificativa de se
+tratar da metodologia mais adequada para imóveis urbanos a
+serem adquiridos por entes públicos.
+Com referência à auditoria objeto da situação hipotética
+precedente, julgue os próximos itens, considerando a norma
+NBR 14653.
+76 Embora seja uma metodologia utilizada para a avaliação de
+bens, o método involutivo é adequado para identificar o
+custo do bem, mas é inadequado para estabelecer o valor de
+mercado desse bem.
+77 A metodologia escolhida deve ser compatível com a natureza
+do bem avaliando, a finalidade da avaliação e os dados de
+mercado disponíveis, razão por que devem ser consideradas
+improcedentes as justificativas apresentadas pelo avaliador.
+78 Na avaliação do prédio em apreço, somente seria cabível a
+adoção de uma situação paradigma se não fosse possível o
+acesso do avaliador ao interior do referido imóvel, desde que
+em comum acordo com o contratante, e que esse acordo
+fosse explicitado no laudo de avaliação.
+À luz da NBR 14653, julgue os itens a seguir, pertinentes a
+laudos de avaliação de bens.
+Para a identificação de indicadores de viabilidade, os laudos
+de avaliação de empreendimentos podem ser apresentados
+tanto na modalidade simplificada quanto na completa.
+80 Um laudo simplificado deve conter, de forma sucinta, as
+informações necessárias ao seu entendimento.
+79
+
+
+CE
+
+Tendo em vista que, no desenvolvimento de um projeto,
+incertezas sempre existirão e poderão influenciar de maneira
+significativa o resultado esperado, julgue os itens que se seguem,
+pertinentes a conceitos relacionados a riscos de um projeto.
+81
+
+Uma forma de lidar com um risco é mitigá-lo, ou seja,
+eliminar sua chance de ocorrência e desconsiderar o possível
+impacto que sua ocorrência acarretaria.
+
+82
+
+A análise de riscos é um procedimento usado para detectar
+ameaças à obtenção do resultado esperado de um projeto, as
+quais podem conduzir os gestores à decisão de não iniciá-lo.
+
+Julgue os itens seguintes, a respeito de projetos, programas e
+processos.
+83
+
+O escopo de um projeto contém as atividades que devem ser
+realizadas para se entregar um determinado produto, bem
+como a definição das características e funções que o
+descrevem, devendo o projeto ser gerenciado para que se
+evitem desvios que atrapalhem a sua entrega.
+
+84
+
+Projeto é um conjunto de atividades sequenciais que fazem
+parte do portfólio de ações permanentes de uma empresa.
+
+No decorrer de uma construção, observou-se que uma
+tubulação de 100 mm de diâmetro atravessava uma viga de 30 cm
+de altura, em uma posição que distava 10 cm do apoio da viga.
+Tendo-se constatado que tal situação provocaria riscos à
+estabilidade
+do
+sistema
+estrutural,
+pois
+reduziria
+significativamente a capacidade portante do sistema, decidiu-se
+manter a disposição encontrada, mediante a realização de um
+reforço da viga, o qual implicaria aumento nos custos da
+edificação e no tempo de duração da obra.
+Com base nessa situação hipotética, julgue o item a seguir.
+85
+
+A situação denota um caso típico em que não foi realizada a
+devida compatibilização, procedimento que detecta
+interferências entre as diversas disciplinas ainda na fase de
+elaboração dos projetos, o que permite a busca por soluções
+rápidas, evitando-se desperdícios financeiros e de tempo
+durante a fase de execução da obra.
+
+A respeito da fase interna de licitação de obras públicas,
+julgue os itens subsequentes, de acordo com a atual redação da
+Lei n.º 14.133/2021.
+86
+
+O planejamento das contratações deve estar alinhado ao
+planejamento estratégico e às leis orçamentárias.
+
+87
+
+O orçamento detalhado do custo global da obra é elemento
+obrigatório na elaboração do projeto básico das contratações
+integradas de obras.
+
+88
+
+O projeto básico, como primeira etapa de planejamento, deve
+anteceder o estudo técnico preliminar.
+
+89
+
+Projetos anteriores, que embasaram a solução, e
+levantamento topográfico são elementos que podem compor
+o anteprojeto de uma obra.
+
+90
+
+A matriz de riscos é cláusula contratual obrigatória em
+contratações integradas e semi-integradas de obras.
+
+
+EBRASPE – PREF. CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+A respeito de orçamento de referência de obras e serviços de
+engenharia para licitação, julgue os itens subsequentes, de
+acordo com a atual redação da Lei n.º 14.133/2021 e do Decreto
+n.º 7.983/2013.
+91
+
+Em contratações integradas, o licitante deverá apresentar sua
+proposta, no mínimo, com o mesmo nível de detalhamento
+do orçamento sintético de referência.
+
+92
+
+Na elaboração do orçamento de referência por servidor
+público efetivo, é dispensável a anotação de responsabilidade
+técnica integrar o edital de licitações.
+
+93
+
+Em licitações de obras públicas que também envolvam
+recursos da União, municípios podem adotar tabelas
+referenciais próprias para estimar o valor da contratação,
+desde que a parcela de recursos da União seja inferior à dos
+municípios.
+
+94
+
+Na composição do BDI, a parcela de percentuais de tributos
+deve prever o imposto de renda de pessoa jurídica (IRPJ).
+
+95
+
+Em licitações de obras por empreitada por preço global, é
+permitido ao licitante apresentar custos unitários diferentes
+dos sistemas de custos referenciais, desde que o preço global
+e o de cada uma das etapas previstas no cronograma
+físico-financeiro do contrato fiquem limitados ao preço de
+referência.
+
+A respeito de fiscalização e controle de execução de obras
+públicas, julgue os próximos itens.
+96
+
+Quando houver erros significativos nas quantidades do
+orçamento de referência, durante a execução do contrato é
+recomendável substituir o regime de execução para
+empreitada por preço unitário, como forma de sanar os erros
+grosseiros constantes no projeto básico.
+
+97
+
+Desde que sejam atendidas as condicionantes legais e
+havendo
+
+previsão
+
+em
+
+edital,
+
+excepcionalmente
+
+será
+
+permitida a antecipação de pagamento em contratos
+públicos.
+98
+
+Devido à falta de orçamento detalhado no anteprojeto, é
+dispensável, na licitação de contratações integradas, o
+critério de medição vinculado ao cumprimento de metas de
+resultado.
+
+99
+
+Nas contratações integradas, após a elaboração do projeto
+básico
+
+pela
+
+contratada,
+
+o
+
+respectivo
+
+cronograma
+
+físico-financeiro também deve ser ajustado e submetido à
+aprovação da fiscalização.
+100 Na execução de contratos de obras públicas previstas em
+
+plano plurianual, a fiscalização deve cuidar para que somente
+sejam executados serviços conforme a disponibilidade
+orçamentária no corrente exercício financeiro.
+
+

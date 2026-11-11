@@ -1,0 +1,373 @@
+                                  -- CONHECIMENTO
+Com referência à elaboração de demonstrações contábeis pela
+legislação societária e pelos pronunciamentos técnicos do Comitê
+de Pronunciamentos Contábeis, julgue os itens subsequentes.
+51 Os resultados abrangentes que afetaram o patrimônio líquido
+     ao longo do exercício são apresentados tanto na
+     demonstração do resultado do exercício quanto na
+     demonstração dos resultados abrangentes.
+52 O grupo de exigibilidades do balanço patrimonial é dividido
+     em circulante e não circulante, apresentando-se o resultado
+     dos exercícios futuros neste último grupo.
+Acerca da mensuração ao valor justo, julgue os itens seguintes.
+53 A relação entre o preço e o lucro de uma ação, utilizada
+    pelos agentes econômicos para precificar o valor de uma
+    ação, é uma técnica de mercado para avaliação do valor justo
+    do ativo.
+54 Havendo dois valores para determinado bem no mercado, o
+    valor justo será o valor do melhor uso que o agente
+    econômico interessado poderá fazer desse bem.
+Julgue os itens seguintes, a respeito de procedimentos contábeis
+aplicáveis a operações de empréstimos, ativos contingentes e
+combinações de negócios.
+55 A fusão é uma combinação de negócios em que duas ou mais
+     sociedades se unem para formar uma nova sociedade,
+     devendo os direitos e as obrigações dessas sociedades ser
+     transferidos para o patrimônio da nova sociedade.
+56 O ativo contingente, que não deve ser objeto de
+     reconhecimento pela contabilidade, surge de um evento que
+     dá origem à possibilidade de entrada de benefícios futuros
+     para a entidade, a depender da ocorrência de um ou mais
+     eventos futuros cujo desfecho seja incerto.
+Julgue os próximos itens, referentes à distribuição de resultados e
+ao cálculo do custo dos produtos.
+57 No custeio por absorção, os gastos incorridos para se efetuar
+    a venda dos produtos fabricados pela empresa devem ser
+    contemplados no cálculo do custo dos produtos.
+58 A principal vantagem da distribuição de resultados por meio
+    de juros sobre o capital próprio comparativamente à
+    distribuição de dividendos está no benefício fiscal decorrente
+    da dedutibilidade dos referidos juros para fins de apuração
+    do lucro real.
+À luz das Normas Brasileiras de Contabilidade de Auditoria
+(NBC TA e NBC PA), julgue os próximos itens, a respeito de
+testes de observância e de evidências de auditoria.
+59 As evidências de auditoria obtidas de fontes externas são
+     sempre menos confiáveis que as evidências geradas
+     internamente pela entidade auditada.
+60 Os testes de observância em auditoria têm como objetivo
+     principal verificar a eficácia dos controles internos
+     implementados pela entidade, com o intuito de assegurar que
+     eles estejam sendo corretamente aplicados e funcionando
+     conforme esperado.
+Acerca de auditoria no ativo circulante e saldo credor, julgue os
+itens subsequentes.
+61 Na auditoria de tributos, a existência de saldo credor na
+     conta caixa, mesmo sem a emissão de documentos fiscais
+     correspondentes, não pode ser utilizada como evidência de
+     infração tributária, pois, em situações excepcionais, a
+     legislação permite que o caixa apresente saldo credor.
+62 A recomposição contábil do fluxo de caixa da entidade deve
+     desconsiderar transações que não afetem diretamente o
+     caixa, como depreciação e amortização, focando
+     exclusivamente em entradas e saídas efetivas de dinheiro.
+
+ CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+OS ESPECÍFICOS --
+ Acerca de passivos fictícios e da identificação de erros e fraudes
+ na escrituração contábil e fiscal, julgue os itens a seguir.
+ 63 Ao identificar indícios de fraudes ou erros significativos na
+    escrita fiscal, o auditor deve revisar a totalidade das
+    transações fiscais da entidade auditada, para garantir que
+    todas as irregularidades sejam descobertas e corrigidas antes
+    da emissão do relatório final de auditoria.
+ 64 Caso identifique passivos fictícios nas demonstrações
+    contábeis, o auditor deve considerar a possibilidade de ter
+    havido manipulação intencional dos resultados financeiros
+    da entidade com o objetivo de reduzir a carga tributária.
+    Nesse caso, antes de emitir seu relatório, o auditor deve
+    avaliar a materialidade e a possível má-fé dessas distorções.
+ A respeito da escrituração fiscal digital (EFD), da nota fiscal
+ eletrônica (NFe) e da utilização de sistemas gerenciadores de
+ bancos de dados (SGBD) em auditoria fiscal, julgue o próximo
+ item.
+ 65   Na auditoria da EFD e da NFe, o auditor fiscal deve verificar
+      não apenas a consistência das informações declaradas, mas
+      também a sua conformidade com as regras e a legislação
+      tributária aplicáveis, garantindo que não haja omissões,
+      subfaturamento ou outras irregularidades que possam
+      resultar em sonegação fiscal.
+ Com base na Lei Complementar n.º 105/2001, que dispõe sobre o
+ sigilo das operações de instituições financeiras, julgue o seguinte
+ item.
+ 66   Cabe ao Poder Executivo de cada ente federado disciplinar,
+      inclusive quanto à periodicidade e aos limites de valor, os
+      critérios segundo os quais as instituições financeiras deverão
+      informar à respectiva administração tributária (isto é, da
+      União, dos estados, do Distrito Federal e dos municípios) as
+      operações financeiras efetuadas pelos usuários de seus
+      serviços.
+ À luz do Código Tributário do Município de Mossoró (CTMM),
+ julgue os seguintes itens.
+ 67   O CTMM prevê, em relação ao IPTU, alíquotas distintas
+      para imóveis edificados e não edificados.
+ 68   A incidência do IPTU, cuja base de cálculo é o valor venal
+      do imóvel, está condicionada à legitimidade do título de
+      aquisição ou da posse do imóvel.
+ 69   No caso do ITBI, o CTMM estabelece, no que concerne às
+      transmissões      compreendidas     no     SFH,     alíquotas
+      diferenciadas, considerados o valor efetivamente financiado
+      e a parcela não financiada.
+ 70   Estão dispensados das obrigações tributárias acessórias
+      relativas ao ISS os prestadores de serviços pertencentes ao
+      setor público, a exemplo das empresas públicas
+      contempladas pela imunidade tributária recíproca.
+ 71   É possível a instituição de regime especial de fiscalização,
+      quando for de interesse da administração tributária
+      municipal, conforme definido em ato do secretário municipal
+      de fazenda.
+ 72   O CTMM assegura ao contribuinte o direito de consulta
+      sobre interpretação e aplicação da legislação tributária, que
+      pode ser protocolada após o início de ação fiscal.
+
+Em relação ao Sistema Tributário Nacional, à luz das disposições
+da Constituição Federal de 1988, julgue os itens que se seguem.
+73 O imposto sobre bens e serviços, cuja competência é
+   compartilhada entre estados, DF e municípios, possui regime
+   específico de tributação para serviços financeiros, operações
+   com bens imóveis, planos de assistência à saúde e concursos
+   de prognósticos.
+74 O IPTU e o ITCMD são impostos municipais que incidem
+   sobre a propriedade.
+
+A respeito de aspectos atinentes à obrigação e à responsabilidade
+tributária, julgue os próximos itens à luz do Código Tributário
+Nacional.
+75 Os diretores das pessoas jurídicas de direito privado são
+   pessoalmente responsáveis pelos créditos correspondentes a
+   obrigações tributárias resultantes de atos por eles praticados
+   com excesso de poderes.
+76 Somente por disposição expressa da legislação tributária, é
+   possível a uma pessoa figurar como sujeito passivo na
+   condição de responsável tributário.
+
+Em conformidade com as regras do processo administrativo
+tributário do município de Mossoró, observada a jurisprudência
+dos tribunais superiores pertinentes ao processo judicial
+tributário, julgue os itens subsequentes.
+77 No âmbito do processo administrativo fiscal, as normas do
+   Código de Processo Civil são de aplicação subsidiária.
+78 No curso do processo administrativo fiscal, o fisco poderá
+   exigir a qualquer tempo a exibição de livros e comprovantes
+   de atos e operações que possam constituir fato gerador de
+   obrigação tributária não extinta.
+79 A concessão liminar da cautelar fiscal dispensa a fazenda
+   pública de caução, mas não de justificação prévia.
+80 No processo administrativo fiscal, o julgador, ao proferir
+   decisão, poderá declarar a inconstitucionalidade da
+   legislação tributária em vigor.
+
+        Determinada prefeitura contratou uma empresa para a
+construção de uma passarela para pedestres por meio de licitação,
+no regime de contratação semi-integrada, regida pela Lei
+n.º 14.133/2021.
+A respeito dessa situação hipotética, da legislação aplicável aos
+contratos administrativos e da atuação da fiscalização em obras
+públicas, julgue os itens que se seguem.
+81 Na contratação semi-integrada em apreço, tanto o projeto
+   básico quanto o executivo devem ser fornecidos pela
+   prefeitura, ficando a empresa contratada responsável pela
+   execução das obras, por preço certo e total definido no
+   contrato.
+82 O recebimento definitivo da obra deverá ser feito por
+   servidor ou comissão designada pela autoridade competente,
+   mediante termo detalhado que comprove o atendimento das
+   exigências contratuais.
+83 Durante a construção da referida passarela, a medição dos
+   serviços deve ser realizada mensalmente pelo responsável
+   por acompanhar e fiscalizar a obra, associada à execução das
+   quantidades dos itens unitários constantes do projeto
+   executivo vinculados ao cronograma físico-financeiro.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+Julgue o próximo item, acerca de segurança e higiene do
+trabalho.
+84   De acordo com a NR-18, é proibida a execução de fundação
+     por meio de tubulão de ar comprimido.
+
+Julgue os itens subsequentes, a respeito de orçamento de
+referência de obras e serviços de engenharia para licitação de
+obras públicas.
+85 No preço de referência de uma obra ou serviço de
+   engenharia, os encargos sociais incidem de forma percentual
+   na bonificação e despesas indiretas (BDI), como despesas
+   decorrentes das convenções coletivas de trabalho da mão de
+   obra assalariada.
+86 Em licitações que não envolvam recursos da União, os
+   municípios podem adotar sistemas de custos próprios para
+   estimar o valor da contratação de obras e serviços de
+   engenharia.
+87 No orçamento analítico de uma obra, são apresentados os
+   quantitativos e os custos unitários de cada serviço a ser
+   executado, além das parcelas referentes aos custos indiretos.
+
+       No laudo de avaliação de um imóvel, para a identificação
+do valor de mercado do bem, um avaliador considerou sua
+depreciação, ocasionada por decrepitude. O valor de mercado do
+bem foi estimado por meio do método comparativo direto de
+dados de mercado.
+Acerca dessa situação hipotética, julgue os itens a seguir à luz
+da NBR 14.653.
+88 O método utilizado pelo avaliador estima o valor de mercado
+   do bem pelo somatório dos valores de seus componentes.
+89 A depreciação do imóvel apontada no laudo é decorrente do
+   desgaste de seus componentes em razão de uso ou
+   manutenção inadequada.
+
+De acordo com a Lei Complementar n.º 47/2010, julgue os itens
+subsequentes, a respeito de obras e edificações do município
+de Mossoró.
+90 A interdição da execução de obra de qualquer natureza, cuja
+   estabilidade ponha em risco o público em geral ou os
+   operários, deve ser precedida de vistoria técnica feita por
+   profissional legalmente habilitado, acompanhada da
+   respectiva anotação de responsabilidade técnica.
+91 As obras públicas do município de Mossoró são isentas das
+   taxas de alvará e da taxa de licença, porém, há a
+   obrigatoriedade da licença de construção.
+
+Julgue os itens subsequentes, referentes à Resolução CONAMA
+n.º 237/1997.
+92 As licenças ambientais devem ser expedidas exclusivamente
+   de forma sucessiva de acordo com a natureza, as
+   características ou a fase do empreendimento ou atividade.
+93 Na renovação da licença de operação, o órgão ambiental
+   competente poderá diminuir o seu prazo de validade, após
+   avaliação do desempenho ambiental da atividade.
+94 A licença de instalação é concedida na fase preliminar do
+   planejamento do empreendimento ou atividade, atestando a
+   viabilidade ambiental e estabelecendo os requisitos básicos e
+   condicionantes a serem atendidos nas próximas fases de sua
+   implementação.
+
+Julgue os itens seguintes à luz da Resolução CONAMA
+n.º 001/1986.
+95   As despesas e os custos referentes à realização do estudo de
+     impacto ambiental são de responsabilidade conjunta do
+     proponente do projeto e dos órgãos ambientais competentes
+     e(ou) dos órgãos setoriais do SISNAMA.
+96   O diagnóstico ambiental da área de influência de um projeto
+     submetido ao estudo de impacto ambiental deve considerar
+     os meios físico, biológico e socioeconômico.
+
+Acerca da Lei n.º 9.605/1998, que trata dos crimes contra o meio
+ambiente, julgue os itens que se seguem.
+97   Quem recebe ou adquire, para fins comerciais ou industriais,
+     madeira, lenha ou carvão sem licença válida para transporte
+     ou armazenamento incorre nas mesmas penas de quem vende
+     ou transporta o mesmo material.
+98   Não é considerado crime ambiental o abate de animal para
+     proteger lavouras, pomares e rebanhos da ação predatória de
+     animais,       desde   que   tal   procedimento   seja   legal   e
+     expressamente autorizado pela autoridade competente.
+
+Com base na norma NBR 14.653, julgue os itens a seguir, a
+respeito de avaliação de bens.
+99   Valor é uma expressão monetária que define uma transação
+     de um bem, de seu fruto, de um direito, ou da expectativa de
+     sua transação.
+100 Conforme a natureza do bem e o objetivo e a finalidade da
+     avaliação, são geralmente considerados e aceitos os
+     princípios da substituição e da semelhança.
+101 Fruto é o resultado da exploração econômica de um bem.
+102 Oligopólio é uma estrutura básica do mercado, sendo
+     constituído por um número pequeno de vendedores.
+103 Amostragem é o conjunto de dados representativos de uma
+     população.
+
+Em relação a controle de qualidade de materiais, julgue os itens
+que se seguem.
+104 Ensaio de consistência e ensaio de resistência à compressão
+     são exemplos de ensaios de controle de aceitação do
+     concreto.
+105 Aspersão e submersão são processos de cura do concreto.
+106 O cimento pozolânico resulta do cozimento de uma mistura
+     de bauxita e calcário.
+107 O ensaio do picnômetro é usado para determinar a densidade
+     das britas.
+108 Cantoneiras e louças sanitárias são exemplos de cerâmicas
+     refratárias.
+109 Aditivos superplastificantes (SPI) são recomendados nos
+     pontos de descarga na obra com estruturas de armação densa.
+
+CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+Julgue os próximos itens, a respeito de fiscalização de contrato de
+obra de construção rodoviária, incluindo o projeto elaborado e
+apresentado pela empresa contratada.
+110 Nas sondagens de simples reconhecimento à percussão
+    (SPT), em função do número N, as argilas e os siltes
+    argilosos podem ser designados como sendo fofa(o), pouco
+    compacta(o), medianamente compacta(o), compacta(o) e
+    muito compacta(o).
+111 O contrato de uma obra de construção rodoviária pode ser
+    alterado qualitativamente e quantitativamente pela
+    administração, de forma unilateral, desde que as alterações
+    não venham a transfigurar o objeto da contratação, sendo de
+    até 25% o limite para acréscimos ou supressões.
+112 A execução de atividades (serviços) não previstas em
+    contrato sem que se tenha formalizado termo aditivo afronta
+    à legislação, ainda que não haja pagamento antecipado ou
+    sem contraprestação de serviços, salvo nos casos
+    excepcionais de justificada necessidade de antecipação de
+    seus efeitos, hipótese em que a formalização deverá ocorrer
+    no prazo máximo de um mês.
+
+Julgue os itens subsequentes, relativos às especificações de
+serviços e à execução dos serviços de terraplenagem,
+pavimentação, drenagem e sinalização de uma obra rodoviária.
+113 Conforme o Manual Brasileiro de Sinalização de Trânsito, o
+    tachão pode ser usado como dispositivo auxiliar para a
+    redução de velocidade em uma rodovia.
+114 A execução dos dispositivos de drenagem de entrada e
+    descida d’água deverá ser iniciada após a conclusão de todos
+    os serviços de pavimentação que envolvam atividades na
+    faixa anexa à plataforma; quando houver banquetas de
+    escalonamentos e valetas de proteção revestidas, as descidas
+    d’água serão executadas logo após a conclusão dos serviços
+    de terraplenagem, precedendo o serviço de plantio ou
+    colocação de revestimento dos taludes.
+115 A inclinação dos taludes dos cortes independe do controle
+    tecnológico realizado durante a execução do serviço; nos
+    cortes em altura elevada, em função do definido no projeto
+    de engenharia, devem ser implantados patamares, com
+    banquetas de largura mínima de 0,5 m, valetas revestidas e
+    proteção vegetal.
+116 Tratamento superficial duplo é a camada de revestimento do
+    pavimento constituída por duas aplicações de ligante
+    asfáltico, cada uma delas coberta por camada de agregado
+    mineral e submetida a compressão; dependendo da indicação
+    do projeto, podem ser empregados os seguintes ligantes
+    asfálticos: cimentos asfálticos CAP 150/200 e emulsões
+    asfálticas do tipo RR-2C.
+117 O lançamento do material para a construção dos aterros deve
+    ser feito em camadas intermitentes, em metade da largura da
+    seção transversal; para o corpo dos aterros, a espessura de
+    cada camada compactada não deverá ultrapassar 0,5 m e, nas
+    camadas finais, essa espessura não deverá ultrapassar 0,3 m.
+
+Acerca da metodologia e de conceitos inerentes ao Sistema de Cust
+118 Os custos de mobilização são aqueles associados ao transport
+    obra, dos recursos humanos disponíveis na obra, bem como d
+    serão desenvolvidas na obra.
+119 As despesas relativas à administração local de obras devem
+    direto, sendo as medições proporcionais à execução financeir
+    pagamento para esse item como um valor mensal fixo.
+120 O SICRO considera dois períodos de tempo diferentes na
+    improdutiva. Durante a hora produtiva, o equipamento encon
+    funcionamento; na hora improdutiva, o equipamento encontra-s
+Espaço livre
+
+  CEBRASPE – PREFEITURA DE MOSSORÓ/RN – Edital: 2024
+
+tos Rodoviários do DNIT (SICRO), julgue os itens a seguir.
+te, desde sua origem até o início do trecho da rodovia que está em
+dos equipamentos móveis e fixos indispensáveis às operações que
+
+ constar na planilha orçamentária da respectiva obra como custo
+ra dos demais serviços da obra, abstendo-se de utilizar critério de
+
+  atuação regular dos equipamentos: a hora produtiva e a hora
+ntra-se dedicado ao serviço, com seus motores ou acionadores em
+ se parado, com o motor desligado e em situação de espera.
+

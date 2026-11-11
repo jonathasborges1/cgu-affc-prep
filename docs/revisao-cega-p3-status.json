@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-11-10T16:13:12-04:00",
+  "bloco": "P3",
+  "status": "primeira_leitura_por_agente_concluida_aguardando_revisao_independente",
+  "amostra": "fila/calibracao-p3.jsonl",
+  "pacote_cego": "fila/revisao-cega-p3",
+  "rotulos_primeira_leitura": "fila/calibracao-p3-revisao-agente.jsonl",
+  "relatorio_primeira_leitura": "docs/calibracao-p3-recall-agente.json",
+  "itens": 120,
+  "recuperados": 60,
+  "descartados": 60,
+  "resultado_preliminar": {
+    "recuperados_p3": 42,
+    "recuperados_outro": 18,
+    "descartados_p3": 16,
+    "descartados_outro": 44,
+    "precisao_bloco_ponderada": 0.7,
+    "recall_bloco_ponderado": 0.317165030814883
+  },
+  "limitacoes": [
+    "Os rotulos sao uma primeira leitura sem aprovacao humana e nao liberam o gate oficial.",
+    "Os tres primeiros itens tiveram a previsao original visualizada antes da montagem do pacote cego e exigem obrigatoriamente segunda leitura.",
+    "Intervalos de confianca e atualizacao de docs/confianca-ordem.json dependem da segunda leitura independente e da resolucao de divergencias."
+  ],
+  "ids_com_previsao_visualizada": [
+    "cnpq-2023-c05-gestao-governanca#59",
+    "tce-pa-2016-c33-informatica-especialidade-analista-s#85",
+    "codevasf-2024-c11-tecnologia-informacao#86"
+  ],
+  "proximo_passo": "Realizar segunda leitura independente dos 120 itens usando apenas fila/revisao-cega-p3/lote-01.md a lote-06.md, comparar com rotulos.json e resolver divergencias antes de aplicar ao arquivo oficial."
+}

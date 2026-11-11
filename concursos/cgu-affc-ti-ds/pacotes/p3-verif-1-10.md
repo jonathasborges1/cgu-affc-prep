@@ -1,4 +1,4 @@
-# PACOTE p3-verif-1-10 (50 itens): pertinência ao edital de P3
+# PACOTE p3-verif-1-10 (15 itens): pertinência ao edital de P3
 
 Tarefa: para cada item, diga a QUAL assunto do edital abaixo ele pertence (ou OUTRO se nenhum conteúdo listado no edital de P3 trata do tema; pertencer a Português, TI, Direito de outra área, medicina, engenharia etc. é OUTRO).
 Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho/parcial; baixa = só tangencia; fora = não trata.
@@ -25,103 +25,33 @@ Relevância: alta = o item cobra exatamente o conteúdo listado; media = vizinho
 - **P3·SEG 5**: 5 Contratação e fiscalização de soluções. | 5.1 Necessidade, estudo técnico preliminar e termo de referência. | 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento. | 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços. | 5.4 Qualidade, níveis de serviço e entregas verificáveis. | 5.5 Fiscalização e pagamento. | 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída. FLÁVIO MARQUES PROL Secretário Executivo Adjunto
 
 ## ITENS
-### v1-10-01 | gab=C [texto-base: Julgue os próximos itens, que se referem à fiscalização de contratos de tecnologia da informação e às recomendações dos órgãos de controle quanto às contrataçõe]
-De acordo com modelo de contratação e gestão de estações de trabalho, o DaaS (desktop as a service) fornece aos usuários um ambiente de desktop virtualizado sob demanda, a partir de um local hospedado remotamente, em geral virtualizado em ambiente de computação em nuvem.
-### v1-10-02 | gab=E
-A fase de carga em um processo de ETL exige que os dados sejam carregados em lotes programados, como forma de garantir a eficiência do sistema como um todo. 84800201627215
-### v1-10-03 | gab=E
-O SonarQube tem uma abordagem embasada no princípio de que o código da base em produção deve ser formatado e revisado para garantir que se usem as interfaces de programação e os recursos de linguagem apropriados. JUSTIFICATIVA - Errado. O SonarQube tem uma abordagem OS ESPECÍFICOS -baseada no princípio de que de que o novo código (código adicionado ou modificado recentemente pelo usuário) deve estar em conformidade com os padrões de qualidade do SonarQube (servidor, nuvem). A
-### v1-10-04 | gab=C
-O DevOps exige implementação de pipelines de integração contínua (CI) e entrega contínua (CD), além de mentalidade de falha rápida para promover inovação constante e eficiência operacional.
+### v1-10-01 | gab=C
+Em geral, para uma mesma base de dados, o custo de manutenção de um ELT é mais baixo que o de um ETL.
+### v1-10-02 | gab=C
+O ícone simboliza o fluxo de mensagens, ou seja, está associado às mensagens veiculadas entre um participante e outro do processo. A gestora de projetos de uma organização atualmente labora em uma etapa de determinado projeto que se caracteriza pela elaboração da justificativa, do objetivo, do caso de negócio e dos documentos iniciais. A gestora possui as habilidades de escutar, de planejar, de delegar e de persistir.
+### v1-10-03 | gab=C
+A arquitetura de bancos de dados cliente-servidor é caracterizada pela divisão do processamento entre sistemas, e sua implementação requer soluções de software que possibilitem confirmar transações, desfazer transações e disponibilizar linguagens de consultas. SELECT * FROM Produtos WHERE Preco > 0.00;
+### v1-10-04 | gab=C [texto-base: Com relação a licitações e contratos administrativos, organização administrativa, controle da administração pública e processo administrativo, julgue os próximo]
+O procedimento licitatório para a construção de hospitais universitários integrantes do SUS poderá seguir as regras do regime diferenciado de contratação. Alguns meses após a assinatura de contrato de concessão de geração e transmissão de energia elétrica, a falta de chuvas comprometeu o nível dos reservatórios, o que deteriorou as condições de geração de energia, elevando os custos da concessionária. A agência reguladora promoveu, então, alterações tarifárias visando restabe
 ### v1-10-05 | gab=E
-EJB (Enterprise Java Beans) utiliza máquinas clientes que funcionam como um gateway para os clientes que usam os componentes de um navegador da Web e um plug-in Java executados juntos no cliente. Com relação ao desenvolvimento Java EE, a padrões e antipadrões de projeto Java EE, a software de versionamento e guarda de fontes e a conceitos de arquitetura monolítica e microsserviços, julgue os itens subsequentes.
-### v1-10-06 | gab=C [texto-base: Julgue os itens seguintes, relativos a metodologias ágeis. O manifesto ágil é uma das referências para metodologias ágeis de software, em que se valoriza indiví]
-A Secretaria de Governo Digital do Ministério da Economia poderá dar início, de ofício, a processo de aprovação das contratações relativas a bens e serviços de TIC, solicitando do órgão interessado, caso julgue necessário, estudo técnico preliminar ou termo de referência. À luz da Instrução Normativa SGD n.º 94/2022, julgue os próximos itens.
-### v1-10-07 | gab=C
-Open Finance utiliza OpenID Connect como protocolo de autenticação, por meio de APIs do tipo REST.
-### v1-10-08 | gab=E
-Low/No Code é uma técnica automática de programação que propicia a evolução de programas de computadores que resolvem (ou aproximadamente resolvem) problemas; ela manipula soluções corretas e incorretas, encoraja inconsistências e abordagens contraditórias e não apresenta uma variabilidade dinâmica lógica.
+Para que o Wireshark seja utilizado em um sistema Windows 11, é necessário um driver de dispositivo que, uma vez instalado, permite que qualquer usuário sem poderes administrativos altere configurações da placa de rede no computador em questão. JUSTIFICATIVA - Errado. É necessário um driver de dispositivo para o Wireshark funcionar, mas, para alterar configurações de interfaces de redes no Windows 11, são necessários poderes administrativos.
+### v1-10-06 | gab=C
+Kibana é uma ferramenta que permite visualizar os dados armazenados no Elasticsearch, com possibilidade de gerar gráficos convencionais ou widgets integrados, como mapas, lens e canvas.
+### v1-10-07 | gab=E
+A decriptografia de dados por meio do algoritmo RC4 é realizada com sucesso se os dados tiverem sido criptografados mediante o algoritmo AES (Advanced Encryption Standard) e a mesma chave simétrica tiver sido utilizada em ambos os algoritmos.
+### v1-10-08 | gab=C
+Um defeito como a complexidade excessiva do código pode, em princípio, ser encontrado com maior facilidade e com menores custos a partir da utilização de testes estáticos.
 ### v1-10-09 | gab=E
-O desenvolvimento seguro de software é um procedimento exigido para se construir arquitetura e sistemas seguros, tendo como premissa a unificação dos ambientes de desenvolvimento, teste e produção, de forma a se garantir e padronizar os testes afetos à segurança.
+Na execução de um serviço de TI, o contratado poderá empregar um agente público que estiver atuando na fiscalização ou na gestão do contrato, desde que o edital de licitação expressamente o permita.
 ### v1-10-10 | gab=C
-Entre as possibilidades funcionais de um barramento de serviços estão transformações de modelos de dados, manuseio de conectividade e mensagens, execução de roteamento, conversão de protocolos de comunicação e gerenciamento de requisições variadas relacionadas aos serviços.
-### v1-10-11 | gab=E [texto-base: Considerando os riscos reais e potenciais que o gerenciamento inadequado de resíduos pode acarretar à saúde humana e ao meio ambiente, julgue os itens seguintes]
-O plano de gerenciamento de coleta, armazenamento e destinação de pneus inservíveis (PGP), elaborado pelos fabricantes e importadores de pneus novos, deve prever a destinação adequada dos pneus inservíveis, em instalações próprias ou mediante contratação de serviços especializados de terceiros, para que sejam transformados em lascas de borracha para disposição em aterro sanitário.
-### v1-10-12 | gab=E
-Na notificação por push, os métodos de autenticação de dois fatores (2FA) exigem uma senha para aprovar o acesso a um sítio ou aplicativo.
-### v1-10-13 | gab=E
-Projetos caracterizam-se por sua relação com os planos estratégicos, por seus resultados previsíveis, pela manutenção do equilíbrio dos negócios e por seus padrões conhecidos.
-### v1-10-14 | gab=C
-As condições gerais do caderno de encargos devem estabelecer direitos e deveres do contratante e do executante, no que se refere a objeto, regime e prazo de execução da obra; preparação e planejamento dos trabalhos; execução e fiscalização da obra; movimentos de terra; pagamentos e recebimento da obra.
-### v1-10-15 | gab=E
-No contexto de storytelling, é fundamental mitigar as possibilidades de navegação por meio das interfaces e impor à experiência do usuário o sequenciamento estrito das atividades que constituem a sua história.
-### v1-10-16 | gab=E [texto-base: Julgue os seguintes itens, que tratam de fontes normativas, bancos de dados e cadastros, práticas comerciais, proteção contratual e sanções administrativas no d]
-A oferta obriga o fornecedor de serviços e produtos que a tenha apresentado, salvo se o contrário não resultar dos termos específicos do contrato que venha a ser assinado com o consumidor, da natureza do negócio ou das circunstâncias do caso.
-### v1-10-17 | gab=E
-Em algoritmo de criptografia simétrica, a mensagem cifrada com chave pública pode somente ser decifrada pela sua chave privada correspondente. OS ESPECÍFICOS -A respeito de proteção contra softwares maliciosos, sistemas de detecção de intrusão, segurança de servidores e sistemas operacionais, certificação digital, assinatura digital e gestão de riscos, julgue os itens que se seguem.
-### v1-10-18 | gab=E
-De acordo com o mapeamento do fluxo abaixo, após a atividade Desenhar o Mapa do Processo de Trabalho deve ser executada ou a atividade Simplificar o Processo de Trabalho ou a Melhorar o Processo de Trabalho, ou seja, essas duas últimas atividades possuem execução exclusiva.
-### v1-10-19 | gab=C [texto-base: Julgue os itens seguintes, a respeito da exploração das atividades econômicas de transporte, escoamento, tratamento, processamento, estocagem subterrânea, acond]
-Na gestão de segurança operacional dos dutos terrestres, é responsabilidade da empresa concessionária determinar que o operador da instalação disponha de um sistema de gestão que atenda ao Regulamento Técnico de Dutos Terrestres para Movimentação de Petróleo, Derivados e Gás Natural (RTDT). No que diz respeito à gestão de segurança operacional de terminais para movimentação e armazenamento de petróleo, seus derivados, gás natural e biocombustíveis e à autorização para a ativi
-### v1-10-20 | gab=C
-Valer-se do trabalho de servidores terceirizados constitui ato de improbidade administrativa que importa enriquecimento ilícito; aceitar garantia insuficiente na realização de operação financeira é ato de improbidade que causa prejuízo ao erário; e descumprir exigência de requisitos de acessibilidade previstos na legislação é ato de improbidade que atenta contra os princípios da administração pública.
-### v1-10-21 | gab=C
-Em um ataque CSRF, o navegador de um usuário autenticado p sem o conhecimento deste. ços públicos, acessado via desktop e dispositivos móveis, que exige ultas, passou por auditoria de segurança após tentativas de acesso te, constatou-se a utilização de single sign-on (SSO – autenticação tor (MFA) e a implementação de OpenID Connect. s. for acompanhado por mecanismos adicionais de segurança, como mite a autenticação federada, na qual um provedor de identidade o processo de aut
-### v1-10-22 | gab=C [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
-Em um projeto de software que utilize a ferramenta Git para controle de versão, é recomendável que cada desenvolvedor trabalhe em sua própria branch local e faça merge com a branch master apenas quando o código estiver testado e revisado.
-### v1-10-23 | gab=E
-No SQL Server, o recurso de Always On Availability Groups permite a replicação síncrona entre instâncias, oferecendo alta disponibilidade, mas não permite que réplicas de leitura sejam consultadas diretamente em caso de falhas. JUSTIFICATIVA - Errado. O recurso de Always On Availability Groups no SQL Server permite tanto a replicação síncrona quanto assíncrona entre instâncias, e as réplicas de leitura podem ser consultadas diretamente, inclusive em cenários de alta disponibi
-### v1-10-24 | gab=C
-Na execução de um programa, se ocorrer um evento de falta de página após a referência a um endereço de memória, o sistema operacional troca um quadro de página em memória física pelo quadro de página em memória virtual que contém o endereço referenciado no programa em execução.
-### v1-10-25 | gab=E
-A segurança em sistemas criptográficos independe do tamanho da chave. simétricos
-### v1-10-26 | gab=E
-Um gerenciador de filas pode ser proprietário de várias filas, e uma fila é automaticamente criada quando uma mensagem é atribuída a um identificador exclusivo no contexto de um gerenciador de filas.
-### v1-10-27 | gab=C [texto-base: Julgue os itens a seguir, acerca das variações patrimoniais qualitativas e quantitativas do setor público e seu impacto no resultado patrimonial do exercício. I]
-Caso o bem entre em condições de uso somente no decorrer do mês, a taxa de depreciação pode ser ajustada pro-rata em relação à quantidade de dias corridos.
-### v1-10-28 | gab=C [texto-base: •   Cada um dos itens das provas objetivas está vinculado ao com que cada um deles esteja vinculado, marque, na Folha de Res julgue o item CERTO; ou o campo des]
-Conclui-se da leitura do último parágrafo do texto que o objeto denominado Éris não faz parte da “turma” mencionada no último período do texto. mando que imediatamente o antecede. De acordo com o comando a spostas, para cada item: o campo designado com o código C, caso o E, caso julgue o item ERRADO. A ausência de marcação ou a ão receberão pontuação negativa. Para as devidas marcações, use a as suas provas objetivas. conhecimentos de informática e(ou) tecnologia da informaçã
-### v1-10-29 | gab=C
-Filtro Bloom é uma estrutura de dados com uso eficiente de espaço que pode ser utilizada para testar se um elemento é membro de um conjunto; no entanto, os índices do filtro Bloom suportam apenas consultas de igualdade, sendo mais úteis quando uma tabela possui muitos atributos e as consultas testam combinações arbitrárias deles.
-### v1-10-30 | gab=E [texto-base: •   Cada um dos itens das provas objetivas está vinculado ao com que cada um deles esteja vinculado, marque, na Folha de Res julgue o item CERTO; ou o campo des]
-A correção gramatical e os sentidos do texto seriam mantidos caso se substituísse a forma verbal “incluem” (último período do terceiro parágrafo) por considera. Responsible state fiscal policy requires more than just balancing the current year’s budget. It must also include ensuring that the budget is on a sustainable path. Otherwise, policymakers cannot have the lasting impact they hope for. This risk is especially high in the aftermath of the COVID-19 pandemic. Record budge
-### v1-10-31 | gab=C
-O padrão Decorator permite acrescentar funcionalidades a um objeto em tempo de execução, flexibilizando a extensão de classes.
-### v1-10-32 | gab=E
-O uso de criptografia assimétrica pela empresa em apreço permite que um sistema envie dados criptografados por meio da chave privada e os decifre com a mesma chave.
-### v1-10-33 | gab=E [texto-base: De acordo com a legislação societária, os princípios de contabilidade e os pronunciamentos do Comitê de Pronunciamentos Contábeis (CPC), julgue os itens seguint]
-Salvador (em reais) Recife (em reais) preço de venda 30 29 custo de transação 7 5 custo de transporte 4 4 Nessa situação, o referido ativo será avaliado a valor justo por R$ 25. Um estudo de acompanhamento ambiental considerou, para um modelo de regressão linear simples na forma: em que a e b são constantes reais, representa a variável resposta referente ao j-ésimo elemento da amostra, é a variável regressora correspondente, e denota o erro aleatório que segue distribuição no
-### v1-10-34 | gab=E
-Considere que todas as prefeituras do país devam enviar mensalmente ao Ministério das Comunicações arquivos XML que contenham dados referentes à aplicação dos programas de governo, devendo os arquivos enviados estar no formato XML e ser entregues no site do ministério em formulário próprio, caso em que se faz necessário validar os dados inseridos dentro dos arquivos XML, de forma a se verificar o conteúdo por meio de regras preestabelecidas. Nessa situação hipotética, para va
-### v1-10-35 | gab=C [texto-base: No que se refere aos protocolos DHCP e IMAP, aos sistemas de segurança IPS, aos modelos de nuvem, ao ambiente Linux e ao Microsoft Windows Server, julgue os ite]
-No modelo de nuvem pública, os serviços são disponibilizados para qualquer cliente, e recursos como servidores, armazenamento e aplicações são controlados pelo provedor desses serviços. OS ESPECÍFICOS -Julgue os itens seguintes, relativos à administração de banco de dados Oracle, à modelagem de dados relacional, à normalização de dados e ao data mining.
-### v1-10-36 | gab=E
-Em relação à gestão de bloqueio em um banco de dados relacional, o Hibernate 6.2 utiliza a estratégia otimista, uma vez que essa estratégia assume que várias transações podem ser concluídas sem afetar outras, logo, nessa versão, prescinde-se da estratégia pessimista.
-### v1-10-37 | gab=C
-No gerenciamento de projetos adaptativos, o product owner prioriza o backlog do projeto de forma contínua, para que os itens de alta prioridade sejam concluídos; assim, ele poderá considerar concluído um projeto, em razão do cronograma ou do orçamento, quando os itens de maior prioridade tiverem sido entregues.
-### v1-10-38 | gab=E [texto-base: Julgue os itens subsecutivos, a respeito de integração de dados e big data. Banco de dados do tipo NoSQL aceitam escalabilidade nas formas horizontal, com o acr]
-Uma vantagem do ciclo de vida do software em cascata é que ele permite modificações nos requisitos por meio de atualização das fases anteriores. No contexto da engenharia de requisitos e de metodologias de desenvolvimento de software, julgue os próximos itens.
-### v1-10-39 | gab=C
-Considere que uma entidade adquira um lote de determinado material destinado a uso próprio e que sobre a operação incidam ICMS e IPI, incorporados ao valor do bem adquirido, pois a entidade não tem direito de compensação; considere, ainda, que o frete seja assumido pelo fornecedor como sua despesa e que o pagamento seja feito à vista, em dinheiro. Nessa situação hipotética, está caracterizado um fato administrativo permutativo. OS ESPECÍFICOS --
-### v1-10-40 | gab=C
-Um product owner que não aceita feedback do time de desenvolvimento ou dos stakeholders compromete a inspeção e adaptação do produto com base em colaboração, principal objetivo da sprint review.
-### v1-10-41 | gab=E
-O uso de seletividade e estimativa de custos na otimização de consultas SQL consiste na modificação da representação interna de uma consulta em uma árvore de consulta com o objetivo de melhorar o seu desempenho. 678016_01N178787
-### v1-10-42 | gab=E
-Em programação orientada a objetos, abstração é a propriedade que permite que um método de determinado nome tenha comportamentos distintos, em função de diferentes parâmetros recebidos.
-### v1-10-43 | gab=E [texto-base: -- CONHECIMENTO Acerca das metodologias ágeis para o desenvolvimento de software, julgue os itens subsecutivos. Na gestão do backlog, itens que estejam em um po]
-A respeito de arquitetura de software, julgue os itens que se seguem. Nos web services RESTful, os dados são retornados exclusivamente no formato XML.
-### v1-10-44 | gab=C [texto-base: A respeito dos tipos de aprendizado de máquina, julgue os itens a seguir. O agrupamento é um método de aprendizado não supervisionado que busca a similaridade e]
-Em relação aos grandes modelos de linguagem (LLM) e à inteligência artificial generativa, julgue os itens subsequentes. O parâmetro temperature em LLM regula a amplitude da diversidade e criatividade nas previsões produzidas pelo modelo.
-### v1-10-45 | gab=C
-O Insights do Sistema é um recurso que reúne funcionalidades preditivas, cada uma com suporte de um modelo de machine learning, que analisa localmente os dados do sistema, como contadores de desempenho e eventos, permitindo que se entenda como os servidores estão funcionando, de modo a ajudar a reduzir as despesas operacionais associadas ao gerenciamento reativo de problemas nas implantações do Windows Server.
-### v1-10-46 | gab=C
-De forma geral, ETL é normalmente usado para dados totalmente estruturados, enquanto ELT atende bem principalmente dados semiestruturados e(ou) não estruturados.
-### v1-10-47 | gab=E
-Web service é um modelo de computação distribuída que depende dos sistemas operacionais, porém independe da linguagem de desenvolvimento e do hardware onde os sistemas integrados são processados.
-### v1-10-48 | gab=E
-O TDD (test driven development) é um tipo de teste unitário em que a especificação de teste é escrita logo após o código para validar o comportamento desejado.
-### v1-10-49 | gab=C
-A view-model é a ponte entre a view e o model, sendo responsável por expor dados e comandos para a interface do usuário, mantendo a lógica de apresentação independentemente da interface e da lógica de negócios. JUSTIFICATIVA - Certo. No padrão MVVM (model-viewviewmodel), a view-model é de fato o componente central. Ela atua como uma ponte entre a view (interface do usuário) e o model (dados e lógica de negócios).
-### v1-10-50 | gab=E
-Segundo a classificação programática da despesa orçamentária, o projeto é um instrumento de programação utilizado para alcançar o objetivo de um programa e envolve um conjunto de operações que se realizam de modo contínuo e permanente e de que resulta um produto ou serviço necessário à manutenção da ação de governo.
+Um dos benefícios do DevOps, no que diz respeito aos testes, é o fato de a integração contínua estimular o princípio do teste antecipado, incentivando os desenvolvedores a entregar códigos de alta qualidade junto com a análise estática.
+### v1-10-11 | gab=E
+No trecho de arquivo .gitlab-ci.yml, utilizado no GitLab CI/CD para definir regras de execução de pipelines, só será criada a pipeline se as três regras de ativação do workflow.rules forem verdadeiras. workflow: rules: - if: $ CI_PIPELINE_SOURCE == 'merge_request_event' - if: $ CI_COMMIT_TAG - if: $ CI_COMMIT_BRANCH == $ CI_DEFAULT_BRANCH
+### v1-10-12 | gab=C
+Um método de prevenção contra ataques DNS spoofing é o uso de DNSSEC, projetado para proteger a integridade e a autenticidade das consultas DNS por meio do uso de assinaturas digitais baseadas em criptografia assimétrica.
+### v1-10-13 | gab=E [texto-base: -- CONHECIMENTO A respeito do padrão MVC (model-view-controller), julgue os itens a seguir. O padrão MVC usa o princípio da inversão de controle (IoC) para dele]
+Acerca da arquitetura de sistemas de N camadas e das APIs, julgue os próximos itens. Na arquitetura de sistemas em N camadas, o sistema é dividido em camadas lógicas, cada uma com uma responsabilidade específica, como apresentação, negócio e dados.
+### v1-10-14 | gab=E
+No OAuth 2, por padrão, os tokens de acesso devem ser do tipo JWT.
+### v1-10-15 | gab=C
+No modelo relacional de banco de dados, uma relação é definida como um conjunto de tuplas e, matematicamente, os elementos de um subconjunto não têm ordem entre eles, portanto as tuplas em uma relação não têm qualquer ordem em particular. OS ESPECÍFICOS -Julgue os próximos itens, relativos a servidores e sistemas operacionais.

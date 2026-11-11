@@ -1,0 +1,441 @@
+                                 -- CONHECIMENTO
+A respeito de engenharia de software e dos processos de
+desenvolvimento de software, julgue os próximos itens.
+51 Em Scrum, o sprint goal é estabelecido na sprint planning e
+   incorporado ao sprint backlog; caso surjam diferenças nas
+   expectativas, os desenvolvedores colaboram com o
+   product owner para ajustar o sprint backlog sem
+   comprometer o sprint goal.
+52 Os atributos principais de um produto de software são
+   manutenibilidade, confiança, proteção, eficiência e
+   aceitabilidade.
+53   O MPS.BR define uma escala de maturidade para os
+     processos de software, com sete níveis de A a G, em que o
+     nível G incorpora todos os processos dos níveis anteriores.
+54   No nível de maturidade otimizado do CMMI (Capability
+     Maturity Model Integration), as equipes organizacionais e de
+     projeto compreendem e controlam o desempenho no nível de
+     subprocessos, utilizando os resultados para gerenciar os
+     projetos.
+
+Julgue o item a seguir, com relação à mensuração de sistemas em
+pontos de função, segundo o Manual de Práticas de Contagem.
+55   Na análise de pontos de função, uma consulta implícita de
+     dados ocorre quando a aplicação apresenta dados ao usuário
+     antes de realizar uma transação, sem que o usuário precise
+     solicitar explicitamente os dados.
+
+Julgue os itens seguintes, no que se refere a arquiteturas de
+contêiner e orquestradores.
+56   Imagem de contêiner no Kubernetes é uma representação em
+     formato binário que engloba uma aplicação e suas
+     dependências, pronta para ser executada em um contêiner.
+57   Nas versões atuais do Kubernetes, o comando a seguir
+     somente liberará o nome do pod no apiserver com o
+     encerramento adequado do contêiner.
+
+     kubectl delete pods <pod> --grace-period=0 –
+     force
+
+
+58   O comando a seguir clona o repositório especificado e o
+     utiliza como contexto para criar uma imagem Docker de
+     acordo com as instruções contidas no Dockerfile
+     localizado na raiz desse repositório.
+
+     docker build github.com/creack/docker-firefox
+
+
+59   No comando a seguir, o arquivo compose.yml especifica as
+     configurações ou personalizações adicionais a serem
+     utilizadas para orquestrar o serviço Docker.
+
+     docker    compose           -f       compose.yml         -f
+     compose.admin.yml
+
+                           CEBRASPE – MPTO – Edital: 2024
+
+OS ESPECÍFICOS --
+ Em relação à linguagem de programação NodeJS, julgue o item a
+ seguir.
+ 60 Caso o ambiente e o programa não apresentem nenhum tipo
+     de erro ou exceção, a execução do código a seguir terá como
+     resultado 4 não é primo.
+
+     function isPrime(number) {
+          return new Promise((resolve, reject) =>
+     {
+          if (number <= 1) {
+             reject('$ {number} não é primo');
+          } else {
+             for (let i = 2; i <=
+                      Math.sqrt(number); i++) {
+                if (number % i === “0”) {
+                   reject('$ {number} não é primo');
+                }
+             }
+             resolve('$ {number} é primo');
+          }
+       });
+     }
+     isPrime(4).then(result =>
+     console.log(result)).catch(error =>
+     console.error(error));
+
+ Em relação à linguagem de programação Java, julgue o item a
+ seguir.
+ 61 Durante a execução do código a seguir, ocorrerá uma
+     exceção ArithmeticException.
+
+     public class Main {
+       public static void main(String[] args) {
+          int numero = 10;
+          int divisor = 0;
+          try {
+             int resultado = numero / divisor;
+             System.out.println(“Resultado: “ +
+                resultado);
+          } catch (ArithmeticException e) {
+          e.printStackTrace();
+          }
+       }
+     }
+
+ Espaço livre
+
+Com relação ao padrão MVC (Model View Controller), a padrões
+de projeto e a orientação a objetos, julgue os itens subsequentes.
+62 No padrão MVC, o model encapsula a lógica da aplicação,
+   sendo responsável por processar e gerenciar os dados de
+   forma independente da interface do usuário e da camada de
+   apresentação.
+63 O padrão Singleton facilita o teste unitário, pois garante que
+   sempre haverá uma única instância da classe para testar.
+64 O trecho de código a seguir exemplifica um polimorfismo
+   em Java, pois a classe Gerente implementa de maneira
+   específica o método recebeSalario, ao mesmo tempo em
+   que compartilha parte da funcionalidade da classe
+   Empregado.
+
+     class Empregado {
+       private String nome;
+       private double salario;
+       public Empregado(String nome, double
+            salario) {
+            this.nome = nome;
+            this.salario = salario;
+       }
+       public double recebeSalario() {
+            return salario;
+       }
+     }
+     class Gerente extends Empregado{
+        private double bonus;
+
+       public Gerente(String nome, double
+               salario, double bonus) {
+           super(nome, salario);
+           this.bonus = bonus;
+        }
+     @Override
+        public double recebeSalario() {
+         return super.recebeSalario() + bonus;
+        }
+     }
+     class FolhaPagamento {
+         public static void main(String[] args) {
+         Gerente gerente = new Gerente(“Luiza”,
+              5000, 1000);
+     System.out.println(gerente.recebeSalario());
+     }
+     }
+
+Julgue os itens a seguir, em relação ao desenvolvimento de
+software.
+65 O custo de qualidade inclui os gastos financeiros
+   relacionados às atividades de qualidade, os quais somente
+   podem ser custos de prevenção e custos de avaliação.
+66 Difundido no cenário das startups, o método Lean, que é
+   indicado para projetos reduzidos e mais objetivos, tem como
+   foco principal identificar e eliminar de forma eficiente os
+   desperdícios dentro de uma organização ou na realização de
+   algum projeto.
+67 SOA (service oriented architecture) é uma arquitetura
+   empregada para reutilizar serviços em sistemas diferentes ou
+   combinar vários serviços independentes para realizar tarefas
+   complexas.
+68 Downtime corresponde ao tempo de atividade de um sistema
+   e é usado para se referir a períodos em que o sistema está
+   disponível.
+
+                            CEBRASPE – MPTO – Edital: 2024
+A respeito de experiência do usuário (UX) e de metodologias
+ágeis, julgue os próximos itens.
+69   O objetivo do Lean UX é obter feedbacks dos usuários o
+     mais tarde possível, o que permite tomar decisões e melhorar
+     o produto com tranquilidade e precisão.
+70   Tanto uma lista de emojis do teclado que inclui diferentes
+     tons de pele quanto opções de avatar de gênero neutro
+     constituem exemplos de um design mais utilizável (usable).
+71   Em uma página de um sítio de rastreio, a alteração do botão
+     de confirmação de busca de encomendas de clique aqui
+     para rastreie seu pedido é um exemplo de UX writing,
+     pois deixa claro para onde o usuário será redirecionado.
+72   Storytelling é um método de construção de narrativas com o
+     objetivo de gerar conexões emocionais com o público-alvo.
+73 Entre os principais métodos ágeis, o Lean é indicado para
+   projetos reduzidos e mais objetivos, o Scrum é indicado para
+   projetos de diferentes áreas que tenham prazos apertados e
+   requisitos mutáveis, e o XP passou a ser indicado para
+   startups e empresas em processo de consolidação, pois tem
+   como principal objetivo fortalecer a relação entre
+   colaboradores e clientes.
+74 Brainstorming é uma estratégia muito utilizada e
+   recomendada na etapa de prototipação do design thinking.
+75   Lean UX e Agile UX são técnicas mutuamente exclusivas,
+     pois o Agile UX está focado em cortar processos
+     desnecessários e etapas secundárias.
+
+Acerca dos sistemas de gestão de conteúdo, julgue os itens que se
+seguem.
+76   Entre as vantagens de portais corporativos estão o acesso a
+     informações particulares, a padronização de um canal
+     interativo e dinâmico de comunicação entre os diversos
+     setores da empresa, a transparência nos assuntos de
+     interesses dos funcionários e a melhoria do clima
+     organizacional.
+77   Entre os padrões da W3C estão o CSS (cascading style
+     sheets), o SVG (scalable vector graphics), o DOM
+     (document object model), a XHTML (extensible hypertext
+     mark-up language) e a XML (extensible mark-up language).
+78   Sistemas de gestão de conteúdo permitem criação,
+     armazenamento e administração de conteúdos que podem
+     incluir apenas textos e documentos, de forma estática, por
+     meio de uma interface de acesso via Internet.
+
+Julgue os itens a seguir a respeito de governança no setor
+público.
+79   A governança envolve as atividades de planejar operações,
+     executar planos e controlar o desempenho dos agentes
+     envolvidos.
+80   Uma das diretrizes da governança é a definição formal e a
+     comunicação clara dos papéis e responsabilidades das
+     instâncias internas e de apoio à governança.
+81   As instâncias externas de governança realizam a
+     comunicação entre as partes interessadas e a administração e
+     avaliam os processos de governança e de gestão de riscos e
+     controles, comunicando quaisquer disfunções identificadas à
+     alta administração.
+
+Julgue os itens que se seguem com relação a COBIT 5 e
+governança de tecnologia de informação.
+82   O habilitador de informação do COBIT 5 destaca as
+     seguintes fases: construir, entregar, monitorar e descartar.
+83   O princípio segundo o qual o COBIT 5 permite abordagem
+     holística se alinha a outros padrões e modelos e, portanto,
+     pode servir como modelo unificado para a governança e
+     gestão de TI da organização.
+
+Julgue os itens seguintes acerca de gerenciamento de serviços e
+de conceitos de ITIL.
+84   O design de serviços ITIL provê direcionamento para
+     entregar e suportar serviços e produtos de forma efetiva e
+     eficiente, garantindo a entrega de valor para o cliente.
+85   O gerenciamento de capacidade ITIL tem como objetivo
+     entender os requisitos de capacidade do negócio e controlar a
+     entrega dessa capacidade no presente e no futuro, e é o
+     processo responsável por indicar as vantagens potenciais que
+     as novas tecnologias podem trazer para a organização.
+
+No que se refere a conceitos de qualidade de software, julgue os
+itens subsequentes.
+86   O acordo de nível de serviço (SLA) é uma medida que
+     permite a avaliação de atividades e produtos de trabalho,
+     com base em critérios que minimizem a subjetividade e o
+     viés do revisor, por grupo que não esteve envolvido
+     diretamente na execução dessas atividades nem na
+     elaboração desses produtos de trabalho.
+87   No MR-MPS-SW, a capacidade do processo expressa o grau
+     de refinamento e institucionalização com que o processo é
+     executado na organização ou na unidade organizacional.
+88   O MR-MPS-SW define sete níveis de maturidade: A (em
+     otimização), B (gerenciado quantitativamente), C (definido),
+     D (largamente definido), E (parcialmente definido), F
+     (gerenciado), e G (parcialmente gerenciado).
+
+Com pertinência a gestão de segurança da informação, julgue os
+itens subsecutivos.
+89   O principal objetivo da norma ABNT NBR ISO/IEC 27001,
+     que é a norma de gestão das regras para coleta,
+     armazenamento e tratamento de dados de pessoas físicas e
+     jurídicas, é garantir a privacidade, a dignidade e a intimidade
+     de indivíduos e empresas.
+90   Segundo a norma ABNT NBR ISO/IEC 27002, no que se
+     refere ao controle de pessoas, a seleção serve para assegurar
+     que cada candidato seja elegível e adequado para os papéis
+     para os quais é considerado e que cada um que for
+     selecionado permaneça elegível e adequado durante o
+     período que durar sua contratação.
+91   Segundo a ABNT NBR ISO/IEC 27005 de segurança da
+     informação, no processo de gestão de riscos a eficácia do
+     tratamento do risco depende dos resultados do processo de
+     avaliação de riscos.
+92   Vulnerabilidades são falhas que permitem o surgimento de
+     deficiências na segurança geral do computador ou da rede, e
+     podem ser criadas devido a configurações incorretas no
+     computador ou na segurança.
+
+                            CEBRASPE – MPTO – Edital: 2024
+Julgue os itens que se seguem, relativos a políticas de segurança
+da informação.
+93   Na definição do escopo da política de segurança da
+     informação, devem-se detalhar os limites de sua aplicação,
+     especificando os ambientes físicos, lógicos e organizacionais
+     que são aplicáveis e os tipos de usuários.
+94   A política de segurança da informação deve ser boa o
+     suficiente para prever tendências de ameaças e
+     vulnerabilidades, bem como prováveis mudanças do
+     ambiente organizacional, sem que haja a necessidade de
+     reavaliação de seu conteúdo.
+95   Na política de segurança são definidos os papéis de cada
+     membro da organização no que tange à informação, além de
+     serem listados os direitos, os deveres e as punições aplicadas
+     diante do não cumprimento da política.
+
+Quanto aos procedimentos de segurança e gerenciamento de
+redes de computadores, julgue os itens seguintes.
+96   WPA (wi-fi protected access), especificado no padrão
+     IEEE 802.11, é o mais antigo algoritmo de segurança de rede
+     sem fio, e protege apenas os dados (payload) de quadros, ou
+     seja, os quadros de gerenciamento, de controle e o próprio
+     cabeçalho de quadros de dados não são protegidos.
+97   Por meio de acesso de rede confiável (ZTNA), as
+     organizações podem usar políticas de controle de acesso de
+     confiança zero para conectar usuários remotos com
+     segurança, sem que eles tenham acesso a toda a rede.
+98   Na segurança de redes de computadores, além da
+     preservação da confidencialidade, da integridade e da
+     disponibilidade, deve-se incluir também o não repúdio, que
+     trata do rastreamento do histórico dos fatos de um evento
+     assim como a identificação dos envolvidos.
+
+No que se refere a vulnerabilidades e ataques a sistemas
+computacionais e criptografia, julgue os próximos itens.
+99   Bug é o ataque de negação de serviço realizado de forma
+     distribuída e coordenada.
+100 Projetado para velocidade, simplicidade e segurança, o
+     algoritmo MD (message digest) produz um valor de hash de
+     128 bites para um tamanho arbitrário da mensagem inserida.
+
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de
+Dados Pessoais), julgue os itens subsequentes.
+101 O tratamento de dados pessoais sensíveis somente poderá
+     ocorrer quando o titular consentir, de forma específica e
+     destacada, para finalidades específicas.
+102 Encarregado é a pessoa natural ou jurídica, de direito público
+     ou privado, que realiza o tratamento de dados pessoais em
+     nome do controlador.
+103 A lei não se aplica ao tratamento de dados pessoais
+     provenientes de fora do território nacional que não sejam
+     objeto de uso compartilhado de dados com agentes de
+     tratamento brasileiros, desde que o país de proveniência
+     proporcione grau de proteção de dados pessoais adequado ao
+     previsto na lei.
+
+Com fulcro na Lei n.º 12.527/2011 (Lei de Acesso à Informação),
+julgue os itens subsecutivos.
+104 A informação em poder dos órgãos e entidades públicas,
+    observado o seu teor e em razão de sua imprescindibilidade à
+    segurança da sociedade ou do Estado, pode ser classificada
+    como secreta ou reservada, com prazo máximo de restrição
+    de acesso por 10 anos.
+105 O órgão ou a entidade pode cobrar exclusivamente o valor
+    necessário ao ressarcimento dos custos quando o serviço de
+    fornecimento da informação exigir reprodução de
+    documentos.
+106 Os procedimentos dessa lei destinam-se a assegurar o direito
+    fundamental de acesso à informação com a observância da
+    publicidade como preceito geral e do sigilo como exceção.
+Julgue os próximos itens, relativos a gestão de contratação de
+soluções de tecnologia da informação (TI).
+107 O modelo de gestão do contrato, definido a partir do modelo
+    de execução do objeto, descreve como a execução do objeto
+    será fiscalizada pela organização e define os atores da
+    organização que participarão das atividades de fiscalização.
+108 Cabe ao fiscal setorial emitir documento comprobatório da
+    avaliação realizada pelo fiscal técnico quanto ao
+    cumprimento de obrigações assumidas pela empresa
+    contratada, com menção ao seu desempenho na execução
+    contratual, que deve estar baseado nas cláusulas contratuais.
+Julgue os itens a seguir, referentes à elaboração e à fiscalização
+de contratos de TI.
+109 O objeto do contrato deve ser detalhado em termo de
+    referência, que é o documento indispensável para a
+    contratação de bens e serviços, não sendo prevista a inclusão
+    de elementos de adequação orçamentária no referido termo.
+110 A elaboração do contrato e a execução da contratação
+    prescindem de disponibilidade orçamentária prévia; dessa
+    forma, os serviços poderão ser licitados sem que haja
+    previsão de recursos orçamentários no exercício financeiro
+    em curso, desde que a despesa integre o exercício financeiro
+    subsequente.
+111 A equipe de planejamento da contratação deve elaborar um
+    plano de necessidade de contratação, relacionando o objeto
+    da contratação com as atividades da organização, a partir da
+    justificativa, pela área requisitante, da necessidade da
+    contratação, devendo tal justificativa embasar-se no
+    documento de formalização de demanda.
+112 Caso sejam identificadas demandas complexas, a
+    administração pode interagir com a iniciativa privada por
+    meio de diálogo competitivo ou contratação integrada para a
+    elaboração de estudo técnico preliminar.
+Julgue os itens a seguir, a respeito de critérios de remuneração.
+113 Quando o objeto do contrato visar à implantação de processo
+    de racionalização, a contratada poderá receber, a título de
+    remuneração, pagamento ajustado em base percentual sobre
+    o valor economizado em determinada despesa.
+114 Não há vedação absoluta à adoção de métrica homem-hora,
+    ou à remuneração por horas trabalhadas em detrimento da
+    remuneração por resultados, contudo, na remuneração
+    por horas trabalhadas, o órgão deve providenciar o
+    detalhamento do grau de qualidade exigido em relação aos
+    serviços e fazer a prévia estimativa da quantidade de horas
+    necessárias à sua execução.
+115 Na contratação de fornecimento e serviços, com exceção nos
+    afetos à engenharia, poderá ser estabelecida remuneração
+    variável vinculada ao desempenho do contratado desde que
+    definida no edital de licitação e no contrato.
+
+                            CEBRASPE – MPTO – Edital: 2024
+No que se refere a indicadores de nível de serviço, julgue os itens
+seguintes.
+116 É de responsabilidade do fiscal técnico do contrato a
+    avaliação da qualidade dos serviços realizados de acordo
+    com os critérios de aceitação em contrato, e a rejeição parcial
+    em virtude de descumprimento de nível mínimo de serviço
+    acordado pode implicar adequação do valor a ser pago ao
+    contratado, com glosa no pagamento, sem prejuízo das
+    sanções cabíveis.
+117 Deve haver definições relacionadas ao nível de serviço
+    desejado no termo de referência e no contrato, não sendo elas
+    necessárias no anteprojeto, uma vez que essa peça técnica
+    deve, primordialmente, demonstrar e justificar a demanda do
+    público-alvo e a motivação técnico-econômico-social do
+    empreendimento.
+Julgue os itens subsequentes, que tratam dos papéis
+desempenhados na contratação de serviços de TI.
+118 Qualquer pessoa tem legitimidade para impugnar edital de
+    licitação por irregularidade na aplicação da Lei de Licitações
+    ou, ainda, para solicitar esclarecimento a respeito dos seus
+    termos.
+119 O fiscal administrativo do contrato compõe a equipe de
+    fiscalização do contrato, sendo responsável pela fiscalização
+    da execução contratual e realização do recebimento
+    definitivo do serviço.
+120 Constituem deveres do fiscal técnico do contrato: fiscalizar a
+    execução do contrato para que sejam cumpridas as condições
+    estabelecidas e receber do preposto, no caso de inclusão de
+    empregados da contratada, os termos de ciência assinados
+    pelos novos empregados contratados.
+Espaço livre
+

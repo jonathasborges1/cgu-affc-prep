@@ -1,0 +1,309 @@
+C
+
+•
+
+•
+•
+
+Cada um dos itens das provas objetivas está vinculado ao com
+que cada um deles esteja vinculado, marque, na Folha de Res
+julgue o item CERTO; ou o campo designado com o código
+marcação de ambos os campos não serão apenadas, ou seja, nã
+Folha de Respostas, único documento válido para a correção da
+Nos itens que avaliarem conhecimentos de informática e(o
+informado o contrário, considere que todos os programas menc
+proteção, de funcionamento e de uso em relação aos programas,
+Eventuais espaços livres — identificados ou não pela expres
+poderão ser utilizados para rascunho.
+
+-- PROVAS O
+
+-- CONHECIMEN
+Texto CG1A1
+A defesa das florestas deveria ser objeto de um tratado
+internacional que reunisse o maior número de Estados, para que
+elas se tornassem intocáveis. Repito: a sobrevivência da nossa
+espécie depende da funcionalidade desses ecossistemas. Sem
+florestas suficientes, não existe chance real de podermos reverter
+a tendência de crescimento do CO2. O desmatamento deveria ser
+tratado como um crime contra a humanidade e punido como tal.
+Porque é disso que se trata. A proteção das florestas e sua
+manutenção, bem como a obrigação de manter intactos o solo, o
+ar e a água, deveriam fazer parte das constituições de todos os
+Estados, não apenas desta nossa Constituição da Nação das
+Plantas. Deveriam ser ensinadas nas escolas para crianças e
+adultos, em todos os lugares. Diretores de cinema deveriam fazer
+filmes, escritores deveriam escrever livros. Todos estão
+convocados a se mobilizar, e se vocês acham que é exagero e não
+veem motivo real para se levantar do sofá e defender o meio
+ambiente e as florestas, saibam que essa é a única emergência
+global real. A maioria dos problemas que afligem a humanidade
+hoje, mesmo que aparentemente distantes, está relacionada ao
+risco ambiental e consiste apenas na ponta de um iceberg, se não
+tratarmos o tema com a devida firmeza e eficiência.
+Stefano Mancuso. A nação das plantas.
+São Paulo: Ubu Editora, 2024, p. 78 (com adaptações).
+
+Com base nas ideias veiculadas no texto CG1A1, julgue os
+seguintes itens.
+1
+
+Atualmente, o risco ambiental é, conforme se entende do
+texto, o principal efeito da maior parte dos problemas que
+acometem a humanidade.
+
+2
+
+Infere-se do texto que, de acordo com a opinião do autor, as
+pessoas deveriam se engajar na defesa do meio ambiente e
+das florestas e as constituições de todos os Estados deveriam
+prever o que já estabelece a “nossa Constituição da Nação
+das Plantas”.
+
+3
+
+Infere-se do texto que a proposta de considerar os
+desmatamentos como um crime contra a humanidade implica
+considerar as plantas como pessoas.
+
+4
+
+De acordo com o texto, a importância das florestas decorre
+de seu papel na possibilidade de retroceder a tendência de
+aumento de CO2.
+
+
+CEBRASPE – PGM/CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+mando que imediatamente o antecede. De acordo com o comando a
+spostas, para cada item: o campo designado com o código C, caso
+o E, caso julgue o item ERRADO. A ausência de marcação ou a
+ão receberão pontuação negativa. Para as devidas marcações, use a
+as suas provas objetivas.
+ou) tecnologia da informação, a menos que seja explicitamente
+cionados estão em configuração-padrão e que não há restrições de
+, arquivos, diretórios, recursos e equipamentos mencionados.
+ssão “Espaço livre” — que constarem deste caderno de provas
+
+OBJETIVAS --
+
+NTOS GERAIS -Acerca de mecanismos de coesão empregados no texto CG1A1,
+julgue os próximos itens.
+5
+Sem prejuízo do sentido e das relações coesivas
+estabelecidas originalmente, a expressão “mesmo que”
+(último período) poderia ser substituída por contanto que.
+6
+A expressão “desses ecossistemas” (segundo período) remete
+a “florestas” (primeiro período).
+7
+No trecho “A proteção das florestas e sua manutenção”
+(sexto período), o pronome “sua” pode referir-se a
+“proteção” ou a “florestas”.
+8
+No primeiro período, são expressas ações desejáveis na
+perspectiva do autor, mas ainda não realizadas.
+9
+No quarto período, o vocábulo “tal” retoma “desmatamento”.
+Com relação a propriedades morfossintáticas do texto CG1A1,
+julgue os itens que se seguem.
+10 Estaria preservada a correção gramatical do texto caso o
+pronome “se”, em “Porque é disso que se trata” (quinto
+período), ficasse enclítico à forma verbal “trata” — trata-se.
+11 A inserção de uma vírgula imediatamente depois da forma
+verbal “saibam” (penúltimo período) comprometeria a
+correção gramatical do texto.
+12 Em “na ponta” (último período), a substituição de “na” por
+da prejudicaria a correção gramatical do texto.
+13 No último período, a substituição de “está relacionada” por
+estão relacionados manteria a correção gramatical do texto,
+sem necessidade de outros ajustes no período.
+Julgue os próximos itens, relativos a Windows 10, Microsoft
+Office 365 e Google Chrome.
+14 No Google Chrome, a ativação da opção Economia de
+memória permite que o Chrome libere memória das guias
+inativas, propiciando que outros aplicativos utilizem mais
+recursos do computador.
+15 No Microsoft Word 365, a opção Inserir > Indicador é
+utilizada para inserir, ao longo do texto do documento em
+edição, indicadores que permitem construir um sumário
+automático, o qual pode ser atualizado quando a referência
+nele inserida for alterada.
+16 Para uma estação de trabalho Windows 10 em que o
+Microsoft Defender esteja instalado, ativado e funcionando,
+não há solução antimalware sendo executada, uma vez que o
+Defender funciona como antivírus e não como antimalware.
+Julgue os próximos itens, relativos a cloud computing e conceitos
+de organização de arquivos, pastas e programas.
+17 Considere que o acesso ao Microsoft Office 365 se dará
+exclusivamente por meio de browser e que os documentos
+editados devem ser salvos na solução nativa da Microsoft na
+nuvem. Nessa situação, o Excel 365, que faz parte do
+Microsoft Office 365, constitui um exemplo de aplicação do
+modelo PaaS (plataforma como serviço) na cloud computing.
+
+
+C
+
+Tendo como referência a figura precedente, que ilustra uma
+árvore de diretórios e subdiretórios em um computador com o
+Windows 10 instalado, julgue o próximo item.
+18 Se o diretório 40-Organização-e-funcionamento for
+movido, então, por padrão, os seus subdiretórios serão
+movidos juntamente com ele, mas não será movido, nessa
+operação, o diretório 10-Planejamento-governanca-gestao.
+Julgue os itens que se seguem, relativos à segurança da
+informação e backup.
+19 No backup incremental são copiados somente os dados
+modificados desde o último backup, enquanto no backup
+diferencial
+são
+copiados
+somente
+os
+dados
+recém-adicionados e alterados desde o último backup
+completo.
+20 O alerta a seguir, apresentado ao se navegar em um sítio
+eletrônico, se refere a um vírus, uma vez que todo software
+malicioso é um vírus que executa ações danosas e atividades
+maliciosas no computador.
+
+A respeito da política de promoção de integridade e compliance
+no âmbito da administração pública do município de Cachoeiro
+de Itapemirim, considerada a Lei municipal n.º 8.033/2023,
+julgue os itens seguintes.
+21 A definição de risco de integridade está relacionada à
+vulnerabilidade institucional que pode favorecer ou facilitar
+práticas de corrupção e desvios éticos e de conduta.
+22 Entre os objetivos consagrados na Política de Promoção de
+Integridade e Compliance da Administração Pública,
+conforme disposto no diploma legal citado, inclui-se o
+atendimento a requerimentos e solicitações dos órgãos
+reguladores de controle.
+23 O disposto na referida lei alcança a administração direta e
+indireta do município de Cachoeiro de Itapemirim,
+incluindo, linearmente, as disposições de governança e
+compliance das sociedades de economia mista do município.
+
+
+CEBRASPE – PGM/CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+Com relação aos aspectos atinentes à ética no serviço público,
+observado o Decreto municipal n.º 32.820/2022, julgue os itens
+subsequentes.
+24
+
+As condutas incompatíveis com o disposto no mencionado
+decreto ensejam, a título de sanção, advertência, censura ou
+exoneração, conforme decisão da comissão de ética pública.
+
+25
+
+Como padrões éticos a serem observados pelos agentes
+públicos, estão previstas a integridade, a competitividade e a
+qualidade e eficiência dos serviços públicos.
+
+26
+
+Configura conflito de interesses a conduta do servidor do
+Poder Executivo municipal de Cachoeiro de Itapemirim que,
+no desempenho de sua função, beneficie um terceiro com o
+qual ele mantenha relação de sociedade.
+
+27
+
+A atualização no que se refere a novos métodos e novas
+técnicas é dever expresso a ser observado pelos agentes
+públicos do Poder Executivo municipal de Cachoeiro de
+Itapemirim.
+
+28
+
+O comportamento do servidor do Poder Executivo municipal
+de Cachoeiro de Itapemirim nas redes sociais é considerado
+para fins de observância do citado decreto, sendo-lhe vedado
+informar, no perfil particular nas redes sociais, a condição de
+servidor do município.
+
+Com base no que dispõe a Lei Orgânica do município de
+Cachoeiro de Itapemirim, julgue os itens a seguir.
+29
+
+É vedada a doação ou a concessão de direito de uso dos bens
+imóveis dominicais do município de Cachoeiro de
+Itapemirim.
+
+30
+
+Se o prefeito do município de Cachoeiro de Itapemirim
+cometer infração penal comum, ele ficará suspenso de suas
+funções, após a instauração do processo pela câmara
+municipal.
+
+31
+
+No município de Cachoeiro de Itapemirim, a criação de
+autarquia, fundação pública, empresa pública e sociedade de
+economia mista depende de lei municipal específica.
+
+Considerando o disposto no Estatuto dos Servidores Públicos do
+Município de Cachoeiro de Itapemirim (Lei n.º 4.009/1994),
+julgue os itens que se seguem.
+32
+
+Servidor público do município de Cachoeiro de Itapemirim
+pode servir sob direção imediata de um parente que seja seu
+primo.
+
+33
+
+Se uma pessoa for designada para determinada função de
+confiança, a sua posse deverá ocorrer em até trinta dias a
+contar da data da designação.
+
+34
+
+Denomina-se aproveitamento o reingresso no serviço público
+de servidor reintegrado por decisão administrativa.
+
+35
+
+A readaptação de servidor efetivo da prefeitura de Cachoeiro
+de Itapemirim não implicará redução nem aumento dos
+vencimentos.
+
+36
+
+Quando cabível, o pedido de reconsideração não interfere no
+curso da prescrição da pretensão punitiva da administração
+pública.
+
+37
+
+A licença para tratamento de saúde pode ser concedida
+ex officio, e o servidor que se recusar à inspeção médica será
+punido disciplinarmente.
+
+
+C
+
+No que se refere às disposições da Lei municipal n.º 7.756/2019, ju
+38 A capacitação dos servidores deve ser atividade permanent
+indiretamente, pela administração direta do Poder Executivo m
+39 Anualmente, o secretário municipal de Administração analisa
+direta do Poder Executivo do município de Cachoeiro de Itapem
+40 Cargo em comissão é o posto de trabalho declarado no ato norm
+Espaço livre
+
+
+CEBRASPE – PGM/CACHOEIRO DE ITAPEMIRIM – Edital: 2024
+
+ulgue os itens a seguir.
+te e os cursos com essa finalidade serão ministrados, direta ou
+municipal.
+ará a lotação dos servidores de todas as unidades da administração
+mirim.
+mativo que o tenha criado como de livre nomeação e exoneração.
+
+

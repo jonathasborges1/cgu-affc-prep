@@ -1,0 +1,50 @@
+{"id": "v1-7-01", "codigo": "OUTRO", "rel": "fora", "motivo": "amostragem de auditoria, tema de auditoria"}
+{"id": "v1-7-02", "codigo": "P1·ADM 5", "rel": "media", "motivo": "governo eletrônico e Estratégia de Governança Digital"}
+{"id": "v1-7-03", "codigo": "OUTRO", "rel": "fora", "motivo": "poder regulamentar, direito administrativo geral"}
+{"id": "v1-7-04", "codigo": "P1·ADM 4", "rel": "media", "motivo": "execução obrigatória de emendas ao orçamento"}
+{"id": "v1-7-05", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "controle social no SUS, paternalismo"}
+{"id": "v1-7-06", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "agenda de políticas públicas"}
+{"id": "v1-7-07", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "execução financeira: cota, repasse, despesa"}
+{"id": "v1-7-08", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "SIAFI, administração financeira"}
+{"id": "v1-7-09", "codigo": "OUTRO", "rel": "fora", "motivo": "LINDB, eficácia das leis no espaço"}
+{"id": "v1-7-10", "codigo": "OUTRO", "rel": "fora", "motivo": "Kubernetes, TI"}
+{"id": "v1-7-11", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "administração pública burocrática"}
+{"id": "v1-7-12", "codigo": "OUTRO", "rel": "fora", "motivo": "etnobotânica e mídias sociais"}
+{"id": "v1-7-13", "codigo": "P1·ESTADO 5", "rel": "media", "motivo": "LRF, transparência e controle social"}
+{"id": "v1-7-14", "codigo": "P1·SOC 4", "rel": "media", "motivo": "educação indígena e quilombola, diversidade"}
+{"id": "v1-7-15", "codigo": "OUTRO", "rel": "fora", "motivo": "processo civil, representação da fazenda"}
+{"id": "v1-7-16", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "marco legal de CT&I e inovação"}
+{"id": "v1-7-17", "codigo": "P1·SOC 5", "rel": "media", "motivo": "tecnologias sociais, semiárido, políticas públicas"}
+{"id": "v1-7-18", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "direitos fundamentais e código de ética jornalística"}
+{"id": "v1-7-19", "codigo": "P1·ADM 3", "rel": "baixa", "motivo": "avaliação de política pública por tribunal de contas"}
+{"id": "v1-7-20", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "regime de servidores estadual, reintegração"}
+{"id": "v1-7-21", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "tributação proporcional e equidade"}
+{"id": "v1-7-22", "codigo": "OUTRO", "rel": "fora", "motivo": "contrato administrativo, licitações e contratos"}
+{"id": "v1-7-23", "codigo": "OUTRO", "rel": "fora", "motivo": "improbidade, sanções, direito administrativo"}
+{"id": "v1-7-24", "codigo": "OUTRO", "rel": "fora", "motivo": "lógica proposicional"}
+{"id": "v1-7-25", "codigo": "OUTRO", "rel": "fora", "motivo": "improbidade, retroatividade, direito sancionador"}
+{"id": "v1-7-26", "codigo": "P1·ETICA 5", "rel": "baixa", "motivo": "ética corporativa e governança"}
+{"id": "v1-7-27", "codigo": "OUTRO", "rel": "fora", "motivo": "firewall, segurança de redes"}
+{"id": "v1-7-28", "codigo": "P1·ADM 5", "rel": "alta", "motivo": "transformação digital no governo"}
+{"id": "v1-7-29", "codigo": "OUTRO", "rel": "fora", "motivo": "responsabilidade civil do Estado"}
+{"id": "v1-7-30", "codigo": "OUTRO", "rel": "fora", "motivo": "medicina, antibiótico"}
+{"id": "v1-7-31", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "controles internos de gestão"}
+{"id": "v1-7-32", "codigo": "OUTRO", "rel": "fora", "motivo": "teoria do conflito, gestão de pessoas"}
+{"id": "v1-7-33", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "discricionariedade na implementação de políticas"}
+{"id": "v1-7-34", "codigo": "OUTRO", "rel": "fora", "motivo": "recebimento de obra, contratos"}
+{"id": "v1-7-35", "codigo": "OUTRO", "rel": "fora", "motivo": "direito empresarial, títulos de crédito"}
+{"id": "v1-7-36", "codigo": "OUTRO", "rel": "fora", "motivo": "Constituição estadual do Ceará, regiões"}
+{"id": "v1-7-37", "codigo": "OUTRO", "rel": "fora", "motivo": "processo civil, multa por ato atentatório"}
+{"id": "v1-7-38", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "competência municipal e federalismo"}
+{"id": "v1-7-39", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "políticas redistributivas, tipologia"}
+{"id": "v1-7-40", "codigo": "P1·ESTADO 2", "rel": "baixa", "motivo": "prestação de contas anual do chefe do Executivo"}
+{"id": "v1-7-41", "codigo": "P1·ADM 4", "rel": "media", "motivo": "SOF e processo orçamentário federal"}
+{"id": "v1-7-42", "codigo": "OUTRO", "rel": "fora", "motivo": "emprego formal no estado, economia regional"}
+{"id": "v1-7-43", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "conceito de auditoria governamental"}
+{"id": "v1-7-44", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Plano Diretor da Reforma do Aparelho do Estado"}
+{"id": "v1-7-45", "codigo": "OUTRO", "rel": "fora", "motivo": "geografia, recursos hídricos do DF"}
+{"id": "v1-7-46", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "bioeconomia e sustentabilidade"}
+{"id": "v1-7-47", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "pauta ambiental, recursos naturais"}
+{"id": "v1-7-48", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "gestão orientada a resultados e profissionalização"}
+{"id": "v1-7-49", "codigo": "OUTRO", "rel": "fora", "motivo": "sensoriamento remoto"}
+{"id": "v1-7-50", "codigo": "OUTRO", "rel": "fora", "motivo": "podcasts e design"}

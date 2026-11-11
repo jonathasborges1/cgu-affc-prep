@@ -1,0 +1,392 @@
+{
+  "bloco": "P2",
+  "n": 55,
+  "rotulos_ocultos": [
+    {
+      "id": "cego-p2-001",
+      "origem": "v1-12-39",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.3"
+    },
+    {
+      "id": "cego-p2-002",
+      "origem": "v1-5-49",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.3"
+    },
+    {
+      "id": "cego-p2-003",
+      "origem": "v1-5-14",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-004",
+      "origem": "v1-10-47",
+      "estrato": "baixo",
+      "triagem": "P2·AUD 2",
+      "edital_prov": "P2·AUD 2"
+    },
+    {
+      "id": "cego-p2-005",
+      "origem": "v1-11-45",
+      "estrato": "baixo",
+      "triagem": "P2·DIR 3",
+      "edital_prov": "P2·DIR 3.4"
+    },
+    {
+      "id": "cego-p2-006",
+      "origem": "v1-5-36",
+      "estrato": "baixo",
+      "triagem": "P2·AUD 2",
+      "edital_prov": "P2·AUD 2"
+    },
+    {
+      "id": "cego-p2-007",
+      "origem": "v1-6-05",
+      "estrato": "baixo",
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.1"
+    },
+    {
+      "id": "cego-p2-008",
+      "origem": "v1-1-11",
+      "estrato": "baixo",
+      "triagem": "P2·TRANSP 3",
+      "edital_prov": "P2·TRANSP 3.3"
+    },
+    {
+      "id": "cego-p2-009",
+      "origem": "v1-14-24",
+      "estrato": "baixo",
+      "triagem": "P2·GOV 4",
+      "edital_prov": "P2·GOV 4.2"
+    },
+    {
+      "id": "cego-p2-010",
+      "origem": "v1-1-42",
+      "estrato": "baixo",
+      "triagem": "P2·DIR 1",
+      "edital_prov": "P2·DIR 1.1"
+    },
+    {
+      "id": "cego-p2-011",
+      "origem": "v1-4-10",
+      "estrato": "baixo",
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-p2-012",
+      "origem": "v1-5-31",
+      "estrato": "baixo",
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-p2-013",
+      "origem": "v1-6-32",
+      "estrato": "baixo",
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.2"
+    },
+    {
+      "id": "cego-p2-014",
+      "origem": "v1-13-20",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-015",
+      "origem": "v1-13-39",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-016",
+      "origem": "v1-4-09",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-017",
+      "origem": "v1-4-19",
+      "estrato": "baixo",
+      "triagem": "P2·AUD 2",
+      "edital_prov": "P2·AUD 2.1"
+    },
+    {
+      "id": "cego-p2-018",
+      "origem": "v1-5-01",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-019",
+      "origem": "v1-5-18",
+      "estrato": "baixo",
+      "triagem": "P2·EVID 1",
+      "edital_prov": "P2·EVID 1.2"
+    },
+    {
+      "id": "cego-p2-020",
+      "origem": "v1-5-04",
+      "estrato": "medio",
+      "triagem": "P2·DIR 5",
+      "edital_prov": "P2·DIR 5.1"
+    },
+    {
+      "id": "cego-p2-021",
+      "origem": "v1-1-13",
+      "estrato": "medio",
+      "triagem": "P2·GOV 3",
+      "edital_prov": "P2·GOV 3.1"
+    },
+    {
+      "id": "cego-p2-022",
+      "origem": "v1-11-03",
+      "estrato": "medio",
+      "triagem": "P2·AUD 4",
+      "edital_prov": "P2·AUD 4.2"
+    },
+    {
+      "id": "cego-p2-023",
+      "origem": "v1-11-23",
+      "estrato": "medio",
+      "triagem": "P2·AUD 4",
+      "edital_prov": "P2·AUD 4.1"
+    },
+    {
+      "id": "cego-p2-024",
+      "origem": "v1-12-31",
+      "estrato": "medio",
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.1"
+    },
+    {
+      "id": "cego-p2-025",
+      "origem": "v1-7-16",
+      "estrato": "medio",
+      "triagem": "P2·GOV 2",
+      "edital_prov": "P2·GOV 2.1"
+    },
+    {
+      "id": "cego-p2-026",
+      "origem": "v1-8-20",
+      "estrato": "medio",
+      "triagem": "P2·DIR 3",
+      "edital_prov": "P2·DIR 3.3"
+    },
+    {
+      "id": "cego-p2-027",
+      "origem": "v1-9-15",
+      "estrato": "medio",
+      "triagem": "P2·EVID 3",
+      "edital_prov": "P2·EVID 3.1"
+    },
+    {
+      "id": "cego-p2-028",
+      "origem": "v1-8-38",
+      "estrato": "medio",
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.1"
+    },
+    {
+      "id": "cego-p2-029",
+      "origem": "v1-13-47",
+      "estrato": "medio",
+      "triagem": "P2·DIR 2",
+      "edital_prov": "P2·DIR 2.1"
+    },
+    {
+      "id": "cego-p2-030",
+      "origem": "v1-3-08",
+      "estrato": "medio",
+      "triagem": "P2·TRANSP 4",
+      "edital_prov": "P2·TRANSP 4.4"
+    },
+    {
+      "id": "cego-p2-031",
+      "origem": "v1-6-29",
+      "estrato": "medio",
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.3"
+    },
+    {
+      "id": "cego-p2-032",
+      "origem": "v1-12-17",
+      "estrato": "medio",
+      "triagem": "P2·TRANSP 4",
+      "edital_prov": "P2·TRANSP 4.1"
+    },
+    {
+      "id": "cego-p2-033",
+      "origem": "v1-12-26",
+      "estrato": "medio",
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.2"
+    },
+    {
+      "id": "cego-p2-034",
+      "origem": "v1-12-29",
+      "estrato": "medio",
+      "triagem": "P2·DIR 4",
+      "edital_prov": "P2·DIR 4.2"
+    },
+    {
+      "id": "cego-p2-035",
+      "origem": "v1-12-45",
+      "estrato": "medio",
+      "triagem": "P2·GOV 5",
+      "edital_prov": "P2·GOV 5.1"
+    },
+    {
+      "id": "cego-p2-036",
+      "origem": "v1-13-09",
+      "estrato": "medio",
+      "triagem": "P2·EVID 4",
+      "edital_prov": "P2·EVID 4.2"
+    },
+    {
+      "id": "cego-p2-037",
+      "origem": "v1-1-48",
+      "estrato": "medio",
+      "triagem": "P2·AUD 5",
+      "edital_prov": "P2·AUD 5.2"
+    },
+    {
+      "id": "cego-p2-038",
+      "origem": "v1-13-29",
+      "estrato": "alto",
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    },
+    {
+      "id": "cego-p2-039",
+      "origem": "v1-13-44",
+      "estrato": "alto",
+      "triagem": "P2·DIR 1",
+      "edital_prov": "P2·DIR 1.1"
+    },
+    {
+      "id": "cego-p2-040",
+      "origem": "v1-7-11",
+      "estrato": "alto",
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.2"
+    },
+    {
+      "id": "cego-p2-041",
+      "origem": "v1-12-01",
+      "estrato": "alto",
+      "triagem": "P2·DIR 4",
+      "edital_prov": "P2·DIR 4.2"
+    },
+    {
+      "id": "cego-p2-042",
+      "origem": "v1-9-26",
+      "estrato": "alto",
+      "triagem": "P2·DIR 4",
+      "edital_prov": "P2·DIR 4.2"
+    },
+    {
+      "id": "cego-p2-043",
+      "origem": "v1-6-31",
+      "estrato": "alto",
+      "triagem": "P2·DIR 2",
+      "edital_prov": "P2·DIR 2.1"
+    },
+    {
+      "id": "cego-p2-044",
+      "origem": "v1-9-14",
+      "estrato": "alto",
+      "triagem": "P2·TRANSP 3",
+      "edital_prov": "P2·TRANSP 3.1"
+    },
+    {
+      "id": "cego-p2-045",
+      "origem": "v1-13-42",
+      "estrato": "alto",
+      "triagem": "P2·GOV 1",
+      "edital_prov": "P2·GOV 1.1"
+    },
+    {
+      "id": "cego-p2-046",
+      "origem": "v1-8-23",
+      "estrato": "alto",
+      "triagem": "P2·DIR 1",
+      "edital_prov": "P2·DIR 1.2"
+    },
+    {
+      "id": "cego-p2-047",
+      "origem": "v1-13-01",
+      "estrato": "alto",
+      "triagem": "P2·DIR 3",
+      "edital_prov": "P2·DIR 3.1"
+    },
+    {
+      "id": "cego-p2-048",
+      "origem": "v1-8-32",
+      "estrato": "alto",
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    },
+    {
+      "id": "cego-p2-049",
+      "origem": "v1-3-26",
+      "estrato": "alto",
+      "triagem": "P2·TRANSP 2",
+      "edital_prov": "P2·TRANSP 2.2"
+    },
+    {
+      "id": "cego-p2-050",
+      "origem": "v1-13-50",
+      "estrato": "alto",
+      "triagem": "P2·AUD 1",
+      "edital_prov": "P2·AUD 1.2"
+    },
+    {
+      "id": "cego-p2-051",
+      "origem": "v1-9-48",
+      "estrato": "alto",
+      "triagem": "P2·AUD 4",
+      "edital_prov": "P2·AUD 4.2"
+    },
+    {
+      "id": "cego-p2-052",
+      "origem": "v1-8-15",
+      "estrato": "alto",
+      "triagem": "P2·TRANSP 1",
+      "edital_prov": "P2·TRANSP 1.2"
+    },
+    {
+      "id": "cego-p2-053",
+      "origem": "v1-13-06",
+      "estrato": "alto",
+      "triagem": "P2·EVID 5",
+      "edital_prov": "P2·EVID 5.2"
+    },
+    {
+      "id": "cego-p2-054",
+      "origem": "v1-3-42",
+      "estrato": "alto",
+      "triagem": "P2·EVID 2",
+      "edital_prov": "P2·EVID 2.1"
+    },
+    {
+      "id": "cego-p2-055",
+      "origem": "v1-8-11",
+      "estrato": "alto",
+      "triagem": "P2·TRANSP 3",
+      "edital_prov": "P2·TRANSP 3.1"
+    }
+  ],
+  "status": "aguarda_classificacao_semantica"
+}

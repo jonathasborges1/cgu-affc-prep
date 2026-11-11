@@ -1,0 +1,400 @@
+89301401112701
+
+-- CONHECIMENTO
+Julgue os próximos itens, relativos à Instrução Normativa
+SGD n.º 1/2019.
+51
+
+Para autorização de adesão à ata de registro de preço exarada
+pelo órgão gerenciador, é obrigatório que o órgão
+interessado publique e compartilhe seu termo de referência
+ou projeto básico, não sendo necessária a publicação do
+estudo técnico preliminar da contratação por se tratar de
+documento inicial da fase de planejamento da contratação.
+
+52
+
+É vedado prever em edital a adoção da métrica homem-hora
+e(ou) a contratação de postos de trabalho alocados, ainda que
+haja justificativa vinculada à entrega de produtos ou
+comprovação obrigatória de resultados.
+
+53
+
+O documento de oficialização da demanda deve conter a
+necessidade da contratação bem como a explicitação da
+motivação e dos resultados a serem alcançados, com
+informações suficientes para ser aprovado pela autoridade
+competente da área administrativa, que deve decidir
+motivadamente sobre o prosseguimento da contratação, após
+o encaminhamento do documento de oficialização da
+demanda pela área de TIC.
+
+A respeito da ABNT NBR ISO/IEC 20000:2020, julgue os
+seguintes itens.
+54
+
+O gerenciamento de capacidade deve incluir tanto a
+capacidade atual quanto a prevista, com base na demanda
+por serviços.
+
+55
+
+Na gestão de serviços, a organização deve manter portfólio
+de serviços incluindo os detalhes dos serviços propostos e
+em operação; porém, por questão de assertividade, esse
+portfólio não deve incluir os serviços a serem removidos
+nem os em desenvolvimento.
+
+56
+
+O gerenciamento de problema deve registrar, classificar e
+priorizar os problemas, prescindindo-se a análise da causa
+raiz e a prevenção de ocorrência de incidentes.
+
+Julgue o próximo item, relativo ao Kanban.
+57
+
+Em linhas gerais, o Kanban permite gerenciar os passos no
+desenvolvimento de um produto por meio do método de
+controle visual, em que é possível visualizar o trabalho
+em progresso.
+
+A respeito da Lei n.o 13.303/2016, julgue os seguintes itens.
+58
+
+Não é admitida, no capital da empresa pública, a participação
+de outras pessoas jurídicas de direito público interno, uma
+vez que o capital social da empresa é integralmente detido
+pela União, pelos estados, pelo Distrito Federal ou pelos
+municípios.
+
+59
+
+Compete ao Conselho de Administração da empresa pública
+aprovar decisões envolvendo política de gestão de pessoas e
+supervisionar os sistemas de gestão de riscos com fulcro de
+prevenir e mitigar os principais riscos relacionados à
+ocorrência de corrupção e fraude.
+
+60
+
+A empresa pública deve divulgar a remuneração dos
+administradores e não pode emitir partes beneficiárias.
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS -Julgue os próximos itens, relativos à Instrução Normativa
+SGD n.o 5/2021.
+61 É exigido do provedor de serviço de nuvem, para prestar
+serviços de computação em nuvem para os órgãos da
+administração pública federal, que ele seja capaz de validar a
+integridade das operações de gerenciamento de chaves
+criptográficas bem como de suportar tecnologia
+single sign-on para autenticação.
+62 Com relação à segregação de dados e à separação lógica em
+ambientes de computação em nuvem, um órgão, em conjunto
+com o provedor de serviço de nuvem, deverá garantir a
+separação de todos os recursos utilizados pelo provedor de
+serviço de nuvem daqueles recursos utilizados pela
+administração interna do órgão.
+63 Para que haja o correto tratamento de informação
+classificada em grau de sigilo em ambiente de computação
+em nuvem, tal informação, ao ser transferida para o provedor
+de serviço de nuvem, deve estar hospedada em território
+brasileiro.
+A respeito da Instrução Normativa SGD n.o 94/2022, julgue os
+itens que se seguem.
+64 Cabe ao gestor do contrato e ao integrante administrativo o
+desenvolvimento do estudo técnico preliminar da
+contratação, que deve conter a especificação das
+necessidades tecnológicas bem como dos requisitos
+necessários e suficientes à escolha da solução de TIC.
+65 Um fiscal setorial de contrato faz parte da equipe de
+fiscalização do contrato, podendo ser servidor representante
+de um dos diversos setores do órgão, indicado para o
+acompanhamento da execução do contrato nos aspectos
+técnicos.
+A respeito de arquitetura de rede TCP/IP, julgue os itens a seguir.
+66 O IPv4 funciona como identificador de 64 bits utilizado para
+identificar dispositivos em uma rede.
+67 O TCP é utilizado na camada de transporte e opera orientado
+à conexão.
+68 O protocolo ICMP (internet control message protocol) é
+amplamente utilizado para roteamento de pacotes e opera na
+camada de Internet do modelo de referência TCP/IP.
+69 Um computador que atua na função de gateway tem a
+capacidade de conectar duas redes diferentes, fazendo o
+roteamento dos pacotes entre elas.
+70 A camada de aplicação do modelo de referência TCP/IP
+suporta o uso do protocolo SMTP (simple mail transfer
+protocol) para correio eletrônico.
+71 O protocolo HTTP (hypertext transfer protocol) opera na
+camada de transporte do modelo de referência TCP/IP.
+A respeito dos conceitos de armazenamento de discos e de
+replicação de dados, julgue os itens que se seguem.
+72 Um disco rígido do tipo HDD (hard disk drive) tem uma
+taxa de transferência de dados maior e mais rápida que a de
+um disco do tipo SSD (solid state drive).
+73 O arranjo de disco do tipo RAID 5 é capaz de fornecer
+redundância a partir de um conjunto de 3 ou mais discos.
+74 Uma replicação que opere de forma assíncrona é capaz de
+garantir os dados idênticos na origem e na área replicada de
+forma instantânea, isto é, considerando uma latência próxima
+de zero.
+75 Se, em um arranjo de disco com RAID 0, um dos discos
+falhar, então os dados serão perdidos.
+
+
+89301401112701
+
+Julgue os itens seguintes, relativos a VMWare.
+76
+
+O VMWare suporta servidores virtuais com sistemas
+operacionais MacOs.
+
+77
+
+O hypervisor utilizado no VMWare chama-se QEMU.
+
+A respeito de clusters, julgue os itens subsequentes.
+78
+
+Um cluster de alta performance tem a característica de
+permitir que aplicativos funcionem em paralelo, o que pode
+aumentar o desempenho desses aplicativos.
+
+79
+
+O VMWare é incapaz de virtualizar clusters de alta
+disponibilidade de serviços.
+
+No que se refere a mensageria, julgue os próximos itens.
+80
+
+Sistemas de mensageria são capazes de separar o remetente
+de uma mensagem e seus consumidores.
+
+81
+
+Os sistemas de mensageria enviam e recebem mensagens,
+mas são incapazes de garantir que entregas aconteçam e que
+haja durabilidade das mensagens em caso de falhas dos
+servidores.
+
+Julgue os itens a seguir, relativos a nuvem pública e nuvem
+privada.
+82
+
+Uma nuvem pública possibilita que o consumidor provisione
+recursos de rede e sub-redes para servidores web.
+
+83
+
+A elasticidade rápida de recursos que podem ser
+provisionados e liberados é uma das características de uma
+nuvem.
+
+A respeito de servidores Apache e Nginx, julgue os itens
+subsecutivos.
+84
+
+O Nginx suporta atuar como um proxy de páginas HTTP,
+capacidade que o Apache não possui.
+
+85
+
+Esses servidores são capazes de suportar a execução de
+websites estáticos e dinâmicos.
+
+Acerca de armazenamento orientado a objetos (object store) com
+o serviço S3, julgue os itens seguintes.
+86
+
+Arquivos armazenados em diferentes localidades de um
+mesmo país ou em países diferentes podem ser replicados
+a partir da utilização desse serviço.
+
+87
+
+O armazenamento nesse tipo de serviço é capaz de controlar
+a versão dos arquivos armazenados.
+
+Julgue os próximos itens, relativos a gerenciamento de projetos,
+de acordo com o PMBOK 7.ª edição.
+88
+
+Um dos princípios estipulados pelo PMBOK 7.ª edição é o
+enfoque no valor, segundo o qual valor é o indicador de
+sucesso definitivo do projeto; nesse sentido, as equipes
+podem, para apoiar a percepção de valor dos projetos, alterar
+o foco das entregas para os resultados pretendidos.
+
+89
+
+Os domínios de desempenhos são executados em sprints em
+sequência de importância.
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+Julgue os itens seguintes, relativos à gestão de riscos.
+A análise de riscos inclui a consideração das causas e fontes
+de risco, a probabilidade de ocorrer um evento específico, a
+probabilidade de que este evento provoque consequências e a
+gravidade dessas eventuais consequências.
+91 Na gestão de riscos, o nível de risco refere-se à significância
+de um risco, demonstrada pela combinação das
+consequências e de seu impacto.
+90
+
+Considerando a ITIL 4, julgue os itens a seguir.
+A solicitação de um usuário que inicia uma ação de serviço
+acordada como parte regular da entrega de serviço deve ser
+gerenciada pela prática de gerenciamento de incidente, de
+modo que se restaure a operação normal do serviço o mais
+rápido possível.
+93 A prática de gerenciamento de segurança da informação tem
+como objetivo principal a elaboração e manutenção da
+política de segurança da informação da organização.
+92
+
+Com base no COBIT 2019, julgue os próximos itens.
+No domínio entrega, serviço e suporte (DSS), há processos
+relacionados ao gerenciamento de solicitações e de
+incidentes de serviço, assim como ao gerenciamento de
+problemas e de continuidade.
+95 O processo estratégia gerenciada do domínio alinhar,
+planejar e organizar (APO) visa garantir que cada iniciativa
+da organização esteja claramente conectada a uma estratégia
+abrangente, de modo que haja transformação digital na
+organização.
+94
+
+No que se refere ao uso da notação BPMN para a gestão de
+processos e para a modelagem de processos de negócio, julgue os
+itens que se seguem.
+96
+
+De acordo com a notação BPMN apresentada na figura a
+seguir, a Tarefa 2 (#2) e a Tarefa 3 (#3) serão executadas
+concomitantemente.
+
+97
+
+De acordo com a notação BPMN apresentada na figura a
+seguir, apenas uma das tarefas #1, #2 e #3 será executada,
+ou seja, no momento de decisão (#Decisão), um único
+caminho deverá ser seguido.
+
+
+89301401112701
+
+A respeito de modelagem de dados, julgue os itens a seguir.
+98 A modelagem conceitual representa o negócio sob a
+perspectiva dos dados, e, em projetos de TI, o principal
+objetivo de um modelo de dados conceitual é fornecer uma
+visão geral dos requisitos de informação envolvidos no
+projeto.
+99 O modelo em estrela e o modelo em floco de neve são os
+principais modelos de dados relacionais.
+100 A integridade referencial é uma parte essencial de qualquer
+banco de dados relacional, que, entre outros benefícios,
+facilita as consultas.
+101 A modelagem dimensional é uma técnica de modelagem de
+banco de dados que usa um modelo de dados baseado em
+dimensões para organizar os dados, e as tabelas de
+dimensões são sempre as maiores tabelas do modelo
+dimensional.
+102 Um banco de dados que se encontra na terceira forma normal
+obrigatoriamente está também na segunda e na primeira
+formas normais.
+Em relação às linguagens de banco de dados SQL, DDL e DML,
+julgue os itens que se seguem.
+103 Na DDL, que é uma linguagem declarativa, é descrito o que
+se deseja fazer, em vez de como fazê-lo, como comandos
+para definir tabelas e procedures, tal qual exemplificado
+a seguir.
+CREATE TABLE <tablename> (col1 int, col2 int,
+col3 int)
+104 A DML é uma linguagem que interage com os objetos do
+
+banco de dados, em vez de interagir com os dados.
+105 Somente são possíveis os seguintes quatro tipos de JOIN
+em SQL, segundo o padrão ANSI: INNER JOIN, LEFT JOIN,
+RIGHT JOIN e CROSS JOIN.
+No que se refere a banco de dados NoSQL e data lake, julgue os
+próximos itens.
+106 Considere-se que uma empresa de comércio eletrônico
+deseje armazenar todos os dados relacionados às interações
+dos clientes em seu site — registros de visitas, cliques,
+compras, avaliações, comentários, entre outros. Nessa
+situação, se a empresa decidir não estruturar e organizar
+esses dados antecipadamente, será melhor armazenar esses
+dados em uma solução data lake do que em um banco
+relacional.
+107 Os bancos relacionais permitem uma escalabilidade mais
+barata e menos trabalhosa que os bancos não relacionais,
+pois não exigem máquinas extremamente poderosas e sua
+facilidade de manutenção possibilita um número menor de
+profissionais necessários.
+Com relação a inteligência artificial, análise de dados e Big Data,
+julgue os itens subsequentes.
+108 Nas aplicações Big Data, a arquitetura paralela e distribuída
+(Cluster) é o meio para a criação de soluções capazes de
+analisar grandes bases de dados, processar seus pesados
+cálculos e disponibilizar serviços especializados para os mais
+diversos cenários.
+109 Um gráfico muito útil para a etapa de análise de dados é o
+box plot, que ajuda a identificar a distribuição real ou padrão
+dos valores dos dados, permite visualizar mediana, quartis,
+valores mínimos e máximos, além de identificar possíveis
+outliers.
+110 Um sistema de aprendizado não supervisionado, dotado de
+um conjunto de dados de treinamento que foram
+classificados manualmente, tenta aprender, a partir desses
+dados de treinamento, uma forma de classificá-los, bem
+como de classificar novos dados, ainda não observados.
+
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+Considerando o padrão de redes sem fio 802.11g, julgue os itens
+seguintes.
+111 A camada física do 802.11b não usa o espalhamento
+espectral por sequência direta (DSSS) ao passo que o
+802.11b usa transmissão fechada em unicast de rádio.
+112 O 802.11g utiliza a frequência de 2,4 GHz e permite até
+54 Mbps de taxa nominal de transmissão.
+Com base nos fundamentos de roteamento entre VLANs, julgue
+os itens a seguir.
+113 O protocolo 801.Q deve ser suportado em um roteador capaz
+de realizar o roteamento entre VLANs.
+114 O roteamento entre VLANs consiste no processo de
+confinamento do tráfego de rede de uma VLAN para que
+este não seja encaminhado para outra VLAN.
+Julgue os seguintes itens, relativos às camadas do modelo OSI.
+115 Os protocolos de transporte no modelo OSI são orientados à
+conexão somente.
+116 Por fundamento, no modelo OSI, a camada de rede fornece
+os meios necessários para fazer a transferência de pacotes de
+um nó para outro nó conectado em redes diferentes.
+Acerca das características fundamentais do protocolo IEEE
+802.3, julgue os itens subsequentes.
+117 O IEEE 802.3 define o método de acesso à rede local usando
+o CSMA/CD (carrier-sense multiple access with collision
+detection).
+118 O IEEE 802.3 define como deve ser o controle de acesso da
+camada física e da camada de enlace de dados do padrão
+Ethernet com fio.
+A respeito das características do protocolo UDP (user datagram
+protocol), julgue os itens que se seguem.
+119 O UDP implementa por padrão a criptografia 3DES no modo
+de entrega de datagrama USER-MODE.
+120 O UDP é um protocolo orientado à conexão e garante a
+entrega dos dados.
+Espaço livre
+
+

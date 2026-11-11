@@ -1,0 +1,144 @@
+{
+  "bloco": "P3",
+  "amostra": 221,
+  "rotulados": 221,
+  "progresso": 1.0,
+  "acertos_triagem": 115,
+  "precisao_triagem_parcial": 0.5203619909502263,
+  "duplicados": [],
+  "por_assunto": {
+    "P3·ARQ 1": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 9,
+      "precisao": 0.6,
+      "completo": true
+    },
+    "P3·ARQ 2": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 13,
+      "precisao": 0.8666666666666667,
+      "completo": true
+    },
+    "P3·ARQ 3": {
+      "amostra": 9,
+      "rotulados": 9,
+      "acertos": 3,
+      "precisao": 0.3333333333333333,
+      "completo": true
+    },
+    "P3·ARQ 4": {
+      "amostra": 11,
+      "rotulados": 11,
+      "acertos": 2,
+      "precisao": 0.18181818181818182,
+      "completo": true
+    },
+    "P3·ARQ 5": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 9,
+      "precisao": 0.6,
+      "completo": true
+    },
+    "P3·DADOS 1": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 10,
+      "precisao": 0.6666666666666666,
+      "completo": true
+    },
+    "P3·DADOS 2": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 9,
+      "precisao": 0.6,
+      "completo": true
+    },
+    "P3·DADOS 3": {
+      "amostra": 14,
+      "rotulados": 14,
+      "acertos": 5,
+      "precisao": 0.35714285714285715,
+      "completo": true
+    },
+    "P3·DADOS 4": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 11,
+      "precisao": 0.7333333333333333,
+      "completo": true
+    },
+    "P3·ENG 1": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 4,
+      "precisao": 0.26666666666666666,
+      "completo": true
+    },
+    "P3·ENG 2": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 7,
+      "precisao": 0.4666666666666667,
+      "completo": true
+    },
+    "P3·SEG 1": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 8,
+      "precisao": 0.5333333333333333,
+      "completo": true
+    },
+    "P3·SEG 2": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 6,
+      "precisao": 0.4,
+      "completo": true
+    },
+    "P3·SEG 3": {
+      "amostra": 7,
+      "rotulados": 7,
+      "acertos": 6,
+      "precisao": 0.8571428571428571,
+      "completo": true
+    },
+    "P3·SEG 4": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 10,
+      "precisao": 0.6666666666666666,
+      "completo": true
+    },
+    "P3·SEG 5": {
+      "amostra": 15,
+      "rotulados": 15,
+      "acertos": 3,
+      "precisao": 0.2,
+      "completo": true
+    }
+  },
+  "backtest_temporal": {
+    "folds": [
+      {
+        "ano_teste": 2024,
+        "treino": 80,
+        "teste": 77,
+        "recall_top5": 0.2987012987012987
+      }
+    ],
+    "recall_top5": 0.2987012987012987,
+    "itens_teste": 77
+  },
+  "gates": {
+    "amostra_completa": true,
+    "sem_duplicados": true,
+    "precisao_minima_0_85": false,
+    "tres_folds_temporais": false,
+    "recall_top5_minimo_0_75": false
+  },
+  "confiavel": false,
+  "aviso": null
+}

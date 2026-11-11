@@ -1,0 +1,5 @@
+{"item": "8", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-controles-internos-minimizam-riscos-efeito-cumulativo", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "10", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-ambiente-controle-cultura-base", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "15", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-categorias-objetivos", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "17", "edital": "P2·GOV 2.1", "relevancia": "alta", "nucleo_id": "n-coso-monitoramento-deficiencias-medidas-corretivas", "nucleo_novo": false, "tags": ["TROCA_TERMO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "24", "edital": "P2·AUD 1.4", "relevancia": "alta", "nucleo_id": "n-issai-nao-vinculantes-adesao", "nucleo_novo": false, "tags": ["ESCOPO"], "nivel": "Médio", "confianca": "media", "duvida": null}

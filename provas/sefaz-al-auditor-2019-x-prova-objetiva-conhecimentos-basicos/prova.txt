@@ -1,0 +1,651 @@
+||Matriz_514_SEFAZALCB1||
+
+•       Cada um dos itens das provas objetivas está vinculado ao com
+        a que cada um deles esteja vinculado, marque, na Folha de
+        caso julgue o item CERTO; ou o campo designado com o c
+        ou a marcação de ambos os campos não serão apenadas, ou se
+        use a Folha de Respostas, único documento válido para a corre
+•       No(s) item(ns) constituído(s) pela estrutura Situação hipoté
+        situação hipotética deverão ser considerados premissa(s) para o
+•       Nos itens que avaliarem conhecimentos de informática e(o
+        informado o contrário, considere que todos os programas me
+        de proteção, de funcionamento e de uso em relação aos program
+•       Eventuais espaços livres — identificados ou não pela expre
+        poderão ser utilizados para rascunho.
+
+                                                 CONHECIMEN
+    1             É uma loja grande e escura no centro da cidade, uma
+        quadra distante da estação de trem. Quando visito a família,
+        entre um churrasco e outro, vou até lá para olhar as gôndolas
+    4   atulhadas de baldes, bacias, chaves de fenda, garfos, colheres,
+        facas, afiadores de vários modelos, pedras de amolar,
+        parafusos, porcas, pregos, anzóis e varas de pescar.
+    7             É uma loja grande e escura, eu dizia, no centro da
+        cidade onde nasci, e dentro dela me sinto protegido, distante da
+        neurose e dos problemas, sonhando com uma das vidas que não
+10      tive e me esquecendo da vida real em que me perco enquanto
+        a atravesso e sou por ela atravessado.
+                  Tem meia dúzia de atendentes, conheço dois ou três
+13      pelo nome, e o dono do lugar é sempre simpático comigo. Sabe
+        que gosto do seu negócio, que, se me mudasse de novo para lá,
+        seria seu freguês. Mas também sei que me vê como um tipo que
+16      há vinte anos vive na capital, que a essa altura é mais
+        metropolitano que interiorano, um cara talvez meio esquisito,
+        ou apenas ridículo, que se interessa por coisas de que não
+19      precisa, coisas das quais não entende.
+                  Da última vez gastei uma eternidade olhando uma
+        caneca de alumínio. Não a coloquei na cesta de compras. Para
+22      ser sincero, mal consegui tocá-la. De repente minha existência
+        pareceu absurda, e eu teria que trocar de roupa e de pele antes
+        de usar aquela caneca industrial. Ou pelo menos pintar de outra
+25      cor as paredes da sala. Era trabalho demais, desisti. Agora
+        tenho uma caneca imaginária — que brilha na sombra quando
+        bebo água.
+                                        Fabrício Corsaletti. Escura. In: Perambule. São
+                                        Paulo: Editora 34, 2018 (com adaptações).
+
+
+No que concerne às ideias e aos aspectos linguísticos do texto
+apresentado, julgue os itens a seguir.
+1       Sem prejuízo da correção gramatical e dos sentidos do texto,
+        a expressão “uma quadra distante da estação de trem” (R. 1 e 2)
+        poderia ser substituída por a uma quadra de distância da
+        estação de trem.
+2       A supressão da vírgula empregada após o vocábulo “família”
+        (R.2) implicaria alteração no sentido do período.
+3       A expressão “um cara talvez meio esquisito” (R.17) é
+        empregada pelo narrador para caracterizar “o dono do lugar”
+        (R.13).
+4       O texto evidencia o sentimento ambíguo de nostalgia e de
+        deslocamento do autor em relação à sua cidade natal.
+5       A substituição da expressão “das quais” (R.19) por que
+        preservaria tanto o sentido quanto a correção gramatical do
+        período.
+
+                      CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+ mando que imediatamente o antecede. De acordo com o comando
+ Respostas, para cada item: o campo designado com o código C,
+código E, caso julgue o item ERRADO. A ausência de marcação
+ eja, não receberão pontuação negativa. Para as devidas marcações,
+ eção das suas provas objetivas.
+ética: ... seguida de Assertiva: ..., os dados apresentados como
+o julgamento da assertiva proposta.
+ou) tecnologia da informação, a menos que seja explicitamente
+encionados estão em configuração-padrão e que não há restrições
+mas, arquivos, diretórios, recursos e equipamentos mencionados.
+essão “Espaço livre” — que constarem deste caderno de provas
+
+
+NTOS BÁSICOS
+  Acerca da responsabilidade civil do Estado, julgue os itens a seguir.
+
+  6    Historicamente, a responsabilidade civil do Estado evoluiu
+       a partir da teoria da irresponsabilidade civil do Estado,
+       passando por um período no qual predominaram teorias
+       de responsabilidade subjetiva. Atualmente, encontra-se
+       sedimentada e prevalecente a teoria da responsabilidade
+       objetiva do Estado.
+  7    As pessoas jurídicas de direito privado prestadoras de serviços
+       públicos respondem pelos seus atos que causarem danos
+       a particulares somente se verificado que a conduta tenha
+       sido dolosa ou culposa.
+  8    O Estado é civilmente responsável por dano causado a
+       particular em decorrência de má conservação de rodovia
+       que se encontra sob responsabilidade pública.
+  9    A culpa recíproca da vítima é causa excludente da
+       responsabilidade do Estado.
+  10   A condenação do Estado em ação indenizatória ajuizada
+       em razão de dano causado por servidor público enseja
+       a responsabilização do servidor em ação regressiva,
+       independentemente da configuração de dolo ou culpa
+       na conduta.
+  Julgue os próximos itens, relativos a licitações e contratos
+  administrativos.
+
+  11   A existência de fornecedor exclusivo de determinado produto
+       é hipótese de inexigibilidade de licitação.
+  12   No pregão para a aquisição de bens comuns, é ilegal a
+       indicação de marcas, exceto quando houver justificativa
+       técnica que indique a qualidade do material a ser adquirido.
+  13   Na licitação para registro de preços, é necessário indicar
+       a dotação orçamentária na fase interna do procedimento
+       licitatório.
+  14   No regime diferenciado de contratações públicas, é cabível
+       licitar obras e serviços de engenharia relacionados a melhorias
+       na mobilidade urbana.
+  15   Em se tratando de contrato de prestação de serviços firmado
+       com a administração pública após regular procedimento
+       licitatório, caso a contratada não pague os encargos
+       trabalhistas dos empregados alocados no contrato, o Estado
+       responderá, subsidiariamente, pelos referidos encargos, em
+       razão da culpa in eligendo.
+
+||Matriz_514_SEFAZALCB1||
+
+Com relação à aplicabilidade das normas constitucionais
+e aos direitos e garantias fundamentais, julgue os itens a seguir.
+16   O grau de eficácia de uma norma constitucional não pode
+     ser aferido a partir da sua entrada em vigor, sendo necessária,
+     para tal aferição, a verificação da incidência da lei em um caso
+     concreto.
+17   Em se tratando de norma constitucional contida, enquanto
+     não sobrevier condição que reduza sua aplicabilidade,
+     considera-se plena sua eficácia.
+18   De acordo com a Constituição Federal de 1988, são
+     reconhecidos como válidos somente os direitos e as garantias
+     previstas no texto constitucional ou os a ele incorporados
+     formalmente.
+A respeito da organização político-administrativa do Estado
+brasileiro, julgue os itens subsequentes.
+19   Por expressa disposição constitucional, as competências
+     materiais e legislativas dos municípios subordinam-se
+     integralmente ao disposto nas constituições dos respectivos
+     estados-membros a que eles pertencem.
+20   Diante da inexistência de lei federal pertinente, os estados
+     possuem capacidade plena para legislar sobre normas gerais
+     em direito tributário.
+Quanto à organização dos Poderes Executivo, Legislativo
+e Judiciário, julgue os itens a seguir.
+21   A atuação das comissões parlamentares de inquérito insere-se
+     no âmbito da função fiscalizatória do Poder Legislativo,
+     considerada função típica desse poder.
+22   A competência do Tribunal de Contas da União para julgar
+     as contas dos responsáveis por dinheiros, bens e valores
+     públicos não abrange as contas do presidente da República.
+23   Em razão da garantia de autonomia financeira, as propostas
+     orçamentárias encaminhadas pelo Poder Judiciário não se
+     submetem aos limites impostos pela lei de diretrizes
+     orçamentárias.
+24   Tanto em caso de infrações penais comuns quanto de crimes
+     de responsabilidade, compete à Câmara dos Deputados
+     o juízo de admissibilidade da acusação apresentada contra
+     o presidente da República.
+25   É viável a extinção de órgãos públicos por meio de decreto
+     do presidente da República na hipótese de redução de despesa
+     para a União.
+Acerca de assuntos relativos ao direito empresarial, julgue os itens
+a seguir.
+26   Os sócios que integram sociedade empresária que funciona
+     sem registro em junta comercial respondem ilimitadamente
+     com seu patrimônio pessoal pelas dívidas da sociedade.
+27   A falência incide tanto sobre a sociedade empresária regular
+     quanto sobre o empresário de fato, mas a recuperação judicial
+     beneficia somente os que pratiquem a atividade empresarial
+     conforme a lei.
+28   Sociedade limitada será regida supletivamente pelas normas
+     da sociedade simples somente se assim estiver estipulado
+     no contrato social.
+29   Acionista controlador é o titular de direitos de sócio que
+     lhe asseguram, de modo permanente, a maioria dos votos
+     em assembleia geral e o poder de eleger a maioria dos
+     administradores da companhia, mesmo que não utilize
+     efetivamente esse poder para dirigir as atividades sociais.
+
+                    CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+30   Empresa individual de responsabilidade limitada é constituída
+     por uma única pessoa e seu nome empresarial deve ser
+     formado necessariamente pela firma seguida da expressão
+     EIRELI.
+Com base no Código Civil, julgue os itens a seguir.
+31   O direito à sucessão aberta é considerado, para os efeitos
+     legais, bem imóvel, ainda que os bens deixados pela pessoa
+     falecida sejam todos móveis.
+32   Negócio jurídico celebrado por pessoa menor de dezesseis
+     anos de idade é anulável.
+33   As partes podem alterar, por acordo, os prazos de prescrição,
+     inclusive mediante renúncia expressa ou tácita.
+34   Os bens de pessoa que falecer sem deixar testamento serão
+     destinados aos sucessores legítimos, que são, de acordo com a
+     lei, os seus descendentes, ascendentes, cônjuge, companheiro
+     e os colaterais até o quarto grau.
+35   O pacto antenupcial por escritura pública é necessário ao casal
+     que escolher o regime da comunhão universal, o da separação
+     absoluta de bens ou o da participação final nos aquestos,
+     sendo incabível no regime da comunhão parcial.
+Com relação a aspectos do direito penal, julgue os itens a seguir.
+36   Funcionário público que é responsável pela fiscalização da
+     entrada e saída de mercadorias no estado e deliberadamente
+     não verifica o correto pagamento do imposto devido comete
+     o crime de descaminho.
+37   Auditor que, no intuito de obter vantagem econômica, inserir,
+     no banco de dados da secretaria de fazenda local, informações
+     falsas em relação a dívida de determinado contribuinte terá
+     cometido o crime de falsidade ideológica.
+38   Caracteriza crime contra a fé pública a venda, no exercício de
+     atividade comercial, de mercadoria em que tenha sido aplicado
+     selo falsificado que se destina a controle tributário.
+39   Autorizar a inscrição em restos a pagar de despesa que tenha
+     sido previamente empenhada não é uma conduta tipificada
+     como crime contra as finanças públicas.
+40   O agente que patrocina interesse privado junto à administração
+     fazendária valendo-se da qualidade de funcionário público
+     comete o crime de advocacia administrativa que, de acordo
+     com o Código Penal, é punido com reclusão.
+No que se refere a legislação tributária, obrigação tributária
+e crédito tributário, julgue os itens que se seguem.
+41   Se, no âmbito de determinado estado, um ente público
+     delega a determinada pessoa jurídica de direito público
+     a função de arrecadação dos tributos, a essa pessoa jurídica
+     serão aplicáveis as garantias e os privilégios processuais
+     que competem ao ente público cedente.
+42   A obrigação tributária principal corresponde a uma prestação
+     pecuniária que tenha como objeto o pagamento de tributo
+     ou de multa por descumprimento da legislação tributária
+     e, diferentemente da obrigação acessória, submete-se
+     à reserva de lei em sentido formal.
+43   No âmbito do direito tributário, prevalece a máxima civilista
+     de que o acessório segue o principal, de tal forma que
+     a extinção da obrigação principal implica a extinção
+     da obrigação acessória, dada a relação de subordinação
+     existente entre elas.
+
+||Matriz_514_SEFAZALCB1||
+
+44   O lançamento tributário é procedimento administrativo
+     vinculado e obrigatório, que se reporta à data da ocorrência do
+     fato gerador da obrigação, sendo regido pela lei então vigente,
+     desde que não tenha sido modificada ou revogada, e é ivativo
+     da autoridade administrativa, a qual pode ser funcionalmente
+     responsabilizada se não realizá-lo.
+45   No caso de lançamento por homologação, não influem
+     sobre a obrigação tributária quaisquer atos anteriores
+     à homologação, praticados pelo sujeito passivo ou por terceiro,
+     visando à extinção total ou parcial do crédito.
+
+A respeito de responsabilidade, de obrigação e de administração
+tributária, julgue os itens subsequentes.
+
+46   A denúncia espontânea da infração, acompanhada, se for
+     o caso, do pagamento do tributo devido com juros de mora
+     correspondentes, realizada até a conclusão do procedimento
+     administrativo ou da medida de fiscalização relacionada
+     com a infração resulta na exclusão da responsabilidade
+     do contribuinte pela infração.
+47   Independentemente da natureza ou do tempo de sua
+     constituição, o crédito tributário tem preferência sobre
+     qualquer outro, inclusive sobre os créditos decorrentes
+     da legislação trabalhista ou de acidentes de trabalho.
+48   À administração tributária, no exercício da fiscalização, não
+     será oponível norma estadual que limite o direito de examinar
+     livros e documentos comerciais ou fiscais dos comerciantes.
+49   Os livros obrigatórios de escrituração comercial e fiscal,
+     bem como os comprovantes dos lançamentos neles
+     efetuados, deverão ser conservados pelo prazo de cinco anos,
+     independentemente de estarem ou não prescritos os créditos
+     tributários decorrentes das operações a que se refiram.
+50   Auditor fiscal que, com o intuito de beneficiar terceiro devedor
+     de tributos, expedir certidão negativa ignorando os débitos
+     fiscais devidos será responsabilizado pessoalmente pelo
+     crédito tributário e pelos juros de mora acrescidos.
+
+         Determinada sociedade anônima contratou um seguro
+contra incêndio, com vigência de três anos, e pagou integralmente
+o prêmio do seguro à companhia seguradora no ato da contratação.
+
+A partir dessa situação hipotética, julgue os itens seguintes.
+
+51   Para a empresa segurada, trata-se de um fato contábil
+     permutativo, com efeitos patrimoniais imediatos em contas
+     do ativo circulante e do ativo realizável a longo prazo.
+52   A empresa segurada estará sujeita ao reconhecimento futuro
+     de despesas, as quais serão apropriadas pro rata temporis,
+     de acordo com o regime de competência.
+
+                    CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+Com relação à composição das demonstrações contábeis exigidas
+pela legislação societária, julgue os itens a seguir.
+53   O produto obtido por uma sociedade anônima com a venda
+     de partes beneficiárias e bônus de subscrição será apresentado
+     como receita operacional na demonstração do resultado
+     do exercício.
+54   A conta ajustes de avaliação patrimonial pertence ao
+     patrimônio líquido e destina-se a registrar, no balanço
+     patrimonial, os aumentos ou as diminuições de valor de
+     elementos do ativo e do passivo sujeitos à avaliação a valor
+     justo por determinação legal ou regulamentação específica,
+     enquanto tais variações não puderem ser reconhecidas
+     no resultado do exercício em obediência ao regime de
+     competência.
+Com base nas Normas Brasileiras de Contabilidade Geral
+(NBC TG), julgue os próximos itens.
+55   Uma das características qualitativas fundamentais da
+     informação financeira é a representação fidedigna,
+     que preconiza que as informações financeiras sejam
+     representações fiéis da forma legal dos fenômenos que elas
+     se propõem a representar.
+56   O reconhecimento inicial de um ativo intangível que
+     tenha sido adquirido em separado deve ser feito ao custo,
+     o qual deve incluir, entre outros elementos, os impostos
+     de importação e os impostos não recuperáveis incidentes
+     sobre a compra.
+Com relação a operações envolvendo estoques de mercadorias,
+julgue os itens subsecutivos.
+57   Em um cenário econômico de alta dos preços, a opção
+     pela utilização do método PEPS (primeiro que entra,
+     primeiro que sai) provoca custos de mercadorias vendidas
+     em valores maiores do que os que seriam obtidos com
+     a utilização do método da média ponderada.
+58   Uma mercadoria cujo custo de aquisição não possa ser
+     mais recuperável deve ser mensurada a valor justo até a sua
+     venda definitiva.
+         O departamento de produção de determinada empresa
+necessita ratear os seus custos indiretos a dois produtos A e Z.
+O departamento de contabilidade de custos dessa empresa estuda
+o critério mais adequado para efetivar o referido rateio, entre
+os quatro seguintes critérios: matéria-prima aplicada; mão de obra
+direta aplicada; horas-máquina utilizadas; custo direto total.
+Com base nas informações apresentadas, julgue os itens a seguir.
+59   Caso as análises concluam que a matéria-prima e a mão de
+     obra direta são aplicadas na mesma proporção aos produtos A
+     e Z, poderá ser utilizado qualquer um desses dois critérios,
+     assim como o custo direto total, sem que haja distorção na
+     distribuição dos custos indiretos.
+60   Se das análises for concluído que 90% dos custos indiretos
+     dizem respeito a depreciação, energia elétrica e manutenção,
+     não poderá ser utilizado o critério da matéria-prima aplicada
+     para rateio dos custos indiretos aos produtos A e Z.
+61   Caso as análises concluam que o principal custo indireto
+     refere-se a supervisão e controle do pessoal que trabalha
+     diretamente na produção, não é apropriada a utilização do
+     critério da mão de obra direta aplicada para rateio dos custos
+     indiretos aos produtos A e Z.
+62   Se as análises indicarem que os custos indiretos são fortemente
+     influenciados por fatores relacionados ao consumo de
+     matéria-prima e à utilização de máquinas, será apropriada a
+     eleição de um critério misto.
+
+||Matriz_514_SEFAZALCB1||
+
+O departamento de produção de determinada empresa, que fabrica
+dois produtos (A e B), dispõe da seguinte composição de custos.
+
+                     incorridos no departamento
+
+      matéria-prima consumida (produto A)         R$ 300.000
+
+      matéria-prima consumida (produto B)         R$ 200.000
+
+      mão de obra direta (produto A)               R$ 90.000
+
+      mão de obra direta (produto B)               R$ 60.000
+
+      energia elétrica (produto A)                 R$ 30.000
+
+      energia elétrica (produto B)                 R$ 20.000
+
+      mão de obra indireta                         R$ 80.000
+
+
+               custos indiretos dos produtos recebidos
+                       de outros departamentos
+
+                              R$ 200.000
+
+
+               custos já alocados aos produtos A e B
+           no departamento anterior (produção recebida)
+
+                             R$ 2.500.000
+
+Com base nas informações precedentes, julgue os itens que se
+seguem, relativos a controle de custos.
+
+63   Do ponto de vista do departamento de produção, os custos
+     relativos aos produtos A e B incorridos no departamento
+     anterior (R$ 2.500.000) são não controláveis.
+64   Do ponto de vista do departamento de produção, os custos
+     incorridos no departamento e alocados aos produtos A e B
+     (R$ 700.000) são controláveis, enquanto os custos relativos à
+     mão de obra indireta (R$ 80.000) são não controláveis, uma
+     vez que não foram alocados aos produtos.
+65   Do ponto de vista do departamento de produção, os custos
+     indiretos dos produtos A e B recebidos de outros
+     departamentos (R$ 200.000) são controláveis por natureza.
+O Banco Central exerce papel estratégico no equilíbrio dos
+mercados financeiros ao interferir na oferta e demanda por moeda.
+Os fatores que afetam a oferta ou a demanda de moeda de um país
+estão entre os principais determinantes da taxa de câmbio. A esse
+respeito, julgue os itens subsequentes.
+
+66   A demanda por moeda depende, positivamente, do nível de
+     transações econômicas e, negativamente, da taxa de juros real.
+67   As operações de mercado aberto contracionistas levam a uma
+     diminuição do preço dos títulos e a um aumento da taxa de
+     juros.
+68   A elevação da taxa de juros básica da economia (SELIC)
+     concomitantemente à diminuição das taxas de recolhimento
+     compulsório sobre depósitos a vista reduz a liquidez e, em
+     consequência, a inflação corrente.
+69   Os bancos centrais modernos, incluindo-se o Banco Central
+     brasileiro, utilizam instrumentos de política monetária para
+     alterar a oferta de moeda, visando alcançar a taxa de juros que
+     desejam atingir.
+
+                      CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+O Estado brasileiro atua como regulador, como financiador e como
+agente produtor, a fim de contribuir para o aumento de
+investimentos na economia. Acerca das funções do governo na
+economia, julgue os itens seguintes.
+
+70   O objetivo da regulação do estado é melhorar a eficiência
+     alocativa, situação na qual se realiza o maior volume de
+     transações econômicas, mesmo que isso possa eventualmente
+     sacrificar o bem-estar do consumidor.
+
+71   O Programa Mais Médicos é uma iniciativa do governo federal
+     que visa ao fortalecimento da atenção básica do país; assim,
+     sua execução possibilita ao governo cumprir a função
+     econômica distributiva.
+
+72   O Estado atua na sua função como regulador quando define as
+     políticas econômica e fiscal, a fim de promover o emprego,
+     o    desenvolvimento       e    a   estabilidade,     haja   vista    a
+     impossibilidade do mercado de assegurar o atingimento de tais
+     objetivos.
+
+          Em      determinado       mercado    com       participação     de
+100 empresas, em concorrência perfeita, a função de custo
+total (CT) para todas as empresas e a curva de demanda (Qd)
+pelo bem B são definidas pelas funções Qd = 1000 ! 10P e
+CT = 50 + 4qe + qe2, em que Qd = quantidade demandada no
+mercado; P = preço do bem; qe = quantidade ofertada por cada
+empresa.
+
+A partir dessa situação hipotética, julgue os itens subsecutivos.
+
+73   O preço de equilíbrio desse mercado corresponde a 8 unidades
+     monetárias.
+
+74   As empresas maximizarão os lucros quando o custo marginal
+     for correspondente a 20 unidades monetárias.
+
+O produto interno bruto (PIB) é um indicador do tamanho da
+economia e corresponde à soma de todos os bens e serviços finais
+produzidos por um país, estado ou cidade, geralmente em um ano.
+O PIB do Brasil dos últimos 10 anos passou por momentos de
+crescimento e redução. Acerca do PIB brasileiro, julgue os itens a
+seguir.
+
+75   As estimativas do PIB brasileiro podem ser expressas tanto em
+     unidades monetárias quanto em unidades físicas.
+
+76   É consenso entre os economistas que um período de deflação
+     longo poderá assegurar crescimento robusto da economia do
+     Brasil nos próximos anos.
+
+77   Uma variação positiva do PIB nominal do Brasil nos
+     próximos anos não significará necessariamente crescimento
+     real da economia.
+
+||Matriz_514_SEFAZALCB1||
+
+Julgue os próximos itens, relativos a gerenciamento de projetos.
+
+78   De acordo com o PMBOK 6, o gerente do projeto não
+     é responsável por garantir que o trabalho relacionado
+     a requisitos seja considerado no plano de gerenciamento
+     do projeto, porque, em projetos ágeis, em vez de planejamento
+     do escopo, há a definição do backlog, que acontece mais
+     ao longo da vida do projeto e menos em seu início.
+79   Uma das formas de medir o grau de eficiência com que
+     a equipe do projeto está realizando o trabalho é avaliar
+     o índice de desempenho de prazos, que consiste em uma
+     medida de eficiência do cronograma expressa como a razão
+     entre valor agregado e valor planejado.
+80   Enquanto o processo estimar os custos define os recursos
+     monetários necessários para executar o trabalho do projeto,
+     o processo determinar o orçamento agrega os custos
+     estimados de pacotes de trabalho para estabelecer uma linha
+     de base dos custos autorizada.
+Acerca da gestão de processos de negócios ou BPM, julgue os itens
+subsecutivos.
+
+81   BPM representa uma forma de visualizar as operações de
+     negócio que vai além das estruturas funcionais tradicionais,
+     compreendendo todo o trabalho executado para entregar
+     o serviço do processo, independentemente de quais áreas
+     funcionais estejam envolvidas.
+82   O objetivo da modelagem de processos, conjunto de atividades
+     envolvidas na criação de representações de processos
+     de negócio propostos, é criar uma representação do processo
+     de maneira completa e precisa sobre seu funcionamento.
+Julgue os seguintes itens, relativos a fundamentos da ITIL v3.
+
+83   A ITIL não possui processo específico que realize
+     gerenciamento financeiro, da contabilidade ou de cobrança
+     de um provedor de serviço de tecnologia da informação (TI);
+     no entanto, no desenvolvimento do caso de negócio, é viável
+     incluir informações sobre custos e benefícios financeiros
+     acerca dos serviços de TI envolvidos.
+84   A central de serviços, importante função da ITIL, além de ser
+     o ponto focal com o usuário de tecnologia da informação (TI),
+     é responsável por fornecer habilidades técnicas para o suporte
+     de serviços de TI e o gerenciamento de infraestrutura de TI.
+Julgue os próximos itens, a respeito dos fundamentos de COBIT 5.
+
+85   O COBIT aborda a governança e gestão da informação
+     correlata a partir da perspectiva de toda a organização,
+     ou seja, o sistema de governança corporativa de TI proposto
+     pelo COBIT integra-se perfeitamente em qualquer sistema
+     de governança, de modo que o COBIT permite regular
+     e controlar tecnologias afins onde quer que essas informações
+     possam ser processadas.
+86   O COBIT divide os processos de governança e gestão de TI
+     da organização em dois domínios, e inclui um modelo
+     de referência de processo no qual a gestão é responsável
+     pelo desenvolvimento, pela execução e pelo monitoramento
+     das atividades, em consonância com a direção definida
+     pelo órgão.
+
+                   CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+Com relação a banco de dados, julgue os itens seguintes.
+
+87   Com base no diagrama a seguir, é correto afirmar que um
+     item na entidade Ambiente pode não relacionar-se com
+     nenhum item na entidade Setor ou pode relacionar-se
+     com vários itens nesta entidade, enquanto um item na
+     entidade Setor pode relacionar-se somente com um item
+     na entidade Ambiente.
+
+
+
+
+88   Considerando-se o modelo multidimensional a seguir, é correto
+     afirmar que Quantidade e Valor são dimensões de Itens.
+
+
+
+
+Julgue os próximos itens, relativos a segurança da informação.
+
+89   A criptografia provê métodos de disfarçar informações;
+     a criptografia de chave pública é simétrica quando envolve
+     a utilização de duas chaves separadas, mas correlacionadas.
+90   Identificação e autenticação são requisitos de segurança
+     da informação que consistem em identificar usuários do
+     sistema e verificar as suas identidades, como pré-requisito
+     para permitir o acesso desses usuários ao sistema.
+
+||Matriz_514_SEFAZALCB1||
+
+No argumento seguinte, as proposições P1, P2, P3 e P4 são
+as premissas, e C é a conclusão.
+
+     C   P1: “Se há carência de recursos tecnológicos no setor Alfa,
+         então o trabalho dos servidores públicos que atuam
+         nesse setor pode ficar prejudicado.”.
+
+     C   P2: “Se há carência de recursos tecnológicos no setor Alfa,
+         então os beneficiários dos serviços prestados por esse
+         setor podem ser mal atendidos.”.
+
+     C   P3: “Se o trabalho dos servidores públicos que atuam
+         no setor Alfa fica prejudicado, então os servidores
+         públicos que atuam nesse setor padecem.”.
+
+     C   P4: “Se os beneficiários dos serviços prestados pelo
+         setor Alfa são mal atendidos, então os beneficiários
+         dos serviços prestados por esse setor padecem.”.
+
+     C   C: “Se há carência de recursos tecnológicos no setor Alfa,
+         então os servidores públicos que atuam nesse setor
+         padecem e os beneficiários dos serviços prestados por
+         esse setor padecem.”.
+
+Considerando esse argumento, julgue os itens seguintes.
+
+91   Se a proposição “O trabalho dos servidores públicos que atuam
+     nesse setor pode ficar prejudicado.” for falsa e a proposição
+     “Há carência de recursos tecnológicos no setor Alfa.”
+     for verdadeira, então a proposição P1 será falsa.
+
+92   Se a proposição P4 for verdadeira, então a proposição
+     “Os beneficiários dos serviços prestados pelo setor Alfa
+     são mal atendidos.” será, necessariamente, verdadeira.
+
+93   A proposição P3 é equivalente à proposição “Se os servidores
+     públicos que atuam nesse setor não padecem, então o trabalho
+     dos servidores públicos que atuam no setor Alfa não fica
+     prejudicado.”.
+
+94   A proposição P1vP2 é equivalente à proposição “Se há
+     carência de recursos tecnológicos no setor Alfa, então o
+     trabalho dos servidores públicos que atuam nesse setor pode
+     ficar prejudicado e os beneficiários dos serviços prestados por
+     esse setor podem ser mal atendidos.”.
+
+95   A negação da proposição “Os servidores públicos que
+     atuam nesse setor padecem e os beneficiários dos serviços
+     prestados por esse setor padecem.” é corretamente expressa
+     por “Os servidores públicos que atuam nesse setor não
+     padecem e os beneficiários dos serviços prestados por esse
+     setor não padecem.”.
+
+96   O argumento em questão é válido.
+
+                     CEBRASPE – SEFAZ_AL – Aplicação: 2020
+
+         Seis amigos — Alberto, Bruno, Carla, Dani, Evandro
+e Flávio — estão enfileirados, da esquerda para a direita,
+e dispostos da seguinte forma:
+      I    Bruno está em uma posição anterior à de Carla;
+      II   Carla está imediatamente após Dani;
+      III Evandro não está antes de todos os outros, mas está
+          mais próximo da primeira posição do que da última;
+      IV Flávio está em uma posição anterior à de Bruno;
+      V    Bruno não ocupa a quarta posição da fila.
+Com base nessas informações, julgue os itens a seguir,
+considerando a ordenação da esquerda para a direita.
+97    A segunda e a terceira posições da fila são ocupadas
+      por Evandro e Bruno.
+98    Carla pode ocupar a última posição da fila ou a penúltima.
+99    A quarta posição da fila somente pode ser ocupada por Dani.
+100   Bruno e Dani estão, necessariamente, em posições
+      consecutivas.
+Espaço livre
+

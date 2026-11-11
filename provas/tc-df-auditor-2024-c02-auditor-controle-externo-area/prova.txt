@@ -1,0 +1,1039 @@
+CEBRASPE – TCDF – Edital: 2024
+
+-- CONHECIMENTOS ESPECIALIZADOS -Uma idosa de 66 anos de idade recebeu atendimento
+psicológico em unidade básica de saúde (UBS), durante o qual
+relatou falhas de memória, desorientação em algumas situações e
+perda de interesse por atividades que antes lhe eram prazerosas.
+Referiu aumento da sensação de cansaço e falta de motivação,
+além de dificuldades em lembrar compromissos e informações
+recentes, o que lhe causava constrangimentos em seu ambiente de
+trabalho. Ao realizar a avaliação inicial, o psicólogo considerou a
+necessidade de um psicodiagnóstico para o entendimento da
+extensão e da natureza dos sintomas e para a identificação de
+outros fatores que poderiam estar contribuindo para o quadro
+clínico da paciente.
+A partir do caso clínico hipotético apresentado, julgue os
+seguintes itens.
+96 No caso em apreço, caso a paciente necessite de documento
+para justificar sua falta ao trabalho devido ao
+comparecimento à UBS, o psicólogo deverá emitir uma
+declaração, da qual devem constar as seguintes informações:
+nome completo da paciente, horário do atendimento, tempo
+de atendimento e registro de sintomas.
+
+97
+
+JUSTIFICATIVA - ERRADO. A declaração é o documento
+psicológico mais objetivo e sucinto entre todos. Responde a
+solicitações pontuais que visam a informar situações que
+envolvem dia(s), horários e tempo de atendimento do
+paciente/cliente e(ou) da pessoa que o acompanha. Diferentemente
+do atestado psicológico, a declaração nunca deve apresentar
+registro de sintomas, estados psicológicos ou qualquer outra
+informação que diga respeito ao funcionamento psicológico da
+pessoa atendida, sendo essa conduta vedada pelo § 1.º do art. 9.º da
+Resolução CFP n.º 06/2019, que estabelece diretrizes para a
+elaboração de documentos escritos produzidos pelo psicólogo no
+exercício profissional.
+<FimJust>
+
+O psicodiagnóstico é um processo contínuo que envolve a
+avaliação detalhada do funcionamento psicológico do
+indivíduo, utilizando-se entrevistas, observações e testes
+psicológicos para a compreensão das queixas apresentadas e
+orientação sobre o tratamento.
+
+JUSTIFICATIVA - Certo. De acordo com a literatura de referência,
+o psicodiagnóstico é um processo abrangente que busca investigar o
+funcionamento psicológico do paciente de forma contínua e
+detalhada. Ele envolve a coleta de informações por meio de
+diversas técnicas, como entrevistas, observações e aplicação de
+testes psicológicos. O objetivo é compreender as queixas e os
+fatores subjacentes ao sofrimento do indivíduo, o que contribui para
+a elaboração de um plano de intervenção eficaz.
+<FimJust>
+
+98
+
+O uso de um teste de rastreio cognitivo, como o miniexame
+do estado mental (MEEM), pode auxiliar a detectar na
+paciente possíveis sinais de demência, sendo necessária uma
+requisição médica para a realização do teste, visto que sua
+aplicação é vedada a psicólogos.
+
+JUSTIFICATIVA - Errado. O miniexame do estado mental
+(MEEM) é amplamente utilizado por psicólogos como uma
+ferramenta de rastreio para avaliar possíveis alterações cognitivas,
+como aquelas encontradas em quadros de demência. Sua aplicação
+é permitida aos psicólogos, desde que sejam habilitados e
+capacitados para o uso de instrumentos psicológicos. Psicólogos
+frequentemente utilizam o MEEM como parte de uma avaliação
+mais ampla, que pode incluir outros testes psicológicos,
+observações e entrevistas clínicas, para auxiliar a detecção de sinais
+de comprometimento cognitivo e o diagnóstico diferencial de
+condições como depressão e demência. O uso do MEEM não é
+restrito ou vedado aos profissionais da psicologia, e ele é um
+recurso importante no campo da neuropsicologia e no
+acompanhamento de idosos. (Conselho Federal de Psicologia.
+Resolução CFP n.º 002/2003: dispõe sobre a utilização de
+
+instrumentos psicológicos pelo psicólogo).
+<FimJust>
+
+99
+
+A psicopatologia do caso apresentado sugere que a paciente
+pode apresentar sintomas compatíveis com quadro
+depressivo ou transtorno neurocognitivo, o que torna
+necessária uma avaliação cuidadosa para se distinguirem as
+possíveis causas desses sintomas.
+
+JUSTIFICATIVA - Certo. A psicopatologia envolve o estudo dos
+sintomas apresentados pela paciente para identificar possíveis
+transtornos. No caso descrito, as dificuldades de memória,
+desorientação, falta de interesse e cansaço podem ser indicativos
+tanto de um quadro depressivo quanto de um transtorno
+neurocognitivo, como a demência. Assim, é essencial realizar uma
+avaliação detalhada para diferenciar as causas e direcionar o
+tratamento adequadamente.
+<FimJust>
+
+Maria procurou atendimento psicológico, relatando ter
+sido vítima de violência doméstica. Durante as sessões, a
+psicóloga não apenas minimizou os relatos de agressão, mas
+também sugeriu que Maria poderia estar exagerando a gravidade
+dos eventos e que a falta de provas concretas dificultava qualquer
+intervenção. Além disso, Maria soube que, sem o seu
+consentimento, a psicóloga compartilhou com terceiros suas
+informações confidenciais. Sentindo-se desacreditada e
+desamparada, Maria denunciou a profissional ao conselho
+regional de psicologia (CRP) de sua região, alegando infração
+ética.
+Considerando a situação hipotética precedente, julgue os
+próximos itens, relativos à ética profissional do psicólogo.
+100 O Código de Ética Profissional do Psicólogo permite que o
+psicólogo compartilhe informações confidenciais de cliente,
+mesmo sem o seu consentimento, sempre que considerar que
+a divulgação dessas informações pode beneficiar o
+tratamento e garantir um prognóstico mais preciso para o
+caso.
+
+JUSTIFICATIVA - Errado. O Código de Ética Profissional do
+Psicólogo (Resolução CFP n.º 010/2005, arts. 9.º e 10, parágrafo
+único) estabelece que o psicólogo deve garantir o sigilo
+profissional, não podendo divulgar informações confidenciais de
+um cliente sem seu consentimento, exceto em situações previstas
+por lei ou quando há risco iminente de danos ao próprio cliente ou a
+terceiros. O psicólogo deve sempre buscar a autorização do cliente
+para compartilhar informações, assegurando o respeito à
+privacidade e à confidencialidade.
+<FimJust>
+
+101 Na situação em apreço, a psicóloga agiu de acordo com o
+
+Código de Ética Profissional do Psicólogo, uma vez que é
+sua obrigação avaliar criticamente a veracidade das
+informações fornecidas pela cliente e garantir que qualquer
+intervenção seja embasada em evidências concretas e
+comprovadas.
+
+JUSTIFICATIVA - Errado. O Código de Ética Profissional do
+Psicólogo (Resolução CFP n.º 010/2005/2005) determina que o
+psicólogo deve acolher e respeitar a dignidade dos clientes,
+especialmente em situações sensíveis como a violência doméstica,
+proporcionando um espaço seguro e empático. Minimizar ou
+descredibilizar os relatos de uma cliente sem uma avaliação
+cuidadosa e sem oferecer suporte adequado configura infração
+ética, pois viola o princípio de respeito e acolhimento que o
+profissional deve garantir.
+<FimJust>
+
+Em relação aos testes utilizados no contexto de avaliações
+psicológicas, julgue os itens a seguir.
+102 Conforme disposto no Código de Ética Profissional do
+Psicólogo, será considerada falta ética a utilização de testes
+
+CEBRASPE – TCDF – Edital: 2024
+
+psicológicos com parecer desfavorável ou que constem na
+lista de testes psicológicos não avaliados no site do Sistema
+de Avaliação de Testes Psicológicos (SATEPSI), exceto nos
+casos de pesquisa amparados pela legislação vigente e nas
+situações de ensino com objetivo formativo e histórico na
+psicologia.
+
+JUSTIFICATIVA - Certo. A assertiva reproduz a previsão do art.
+12, parágrafo único, da Resolução CFP n.º 31/2022.
+<FimJust>
+103 A técnica do desenho da casa-árvore-pessoa (HTP), as
+
+pirâmides coloridas de Pfister e a bateria fatorial de
+personalidade (BFP) são testes que podem ser utilizados para
+avaliar personalidade em adultos e atualmente constam como
+favoráveis no Sistema de Avaliação de Testes
+Psicológicos (SATEPSI).
+
+JUSTIFICATIVA - Certo. Segundo dados coletados no SATEPSI:
+A técnica do desenho da casa-árvore-pessoa (HTP): avaliação
+psicológica no contexto brasileiro
+Favorável
+Construto
+Personalidade, técnicas projetivas
+Público-alvo
+De 6 até 90 anos
+Idade da amostra de normatização
+De 6 até 90 anos
+Data aprovação
+9/12/2023
+Prazo dos estudos de validade
+9/12/2038
+Bateria fatorial de personalidade (BFP) Favorável
+Construto
+Personalidade
+Público-alvo
+Adolescentes e adultos
+Idade da amostra de normatização
+De 10 até 75 anos
+Data aprovação
+1.º/8/2009
+Prazo dos estudos de normatização
+1/8/2024 – atualização de normas em avaliação
+Prazo dos estudos de validade
+1.º/8/2029
+As pirâmides coloridas de Pfister
+Favorável
+Construto
+Personalidade
+Público Alvo
+De 18 a 66 anos
+Idade da amostra de normatização
+De 18 até 66 anos
+Data aprovação
+22/1/2005
+Prazo dos estudos de normatização
+22/01/2020 – atualização de normas aprovada na Plenária de
+17/04/2020, com vigência até 17/4/2035
+Prazo dos estudos de validade
+22/1/2025
+Internet: <https://satepsi.cfp.org.br>.
+<FimJust>
+104 Os testes psicológicos compreendem uma variedade de
+
+instrumentos — a exemplo de testes padronizados, escalas,
+inventários, questionários, além de métodos projetivos e
+expressivos — que são utilizados para a avaliação de
+diferentes aspectos psicológicos e comportamentais.
+
+JUSTIFICATIVA - Certo. De acordo com o artigo 10 da Resolução
+CFP n.º 31/2022, que estabelece diretrizes para a realização de
+avaliação psicológica no exercício profissional da psicóloga e do
+psicólogo, os testes psicológicos abarcam os seguintes
+instrumentos: I testes; II escalas; III inventários;
+IV questionários; V métodos projetivos e expressivos.
+<FimJust>
+
+105 Testes de inteligência como as escalas de inteligência
+
+Wechsler são utilizados na psicologia apenas para avaliar a
+capacidade intelectual geral, não sendo relevantes para
+identificar áreas específicas de habilidade ou dificuldade do
+indivíduo.
+
+JUSTIFICATIVA - Errado. Os testes de inteligência, como a
+Escala de Inteligência Wechsler, não apenas avaliam a capacidade
+intelectual geral, mas também fornecem um perfil detalhado de
+habilidades e dificuldades específicas em diversas áreas, como
+raciocínio verbal, raciocínio perceptual, memória de trabalho e
+velocidade de processamento. Essa informação é essencial para um
+entendimento mais abrangente das capacidades cognitivas do
+indivíduo.
+<FimJust>
+
+Sandra, de 45 anos de idade, é uma mulher que frequenta
+regularmente a UBS de sua região. Em atendimento em
+psicologia, ela relatou sentir-se frequentemente cansada,
+desmotivada e com dificuldades para dormir. Além disso,
+mencionou sentir um peso constante no peito e preocupações
+excessivas com o futuro, o que afeta seu trabalho e suas relações
+familiares. Durante a entrevista inicial, Sandra relatou um
+histórico de episódios de tristeza profunda e desânimo nos
+últimos meses, mas negou uso de substâncias psicoativas. Ela
+afirmou estar disposta a fazer mudanças em sua rotina e melhorar
+sua saúde mental, mas disse não saber por onde começar.
+Tendo como referência o caso clínico hipotético precedente,
+julgue os itens subsequentes.
+106 Durante a entrevista inicial, como a realizada com Sandra, é
+recomendável que o psicólogo utilize perguntas abertas para
+incentivar a expressão espontânea dos sentimentos e das
+preocupações do paciente, o que facilita a compreensão mais
+ampla do seu estado emocional.
+
+JUSTIFICATIVA - Certo. O uso de perguntas abertas na entrevista
+inicial é uma técnica eficaz para promover um ambiente acolhedor,
+permitindo que o paciente, como Maria, compartilhe suas
+experiências e sentimentos de maneira mais detalhada. Isso facilita
+a construção de um vínculo terapêutico e possibilita ao psicólogo
+uma compreensão mais aprofundada do contexto emocional e das
+necessidades do paciente.
+<FimJust>
+
+107 Os sintomas predominantes relatados pela paciente, como
+
+tristeza persistente, sensação de desesperança e falta de
+energia, devem ser considerados no diagnóstico diferencial
+entre transtorno de ansiedade e transtorno depressivo maior.
+
+JUSTIFICATIVA - Certo. Conforme a literatura de referência, no
+diagnóstico diferencial entre transtorno de ansiedade e transtorno
+depressivo maior, a identificação dos sintomas predominantes é
+essencial para um diagnóstico preciso. Enquanto ambos os
+transtornos podem compartilhar sintomas, como dificuldade para
+dormir, é importante observar características específicas, como
+tristeza persistente e desesperança, que são mais típicas do
+transtorno depressivo maior.
+<FimJust>
+
+108 No caso em tela, é fundamental que o psicólogo adote a
+
+técnica terapêutica da entrevista motivacional, assumindo
+uma postura diretiva, impondo à paciente as mudanças
+necessárias para a efetividade do tratamento.
+
+JUSTIFICATIVA - Errado. Na entrevista motivacional, o psicólogo
+adota uma postura não diretiva e colaborativa, buscando explorar e
+fortalecer a motivação interna do paciente para a mudança. O
+objetivo é ajudar o paciente a identificar e articular seus próprios
+motivos para mudar, sem impor soluções ou direcionar o processo
+de forma autoritária.
+<FimJust>
+109 A entrevista motivacional é a técnica terapêutica mais
+
+indicada para o caso em questão, pois é focada em aumentar
+a motivação do paciente para mudanças comportamentais,
+
+CEBRASPE – TCDF – Edital: 2024
+
+não sendo indicada para casos em que o paciente apresente
+resistência ou ambivalência em relação à mudança.
+
+JUSTIFICATIVA - Errado. A entrevista motivacional é
+especialmente indicada para casos em que o paciente apresenta
+resistência ou ambivalência em relação à mudança, pois seu
+objetivo é explorar e resolver essa ambivalência, ajudando o
+paciente a encontrar motivos pessoais para adotar novas atitudes e
+comportamentos de forma mais eficaz.
+<FimJust>
+
+A respeito da elaboração de documentos psicológicos, julgue os
+itens que se seguem.
+110 Os documentos psicológicos devem, em regra, apresentar
+descrições literais dos atendimentos realizados, para a efetiva
+validação das informações fornecidas pelo profissional.
+
+JUSTIFICATIVA - Errado. Resolução CFP nº 06/2019: Art. 6.º O
+documento psicológico constitui instrumento de comunicação que
+tem como objetivo registrar o serviço prestado pela(o) psicóloga(o).
+(...) § 5.º Os documentos psicológicos não devem apresentar
+descrições literais dos atendimentos realizados, salvo quando tais
+descrições se justifiquem tecnicamente.
+<FimJust>
+
+111 Todo documento produzido pelo psicólogo em decorrência
+
+da prestação de serviços psicológicos deve levar em
+consideração a natureza dinâmica, não cristalizada e não
+definitiva do fenômeno psicológico.
+
+JUSTIFICATIVA - Certo. Resolução CFP nº 06/2019: Art. 5.º Os
+documentos psicológicos devem ser elaborados conforme os
+princípios de qualidade técnica e científica presentes neste
+regulamento. (...) § 3.º O documento escrito resultante da prestação
+de serviços psicológicos deve considerar a natureza dinâmica, não
+definitiva e não cristalizada do fenômeno psicológico.
+<FimJust>
+
+Beto, de 4 anos de idade, foi levado por seus pais a
+avaliação psicológica por encaminhamento escolar.
+De acordo com o relato dos pais, “Beto sempre teve
+problemas para comer. Ele é de época. Tem épocas em que só
+quer comer batata frita. Passa a fase e ele só aceita carne
+vermelha ou biscoito de arroz — e tem que ser da marca que ele
+gosta. Caso contrário, é muito choro e muito grito. Verdura ou
+fruta não adianta nem tentar. Nunca aceitou. Beto sempre foi uma
+criança tranquila, sempre dormiu bem. Desde pequeno, era capaz
+de adormecer sem auxílio. Mas sempre foi muito chorão. Na
+escola, participa pouco das atividades em conjunto. Temos a
+impressão de que é por ele ter dificuldade em dividir, em ser
+contrariado e falar de maneira que o outro entenda” (sic).
+Segundo relato da professora, “Beto é uma criança
+agressiva, que passa a maior parte do tempo isolada, com baixa
+habilidade de corrida e dificuldade no manejo da tesoura, e ainda
+apresenta dificuldade em atender a comandos. Se deixar, ele
+passa o dia todo desenhando suas garatujas e agrupando blocos
+de mesma cor” (sic).
+Considerando o caso hipotético apresentado, julgue os seguintes
+itens, referentes à psicologia do desenvolvimento e a teorias e
+técnicas psicoterápicas.
+112 Os objetivos da avaliação psicológica de Beto estarão
+intrinsecamente relacionados ao motivo do encaminhamento.
+
+JUSTIFICATIVA - Certo. A avaliação psicológica poderá ter mais
+de um objetivo de acordo com o motivo do encaminhamento. Os
+objetivos delimitarão o processo e conduzirão as hipóteses a serem
+levantadas.
+<FimJust>
+
+113 Em se tratando de desenvolvimento infantil, é correto
+
+afirmar que Beto ainda não alcançou, em seu
+comportamento, a capacidade de planejamento dirigida ao
+objetivo, visto que tal capacidade só é desenvolvida aos
+
+5 anos de idade.
+
+JUSTIFICATIVA - Errado. De acordo com a literatura na área da
+psicologia do desenvolvimento, a capacidade de planejamento
+dirigido ao objetivo no comportamento já é esperada aos 20 meses
+de idade.
+<FimJust>
+
+114 Conforme o curso esperado do desenvolvimento infantil,
+
+Beto teria aprendido a correr antes de desenvolver a
+habilidade de usar um lápis.
+
+JUSTIFICATIVA - Certo. É esperado, no curso do
+desenvolvimento típico, que as habilidades motoras grosseiras
+(correr, pular, saltar) antecedam as habilidades manipulativas ou
+motoras finas (pegar um lápis, fazer recortes precisos).
+<FimJust>
+
+115 No que se refere à evolução no grafismo, é correto afirmar
+
+que as garatujas apresentadas por Beto, assim como o
+desenho de unidades isoladas e rabiscos, são categorias de
+desenhos alcançadas por crianças com até 30 meses de idade.
+
+JUSTIFICATIVA - Errado. Compreendendo as etapas do
+desenvolvimento gráfico infantil, os rabiscos se desenvolvem até os
+30 meses, enquanto as unidades isoladas, entre 30 e 46 meses.
+<FimJust>
+
+116 Beto apresenta características de transtorno fóbico com
+
+início na infância, tais como isolamento, comprometimento
+da comunicação e choro excessivo.
+
+JUSTIFICATIVA - Errado. No que se refere à fobia específica, em
+linhas gerais, o Manual Diagnóstico e Estatístico de Transtornos
+Mentais (DSM 5 - TR) descreve como critérios diagnósticos: medo
+ou ansiedade acentuados de um objeto ou situação, provocando
+reações imediatas no indivíduo. O objeto ou a situação é ativamente
+evitado ou mesmo suportado com intensa ansiedade ou sofrimento,
+sendo este último desproporcional em relação ao perigo real
+imposto pelo objeto ou pela situação específica. Entre outras
+especificidades, tem-se medo, ansiedade ou esquiva persistente,
+geralmente com duração superior a seis meses, causando sofrimento
+clinicamente significativo ou prejuízo no funcionamento global.
+<FimJust>
+117 Consideradas as contribuições de Jean Piaget, é correto
+
+afirmar que o comportamento de Beto no que se refere ao
+agrupamento de blocos de mesma cor condiz com o estágio
+operatório-concreto.
+
+JUSTIFICATIVA - Errado. O comportamento de agrupamento de
+objetos por cor não caracteriza o estágio operatório-concreto (711 anos). Este é caracterizado pela capacidade de a criança pensar
+logicamente sobre objetos e eventos; compreensão de unidades de
+medida, classificação de objetos de acordo com mais de uma
+característica. O estágio que antecede o operatório-concreto, de
+acordo com as contribuições de Piaget, é o pré-operatório (27 anos), marcado ainda por pensamento egocêntrico, classificação
+de objetos por apenas uma característica, uso da linguagem e
+representação de objetos por imagem e palavras.
+<FimJust>
+
+118 Para a avaliação psicológica de Beto, é essencial a inclusão
+
+de testes padronizados para a investigação de autismo, dadas
+as características da criança relatadas tanto pelos pais quanto
+pela professora.
+
+JUSTIFICATIVA - Errado. A avaliação psicológica pode incluir
+diversos procedimentos de medida e instrumentos e pode incluir ou
+não testes padronizados como recursos para a confirmação ou
+refutação das hipóteses, independentemente da dúvida diagnóstica.
+<FimJust>
+
+119 A avaliação psicológica de Beto deverá fornecer informações
+
+cientificamente embasadas e fundamentadas que orientem as
+tomadas de decisão, com base no funcionamento psicológico
+da criança.
+
+JUSTIFICATIVA - Certo. A avaliação psicológica almeja fornecer
+informações cientificamente embasadas que orientam a conduta e a
+tomada de decisão, considerado o funcionamento psicológico da
+
+CEBRASPE – TCDF – Edital: 2024
+criança em questão.
+<FimJust>
+
+diagnóstico de transtorno bipolar tipo II com sintomas psicóticos.
+<FimJust>
+
+120 Pela idade de Beto e pelo quadro clínico que ele apresenta,
+
+127 Ataques de pânico recorrentes marcados por medo intenso
+
+JUSTIFICATIVA - Errado. A entrevista lúdica não é uma técnica
+estruturada. Trata-se de uma técnica não padronizada muito
+utilizada com crianças em contexto clínico. Por meio dela, é
+possível avaliar as representações de conflitos infantil, as relações
+objetais, a adequação do comportamento às fases do
+desenvolvimento, as emoções envolvidas, entre outros aspectos.
+<FimJust>
+
+JUSTIFICATIVA - Certo. De acordo com o Manual Diagnóstico e
+Estatístico de Transtornos Mentais (DSM 5-TR), o transtorno de
+pânico é marcado, em linhas gerais, por ataques de pânico
+recorrentes e inesperados associado a quatro ou mais sintomas, tais
+como: palpitações, taquicardia; sudorese; tremores ou abalos;
+sensações de asfixia, dor ou desconforto torácico; náusea; sensação
+de tontura; medo de perder o controle; medo de morrer (Critério A).
+<FimJust>
+
+recomenda-se a utilização da entrevista lúdica como técnica
+estruturada no atendimento clínico.
+
+121 Na avaliação psicológica de Beto, devem ser considerados
+
+não apenas o seu nível de desenvolvimento infantil, mas
+também suas possíveis alterações, bem como seu nível
+cognitivo, sua afetividade, sua atenção, seu humor, suas
+habilidades sociais, entre outros aspectos.
+
+JUSTIFICATIVA - Certo. No caso de Beto, é importante a
+avaliação do nível do desenvolvimento, suas alterações, nível
+cognitivo, afetividade, humor, habilidades sociais, características
+percepto-sensoriais etc.
+<FimJust>
+
+122 O contexto escolar deverá ser levado em consideração na
+
+avaliação psicológica de Beto.
+
+JUSTIFICATIVA - Certo. No contexto em tela, devem ser
+considerados não apenas os aspectos e particularidades da criança,
+mas também seu contexto familiar e escolar.
+<FimJust>
+
+123 A pouca idade de Beto inviabiliza a utilização de métodos
+
+projetivos em sua avaliação psicológica.
+
+JUSTIFICATIVA - Errado. Métodos projetivos no processo
+avaliativo infantil são sugeridos frente à vantagem de possuir uma
+aplicação acessível, além de favorecerem a observação e avaliação
+do desempenho e padrão comportamental da criança. Além disso, é
+possível afirmar que revelam com mais clareza características do
+funcionamento psíquico e dinâmica da personalidade que a criança,
+por ventura, não reconheça ou hesite em admitir quando
+questionada diretamente.
+<FimJust>
+
+No que concerne à psicopatologia, julgue os itens a seguir.
+124 Sintomas como insônia e aumento do apetite podem estar
+
+presentes tanto em quadros de abstinência de estimulantes
+quanto em quadros de abstinência de tabaco.
+
+JUSTIFICATIVA - Certo. Segundo o DSM 5-TR, em linhas gerais,
+são sintomas da abstinência por estimulantes: fadiga, insônia ou
+hipersonia, aumento do apetite, retardo ou agitação psicomotora,
+etc. (Critério B). No que se refere à abstinência de tabaco, os
+sintomas são: irritabilidade, ansiedade, dificuldade de concentração,
+aumento de apetite, inquietação, humor deprimido, etc. (Critério B).
+<FimJust>
+125 Insônia ou hipersonia frequentes, agitação ou retardo
+
+psicomotor, comprometimento da concentração e presença
+de episódios hipomaníacos podem ser características do
+transtorno depressivo maior.
+
+JUSTIFICATIVA - Errado. O transtorno depressivo maior é
+caracterizado pela ausência de episódios maníacos e hipomaníacos,
+podendo ser marcado, entre outros sintomas, por insônia ou
+hipersonia frequentes, agitação ou retardo psicomotor,
+comprometimento da concentração etc.
+<FimJust>
+126 Em se tratando de diagnóstico diferencial, deve-se considerar
+
+o diagnóstico de esquizofrenia caso o paciente apresente
+sintomas psicóticos exclusivamente durante os episódios
+depressivos maiores.
+
+JUSTIFICATIVA - Errado. Em caso de presença de sintomas
+psicóticos exclusivamente durante os episódios depressivos
+maiores, exclui-se o diagnóstico de esquizofrenia e considera-se o
+
+associado a sudorese, sensação de asfixia, náusea ou dor
+torácica são características do transtorno de pânico.
+
+128 Transtorno de ansiedade social e mutismo seletivo são
+
+diagnósticos excludentes.
+
+JUSTIFICATIVA - Errado. Os dois diagnósticos devem ser
+estabelecidos nos casos em que estiverem presentes a ansiedade
+social e a esquiva no transtorno de ansiedade social, assim como os
+critérios diagnósticos para o mutismo seletivo.
+<FimJust>
+
+Espaço livre
+
+CEBRASPE – TCDF – Edital: 2024
+
+Margarida, de 72 anos de idade, foi levada por sua filha,
+Ângela, ao pronto-socorro, por apresentar quadro de
+desorientação temporal e espacial, anosognosia, agressividade e
+recusa alimentar. Segundo Ângela, há alguns meses sua mãe vem
+apresentando prejuízos de memória e de aprendizagem;
+inicialmente, associou o declínio de Margarida à perda de uma
+amiga muito próxima e até levou a mãe à consulta com geriatra,
+que solicitou alguns exames laboratoriais complementares à
+avaliação clínica. Nesse contexto, Margarida iniciou medicação
+para o tratamento de possível quadro depressivo. Tendo
+percebido a fraqueza da mãe devido à recusa alimentar e sua
+piora progressiva em pouco tempo, Ângela resolveu levá-la ao
+pronto-socorro, onde Margarida está internada há dois dias, para
+melhor investigação do quadro.
+Considerando esse caso clínico hipotético, julgue os itens a
+seguir, referentes ao processo de envelhecimento, a doenças
+crônicas e degenerativas e à saúde mental na terceira idade.
+129 A avaliação da funcionalidade global deve ser levada em
+consideração no caso de Margarida.
+
+JUSTIFICATIVA - Certo. A avaliação da saúde da pessoa idosa
+deve ser realizada de maneira cuidadosa e minuciosa, levando-se
+em consideração o relato de informantes e tendo-se, como critério
+fundamental, a avaliação da funcionalidade global do paciente.
+<FimJust>
+
+130 O miniexame do estado mental (MEEM) é um instrumento
+
+padronizado que poderá ser aplicado na avaliação de
+Margarida.
+
+JUSTIFICATIVA - Certo. O miniexame do estado mental é um
+instrumento padronizado de fácil e rápida aplicação, amplamente
+consolidado no rastreio de funções cognitivas e no estadiamento da
+progressão das demências.
+<FimJust>
+131 A investigação complementar é indispensável para o
+
+diagnóstico diferencial e a identificação etiológica em
+quadros demenciais como o apresentado por Margarida.
+
+JUSTIFICATIVA - Certo. Em se tratando especialmente de terceira
+idade e quadros demenciais como, por exemplo, o da doença de
+Alzheimer, é fundamental a investigação complementar para fins de
+diagnóstico diferencial e identificação etiológica.
+<FimJust>
+
+132 Na doença de Alzheimer, os sintomas cognitivos tendem a
+
+preceder os sintomas depressivos, tal qual se observa no caso
+de Margarida.
+
+JUSTIFICATIVA - Errado. Na doença de Alzheimer, os sintomas
+neuropsiquiátricos tendem a preceder os sintomas cognitivos. É
+frequente, inclusive, que uma proposta medicamentosa seja
+utilizada no tratamento de sintomas depressivos sem mesmo que se
+levante qualquer suspeita inicial da doença de Alzheimer.
+<FimJust>
+
+133 Além da agressividade, ainda podem surgir no quadro de
+
+Margarida sintomas como apatia, ansiedade, irritabilidade e
+distúrbios do sono.
+
+JUSTIFICATIVA - Certo. Em quadros demenciais tais como o da
+doença de Alzheimer, sintomas neuropsiquiátricos — por exemplo,
+apatia, irritabilidade, ansiedade (de cunho antecipatório), distúrbios
+do sono, delírio, comportamento motor aberrante etc. — tendem a
+preceder os sintomas cognitivos.
+<FimJust>
+134 O prejuízo visuoespacial apresentado por Margarida é
+
+critério clínico essencial para fins diagnósticos em quadros
+demenciais, conforme o Manual Diagnóstico e Estatístico de
+Transtornos Mentais (DSM-5 TR).
+
+JUSTIFICATIVA - Errado. Apesar de as habilidades visuoespaciais
+serem um dos domínios que podem ser afetados em demências, seu
+comprometimento não constitui critério essencial para o diagnóstico
+do quadro. Pode haver prejuízo na capacidade de adquirir e lembrar
+de informações novas; no raciocínio; na linguagem; na
+
+personalidade, no comportamento ou na conduta. Entretanto, faz-se
+necessário
+observar
+que, para
+fins
+diagnósticos, o
+comprometimento
+cognitivo ou
+comportamental
+deverá
+necessariamente envolver dois desses domínios.
+<FimJust>
+135 A apresentação característica amnéstica pode ser sugestiva
+
+de síndrome de transtorno neurocognitivo, de acordo com o
+Manual Diagnóstico e Estatístico de Transtornos
+Mentais (DSM-5 TR).
+
+JUSTIFICATIVA - Certo. De acordo com o Manual Diagnóstico e
+Estatístico de Transtornos Mentais, na síndrome de transtorno
+neurocognitivo e na doença de Alzheimer, a apresentação
+característica é amnéstica.
+<FimJust>
+136 A anosognosia apresentada por Margarida é um sinal
+
+importante a ser considerado diante de um possível quadro
+demencial, de acordo com o Manual Diagnóstico e
+Estatístico de Transtornos Mentais (DSM-5 TR).
+
+JUSTIFICATIVA - Certo. A anosognosia representa a perda da
+capacidade de reconhecimento da doença ou do déficit em um
+domínio. Em casos de comprometimento da memória, pode
+contribuir para a hipótese diagnóstica, especialmente no início do
+quadro.
+<FimJust>
+137 Eventual avaliação cognitiva de Margarida consistirá em
+
+uma avaliação neuropsicológica a ser realizada por médico
+em conjunto com psicólogo, a fim de que sejam identificados
+os domínios prejudicados e proposta, multidisciplinarmente,
+a devida intervenção.
+
+JUSTIFICATIVA - Errado. A avaliação cognitiva é parte do exame
+neurológico a ser realizado em pacientes de enfermaria. Dada a
+necessidade de que sejam associadas a compreensão do quadro e a
+praticidade do ambiente da enfermaria, o exame à beira do leito tem
+a finalidade de definir, de forma breve e concisa, os prejuízos
+apresentados pelo paciente que se encontra internado. Uma
+avaliação cognitiva não constitui uma avaliação neuropsicológica.
+<FimJust>
+138 Testes cognitivos de rastreio são recomendados no caso de
+
+Margarida, apesar de não permitirem uma avaliação global
+de sua cognição.
+
+JUSTIFICATIVA - Errado. Testes cognitivos de rastreio são
+frequentemente utilizados na avaliação global da cognição, uma vez
+que constituem instrumentos estruturados de aplicação usualmente
+rápida e breve.
+<FimJust>
+
+Em relação à dependência química e à atuação do psicólogo em
+equipes multi e interdisciplinares, julgue os próximos itens.
+139 Nos casos de dependência química, o foco das práticas
+interdisciplinares se concentra na atuação verticalizada e nos
+saberes individuais, com objetivos pactuados entre os
+profissionais envolvidos.
+
+JUSTIFICATIVA - Errado. No caso de transtornos aditivos, a
+prática interdisciplinar é fundamentada numa coordenação
+compartilhada em que há interação entre diversas disciplinas, com
+horizontalidade e soluções construídas coletivamente. O foco nas
+disciplinas, sem articulação ou cooperação, é característico das
+práticas multidisciplinares. Na esfera transdisciplinar, o sistema
+contempla múltiplos níveis, com objetivos pactuados, sem fronteira
+entre as disciplinas, com horizontalidade e transversalidade de
+ações.
+<FimJust>
+
+140 Disartria,
+
+nistagmo e hiperatividade autonômica são
+sintomas de intoxicação por benzodiazepínicos.
+
+JUSTIFICATIVA - Errado. A hiperatividade autonômica é sintoma
+de abstinência por benzodiazepínico. São sintomas de intoxicação
+por benzodiazepínicos: disartria, incoordenação, nistagmo, déficit
+cognitivo, estupor, coma, etc.
+<FimJust>
+
+CEBRASPE – TCDF – Edital: 2024
+141 Entrevistas
+
+motivacionais são recomendadas
+tratamento do transtorno por uso de maconha.
+
+como
+
+149 Pesquisas sobre assédio moral requerem necessariamente o
+
+JUSTIFICATIVA - Certo. O tratamento de transtorno por uso de
+maconha envolve terapia cognitivo-comportamental e suas
+variações, tais como entrevistas motivacionais e prevenção de
+recaída. Além disso, são possíveis o manejo de contingências,
+grupos de ajuda mútua e meditação mindfulness.
+
+JUSTIFICATIVA - Errado. Podem existir pesquisas sobre assédio
+moral com uso de questionário e abordagem quantitativa. Isso
+depende apenas do propósito da pesquisa.
+<FimJust>
+
+142 Na redução de danos, utiliza-se uma abordagem não
+
+coercitiva e sem julgamento, oposta à abstinência e focada
+no cuidado ampliado.
+
+JUSTIFICATIVA - Errado. Redução de danos é um conjunto de
+políticas e práticas destinadas a minimizar as consequências
+adversas do uso de substâncias. Entre seus princípios e suas
+diretrizes, incluem-se o compromisso (uso de abordagem não
+coercitiva e sem julgamento) e o cuidado ampliado (não é contrário
+ou oposto à abstinência).
+<FimJust>
+
+143 Ansiedade, insônia e irritabilidade são sintomas emocionais
+
+da síndrome de abstinência por opioides.
+
+JUSTIFICATIVA - Certo. Entre os efeitos emocionais da síndrome
+de abstinência por opioides, incluem-se ansiedade, insônia, fissura e
+irritabilidade, por exemplo.
+<FimJust>
+144 A avaliação de riscos de intoxicação ou de sintomas graves
+
+de abstinência, assim como de suicídio, deve compor a
+avaliação inicial de transtornos por adição.
+
+JUSTIFICATIVA - Certo. A escuta ativa, assim como o
+desenvolvimento da aliança terapêutica, deve ser contemplada
+como estratégia para a avaliação inicial em casos de transtornos
+aditivos. É fundamental a avaliação de riscos para agressão,
+suicídio, intoxicação ou sintomas graves de abstinência.
+<FimJust>
+
+Julgue os itens que se seguem, relativos a pesquisa e intervenção
+nas organizações.
+145 A gestão baseada em evidências é um conjunto de práticas
+para a tomada de decisão embasadas no pensamento
+científico e nas melhores evidências disponíveis para a
+sustentação de decisões organizacionais.
+
+JUSTIFICATIVA - Certo. A gestão baseada em evidências é um
+conjunto de práticas para tomadas de decisões mais efetivas, o que
+genericamente significa traduzir ou aplicar princípios baseados nas
+melhores evidências em práticas organizacionais e tomar decisões
+organizacionais baseadas na melhor evidência científica disponível,
+resolvendo assim, problemas organizacionais.
+<FimJust>
+
+146 Define-se a validade de um instrumento como a sua
+
+capacidade de reproduzir um resultado de forma consistente,
+no tempo e no espaço.
+
+JUSTIFICATIVA - Errado. Confiabilidade é a capacidade de
+reproduzir um resultado de forma consistente, no tempo e no
+espaço. Validade consiste na propriedade de um instrumento medir
+exatamente o que se propõe.
+<FimJust>
+147 Pesquisas de cunho qualitativo tendem a ser descritivas;
+
+nelas, não se procura explicar nexos causais estritos.
+
+JUSTIFICATIVA - Certo. As pesquisas qualitativas são descritivas,
+e, para que haja explicação, é necessário um desenho de pesquisa
+experimental.
+<FimJust>
+
+148 A avaliação de um programa de preparação para a
+
+aposentadoria requer uma abordagem multimétodo.
+
+JUSTIFICATIVA - Certo. Avaliações de programa requerem
+desenhos quase experimentais para evidenciar os nexos causais do
+programa e uma abordagem multimétodo para evidenciar o grau de
+efetividade do programa. Avaliações com uma única abordagem e
+estratégia tendem a ser incompletas.
+<FimJust>
+
+uso de entrevistas em profundidade.
+
+Julgue os seguintes itens, referentes à relação entre o indivíduo e
+o contexto organizacional, bem como à gestão de comportamento
+nas organizações.
+150 No âmbito do gerenciamento de conflitos, a capacidade de
+gestão consiste em lograr a superação das tensões existentes
+nos grupos, canalizando-as para objetivos coletivos
+concatenados com os objetivos organizacionais.
+
+JUSTIFICATIVA - Certo. A capacidade administrativa de lidar
+com as pessoas consiste em lograr a superação das tensões
+existentes nos grupos, canalizando-as para objetivos coletivos que
+sejam alinhados aos objetivos organizacionais, o que aponta para a
+necessidade do estabelecimento de metas superordinadas (acima
+das diferenças individuais e grupais e consideradas importantes por
+todos), que sejam valorizadas, em maior ou menor grau, por todos
+os membros da organização.
+<FimJust>
+
+151 Respeito e informações claras são elementos suficientes para
+
+uma relação negocial positiva.
+
+JUSTIFICATIVA - Errado. Negociação é uma técnica usada na
+resolução de conflitos. Segundo a literatura, existem três elementos
+primordiais para uma boa relação negocial: respeito, informações
+claras e uma boa comunicação entre os negociantes.
+<FimJust>
+
+152 A solução dos conflitos no trabalho está diretamente
+
+associada à capacidade de negociação dos gestores.
+
+JUSTIFICATIVA - Certo. Segundo a literatura de referência na
+área, a solução dos conflitos está diretamente ligada à capacidade
+de negociação dos gestores, pois estes são capazes de influenciar
+sua equipe e diminuir as diferenças que porventura possam surgir.
+<FimJust>
+
+153 A mediação de conflitos é uma técnica de resolução de
+
+conflitos cujo único propósito é encontrar uma solução
+pacífica e cooperativa para uma disputa.
+
+JUSTIFICATIVA - Errado. A mediação de conflitos é uma técnica
+de resolução de conflitos caracterizada por meio da intervenção de
+um terceiro imparcial e capacitado, o mediador. De acordo com a
+literatura de referência, a mediação de conflitos possui três
+principais objetivos: facilitar a comunicação e a compreensão entre
+as partes envolvidas; identificar e explorar opções de solução do
+conflito que atendam às necessidades e aos interesses de ambas as
+partes; promover o desenvolvimento de acordos duradouros e
+mutuamente satisfatórios.
+<FimJust>
+
+154 A fase do conflito interpessoal é um componente dos
+
+estágios de funcionamento de grupos.
+
+JUSTIFICATIVA - Certo. Na literatura da área, é descrito um
+conjunto de cinco fases, embora a última delas nem sempre esteja
+presente, por caracterizar somente tipos específicos de grupos. As
+fases ora referidas recebem as seguintes denominações: formação,
+conflito, normatização, desempenho e desintegração.
+<FimJust>
+
+155 O paradigma do grupo mínimo é comum a todos os grupos e
+
+pode explicar conflitos existentes no interior de grupos ou
+entre grupos.
+
+JUSTIFICATIVA - Certo. Paradigma do grupo mínimo é um
+fenômeno que ocorre quando o sujeito beneficia seu próprio grupo
+em detrimento do outro, mesmo quando o grupo do sujeito é
+formado recentemente, de maneira aleatória e não apresenta
+histórico de relação anterior. O paradigma do grupo mínimo foi
+estudado por Tajfel, nos anos de 1960, em uma série de diversos
+experimentos que até a atualidade continuam sendo replicados, e
+constitui objeto de publicações diversas. O paradigma do grupo
+mínimo explica a ocorrência de diversos conflitos intra e
+
+CEBRASPE – TCDF – Edital: 2024
+intergrupais.
+<FimJust>
+156 Os conflitos ocorridos dentro das organizações representam
+
+um índice sempre negativo nas relações institucionais, pois
+prejudicam principalmente a produtividade e o desempenho
+organizacional.
+
+JUSTIFICATIVA - Errado. Os conflitos dentro das organizações
+eram vistos, em passado recente, como um ponto negativo nas
+relações institucionais, pois demonstravam ambiente desfavorável
+para a realização das atividades necessárias para a produtividade e o
+desempenho das empresas. Hoje, esse entendimento não mais
+perdura. Há uma crescente visão de que existem conflitos positivos
+e que favorecem o crescimento grupal e a resolução de problemas.
+<FimJust>
+
+No que diz respeito à saúde no trabalho, à atuação do psicólogo e
+ao assédio moral e sexual, julgue os itens subsequentes.
+157 É facultada ao psicólogo e aos profissionais de saúde a
+notificação de agravos e de situações de risco para a saúde
+dos trabalhadores.
+
+JUSTIFICATIVA - Errado. O Conselho Federal de Psicologia
+(CFP) aponta cinco pontos no que diz respeito à atuação do
+psicólogo no campo da saúde do trabalhador. Em todas essas
+formas de atuação, é frisada a necessidade da participação dos
+trabalhadores nas ações voltadas para a proteção e a promoção da
+saúde como sujeitos capazes de contribuir com o seu conhecimento
+para uma compreensão do impacto do trabalho sobre o processo
+saúde/doença. De acordo com o CFP, as ações devem ser
+desenhadas a partir das singularidades que conformam cada
+território. O primeiro ponto é a notificação de agravos e de
+situações de risco para a saúde dos trabalhadores. Segundo o
+Ministério da Saúde, no Manual de Doenças Relacionadas ao
+Trabalho (2001), um dos agravos de notificação compulsória são os
+transtornos mentais relacionados ao trabalho. Nesse sentido, o
+psicólogo trabalhará notificando o transtorno mental através do
+Sistema de Informação de Agravos de Notificação (SINAN), já
+utilizado na rede de vigilância à saúde (CFP, 2008).
+<FimJust>
+
+158 A falta de discernimento entre poder e autoridade está na
+
+origem dos comportamentos abusivos.
+
+JUSTIFICATIVA - Certo. Segundo a literatura especializada, as
+causas do adoecimento e do assédio moral estão enraizadas na
+cultura organizacional e nas estruturas de poder nas organizações e
+na sociedade. Os episódios recorrentes de assédio são vistos como
+exercício de exacerbação do poder de alguns indivíduos sobre
+outros, em razão de preconceitos, discriminação, relações desiguais.
+O indivíduo, na maioria das vezes, utiliza recursos de autoridade do
+cargo para exercer inadequadamente poder sobre outros indivíduos.
+<FimJust>
+159 Em geral, o trabalhador vive de forma solitária tanto os
+
+sintomas quanto a trajetória de busca por uma resolução para
+problemas de saúde que afetam a sua produtividade.
+
+JUSTIFICATIVA - Certo. Quando o trabalhador percebe que não
+tem mais condições de atingir a meta de produção, inicia-se uma
+trajetória de busca de resolução de seu problema de saúde, que é
+vivida, na maioria das vezes, de forma solitária, uma vez que o
+trabalhador não conta com o coletivo para ampará-lo. Os dados de
+pesquisa com trabalhadores adoecidos mostram essa realidade de
+solidão ao vivenciar o sintoma.
+<FimJust>
+160 As práticas gerenciais de gestão por estresse visam
+
+essencialmente ao bem-estar dos trabalhadores e ao aumento
+do seu envolvimento no trabalho.
+
+JUSTIFICATIVA - Errado. Segundo a literatura, há um processo
+no qual a violência e o adoecimento estão inseridos nos aparatos,
+nas estruturas e nas políticas organizacionais ou gerenciais, o que é
+abusivo e inadequado. O propósito é exercer o gerenciamento do
+trabalho e do grupo visando à produtividade e ao controle
+organizacional. Nesse contexto, o assédio se configura mediante
+práticas como gestão por estresse, gestão por injúria, gestão por
+
+medo, exposições constrangedoras de resultados, premiações
+negativas, ameaças, cobranças exageradas. Tais estratégias de
+gestão, segundo a literatura especializada, funcionam como uma
+técnica de aumento do envolvimento no trabalho e também podem
+ter o efeito de um processo de “seleção natural” dos menos
+resistentes.
+<FimJust>
+
+

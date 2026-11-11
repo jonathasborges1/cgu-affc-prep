@@ -1,0 +1,458 @@
+-- CONHECIMENTO
+Julgue os itens subsequentes, a respeito de governança e gestão
+de TI.
+51
+
+A norma ISO/IEC 20000 se concentra na gestão de
+segurança da informação, sem abordar outros aspectos dos
+serviços de TI.
+
+52
+
+A norma ISO/IEC 38500 fornece diretrizes para
+a governança corporativa de TI, ajudando as organizações a
+garantirem que a TI apoie seus objetivos e sua estratégia de
+forma eficaz.
+
+No que se refere a processos ágeis, julgue os itens que se seguem.
+53
+
+No Kanban, a implementação de limites de trabalho em
+progresso visa reduzir o tempo de entrega dos itens, sem
+impactar outros aspectos, como a identificação de gargalos e
+a melhoria contínua do fluxo de trabalho.
+
+54
+
+O scrum master é responsável por remover impedimentos,
+facilitar eventos do Scrum e garantir que a equipe siga
+os valores e princípios do Scrum.
+
+Acerca de modelagem e mapeamento de processos de negócio,
+julgue os próximos itens.
+55
+
+Em BPMN (Business Process Model and Notation),
+subprocessos reutilizáveis (reusable subprocesses) são
+modelados utilizando-se uma borda dupla para diferenciar de
+atividades de tarefa, que possuem uma borda simples.
+
+56
+
+A construção de indicadores de processos de negócio deve
+considerar apenas os fatores internos da organização para
+garantir precisão na mensuração de desempenho.
+
+57
+
+As técnicas de modelagem de processos de negócio, como
+BPMN (Business Process Model and Notation), são
+utilizadas para representar graficamente os processos,
+facilitando sua compreensão e sua melhoria contínua.
+
+À luz da Resolução CNJ n.º 335/2020, que institui política
+pública para a governança e a gestão de processo judicial
+eletrônico, julgue os itens a seguir.
+58
+
+A política de governança e gestão da Plataforma Digital do
+Poder Judiciário Brasileiro (PDPJ-Br) será coordenada pelo
+CNJ, com a participação, sempre que possível, de
+representantes do Poder Judiciário e do Sistema de Justiça.
+
+59
+
+É proibida a contratação de qualquer novo sistema, módulo
+ou funcionalidade privados, mesmo de forma não onerosa,
+que causem dependência tecnológica do fornecedor e que
+não permitam o compartilhamento não oneroso na
+Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br).
+
+De acordo com a Portaria CNJ n.º 252/2020, que dispõe sobre o
+modelo de governança e gestão da PDPJ-Br, julgue os itens que
+se seguem.
+60
+
+Os usuários da PDPJ-Br podem, em casos específicos, alegar
+uso indevido ou negação de responsabilidade pelas
+assinaturas realizadas por meio da plataforma em questão.
+
+61
+
+As soluções integradas à PDPJ-Br devem possuir
+propriedade intelectual das aplicações a serem integradas e
+autonomia para modificá-las, adaptá-las e criar derivações.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+OS ESPECÍFICOS -Conforme a Portaria CNJ n.º 253/2020, que institui os critérios e
+as diretrizes técnicas para o processo de desenvolvimento de
+módulos e serviços na PDPJ-Br, e a Portaria CNJ n.º 131/2021,
+que institui o grupo revisor de código-fonte das soluções da
+PDPJ-Br, julgue os itens a seguir.
+62 O grupo revisor de código-fonte das soluções da PDPJ-Br
+pode aceitar merge requests no código-fonte sem a
+necessidade de aprovação de testes, desde que a
+funcionalidade desenvolvida atenda às necessidades
+operacionais.
+63 A documentação técnica referente à API dos microsserviços
+desenvolvidos na PDPJ-Br deve seguir o padrão
+Swagger 2.0, a fim de garantir a compatibilidade com as
+especificações legadas dos sistemas antigos.
+64 O grupo revisor de código-fonte das soluções da PDPJ-Br
+deve promover a análise das mudanças de código-fonte
+implementadas pelo CNJ ou pelos tribunais, relativas às
+soluções disponibilizadas na PDPJ-Br ou no sistema PJe.
+Com base na Resolução CNJ n.º 468/2022, que dispõe sobre
+diretrizes para as contratações de solução de tecnologia da
+informação e comunicação (STIC) pelos órgãos submetidos ao
+controle administrativo e financeiro do CNJ, julgue os próximos
+itens.
+65 É permitido estabelecer vínculo de subordinação com
+funcionários da empresa contratada, desde que isso seja
+acordado em contrato e aprovado pelos responsáveis legais.
+66 As contratações de STIC devem seguir as fases de
+planejamento da contratação, de seleção do fornecedor e de
+gestão do contrato.
+Julgue o próximo item, relativo a Java.
+67
+
+import java.io.*;
+class Easy
+{
+public static void main(String[] args)
+{
+int x[] = {1, 3, 7, 22, 51};
+for (int size : x)
+System.out.print(size);
+}
+}
+
+O resultado da execução do código precedente, desenvolvido
+em Java, será 6.
+Acerca de Hibernate Envers, julgue o item a seguir.
+68 O módulo Envers é um modelo do Hibernate cujo objetivo é
+fornecer uma solução de auditoria para classes de entidades.
+cidade
+Uberaba
+Uberlândia
+Araguari
+
+IBGE
+3170107
+3170206
+3103504
+
+Considerando que os dados precedentes estejam armazenados em
+uma tabela no H2 Database chamada TABCIDADES, julgue os
+próximos itens.
+69 O comando seguinte excluirá da tabela em apreço a coluna
+IBGE.
+SET @COLUMN = IBGE
+DROP COLUMN ON TABCIDADES IN @COLUMN;
+70
+
+O comando a seguir excluirá, na tabela em questão, o
+registro referente à cidade de Uberlândia.
+SET @ROWID ON IBGE = 3170206;
+DEL ON TABCIDADES IN @ROWID;
+
+
+Julgue o próximo item, relativo aos serviços de autenticação
+Keycloak.
+71
+
+Em Keycloak, a troca de token é o processo pelo qual um
+cliente pode trocar um token Keycloak existente por um
+token externo.
+
+Julgue o próximo item, relativo a GIT.
+72
+
+git branch -D test
+
+A execução do comando precedente excluirá a branch
+test caso todos os commits tenham sido realizados; porém,
+
+se a master estiver em estado de check-out, a exclusão será
+cancelada.
+
+steps:
+- name: Checkout code
+uses: actions/checkout@v2
+
+Com base na instrução precedente, julgue o item a seguir,
+considerando o contexto de um arquivo de workflow no GitHub
+Actions e a função da ação actions/checkout@v2.
+73
+
+A instrução apresentada tem como objetivo realizar o
+checkout, ou seja, baixar o código do repositório no runner
+para a execução de outras tarefas.
+
+No que se refere a práticas de DevOps, julgue o próximo item.
+74
+
+As práticas de DevOps, ao focarem em automação,
+monitoramento contínuo e feedback rápido, melhoram o
+tempo médio de recuperação (MTTR) após uma falha.
+
+Acerca de CI/CD (continuous integration/continuous delivery),
+julgue os seguintes itens.
+75
+
+CI refere-se à liberação automática das mudanças feitas por
+desenvolvedores, do repositório à produção, onde podem ser
+usadas por clientes.
+
+76
+
+A prática de CD tem como foco o uso de testes de unidade
+para verificar rapidamente novas mudanças, garantindo
+a confiabilidade das mudanças consolidadas no código.
+
+Julgue os itens a seguir, a respeito de ambientes de clusters,
+Kubernetes, ferramenta de orquestração de contêineres e
+Rancher.
+77
+
+A ferramenta Kubeadm é responsável por criar e gerenciar
+diretamente todos os pods e contêineres no cluster, enquanto
+a ferramenta Kubelet executa comandos administrativos no
+cluster.
+
+78
+
+O servidor de API do Rancher pode provisionar Kubernetes
+em nós existentes ou realizar atualizações do Kubernetes.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+Julgue os próximos itens, relativos a processos de negócio
+BPMN (Business Process Model and Notation).
+79 Gateways são usados na modelagem de processos de negócio
+para controlar como o processo flui, assim, conforme os
+tokens chegam a um gateway, eles podem ser mesclados na
+entrada e(ou) separados na saída conforme os mecanismos
+de gateway são invocados.
+80 Pools estão presentes apenas em diagramas de colaboração.
+81 O BPMN fornece às organizações a capacidade de entender
+seus procedimentos e fluxo de processos internos por meio
+de notação gráfica, permitindo a elas comunicar esses
+procedimentos de forma padronizada por meio, por exemplo,
+de colaborações (collaborations), processos de orquestração
+(orchestration processes) ou coreografias (choreographies).
+Julgue os próximos itens, relativos à modelagem de processos
+em UML 2.5.
+82 Nos diagramas de atividades, as swimlanes podem expressar
+paralelismo no fluxo de atividades, não sendo possível, por
+meio delas, expressar particionamento hierárquico ou
+particionamento multidimensional.
+83 As atividades são essencialmente formas de realizar controle
+e fluxo de dados; por padrão, tais modelos são inerentemente
+sequenciais e não simultâneos, uma vez que o
+sequenciamento da execução do nó de atividade é modelado
+com ordenação obrigatória.
+84 Nos diagramas de atividades, os tokens de objeto são
+transportados por meio de ObjectFlows carregando dados
+por meio de Activity, logo, não há fluxo de tokens nulos.
+Julgue os itens a seguir, no que se refere à engenharia de software
+e à análise de requisitos.
+85 Para garantir a manutenibilidade, a arquitetura do sistema
+deve ser projetada para adotar componentes grandes e
+centralizados,
+facilitando
+futuras
+modificações
+e
+atualizações.
+86 As principais características do teste em programação
+extrema (XP) são o desenvolvimento orientado a testes a
+partir de cenários com participação do usuário e o uso de
+frameworks automatizados para garantir qualidade contínua.
+87 Requisitos de domínio podem introduzir novos requisitos
+funcionais, limitar requisitos funcionais existentes ou
+estabelecer como certas operações devem ser executadas.
+88 A etnografia é útil para entender o uso atual dos sistemas e
+identificar detalhes que outras técnicas não capturam, sendo
+eficaz também para descobrir requisitos empresariais amplos
+e impulsionar inovações.
+Acerca do guia MR-MPS-SW versão 2021, julgue os itens que se
+seguem.
+89 A partir do nível de maturidade D do MPS.BR, o plano do
+projeto é revisado com todos os interessados, incluindo o
+tratamento de dependências críticas, e o compromisso com
+ele é obtido.
+90 O processo de gerência de configuração objetiva garantir a
+integridade dos produtos de trabalho e disponibilizá-los aos
+envolvidos, sendo implementado no nível de maturidade E
+do MPS.BR.
+Acerca da arquitetura de aplicações para ambiente web e
+de arquitetura em camadas, julgue os itens a seguir.
+91 Na arquitetura em camadas, a camada de aplicação deve ser
+projetada para suportar estratégias de desacoplamento e
+independência de estado.
+92 Na arquitetura de aplicações para ambiente web, a
+arquitetura cliente-servidor é um modelo de design que
+separa as responsabilidades de processamento entre clientes,
+que solicitam serviços ou recursos, e servidores, que
+fornecem e gerenciam esses serviços.
+
+
+Julgue os itens que se seguem relativos à arquitetura de
+microsserviços, ao domain-driven design e a design patterns.
+93 O padrão decorator permite que classes concretas sejam
+envolvidas em uma hierarquia de objetos que compartilham
+a mesma interface, em que cada decorador implementa a
+interface base e delega chamadas para o objeto decorado,
+adicionando funcionalidade antes ou depois da delegação.
+94 No Spring Eureka, cada serviço se comunica diretamente
+com o Eureka Server para obter o endereço de outros
+serviços em tempo real, garantindo sempre dados
+atualizados.
+95 Aplicação de padrões como Aggregates e Value Objects, no
+domain-driven design, visa a desacoplar o domínio de
+negócio do modelo de domínio, permitindo que a lógica de
+negócio seja isolada em camadas técnicas.
+Acerca dos algoritmos de criptografia, julgue o item a seguir.
+96 O algoritmo SHA-3 opera internamente utilizando uma
+sequência de operações de permutação linear e adições
+modulares simples, em vez de qualquer forma de absorção e
+compressão.
+Acerca das técnicas de Clean Code e de Refactoring, julgue os
+itens a seguir.
+97 Melhorar a coesão dentro das classes em um código, a fim de
+torná-las mais focadas e responsáveis por uma única tarefa, e
+reduzir o acoplamento entre as partes do sistema, pode ser
+interpretado como uma conduta alinhada às boas práticas de
+refatoramento de código.
+98 Na declaração de variáveis, de acordo com as técnicas de
+Clean Code, devem ser utilizados nomes e funções curtos e
+abstratos, desde que seu significado esteja descrito nos
+comentários ao lado do código.
+No que se refere a testes de verificação de qualidade de códigos
+automatizados e a persistência, julgue os próximos itens.
+99 No JPA 2.0, a exceção OptimisticLockException pode
+ocorrer na tentativa de atualizar ou remover uma entidade
+modificada por outra transação, independentemente de
+controle de versão aplicado à entidade.
+100 Nos testes com Jasmine, o comando beforeAll pode ser
+utilizado com promises ou funções assíncronas (como async
+ou await), para garantir que o código de preparação seja
+executado de forma assíncrona, antes dos testes.
+Em relação à programação web, julgue os itens subsequentes.
+101 Uma das recomendações do eMAG é a criação de páginas
+sem atualizações automáticas periódicas e com botão ou link
+para atualização.
+102 Assim como no JavaScript, erros de tipagem de variáveis no
+TypeScript somente são identificados em tempo de execução
+do código.
+103 O criador de um arquivo XML pode escolher diversos nomes
+para as tags, sem a necessidade de utilizar uma biblioteca
+limitada de nomes.
+A respeito de Git e Github, julgue os próximos itens.
+104 O comando merge é limitado à combinação de duas
+branches, sendo verificadas as sequências em comum entre
+elas, o que dá origem a um novo commit.
+105 No Git, uma branch é uma cópia local de um repositório
+remoto, com todos os arquivos e as configurações iguais aos
+originais.
+Quanto aos conceitos de Big Data e Analytics, julgue o item a
+seguir.
+106 Em uma abordagem de Analytics, a análise descritiva
+permite que eventos futuros sejam previstos com base em
+dados históricos e algoritmos de machine learning.
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+Julgue os itens seguintes, relativos a Business Intelligence 3.0 e
+data warehouse.
+107 A principal característica de um data warehouse é armazenar
+dados em um ambiente de atualização contínua, no qual as
+informações são alteradas em tempo real, à medida que
+novos dados são gerados pelas fontes operacionais.
+108 O conceito de BI 3.0 (Business Intelligence 3.0) é
+caracterizado pela introdução de soluções de inteligência
+artificial para tomada de decisões automatizadas em tempo
+real.
+Acerca de data mining e data mart, julgue os itens subsequentes.
+109 Um data mart é um repositório de dados orientado a um
+departamento ou a uma função específica dentro de uma
+organização.
+110 A técnica de clustering (agrupamento), em data mining, é
+utilizada para classificar dados em categorias predefinidas,
+facilitando a análise de grandes volumes de dados.
+A matriz de confusão constitui um recurso fundamental
+para a avaliação do desempenho de modelos de classificação no
+campo do aprendizado de máquina. Esse instrumento possibilita
+uma visualização precisa do comportamento do modelo frente às
+diversas classes, facilitando a identificação de erros de
+classificação. Nessa matriz, as linhas correspondem às classes
+reais, e as colunas, às classes preditas por modelo de
+classificação binária.
+predito positivo predito negativo
+60
+40
+real positivo
+20
+80
+real negativo
+Com base no texto e na matriz de confusão apresentados, julgue
+os itens a seguir.
+111 Para a matriz em questão, o F1-score, que é a média
+harmônica entre precisão e sensibilidade, atingiu 67,5%.
+112 Inequivocamente, essa matriz de confusão refere-se a um
+modelo de aprendizagem de máquina supervisionada.
+Acerca de técnicas de pré-processamento de dados não
+estruturados, julgue o próximo item.
+113 A técnica TF-IDF majora a importância de um termo que
+aparece muitas vezes em um documento e poucas vezes nos
+outros documentos de um mesmo corpus.
+Julgue os itens que se seguem, em relação a grandes modelos de
+linguagem (LLMs) e a redes neurais.
+114 A aplicação da função de ativação softmax na camada de
+saída foi o fator determinante pela grande evolução da
+capacidade de visão computacional em redes neurais
+multicamadas.
+115 O uso de tokenizadores subword permite que LLMs
+aprendam palavras fora do vocabulário de treinamento,
+otimizando a compreensão sem estar restrito a um único
+idioma.
+A partir dos conceitos relacionados a OWASP TOP 10, julgue o
+item a seguir.
+116 O SSRF (server-side request forgery) só pode ser explorado
+se o atacante tiver credenciais administrativas no servidor de
+destino, pois ele depende de permissões elevadas para
+realizar requisições internas e externas.
+Acerca do processo de implementação do CLASP, julgue o
+próximo item.
+117 O designer é responsável por identificar a superfície de
+ataque de uma aplicação, a qual abrange todas as partes
+expostas do sistema que sejam suscetíveis a ataques.
+
+
+A respeito do NIST – secure software development framework, julg
+118 Enfatiza-se a importância crítica de se estabelecer mecanismos
+bibliotecas e componentes de terceiros.
+119 Na implementação desse framework, é recomendado utilizar
+dados durante o desenvolvimento de software seguro, como o
+fluxo.
+120 É recomendado que as organizações realizem revisões e testes
+permite identificar e mitigar vulnerabilidades antes que o softw
+Espaço livre
+
+
+CEBRASPE – TRF DA 6.ª REGIÃO – Edital: 2024
+
+gue os itens subsecutivos.
+s robustos de monitoramento contínuo e de atualização rigorosa de
+técnicas avançadas para assegurar a integridade do código e dos
+isolamento de componentes e o uso de mecanismos de controle de
+
+s de segurança focados apenas nos testes finais, pois essa conduta
+ware seja lançado, aumentando a segurança do produto final.
+
+

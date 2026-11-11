@@ -1,0 +1,553 @@
+-- CONHECIMENTO
+A respeito do planejamento estratégico no âmbito da tecnologia
+da informação e comunicação (TIC), julgue os itens a seguir.
+51
+
+No gerenciamento de serviços de TIC, cada órgão do
+Poder Judiciário deverá adotar, em seu PDTIC, um padrão
+próprio de uso de credenciais de login e interface de
+interação de sistemas.
+
+O PDTIC de órgãos submetidos ao controle do CNJ deverá
+estar alinhado à Estratégia Nacional de Tecnologia da
+Informação e Comunicação do Poder Judiciário
+(ENTIC-JUD) e ao Plano Estratégico Institucional.
+53 A medição de maturidade de TIC dos órgãos submetidos ao
+controle administrativo e financeiro do CNJ será realizada
+com base no Índice de Governança, Gestão e Infraestrutura
+de Tecnologia da Informação e Comunicação do
+Poder Judiciário (iGovTIC-JUD).
+52
+
+Acerca do gerenciamento de projetos de TIC, julgue os próximos
+itens.
+54
+
+O gerenciamento de programas e a gestão de portfólio de
+projetos estão voltados para o alcance dos objetivos
+organizacionais e de ações do planejamento estratégico de
+uma organização.
+
+55
+
+No PMBok 7.ª edição, as partes interessadas e as equipes de
+projeto fazem parte do domínio de desempenho do projeto.
+
+Julgue os itens subsequentes, em relação a governança e gestão
+de contratos de TIC.
+56
+
+De acordo com a legislação atual de licitações e contratos, as
+modalidades de licitação para a contratação de serviços de
+TIC são menor preço; maior desconto; melhor técnica e
+preço; e maior retorno econômico.
+
+57
+
+A contratação de soluções de TIC deve seguir as seguintes
+fases: planejamento da contratação, seleção do fornecedor e
+gestão do contrato.
+
+58
+
+Para a mensuração de esforço de desenvolvimento em
+contratação de TIC no governo, é vedada a adoção de
+métrica homem-hora ou equivalente, salvo mediante
+justificativa e vinculação à entrega de produtos de acordo
+com os prazos e qualidade previamente definidos.
+
+59
+
+Nos casos de inexigibilidade ou dispensa de licitação, não é
+necessário executar a fase de planejamento da contratação.
+
+60
+
+A empresa contratada para o provimento da solução de TIC
+deve ser a mesma que avalia, mensura e fiscaliza o objeto da
+contratação.
+
+Acerca de bancos de dados, julgue os itens a seguir.
+61
+
+SQL é a linguagem padrão ANSI para a manipulação de
+bancos de dados relacionais e, por ser uma linguagem
+imperativa, possibilita a criação de programas completos.
+
+62
+
+No modelo relacional de banco de dados, uma relação é
+definida como um conjunto de tuplas e, matematicamente, os
+elementos de um subconjunto não têm ordem entre eles,
+portanto as tuplas em uma relação não têm qualquer ordem
+em particular.
+
+
+CEBRASPE – CNJ – Edital: 2024
+
+OS ESPECÍFICOS -Julgue os próximos itens, relativos a servidores e sistemas
+operacionais.
+63 No Ubuntu Server, é possível monitorar serviços específicos,
+como o Apache, por meio da execução no terminal de
+comandos como top, htop ou nmon, o que possibilita
+verificar se os serviços estão em correta execução e, se não
+estiverem, reiniciá-los, caso necessário.
+64 No Windows Server, o Active Directory possui um catálogo
+global que contém informações a respeito de cada objeto no
+diretório e que possibilita que os usuários e administradores
+encontrem informações de diretório, independentemente do
+domínio do diretório ao qual os dados pertençam.
+65 O gerenciamento das configurações de servidores é o
+processo pelo qual se pode rastrear, atualizar e manter
+configurações relacionadas a versões de software, segurança
+e rede para que o sistema funcione em uma linha de base
+predeterminada e permaneça seguro independentemente de
+quaisquer alterações.
+No que se refere a cloud computing, julgue os itens seguintes.
+66 O Microsoft Azure Cloud Services é um exemplo de
+plataforma como serviço (PaaS) que oferece um ambiente
+para execução de aplicações com base em um modelo de
+programação que visa proporcionar escalabilidade e alto grau
+de disponibilidade para as aplicações que nele são
+executadas.
+67 A infraestrutura como serviço (IaaS) permite aos usuários a
+conexão e o uso de aplicativos baseados em nuvem pela
+Internet, como os aplicativos de email e calendário do
+Microsoft Office 365.
+Em relação a redes de computadores, redes sem fio e arquitetura
+TCP/IP, julgue os itens que se seguem.
+68 Em um endereço IPv4 da classe B, o último octeto é
+referente ao host.
+69 OSPF (open shortest path first) é um protocolo de
+roteamento do tipo estado de enlace que solicita aos
+roteadores dentro da mesma área hierárquica que enviem
+anúncios de estado do enlace, os quais contêm informações a
+respeito de métricas usadas e interfaces conectadas.
+70 Em um domínio de broadcast, por padrão, os roteadores
+propagam quadros em broadcast, enquanto os hubs e
+switches não os propagam.
+71 Um programa analisador de tráfego captura as informações
+que estão sendo transmitidas em determinada rede e
+apresenta, de forma detalhada, cada pacote de dados
+capturado, organizando os pacotes por tipo de protocolo.
+72 Wi-fi é a implementação completa do padrão IEEE 802.11,
+certificação da Wi-Fi Alliance que visa à interoperação de
+redes sem fio.
+A respeito de infraestrutura e gerenciamento de redes de
+computadores, julgue os próximos itens.
+73 Zabbix é uma ferramenta de monitoramento de redes,
+servidores e serviços que oferece uma interface 100% web
+para administração e exibição de dados; permite, ainda, o
+monitoramento sem agentes para diversos protocolos e conta
+com funções de descoberta automática de itens e descoberta
+de métricas em itens monitorados.
+74 Tanto os cabos do tipo CAT 5E quanto os do tipo CAT 5
+possuem o mesmo limite da taxa de transmissão: 10 Gbps.
+
+
+Julgue os itens subsequentes, a respeito de HTTP e DNS.
+75
+
+O serviço DNS faz uso do TCP para receber e responder as
+consultas, de forma confiável, em uma conexão estabelecida.
+
+76
+
+O HTTP é capaz de criptografar automaticamente a
+comunicação de dados entre o navegador do usuário e o
+servidor do sítio que está sendo acessado.
+
+import mysql.connector
+from mysql.connector import Error
+try:
+connection =
+mysql.connector.connect(host='localhost',
+database='testdb', user='user',
+password='password')
+cursor = connection.cursor()
+with open('data.txt', 'r') as file:
+for line in file:
+query = “INSERT INTO records
+(content) VALUES (%s)”
+cursor.execute(query, (line,))
+connection.commit()
+except Error as e:
+print(“Error while connecting to MySQL”, e)
+finally:
+if connection.is_connected():
+cursor.close()
+connection.close()
+
+Tendo como referência o código precedente, julgue os itens que
+se seguem, em relação à linguagem de programação Python.
+77
+
+A função cursor.execute() é capaz de executar uma
+consulta SQL que tenha sido passada por uma string.
+
+78
+
+De acordo com o código, são inseridas múltiplas linhas no
+banco de dados sem que seja necessário abrir o arquivo a
+cada nova inserção.
+
+Acerca de integração contínua e entrega contínua, julgue os itens
+a seguir.
+79
+
+No âmbito da integração contínua, recomenda-se a entrega
+de código com pequenas iterações, em que o código alterado
+é automaticamente testado e carregado no ambiente
+determinado pelas especificações de uma pipeline ou do
+próprio desenvolvedor.
+
+80
+
+É parte da entrega contínua a automatização do processo de
+teste de código para identificar, o mais rapidamente possível,
+problemas na pipeline.
+
+No que se refere a blockchain, julgue os próximos itens.
+81
+
+Na rede de blockchain, todas as transações são visíveis para
+todos os usuários com permissão, e todos os envolvidos
+podem ter uma cópia do ledger completo.
+
+82
+
+O blockchain não possui uma autoridade centralizada para
+supervisionar as atividades, pois se baseia em princípios de
+criptografia, descentralização e consenso para garantir a
+confiança nas transações.
+
+
+CEBRASPE – CNJ – Edital: 2024
+#!/bin/bash
+log_file=“/var/log/apache2/access.log”
+output_file=“extracted_ips_and_urls.txt”
+if [[ -f “$ log_file” ]]; then
+while IFS= read -r line
+do
+ip=$ (echo
+“$ line”
+|
+awk
+'{print
+$ 1}')
+url=$ (echo
+“$ line”
+|
+awk
+'{print
+$ 7}')
+echo “$ ip - $ url” >> “$ output_file”
+done < “$ log_file”
+else
+echo “O arquivo log não existe.”
+fi
+
+Com base no shell script precedente, julgue os itens seguintes.
+83
+
+No script apresentado, em >> ”$ output_file”, o
+operador >> indica que, a cada iteração, será criado um novo
+arquivo, cujo conteúdo estará sempre na primeira linha.
+
+84
+
+No código apresentado, o comando sed extrai dados das
+colunas do arquivo atribuído à variável log_file.
+
+A respeito da Plataforma Digital do Poder Judiciário Brasileiro
+(PDPJ-Br), julgue os itens a seguir.
+85
+
+A solução de webhooks é utilizada nas aplicações
+hospedadas na PDPJ-Br para comunicação com aplicações
+internas e externas à PDPJ-Br.
+
+86
+
+Quanto à URL das APIs, recomenda-se que se utilizem
+substantivos no singular nos nomes das entidades negociais,
+já que uma entidade pode armazenar apenas uma ocorrência.
+
+87
+
+JWT (JSON Web Token) é o formato dos tokens fornecidos
+pelo SSO (single sign on) da PDPJ-Br.
+
+Acerca de Kubernetes, julgue os itens que se seguem.
+88
+
+O Kubernetes permite a execução de aplicativos na própria
+organização, em nuvens públicas e em ambientes híbridos.
+
+89
+
+Ao implementar uma solução em Kubernetes, o
+desenvolvedor deve configurar a própria aplicação e o
+ambiente subjacente.
+
+A respeito de deploy de aplicações, julgue os próximos itens.
+90
+
+No deploy em nuvem, a característica de serviço sob
+demanda garante que os recursos estejam disponíveis e
+possam ser acessados por clientes a partir de qualquer
+plataforma.
+
+91
+
+Para garantir que o deploy seja feito com sucesso em
+produção, é importante que o processo seja executado
+manualmente pelo desenvolvedor.
+
+Julgue os itens seguintes, relativos a Java.
+92
+
+O polimorfismo em Java permite processar objetos que
+derivam da mesma superclasse, direta ou indiretamente; cada
+objeto pode executar ações diferentes a partir da mesma
+chamada.
+
+93
+
+Em Java, as classes possuem herança múltipla, de modo que
+cada classe pode ser derivada de mais de uma superclasse
+direta.
+
+
+No que se refere a serviços de autenticação, Git e JPA 2.0, julgue
+os itens subsequentes.
+94
+
+O JPA 2.0 permite que uma lista de objetos seja ordenada na
+memória e, depois, que essa ordem seja implementada no
+banco de dados para futuras consultas.
+
+95
+
+No Git, o comando git clone efetua uma cópia de um
+repositório remoto, mantendo tanto o original quanto a cópia
+no mesmo servidor em que o repositório original estava
+hospedado.
+
+96
+
+No modelo de identidade federada, o SP (service provider)
+fornece recursos ao usuário após verificar a autenticidade da
+sua identidade.
+
+A respeito de arquitetura distribuída de microsserviços, julgue os
+itens a seguir.
+97
+
+O desenvolvimento em microsserviços é a evolução de uma
+aplicação monolítica, em que cada microsserviço executa
+uma função ou um recurso.
+
+98
+
+Os serviços de uma API devem utilizar apenas os comandos
+HTTP: GET, POST, PATCH, PUT e DELETE.
+
+Acerca de banco de dados, julgue os itens subsecutivos.
+99
+
+A replicação em cascata do banco de dados PostgreSQL
+permite que um servidor em espera atue como retransmissor
+para outros servidores em espera, reduzindo a quantidade de
+conexões ao servidor primário.
+
+100 No banco de dados PostgreSQL, o comando SELECT adquire
+
+o bloqueio ACCESS SHARE nas tabelas referenciadas.
+Julgue os próximos itens, relativos a segurança da informação e
+gestão da segurança da informação.
+101 Conforme a versão mais recente dos controles CIS, um dos
+
+procedimentos do controle denominado recuperação de
+dados é realizado por uma equipe externa à organização, que
+deve executar, semestralmente, um full backup de todos os
+dados de produção da organização e imediatamente tentar
+restaurá-lo, verificando a sua integridade para garantir que o
+sistema operacional, as aplicações e os dados do backup
+estejam intactos e funcionais.
+102 A
+
+realização de verificações de autenticidade e de
+integridade de informações sensíveis armazenadas ou
+transmitidas é viabilizada por meio de controles
+criptográficos, como, por exemplo, assinaturas digitais e
+códigos de autenticação de mensagens.
+
+103 Conforme a versão mais recente do NIST Cybersecurity
+
+Framework, a função core IDENTIFY (ID) abrange
+resultados como gestão de identidade, autenticação, controle
+de acesso, segurança de dados e resiliência da infraestrutura
+tecnológica.
+104 A camada de inteligência estratégica de ameaças abrange
+
+informações sobre as metodologias
+ferramentas e tecnologias envolvidas.
+
+dos
+
+atacantes,
+
+
+CEBRASPE – CNJ – Edital: 2024
+
+No que se refere a autenticação multifator, OAuth 2.0, cross-site
+scripting, DNS spoofing e port scanning, julgue os itens a seguir.
+105 Um evento de port scanning do tipo XMAS é caracterizado
+
+pelo envio de um SYN por um remetente e pelo aguardo de
+uma resposta SYN-ACK pelo alvo; se recebida, a resposta
+será ignorada e o remetente saberá que a porta testada está
+aberta, sem que haja quaisquer vestígios da interação.
+106 Tecnologias de múltiplos fatores de autenticação pressupõem
+
+camadas
+
+adicionais
+
+de
+
+verificação
+
+no
+
+processo
+
+de
+
+autenticação de usuários: elas podem incluir algo que o
+usuário conhece, como a senha; algo que ele possui, como
+tokens gerados por um aplicativo em execução em um
+aparelho celular; e, ainda, algo que seja fisicamente inerente
+a esse usuário, como dados biométricos coletados de
+impressões digitais ou de características da face.
+107 No contexto do OAuth 2.0, os refresh tokens, diferentemente
+
+dos access tokens, destinam-se somente ao uso com
+servidores de autorização e não são enviados para servidores
+de recursos.
+108 Entre as possíveis consequências de um ataque DNS spoofing
+
+estão o roubo de dados pessoais e financeiros e a infecção dos
+sistemas da vítima por malware.
+109 Em um ataque cross-site scripting armazenado, quando um
+
+usuário é induzido a clicar um link malicioso, o código
+injetado é enviado para o site vulnerável, o que reflete o
+ataque de volta ao navegador do usuário; o navegador, então,
+executa o código, porque interpreta que ele veio de um
+servidor confiável.
+Em relação a SIEM, segurança em redes sem fio e segurança de
+ativos de rede, julgue os itens subsequentes.
+110 No sistema de autenticação 802.1X para acesso seguro de
+
+máquinas à rede, o cliente — representado por uma estação
+de trabalho —, o dispositivo de acesso — que pode ser um
+switch — e o servidor de autenticação trocam informações
+usando o protocolo EAP, que pode ser executado sem um
+endereço IP em camadas inferiores, inclusive na camada de
+enlace de dados.
+111 A utilização de EAP-TLS para autenticação de usuários de
+
+redes sem fio requer que o servidor de autenticação e o
+cliente suplicante disponham de certificados digitais,
+usualmente
+
+emitidos
+
+por
+
+infraestrutura
+
+de
+
+chaves
+
+públicas (ICP).
+112 No processo finalístico de uma solução SIEM padrão, a
+
+etapa em que se buscam indicações de ameaças à segurança
+cibernética, a partir dos dados coletados e por meio da
+comparação a padrões definidos, é denominada agregação e
+normalização dos dados.
+
+
+Julgue os itens a seguir, com base nas Resoluções do CNJ
+n.º 331/2020, n.º 332/2020, n.º 396/2021, n.º 468/2022 e
+n.º 522/2023.
+113 O programa de avaliação do grau de aderência dos sistemas
+
+ao MoReq-Jus e de atualização permanente, denominado
+programa MoReq-Aval, será executado pelo Departamento
+de Tecnologia da Informação do CNJ, com o apoio do
+Comitê Gestor do Sistema Nacional de Segurança do
+Poder Judiciário.
+114 A execução da fase de planejamento das contratações de
+
+solução de tecnologia da informação e comunicação é
+obrigatória, exceto nos casos de inexigibilidade ou dispensa
+de licitação.
+115 A Base Nacional de Dados do Poder Judiciário (DataJud) é
+
+alimentada com dados e metadados processuais relativos a
+processos físicos e eletrônicos, sejam estes públicos ou
+sigilosos.
+116 O CNJ admite o uso de modelos de inteligência artificial no
+
+âmbito do Poder Judiciário e preferencialmente o de
+softwares
+
+de
+
+código
+
+aberto
+
+que
+
+permitam
+
+maior
+
+transparência.
+117 Todos os órgãos do Poder Judiciário devem colocar em
+
+prática as ações para o pleno alcance dos objetivos da
+Estratégia Nacional de Segurança da Informação e
+Cibernética do Poder Judiciário (ENSEC-PJ).
+Considerando o disposto na Portaria da Presidência do CNJ
+n.º 172/2022 e na Instrução Normativa da Presidência do
+Conselho Nacional de Justiça n.º 86/2021, julgue os itens a
+seguir.
+118 Todas as soluções de tecnologia da informação e serviços
+
+digitais mantidos pelo CNJ deverão possuir gestores
+negociais e gestores técnicos, competindo a estes sanar os
+erros detectados.
+119 O fluxo e a tramitação de dúvidas e de demandas de
+
+correção, evolução e criação de soluções de TI não devem
+estar condicionados a formato específico, de modo que se
+possa garantir maior transparência às informações.
+120 O Centro de Prevenção, Tratamento e Resposta a Incidentes
+
+Cibernéticos do Poder Judiciário deve atuar na consolidação
+das informações e geração de estatísticas relacionadas aos
+incidentes ocorridos no Poder Judiciário.
+
+
+CEBRASPE – CNJ – Edital: 2024
+
+Espaço livre
+
+

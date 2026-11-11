@@ -1,0 +1,558 @@
+-- CONHECIMENTO
+Julgue os próximos itens, relativos ao cabeamento estruturado, às
+fibras ópticas, às redes locais e aos jumbo frames.
+51
+
+Uma LAN é uma rede particular, que opera dentro e próximo
+de um único prédio, usada para conectar computadores
+pessoais que trocam informações pelo protocolo ethernet,
+conectados a um dispositivo de rede chamado switch, com
+enlace ponto a ponto.
+
+52
+
+Os roteadores e switches permitem o transporte de quadros
+chamados jumbo frames, sendo cada quadro limitado ao
+tamanho de 1.518 bytes.
+
+53
+
+Os cabos UTP de categorias 5 têm impedância de 100 ohms
+e permitem comunicações de até 100 Mbps.
+
+54
+
+Cabos da categoria 6a só devem ser implementados se a
+distância máxima entre os pontos de rede for de até
+55 metros.
+
+55
+
+As fibras monomodo tem custo mais elevado que as do tipo
+multimodo e são muito utilizadas em longas distâncias,
+podendo transmitir dados a 100 Gbps por 100 km, sem
+amplificação.
+
+No que se refere aos protocolos DHCP e IMAP, aos sistemas de
+segurança IPS, aos modelos de nuvem, ao ambiente Linux e ao
+Microsoft Windows Server, julgue os itens a seguir.
+56
+
+Para a ativação de uma licença de Windows Server baseada
+em serviço de gerenciamento de chaves (KMS), o
+computador ativado deve manter a conectividade periódica
+com o controlador de domínio Active Directory (AD).
+
+57
+
+Um servidor DHCP fornece ao computador cliente um IP
+fixo, bem como a autenticação entre esse computador e o
+referido servidor.
+
+58
+
+O protocolo IMAP é executado no servidor de correio na
+porta de escuta 143, na qual a conexão entre o cliente e o
+servidor não é criptografada.
+
+59
+
+Um IPS atua como um filtro de pacotes que inspeciona todo
+e qualquer pacote que entra e que sai na rede, sendo o
+critério de filtragem determinado por regras, ou por tabelas
+que listam as origens e os destinos aceitáveis.
+
+60
+
+No Linux, a execução do comando a seguir irá atualizar o
+pacote samba, se este já estiver instalado no sistema
+operacional.
+yum update samba
+
+61
+
+No
+
+modelo
+
+de
+
+nuvem
+
+pública,
+
+os
+
+serviços
+
+são
+
+disponibilizados para qualquer cliente, e recursos como
+servidores, armazenamento e aplicações são controlados pelo
+provedor desses serviços.
+
+
+CEBRASPE – STM – Edital: 2025
+
+OS ESPECÍFICOS -Julgue os itens seguintes, relativos à administração de banco de
+dados Oracle, à modelagem de dados relacional, à normalização
+de dados e ao data mining.
+62 Em data mining, a técnica de regras de associação é usada
+para prever valores contínuos com base em atributos
+independentes, utilizando-se árvores de regressão.
+63 Em
+um ambiente Oracle Database, o comando
+ALTER DATABASE DISMOUNT; pode ser utilizado para
+desmontar o banco de dados, ou seja, a execução desse
+comando encerraria o acesso às estruturas físicas (datafiles),
+mas manteria a instância ativa.
+64 No Oracle Database, o log writer buffer é uma das principais
+áreas da System Global Area (SGA), contendo a
+Library Cache (para instruções SQL/PLSQL) e a
+Data Dictionary Cache.
+65 A normalização de dados é a estratégia de criação de índices
+compostos para melhorar a performance das consultas em
+grandes volumes de dados.
+66 No processo de modelagem relacional de dados, uma chave
+estrangeira (foreign key) corresponde ao atributo de uma
+tabela que referencia a chave primária de outra tabela,
+estabelecendo uma relação entre elas.
+Acerca de deep learning, de Big Data e de redes neurais, julgue
+os itens subsequentes.
+67 Em uma rede neural artificial treinada por retropropagação, o
+objetivo principal do algoritmo durante o treinamento é
+aumentar o número de camadas ocultas até que a acurácia
+atinja 100%.
+68 No contexto do deep learning, a função das camadas ocultas
+(hidden layers) em uma rede neural profunda é extrair e
+processar os dados de forma que a rede aprenda
+características progressivamente mais complexas nas
+camadas mais profundas.
+69 O overfitting, em modelos de deep learning, ocorre quando o
+modelo tem alta precisão tanto nos dados de treinamento
+quanto nos dados de teste, indicativo de que o modelo
+generaliza bem.
+70 A ferramenta Spark é mais eficiente que a Hadoop em
+tarefas iterativas, pois armazena os dados na memória RAM
+durante o processamento.
+71 Em uma rede neural artificial, a função de ativação é
+responsável por armazenar os pesos de cada conexão entre os
+neurônios para posterior retropropagação.
+72 Em um ambiente de Big Data, a função do HDFS (Hadoop
+distributed file system) é caracterizada por armazenar
+grandes volumes de dados de forma distribuída e tolerante a
+falhas.
+Em relação à segurança da informação em organizações, julgue
+os itens a seguir, com base na norma ABNT NBR
+ISO/IEC 27002:2022.
+73 A segurança da informação deve ser apoiada por políticas
+específicas para cada tópico, de acordo com a necessidade da
+organização, além de ser necessária a implementação de
+controles de segurança da informação.
+74 A política de segurança da informação deve ser definida pela
+organização, aprovada pela gerência, publicada, comunicada
+e reconhecida pelo pessoal relevante e pelas partes
+interessadas relevantes, bem como deve ser revisada em
+intervalos planejados e na hipótese de ocorrência de
+mudanças significativas.
+
+
+Julgue os próximos itens, a respeito de princípios de segurança da
+informação e de criptografia.
+75
+
+Uma cifra de fluxo é um tipo de criptografia simétrica por
+meio da qual o texto simples pode ser criptografado bit a bit
+ou byte a byte.
+
+76
+
+Por padrão, em criptografia assimétrica, a chave pública é
+utilizada para cifrar uma mensagem sempre que se deseja
+preservar a integridade da informação.
+
+77
+
+A confidencialidade tem como princípio o uso de técnica
+criptográfica que garanta que o conteúdo da informação não
+seja compreensível para quem não esteja autorizado a
+acessá-la.
+
+78
+
+Segundo o princípio da integridade, uma informação deve
+sempre estar disponível no momento em que se necessite
+dela.
+
+Acerca de MFA (multi-factor authentication), julgue os itens que
+se seguem.
+79
+
+Uma técnica de verificação de MFA pode ser implementada
+por meio do envio de um código único de verificação para o
+endereço de e-mail registrado no sistema ou na aplicação em
+questão.
+
+80
+
+A MFA normalmente se baseia ou em um fator conhecido
+pelo usuário, como uma senha ou um PIN; ou em um fator
+que esteja sob a posse do usuário, como um token ou
+hardware; ou em um fator que apenas o usuário possa
+oferecer, como uma característica biométrica.
+
+A respeito de OpenId Connect, julgue os itens subsequentes.
+81
+
+Uma das vulnerabilidades do OpenID Connect é o uso de
+tokens não assinados para transportar atributos pessoais do
+usuário final.
+
+82
+
+OpenID Connect é um protocolo em que provedores de
+identidade são capazes de lidar com os processos
+de autenticação de forma segura, sendo possível verificar as
+identidades dos usuários de aplicativos que o utilizam.
+
+Em relação a ataques de malwares e a frameworks de segurança
+da informação, julgue os itens subsequentes.
+83
+
+O MITRE ATT&CK é um modelo que busca categorizar o
+comportamento do atacante, com base em apenas dois
+componentes principais: táticas e procedimentos.
+
+84
+
+Rootkit é um tipo de malware que permite que um atacante
+mantenha controle remoto sobre o sistema infectado, salvo
+se ele for reiniciado.
+
+Julgue os itens a seguir, em relação a planejamento estratégico de
+TIC.
+85
+
+Os indicadores de desempenho de TIC devem ser definidos
+com base nos objetivos organizacionais de forma a permitir
+o monitoramento e a avaliação contínua dos resultados
+alcançados.
+
+86
+
+Plano diretor de TIC (PDTIC) é um instrumento que
+organiza e prioriza as ações de TIC, alinhando-as ao
+planejamento estratégico da instituição.
+
+87
+
+O planejamento estratégico de TIC deve ser realizado
+independentemente dos recursos disponíveis, com foco nas
+metas de longo prazo.
+
+
+CEBRASPE – STM – Edital: 2025
+
+Acerca de governança de TIC, julgue os próximos itens.
+88
+
+A análise SWOT aplicada à TIC é utilizada para identificar
+exclusivamente as ameaças externas que podem impactar
+negativamente os serviços de tecnologia da informação.
+
+89
+
+Segundo o COBIT 2019, a governança de TIC deve ser
+implementada por meio de processos automatizados, o que
+elimina a necessidade de intervenções humanas em decisões
+estratégicas.
+
+90
+
+As metodologias OKR, PKI e BSC são utilizadas para
+definir e monitorar indicadores de desempenho em TIC;
+o OKR concentra-se em objetivos qualitativos, ao passo que
+o BSC utiliza perspectivas financeiras, de clientes, de
+processos internos e de aprendizado e crescimento.
+
+91
+
+O ITIL 4 propõe que o gerenciamento de serviços de TIC
+seja baseado em um modelo de valor de serviço, que conecta
+os componentes de governança, práticas e melhoria contínua
+para atender às necessidades dos stakeholders.
+
+Julgue os itens subsequentes, a respeito de gerenciamento de
+projetos, governança e gestão de riscos de TIC.
+92
+
+De acordo com a Lei n.º 14.133/2021, no planejamento de
+contratações de TIC no Poder Judiciário, devem se
+consideradas a compatibilidade com o plano de contratações
+anual e a elaboração de estudos técnicos preliminares; no
+entanto, a designação de fiscal e gestor do contrato é
+facultativa, sujeitando-se à complexidade do objeto
+contratado.
+
+93
+
+As opções de tratamento de riscos de TIC incluem a
+transferência do risco, que busca compartilhar o risco com
+terceiros, por meio, por exemplo, de seguros ou
+terceirização, e a ação de evitar o risco, que consiste em
+decidir não iniciar ou descontinuar a atividade que origina o
+risco.
+
+94
+
+O PMBOK 7.ª edição substitui os grupos de processos por
+domínios de desempenho, abordando aspectos como equipe,
+ciclo de vida e entrega; o escritório de projetos (PMO) tem
+foco na execução dos projetos, ao passo que a gestão de
+portfólio de projetos se limita à priorização de iniciativas
+com base em critérios financeiros.
+
+95
+
+A Resolução CNJ n.º 370/2021 estabelece que a Estratégia
+Nacional de TIC do Poder Judiciário (ENTIC-JUD) deve ser
+implementada com base em princípios de governança e
+gestão de TIC alinhados às diretrizes estratégicas do CNJ, ao
+passo que a Resolução CNJ n.º 468/2022 e o Guia de
+Contratações de STIC reforçam a necessidade
+de transparência e eficiência nas aquisições de TIC.
+
+Julgue o item a seguir, com base na Lei Geral de Proteção de
+Dados Pessoais (Lei n.º 13.709/2018).
+96
+
+O controlador de dados pode compartilhar dados pessoais
+com terceiros sem a necessidade de consentimento do titular,
+desde que o compartilhamento seja realizado para fins
+comerciais e não envolva dados sensíveis.
+
+
+Com base no disposto na Resolução CNJ n.º 522/2023, que
+aprova o modelo de requisitos para sistemas informatizados de
+gestão de processos e documentos do Poder Judiciário
+(MoReq-Jus), julgue os seguintes itens.
+97
+
+Os sistemas informatizados de gestão de processos e
+documentos
+
+utilizados
+
+em
+
+atividades
+
+judiciais
+
+e
+
+administrativas dos órgãos integrantes do Poder Judiciário, à
+exceção dos que forem segmentados em aplicações, módulos
+e microsserviços, deverão atender aos requisitos do
+MoReq-Jus.
+98
+
+A adequação dos sistemas informatizados de gestão de
+processos e documentos em utilização nos órgãos do Poder
+Judiciário ao MoReq-Jus deve ser efetuada em até cinco
+anos, quanto ao recebimento, armazenamento e envio de
+100% dos metadados.
+
+99
+
+O referido modelo deve ser incluído como conteúdo
+programático nos concursos públicos para provimento de
+cargos nas áreas de tecnologia da informação e gestão
+documental dos órgãos do Poder Judiciário.
+
+À luz das disposições da Resolução CNJ n.º 335/2020 e das
+Portarias
+
+CNJ
+
+n.º
+
+252/2020,
+
+CNJ
+
+n.º 253/2020
+
+e
+
+CNJ n.º 131/2021, todas referentes à Plataforma Digital do Poder
+Judiciário (PDPJ-Br), julgue os itens a seguir.
+100 Na análise sintática automatizada de qualidade de código
+
+empreendida pelo grupo revisor de código-fonte das
+soluções da PDPJ-Br, o código-fonte que não alcançar os
+critérios mínimos deve ser sumariamente rejeitado, devendo
+a equipe que o implementou proceder às correções indicadas
+antes de submetê-lo novamente à análise.
+101 É vedada a aquisição, ainda que não onerosa, de qualquer
+
+novo sistema privado que cause dependência tecnológica do
+respectivo fornecedor e que não permita o compartilhamento
+não oneroso da solução na PDPJ-Br.
+102 Os tribunais que não possuem projetos de sistema processual
+
+público não podem aderir à PDPJ-Br.
+103 A responsabilidade pela coordenação da rede de governança
+
+da PDPJ-Br cabe ao Comitê Gestor Nacional da PDPJ-Br.
+104 As soluções constantes da PDPJ-Br devem conter artefatos
+
+de testes automatizados com incentivo às práticas de
+TDD (test driven development), dispondo de testes de
+unidade e de integração.
+105 Os comitês gestores dos tribunais, que compõem a rede de
+
+governança
+
+da
+
+PDPJ-Br,
+
+devem
+
+ter
+
+pelo
+
+menos
+
+um representante da magistratura, do Ministério Público dos
+estados, da Defensoria Pública, das procuradorias e da
+seccional da Ordem dos Advogados do Brasil.
+
+
+CEBRASPE – STM – Edital: 2025
+
+Julgue os itens que se seguem, de acordo com o disposto na
+Resolução CNJ n.º 396/2021 e na Portaria CNJ n.º 162/2021, que
+tratam da Estratégia Nacional de Segurança Cibernética do
+Poder Judiciário (ENSEC-PJ).
+106 Com exceção do STF, todos os órgãos do Poder Judiciário
+
+devem implementar a gestão de usuários de sistemas
+informatizados, incluído o gerenciamento de identidades, de
+acessos e de privilégios.
+107 Todos os tribunais do Poder Judiciário devem implementar
+
+os protocolos e manuais relacionados com a ENSEC-PJ.
+108 O
+
+Comitê Gestor de Segurança da Informação do
+Poder Judiciário, em cuja composição inclui-se um
+especialista indicado pelo STM, poderá convidar
+representante das forças armadas para subsidiar os trabalhos
+do comitê.
+
+Julgue os próximos itens, relativos a Spring Eureka, Zuul,
+Map Struct, service discovery e Swagger.
+109 Swagger é um conjunto de ferramentas de código aberto
+
+construídas em torno da especificação OpenAPI que permite
+projetar, criar, documentar e consumir APIs REST.
+110 No contexto do framework Spring, o service discovery é
+um dos princípios fundamentais de uma arquitetura baseada
+em microsserviços, pois, quando um cliente se registra no
+servidor Eureka, este receberá heartbeat messages de cada
+instância pertencente a um serviço e, caso a mensagem falhe
+em um horário configurável, a instância poderá ser removida
+do registro.
+111 MapStruct é um gerador de código que permite realizar a
+implementação de mapeamentos entre tipos de bean Java
+com base em uma abordagem de convenção sobre
+configuração, permitindo gerar mapeamentos de bean em
+tempo de compilação.
+112 Zuul é um gateway de aplicativos L7 que fornece recursos
+
+para roteamento dinâmico e monitoramento, além
+de permitir avaliar os limites de desempenho e capacidade de
+sistemas, com vistas a ajustar políticas de escalonamento
+automático.
+No que concerne a OAuth2, JSON e Hibernate Envers, julgue os
+itens subsequentes.
+113 OAuth2 é um padrão aberto que permite que aplicações
+
+obtenham acesso seguro às informações do usuário de outros
+sites, em que os tokens de acesso são credenciais usadas para
+acessar recursos protegidos com escopo e durações de acesso
+específicos, concedidos pelo proprietário do recurso e
+aplicados pelo servidor de recursos e pelo servidor de
+autorização.
+114 O código a seguir é um exemplo de uma notação JSON com
+
+formato válido.
+{"Nome":[{"letra":"S","nome":"Supremo"},
+{"letra":"T","nome":"Tribunal"},
+{"letra":"M","nome":"Militar"}]}
+115 Hibernate Envers é uma extensão do Hibernate ORM que
+
+fornece uma maneira fácil de criptografar e anonimizar
+dados de entidades.
+
+
+Julgue os itens seguintes, relativos a RabbitMQ, PostgreSQL e
+Git.
+116 Considere
+
+que os seguintes comandos tenham sido
+
+executados no PostgreSQL 14.18.
+CREATE TABLE veiculo (
+id SERIAL PRIMARY KEY,
+nome VARCHAR(50) NOT NULL);
+CREATE TABLE carro (
+placa VARCHAR(7) UNIQUE NOT NULL)
+INHERITS (veiculo);
+INSERT INTO veiculo (nome)
+VALUES ('Bicicleta');
+INSERT INTO carro (nome, placa)
+VALUES ('Tesla Model Y', 'Y1357'), ('BMW
+X6','W6789');
+SELECT * FROM veiculo;
+
+Nesse caso, o comando SELECT * FROM veiculo;
+apresentará, ao ser executado, o resultado a seguir.
+id |
+nome
+----+----------1 | Bicicleta
+117 A execução dos comandos Git a seguir, na sequência em que
+
+aparecem, é suficiente para enviar o arquivo app22.html
+do repositório local para o repositório remoto, com todas as
+alterações realizadas localmente.
+git status
+git add app22.html
+git commit -m "Versão 22 do aplicativo"
+118 No RabbitMQ, o stream é uma estrutura de dados não
+
+persistente que pode armazenar mensagens de produtores
+que são lidas pelos consumidores, diferenciando-se das filas
+por não ser replicado.
+No que se refere a Rancher, ambiente de clusters e Kubernetes,
+julgue os itens que se seguem.
+119 No que se refere aos daemons Docker em execução no
+
+RancherOS, o System Docker executa serviços de sistema
+como ntpd, e o Manager Docker executa a gestão do serviço
+em si, a exemplo do controle do syslog.
+120 No Kubernetes, kubectl cordon –a podY nodeX é o
+
+comando que permite anexar ao nodeX processo associado
+ao podY que já esteja em execução dentro de um contêiner
+existente.
+
+
+CEBRASPE – STM – Edital: 2025
+
+Espaço livre
+
+

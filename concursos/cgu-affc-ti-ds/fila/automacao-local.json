@@ -1,0 +1,17 @@
+{
+  "tarefas": [
+    {
+      "comando": "classificar_p1_sklearn.py",
+      "returncode": 0,
+      "resumo": "},\n      {\n        \"limiar\": 1.25,\n        \"aceitos\": 1,\n        \"precisao\": 1.0,\n        \"cobertura_positivos\": 0.004464285714285714\n      },\n      {\n        \"limiar\": 1.5,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      },\n      {\n        \"limiar\": 2,\n        \"aceitos\": 0,\n        \"precisao\": 0.0,\n        \"cobertura_positivos\": 0.0\n      }\n    ],\n    \"auto_escolhido\": null,\n    \"candidato_revisao\": {\n      \"limiar\": 0.6,\n      \"aceitos\": 47,\n      \"precisao\": 0.851063829787234,\n      \"cobertura_positivos\": 0.17857142857142858\n    },\n    \"descartados_provaveis_p1\": 417\n  },\n  \"auto_total\": 280,\n  \"auto_p1\": 280,\n  \"auto_outro\": 0,\n  \"revisao\": 18793,\n  \"por_topico\": {\n    \"P1·ETICA 4\": 3,\n    \"P1·ADM 3\": 30,\n    \"P1·ADM 5\": 4,\n    \"P1·ETICA 2\": 6,\n    \"P1·SOC 3\": 2,\n    \"P1·ADM 4\": 144,\n    \"P1·ESTADO 1\": 1,\n    \"P1·ETICA 5\": 1,\n    \"P1·ESTADO 6\": 2,\n    \"P1·ADM 2\": 25,\n    \"P1·ETICA 3\": 1,\n    \"P1·ESTADO 5\": 6,\n    \"P1·ESTADO 3\": 8,\n    \"P1·SOC 5\": 14,\n    \"P1·SOC 4\": 4,\n    \"P1·ESTADO 4\": 3,\n    \"P1·ESTADO 2\": 3,\n    \"P1·ADM 1\": 6,\n    \"P1·ESTADO 9\": 17\n  },\n  \"gate\": \"precisao >= 85%, >=30 aceitos no holdout e concordancia SVM+triagem\"\n}\n",
+      "erro": ""
+    },
+    {
+      "comando": "ml_triagem.py",
+      "returncode": 1,
+      "resumo": "rotulados com texto: 793 | P3: 543 | classes: 36\nassunto: n=407 top1=0.39 top3=0.62\n  margem>=0.0 cobertura 1.00 precisao 0.39\n  margem>=0.2 cobertura 0.37 precisao 0.55\n  margem>=0.3 cobertura 0.21 precisao 0.71\n  margem>=0.4 cobertura 0.15 precisao 0.75\n  margem>=0.5 cobertura 0.09 precisao 0.82\n  margem>=0.6 cobertura 0.07 precisao 0.86\n  margem>=0.8 cobertura 0.02 precisao 1.00\ndetector: n=622 AUC=0.846\n  p>=0.3 aceita 0.90 precisao 0.76 recall 0.98\n  p>=0.4 aceita 0.78 precisao 0.82 recall 0.92\n  p>=0.5 aceita 0.66 precisao 0.88 recall 0.82\n  p>=0.6 aceita 0.50 precisao 0.92 recall 0.66\n  p>=0.7 aceita 0.36 precisao 0.94 recall 0.48\n  p>=0.8 aceita 0.19 precisao 0.94 recall 0.25\n  p>=0.9 aceita 0.05 precisao 0.97 recall 0.07\nlimiar auto-aceite (margem): None\n",
+      "erro": "jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py\", line 180, in dump\n    fp.write(chunk)\n    ~~~~~~~~^^^^^^^\n  File \"C:\\Users\\jonathas.000\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1252.py\", line 19, in encode\n    return codecs.charmap_encode(input,self.errors,encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u2010' in position 39: character maps to <undefined>\n"
+    }
+  ],
+  "auto_aplicacao_banco": false
+}

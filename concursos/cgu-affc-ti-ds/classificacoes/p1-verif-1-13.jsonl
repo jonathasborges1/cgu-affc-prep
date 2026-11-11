@@ -1,0 +1,50 @@
+{"id": "v1-13-01", "codigo": "OUTRO", "rel": "fora", "motivo": "Morfologia urbana, arquitetura"}
+{"id": "v1-13-02", "codigo": "OUTRO", "rel": "fora", "motivo": "Incidentes cibernéticos, TI"}
+{"id": "v1-13-03", "codigo": "OUTRO", "rel": "fora", "motivo": "Contabilidade/governança corporativa privada"}
+{"id": "v1-13-04", "codigo": "OUTRO", "rel": "fora", "motivo": "Contabilidade societária"}
+{"id": "v1-13-05", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "Desconto de dias de greve de servidor; direito administrativo"}
+{"id": "v1-13-06", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Profissionalização e carreira de altos administradores na reforma"}
+{"id": "v1-13-07", "codigo": "OUTRO", "rel": "fora", "motivo": "Política de recursos hídricos, direito ambiental"}
+{"id": "v1-13-08", "codigo": "OUTRO", "rel": "fora", "motivo": "Redação oficial, português"}
+{"id": "v1-13-09", "codigo": "OUTRO", "rel": "fora", "motivo": "Direito tributário"}
+{"id": "v1-13-10", "codigo": "OUTRO", "rel": "fora", "motivo": "Cultura regional acriana"}
+{"id": "v1-13-11", "codigo": "OUTRO", "rel": "fora", "motivo": "Microeconomia, ótimo de Pareto"}
+{"id": "v1-13-12", "codigo": "P1·ESTADO 2", "rel": "alta", "motivo": "Accountability: responsabilização democrática dos governantes"}
+{"id": "v1-13-13", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Relatório de gestão fiscal, LRF"}
+{"id": "v1-13-14", "codigo": "OUTRO", "rel": "fora", "motivo": "Análise de balanços"}
+{"id": "v1-13-15", "codigo": "P1·ESTADO 9", "rel": "baixa", "motivo": "Concessão pública, step-in dos financiadores"}
+{"id": "v1-13-16", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Monitoramento no ciclo de políticas públicas"}
+{"id": "v1-13-17", "codigo": "OUTRO", "rel": "fora", "motivo": "Isenção fiscal, direito tributário"}
+{"id": "v1-13-18", "codigo": "OUTRO", "rel": "fora", "motivo": "Segurança da informação ISO 27002"}
+{"id": "v1-13-19", "codigo": "OUTRO", "rel": "fora", "motivo": "Biblioteconomia, comportamento informacional"}
+{"id": "v1-13-20", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "LRF, renúncia de receita e transferências voluntárias"}
+{"id": "v1-13-21", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "Readaptação de servidor, regime de agentes públicos"}
+{"id": "v1-13-22", "codigo": "P1·ADM 4", "rel": "media", "motivo": "Princípios orçamentários"}
+{"id": "v1-13-23", "codigo": "P1·ESTADO 4", "rel": "baixa", "motivo": "Nacionalidade na CF; direito constitucional"}
+{"id": "v1-13-24", "codigo": "OUTRO", "rel": "fora", "motivo": "Evidências de auditoria contábil"}
+{"id": "v1-13-25", "codigo": "OUTRO", "rel": "fora", "motivo": "Arquivologia"}
+{"id": "v1-13-26", "codigo": "OUTRO", "rel": "fora", "motivo": "Macroeconomia e história econômica"}
+{"id": "v1-13-27", "codigo": "P1·SOC 5", "rel": "media", "motivo": "Desertificação, IDH e vulnerabilidade climática"}
+{"id": "v1-13-28", "codigo": "P1·ADM 3", "rel": "alta", "motivo": "Agenda e formulação no ciclo de política pública"}
+{"id": "v1-13-29", "codigo": "OUTRO", "rel": "fora", "motivo": "Dados estruturados, TI"}
+{"id": "v1-13-30", "codigo": "OUTRO", "rel": "fora", "motivo": "Conselho Nacional de Saúde, serviço social"}
+{"id": "v1-13-31", "codigo": "OUTRO", "rel": "fora", "motivo": "Modulação de rádio, telecomunicações"}
+{"id": "v1-13-32", "codigo": "P1·ETICA 2", "rel": "baixa", "motivo": "Infração disciplinar, uso indevido de identificação funcional"}
+{"id": "v1-13-33", "codigo": "P1·ESTADO 6", "rel": "alta", "motivo": "Clientelismo como fenômeno político"}
+{"id": "v1-13-34", "codigo": "P1·ESTADO 6", "rel": "media", "motivo": "Nepotismo e vedação a convênios com parentes"}
+{"id": "v1-13-35", "codigo": "OUTRO", "rel": "fora", "motivo": "Governança de dados DMBOK"}
+{"id": "v1-13-36", "codigo": "OUTRO", "rel": "fora", "motivo": "Neutralidade da rede, Marco Civil"}
+{"id": "v1-13-37", "codigo": "OUTRO", "rel": "fora", "motivo": "Contabilidade, ativo contingente"}
+{"id": "v1-13-38", "codigo": "P1·ESTADO 4", "rel": "media", "motivo": "Liberdade de profissão, direitos fundamentais"}
+{"id": "v1-13-39", "codigo": "OUTRO", "rel": "fora", "motivo": "História da arquitetura"}
+{"id": "v1-13-40", "codigo": "OUTRO", "rel": "fora", "motivo": "Contratação de TIC no Judiciário"}
+{"id": "v1-13-41", "codigo": "P1·ADM 1", "rel": "media", "motivo": "Agentes políticos e categorias de agentes públicos"}
+{"id": "v1-13-42", "codigo": "P1·ADM 2", "rel": "alta", "motivo": "Reforma gerencial orientada a resultados"}
+{"id": "v1-13-43", "codigo": "OUTRO", "rel": "fora", "motivo": "Medicina, neuropediatria"}
+{"id": "v1-13-44", "codigo": "P1·ESTADO 1", "rel": "baixa", "motivo": "Neoinstitucionalismo, Estado e instituições"}
+{"id": "v1-13-45", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "Descentralização e competências federativas"}
+{"id": "v1-13-46", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "Agricultura familiar e segurança alimentar"}
+{"id": "v1-13-47", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "Desconto por greve de servidor"}
+{"id": "v1-13-48", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "Gestão por competências, gestão de pessoas"}
+{"id": "v1-13-49", "codigo": "OUTRO", "rel": "fora", "motivo": "Administração de materiais"}
+{"id": "v1-13-50", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "Vedações a dirigentes de estatais, Lei 13.303"}

@@ -1,0 +1,50 @@
+{"id": "v1-11-01", "codigo": "P1·SOC 5", "rel": "alta", "motivo": "Gini, desigualdade de renda, indicadores socioeconômicos"}
+{"id": "v1-11-02", "codigo": "P1·ADM 1", "rel": "baixa", "motivo": "Órgão legislativo distrital e representação judicial; tangencia organização administrativa"}
+{"id": "v1-11-03", "codigo": "P1·ADM 3", "rel": "media", "motivo": "Intersetorialidade em política socioeducativa SINASE"}
+{"id": "v1-11-04", "codigo": "OUTRO", "rel": "fora", "motivo": "Distribuição de processos no TCE/SC, tema de controle externo específico"}
+{"id": "v1-11-05", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Descentralização financeira e sub-repasse, execução orçamentária"}
+{"id": "v1-11-06", "codigo": "OUTRO", "rel": "fora", "motivo": "Base legal LGPD no poder público, não consta no P1"}
+{"id": "v1-11-07", "codigo": "P1·ESTADO 2", "rel": "media", "motivo": "Controle judicial sobre administração, relação entre Poderes"}
+{"id": "v1-11-08", "codigo": "OUTRO", "rel": "fora", "motivo": "Princípios de acesso a arquivos, arquivologia"}
+{"id": "v1-11-09", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Receitas correntes e projeto de lei orçamentária"}
+{"id": "v1-11-10", "codigo": "P1·ETICA 2", "rel": "media", "motivo": "Código de ética do servidor, dever de assiduidade"}
+{"id": "v1-11-11", "codigo": "P1·SOC 5", "rel": "media", "motivo": "PNE e investimento em educação como problema público"}
+{"id": "v1-11-12", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Financiamento do FUNDEB, receitas tributárias"}
+{"id": "v1-11-13", "codigo": "OUTRO", "rel": "fora", "motivo": "Licitações e contratos, Lei 14.133"}
+{"id": "v1-11-14", "codigo": "P1·ESTADO 2", "rel": "alta", "motivo": "Governabilidade e legitimidade"}
+{"id": "v1-11-15", "codigo": "P1·ESTADO 6", "rel": "baixa", "motivo": "Improbidade administrativa, tangencia ilícitos específicos"}
+{"id": "v1-11-16", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Política fiscal e dívida pública, macroeconomia"}
+{"id": "v1-11-17", "codigo": "OUTRO", "rel": "fora", "motivo": "Docker e conteinerização, TI"}
+{"id": "v1-11-18", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "Prestação de contas à sociedade via divulgação científica"}
+{"id": "v1-11-19", "codigo": "OUTRO", "rel": "fora", "motivo": "Caderno de encargos, obras e contratos"}
+{"id": "v1-11-20", "codigo": "OUTRO", "rel": "fora", "motivo": "Regime disciplinar de servidores distritais"}
+{"id": "v1-11-21", "codigo": "OUTRO", "rel": "fora", "motivo": "Fases da licitação, Lei 14.133"}
+{"id": "v1-11-22", "codigo": "OUTRO", "rel": "fora", "motivo": "CRISP-DM, mineração de dados"}
+{"id": "v1-11-23", "codigo": "OUTRO", "rel": "fora", "motivo": "Nanotecnologia, ciência e tecnologia"}
+{"id": "v1-11-24", "codigo": "OUTRO", "rel": "fora", "motivo": "Princípios de contabilidade"}
+{"id": "v1-11-25", "codigo": "P1·ESTADO 5", "rel": "baixa", "motivo": "Controle interno e limites de despesa com pessoal"}
+{"id": "v1-11-26", "codigo": "OUTRO", "rel": "fora", "motivo": "Arquitetura, Le Corbusier"}
+{"id": "v1-11-27", "codigo": "OUTRO", "rel": "fora", "motivo": "Lei de inovação, transferência de tecnologia ICT"}
+{"id": "v1-11-28", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "Gestão por processos, melhoria contínua"}
+{"id": "v1-11-29", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Gastos públicos comparados com OCDE, leitura de texto"}
+{"id": "v1-11-30", "codigo": "P1·ETICA 3", "rel": "alta", "motivo": "Conflito de interesses e integridade organizacional"}
+{"id": "v1-11-31", "codigo": "P1·ESTADO 9", "rel": "alta", "motivo": "Princípios constitucionais da ordem econômica"}
+{"id": "v1-11-32", "codigo": "OUTRO", "rel": "fora", "motivo": "Auditoria de sistema de gestão ambiental"}
+{"id": "v1-11-33", "codigo": "OUTRO", "rel": "fora", "motivo": "Computação em nuvem e segurança, TI"}
+{"id": "v1-11-34", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Despesa com pessoal e riscos fiscais municipais, LRF"}
+{"id": "v1-11-35", "codigo": "OUTRO", "rel": "fora", "motivo": "Big data e SaaS, TI"}
+{"id": "v1-11-36", "codigo": "P1·SOC 5", "rel": "baixa", "motivo": "Financiamento educacional, CAQ e complementação da União"}
+{"id": "v1-11-37", "codigo": "P1·ETICA 4", "rel": "alta", "motivo": "Encaminhamento de assédio e discriminação, anonimato"}
+{"id": "v1-11-38", "codigo": "P1·ESTADO 2", "rel": "alta", "motivo": "Separação dos poderes"}
+{"id": "v1-11-39", "codigo": "OUTRO", "rel": "fora", "motivo": "Comitê de segurança da informação, TI"}
+{"id": "v1-11-40", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "Incentivos fiscais como instrumento de desenvolvimento"}
+{"id": "v1-11-41", "codigo": "P1·ESTADO 9", "rel": "media", "motivo": "Política de infraestrutura e recursos privados"}
+{"id": "v1-11-42", "codigo": "P1·ADM 2", "rel": "baixa", "motivo": "Gestão por competências e orientação estratégica"}
+{"id": "v1-11-43", "codigo": "OUTRO", "rel": "fora", "motivo": "Pesca artesanal e associativismo"}
+{"id": "v1-11-44", "codigo": "OUTRO", "rel": "fora", "motivo": "Fisioterapia, dor no joelho"}
+{"id": "v1-11-45", "codigo": "P1·ADM 4", "rel": "baixa", "motivo": "Teoria orçamentária, princípios do orçamento"}
+{"id": "v1-11-46", "codigo": "OUTRO", "rel": "fora", "motivo": "Contabilidade patrimonial, registro de imóvel"}
+{"id": "v1-11-47", "codigo": "P1·SOC 4", "rel": "media", "motivo": "Povos quilombolas, acesso a direitos"}
+{"id": "v1-11-48", "codigo": "P1·ESTADO 4", "rel": "alta", "motivo": "Direitos fundamentais e eficácia horizontal"}
+{"id": "v1-11-49", "codigo": "P1·ESTADO 3", "rel": "media", "motivo": "Discricionariedade administrativa"}
+{"id": "v1-11-50", "codigo": "P1·ADM 4", "rel": "media", "motivo": "PPA e participação cidadã no planejamento"}

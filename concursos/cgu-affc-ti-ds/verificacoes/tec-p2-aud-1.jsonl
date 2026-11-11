@@ -1,0 +1,5 @@
+{"item": "4", "edital": "P2·DIR 3.1", "relevancia": "alta", "nucleo_id": "n-subvencoes-renuncia-receitas-controle-externo-interno", "nucleo_novo": false, "tags": ["ESCOPO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "7", "edital": "P2·DIR 3.3", "relevancia": "alta", "nucleo_id": "n-legislativo-controla-gestao-todos-poderes", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "10", "edital": "P2·DIR 3.3", "relevancia": "alta", "nucleo_id": "n-normas-fiscalizacao-simetria-tcs-estaduais-municipais", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}
+{"item": "21", "edital": "P2·DIR 3.3", "relevancia": "alta", "nucleo_id": "n-tcu-unidades-jurisdicionadas-sistema-s-conselhos", "nucleo_novo": false, "tags": ["ESCOPO"], "nivel": "Médio", "confianca": "media", "duvida": null}
+{"item": "22", "edital": "P2·AUD 1.1", "relevancia": "alta", "nucleo_id": "n-auditoria-governamental-abrange-legalidade-e-desempenho", "nucleo_novo": false, "tags": ["NORMA_LITERAL"], "nivel": "Fácil", "confianca": "media", "duvida": null}

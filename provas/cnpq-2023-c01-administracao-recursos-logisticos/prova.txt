@@ -1,0 +1,442 @@
+-- CONHECIMENTO
+No que diz respeito à logística, julgue os itens a seguir.
+51
+
+A logística representa a relação entre os diferentes
+departamentos de uma organização, com vistas a um
+objetivo comum.
+
+52
+
+Compra, distribuição e venda são atividades básicas da
+estratégia operacional da logística.
+
+53
+
+O sistema de planejamento de recursos (ERP) trabalha de
+forma modularizada e se divide em partições específicas para
+as diferentes funções da logística.
+
+54
+
+A possibilidade de mecanização do sistema de arrumação de
+cargas caracteriza uma desvantagem de se adotar um sistema
+de informação aplicada à logística.
+
+Acerca da armazenagem, da gestão de estoques e da gestão de
+transportes, julgue os itens subsequentes.
+55
+
+O modal de transporte rodoviário é o mais adequado para
+transportes de cargas a longas distâncias e em grandes
+quantidades.
+
+56
+
+Paletes são estruturas horizontais, constituídas de vigas sobre
+apoios, que permitem o arranjo e o agrupamento de
+materiais, a fim de facilitar as atividades de transporte.
+
+57
+
+O custo de aquisição de estoques corresponde ao custo de
+capital para manter a mercadoria somado ao custo de
+ocupação do espaço no armazém.
+
+58
+
+O estoque de matérias-primas é composto por mercadorias
+que ainda não sofreram nenhum tipo de transformação por
+parte do fabricante.
+
+59
+
+São denominadas cargas gerais aquelas que são transportadas
+e embarcadas sem acondicionamento ou marca de
+identificação.
+
+No que se refere à logística reversa, julgue os seguintes itens.
+60
+
+O fluxo de informações é prescindível em um sistema de
+logística reversa.
+
+61
+
+A logística reversa relaciona-se com a proteção ao meio
+ambiente, pois propicia a reutilização de produtos e o
+aumento da reciclagem.
+
+62
+
+A utilização de garrafas retornáveis para bebidas é um
+exemplo de aplicação da logística reversa de pós-consumo.
+
+Em relação à gestão de documentos, ao diagnóstico da situação
+arquivística brasileira, às funções arquivísticas e à análise
+tipológica de documentos de arquivo, julgue os itens a seguir.
+63
+
+A realidade dos sistemas de arquivo brasileiros compõe o
+diagnóstico arquivístico maximalista do país.
+
+64
+
+A função aquisição, embora seja mais evidente nos arquivos
+correntes, é aplicável também aos arquivos intermediários.
+
+65
+
+A análise tipológica ocupa-se de elementos externos ao
+documento arquivístico, caracterizando as espécies
+documentais.
+
+66
+
+O controle, a organização do espaço físico e os
+equipamentos utilizados no arquivo integram a
+operacionalização da gestão de documentos.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+OS ESPECÍFICOS -No que se refere às políticas de acesso aos documentos de
+arquivo, aos sistemas informatizados de gestão arquivística de
+documentos, aos sistemas eletrônicos de gestão documental e aos
+metadados, julgue os itens subsequentes.
+67
+
+Caso um cidadão solicite acesso à íntegra de processo em
+que é parte interessada, será vedado ao solicitante o acesso
+ao sistema informatizado do órgão que possui a informação,
+mas o documento lhe será disponibilizado por envio de
+cópia, preferencialmente em meio eletrônico.
+
+68
+
+Uma das formas pelas quais o documento digital pode ser
+gerado é pela digitalização de documentos arquivísticos.
+
+69
+
+Os metadados permitem o acesso, o gerenciamento e a
+compreensão de dados e(ou) a preservação de outros dados
+ao longo do tempo.
+
+70
+
+Presume-se a autenticidade de documentos apresentados por
+usuários dos serviços públicos ofertados por meios digitais
+desde que o envio seja assinado eletronicamente.
+
+Tendo em vista os princípios e conceitos de arquivística e às
+normas, legislações e políticas a ela pertinentes, bem como aos
+sistemas e às redes de arquivo, julgue os próximos itens.
+71
+
+As diretrizes para o funcionamento do Sistema Nacional de
+Arquivos são estabelecidas pelo Arquivo Nacional.
+
+72
+
+A Norma Brasileira de Descrição Arquivística (NOBRADE)
+estabelece formatos de entrada e saída de dados em sistemas
+de descrição automatizados.
+
+73
+
+Compete ao Conselho Nacional de Arquivos a celebração de
+acordos e convênios para a implementação da política
+nacional de arquivos públicos no âmbito da administração
+pública federal.
+
+74
+
+O ciclo vital dos documentos é composto pelas etapas de
+recebimento, registro e distribuição.
+
+No que se refere à gestão de insumos, julgue os itens a seguir.
+75
+
+Considere-se que determinado órgão apresente um antigiro
+de lâmpadas fluorescentes de 2 anos. Nessa situação, caso
+surja nova tecnologia que substitua tais lâmpadas com
+economia energética em torno de 1% a 2%, o pedido de
+aquisição de novos dispositivos deverá ser processado
+imediatamente para que se passe a consumir o novo item
+quando de sua chegada ao almoxarifado.
+
+76
+
+O conceito de estoques de segurança não se aplica a empresa
+que utilize o sistema de reposições periódicas para o
+planejamento e a manutenção de seus níveis de estoque.
+
+77
+
+Em um contexto inflacionário, o método de avaliação de
+estoque “último a entrar, primeiro a sair” (UEPS) é o que
+resulta em maior valor dos estoques.
+
+78
+
+Quanto maior for a quantidade de corredores no
+almoxarifado, maior será a facilidade de acesso e menor será
+o espaço disponível para armazenamento.
+
+
+Julgue os próximos itens, relativos a recursos patrimoniais.
+79
+
+Do ponto de vista contábil, em uma empresa agropecuária
+privada cujo negócio seja a venda de leite de cabra, os
+caprinos fazem parte do ativo imobilizado.
+
+80
+
+Apenas imóveis de propriedade da União, das fundações
+públicas e das autarquias federais são cadastrados no sistema
+de gerenciamento dos imóveis de uso especial da União
+(SPIU).
+
+81
+
+Se houver dano a determinado bem patrimonial confiado a
+servidor, tal consignatário poderá ser chamado à
+responsabilidade, ainda que o dano tenha ocorrido de forma
+culposa.
+
+82
+
+Óbices relacionados à preservação ambiental inviabilizam a
+alienação de bens imóveis da União.
+
+83
+
+Caso um servidor público seja transferido para um novo
+setor e pretenda utilizar o computador do qual já seja
+consignatário, é imprescindível que ele comunique a
+pretensão de movimentação do equipamento ao
+departamento de administração ou unidade equivalente.
+
+A respeito de recursos materiais e patrimoniais, julgue os itens
+subsequentes.
+84
+
+Considere-se que as lixeiras plásticas de determinado órgão
+público do Distrito Federal durem, em média, dois anos,
+embora apresentem substancial deformação a partir de um
+ano de uso. Nesse caso, as referidas lixeiras são consideradas
+material permanente.
+
+85
+
+Os inventários físicos podem ser utilizados tanto para o
+controle de materiais de consumo quanto para o controle de
+bens patrimoniais.
+
+86
+
+Diferentemente do que ocorre com bens patrimoniais, o
+recebimento de material de consumo pelo governo federal
+ocorrerá apenas em decorrência de compra.
+
+Acerca das características básicas das organizações modernas, do
+processo organizacional, da gestão de processos e gestão da
+qualidade, julgue os itens a seguir.
+87
+
+Visando ao aumento da competitividade com mais fluidez e
+flexibilidade na tomada de decisões, a tendência das
+organizações modernas é adotar cadeias de comando mais
+curtas, que tenham menos níveis hierárquicos e estruturas
+horizontais mais ágeis.
+
+88
+
+O planejamento orientado a mudanças e prioridades
+possibilita a antecipação dos problemas, de modo a
+aproveitar as oportunidades oriundas das novas situações e
+privilegiar os temas mais importantes.
+
+89
+
+Segundo os princípios de gestão da qualidade defendidos por
+Deming, deve-se priorizar, para a obtenção da qualidade, as
+inspeções massivas dos serviços executados.
+
+90
+
+Os processos finalísticos estão vinculados às atividades-fim
+da organização e, por isso, não podem ser classificados como
+processos críticos, pois são de natureza estratégica para o
+sucesso organizacional.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Julgue os próximos itens sobre gestão de projetos, planejamento
+estratégico,
+excelência
+nos
+serviços
+públicos
+e
+empreendedorismo governamental.
+91 O estabelecimento de inovações tecnológicas e ações de
+empreendedorismo
+governamental
+independe
+das
+repercussões internas à instituição, pois os pontos de atenção
+devem ser centrados no atendimento ao cidadão.
+92 A quantidade de fases de um projeto é variável e pode ter
+durabilidade e esforços distintos; contudo, no âmbito do
+desenvolvimento de uma entrega específica, as fases do
+projeto devem ser interligadas.
+93 O plano estratégico, resultado do planejamento estratégico,
+deve evidenciar os planos setoriais para alcance dos
+resultados das distintas áreas da organização.
+94 Para alcançar excelência na prestação de serviços públicos, o
+Estado deve promover amplos debates com a sociedade para
+estabelecer prioridades e dar transparência quanto a seu
+papel e seus espaços de atuação.
+A respeito de aspectos relativos a gestão de resultados nos
+serviços públicos, convergências e diferenças entre a gestão
+pública e a gestão privada, paradigma do cliente na gestão
+pública e sustentabilidade pública e acessibilidade, julgue os itens
+seguintes.
+95 Os indicadores para mensuração de resultados devem ser de
+fácil compreensão pelos usuários e devem possibilitar a
+discussão sobre os resultados obtidos e os seus impactos na
+organização.
+96 A administração gerencial é um estilo de gestão que ocorre
+tanto na administração pública quanto na privada, sendo
+equiparados, em ambas as esferas, a forma de obtenção de
+lucros, os resultados e os interesses envolvidos.
+97 A sustentabilidade na gestão pública está relacionada à
+justiça social e à viabilidade econômica no que se refere à
+correta exploração dos recursos naturais, desconsiderando
+aspectos relativos à eliminação do déficit público e à
+estabilização econômica.
+98 Ao se compreender os cidadãos como clientes e usuários dos
+serviços públicos, exige-se das organizações públicas
+agilidade, busca por excelência e inovação na prestação de
+serviços.
+Acerca das principais abordagens da administração, julgue os
+itens a seguir.
+99 Segundo a teoria das relações humanas, ao contrário do que
+concebia a teoria clássica, o ser humano não é somente um
+ser que se motiva pelo dinheiro, mas um ser dotado de
+sentimentos e percepções.
+100 A abordagem básica da escola da administração científica
+fundamenta-se na ênfase colocada nas tarefas.
+No que se refere às funções da administração, que compreendem
+planejamento, organização, direção e controle, julgue os itens
+subsequentes.
+101 A função direção é uma etapa anterior à de planejamento e à
+de organização, e compreende as decisões que acionam
+recursos, especialmente pessoas, para realizar e alcançar
+objetivos.
+102 A função organizar envolve a estrutura organizacional, que
+consiste no processo por meio do qual os administradores
+fazem escolhas organizacionais específicas acerca das
+relações de subordinação de cargos e tarefas.
+
+
+A respeito do planejamento estratégico e da análise SWOT,
+julgue os itens seguintes.
+103 Oportunidades e ameaças são fatores observados nas análises
+
+do ambiente externo, ao passo que pontos fortes e fracos
+inserem-se entre os fatores considerados nas análises do
+ambiente interno.
+104 A partir da análise SWOT, tem-se uma boa visão de
+
+conjunto a respeito da situação geral de uma organização, o
+que proporciona a base para a elaboração de uma estratégia.
+Julgue os itens a seguir, relativos às vantagens e desvantagens de
+cada tipo de departamentalização.
+105 Apesar
+
+de ser mais difícil de coordenar, a
+departamentalização por produtos reduz o poder dos gerentes
+de produtos ou serviços, o que aumenta a estabilidade das
+estruturas de poder das organizações.
+
+106 A departamentalização por clientes possibilita assegurar
+
+conhecimento e atendimento contínuo e rápido às
+necessidades específicas de diferentes tipos e classes de
+clientes.
+Acerca do sistema de medição de desempenho organizacional,
+julgue os itens que se seguem.
+107 A medição do desempenho organizacional quando executada
+
+de modo adequado é uma ferramenta eficaz e necessária,
+embora não seja suficiente para assegurar que uma estratégia
+seja implantada em todos os níveis da organização.
+108 Para a medição do desempenho organizacional, é primordial
+
+que se defina, com base na estratégia da organização, o que
+será medido, como, por exemplo, o lucro líquido, a
+produtividade, a eficiência e a rotatividade da mão de obra.
+No que se refere à gestão e à fiscalização de contratos, à
+sustentabilidade nas compras públicas, às compras e ao sistema
+de registro de preços, à dispensa e inexigibilidade, ao
+planejamento e à execução e ao direito de preferência, julgue os
+itens a seguir.
+109 A designação do fiscal do contrato pela autoridade
+
+competente deve recair sobre servidor ou empregado público
+do quadro permanente da administração pública.
+110 O estudo técnico preliminar deve trazer a descrição de
+
+possíveis impactos ambientais do objeto junto às respectivas
+medidas mitigadoras.
+111 É possível a adesão de órgão não participante do processo
+
+licitatório à ata de registro de preços cujo objeto seja a
+aquisição de computadores.
+112 Quando o objeto a ser adquirido pela administração possuir
+
+um só fornecedor, estará caracterizada hipótese de dispensa
+de licitação.
+113 É vedada a concessão de direito de preferência em caso de
+
+venda de imóveis do patrimônio público.
+114 A definição das condições de execução e pagamento do
+
+objeto, das garantias exigidas e ofertadas e das condições de
+recebimento deve ser discriminada no estudo técnico
+preliminar.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+A respeito do procedimento licitatório e dos contratos
+decorrentes, julgue os itens subsecutivos, relativos ao
+parcelamento do objeto, às sanções administrativas, à revogação,
+aos serviços com alocação de mão de obra, à alteração e ao
+orçamento base de referência.
+115 O processo de padronização do objeto impede o
+parcelamento das compras.
+116 A aplicação da sanção de declaração de inidoneidade para
+licitar ou contratar exige prévia análise jurídica.
+117 Ainda que não tenha ocorrido fato superveniente, a
+autoridade competente poderá revogar o processo licitatório
+por conveniência e oportunidade.
+118 No processo licitatório para aquisição de bens, o valor
+estimado é definido com base no menor preço.
+119 Comprovada falha na fiscalização do cumprimento das
+obrigações do contratado, a administração responderá
+subsidiariamente pelos encargos trabalhistas se o contrato for
+de serviços contínuos com regime de dedicação exclusiva de
+mão de obra.
+120 Considere-se que, durante a execução de um contrato de
+aquisição de equipamentos, tenha sido detectada a
+necessidade de aumentar o quantitativo. Nesse caso, a
+administração poderá alterar o contrato unilateralmente.
+Espaço livre
+
+

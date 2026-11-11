@@ -1,0 +1,1802 @@
+[
+  {
+    "k": "mp-to-servidor-2024-c19-tecnico-informatica#67",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#192",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#62",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#58",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tc-df-auditor-2024-c01-auditor-controle-externo-area#105",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#111",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c04-auditoria-fiscalizacao-ouvidoria-tra#114",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mpo-2024-c07-gestao-contratos-ti#70",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c06-contabilidade#87",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#16",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#76",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#79",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#81",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "tce-ac-2024-c07-infraestrutura-ti#115",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#69",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#90",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "tce-ac-2024-c10-seguranca-informacao#88",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#118",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c05-auditor-fiscal-meio-ambiente#92",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#105",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#68",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "secont-es-2022-c01-administracao#110",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#76",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c05-comunicacao-social#63",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#53",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#31",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c15-arquitetura#89",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "embrapa-2024-cg-bloco-comum#28",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos#25",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c07-saude-avancada-area-atuacao#71",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·EVID 4"
+  },
+  {
+    "k": "embrapa-2024-cg-bloco-comum#30",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "inpi-2023-c14-p3-redes-comunicacao-sem#119",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-br-2023-c02-analista-geotecnologia#101",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#75",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "mpo-2024-c01-geral#62",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#89",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "capes-2023-c01-analista-ciencia-tecnologia#59",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnj-2024-c02-apoio-especializado-especialidade-an#115",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "dataprev-2023-c11-engenheiro-dados#61",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c05-direito#92",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#96",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#59",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "tc-df-auditor-2024-cg-bloco-comum#37",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#72",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#78",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·AUD 2"
+  },
+  {
+    "k": "fub-2025-c03-auditor#84",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c17-direito#74",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#54",
+    "ano": 2020,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#144",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cnj-2024-c08-apoio-especializado-especialidade-pr#108",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-pe-2017-x-auditor-controle-externo-rea#10",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#116",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-cg-bloco-comum#29",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#51",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c07-auditor-fiscal-posturas#71",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "codevasf-2024-c09-jornalismo#83",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "fub-2025-c03-auditor#92",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#29",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "mp-to-servidor-2024-cg-bloco-comum#38",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "codevasf-2024-c02-contabilidade#92",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#68",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "fub-2025-c03-auditor#59",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-cg-bloco-comum#36",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-pe-2017-c04-administracao#67",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c01-administracao#96",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#73",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#113",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#53",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 1"
+  },
+  {
+    "k": "anm-2024-c25-tecnologia-informacao-governanca-ino#60",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "stm-2025-c03-apoio-especializado-especialidade-an#97",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "dataprev-2023-c16-infraestrutura-operacoes-facilities#73",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-nefrologia-programa-transp#38",
+    "ano": 2019,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#107",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#39",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#120",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c02-advocacia#86",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#32",
+    "ano": 2020,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#94",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "seplan-rr-2022-c02-tecnologia-informacao#58",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#90",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "mcti-insa-2024-c14-gestao-informacao-popularizacao-conh#74",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 3"
+  },
+  {
+    "k": "anm-2024-c01-administracao#86",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-cg-bloco-comum#20",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#93",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#55",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c05-pedagogia#104",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#163",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c04-auditor-fiscal-defesa-consumidor#98",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#89",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c01-gestao-financas-controladorias#111",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c02-administracao-economia-contabilidade#101",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tbg-2023-c01-auditoria-compliance#75",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "capes-2023-c02-biblioteconomia#117",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#87",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c07-apoio-tecnico-especializado-especial#65",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#101",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·EVID 5"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#119",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#52",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "anm-2024-c22-qualquer-area-formacao-fiscalizacao#109",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "funpresp-exe-2024-c01-administracao-planejamento#60",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-ac-2024-c03-direito#94",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#73",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cpnuje-2024-c17-apoio-especializado-especialidade-te#110",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#35",
+    "ano": 2019,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#67",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "trf6-2024-c02-apoio-especializado-especialidade-an#75",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#58",
+    "ano": 2020,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#14",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#116",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#70",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#27",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#85",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "stm-2025-c02-apoio-especializado-especialidade-ad#59",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "cnj-2024-c02-apoio-especializado-especialidade-an#91",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "anp-pss-2022-c03-atividades-fiscalizacao-infraestrutu#94",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#52",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#56",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trt10-2024-c11-apoio-especializado-especialidade-te#98",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "fub-2025-c15-assistente-administracao#62",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor#90",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#49",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "mpo-2024-c08-gestao-seguranca-informacao-orcament#90",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#53",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cge-rj-2023-cg-bloco-comum#14",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#52",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c05-julgamento#59",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "dataprev-2023-c14-gestao-servicos-tic#90",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "seplag-ce-2024-c02-governanca-gestao-corporativa#146",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 2"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#93",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#84",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#100",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 3"
+  },
+  {
+    "k": "dataprev-2023-c12-estrategia-governanca#96",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#1",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·DIR 3"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#80",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tce-ac-2024-c07-infraestrutura-ti#119",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#78",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "tce-pb-auditor-2022-c01-cargo-auditor-conselheiro-substituto#85",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#101",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "dataprev-2023-c09-engenharia-eletrica#67",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#123",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c03-contabilidade#90",
+    "ano": 2023,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas#80",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#74",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "funpresp-2021-c03-auditoria-controle#118",
+    "ano": 2021,
+    "fonte": "mid3",
+    "y": "P2·GOV 4"
+  },
+  {
+    "k": "anp-pss-2022-c09-atividades-fiscalizacao-abasteciment#75",
+    "ano": 2022,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tce-ac-2024-c13-direito#53",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 2"
+  },
+  {
+    "k": "pref-jp-cgm-2017-c02-auditoria-fiscalizacao-ouvidoria-tra#63",
+    "ano": 2017,
+    "fonte": "mid3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "cau-mg-2025-cg-bloco-comum#22",
+    "ano": 2025,
+    "fonte": "mid3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c06-gestao-dados-orcamentarios#79",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tc-df-auditor-2024-x-prova-objetiva-p1-gabarito#24",
+    "ano": 2024,
+    "fonte": "mid3",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "tce-ac-2024-c08-planejamento-ti#73",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "seplag-ce-2024-c03-ciencia-computacao-ou-afins#142",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c17-sistema-producao-animal-codigo#90",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c16-recursos-hidricos-codigo-t16#114",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-procurador-2020-c01-procurador-ministerio-publico-junto#24",
+    "ano": 2020,
+    "fonte": "tail3",
+    "y": "P2·DIR 4"
+  },
+  {
+    "k": "codevasf-2024-c01-administracao#89",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 4"
+  },
+  {
+    "k": "trt10-2024-c11-apoio-especializado-especialidade-te#91",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c11-bioeconomia-codigo-t11#54",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c18-logistica-aquisicoes-contratos#74",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c01-analista-sistemas#84",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cge-rj-2023-cg-bloco-comum#1",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·EVID 3"
+  },
+  {
+    "k": "dataprev-2023-c11-engenheiro-dados#79",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c14-administracao#103",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c03-auditor-fiscal-tributos-municipais#97",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#21",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c05-gestao-infraestrutura-ti#68",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "dataprev-2023-c07-desenvolvimento-software#51",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c17-inteligencia-informacao#95",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anp-pss-2022-c03-atividades-fiscalizacao-infraestrutu#87",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c03-engenharias#95",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor#84",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c04-auditor-fiscal-defesa-consumidor#63",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-x-apoio-especializado-especialidade-in#62",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c10-seguranca-informacao#65",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "cnpq-2023-c06-gestao-orcamentaria#88",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c01-analista-sistemas#62",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c01-administracao#94",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2022-c16-tecnico-tecnologia-informacao#55",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2020-x-requisito-pediatria#26",
+    "ano": 2020,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao#106",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "dataprev-2023-c13-gestao-pessoas#115",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cau-br-2023-c03-analista-infraestrutura-tecnologia-i#63",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#70",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ns-2021-c07-ciencia-dados#68",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "mpo-2024-c01-geral#2",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "mpo-2024-cg-bloco-comum#69",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#66",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#93",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c07-sistema-producao-animal-codigo#117",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c03-apoio-especializado-especialidade-an#115",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "petrobras-ns-2021-c04-analista-sistemas-engenharia-softwar#87",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor#89",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "pref-mossoro-rn-2024-c04-ciencias-contabeis#97",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#16",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tbg-2023-c04-desenvolvimento-software#61",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "capes-2023-c04-estatistica#82",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "anm-2024-c26-tecnologia-informacao-operacoes#101",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anatel-2024-c02-ciencias-dados#71",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pc-df-adm-2024-c02-analista-informatica-area-atuacao#55",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf6-2024-c13-apoio-especializado-especialidade-go#112",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#135",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf6-2024-c27-apoio-especializado-especialidade-de#111",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c05-gestao-informacao-popularizacao-conh#77",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf1-servidor-2017-c03-apoio-especializado-especialidade-in#119",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c16-infraestrutura-operacoes-facilities#98",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "inpi-2023-c15-p4-processamento-sinais-processament#62",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-x-analista-gest-rea-administra#7",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c06-gestao-dados#71",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados#56",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#200",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c15-inovacao-codigo-t15#66",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "mcti-insa-2024-c08-sistema-producao-vegetal-codigo#114",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c03-economia#113",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c23-qualquer-area-formacao-suporte#116",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stm-2025-c03-apoio-especializado-especialidade-an#57",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "secont-es-2022-c06-tecnologia-informacao#118",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-go-servidor-2024-c05-analista-informatica#54",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c07-desenvolvimento-software#85",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c07-saude-avancada-area-atuacao#67",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c07-saude-avancada-area-atuacao#64",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c15-inovacao-codigo-t15#118",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "codevasf-2024-c10-publicidade-propaganda#61",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pref-cachoeiro-procurador-2024-cg-bloco-comum#39",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnmp-2023-c10-apoio-tecnico-administrativo-especia#90",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "dataprev-2023-c19-seguranca-cibernetica#60",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c07-infraestrutura#84",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c05-ciencias-computacao#118",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-ce-servidor-2025-c05-ciencias-computacao#58",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-ac-2024-c02-contabilidade#88",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#68",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c09-jornalismo#95",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "cnpq-2023-c05-gestao-governanca#67",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "seplag-ce-2024-c03-ciencia-computacao-ou-afins#98",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "dataprev-2023-c13-gestao-pessoas#118",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pge-rj-2022-c02-analista-sistemas-metodos#56",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "stj-2024-c18-apoio-especializado-especialidade-su#52",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "cti-2023-c06-tecnologias-habilitadoras-area-atuac#89",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplan-rr-2022-c02-tecnologia-informacao#106",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c07-sistema-producao-animal-codigo#108",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-c02-auditor-controle-externo-area#102",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c10-biodiversidade-codigo-t10#114",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fnde-especialista-2023-c01-especialista-financiamento-execucao#65",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#61",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c06-auditor-fiscal-obras#71",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-auditor-2024-c03-auditor-controle-externo-area#135",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-procurador-2022-c01-cargo-procurador-ministerio-publico#179",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2025-c14-sistemas-telecomunicacoes#79",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c02-desenvolvimento#106",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados#69",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mps-2024-cg-bloco-comum#20",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "tce-ac-2024-c04-engenharia-civil#85",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "mcti-insa-2024-c15-inovacao-codigo-t15#77",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "tce-pe-2017-c02-auditoria-obras-publicas#108",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "fub-2019-c01-analista-tecnologia-informacao#72",
+    "ano": 2019,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "dataprev-2023-c07-desenvolvimento-software#110",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anm-2024-c21-geologia-geografia-geofisica-engenha#118",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c07-saude-avancada-area-atuacao#93",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "tc-df-auditor-2024-c03-auditor-controle-externo-area#133",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c09-jornalismo#104",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "banco-do-nordeste-2022-c01-desenvolvimento-sistemas#75",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c04-auditor-fiscal-defesa-consumidor#84",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·DIR 5"
+  },
+  {
+    "k": "anm-2024-c25-tecnologia-informacao-governanca-ino#97",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 5"
+  },
+  {
+    "k": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento#98",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "inpi-2023-c12-p1-biologia-celular-molecular#112",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c01-geral#87",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c03-auditoria-contas-publicas#85",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "susep-2025-cg-bloco-comum#2",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "dataprev-2023-c08-engenharia-civil#119",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "anp-pss-2022-c03-atividades-fiscalizacao-infraestrutu#62",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c18-sistema-producao-vegetal-codigo#104",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao#116",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c26-tecnico-informatica#61",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mp-to-servidor-2024-c04-analise-sistemas#72",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·TRANSP 5"
+  },
+  {
+    "k": "mcti-insa-2024-c13-desertificacao-codigo-t13#115",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-nefrologia-programa-transp#4",
+    "ano": 2019,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#91",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "seplag-ce-2024-c05-planejamento-orcamento-orientados-re#117",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 1"
+  },
+  {
+    "k": "pge-rj-2022-c02-analista-sistemas-metodos#92",
+    "ano": 2022,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "petrobras-ns-2021-c05-analista-sistemas-infraestrutura#59",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c05-tecnologias-habilitadoras-area-atuac#69",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "hub-medica-2019-x-requisito-nefrologia-programa-transp#84",
+    "ano": 2019,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tj-es-2023-c02-administracao#84",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pc-df-adm-2024-c02-analista-informatica-area-atuacao#52",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tc-df-ace-2020-x-prova-objetiva-conhecimentos-basicos#18",
+    "ano": 2020,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cnpq-2023-c04-gestao#118",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "P2·DIR 1"
+  },
+  {
+    "k": "tbg-2023-c04-desenvolvimento-software#67",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "serpro-2023-c01-tecnologia#116",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c19-tecnico-administrativo-especialidade#100",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·GOV 2"
+  },
+  {
+    "k": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce#76",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "susep-2025-c04-tecnologia-informacao-ciencia-dados#114",
+    "ano": 2025,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-pe-2017-c01-auditoria-contas-publicas#73",
+    "ano": 2017,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mjsp-pss-2021-c03-tecnico-especializado-pesquisa-anali#55",
+    "ano": 2021,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos#10",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "cti-2023-c01-tecnologias-habilitadoras-area-atuac#120",
+    "ano": 2023,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "mcti-insa-2024-c14-gestao-informacao-popularizacao-conh#96",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "P2·EVID 2"
+  },
+  {
+    "k": "pref-cachoeiro-adm-2024-c09-auditor-fiscal-tributos-municipais#76",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "tce-ac-2024-c06-gestao-dados#70",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "trf6-2024-c13-apoio-especializado-especialidade-go#52",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "codevasf-2024-c04-engenharia-civil#84",
+    "ano": 2024,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  },
+  {
+    "k": "sefaz-al-auditor-2019-x-prova-objetiva-conhecimentos-basicos#30",
+    "ano": 2019,
+    "fonte": "tail3",
+    "y": "OUTRO"
+  }
+]

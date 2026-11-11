@@ -1,0 +1,50 @@
+{"id":"v1-12-01","codigo":"P2·AUD 1","rel":"media","motivo":"auditoria de conformidade"}
+{"id":"v1-12-02","codigo":"OUTRO","rel":"fora","motivo":"certidões"}
+{"id":"v1-12-03","codigo":"OUTRO","rel":"fora","motivo":"Java"}
+{"id":"v1-12-04","codigo":"OUTRO","rel":"fora","motivo":"Estado (P1)"}
+{"id":"v1-12-05","codigo":"P2·GOV 1","rel":"alta","motivo":"boa governança no setor público"}
+{"id":"v1-12-06","codigo":"OUTRO","rel":"fora","motivo":"liderança"}
+{"id":"v1-12-07","codigo":"OUTRO","rel":"fora","motivo":"funções do Estado (P1)"}
+{"id":"v1-12-08","codigo":"OUTRO","rel":"fora","motivo":"governo digital"}
+{"id":"v1-12-09","codigo":"OUTRO","rel":"fora","motivo":"DevOps"}
+{"id":"v1-12-10","codigo":"OUTRO","rel":"fora","motivo":"avaliações"}
+{"id":"v1-12-11","codigo":"OUTRO","rel":"fora","motivo":"SIEM"}
+{"id":"v1-12-12","codigo":"P2·DIR 3","rel":"alta","motivo":"controle interno x externo"}
+{"id":"v1-12-13","codigo":"P2·TRANSP 2","rel":"media","motivo":"princípio da finalidade LGPD"}
+{"id":"v1-12-14","codigo":"OUTRO","rel":"fora","motivo":"regressão"}
+{"id":"v1-12-15","codigo":"OUTRO","rel":"fora","motivo":"IA"}
+{"id":"v1-12-16","codigo":"P2·AUD 3","rel":"media","motivo":"documentação da evidência"}
+{"id":"v1-12-17","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-12-18","codigo":"OUTRO","rel":"fora","motivo":"segurança de redes"}
+{"id":"v1-12-19","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-12-20","codigo":"OUTRO","rel":"fora","motivo":"regressão"}
+{"id":"v1-12-21","codigo":"OUTRO","rel":"fora","motivo":"nuvem"}
+{"id":"v1-12-22","codigo":"P2·TRANSP 2","rel":"media","motivo":"direito de informação do titular"}
+{"id":"v1-12-23","codigo":"OUTRO","rel":"fora","motivo":"JSON/XML"}
+{"id":"v1-12-24","codigo":"P2·TRANSP 4","rel":"alta","motivo":"conselhos e controle social"}
+{"id":"v1-12-25","codigo":"OUTRO","rel":"fora","motivo":"redes"}
+{"id":"v1-12-26","codigo":"OUTRO","rel":"fora","motivo":"redação oficial"}
+{"id":"v1-12-27","codigo":"OUTRO","rel":"fora","motivo":"arquivologia"}
+{"id":"v1-12-28","codigo":"OUTRO","rel":"fora","motivo":"servidores municipais"}
+{"id":"v1-12-29","codigo":"P2·AUD 1","rel":"media","motivo":"auditoria de compliance"}
+{"id":"v1-12-30","codigo":"OUTRO","rel":"fora","motivo":"acumulação de cargos"}
+{"id":"v1-12-31","codigo":"OUTRO","rel":"fora","motivo":"ISO 27005"}
+{"id":"v1-12-32","codigo":"OUTRO","rel":"fora","motivo":"ISO 27001"}
+{"id":"v1-12-33","codigo":"OUTRO","rel":"fora","motivo":"criptografia"}
+{"id":"v1-12-34","codigo":"OUTRO","rel":"fora","motivo":"arquitetura"}
+{"id":"v1-12-35","codigo":"OUTRO","rel":"fora","motivo":"MFA"}
+{"id":"v1-12-36","codigo":"OUTRO","rel":"fora","motivo":"Python"}
+{"id":"v1-12-37","codigo":"OUTRO","rel":"fora","motivo":"regimento de tribunal"}
+{"id":"v1-12-38","codigo":"OUTRO","rel":"fora","motivo":"modelagem"}
+{"id":"v1-12-39","codigo":"P2·AUD 3","rel":"baixa","motivo":"entrevista como técnica de auditoria"}
+{"id":"v1-12-40","codigo":"OUTRO","rel":"fora","motivo":"comunicação pública"}
+{"id":"v1-12-41","codigo":"OUTRO","rel":"fora","motivo":"previdência"}
+{"id":"v1-12-42","codigo":"OUTRO","rel":"fora","motivo":"fundo de pensão"}
+{"id":"v1-12-43","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-12-44","codigo":"P2·AUD 1","rel":"alta","motivo":"auditoria governamental e melhoria de serviços"}
+{"id":"v1-12-45","codigo":"OUTRO","rel":"fora","motivo":"aquicultura"}
+{"id":"v1-12-46","codigo":"P2·AUD 4","rel":"alta","motivo":"divulgação de não conformidades"}
+{"id":"v1-12-47","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-12-48","codigo":"OUTRO","rel":"fora","motivo":"estratégia"}
+{"id":"v1-12-49","codigo":"OUTRO","rel":"fora","motivo":"penal"}
+{"id":"v1-12-50","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}

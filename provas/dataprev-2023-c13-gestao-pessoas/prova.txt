@@ -1,0 +1,406 @@
+CEBRASPE – DATAPREV – Edital: 2023
+
+89301301386950
+
+-- CONHECIMENTOS ESPECÍFICOS -OKR (objectives and key-results), ou objetivos e
+resultados-chave, é uma metodologia de gestão que funciona
+como um protocolo colaborativo de definição de metas para a
+organização, suas equipes e seus indivíduos. É importante para
+concentrar os esforços nos objetivos mais importantes e medir a
+evolução do plano com mais frequência. Com uma lógica simples
+e intuitiva, esse modelo, muito utilizado por empresas do Vale do
+Silício, vem revolucionando o modo como organizações lidam
+com planos, objetivos e metas, tornando o processo de gestão
+menos centralizado e mais colaborativo e transparente.
+Internet: <c2w.com.br> (com adaptações).
+
+Com relação à metodologia OKR no âmbito da estratégia
+organizacional, julgue os itens a seguir.
+51 A metodologia OKR prevê a definição dos objetivos,
+preferencialmente, em ciclos mais longos, com iniciativas
+que incentivem o alcance das metas com vinculação direta a
+bonificações, prêmios e ascensão profissional.
+52 Para a definição dos objetivos, a metodologia OKR utiliza
+predominantemente o modelo top-down, a fim de obter o
+alinhamento
+estratégico
+necessário
+para
+que
+a
+implementação dos objetivos ganhe força e velocidade junto
+às equipes.
+53 A utilização da metodologia OKR pode auxiliar na
+elaboração de planejamentos estratégicos, pois essa
+metodologia busca integrar os objetivos da instituição, da
+equipe e das pessoas em resultados cuja medição seja
+possível.
+54 Um diferencial da OKR para a criação de planejamento
+estratégico é a quantidade de objetivos: nessa metodologia,
+quanto mais objetivos, melhor, pois é possível fazer
+microgerenciamentos e criar pesos diferentes para cada
+objetivo, o que é mais eficiente que definir poucos objetivos.
+Em relação ao desenvolvimento estratégico de recursos
+humanos (DERH), julgue os itens que se seguem.
+A gestão estratégica de recursos humanos tem como
+premissa a adoção de iniciativas de desenvolvimento gerais,
+em detrimento das específicas, para que não haja alterações
+drásticas nas capacitações em razão de mudanças,
+atualmente muito frequentes, na estratégia organizacional.
+56 O DERH é o conjunto de atividades coerentes de
+aprendizagem e desenvolvimento que estão verticalmente
+alinhadas e horizontalmente integradas e que contribuem
+para o alcance dos objetivos estratégicos.
+57 O profissional de gestão deve apresentar três grupos
+principais de habilidades: técnicas, humanas e conceituais;
+no caso do gestor que trabalha com o DERH, as habilidades
+conceituais são mais relevantes que as técnicas, uma vez que
+aquelas permitem obter, analisar e interpretar informações de
+várias fontes e, a partir disso, tomar decisões complexas.
+58 Para o DERH, o envolvimento e o comprometimento dos
+gestores de linha com as iniciativas de desenvolvimento são
+de suma importância, pois eles são os executores das
+estratégias, enquanto a alta direção somente manifesta sua
+vontade e fornece suporte no desenho do plano estratégico
+organizacional.
+55
+
+A respeito do uso da metodologia ágil na gestão por processos,
+julgue os itens subsequentes.
+59 Na fase de melhoria de processos, identificam-se os
+problemas e priorizam-se aqueles que serão resolvidos
+primeiro, buscando-se entender a real melhoria requerida no
+processo mapeado e propondo-se soluções específicas.
+60 Na gestão por processos, a metodologia ágil pode ser útil na
+medida em que permite que se produza um primeiro
+rascunho em pouco tempo para feedback imediato, em vez
+de se esperar meses por um processo que pode não atender
+mais ao contexto.
+61 Segundo os princípios e as ferramentas da metodologia ágil
+no mapeamento de processos, em vez de mapear todos os
+processos da organização de uma só vez, o mais adequado é
+dividi-los em grupos e priorizar aqueles que sejam mais
+importantes.
+62 Apesar de funcionarem bem para grandes processos e
+projetos em razão de sua macroescala, as ferramentas ágeis
+têm aplicabilidade reduzida quando se trata de processos
+pequenos e fragmentados.
+Acerca das funções administrativas e dos processos
+administrativos, julgue os itens seguintes.
+63 A fase de planejamento tem por objetivo determinar as
+atividades e os recursos necessários para atingir os objetivos
+da organização, além de determinar diretrizes e estratégias
+para alcançá-los.
+64 Sabendo-se que as funções administrativas podem ser
+divididas nos níveis estratégico, tático e operacional, é
+correto afirmar que as funções de nível tático concentram
+atividades de planejamento, organização e controle, de forma
+coordenada, com o propósito de atingir os objetivos macro
+da organização.
+65 Entre as atribuições do administrador, estão a análise de
+cenários, pesquisas com parceiros, definição dos objetivos,
+diagnóstico de problemas, a aprendizagem contínua e a
+busca por inovações.
+66 No contexto da administração pública, uma secretaria
+municipal de saúde que desenvolve determinado projeto para
+um programa de saúde da família exerce função de nível
+tático.
+As práticas relacionadas a ESG (environmental, social and
+governance) — ou aspectos ambientais, sociais e de
+governança (ASG) — têm ganhado cada vez mais força tanto
+em instituições privadas quanto em instituições públicas que
+buscam minimizar seus danos ambientais, gerar benefícios
+sociais e otimizar seus processos administrativos. No que se
+refere às iniciativas organizacionais ligadas a ASG, julgue os
+próximos itens.
+67 Apesar de não fazerem parte do escopo das ações de ASG,
+mas, sim, da ética corporativa, as iniciativas de
+enfrentamento ao assédio e aos crimes sexuais têm-se
+tornado mais frequentes nas instituições, a fim de se obter
+valorização e respeito em prol de relações de trabalho mais
+humanas.
+68 Embora as ações de ASG sejam importantes para a imagem
+das instituições, que podem se tornar referência em
+responsabilidades sociais, a mínima influência dessas ações
+nos resultados corporativos muitas vezes afasta desse tipo de
+iniciativa o apoio da alta administração e da estratégia das
+organizações.
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+89301301386950
+
+Considere-se que Jonas seja um gestor público que tenha
+proposto a adoção da coleta seletiva em sua unidade, com a
+utilização de cestos coletores já disponibilizados pela área de
+logística, e que ele tenha apresentado, também, ideias para
+motivar a equipe em favor dessa coleta seletiva. Nesse caso,
+as ações de Jonas serão tratadas como atos isolados, e não
+como ações ASG, pois representam iniciativas individuais, e
+não corporativas.
+70 Os aspectos relacionados a ASG são parte importante da
+gestão pública, inclusive no que se refere a licitações, em
+que são considerados critérios relativos à responsabilidade
+socioambiental das empresas contratadas pela administração
+pública.
+69
+
+Acerca da gestão de pessoas no contexto das organizações
+modernas, julgue os itens a seguir.
+71 A função de gestão de pessoas em uma organização pode ser
+vista tanto como uma função de linha, exercida diretamente
+por gestores que são responsáveis pelos resultados de
+equipes e pessoas, quanto como uma função de staff,
+exercida por especialistas que buscam elaborar e
+implementar políticas e práticas ligadas a aspectos como
+atração, manutenção e desenvolvimento de pessoas.
+72 Uma das principais evoluções que se percebe no processo
+moderno de gestão de pessoas é a mudança na visão a
+respeito do trabalhador, que passa a ser visto como um
+parceiro de negócios, que contribui ativamente para a
+geração de vantagens competitivas.
+73 Um dos maiores desafios da atualidade é inserir, no contexto
+da gestão de pessoas, uma integração entre os diversos dados
+e informações de que a organização dispõe a respeito de seus
+empregados e a formulação das políticas e práticas de gestão
+de pessoas em prol da melhoria do desempenho
+organizacional.
+74 O subprocesso de agregar pessoas envolve a capacitação dos
+empregados e a avaliação de desempenhos, a fim de
+identificar os conhecimentos, as habilidades e as atitudes que
+devem ser aprimorados.
+75 A seleção de pessoal é um processo que deve ser conduzido
+exclusivamente pelo especialista em gestão de pessoas, não
+sendo recomendada a participação do gestor responsável pela
+área da vaga, justamente para evitar parcialidades no
+processo.
+No que se refere aos subprocessos de gestão de pessoas nas
+organizações contemporâneas, julgue os itens subsequentes.
+76 O processo de aplicar pessoas engloba as atividades relativas
+ao desenho de cargos, à orientação de pessoas e à gestão do
+desempenho.
+77 A avaliação ou o monitoramento do desempenho deve
+considerar apenas os aspectos comportamentais dos
+indivíduos, devendo-se evitar uma avaliação sobre os
+resultados das equipes ou da organização como um todo.
+78 O processo de recompensar pessoas engloba a definição da
+remuneração, dos incentivos e dos benefícios a serem
+oferecidos aos empregados em função dos cargos que
+ocupam e(ou) das contribuições que trazem para os
+resultados organizacionais.
+79 No processo de avaliação de desempenho de um indivíduo
+em uma organização, o gestor deve evitar que um atributo
+muito forte contamine a visão dos demais atributos a serem
+avaliados, prevenindo, assim, um vício de avaliação
+chamado de tendência central.
+80 As políticas e atividades ligadas à promoção da qualidade de
+vida no trabalho e da saúde física e mental dos empregados
+fazem parte do subprocesso de manter pessoas.
+
+81
+
+Programas de qualidade de vida devem conter apenas ações
+ligadas ao bem-estar momentâneo do trabalhador, tais como
+massagem e ginástica laboral, uma vez que aspectos ligados
+ao volume e às condições de trabalho são estruturais,
+portanto, de pouco valor para a promoção da qualidade de
+vida no trabalho.
+
+Com relação à gestão por competências e ao desenvolvimento de
+pessoas, julgue os próximos itens.
+82 A gestão por competências é definida como a combinação
+sinérgica de conhecimentos, habilidades e atitudes,
+evidenciada pelo desempenho do indivíduo no exercício do
+trabalho.
+83 O desenvolvimento gerencial é de responsabilidade
+exclusiva da organização, já que ela é a principal interessada
+em ter gestores qualificados para ocupar as posições
+estratégicas da empresa.
+84 A gestão por competências serve exclusivamente para que se
+consiga avaliar necessidades ligadas à melhoria da
+capacitação e da qualificação profissional dos empregados,
+não tendo qualquer relação com outros subprocessos de
+gestão de pessoas.
+85 Um benefício da gestão por competências é a possibilidade
+de mapear as competências necessárias para o exercício de
+atividades de liderança em uma organização.
+Com relação ao clima e à cultura organizacionais, bem como à
+gestão da mudança no contexto das organizações, julgue os
+seguintes itens.
+86 A cultura de uma organização é o conjunto dos pressupostos
+básicos que são compartilhados pelos seus membros e que
+guiam o comportamento deles.
+87 O clima organizacional envolve a dimensão psicológica no
+contexto do trabalho e resulta das percepções dos
+empregados acerca das políticas, práticas e relações dentro
+da organização.
+88 O clima organizacional pouco influencia no processo de
+mudança em uma organização, pois as pessoas, em geral, são
+resistentes a novidades.
+89 As mudanças organizacionais podem ser implementadas sem
+necessidade de um planejamento detalhado, uma vez que
+elas impactam positivamente o clima de uma organização e
+geralmente envolvem melhorias facilmente percebidas.
+No que se refere ao aprendizado e ao desenvolvimento de
+pessoas no contexto organizacional, julgue os itens que se
+seguem.
+90 O desenvolvimento de pessoas compreende o processo
+contínuo de preparação, aprendizado e aperfeiçoamento,
+sendo de responsabilidade exclusiva do empregado, pois
+envolve prioritariamente seu desenvolvimento profissional.
+91 Embora a aprendizagem seja um processo que ocorre no
+âmbito do indivíduo, as equipes e organizações, ao longo do
+tempo e por meio de estratégias de explicitação do
+conhecimento adquirido, também podem aprender.
+92 Programas e trilhas de aprendizagem podem ser mecanismos
+usados para o desenvolvimento de pessoas, pois conciliam a
+perspectiva do autodesenvolvimento com as necessidades
+corporativas.
+93 Com o intuito de tornar as ações de treinamento mais
+efetivas, é importante adotar métodos e estratégias
+modernos, tais como a gamificação, o uso de dinâmicas de
+grupo ou a combinação de ensino presencial com ensino a
+distância.
+94 O mapeamento de lacunas entre as competências requeridas
+de um cargo e as competências do seu ocupante oferece
+subsídios relevantes para o diagnóstico das necessidades de
+treinamento.
+
+89301301386950
+
+95
+
+A definição dos programas de treinamento deve ser norteada
+a partir da solicitação e da manifestação de interesse dos
+empregados, sem relação direta com o diagnóstico de
+necessidades de treinamento da organização.
+
+96
+
+O projeto instrucional de uma ação de treinamento deve
+considerar aspectos relevantes das teorias de aprendizagem,
+tais como os domínios e as hierarquias de aprendizagem.
+
+97
+
+A avaliação do treinamento corresponde somente à
+percepção de satisfação dos participantes, isto é, se os
+participantes gostaram ou não da experiência do treinamento.
+
+98
+
+O treinamento contribui com o processo de gestão do
+conhecimento em uma organização, uma vez que fornece
+espaços adequados para o compartilhamento de
+conhecimentos.
+
+Acerca de motivação, comprometimento e satisfação no trabalho,
+julgue os itens subsecutivos.
+99
+
+Consoante a teoria dos dois fatores de Hezberg, a
+possibilidade de se desenvolver na carreira ou mesmo de
+desenvolver um trabalho que tenha sentido é uma questão
+higiênica, por isso não basta para gerar comprometimento
+com o trabalho e apenas regula o processo de insatisfação.
+
+100 Apesar de ser um fator intrínseco a cada ser humano, a
+
+motivação dos indivíduos pode ser estimulada por um estilo
+de liderança compatível com o grau de maturidade da
+equipe, de modo a favorecer seu comprometimento com o
+trabalho.
+Considerando as disposições da Consolidação das Leis do
+Trabalho (CLT), julgue os seguintes itens, relativos a rescisão e
+alteração do contrato de trabalho, aviso prévio, convenções e
+acordos coletivos de trabalho e aspectos referentes à jornada
+de trabalho.
+101 No contrato de trabalho extinto mediante acordo entre
+
+empregado e empregador, o empregado terá direito à metade
+do valor devido a título de aviso prévio indenizado.
+102 Conforme a CLT, a lei terá prevalência sobre a convenção
+
+coletiva de trabalho quando dispuser sobre intervalo
+intrajornada, desde que respeitado o limite mínimo de
+trinta minutos para jornada superior a seis horas.
+103 Nos contratos em que não esteja previsto revezamento
+
+quinzenal ou semanal de trabalho, a remuneração da hora
+noturna, definida como equivalente a 52 minutos e
+30 segundos, deve ser superior à da diurna.
+104 A determinação do empregador para que, sem justo motivo,
+
+o empregado deixe de exercer a função de confiança e
+reverta ao cargo efetivo anteriormente ocupado gera o direito
+à incorporação da gratificação de função ao salário caso a
+função tenha sido exercida por mais de cinco anos.
+105 O regime de compensação de jornada pode ser estabelecido
+
+por acordo individual tácito entre empregado e empregador,
+caso em que a compensação será no mesmo mês.
+
+CEBRASPE – DATAPREV – Edital: 2023
+
+No que diz respeito a férias, segurança e medicina do trabalho,
+proteção ao trabalho do menor, suspensão e interrupção do
+contrato de trabalho, salário e remuneração, julgue os itens
+seguintes.
+106 Integram o salário do obreiro, para todos os efeitos, os
+valores relativos à matrícula e mensalidade pagos pelo
+empregador para a conclusão dos estudos do empregado em
+instituição de ensino superior.
+107 As férias serão concedidas por ato do empregador e poderão
+ser iniciadas em dia que anteceda feriado ou repouso
+semanal remunerado.
+108 É considerada insalubre a atividade que, por seu método de
+trabalho, exponha o empregado a agente nocivo à saúde,
+acima dos limites de tolerância fixados e não neutralizados
+pelo uso de equipamentos de proteção individual.
+109 Conforme legislação vigente, é proibida a menores de
+quinze anos de idade a realização de qualquer modalidade de
+contrato de trabalho, e tal proibição somente poderá ser
+suprimida por autorização judicial.
+110 O empregado poderá deixar de comparecer ao serviço por até
+três dias, a cada doze meses de trabalho, para
+comprovadamente realizar exames preventivos de câncer,
+sem prejuízo do salário.
+Julgue os seguintes itens, acerca da seguridade social.
+111 A seguridade social compreende um conjunto integrado de
+ações de iniciativa dos poderes públicos e da sociedade,
+destinadas a assegurar os direitos relativos à saúde, à
+previdência e à assistência social.
+112 A universalidade da cobertura e do atendimento e a equidade
+na forma de participação do custeio constituem princípios
+e objetivos da seguridade social.
+113 O princípio da irredutibilidade dos benefícios não é aplicável
+à seguridade social.
+Em relação ao regime geral de previdência social (RGPS), julgue
+os itens subsequentes.
+114 São segurados facultativos do RGPS o ministro de confissão
+religiosa e o membro de instituto de vida consagrada, de
+congregação ou de ordem religiosa.
+115 É empregado doméstico aquele que presta serviço de
+natureza contínua a pessoa ou família, no âmbito residencial
+desta, em atividades com ou sem fins lucrativos.
+116 É contribuinte individual da previdência social a pessoa
+física que exerce, por conta própria, atividade econômica de
+natureza urbana, ainda que sem fins lucrativos.
+117 A filiação e contribuição para o RGPS, na condição de
+segurado facultativo, são vedadas aos menores de 18 anos
+de idade.
+Julgue os próximos itens, no que diz respeito ao plano de
+benefícios da previdência social.
+118 O serviço social e a reabilitação profissional são devidos
+tanto aos segurados do RGPS quanto aos seus dependentes.
+119 No caso de falecimento da segurada ou segurado que fizer
+jus ao recebimento do salário-maternidade, o benefício será
+pago, por todo o período ou pelo tempo restante a que teria
+direito, ao cônjuge ou companheiro sobrevivente que tenha a
+qualidade de segurado, exceto no caso do falecimento do
+filho ou de seu abandono.
+120 Independe de carência a concessão do benefício de
+salário-maternidade para as seguradas empregada,
+empregada doméstica e trabalhadora avulsa.
+
+

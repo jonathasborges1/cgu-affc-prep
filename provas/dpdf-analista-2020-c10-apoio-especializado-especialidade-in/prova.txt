@@ -1,0 +1,415 @@
+    548010_01N536447
+
+Nos itens que avaliarem conhecimentos de informática e(ou)
+informado o contrário, considere que todos os programas mencio
+proteção, de funcionamento e de uso em relação aos programas, arq
+
+                             -- CONHECIMENTOS
+Julgue os itens a seguir, acerca de CSS3, JMS, JSON e JUnit.
+51 Na definição de métodos de teste em JUnit, a anotação
+    @BeforeClass pode ser usada em métodos que
+    implementem atividades que consomem muito tempo.
+52 Quando se utiliza CSS3, para que os flex items sejam
+    apresentados na mesma ordem em que aparecem no HTML,
+    é necessário atribuir o valor 1 à propriedade order.
+53 Mensagens trocadas por meio de JMS têm como principal
+    característica e vantagem a entrega garantida.
+54 Datas devem ser escritas como strings para que sejam
+    utilizadas em JSON.
+Julgue os próximos itens, a respeito de Spring Framework,
+JDBC, iText, Java 8 e Apache CXF.
+55 No Spring Framework, a anotação @RequestClass é usada
+    para que a aplicação saiba a requisição que deve ser tratada
+    pelo @Controller.
+56 O framework Apache CXF permite que a transmissão de
+    dados binários seja feita por meio de mensagens MIME, o
+    que traz eficiência à transmissão.
+57 Em JDBC, o método executeUpdate() pode ser usado
+    para realizar um update em banco de dados, caso em que
+    esse método recebe uma expressão SQL cujos valores de
+    retorno serão tratados por um ResultSet.
+58 Ao se usar o iText para criar um arquivo PDF a partir de um
+    conjunto de dados extraídos de um banco de dados, novas
+    páginas PDF serão criadas automaticamente, caso sejam
+    necessárias.
+59 No Java 8, o uso do método map() permite aplicar uma
+    função a todos os elementos de um stream.
+Acerca do framework Zend, de JPA, do desenvolvimento para
+dispositivos móveis e de PHP, julgue os itens seguintes.
+60 Para implementar callbacks em PHP, podem ser utilizadas as
+    funções variáveis que são suportadas pelo PHP.
+61 No service manager do framework Zend, a opção de
+    configuração shared_by_default é usada para indicar que
+    apenas alguns serviços padrão serão compartilhados.
+62 O suporte que o JPA 2.0 oferece para ordenação é
+    insuficiente para a manutenção de uma ordenação
+    persistente.
+63 No desenvolvimento de aplicações nativas para dispositivos
+    móveis, apesar de se perder em portabilidade, é possível
+    acessar sensores como câmera e GPS.
+Julgue os próximos itens, relativos à análise estática de código-
+fonte.
+64 SonarQube, usando o Jenkins, pode realizar análises em
+    branches de códigos PHP e Java, e o resultado dessa análise
+    pode avaliar problemas de qualidade tais como bug,
+    vulnerabilidade e code smell.
+65 A seguir, é apresentado um bom exemplo de código, de
+    acordo com clean code.
+
+    int a = l;
+    if ( O == l )
+         a = O1;
+    else
+         l = 01;
+
+                               CEBRASPE | DPDF – Edital: 2020
+
+) tecnologia da informação, a menos que seja explicitamente
+onados estão em configuração padrão e que não há restrições de
+quivos, diretórios, recursos e equipamentos mencionados.
+
+ ESPECIALIZADOS --
+  Considere que um sistema deva ser desenvolvido com os
+  seguintes requisitos:
+
+      I arquitetura distribuída;
+      II componentes de sistema como serviços autônomos;
+      III plataforma e implementação independentes de
+          linguagem;
+      IV mecanismos básicos para a troca de informações
+          baseados em XML.
+
+  A partir dessa situação hipotética, julgue os itens a seguir,
+  relativos a arquitetura orientada a serviços (SOA) e web services.
+  66 A criação de serviços por meio de web services atende os
+       requisitos II e III, desde que esses serviços não sejam
+       realizados por meio de REST, uma vez que, no RESTful, as
+       transações são inter-relacionadas, ou seja, não pode haver
+       serviços autônomos.
+  67 Para atender os requisitos I e IV, é correto utilizar SOA, que,
+       além de ser uma forma de desenvolvimento de sistemas
+       distribuídos por meio de protocolos de web services, possui
+       mecanismos básicos para a troca de informações de serviço
+       (SOAP) e padrões de linguagem da programação (WS-
+       BPEL) baseados em XML.
+  Considere que uma arquitetura deva ser definida de acordo com
+  os seguintes requisitos.
+
+      I   A arquitetura deve ser em camadas, de modo que uma
+          camada forneça serviços à camada acima dela.
+      II A arquitetura deve permitir que os dados sejam alterados
+          de forma independente de sua representação, e vice-
+          versa.
+      III A arquitetura deve permitir várias maneiras de visualizar
+          os dados e de interagir com eles.
+
+  A partir dessa situação hipotética, julgue os itens subsequentes, a
+  respeito de arquitetura de software.
+  68 Para atender os requisitos II e III, é correto utilizar a
+      arquitetura modelo-visão-controlador (MVC): o componente
+      modelo gerencia o sistema de dados e as operações
+      associadas a esses dados; a visão define e gerencia o modo
+      como os dados são apresentados ao usuário; e o controlador
+      gerencia as interações do usuário e as passa para os demais
+      componentes.
+  69 Para atender o requisito I, é correto desenvolver o sistema
+      usando-se três camadas; nesse caso, desde que a interface
+      seja mantida, permite-se a substituição de camadas inteiras,
+      ainda que os requisitos não funcionais dependam da
+      arquitetura do sistema.
+  Acerca da arquitetura de aplicações para ambiente web, julgue o
+  próximo item.
+  70 Considere que uma arquitetura distribuída disponibilize
+      serviço na Web, contendo um servidor web, e que vários
+      clientes acessem esse servidor por meio de chamadas de
+      procedimento remoto, usando o HTTP. Nessa situação, a
+      arquitetura é do tipo cliente-servidor, em que o modelo
+      lógico de serviços independentes, rodando em servidores
+      separados, pode ser implementado em um único computador.
+
+     548010_01N536447
+
+Julgue os itens a seguir, relativos a WSDL, JSON, XML e XSLT.
+71   A estrutura a seguir descreve corretamente, na notação
+     JSON, um veículo da marca ABC, modelo G5 e ano 2019.
+     [marca:"ABC";modelo:"G5";ano:"2019"]
+72 WSDL é utilizada em web services para a definição de suas
+   interfaces em relação a três aspectos: o que faz o serviço,
+   como ele se comunica e onde encontrá-lo.
+73 O código a seguir está correto de acordo com os padrões da
+   sintaxe do XML.
+
+     <?xml version="1.0" encoding="UTF-8"?>
+     <menu>
+     <bebida>
+     <nome>Água<nome>
+     <preco>R$2,50<preco>
+     </bebida>
+     <bebida>
+     <nome>Vinho<nome>
+     <preco>R$32,50<preco>
+     </bebida>
+     </menu>
+Julgue os itens subsecutivos, com relação à qualidade de
+software.
+74 Ainda que os padrões de software permitam o
+     desenvolvimento de software de forma mais rápida e ágil,
+     eles não têm influência no gerenciamento de qualidade de
+     software.
+75 A qualidade de um software é objetiva, pois se baseia em
+     requisitos funcionais, ou seja, para ela ser atingida, é
+     suficiente que a funcionalidade de software seja
+     corretamente implementada.
+Julgue os itens seguintes, a respeito de gerenciamento de
+serviços, de acordo com a ITIL 4.
+76 O gerenciamento de riscos está contido no grupo de práticas
+    de gerenciamento de serviços da ITIL 4.
+77 O gerenciamento de serviços da ITIL possui quatro
+    dimensões: organizações e pessoas; informação e tecnologia;
+    parceiros e fornecedores; fluxos de valor e processos.
+78 O sistema de valor de serviço (SVS) é composto por cinco
+    componentes, dos quais o elemento central é a governança.
+Com relação ao gerenciamento de projetos segundo o PMBOK
+(6.a edição), julgue os itens que se seguem.
+79   O escritório de gerenciamento de projetos do tipo diretivo
+     exerce funções de apoio aos projetos da empresa, sem, no
+     entanto, se envolver diretamente com o gerenciamento dos
+     projetos.
+80   O termo de abertura do projeto confere autoridade ao gerente
+     de projeto, para que este o inicie oficialmente, sem a
+     obrigação de conter um escopo delimitado do projeto.
+81   Segundo o PMBOK (6.a edição), além da capacidade de
+     liderança e domínio de técnicas de gerenciamento de
+     projetos, são esperadas do gerente de projetos habilidades na
+     gestão estratégica e de negócios.
+82   A estimativa de custos do projeto é detalhada como resultado
+     de atividades realizadas pelo grupo de processos de iniciação
+     do projeto.
+83   A entrada principal para a elaboração da estrutura analítica
+     do projeto (EAP) é o plano de gerenciamento de recursos do
+     projeto.
+
+                             CEBRASPE | DPDF – Edital: 2020
+
+Julgue os itens subsecutivos, relativos a qualidade de software e a
+disposições do COBIT 5 e da NBR ISO/IEC 38500:2015.
+84   De acordo com o COBIT 5, uma das dimensões de um
+     habilitador são as partes interessadas, que necessariamente
+     são internas à organização e têm suas próprias necessidades.
+85   Segundo a NBR ISO/IEC 38500:2015, as aquisições devem
+     ser feitas por razões válidas, a partir de uma análise que
+     priorize o custo e o benefício nelas envolvidos.
+86   Na avaliação da qualidade de software, métricas dinâmicas
+     de produtos de software podem ser usadas como forma de
+     ajudar na avaliação da eficiência e confiabilidade do
+     programa.
+87   A definição e o uso de um processo de desenvolvimento de
+     software determinam a qualidade do software, por meio da
+     padronização das atividades e dos produtos gerados.
+
+Acerca da capacidade e maturidade de processos, julgue os itens
+que se seguem, tendo como referência a norma ISO/IEC 12207 e
+o MPS.BR.
+88   Segundo o MPS.BR, para que uma empresa possa ser
+     enquadrada no nível de maturidade E, é necessário que o seu
+     processo de gerência de projetos seja capaz de identificar
+     oportunidades de melhoria a partir de resultados
+     provenientes de análise causa-raiz.
+89   Segundo a norma ISO/IEC 12207, a implementação do
+     processo denominado garantia de qualidade deve contemplar
+     procedimentos para a coleta e disponibilização dos registros
+     de qualidade.
+90   De acordo com o MPS.BR, na implementação do processo
+     de gerenciamento de risco, a organização deve estabelecer
+     critérios quantitativos para a determinação da probabilidade
+     e severidade dos riscos.
+
+Acerca de gestão de segurança da informação, julgue os itens a
+seguir, considerando a NBR ISO/IEC 27001:2013 e a NBR
+ISO/IEC 27002:2013.
+91   Uma política de desenvolvimento seguro de sistemas deve
+     considerar a capacidade de evitar, encontrar e corrigir
+     vulnerabilidades como uma atribuição da gerência de
+     segurança da informação, com a colaboração técnica dos
+     desenvolvedores apenas eventualmente.
+92   Uma política de uso aceitável dos ativos de informação,
+     subsidiária à política de segurança da informação, estabelece
+     requisitos e regras de segurança da informação para acesso a
+     esses ativos, bem como a responsabilização decorrente de
+     seu uso.
+93   O armazenamento de backups em locais seguros externos à
+     organização deve ser considerado no estabelecimento de
+     ambientes de desenvolvimento seguro para esforços de
+     desenvolvimento específicos.
+94   O valor de cada ativo de informação classificado na
+     organização deve ser atualizado de acordo com o custo de
+     produção ou aquisição, corrigido por fatores de depreciação
+     propostos em compilações de boas práticas de gestão.
+
+     548010_01N536447
+
+Julgue os itens subsequentes, a respeito de aquisição,
+desenvolvimento e manutenção de sistemas, organização da
+segurança da informação e segurança em recursos humanos.
+95   Um processo de manutenção que implique mudanças
+     maiores em um sistema existente inclui uma avaliação de
+     riscos e uma especificação dos controles de segurança
+     requeridos.
+96   Funcionário responsável pela segurança da informação de
+     uma organização pode delegar tarefas de segurança da
+     informação a outros funcionários, desde que permaneça
+     responsável e indique se as tarefas delegadas estão sendo
+     corretamente executadas.
+97   Os requisitos de segurança da informação e as
+     responsabilidades contidas em acordos de confidencialidade
+     cessam automaticamente por ocasião da demissão de um
+     funcionário da organização, independentemente de
+     constarem expressas quaisquer obrigações pós-contratuais
+     nos termos da comunicação de demissão.
+98   Diferentemente o que ocorre com os projetos relacionados a
+     processos críticos para o negócio, aos projetos de TI deve ser
+     assegurada a identificação dos riscos por meio da integração
+     da segurança da informação aos métodos de gerenciamento
+     de projeto da organização.
+
+Acerca da gestão de incidentes e da continuidade de negócios,
+julgue os itens que se seguem.
+99   A continuidade de negócios está associada à capacidade de a
+     organização que sofrer uma perda ou incidente inesperado
+     definir novos serviços e produtos para garantir a sua
+     sobrevivência a níveis aceitáveis.
+100 A notificação de um incidente de segurança da informação
+     deve indicar o responsável pelo computador em que se
+     originou o incidente.
+101 Qualquer tentativa de invasão a um ambiente computacional
+     é considerada um crime cibernético e, portanto, deve ser
+     comunicada à polícia.
+102 A técnica de análise de impacto nos negócios, ou business
+     impact analysis (BIA), tem como resultados uma lista de
+     prioridade de processos críticos e o respectivo impacto
+     financeiro ou operacional oriundos de perdas nos processos.
+
+Julgue os próximos itens, a respeito da conformidade e gestão de
+riscos.
+103 Em uma organização, a conformidade em segurança da
+     informação deve ser considerada tanto à luz da política de
+     segurança da informação interna quanto da legislação
+     vigente.
+104 O risco é o efeito da incerteza sobre os objetivos, muitas
+     vezes identificado a partir a análise da probabilidade e do
+     impacto de um evento ocorrer.
+105 A análise de riscos consiste na atividade de cálculo de
+     probabilidade por meio apenas de avaliações quantitativas.
+
+                               CEBRASPE | DPDF – Edital: 2020
+
+Acerca da contratação de bens e serviços de TI, julgue os
+próximos itens.
+106 De acordo com a Lei n.º 8.666/1993 e suas alterações, nas
+    contratações para aperfeiçoamento de sistemas de TI
+    considerados estratégicos em ato do Poder Executivo federal,
+    a licitação poderá ser restrita a bens e serviços com
+    tecnologia desenvolvida no Brasil.
+107 Segundo a Lei n.º 8.666/1993 e suas alterações, o tipo de
+    licitação melhor técnica deve ser utilizado exclusivamente
+    para serviços de natureza predominantemente intelectual,
+    como fiscalização e elaboração de estudos técnicos
+    preliminares, não se aplicando às contratações de bens e
+    serviços de informática.
+108 De acordo com a Lei n.º 10.520/2002, na fase externa do
+    pregão, será vencedor o autor da oferta de menor valor,
+    porém, ainda no curso da sessão, todos os concorrentes que
+    tenham oferecido preços até 10% superiores à oferta
+    vencedora poderão oferecer novos lances, desde que o valor
+    desses novos lances seja inferior a 10% da melhor oferta.
+
+Julgue os itens a seguir, relativos a elaboração e fiscalização de
+contratos de tecnologia da informação e comunicação (TIC), de
+acordo com a Instrução Normativa n.º 1/2019 do MPOG/SLTI.
+109 A equipe de planejamento da contratação é responsável por
+    avaliar a necessidade de contratações separadas para os itens
+    que, devido a sua natureza, possam ser divididos em tantas
+    parcelas quantas se comprovarem tecnicamente viáveis, pois
+    mais de uma solução de TIC não poderá ser objeto de um
+    único contrato.
+110 Nos casos em que o objeto de contratação seja destinado
+    para apoio à fiscalização de solução de TIC, a contratada que
+    provê a solução de TIC não poderá ser a mesma que apoia a
+    fiscalização.
+111 O modelo de gestão do contrato deverá contemplar a fixação
+    dos critérios de aceitação dos serviços prestados, incluindo
+    métricas e níveis mínimos de serviços com os valores
+    aceitáveis dos elementos que compõem a solução contratada.
+112 No modelo de execução do contrato, devem constar a
+    fixação dos critérios de aceitação dos serviços e os valores
+    dos níveis mínimos de serviços prestados, assim como os
+    procedimentos a serem adotados na hipótese de a contratada
+    não atingir os valores fixados nesses critérios.
+113 Em se tratando da gestão do contrato, se a contratada não
+    produzir os resultados ou deixar de executar as atividades
+    contratadas, será permitida a fixação dos valores ou a glosa
+    no pagamento, sendo vedados, nesse caso, procedimentos
+    que ensejem a retenção no pagamento.
+
+      548010_01N536447
+
+Acerca do papel dos responsáveis pela fiscalização e pelo
+acompanhamento de contratos, julgue os seguintes itens.
+
+114 Em       caso      de     compra    de      computadores      por     ente
+      governamental, caberá ao gestor do contrato receber,
+      diligenciar e responder eventual questionamento técnico
+      relacionado ao modelo dos processadores incorporados aos
+      computadores adquiridos.
+
+115 O fiscal administrativo do contrato é servidor com
+
+      atribuições gerenciais designado para coordenar e comandar
+      o processo de gestão e fiscalização da execução contratual.
+
+          Na vigência de um contrato de prestação de serviços de TI
+firmado pelo governo federal, a contratada tem prestado serviços
+com       evidente         baixa   qualidade,     não     tem     cumprido
+sistematicamente os prazos e tem entregado produtos com
+deficiência funcional generalizada.
+
+Considerando a situação hipotética precedente, julgue os itens a
+seguir.
+
+116 A avaliação da qualidade dos serviços realizados, a partir da
+
+      aplicação de listas de verificação e de acordo com os
+      critérios       de    aceitação    definidos       em   contrato,     é
+      reponsabilidade do fiscal administrativo do contrato.
+
+117 Eventual aplicação das sanções de advertência e multa é
+
+      responsabilidade da área administrativa, ao passo que as
+      sanções de suspensão temporária de participação em
+      licitação e de declaração de inidoneidade, quando cabíveis,
+      são de competência exclusiva de ministro de Estado.
+
+118 É responsabilidade do gestor do contrato, com base na
+
+      avaliação de fiscalização, indicar à área administrativa as
+      glosas e sanções legais aplicáveis à contratada.
+
+À luz da Lei nº 12.527/2011 — Lei de Acesso à Informação,
+julgue os itens subsequentes.
+
+119 É vedada pela Lei de Acesso à Informação a restrição de
+
+      acesso      a    documentos       que     versem    sobre    condutas
+      relacionadas à violação dos direitos humanos praticada por
+      agentes públicos ou a mando de autoridades públicas.
+
+120 Sociedades de economia mista e entidades controladas direta
+
+      ou indiretamente pela União, pelos estados, pelo Distrito
+      Federal e pelos municípios subordinam-se à Lei de Acesso à
+      Informação.
+
+               CEBRASPE | DPDF – Edital: 2020
+
+Espaço livre
+

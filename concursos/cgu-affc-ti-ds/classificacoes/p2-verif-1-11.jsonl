@@ -1,0 +1,50 @@
+{"id":"v1-11-01","codigo":"OUTRO","rel":"fora","motivo":"medicina"}
+{"id":"v1-11-02","codigo":"OUTRO","rel":"fora","motivo":"gestores de TI"}
+{"id":"v1-11-03","codigo":"OUTRO","rel":"fora","motivo":"machine learning"}
+{"id":"v1-11-04","codigo":"P2·AUD 1","rel":"alta","motivo":"independência e responsabilidade de gestão"}
+{"id":"v1-11-05","codigo":"OUTRO","rel":"fora","motivo":"planejamento estratégico"}
+{"id":"v1-11-06","codigo":"OUTRO","rel":"fora","motivo":"servidores"}
+{"id":"v1-11-07","codigo":"P2·DIR 3","rel":"alta","motivo":"controle externo pelo tribunal de contas"}
+{"id":"v1-11-08","codigo":"OUTRO","rel":"fora","motivo":"intervenção estatal (P1)"}
+{"id":"v1-11-09","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-11-10","codigo":"OUTRO","rel":"fora","motivo":"RPA"}
+{"id":"v1-11-11","codigo":"P2·AUD 1","rel":"alta","motivo":"auditoria interna e governança"}
+{"id":"v1-11-12","codigo":"OUTRO","rel":"fora","motivo":"auditoria contábil"}
+{"id":"v1-11-13","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-11-14","codigo":"P2·TRANSP 5","rel":"baixa","motivo":"liberdade de expressão e imprensa"}
+{"id":"v1-11-15","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-11-16","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-11-17","codigo":"OUTRO","rel":"fora","motivo":"saúde"}
+{"id":"v1-11-18","codigo":"P2·EVID 2","rel":"baixa","motivo":"análise exploratória de dados"}
+{"id":"v1-11-19","codigo":"OUTRO","rel":"fora","motivo":"eletrônica"}
+{"id":"v1-11-20","codigo":"P2·TRANSP 5","rel":"media","motivo":"livre circulação de informações"}
+{"id":"v1-11-21","codigo":"OUTRO","rel":"fora","motivo":"civil"}
+{"id":"v1-11-22","codigo":"P2·GOV 2","rel":"baixa","motivo":"componentes do risco de auditoria"}
+{"id":"v1-11-23","codigo":"OUTRO","rel":"fora","motivo":"gestão de pessoas"}
+{"id":"v1-11-24","codigo":"OUTRO","rel":"fora","motivo":"metadados"}
+{"id":"v1-11-25","codigo":"P2·AUD 3","rel":"alta","motivo":"suficiência e adequação do conjunto de evidências"}
+{"id":"v1-11-26","codigo":"OUTRO","rel":"fora","motivo":"amostragem em banco de dados"}
+{"id":"v1-11-27","codigo":"OUTRO","rel":"fora","motivo":"telecom"}
+{"id":"v1-11-28","codigo":"P2·DIR 3","rel":"baixa","motivo":"multa do tribunal de contas"}
+{"id":"v1-11-29","codigo":"OUTRO","rel":"fora","motivo":"IDS"}
+{"id":"v1-11-30","codigo":"OUTRO","rel":"fora","motivo":"química"}
+{"id":"v1-11-31","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-11-32","codigo":"OUTRO","rel":"fora","motivo":"segurança da informação"}
+{"id":"v1-11-33","codigo":"P2·AUD 3","rel":"baixa","motivo":"confirmação externa"}
+{"id":"v1-11-34","codigo":"P2·DIR 4","rel":"media","motivo":"improbidade e sanção"}
+{"id":"v1-11-35","codigo":"P2·TRANSP 2","rel":"media","motivo":"princípio da adequação LGPD"}
+{"id":"v1-11-36","codigo":"P2·GOV 2","rel":"baixa","motivo":"risco inerente e de detecção"}
+{"id":"v1-11-37","codigo":"P2·DIR 1","rel":"baixa","motivo":"fundamentação da avaliação de propostas"}
+{"id":"v1-11-38","codigo":"OUTRO","rel":"fora","motivo":"inglês"}
+{"id":"v1-11-39","codigo":"OUTRO","rel":"fora","motivo":"processual"}
+{"id":"v1-11-40","codigo":"P2·TRANSP 4","rel":"media","motivo":"composição de conselho de saúde"}
+{"id":"v1-11-41","codigo":"OUTRO","rel":"fora","motivo":"trânsito"}
+{"id":"v1-11-42","codigo":"OUTRO","rel":"fora","motivo":"enfermagem"}
+{"id":"v1-11-43","codigo":"P2·TRANSP 4","rel":"alta","motivo":"conferências e conselhos de participação"}
+{"id":"v1-11-44","codigo":"OUTRO","rel":"fora","motivo":"BI"}
+{"id":"v1-11-45","codigo":"OUTRO","rel":"fora","motivo":"CPI"}
+{"id":"v1-11-46","codigo":"P2·TRANSP 1","rel":"alta","motivo":"ressarcimento de custos de reprodução"}
+{"id":"v1-11-47","codigo":"OUTRO","rel":"fora","motivo":"ITIL e COBIT"}
+{"id":"v1-11-48","codigo":"OUTRO","rel":"fora","motivo":"penal"}
+{"id":"v1-11-49","codigo":"OUTRO","rel":"fora","motivo":"Hibernate"}
+{"id":"v1-11-50","codigo":"OUTRO","rel":"fora","motivo":"maturidade de processos"}

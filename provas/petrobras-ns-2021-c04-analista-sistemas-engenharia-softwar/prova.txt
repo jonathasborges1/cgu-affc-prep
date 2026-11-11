@@ -1,0 +1,375 @@
+     658004_01N293533
+
+                                -- CONHECIMENTO
+                          BLOCO I
+Julgue os próximos itens, relativos a ciclo de vida de software.
+51 O conceito de sprint tem sua origem no RUP a partir da
+    execução das fases, cada uma delas com seu marco; cada
+    ciclo no RUP tinha uma sprint considerada, assim como um
+    projeto curto.
+52 No Scrum, todo o trabalho necessário para atingir a meta do
+    produto está embutido nas sprints, inclusive as daily scrums
+    e as sprint retrospective.
+
+
+
+
+Considerando o diagrama entidade relacionamento precedente,
+julgue os itens a seguir.
+53 Em Acidente não há atributo identificador, devido o
+    relacionamento Envolvido ser opcional em relação a
+    Carro.
+54 Uma Apolice pode estar associada a mais de uma instância
+    de Carro, cujo atributo identificador é Registro.
+Julgue os itens subsecutivos, relativos a DevOps e notação
+BPMN.
+55 De acordo com o mapeamento do fluxo abaixo, após a
+    atividade Desenhar o Mapa do Processo de
+    Trabalho deve ser executada ou a atividade Simplificar
+    o Processo de Trabalho ou a Melhorar o Processo
+    de Trabalho, ou seja, essas duas últimas atividades
+    possuem execução exclusiva.
+
+
+
+
+56   No DevOps, a integração contínua possui como uma de suas
+     atividades a realização de testes; a fim de se obter os
+     benefícios esperados convém automatizar os testes para
+     poder executá-los para cada alteração feita no repositório
+     principal.
+
+57   No ciclo DevOps, a fase de implantação contínua visa criar
+     um processo de lançamento de software no ambiente de
+     produção; nessa fase convém realizar a gestão da
+     configuração que implementa o código da aplicação em
+     todos os servidores.
+
+                      CEBRASPE | PETROBRAS – Edital: 2021
+
+OS ESPECÍFICOS --
+ A respeito de requisitos e experiência do usuário, julgue os itens
+ subsecutivos.
+ 58   Ferramentas automatizadas para armazenamento de
+      requisitos, gerenciamento de mudanças e gerenciamento de
+      rastreabilidade são indicadas para apoio ao processo de
+      gerenciamento de requisitos.
+ 59   Histórias de usuário são ferramentas para a definição de
+      escopo de produtos de software voltadas a fornecer uma
+      análise detalhada sobre a atividade do usuário e a viabilizar a
+      retenção de conhecimento em longo prazo.
+ 60   Os critérios de aceitação descrevem um conjunto mínimo de
+      requisitos que precisam ser atendidos para que valha a pena
+      implementar uma solução específica.
+ 61   Uma das limitações da prototipação relacionada ao design da
+      solução ocorre quando as partes interessadas se concentram
+      mais nas especificações do design do que nos requisitos e os
+      desenvolvedores acreditam que é necessário fornecer ao
+      usuário uma interface fielmente precisa ao protótipo, mesmo
+      que existam tecnologias e abordagens de interface mais
+      interessantes.
+ 62   Do ponto de vista de design e de usabilidade, o produto
+      mínimo viável dispensa padrões de qualidade comercial,
+      sendo suficiente que a funcionalidade parcial proposta tenha
+      um nível básico de confiabilidade.
+
+ Quanto a storytelling e análise de personas de usuários de
+ software, julgue os itens a seguir.
+ 63 Entrevistas e questionários são técnicas comumente usadas
+    para obter informações relacionadas às necessidades de
+    grupos de usuários representados por personas, que
+    exemplificam como um usuário típico interage com um
+    produto.
+ 64 No contexto de storytelling, é fundamental mitigar as
+    possibilidades de navegação por meio das interfaces e impor
+    à experiência do usuário o sequenciamento estrito das
+    atividades que constituem a sua história.
+
+ Acerca dos conceitos referentes à arquitetura de aplicações,
+ julgue os itens a seguir.
+ 65 Web service é um sistema de software projetado para
+    suportar interação entre máquinas através de uma rede; esse
+    sistema possui uma interface descrita em formato
+    processável por máquina, especificamente o WSDL (web
+    services descriptor language).
+ 66 Uma das vantagens do SOAP é a sua utilização correta dos
+    métodos HTML (PUT, GET, POST, DELETE), enquanto o
+    REST utiliza apenas o método POST para realizar as
+    requisições através de um arquivo XML.
+ 67 Com a SOA é mais fácil escalar ou ampliar o uso de uma
+    funcionalidade para plataformas ou ambientes novos, o que
+    resulta em maior agilidade e eficiência no desenvolvimento,
+    por outro lado, em geral, acaba por promover aumento nos
+    custos da solução.
+ 68 Os protocolos SOAP e REST são os padrões mais utilizados
+    na comunicação entre os sistemas por meio do web service;
+    esses protocolos, unidos à estrutura básica XML, compõem a
+    estrutura básica dos web services.
+
+     658004_01N293533
+
+Julgue os itens subsequentes, a respeito de padrões de projeto de
+software.
+69   Os três principais padrões de projeto (design patterns) são os
+     criacionais, os estruturais e os comportamentais; os padrões
+     criacionais aumentam a flexibilidade e a reutilização de
+     código porque oferecem diversas alternativas de criação de
+     objetos.
+70   Enquanto a arquitetura é responsável pela infraestrutura de
+     alto nível do software, o design é responsável pelo software
+     a nível de código, como, por exemplo, o que cada módulo
+     está fazendo, o escopo das classes e os objetivos das funções.
+71   Design patterns é um conjunto de soluções generalistas para
+     problemas recorrentes durante o desenvolvimento de um
+     software; trata-se de um framework ou código pronto, e não
+     de uma definição de alto nível de como um problema comum
+     pode ser solucionado.
+
+Com relação a linguagens de programação, julgue os itens a
+seguir.
+72   A POO é embasada nos conceitos de classe, objeto,
+     encapsulamento, herança, interfaces e polimorfismo; uma
+     característica das interfaces, por exemplo, é o fato de que
+     elas não podem ser implementadas por uma classe, mas sim
+     herdadas.
+73   Coleções do tipo genéricas são estruturas que normalmente
+     oferecem melhor desempenho porque são fortemente tipadas
+     em tempo de compilação.
+74   Profiling é uma forma de análise dinâmica de programas que
+     permite, dentre outras, o monitoramento do tamanho total da
+     memória alocada e da memória livre disponível.
+75   O garbage collector serve como um gerenciador de memória
+     automático; um dos seus benefícios é a alocação eficiente
+     dos objetos no heap nativo do sistema operacional.
+
+Julgue os próximos itens que tratam de CSS, JavaScript e Net
+Core.
+76   No ASP.NET Core, um aplicativo de interface de usuário
+     web renderizada pelo servidor permite uma ampla variedade
+     de versões do navegador no cliente; nesse caso, o HTML e o
+     CSS da página são gerados dinamicamente no próprio
+     servidor e chegam prontas para o cliente.
+77   No código abaixo, escrito na linguagem CSS, red é um
+     valor do tipo palavra-chave, enquanto #f00 é um valor do
+     tipo notação funcional.
+
+     p {
+     color: red;
+     background-color: #f00;
+     }
+
+
+78   Em JavaScript é possível simular cada uma das quatro
+     categorias de membros de classe da linguagem Java.
+
+                     CEBRASPE | PETROBRAS – Edital: 2021
+
+                            BLOCO II
+
+Acerca de qualidade de software, julgue os itens subsequentes.
+79   No processo de SQA (software quality assurance) é gerado o
+     plano de garantia de qualidade de software para definir a
+     estratégia da equipe responsável.
+80   Os elementos de processo da gestão de configuração de
+     software formam uma coleção de ferramentas acopladas que
+     permitem acesso à gestão de cada item da configuração de
+     software.
+81   Um dos objetivos do teste caixa-preta é identificar erros em
+     interfaces, em estruturas de dados e em desempenho.
+82   Uma das técnicas para medição de qualidade de código
+     utiliza uma combinação de quantidade de ocorrências de
+     operandos e operadores que aparecem no código fonte.
+83   De acordo com o conceito de code smell, a categoria bloaters
+     engloba os trechos de código que são irrelevantes e podem
+     ser excluídos sem afetar a aplicação.
+
+Com relação a tipos abstratos de dados, julgue os próximos itens.
+84   No trecho de código abaixo, o valor final da variável op é 4.
+
+     inteiro op=8
+     op = 5
+     op = 4
+85   Uma pilha oferece as operações pop para inserir um
+     elemento da pilha e push para remover o elemento no seu
+     início.
+
+Julgue os itens subsequentes, a respeito de algoritmos para
+ordenação e pesquisa e de programação recursiva.
+86   A ordenação por seleção, ou Selection sort, requer apenas
+     uma quantidade constante O (1) de espaço de memória
+     adicional.
+87   Uma função é dita recursiva quando, dentro dela, é feita uma
+     ou mais chamada a ela mesma.
+
+Julgue os itens a seguir, a respeito de normalização das estruturas
+de dados e de melhoria de desempenho de banco de dados.
+88   Duas expressões SQL são equivalentes se e somente se elas
+     tiverem os mesmos comandos em suas respectivas
+     sequências.
+89   Uma tabela está na segunda forma normal (2FN) se ela
+     estiver na 1FN e se todos os seus atributos não chave forem
+     totalmente dependentes da chave primária.
+
+Julgue os itens seguintes, com relação a banco de dados NoSQL
+e à linguagem de consulta estruturada (SQL).
+90   O comando truncate PESSOA; permite excluir todos os
+     registros da tabela de nome PESSOA.
+91   Em um banco de dados NoSQL, como o banco de dados
+     gráfico, um objeto do mundo real é representado como uma
+     tabela; cada registro da tabela forma uma linha cuja chave
+     primária é representada por um campo numérico.
+
+    658004_01N293533
+
+Acerca de modelagem de dados, julgue o item a seguir.
+92 Qualquer subconjunto dos campos de uma relação pode ser
+    uma chave de pesquisa em um arquivo de índice.
+Julgue o próximo item, referente à linguagem de manipulação de
+dados (DML).
+93 A expressão SQL a seguir está sintaticamente correta e
+    permite inserir dois alunos de nomes Pedro e Maria na
+    tabela alunos.
+
+    I N S E R T    V A L U E S             ( ' P e d r o ' ,
+    'Maria') INTO alunos;
+
+Quanto aos conceitos de computação em nuvem, benefícios e alta
+disponibilidade, julgue os próximos itens.
+94 No que se relaciona a elasticidade e escalonamento de
+    computação em nuvem, os usuários têm a expectativa de que
+    a nuvem seja capaz de fornecer rapidamente recursos em
+    qualquer quantidade e a qualquer momento.
+95 Cloud computing é uma das inovações tecnológicas que mais
+    cresceu nos últimos anos, por isso é uma instância direta da
+    computação autônoma, em que os sistemas se
+    autogerenciam.
+96 Na cloud computing são essenciais o cumprimento de três
+    indicadores: disponibilidade, capacidade e desempenho na
+    entrega de soluções e informações.
+97 A IaC (infraestrutura como código) foi viabilizada pelo
+    surgimento de plataformas de hospedagem de infraestrutura
+    em nuvem, especificamente as plataformas IaaS. Entre os
+    fatores que influenciam diretamente o uso da IaC estão o
+    aumento dos custos e a diminuição na velocidade de
+    implantação da infraestrutura.
+98 Quanto à gestão de custos na nuvem, a computação em
+    nuvem pode reduzir a emissão de carbono, aumentar o total
+    cost of owership (TCO) e melhorar o return on investiment
+    (ROI).
+99 A IoT (Internet das coisas) é estruturada em blocos básicos
+    de construção (comunicação, computação e semântica):
+    inicialmente, na parte de computação, sensores coletam
+    informações sobre o contexto em que os objetos se
+    encontram, em seguida, armazenam e(ou) encaminham esses
+    dados para um armazém de dados, centros de
+    armazenamento ou nuvem.
+                          BLOCO III
+Com base nos conceitos de computação em nuvem, benefícios e
+alta disponibilidade, julgue os próximos itens.
+100 Em se tratando de gestão de projetos de software, é correto
+     afirmar que, nos métodos ágeis, a qualificação individual dos
+     membros da equipe não é considerada um fator crítico de
+     sucesso dada a convicção de que a colaboração em grupo
+     ajuda a superar dificuldades individuais.
+101 Entre as principais características dos métodos ágeis,
+     destacam-se a maximização da documentação formal e o
+     envolvimento dos clientes.
+102 O SAFe é um framework cujo objetivo consiste em expandir
+     o desenvolvimento ágil no âmbito corporativo, permitindo
+     que o Scrum e o XP sejam aplicados a grandes organizações
+     e facilitando o gerenciamento de tarefas em empresas com
+     vários desenvolvedores integrados.
+103 O Scrum usa um conjunto de “padrões de processo de
+     software”, que são adequados para projetos com prazos
+     apertados e requisitos que mudam frequentemente.
+
+                     CEBRASPE | PETROBRAS – Edital: 2021
+
+Julgue os itens seguintes, a respeito de data warehouse e OLAP.
+104 Em uma aplicação OLAP, a operação de roll-up consiste em
+    passar os dados com detalhamento maior para um
+    detalhamento menor.
+105 Em um data warehouse, as tabelas contendo dados
+    multidimensionais são denominadas tabelas de fatos;
+    normalmente, elas são muitos grandes.
+Julgue os itens a seguir, quanto a conceitos de dado, informação,
+inteligência e business intelligence (BI).
+106 No processo de preparação de dados para BI, um dado com
+     incompletude é normalmente aquele cujo valor está fora do
+     domínio do atributo.
+107 A inteligência é a informação que é expressa na forma de
+     números, letras ou símbolos, os quais são os insumos dos
+     gráficos.
+Julgue os itens a seguir, a respeito de processamento paralelo e
+distribuído e de virtualização.
+108 O objetivo da virtualização é executar nas máquinas virtuais
+     os sistemas gerenciadores de banco de dados para dar
+     suporte aos usuários distribuídos.
+109 Com o uso do RPC (remote procedure call), os
+     procedimentos em processos em computadores remotos
+     podem ser chamados como se fossem procedimentos no
+     espaço de endereço local.
+Julgue os itens subsecutivos, que se referem a protocolos de rede
+e à computação de alto desempenho.
+110 Computação de alto desempenho é a capacidade de processar
+     e armazenar uma quantidade de dados superior a um hexa
+     bits.
+111 O HTPPS é uma junção do HTTP com o SSL (secure
+     sockets layers).
+Julgue os próximos itens, a respeito de IAST e de gerenciamento
+de resposta a incidentes.
+112 De acordo com o guia NIST SP 800-61, a autoridade para
+     confiscar equipamentos e monitorar atividades suspeitas em
+     resposta a incidentes é restrita às agências de aplicação da
+     lei; a definição dessa autoridade não cabe no escopo das
+     políticas de resposta a incidentes das organizações.
+113 Um agente IAST realiza análises de segurança das
+     aplicações em tempo real, com acesso às informações de
+     fluxo de dados e de configuração, às bibliotecas e aos
+     frameworks.
+Acerca de becape, classificação de informações e gestão de
+riscos, julgue os itens a seguir, considerando as normas ISO
+27002 e ISO 31000.
+114 A ISO 27002 recomenda evitar a encriptação de cópias de
+     segurança (becape), em benefício da celeridade em eventuais
+     processos de recuperação, especialmente quando o sistema
+     de becape for um componente chave nos planos de
+     continuidade de negócio.
+115 De acordo com a ISO 31000, é relevante que os planos de
+     tratamento de riscos incluam as justificativas para a seleção
+     das opções de tratamento e as medidas de desempenho.
+116 Na política de desenvolvimento seguro, de acordo com a ISO
+     27002, é relevante que sejam consideradas a segurança no
+     ambiente de desenvolvimento e a capacidade dos
+     desenvolvedores de evitar, encontrar e corrigir
+     vulnerabilidade.
+117 Segundo a ISO 27002, importa que os resultados de
+     classificação da informação que envolvam controles
+     relacionados a sigilo sejam atualizados em conformidade
+     com as prescrições de prazos previstas na política de
+     classificação.
+
+    658004_01N293533
+
+
+No que se refere à governança de TI e ITIL v4, julgue os itens a seg
+118 Alocação eficiente de recursos e realização efetiva dos benefíci
+    o uso da TI contribua positivamente para o desempenho da org
+119 De acordo com ITIL v4, foco estratégico é o fator de influê
+    caracterizado pela crença de que é menos arriscado dispor de u
+    de desenvolver e manter internamente a expertise naquela área.
+120 No contexto da administração de serviços, estão entre os objet
+    qualidade dos serviços de TI do negócio.
+
+Espaço livre
+
+                       CEBRASPE | PETROBRAS – Edital: 2021
+
+guir.
+ ios esperados de cada investimento de TI são meios de garantir que
+ganização.
+ência para a estratégia da organização em relação a fornecedores,
+um fornecedor que já possui expertise em determinada área, em vez
+ .
+tivos da governança de TI controlar, medir e auditar a execução e a
+

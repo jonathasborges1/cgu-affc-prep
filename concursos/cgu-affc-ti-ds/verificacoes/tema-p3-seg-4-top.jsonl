@@ -1,0 +1,6 @@
+{"item": "3", "edital": "P3·SEG 4.2", "relevancia": "alta", "nucleo_id": "n-scrum-po-nao-cria-sprint-backlog", "tags": ["PARTE_CERTA_PARTE_ERRADA", "TROCA_TERMO"], "nivel": "medio"}
+{"item": "8", "edital": "P3·SEG 4.2", "relevancia": "alta", "nucleo_id": "n-scrum-sprint-planning-devs-planejam-trabalho", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "9", "edital": "P3·SEG 4.2", "relevancia": "alta", "nucleo_id": "n-scrum-sprint-planning-devs-planejam-trabalho", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "13", "edital": "P3·SEG 4.2", "relevancia": "alta", "nucleo_id": "n-scrum-sprint-backlog-composicao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "17", "edital": "P3·SEG 4.2", "relevancia": "media", "nucleo_id": "n-scrum-sprint-review-feedback", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "18", "edital": "FORA", "relevancia": "fora", "nucleo_id": null, "tags": ["CONCEITO_MISTURADO"], "nivel": "dificil"}

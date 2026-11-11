@@ -44,7 +44,9 @@
    "tce-sc-auditor-2021-c01-administracao#85",
    "mpo-2024-c04-desenvolvimento-sistemas-orcamentari#5",
    "codevasf-2024-c01-administracao#101",
-   "mp-to-servidor-2024-c01-administracao-banco-dados#111",
+   "mp-to-servidor-2024-c01-administracao-banco-dados#111"
+  ],
+  "2": [
    "tce-sc-auditor-2021-c01-administracao#97"
   ]
  },
@@ -55,5 +57,7 @@
   "codevasf-2024-c01-administracao#101",
   "mp-to-servidor-2024-c01-administracao-banco-dados#111",
   "tce-sc-auditor-2021-c01-administracao#97"
- ]
+ ],
+ "caderno_limite": 5,
+ "cadernos_split": true
 }

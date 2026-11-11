@@ -1,0 +1,473 @@
+8140090123355
+
+-- CONHECIMENTO
+Com relação a armazenamento de dados, julgue os itens que se
+seguem.
+51
+
+Em uma rede SAN, os sistemas de armazenamento devem
+estar conectados aos switches da rede.
+
+52
+
+Trunk é uma forma de usar duas ou mais portas ou conexões
+físicas para transmitir quadros de múltiplas VLANs.
+
+53
+
+O ISL é um protocolo de encapsulamento usado para
+comutar VLANs por meio de switches de qualquer
+fabricante.
+
+54
+
+O zoneamento é uma forma de restringir o acesso a certos
+nós de uma rede de dispositivos em uma arquitetura fiber
+channel.
+
+55
+
+Ponto a ponto, laço arbitrado e fabric são exemplos de
+topologias de transporte para uma arquitetura fiber channel.
+
+Julgue os itens subsecutivos, que se referem a conceitos de
+programação e banco de dados.
+56
+
+As estruturas condicionais são utilizadas para testar variáveis
+lógicas.
+
+57
+
+Os algoritmos gráficos e os narrativos são instrumentos da
+lógica linear utilizados para projetar programas de
+computador.
+
+58
+
+Na linguagem Python, os blocos de código são separados por
+chaves.
+
+59
+
+Replicação e duplicação são processos de manutenção e
+atualização de bancos de dados distribuídos.
+
+60
+
+Um registro é um conjunto de itens de dados que possuem
+um conjunto de atributos que pertencem a determinada
+entidade.
+
+61
+
+As estruturas para armazenamento dos dados e os métodos
+de acesso ao banco de dados fazem parte do projeto lógico
+de um banco de dados.
+
+A respeito de segurança da informação, julgue os seguintes itens.
+62
+
+A análise de riscos é a atividade do processo de gestão de
+riscos que permite comparar o risco estimado com os
+critérios de riscos predefinidos, para determinar a
+importância do risco.
+
+63
+
+A política de segurança da informação é um documento
+formal aprovado pela alta gestão da organização e no qual
+ela declara o seu comprometimento no apoio às metas e aos
+princípios da segurança da informação.
+
+64
+
+Os procedimentos necessários para o acesso lógico aos
+bancos de dados e sistemas de informações por pessoas de
+fora da organização devem fazer parte do gerenciamento de
+partes externas da organização da segurança da informação.
+
+65
+
+O sistema de gestão da segurança da informação (SGSI) é
+parte integrante do sistema de gestão global da organização.
+
+
+CEBRASPE – CNMP – Edital: 2023
+
+OS ESPECÍFICOS -Julgue os seguintes itens, com base no Plano Diretor de
+Tecnologia da Informação 2019/2021 (PDTI) do CNMP.
+66
+
+As ações no PDTI demonstram como podem ser alcançados
+os objetivos de contribuição, os quais estão definidos em
+termos de indicadores que atendam aos requisitos de
+disponibilidade, simplicidade, estabilidade, rastreabilidade,
+representatividade, confiabilidade e sensibilidade.
+
+67
+
+A promoção da integridade, segurança e disponibilidade de
+dados e o aprimoramento do sistema de gerenciamento de
+banco de dados são atribuições do Núcleo de Suporte
+Técnico (NST) da Secretaria de Tecnologia da Informação
+(STI).
+
+68
+
+No âmbito do CNMP, os contratos de manutenção e garantia
+devem prever custos adicionais para o atendimento aos
+ativos de tecnologia da informação, em caso de problemas.
+
+69
+
+No PDTI, os itens que versam sobre a contingência
+operacional de tecnologia da informação estão diretamente
+relacionados à redução da indisponibilidade dos bens e
+serviços de tecnologia da informação.
+
+Julgue os itens subsequentes, de acordo com a Resolução
+Conjunta CNJ/CNMP n.º 3/2013.
+70
+
+É requisito para a utilização do Modelo Nacional de
+Interoperabilidade (MNI) que a instituição interessada,
+pública ou privada, tenha aderido ao Acordo de Cooperação
+Técnica n.º 58/2009.
+
+71
+
+A fim de manter a interoperabilidade dos sistemas de
+tramitação e controle processual judicial, no caso de sistemas
+descontinuados cujos dados não possam ser migrados para o
+Modelo Nacional de Interoperabilidade (MNI) por questões
+de ordem técnica, os sistemas devem ser descontinuados em
+até três anos.
+
+A respeito de data warehouse e data mining, julgue os próximos
+itens.
+72
+
+O data mining é um processo usado para extrair e analisar
+informações que revelam padrões ou tendências estratégicas
+do negócio.
+
+73
+
+Fatos, dimensões e medidas são elementos essenciais de um
+data warehouse.
+
+74
+
+Em data warehouse, o conceito de granularidade refere-se ao
+nível de detalhe ou resumo existente em uma unidade de
+dados, de forma que, quanto mais detalhes, mais alto o nível
+de granularidade.
+
+Com relação a virtualização e computação em nuvem, julgue os
+itens a seguir.
+75
+
+Em um ambiente virtualizado, os servidores que executam os
+aplicativos que são exibidos no cliente devem estar
+necessariamente na própria organização, de forma local.
+
+76
+
+A virtualização permite que a camada de software seja
+isolada da camada de hardware.
+
+77
+
+Na nuvem, o backup dos dados armazenados pode ser
+especificado por um software cliente, caracterizado como
+modelo de armazenamento como serviço.
+
+
+8140090123355
+
+Julgue os itens a seguir conforme a Lei n.º 14.133/2021, que
+dispõe sobre licitações e contratos na administração pública.
+78
+
+A administração poderá celebrar, nas hipóteses de serviços e
+fornecimentos contínuos, contratos com prazo de até cinco
+anos, mas não poderá extingui-los, mesmo quando entender
+que o contrato não mais lhe ofereça vantagem.
+
+79
+
+Em casos de empate entre propostas de licitantes, haverá
+apenas dois critérios de desempate: disputa final, caso em
+que os licitantes empatados poderão apresentar nova
+proposta em ato contínuo à classificação; e desenvolvimento,
+pelo licitante, de programa de integridade, conforme
+orientações dos órgãos de controle.
+
+80
+
+Encerradas as fases de julgamento e habilitação e exauridos
+os recursos administrativos, o processo licitatório será
+encaminhado à autoridade superior, que poderá determinar o
+retorno dos autos para saneamento de irregularidades.
+
+81
+
+Os serviços realizados em trabalhos relativos a treinamento e
+aperfeiçoamento de pessoal são considerados serviços
+técnicos especializados de natureza predominantemente
+intelectual.
+
+82
+
+A duração dos contratos, inclusive os relativos à utilização
+de programas de informática, ficará adstrita à vigência dos
+respectivos créditos orçamentários.
+
+83
+
+O interessado que, convocado dentro do prazo de validade da
+proposta para a contratação de bens e serviços, não celebrar
+o contrato ou apresentar documentação falsa exigida para o
+certame ficará impedido de licitar e contratar com a
+administração pública pelo prazo de até oito anos.
+
+84
+
+A lei em apreço veda expressamente que militar do Exército
+Brasileiro, mesmo no âmbito do Ministério da Defesa,
+desempenhe a função de pregoeiro.
+
+Com base na Resolução CNMP n.º 102/2013, a qual disciplina
+procedimentos relativos à contratação de soluções de tecnologia
+da informação no âmbito do Ministério Público, julgue os itens a
+seguir.
+85
+
+Plano de inserção é o documento que prevê as atividades de
+alocação de recursos necessários para a contratada iniciar o
+fornecimento da solução de tecnologia da informação.
+
+86
+
+A análise de riscos deverá ser elaborada pelos integrantes
+técnico e requisitante e conter a definição dos responsáveis
+pelas ações de prevenção dos riscos e dos procedimentos de
+contingência.
+
+87
+
+Plano de sustentação, estratégia da contratação e termo de
+referência são algumas das etapas que fazem parte da fase de
+planejamento da contratação.
+
+
+CEBRASPE – CNMP – Edital: 2023
+
+Em contrato assinado junto ao Conselho Nacional do
+Ministério Público (CNMP), baseado em termo de referência
+desenvolvido pela equipe de contratação, constam as seguintes
+cláusulas.
+I
+
+O pagamento do item 1 do objeto — licença perpétua do
+sistema — se dará da seguinte forma: 50% após o termo de
+aceite provisório e os demais 50% após o aceite definitivo da
+entrega das licenças mediante a emissão da nota fiscal pela
+contratada.
+II O pagamento do item 2 do objeto — suporte técnico e
+manutenção mensal — se dará mensalmente, e se iniciará ao
+final do primeiro mês de manutenção prestada, durante o
+período de garantia de 12 meses a contar da data do termo de
+recebimento do definitivo do item 1 do objeto.
+III Em relação ao valor da nota fiscal, a contratante fará as
+retenções devidas ao INSS e as dos impostos e contribuições
+previstas na instrução normativa SRF n.º 1234, de
+11/01/2012.
+IV Será aplicada multa de 2% sobre o valor mensal do contrato,
+a cada ocorrência em que a contratada por motivo de
+negligência, imprudência ou imperícia na execução das
+atividades contratuais, causar qualquer dano físico ou lógico
+aos equipamentos da CNMP.
+Considerando essa situação hipotética, julgue os itens a seguir.
+88 Cabe ao fiscal administrativo a emissão da nota fiscal do
+contrato em questão.
+89 Cabe ao fiscal técnico do contrato tanto a confecção quanto a
+assinatura do termo de recebimento provisório mencionado
+na cláusula I, quando da entrega do objeto.
+90 Devido ao princípio dos critérios de remuneração por esforço
+versus produto, o recebimento do item 2 do objeto não pode
+ser vinculado ao recebimento do item 1 do objeto.
+91 Considerando-se a cláusula IV, é vedada pela Resolução
+CNMP n.º 102/2013 a inserção de cláusulas e indicadores de
+nível de serviço no contrato de soluções de TI, caso em que
+devem ser aplicadas, garantida a prévia defesa, multas e(ou)
+glosas específicas quando do recebimento do objeto, que
+obedecerão a uma escala gradual para as sanções recorrentes.
+92 Com relação à cláusula IV, a verificação das regularidades
+fiscais e das regularidades trabalhistas e previdenciárias para
+fins de pagamento está a cargo do fiscal administrativo do
+contrato.
+93 No caso de descumprimento da cláusula III, caberá ao gestor
+do contrato o encaminhamento de indicação de sanções para
+a área administrativa.
+De acordo com a Lei n.º 14.133/2021 e suas alterações, julgue os
+itens subsequentes.
+94 Na modalidade diálogo competitivo, uma vez que o órgão
+contratante tenha apresentado previamente uma ou mais
+alternativas capazes de atender a suas necessidades, caberá
+aos licitantes apresentarem, antes do encerramento dos
+diálogos, propostas em que o julgamento se dará com base
+no maior retorno econômico.
+95 O pregão consiste na modalidade de licitação obrigatória
+para aquisição de bens e serviços comuns, devendo ser
+necessariamente adotado o critério de julgamento do menor
+preço.
+96 O contrato que previr a operação continuada de sistemas
+estruturantes de tecnologia da informação poderá ter a
+vigência máxima de 10 anos.
+De acordo com a Resolução CNMP n.º 89/2012, julgue o
+próximo item.
+97 Em relação às informações protegidas por sigilo, a resolução
+veda à administração a exigência de que sejam declarados os
+motivos determinantes da solicitação de informação de
+interesse público.
+
+
+8140090123355
+
+De acordo com a Lei de Acesso à Informação, julgue o item que
+se segue.
+98
+
+Uma informação é definida como sigilosa quando possui
+restrição permanente e perdurável quanto ao acesso público
+em razão de sua imprescindibilidade para a segurança do
+cidadão.
+
+Com base na Lei Geral de Proteção de Dados, julgue os itens
+a seguir.
+99
+
+No caso de haver tratamento de dados pessoais, coletados
+no território nacional, realizado por pessoa natural para
+fins exclusivamente particulares e não econômicos,
+a Lei n.º 13709/2018 deve ser aplicada.
+
+100 Podem ser considerados como dados pessoais sensíveis tanto
+
+os dados referentes à saúde quanto os dados referentes
+à opinião política ou à convicção religiosa.
+De acordo com as disposições constitucionais e com o entendimento
+do STF acerca da organização político-administrativa do Estado, do
+Poder Legislativo e das atribuições do presidente da República,
+julgue os próximos itens.
+101 A Constituição Federal de 1988 (CF) assegura expressamente a
+
+autonomia dos entes federativos da República Federativa do
+Brasil, cuja organização político-administrativa se circunscreve
+aos estados, ao Distrito Federal e aos municípios.
+102 O texto constitucional confere ao presidente da República a
+
+prerrogativa de delegar algumas de suas competências
+privativas ao procurador-geral da República, que, observando
+os limites traçados na respectiva delegação, poderá conceder
+indultos e comutar penas.
+103 As comissões parlamentares de inquérito possuem permissão
+
+para encaminhar suas conclusões, inclusive documentos que
+possibilitem a instauração de inquérito policial em face de
+pessoas envolvidas nos fatos apurados, a quaisquer órgãos
+públicos.
+104 A vedação constitucional de reedição, na mesma sessão
+legislativa, de medida provisória que tenha sido rejeitada
+pelo Congresso Nacional ou que tenha perdido sua eficácia
+por decurso de prazo não se estende à hipótese em que o
+presidente da República, por iniciativa própria, decida
+revogar a medida anteriormente editada.
+De acordo com as disposições constitucionais acerca do
+Conselho Nacional do Ministério Público (CNMP), julgue os
+itens a seguir.
+105 O corregedor nacional do Ministério Público é escolhido, em
+
+votação secreta, entre os membros do Ministério Público que
+integram o CNMP, sendo vedada a recondução.
+106 O CNMP compõe-se de quatorze membros nomeados pelo
+
+presidente da República, depois de aprovada a escolha pela
+maioria absoluta do Senado Federal, sendo um desses
+membros indicado pela Câmara dos Deputados, ficando
+dispensada, para este, a aprovação pelo Senado.
+107 Se um membro do Ministério Público da União (MPU)
+
+cometer infração funcional e contra ele for aberto processo
+administrativo disciplinar, o CNMP não poderá avocar o
+processo em curso, sob pena de violar a competência
+disciplinar e correcional do MPU.
+
+
+CEBRASPE – CNMP – Edital: 2023
+
+Julgue os itens que se seguem, relativos à aplicabilidade das
+normas constitucionais, aos direitos e garantias fundamentais e às
+competências legislativas dos entes da Federação.
+108 As normas constitucionais de eficácia contida subdividem-se
+em dois grupos: normas programáticas e normas de
+legislação.
+109 As normas constitucionais de eficácia plena são assim
+classificadas porque não é necessário que produzam todos os
+seus efeitos essenciais de forma direta, imediata e integral,
+bastando terem a possibilidade de produzi-los.
+110 A proteção dos dados pessoais, inclusive nos meios digitais, é
+um direito fundamental previsto expressamente na CF e, para
+sua concretização, foi conferida à União, aos estados e ao
+Distrito Federal a competência para legislar concorrentemente
+sobre a matéria.
+Acerca das hipóteses de dispensa e inexigibilidade de licitação
+dispostas na Lei de Licitações e Contratos Administrativos,
+julgue os itens a seguir.
+111 Diante de uma hipótese prevista na lei em questão para
+dispensa de licitação, mas havendo possibilidade de
+competição entre potenciais fornecedores, a administração
+pública estará obrigada a realizar o procedimento licitatório.
+112 É possível a combinação entre as hipóteses previstas na lei
+em apreço para a efetivação da contratação por dispensa de
+licitação.
+113 A contratação de profissional do setor artístico, diretamente
+ou por meio de empresário exclusivo, desde que consagrado
+pela crítica especializada e(ou) pela opinião pública, pode
+ocorrer por inexigibilidade de licitação.
+Julgue os itens que se seguem, pertinentes aos procedimentos
+auxiliares das licitações e contratações dispostos na Lei de
+Licitações e Contratos Administrativos.
+114 No sistema de registro de preços, o edital deverá dispor
+acerca da possibilidade de prever preços diferenciados para
+quando o objeto for realizado ou entregue em locais
+diferentes.
+115 No procedimento de credenciamento, a administração deverá
+divulgar e manter à disposição do público, em sítio
+eletrônico oficial, o edital de chamamento, de modo a
+permitir o cadastramento anual de novos interessados.
+116 O procedimento de pré-qualificação se destina à seleção
+prévia de licitantes para participar de futuro processo
+licitatório ou de bens que atendam às exigências técnicas ou
+de qualidade estabelecidas pela administração.
+Julgue os itens subsequentes, relativos ao processo administrativo.
+117 Diante do indeferimento da alegação de suspeição de
+autoridade ou servidor que tenha amizade íntima ou
+inimizade notória com algum dos interessados no processo
+administrativo, cabe recurso com efeito suspensivo.
+118 O processo administrativo pode ser instaurado de ofício ou a
+pedido do interessado.
+Com base na Constituição Federal de 1988 e na Lei n.º 8.112/1990,
+julgue os itens a seguir.
+119 As pessoas jurídicas de direito público e as de direito privado
+exploradoras de atividade econômica responderão pelos
+danos que seus agentes, nessa qualidade, causarem a
+terceiros, vedado o direito de regresso contra o responsável
+nos casos de dolo ou culpa.
+120 São formas de provimento de cargo público a nomeação,
+a promoção, a readaptação, a reversão, o aproveitamento,
+a reintegração e a recondução.
+
+

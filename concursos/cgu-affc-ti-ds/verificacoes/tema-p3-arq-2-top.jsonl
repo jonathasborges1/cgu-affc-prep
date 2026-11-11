@@ -1,0 +1,6 @@
+{"item": "12", "edital": "P3·ARQ 2.5", "relevancia": "media", "nucleo_id": "n-rbac-nao-dispensa-mfa", "tags": ["ABSOLUTO", "CAUSA_CONSEQUENCIA"], "nivel": "medio"}
+{"item": "13", "edital": "P3·ARQ 2.3", "relevancia": "alta", "nucleo_id": "n-oidc-jwt-autenticacao", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "15", "edital": "P3·ARQ 2.3", "relevancia": "alta", "nucleo_id": "n-oauth2-acesso-delegado-limitado", "tags": ["ABSOLUTO", "PARTE_CERTA_PARTE_ERRADA"], "nivel": "medio"}
+{"item": "16", "edital": "P3·ARQ 2.4", "relevancia": "media", "nucleo_id": "n-jwt-formato-token-sso", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "18", "edital": "P3·ARQ 2.4", "relevancia": "alta", "nucleo_id": "n-jwt-assinado-verificado-requisicoes", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "19", "edital": "P3·ARQ 2.3", "relevancia": "alta", "nucleo_id": "n-oauth2-codigo-autorizacao-recomendado", "tags": ["NORMA_LITERAL"], "nivel": "medio"}

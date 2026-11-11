@@ -1,0 +1,422 @@
+[
+ {
+  "prova_id": "petrobras-ns-2021-c05-analista-sistemas-infraestrutura",
+  "banca": "Cebraspe",
+  "orgao": "PETROBRAS 21",
+  "cargo": "Ênfase 5: Analista de Sistemas – Infraestrutura",
+  "ano": 2021,
+  "ref": "Cebraspe PETROBRAS 21 2021 · Ênfase 5: Analista de Sistemas – Infraestrutura",
+  "url": "https://cdn.cebraspe.org.br/concursos/PETROBRAS_21_NS/arquivos/658_PETROBRAS_005_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/PETROBRAS_21_NS/arquivos/GAB_DEFINITIVO_658_PETROBRAS_005_01.PDF",
+  "item": "108",
+  "contexto": "Acerca de gerência de transações, modelagem entidade- relacionamento e abordagem relacional, julgue os itens subsecutivos.",
+  "enunciado": "Atomicidade da transação em um banco de dados ocorre quando todas as operações da transação são refletidas corretamente no banco de dados; ou quando nenhuma delas é refletida.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": null,
+  "nivel": "Fácil",
+  "padrao": "Atomicidade: tudo ou nada",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-transacao-atomicidade-acid"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+  "banca": "Cebraspe",
+  "orgao": "MPTO SERVIDOR",
+  "cargo": "Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de Banco de Dados",
+  "ano": 2024,
+  "ref": "Cebraspe MPTO SERVIDOR 2024 · Cargo 1: Analista Ministerial Especializado – Área de atuação: Administração de Banco de Dados",
+  "url": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/952_MP_TO_001_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/GAB_DEFINITIVO_952_MP_TO_001_01.PDF",
+  "item": "67",
+  "contexto": "A respeito de arquitetura de bancos de dados, julgue os itens a seguir.",
+  "enunciado": "As propriedades autenticidade, consistência, isolamento e durabilidade garantem confiabilidade às transações executadas em um banco de dados.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": "ACID: Atomicidade, Consistência, Isolamento e Durabilidade garantem a confiabilidade das transações",
+  "nivel": "Fácil",
+  "padrao": "A sigla ACID usa Atomicidade, não autenticidade.",
+  "tags": [
+   "TROCA_TERMO"
+  ],
+  "nucleos": [
+   "n-acid-propriedades"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce",
+  "banca": "Cebraspe",
+  "orgao": "SEFIN FORTALEZA CE",
+  "cargo": "CARGO 2: ANALISTA FAZENDÁRIO MUNICIPAL – ÁREA DE CONHECIMENTO: CIÊNCIA DA COMPUTAÇÃO, INFORMÁTICA / PROCESSAMENTO DE DADOS",
+  "ano": 2023,
+  "ref": "Cebraspe SEFIN FORTALEZA CE 2023 · CARGO 2: ANALISTA FAZENDÁRIO MUNICIPAL – ÁREA DE CONHECIMENTO: CIÊNCIA DA COMPUTAÇÃO, INFORMÁTICA / PROCESSAMENTO DE DADOS",
+  "url": "https://cdn.cebraspe.org.br/concursos/SEFIN_FORTALEZA_CE_23/arquivos/848_SEFIN_CE_ANALISTA_002_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/SEFIN_FORTALEZA_CE_23/arquivos/GAB_DEFINITIVO_848_SEFIN_CE_ANALISTA_002_01.PDF",
+  "item": "129",
+  "contexto": "A respeito de propriedades e transações de bancos de dados, julgue os itens subsequentes.",
+  "enunciado": "No processamento de transações em um sistema de banco de dados, o uso de bloqueios (locks) tem o objetivo de garantir a propriedade da atomicidade das transações.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": "Bloqueios (locks) controlam concorrência e garantem isolamento, não atomicidade",
+  "nivel": "Médio",
+  "padrao": "Locks garantem isolamento, não atomicidade",
+  "tags": [
+   "TROCA_TERMO"
+  ],
+  "nucleos": [
+   "n-locks-isolamento"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "mpo-2024-cg-bloco-comum",
+  "banca": "Cebraspe",
+  "orgao": "MPO 24",
+  "cargo": "conhecimentos gerais (bloco comum)",
+  "ano": 2024,
+  "ref": "Cebraspe MPO 24 2024 · conhecimentos gerais (bloco comum)",
+  "url": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/958_MPO_ANALISTA_CG1_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/MPO_24/arquivos/GAB_DEFINITIVO_958_MPO_ANALISTA_CG1_01.PDF",
+  "item": "86",
+  "contexto": "Em relação a banco de dados relacionais, julgue os seguintes itens.",
+  "enunciado": "A normalização de dados em um banco de dados é uma técnica que organiza os dados desse banco em uma escala específica, como valores entre 0 e 1.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": "Normalização organiza tabelas para reduzir redundância e anomalias; não é escalonamento de valores nem criação de índices compostos",
+  "nivel": "Fácil",
+  "padrao": "Troca normalização de esquema por normalização/escalonamento de valores",
+  "tags": [
+   "TROCA_TERMO"
+  ],
+  "nucleos": [
+   "n-normalizacao-vs-escala-indice-composto"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "seplag-ce-2024-x-prova-objetiva-conhecimentos-basicos",
+  "banca": "Cebraspe",
+  "orgao": "SEPLAG/CE 24",
+  "cargo": "PROVA OBJETIVA – CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS",
+  "ano": 2024,
+  "ref": "Cebraspe SEPLAG/CE 24 2024 · PROVA OBJETIVA – CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS",
+  "url": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/982_SEPLAG_CE_CB1_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/SEPLAG_CE_24/arquivos/GAB_DEFINITIVO_982_SEPLAG_CE_CB1_01.PDF",
+  "item": "40",
+  "contexto": "Em relação a banco de dados, julgue os próximos itens.",
+  "enunciado": "Normalização de banco de dados é um conjunto de regras que visa, principalmente, à organização de um projeto de banco de dados para aumentar tanto a redundância quanto a integridade dos dados, sem interferir no desempenho.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": "A normalização reduz a redundância e melhora a integridade dos dados, podendo impactar o desempenho (mais junções)",
+  "nivel": "Fácil",
+  "padrao": "Normalização reduz redundância; item diz aumentar",
+  "tags": [
+   "INVERSAO"
+  ],
+  "nucleos": [
+   "n-norm"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao",
+  "banca": "Cebraspe",
+  "orgao": "FUNPRESP_24_EXE",
+  "cargo": "CARGO 8: ANALISTA DE PREVIDÊNCIA COMPLEMENTAR – ÁREA 8: ESTATÍSTICA, CIÊNCIA DE DADOS E INOVAÇÃO",
+  "ano": 2024,
+  "ref": "Cebraspe FUNPRESP_24_EXE 2024 · CARGO 8: ANALISTA DE PREVIDÊNCIA COMPLEMENTAR – ÁREA 8: ESTATÍSTICA, CIÊNCIA DE DADOS E INOVAÇÃO",
+  "url": "https://cdn.cebraspe.org.br/concursos/FUNPRESP_24_EXE/arquivos/040_FUNPRESPEXE_008_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/FUNPRESP_24_EXE/arquivos/Gab_Definitivo_040_FUNPRESPEXE_008_01.PDF",
+  "item": "74",
+  "contexto": "Julgue os itens a seguir, no que se refere à modelagem de banco de dados.",
+  "enunciado": "Na criação de esquemas de banco de dados eficientes, a normalização excessiva pode levar a um desempenho ruim em consultas complexas, e, por isso, deve ser sempre evitada.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": "Normalização excessiva pode prejudicar consultas complexas (muitas junções), mas não deve ser 'sempre' evitada; desnormaliza-se pontualmente por desempenho",
+  "nivel": "Médio",
+  "padrao": "Normalização excessiva prejudica consultas, mas 'sempre evitada' é absoluto",
+  "tags": [
+   "ABSOLUTO"
+  ],
+  "nucleos": [
+   "n-normalizacao-excessiva-desnormalizacao"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "tce-ac-2024-c06-gestao-dados",
+  "banca": "Cebraspe",
+  "orgao": "TCE_AC_24",
+  "cargo": "CARGO 6: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: GESTÃO DE DADOS",
+  "ano": 2024,
+  "ref": "Cebraspe TCE_AC_24 2024 · CARGO 6: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: GESTÃO DE DADOS",
+  "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_006_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_006_01.PDF",
+  "item": "65",
+  "contexto": "Julgue os itens a seguir, relativos ao modelo relacional de banco de dados e à normalização das estruturas de dados.",
+  "enunciado": "Considere que, em um banco de dados relacional que armazena dados a respeito de licitações, a tabela licitacoes possua os seguintes campos: id_licitacao, id_fornecedor, quantidade, preco_unitario, data_licitacao e valor_total. Considere, ainda, que esse último campo seja o resultado da multiplicação do campo quantidade pelo campo preco_unitario. Nesse caso, a tabela em questão está em conformidade com a terceira forma normal (3FN).",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-1-lim",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": null,
+  "nivel": "medio",
+  "padrao": "Campo derivado (valor_total = quantidade x preco_unitario) mantido na tabela viola a 3FN.",
+  "tags": [
+   "CAUSA_CONSEQUENCIA"
+  ],
+  "nucleos": [
+   "n-3fn"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "tce-ac-2024-c06-gestao-dados",
+  "banca": "Cebraspe",
+  "orgao": "TCE_AC_24",
+  "cargo": "CARGO 6: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: GESTÃO DE DADOS",
+  "ano": 2024,
+  "ref": "Cebraspe TCE_AC_24 2024 · CARGO 6: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO – ÁREA: GESTÃO DE DADOS",
+  "url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/993_TCE_AC_006_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/TCE_AC_24/arquivos/GAB_DEFINITIVO_993_TCE_AC_006_01.PDF",
+  "item": "69",
+  "contexto": "Julgue os itens seguintes, referentes a integridade referencial, metadados e modelagem multidimensional.",
+  "enunciado": "sobre os dados A integridade referencial é uma propriedade que garante que os valores de uma chave estrangeira em uma tabela correspondem a valores existentes na chave primária da tabela referenciada. A figura a seguir representa um projeto de banco de dados para a análise de gastos em saúde por município e por hospital. A partir dessas informações, julgue os próximos itens.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": null,
+  "nivel": "Fácil",
+  "padrao": "Definição literal de integridade referencial.",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-integridade-referencial-fk-pk"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "funpresp-2021-c10-tecnologia",
+  "banca": "Cebraspe",
+  "orgao": "FUNPRESP - EXE",
+  "cargo": "Cargo 10: Analista de Previdência Complementar –Área de Atuação: Tecnologia",
+  "ano": 2021,
+  "ref": "Cebraspe FUNPRESP - EXE 2021 · Cargo 10: Analista de Previdência Complementar –Área de Atuação: Tecnologia",
+  "url": "https://cdn.cebraspe.org.br/concursos/FUNPRESP_21/arquivos/648_FUNPRESP_EXE_010_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/FUNPRESP_21/arquivos/GAB_DEFINITIVO_648_FUNPRESP_EXE_010_01.PDF",
+  "item": "112",
+  "contexto": "Julgue os próximos itens a respeito de banco de dados.",
+  "enunciado": "Um relacionamento N:N no modelo entidade-relacionamento dá origem a uma tabela associativa no modelo físico do banco de dados.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": null,
+  "nivel": "Fácil",
+  "padrao": "N:N origina tabela associativa",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-relacionamento-nn-tabela-associativa"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+  "banca": "Cebraspe",
+  "orgao": "BDMG_24",
+  "cargo": "ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+  "ano": 2024,
+  "ref": "Cebraspe BDMG_24 2024 · ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+  "url": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/031_BDMG_002_01.pdf",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/Gab_Definitivo_031_BDMG_002_01.PDF",
+  "item": "73",
+  "contexto": "Julgue os próximos itens, a respeito de segurança e auditoria de bancos de dados.",
+  "enunciado": "Ocorre transação confirmada (commit) quando há informações suficientes no log do banco de dados para garantir que, mesmo se houver falha no sistema, as atualizações da transação serão refeitas.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": "Com log de transações (WAL), após falha as transações confirmadas são refeitas e as não confirmadas desfeitas (rollback)",
+  "nivel": "Médio",
+  "padrao": "Commit pressupõe log suficiente para refazer a transação após falha",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-log-wal-redo-undo-recuperacao"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+  "banca": "Cebraspe",
+  "orgao": "BDMG_24",
+  "cargo": "ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+  "ano": 2024,
+  "ref": "Cebraspe BDMG_24 2024 · ÊNFASE 2 – INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA",
+  "url": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/031_BDMG_002_01.pdf",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/BDMG_24/arquivos/Gab_Definitivo_031_BDMG_002_01.PDF",
+  "item": "76",
+  "contexto": "No que se refere à administração de banco de dados, julgue os itens que se seguem.",
+  "enunciado": "Uma instância de um banco de dados SQL compreende a organização lógica dos dados com seus atributos e seus domínios correspondentes.",
+  "figura": "",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": null,
+  "nivel": "Médio",
+  "padrao": "Troca esquema (organização lógica) por instância (dados em dado momento)",
+  "tags": [
+   "TROCA_TERMO"
+  ],
+  "nucleos": [
+   "n-esquema-banco-definicao"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "stm-2025-c03-apoio-especializado-especialidade-an",
+  "banca": "Cebraspe",
+  "orgao": "STM_25",
+  "cargo": "CARGO 3: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: ANÁLISE DE SISTEMAS",
+  "ano": 2025,
+  "ref": "Cebraspe STM_25 2025 · CARGO 3: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: ANÁLISE DE SISTEMAS",
+  "url": "https://cdn.cebraspe.org.br/concursos/STM_25/arquivos/072_STM_003_01.pdf",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/STM_25/arquivos/Gab_Definitivo_072_STM_003_01.pdf",
+  "item": "66",
+  "contexto": "No que se refere à integração de sistemas, à arquitetura de software, aos testes de software e aos bancos de dados, julgue os itens subsecutivos.",
+  "enunciado": "Stored procedures em PL/SQL são estruturas armazenadas diretamente no banco de dados que permitem a execução de instruções SQL pré-compiladas, o que reduz o tráfego de rede e melhora o desempenho das aplicações.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.9",
+  "tema": "P3·DADOS 1.9",
+  "subtema": "Stored procedures são armazenadas no banco, pré-compiladas, e reduzem tráfego de rede melhorando o desempenho",
+  "nivel": "Fácil",
+  "padrao": "Stored procedures pré-compiladas reduzem tráfego e melhoram desempenho",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-stored-procedure-precompilada-reduz-trafego"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "cnj-2024-c02-apoio-especializado-especialidade-an",
+  "banca": "Cebraspe",
+  "orgao": "CNJ_24",
+  "cargo": "CARGO 2: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: ANÁLISE DE SISTEMAS",
+  "ano": 2024,
+  "ref": "Cebraspe CNJ_24 2024 · CARGO 2: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: ANÁLISE DE SISTEMAS",
+  "url": "https://cdn.cebraspe.org.br/concursos/CNJ_24/arquivos/979_CNJ_002_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/CNJ_24/arquivos/GAB_DEFINITIVO_979_CNJ_002_01.PDF",
+  "item": "62",
+  "contexto": "Acerca das tecnologias que atendem a PDPJ-Br, julgue os próximos itens.",
+  "enunciado": "O banco de dados PostgreSQL possui um tratamento automático para resolver situações de deadlock, embora seja difícil prever qual das transações conflitantes será interrompida.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": "O PostgreSQL detecta deadlock automaticamente e aborta uma das transações, sendo difícil prever qual",
+  "nivel": "Médio",
+  "padrao": "PostgreSQL detecta deadlock e aborta uma transação",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-postgresql-deadlock-deteccao-automatica"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "pc-df-adm-2024-c01-analista-informatica-area-atuacao",
+  "banca": "Cebraspe",
+  "orgao": "PC DF 24 ADM",
+  "cargo": "CARGO 1: GESTOR DE APOIO ÀS ATIVIDADES POLICIAIS CIVIS – ESPECIALIDADE: ANALISTA DE INFORMÁTICA – ÁREA DE ATUAÇÃO: BANCO DE DADOS",
+  "ano": 2024,
+  "ref": "Cebraspe PC DF 24 ADM 2024 · CARGO 1: GESTOR DE APOIO ÀS ATIVIDADES POLICIAIS CIVIS – ESPECIALIDADE: ANALISTA DE INFORMÁTICA – ÁREA DE ATUAÇÃO: BANCO DE DADOS",
+  "url": "https://cdn.cebraspe.org.br/concursos/PC_DF_24_ADM/arquivos/021_PCDF_001_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/PC_DF_24_ADM/arquivos/GAB_DEFINITIVO_021_PCDF_001_01.PDF",
+  "item": "67",
+  "contexto": "A respeito de arquitetura, segurança, integridade, concorrência, recuperação após falhas e gerenciamento de transições em sistemas de gerenciamento de banco de dados (SGDB), julgue os próximos itens.",
+  "enunciado": "Se a recuperação de falhas for realizada por meio do rollback, o SGDB que utiliza log de transações retornará todas as transições, tanto as confirmadas quanto as não confirmadas, a fim de garantir que o sistema retorne ao estado anterior à falha. JUSTIFICATIVA - Errado. Em SGBDs que utilizam log de transações, o processo de recuperação de falhas usa “rollback” para desfazer transações não confirmadas, assegurando que apenas as transações confirmadas permaneçam no banco de dados. Isso mantém a integridade dos dados, revertendo operações não concluídas em caso de falha.",
+  "figura": "<FimJust>",
+  "gabarito": "E",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.5",
+  "tema": "P3·DADOS 1.5",
+  "subtema": null,
+  "nivel": "Médio",
+  "padrao": "Rollback desfaz apenas transações não confirmadas, não as confirmadas",
+  "tags": [
+   "ESCOPO"
+  ],
+  "nucleos": [
+   "n-log-wal-redo-undo-recuperacao"
+  ],
+  "peso_prova": 1.0
+ },
+ {
+  "prova_id": "petrobras-ns-2021-c06-analista-sistemas-processos-negocio",
+  "banca": "Cebraspe",
+  "orgao": "PETROBRAS 21",
+  "cargo": "Ênfase 6: Analista de Sistemas – Processos de negócio",
+  "ano": 2021,
+  "ref": "Cebraspe PETROBRAS 21 2021 · Ênfase 6: Analista de Sistemas – Processos de negócio",
+  "url": "https://cdn.cebraspe.org.br/concursos/PETROBRAS_21_NS/arquivos/658_PETROBRAS_006_01.PDF",
+  "url_gab": "https://cdn.cebraspe.org.br/concursos/PETROBRAS_21_NS/arquivos/GAB_DEFINITIVO_658_PETROBRAS_006_01.PDF",
+  "item": "53",
+  "contexto": "658006_01N588237 -- CONHECIMENTO BLOCO I Quanto aos conceitos relativos à arquitetura de dados, julgue os itens a seguir.",
+  "enunciado": "Em normalização de banco de dados, na terceira forma normal os valores em um registro que não fazem parte da chave desse registro não pertencem à tabela; em geral, sempre que o conteúdo de um grupo de campos se aplica a mais de um único registro na tabela, recomenda-se colocar esses campos em uma tabela separada.",
+  "figura": "",
+  "gabarito": "C",
+  "fonte": "oficial-tema-p3-dados-2",
+  "edital": "P3·DADOS 1.1",
+  "tema": "P3·DADOS 1.1",
+  "subtema": "Na 3FN, atributos não-chave dependem apenas da chave; grupos de campos que se repetem para vários registros vão para tabela separada",
+  "nivel": "Médio",
+  "padrao": "3FN: atributos não-chave dependem só da chave; grupos repetidos vão para outra tabela",
+  "tags": [
+   "NORMA_LITERAL"
+  ],
+  "nucleos": [
+   "n-3fn"
+  ],
+  "peso_prova": 1.0
+ }
+]

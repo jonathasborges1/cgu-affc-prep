@@ -1,7 +1,7 @@
 {
   "modelo": "p1-tfidf-svm-v1",
   "rotulos": 593,
-  "itens_unicos": 18872,
+  "itens_unicos": 19073,
   "validacao_temporal": {
     "n": 466,
     "curvas": [
@@ -194,12 +194,12 @@
       "precisao": 0.851063829787234,
       "cobertura_positivos": 0.17857142857142858
     },
-    "descartados_provaveis_p1": 406
+    "descartados_provaveis_p1": 417
   },
   "auto_total": 280,
   "auto_p1": 280,
   "auto_outro": 0,
-  "revisao": 18592,
+  "revisao": 18793,
   "por_topico": {
     "P1·ETICA 4": 3,
     "P1·ADM 3": 30,

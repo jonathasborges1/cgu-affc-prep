@@ -1,0 +1,439 @@
+-- CONHECIMENTO
+A respeito da segurança e higiene do trabalho em obras de
+engenharia, julgue os itens a seguir.
+51 A responsabilidade legal por violações das normas de
+segurança recai principalmente sobre os gerentes de projeto.
+52 A implantação de medidas de segurança no trabalho é
+responsabilidade exclusiva do empregador.
+Julgue os seguintes itens, relativos a projeto e execução de
+edificações.
+53 A estabilização de taludes com a técnica de solo grampeado
+é ineficaz em meios porosos predominantemente arenosos.
+54 Provas de carga são dispensáveis na execução de fundações
+caso o estudo geotécnico seja detalhado e conclusivo.
+55 Em escavações profundas, o uso de poços de drenagem é
+suficiente para controlar o nível de água subterrânea.
+56 O uso de geotêxteis é recomendado para a contenção de
+taludes expostos a altos níveis de erosão superficial.
+57 A análise de estabilidade de taludes temporários é
+prescindível se as paredes da escavação forem escoradas.
+A respeito de projeto e execução de rodovias e ferrovias, julgue
+os itens subsequentes.
+58 Drenos franceses são eficazes para a interceptação do fluxo
+de água subterrânea em terraplenos de ferrovias.
+59 Em projeto de camadas de sub-base de rodovias,
+recomenda-se a determinação do módulo de resiliência por
+meio de ensaios triaxiais.
+60 O ensaio de vane test é inadequado para a determinação da
+capacidade de carga em solos granulares sob rodovias.
+A respeito dos processos de tratamento de esgotos, julgue os itens
+a seguir.
+61 Em uma estação de tratamento de esgotos, a remoção de
+sólidos grosseiros é feita por meio de gradeamento e
+peneiramento.
+62 Mesmo em área desprovida de rede pública coletora de
+esgoto, um sistema de tanque séptico não pode ser utilizado
+para o tratamento de despejos de estabelecimentos
+prestadores de serviços de saúde, sendo recomendável o uso
+de biodigestores.
+Acerca dos ensaios utilizados para verificar as propriedades
+físicas e mecânicas de materiais betuminosos e dos agregados,
+comumente utilizados em obras de pavimentação rodoviária,
+julgue os itens seguintes.
+63 O comportamento resiliente de misturas betuminosas pode
+ser avaliado por meio de prova de carga sobre placa.
+64 A distribuição granulométrica dos agregados é determinada,
+usualmente, por meio de uma análise por peneiramento.
+A sondagem a percussão, também conhecida como SPT
+(standard penetration test), é um dos tipos de sondagem mais
+executadas em investigações geotécnicas. Acerca desse tipo de
+prospecção, julgue o item subsecutivo.
+65 O índice de resistência a penetração (N) é determinado pelo
+número de golpes correspondente à cravação de 30 cm do
+amostrador padrão, após a cravação inicial de 15 cm.
+Julgue os próximos itens, referentes à mecânica dos solos.
+66 O ângulo de atrito é um parâmetro usado para medir a
+resistência ao cisalhamento do solo, ao passo que sua
+deformabilidade é medida pela coesão.
+67 O comportamento das areias sob baixos níveis de tensão é
+praticamente constante, independentemente do índice de
+vazios inicial.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+OS ESPECÍFICOS -Em relação a projetos e execução de barragens de terra, julgue os
+itens subsequentes.
+Para esse tipo de barragem, a construção do sistema
+extravasor deve ser feita, preferencialmente, em terreno
+firme, fora do maciço (aterro).
+69 A proteção contra piping no interior do corpo da barragem
+ou na sua fundação é feita para facilitar a saída de água e
+reduzir a sua velocidade de infiltração, que pode ser
+diminuída por meio do emprego de materiais menos
+permeáveis, sendo a orientação favorável ao percurso da
+água obtida com a instalação de sistemas drenantes.
+70 A trincheira de vedação, ou cut-off, é a primeira estrutura a
+ser instalada durante a execução desse tipo de barragem,
+pois, na elevação e na compactação do maciço, o curso de
+água será desviado para o seu interior, por onde escoará,
+facilitando os trabalhos de construção da barragem.
+68
+
+Julgue o próximo item, relativo a resistência dos materiais e
+análise material.
+71
+
+Um material dúctil é caracterizado por apresentar, durante o
+ensaio de tração, no início do diagrama, tensão e deformação
+em crescimento de maneira proporcional, até atingir o ponto
+de escoamento, em que se observa uma longa deformação,
+com pouco aumento da carga aplicada.
+
+A figura a seguir ilustra uma barra homogênea de
+comprimento L, seção transversal uniforme de área A, constituída
+por um material que apresenta módulo de elasticidade E, sendo
+solicitada por uma força axial centrada P (desprezam-se os
+efeitos do peso próprio da barra).
+
+Com base nessas informações, julgue o item a seguir, relativo a
+esforços em uma seção.
+72 A deformação total da barra, para um carregamento que não
+extrapole o regime elástico do material, é dada por
+
+௉஺
+ா௅
+
+.
+
+A figura seguinte ilustra uma viga biengastada, constituída
+de um material homogêneo de módulo de elasticidade E,
+comprimento L e seção transversal uniforme de área A,
+submetida a uma variação de temperatura de intensidade ΔT
+(desprezam-se os efeitos do peso próprio da viga).
+
+Com base nessas informações, julgue os seguintes itens.
+73 Para uma variação de temperatura positiva, o esforço normal
+de compressão será o único atuante sobre a viga.
+74 A tensão atuante na barra, considerando-se que a solicitação
+permaneça dentro do regime elástico, em módulo, é igual a
+EαΔT, em que α é o coeficiente de dilatação térmica.
+
+
+A figura seguinte representa uma viga de concreto
+armado, engastada, de seção transversal retangular, com
+comprimento L = 3 m, submetida exclusivamente a um
+carregamento uniformemente distribuído q = 10 kN/m.
+
+A partir dessas informações, julgue os itens a seguir,
+considerando um eixo horizontal x orientado da esquerda para a
+direita e com origem no engaste.
+75 A armadura longitudinal principal deve ser posicionada
+próxima à face superior da viga, a fim de reforçar a região
+tracionada da peça, já que o concreto é um material pouco
+resistente à tração.
+76 A função do esforço cortante ao longo do eixo x é dada por
+V(x) = −30 − 10x.
+77 A função do momento fletor ao longo do eixo x é dada por
+M(x) = −45 − 30x − 5x2.
+Julgue os itens a seguir, relativos a dimensionamento de
+estruturas em concreto.
+78 A fluência é um tipo de deformação de natureza elástica que
+surge imediatamente após a retirada do escoramento, sendo
+função da umidade relativa do ar e das dimensões das peças.
+79 O dimensionamento das peças de concreto pré-moldado deve
+levar em consideração o tipo de transporte que será utilizado
+para conduzir os elementos até seu local de utilização.
+80 As armaduras ativas são submetidas a forças de compressão
+aplicadas antes de a peça estrutural entrar em serviço, a fim
+de que sejam originadas tensões de compressão na referida
+peça, que reduzirão as tensões de tração a serem produzidas
+no concreto.
+Acerca da composição e aplicação de índices para atualização de
+custos na construção civil, julgue os itens a seguir.
+81 Em uma contratação pública regida pela Lei n.º 14.133/2021,
+a administração deverá indicar, no respectivo contrato de
+prestação de serviços, cláusula que estabeleça o índice de
+reajustamento de preço, com data-base vinculada à data do
+orçamento estimado.
+82 Em 2023, com vistas à atualização da estrutura de
+ponderação do índice nacional de custo na construção, o
+Instituto Brasileiro de Economia alterou a abrangência
+geográfica da composição do índice, acrescentando uma
+cidade às sete anteriormente consideradas por região:
+São Paulo, Rio de Janeiro e Belo Horizonte (Sudeste); Recife
+e Salvador (Nordeste); Manaus (Norte); Porto Alegre (Sul); e
+Brasília (Centro-Oeste).
+Julgue os próximos itens, relativos a emissão de ART e análise
+de documentação técnica para a concessão de aditivos
+contratuais.
+83 Registros de variação do valor contratual para fazer face ao
+reajuste ou à repactuação de preços previstos no próprio
+contrato poderão ser realizados por simples apostila, não
+sendo necessária a celebração de termo aditivo.
+84 Nas hipóteses em que for adotada a contratação integrada ou
+semi-integrada, poderão ser concedidas alterações dos
+valores contratuais, por ocorrência de evento superveniente
+alocado na respectiva matriz de riscos como de
+responsabilidade da administração.
+85 Profissionais indicados pela licitante para fins de
+qualificação técnico-profissional deverão participar da
+execução contratual e não poderão ser substituídos, mesmo
+que por outros profissionais com comprovada experiência
+equivalente ou superior.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+Julgue os itens subsequentes, referentes a patologias em obras de
+engenharia civil.
+86
+
+Uma das causas relacionadas à erosão interna é a ocorrência
+do fenômeno denominado piping, que ocorre quando há a
+formação de caminhos preferenciais na estrutura, com o
+consequente carreamento de partículas de solo pelo maciço,
+devido ao fluxo de água excessivo de montante para jusante.
+
+87
+
+As trincas de tração indicam descontinuidade do maciço
+geológico, provocando a diminuição da resistência ao
+cisalhamento e a exposição da estrutura a infiltrações, e
+podem ser causadas por fatores condicionantes e por fatores
+desencadeantes; nesse contexto, características intrínsecas
+aos materiais naturais, como composição do solo, relevo e
+declividade, são classificadas como fatores condicionantes.
+
+88
+
+Considere que tenha sido identificada uma fissura em uma
+edificação, com inclinação próxima a 45° e variações entre
+as dimensões das aberturas em seus extremos. Nesse caso, há
+indícios de patologia causada por processo de recalque
+diferencial na fundação da edificação, podendo a regra de
+Dickran, também conhecida como regra da mediatriz, ser
+utilizada como técnica auxiliar para a identificação do
+elemento estrutural provocador da fissura.
+
+A respeito de canais de acesso, julgue os itens seguintes.
+89
+
+Na decisão sobre a velocidade em função da qual serão
+efetuados os cálculos de largura de um canal, é aconselhável
+verificar se ela é compatível com a profundidade disponível;
+a verificação pode ser realizada por meio do cálculo da
+resistência hidrodinâmica ao movimento de um navio em
+águas rasas.
+
+90
+
+Na concepção de um projeto de canal de acesso, devem-se
+observar variáveis relacionadas ao alinhamento, à largura e à
+profundidade do canal; para a definição da largura do canal,
+devem-se avaliar diversos aspectos, como manobrabilidade
+básica, fatores ambientais, auxílios a navegações
+disponíveis, tipo de carga, distância de passagem e distância
+às margens.
+
+Acerca do controle da administração pública, julgue os itens
+subsequentes.
+91
+
+Ao tomar conhecimento de uma ilegalidade na administração
+pública, o servidor público tem o direito de abrir uma
+representação a um órgão de controle ou à própria
+administração em que a situação ocorreu.
+
+92
+
+Ao fiscalizar os atos praticados durante a execução de um
+contrato administrativo, o agente público está realizando um
+controle concomitante em relação ao momento.
+
+93
+
+Os trabalhos de auditoria realizados em órgãos do
+Poder Executivo federal pelo Tribunal de Contas da União
+são considerados atos de controle interno.
+
+94
+
+Caso a administração pública considere oportuno ou
+conveniente, poderá revogar seus próprios atos
+administrativos, prescindindo-se de eventuais direitos
+obtidos em relação ao período de vigência desses atos.
+
+95
+
+Quando o controle parlamentar é realizado pelo
+Congresso Nacional ou pelas comissões parlamentares,
+ocorre o exercício do controle de forma direta.
+
+
+Julgue os itens subsequentes quanto à Lei de Improbidade
+Administrativa, ao controle da atividade financeira do Estado, à
+Lei n.º 14.133/2021 e à Instrução Normativa do TCEAC
+n.º 12/2016.
+96 Mesmo que o relator de um processo de prestação de contas
+anual seja voto vencido, seu voto também integrará o
+acórdão, o qual conterá, além do relatório e voto, a ementa
+com o resumo da decisão.
+97 Quando houver fundados indícios de responsabilidade em
+um processo administrativo, a comissão processante
+promoverá o sequestro de bens do agente que houver
+enriquecido ilicitamente.
+98 Se uma representação for rejeitada pela autoridade
+administrativa por não conter as formalidades relativas às
+informações sobre o fato, a sua autoria e a indicação das
+provas, esta rejeição impedirá a representação ao
+Ministério Público.
+99 Quando considerar conveniente, o órgão licitante poderá
+realizar a análise e avaliação da conformidade da proposta,
+na fase de julgamento, em relação ao licitante
+provisoriamente vencedor do processo licitatório.
+100 No que se refere aos elementos de economicidade relativos
+às despesas públicas do Estado, é necessário averiguar a
+utilização da melhor relação custo/benefício para alcançar a
+finalidade da despesa, auferindo o menor gasto possível.
+Em relação ao orçamento público, julgue os itens a seguir.
+101 No orçamento base-zero, é realizado um reexame crítico das
+despesas de cada área governamental, de modo que não há
+direitos adquiridos em relação aos montantes gastos ou ao
+nível de atividade da ação governamental realizada no ano
+anterior.
+102 O princípio da discriminação orçamentária era integralmente
+cumprido no Brasil até o surgimento da Lei de
+Responsabilidade Fiscal (LRF), que previa, desde sua
+primeira versão, a possibilidade de se constituir reserva de
+contingência.
+103 O orçamento público, em sua concepção tradicional,
+consistia em uma autorização para que o Poder Executivo
+arrecadasse tributos e realizasse despesas, de modo que o
+aspecto econômico era de importância secundária para o
+Poder Legislativo.
+Julgue os itens seguintes, no que diz respeito ao sistema de
+planejamento e orçamento, ao plano plurianual, à lei de diretrizes
+orçamentárias, ao orçamento anual e aos créditos ordinários e
+adicionais.
+104 Os órgãos setoriais e específicos ficam sujeitos à orientação
+normativa e à supervisão técnica do órgão central do sistema
+de planejamento e orçamento federal, sem prejuízo da
+subordinação ao órgão em cuja estrutura administrativa
+estiverem integrados.
+105 O plano plurianual estabelecerá, de forma regionalizada, as
+diretrizes, os objetivos e as metas da administração pública
+para as despesas de capital e outras delas decorrentes, bem
+como as diretrizes de política fiscal e respectivas metas, em
+consonância com a trajetória sustentável da dívida pública.
+106 De acordo com a LRF, a lei de diretrizes orçamentárias deve
+dispor sobre critérios e forma de limitação de empenho,
+normas relativas ao controle de custos e à avaliação dos
+resultados dos programas financiados com recursos dos
+orçamentos e demais condições e exigências para
+transferências de recursos a entidades públicas e privadas.
+107 Na lei orçamentária anual, os orçamentos fiscal, de
+investimento e da seguridade social terão, entre suas funções,
+a de reduzir as desigualdades inter-regionais, segundo
+critério populacional, quando forem compatibilizados com o
+plano plurianual e com a lei de diretrizes orçamentárias.
+
+
+CEBRASPE – TCEAC – Edital: 2024
+108 A abertura de créditos adicionais especiais e extraordinários
+
+depende da existência de recursos disponíveis, sendo
+possível o uso de superávit financeiro ou do excesso de
+arrecadação apurados em balanço patrimonial do exercício
+corrente.
+Em relação à despesa pública, julgue os próximos itens.
+109 Entre as ações orçamentárias, as atividades envolvem um
+
+conjunto de operações que se realizam de modo contínuo e
+permanente, das quais resulta um produto necessário à
+manutenção da ação de governo.
+110 Os restos a pagar consistem nas despesas empenhadas mas
+
+não pagas até 31 de dezembro, as quais deverão ser pagas
+no ano seguinte, podendo, no caso dos restos a pagar não
+processados, a liquidação ocorrer após o pagamento.
+Julgue os itens subsecutivos, referentes à elaboração de relatórios
+de auditoria de conformidade.
+111 A
+
+recomendação
+
+formulada
+
+pelo
+
+auditor
+
+deve
+
+ser
+
+construtiva, prática e detalhada, de modo a evitar a
+ocorrência de dúvidas a respeito do modo como a situação
+descrita no achado de auditoria deve ser corrigida.
+112 Considere que um auditor declare, na conclusão do relatório,
+
+que nada chegou ao seu conhecimento para fazê-lo acreditar
+que o objeto não está em conformidade com os critérios
+aplicáveis. Nessa situação, configura-se um trabalho de
+asseguração limitada.
+Com base nos princípios de auditoria do setor público, julgue os
+itens seguintes.
+113 O auditor deve atuar de forma colaborativa, evitando postura
+
+de ceticismo e fazendo uso de julgamento profissional.
+114 Nos trabalhos de certificação, quem mensura e avalia o
+
+objeto de acordo com os critérios é o auditor.
+Entre as informações prestadas por uma equipe de
+auditoria em seu relatório, consta a seguinte: “O programa de
+combate à desnutrição infantil não alcançou o objetivo esperado,
+uma vez que apenas 20% das ações previstas foram
+implementadas e a quantidade de casos de internação por
+desnutrição cresceu acima da média de outros estados”.
+A partir dessa situação hipotética, julgue o próximo item, com
+base nas Normas Brasileiras de Auditoria do Setor Público
+(NBASP).
+115 A informação destacada na situação evidencia um tipo de
+
+auditoria em que a materialidade em valor monetário, ou
+seja, o volume de recursos financeiros envolvidos no
+programa avaliado, deve ser uma preocupação primária dos
+auditores.
+
+
+À luz dos princípios de auditoria financeira aplicáveis ao setor públ
+116 Uma opinião modificada deve ser emitida quando o auditor
+demonstrações contábeis foram elaboradas, em todos os aspe
+aplicável.
+117 Em um trabalho de auditoria realizado a pedido do Poder Legi
+da auditoria.
+118 Entre os cinco componentes do sistema de controle interno d
+entidade e as atividades de controle.
+119 Em circunstâncias de auditoria nas quais os procedimentos su
+risco identificado, o auditor deverá efetuar testes de controle.
+120 Assim como a administração da entidade e os responsáveis pe
+pela prevenção e detecção de fraudes.
+Espaço livre
+
+
+CEBRASPE – TCEAC – Edital: 2024
+
+lico, julgue os itens subsequentes.
+r obtém evidência de auditoria suficiente e apropriada de que as
+ectos relevantes, de acordo com a estrutura de relatório financeiro
+
+islativo, todas as partes devem chegar a um acordo sobre os termos
+
+de uma entidade, incluem-se o processo de avaliação de riscos da
+
+ubstantivos isoladamente não sejam suficientes para responder ao
+
+ela governança, o auditor também detém responsabilidade primária
+
+

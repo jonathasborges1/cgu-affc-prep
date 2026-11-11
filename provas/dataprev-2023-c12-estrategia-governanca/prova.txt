@@ -1,0 +1,304 @@
+     89301201495124
+
+                                  -- CONHECIMENTO
+Julgue os itens a seguir, relativos a estratégia organizacional e
+processo administrativo.
+51 No processo administrativo, cabe à função de direção definir
+   tanto o uso dos recursos quanto as atribuições de
+   responsabilidade dos membros da equipe.
+52 A gestão estratégica projeta as ações organizacionais em
+   longo prazo e nela estão incluídas a gestão financeira de
+   pessoas e a gestão organizacional.
+53   Ações corretivas e avaliação de desempenho são tarefas
+     típicas da função controle.
+
+A respeito de planejamento estratégico, julgue os itens a seguir.
+54   O planejamento estratégico engloba projeções futuras que
+     envolvem variáveis internas e externas à organização, o que
+     contribui para seu elevado grau de subjetividade.
+55   O planejamento estratégico engloba a análise SWOT, que
+     prevê a identificação de ameaças, oportunidades, pontos
+     fortes e pontos fracos da organização.
+56   Inicia-se o processo de planejamento estratégico com a
+     escolha dos objetivos estratégicos organizacionais, os quais
+     podem visar ao lucro, à expansão, à autonomia e(ou) à
+     sustentabilidade.
+57   O desenvolvimento do planejamento estratégico ocorre no
+     nível operacional, razão pela qual contém planos táticos e
+     operacionais.
+58   O planejamento estratégico contempla os principais
+     stakeholders da organização, os quais englobam todas as
+     pessoas afetadas, direta ou indiretamente, pela organização.
+59   A missão organizacional refere-se à projeção futura
+     desejada, ou seja, ao que a organização pretende se tornar no
+     futuro, e deve constar do planejamento estratégico.
+
+Julgue os itens subsecutivos, relativos a estratégia organizacional
+e suas aplicações.
+60   O balanced scorecard é uma ferramenta voltada à definição
+     das metas e dos propósitos organizacionais em nível
+     institucional.
+61   O balanced scorecard é integralmente baseado na
+     combinação de duas perspectivas básicas de análise, a
+     perspectiva financeira e a perspectiva dos clientes, a partir
+     das quais desdobram-se todas as análises.
+62   A Matriz GUT é uma ferramenta que permite priorizar
+     problemas para tomada de decisão ao considerar critérios
+     como metas (goals), utilidade (utility) e tempo (time).
+63   Benchmarking é uma ferramenta de apoio à gestão do
+     desempenho baseada na comparação de atividades
+     específicas sob perspectiva intraorganizacional ou
+     interorganizacional.
+64   O Ciclo PDCA é uma ferramenta de apoio à gestão de
+     processos na organização e envolve as tarefas de planejar,
+     implementar, verificar e agir.
+65   Entre as ferramentas de gestão da qualidade destaca-se a
+     ferramenta 5W2H, que operacionaliza os princípios da
+     gestão da qualidade total (TQM).
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+
+OS ESPECÍFICOS --
+ Acerca das noções básicas de auditoria interna e externa,
+ gerenciamento de riscos e metodologia COSO, julgue os itens
+ a seguir.
+ 66 O julgamento profissional do auditor é desnecessário para a
+      avaliação de evidências apropriadas e suficientes, uma vez
+      que essa avaliação é uma questão objetiva, baseada nos
+      critérios definidos pelas normas de auditoria.
+ 67 O COSO (Committee of Sponsoring Organizations of the
+      Treadway Commission) apresenta o conceito de apetite a
+      risco, que se relaciona ao nível de risco que uma organização
+      está disposta a assumir para a geração de valor.
+ 68 A auditoria interna é uma atividade que visa a aprimorar os
+      processos de governança, manejo de riscos e controle da
+      organização, enquanto a auditoria externa é realizada por um
+      auditor independente, com foco na emissão de uma opinião
+      acerca das demonstrações financeiras da entidade.
+ 69 A auditoria interna tem como objetivo principal assegurar
+      que não ocorram erros ou fraudes dentro da organização.
+ 70 Dentre os tipos de riscos de auditoria, o risco inerente é o
+      que está associado à susceptibilidade das afirmações a
+      distorções, enquanto o risco de detecção diz respeito à
+      capacidade da auditoria em identificar distorções existentes.
+ No que se refere ao controle interno, seus conceitos básicos, seus
+ objetivos e sua estrutura, julgue os itens seguintes.
+ 71 O ambiente de controle é composto por elementos como
+     integridade e valores éticos; compromisso com a
+     competência; estrutura organizacional; atribuições de
+     autoridades; e responsabilidades no ambiente de trabalho da
+     entidade.
+ 72 O controle interno avalia as normas e rotinas aplicáveis aos
+     negócios das entidade, mas não tem relação com a promoção
+     da eficiência e da melhoria dos processos gerenciais da
+     entidade.
+ 73 O controle interno é parte da assessoria direta da alta
+     administração, de modo que não possui autonomia e
+     independência na execução dos trabalhos de auditoria
+     interna.
+ 74 A extensão dos procedimentos de auditoria é determinada
+     considerando-se a materialidade envolvida nas transações e o
+     grau de segurança planejado, independentemente do risco
+     que possa ser avaliado pelo auditor.
+ 75 Caso um auditor detecte desvios de controles nos quais ele
+     pretenda confiar, é adequado avaliar se os riscos de distorção
+     relevante devem ser tratados utilizando-se procedimentos
+     substantivos.
+ Julgue os itens que se seguem, relativos à modelagem de
+ processo, análise de processo, transformação do processo,
+ tipologia dos processos, com base no BPM CBOK v.4.0.
+ 76 Processos de suporte são organizados para prover apoio a
+      processos primários com a principal característica de gerar
+      valor diretamente ao cliente.
+ 77 Regra de negócio representada no gateway e objetos de
+      dados inseridos em raias separadas são erros comuns em
+      modelagem de processos.
+ 78 Levantar o entendimento atual das dificuldades e dos
+      problemas, gaps, gargalos e rupturas é objetivo da análise de
+      processo.
+ 79 Transformação do processo explora vários aspectos, tais
+      como papéis, princípios de um bom projeto, considerações
+      sobre a conformidade e alinhamento estratégico.
+ 80 Os processos primários representam as atividades essenciais
+      que uma organização desempenha, nascendo no cliente e
+      terminando no cliente.
+
+     89301201495124
+
+Acerca de hierarquia do processo e notação de BPMN, julgue os
+itens subsequentes.
+81   A representação de macroprocessos deve seguir os preceitos
+     da representação de processos, atividades e suas
+     interligações estratégicas.
+82   Tarefa é uma decomposição de atividades representada em
+     forma de passos, itens ou em ações em fluxo.
+83   Processos AS-IS representam o estado futuro de processos
+     de negócio, visando produzir alternativas para o estado atual
+     e mudança de paradigmas.
+84   BPMN é uma notação gráfica para modelagem de processo
+     de negócio.
+85   Um dos principais elementos gráficos em BPMN é o
+     gateway, linhas com setas que fazem interconexões
+     necessárias para representar um processo de negócio.
+86   Atividades, em BPMN, podem ser classificadas como tarefas
+     e subprocessos.
+
+A respeito de escritório de processos, ferramentas e tecnologias
+de gerenciamento de processos, tipologia dos processos e
+abordagens de melhoria de processos, julgue os itens
+subsequentes.
+87   Escritórios de processos atuam como um centro de
+     governança, mantendo repositórios de processos atualizados
+     e padrões definidos.
+88   A melhoria de processos evidencia o antes e o depois por
+     meio de indicadores que mostrem resultados melhores que o
+     cenário anterior às ações implementadas.
+89   Bizagi é uma ferramenta de BPMS, possuindo característica
+     de simbologia de tarefa de regra de negócio implementada.
+90   Os processos de gerenciamento têm como característica o
+     contato direto do cliente com o processo, sempre
+     perpassando por vários departamentos.
+
+Acerca do histórico e de conceitos da governança corporativa e
+da teoria dos stakeholders, julgue os itens a seguir.
+91   Críticos da teoria dos stakeholders argumentam que ela é
+     incompatível com as boas práticas de governança, uma vez
+     que possibilitaria a executivos e conselheiros perseguir os
+     próprios interesses à custa dos direitos dos demais
+     participantes da organização.
+92   A Companhia Holandesa das Índias Orientais, criada a partir
+     de uma iniciativa do Estado holandês, tinha alguns poderes
+     tipicamente governamentais.
+93   O principal pensamento de economistas liberais na década
+     de 70 do século XX era que a única responsabilidade social
+     de uma companhia era aumentar seus lucros.
+94   Do ponto de vista interno à organização, a boa governança
+     visa assegurar aos acionistas o exercício pleno de seus
+     direitos de modo equitativo.
+95   Um bom sistema de governança aumenta a confiança junto a
+     todas as partes interessadas, tornando a empresa atraente
+     para credores, acionistas e pessoas interessadas em comprar
+     seus papéis.
+
+                       CEBRASPE – DATAPREV – Edital: 2023
+Julgue os itens que se seguem, relativos à teoria da dependência
+de recursos, à teoria da agência, à abordagem comportamental na
+governança, aos principais órgãos da governança corporativa e
+a riscos e compliance.
+96   No que se refere ao papel dos conselheiros, destaca-se o
+     fornecimento de recursos úteis aos executivos para um
+     melhor desempenho da empresa e experiência prévia junto
+     aos contatos dos conselheiros externos.
+97   A teoria da agência visa explicar problemas de
+     desalinhamento de interesses nas empresas e mecanismos
+     para mitigar seus custos, os quais serão arcados, em última
+     instância, pelos trabalhadores.
+98   Mudanças de leis e de programas governamentais, bem
+     como mudanças tributárias, são exemplos de riscos de
+     natureza estratégica.
+99   O maior risco para a boa governança corporativa é aquele
+     que ocorre quando colaboradores, antes bem-intencionados,
+     passam a se omitir, racionalizando seus comportamentos
+     antiéticos como resultado das elevadas pressões do dia a dia.
+100 É atribuição do comitê de riscos zelar pela adoção de boas
+     práticas de governança, analisando regularmente a eficácia
+     de seus processos e as oportunidades de melhoria.
+
+Com base no Código de Conduta Ética e Integridade da
+DATAPREV, julgue os itens a seguir.
+101 O profissionalismo diz respeito ao desempenho funcional
+     íntegro, assíduo, eficiente, com responsabilidade e zelo e,
+     por isso, é considerado um valor ético da empresa.
+102 Entre os valores organizacionais previstos no Código de
+     Conduta Ética e Integridade está o conceito de
+     comprometimento, que se relaciona à preservação e à
+     proteção dos dados guardados pela DATAPREV.
+103 O Código de Conduta Ética e Integridade aplica-se
+     exclusivamente aos servidores em regime de trabalho
+     presencial.
+104 Prestar serviços, ainda que eventuais, a empresa cuja
+     atividade seja controlada, fiscalizada ou regulada pela
+     DATAPREV é exemplo de conduta caracterizada como
+     conflito de interesse.
+105 Utilizar ou manipular indevidamente dados de segurado ou
+     cidadão é exemplo de conduta caracterizada como uso
+     indevido de informação privilegiada.
+
+Acerca dos princípios, dos valores e da ética no desempenho da
+função pública, julgue os próximos itens.
+106 Para ser considerada ética, a conduta do servidor público
+     deve ser avaliada estritamente pela observância literal das
+     regras, desconsiderando-se, para tanto, a escolha consciente
+     do agente.
+107 A ideia moderna de controle da função pública e de
+     democracia é compatível com a aceitação de oligarquia,
+     autocracia ou despotismo.
+108 A conduta ética é racionalmente justificável e praticada de
+     forma autônoma.
+
+    89301201495124
+
+Com base no que dispõe a Lei n.º 12.527/2011 — Lei de Acesso
+à Informação —, julgue os próximos itens.
+109 É garantido o acesso à informação sobre a administração de
+    recursos públicos, restringindo-se esse acesso a dados sobre
+    contratos administrativos.
+110 Considera-se informação pessoal toda informação que
+    permita a identificação do sujeito individual.
+111 Caso algum órgão negue acesso a uma informação não
+    classificada como sigilosa, garante-se ao cidadão o direito de
+    recorrer à Controladoria-Geral da União.
+112 Após receber um pedido de acesso à informação, o órgão
+    deve impreterivelmente conceder ao solicitante acesso
+    imediato à informação.
+113 As solicitações de acesso à informação podem ser
+    protocoladas anonimamente pelos cidadãos.
+
+Com relação à Lei n.º 13.460/2017 — Lei dos Direitos do
+Usuário dos Serviços Públicos —, julgue os itens a seguir.
+114 A Lei dos Direitos do Usuário dos Serviços Públicos abrange
+    ações dos agentes públicos, que podem exercer cargos,
+    empregos ou funções, desde que remunerados.
+115 A lei em questão aplica-se tanto a pessoas físicas quanto
+    a pessoas jurídicas usuárias ou beneficiárias de serviços
+    públicos.
+116 Os órgãos abrangidos pela referida lei devem avaliar seus
+    serviços em termos de satisfação do usuário, qualidade do
+    atendimento, cumprimento de prazos e quantidade de
+    manifestações de usuários.
+       Em resposta ao Ofício n.º 13, de 30 de agosto de 2023,
+encaminho em anexo os dados requeridos por essa Diretoria para
+elaboração do planejamento estratégico do ano de 2024.
+
+
+Considerando o texto precedente, que corresponde a um
+fragmento de texto de um documento oficial, julgue o item
+seguinte.
+117 O texto estaria de acordo com as normas que regem a
+    redação de documentos oficiais no que diz respeito aos
+    atributos de impessoalidade e uso do registro padrão da
+    língua portuguesa caso fosse assim reescrito: Respondendo o
+    Ofício n.º 13, de 30 de agosto de 2023, encaminha-se anexos
+    os dados solicitados por essa Diretoria para elaborar o plano
+    estratégico do ano de 2024.
+
+Julgue os próximos itens, relativos à recepção e à expedição de
+documentos oficiais.
+118 O documento oficial pode ser encaminhado por e-mail, o
+    qual terá valor documental caso exista certificação digital
+    que ateste a identidade do remetente, em especial se forem
+    adotados os parâmetros de integridade, autenticidade e
+    validade jurídica da ICP-Brasil.
+119 Na identificação do signatário, o cargo ocupado por pessoa
+    do sexo feminino deve ser flexionado no gênero feminino,
+    tal como apresentado nos exemplos a seguir:
+                      Ministra de Estado
+                  Secretária-Executiva interina
+120 Caso o documento oficial seja encaminhado a um superior
+    hierárquico do remetente, deve ser empregada no
+    endereçamento a expressão A sua Senhoria o Senhor e, no
+    fecho, a palavra Respeitosamente.
+
+               CEBRASPE – DATAPREV – Edital: 2023
+Espaço livre
+

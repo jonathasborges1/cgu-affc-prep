@@ -1,0 +1,938 @@
+{
+  "pendencias": [
+    {
+      "prova_id": "inpi-2023-cc1",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-cc1"
+    },
+    {
+      "prova_id": "tce-ac-2024-c08-planejamento-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c08-planejamento-ti"
+    },
+    {
+      "prova_id": "mpo-2024-c04-desenvolvimento-sistemas-orcamentari",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c04-desenvolvimento-sistemas-orcamentari"
+    },
+    {
+      "prova_id": "bdmg-2024-c01-gestao-financas-controladorias",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bdmg-2024-c01-gestao-financas-controladorias"
+    },
+    {
+      "prova_id": "tce-ac-2024-c06-gestao-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c06-gestao-dados"
+    },
+    {
+      "prova_id": "tce-ac-2024-c07-infraestrutura-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c07-infraestrutura-ti"
+    },
+    {
+      "prova_id": "tce-ac-2024-c09-projetos-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c09-projetos-ti"
+    },
+    {
+      "prova_id": "tce-ac-2024-c20-tecnico-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c20-tecnico-informatica"
+    },
+    {
+      "prova_id": "pref-mossoro-rn-2024-c07-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pref-mossoro-rn-2024-c07-tecnologia-informacao"
+    },
+    {
+      "prova_id": "tc-df-auditor-2024-c03-auditor-controle-externo-area",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tc-df-auditor-2024-c03-auditor-controle-externo-area"
+    },
+    {
+      "prova_id": "tce-ac-2024-c10-seguranca-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c10-seguranca-informacao"
+    },
+    {
+      "prova_id": "anm-2024-c25-tecnologia-informacao-governanca-ino",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anm-2024-c25-tecnologia-informacao-governanca-ino"
+    },
+    {
+      "prova_id": "bdmg-2024-cg-bloco-comum",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bdmg-2024-cg-bloco-comum"
+    },
+    {
+      "prova_id": "mpo-2024-c02-desenvolvimento-institucional",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c02-desenvolvimento-institucional"
+    },
+    {
+      "prova_id": "mpo-2024-c03-governanca-gestao-projetos-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c03-governanca-gestao-projetos-ti"
+    },
+    {
+      "prova_id": "mpo-2024-c05-gestao-infraestrutura-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c05-gestao-infraestrutura-ti"
+    },
+    {
+      "prova_id": "mpo-2024-c06-gestao-dados-orcamentarios",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c06-gestao-dados-orcamentarios"
+    },
+    {
+      "prova_id": "mpo-2024-c07-gestao-contratos-ti",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c07-gestao-contratos-ti"
+    },
+    {
+      "prova_id": "mpo-2024-c08-gestao-seguranca-informacao-orcament",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-c08-gestao-seguranca-informacao-orcament"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c01-administracao-banco-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mp-to-servidor-2024-c01-administracao-banco-dados"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c02-administracao-infraestrutura-tecnolo",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mp-to-servidor-2024-c02-administracao-infraestrutura-tecnolo"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c02-analista-informatica-area-atuacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pc-df-adm-2024-c02-analista-informatica-area-atuacao"
+    },
+    {
+      "prova_id": "tema-p3-seg-1-b",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tema-p3-seg-1-b"
+    },
+    {
+      "prova_id": "stj-2024-c03-apoio-especializado-especialidade-an",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py stj-2024-c03-apoio-especializado-especialidade-an"
+    },
+    {
+      "prova_id": "secont-es-2022-c06-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py secont-es-2022-c06-tecnologia-informacao"
+    },
+    {
+      "prova_id": "cnmp-2023-c08-tecnologia-informacao-comunicacao-es",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnmp-2023-c08-tecnologia-informacao-comunicacao-es"
+    },
+    {
+      "prova_id": "codevasf-2024-c01-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c01-administracao"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py funpresp-exe-2024-c09-sistemas-governanca-tecnologia-infor"
+    },
+    {
+      "prova_id": "seplag-ce-2024-c01-gestao-desenvolvimento-pessoas",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py seplag-ce-2024-c01-gestao-desenvolvimento-pessoas"
+    },
+    {
+      "prova_id": "seplag-ce-2024-c03-ciencia-computacao-ou-afins",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py seplag-ce-2024-c03-ciencia-computacao-ou-afins"
+    },
+    {
+      "prova_id": "tce-ac-2024-c01-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c01-administracao"
+    },
+    {
+      "prova_id": "tce-ac-2024-c12-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c12-administracao"
+    },
+    {
+      "prova_id": "tce-ac-2024-c14-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c14-administracao"
+    },
+    {
+      "prova_id": "trf6-2024-c27-apoio-especializado-especialidade-de",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py trf6-2024-c27-apoio-especializado-especialidade-de"
+    },
+    {
+      "prova_id": "cnpq-2023-c02-desenvolvimento",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnpq-2023-c02-desenvolvimento"
+    },
+    {
+      "prova_id": "cnpq-2023-c05-gestao-governanca",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnpq-2023-c05-gestao-governanca"
+    },
+    {
+      "prova_id": "pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pref-jp-cgm-2017-c03-tecnologia-informacao-campo-atuacao"
+    },
+    {
+      "prova_id": "tce-pa-2016-c40-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c40-informatica"
+    },
+    {
+      "prova_id": "tce-pa-2016-c36-informatica-especialidade-web-design",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c36-informatica-especialidade-web-design"
+    },
+    {
+      "prova_id": "tce-pa-2016-c35-informatica-especialidade-analista-s",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c35-informatica-especialidade-analista-s"
+    },
+    {
+      "prova_id": "tce-pa-2016-c34-informatica-especialidade-analista-s",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c34-informatica-especialidade-analista-s"
+    },
+    {
+      "prova_id": "tce-pa-2016-c33-informatica-especialidade-analista-s",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c33-informatica-especialidade-analista-s"
+    },
+    {
+      "prova_id": "tce-pa-2016-c32-informatica-especialidade-administra",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c32-informatica-especialidade-administra"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-x-informatica"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-informatica-especialidade-administra",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-x-informatica-especialidade-administra"
+    },
+    {
+      "prova_id": "dataprev-2023-c07-desenvolvimento-software",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c07-desenvolvimento-software"
+    },
+    {
+      "prova_id": "dataprev-2023-c12-estrategia-governanca",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c12-estrategia-governanca"
+    },
+    {
+      "prova_id": "inpi-2023-c09-a9-gestao-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c09-a9-gestao-tecnologia-informacao"
+    },
+    {
+      "prova_id": "inpi-2023-c10-a10-gestao-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c10-a10-gestao-tecnologia-informacao"
+    },
+    {
+      "prova_id": "inpi-2023-c11-a11-gestao-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c11-a11-gestao-tecnologia-informacao"
+    },
+    {
+      "prova_id": "tbg-2023-c04-desenvolvimento-software",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tbg-2023-c04-desenvolvimento-software"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c02-governanca-auditoria-controle-confor",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py funpresp-exe-2024-c02-governanca-auditoria-controle-confor"
+    },
+    {
+      "prova_id": "tc-df-auditor-2024-cg-bloco-comum",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tc-df-auditor-2024-cg-bloco-comum"
+    },
+    {
+      "prova_id": "seplan-rr-2022-c02-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py seplan-rr-2022-c02-tecnologia-informacao"
+    },
+    {
+      "prova_id": "dpdf-analista-2020-c10-apoio-especializado-especialidade-in",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dpdf-analista-2020-c10-apoio-especializado-especialidade-in"
+    },
+    {
+      "prova_id": "anm-2024-c21-geologia-geografia-geofisica-engenha",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anm-2024-c21-geologia-geografia-geofisica-engenha"
+    },
+    {
+      "prova_id": "anm-2024-c24-tecnologia-informacao-ciencia-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anm-2024-c24-tecnologia-informacao-ciencia-dados"
+    },
+    {
+      "prova_id": "anm-2024-c26-tecnologia-informacao-operacoes",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anm-2024-c26-tecnologia-informacao-operacoes"
+    },
+    {
+      "prova_id": "bdmg-2024-c02-infraestrutura-seguranca-cibernetica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bdmg-2024-c02-infraestrutura-seguranca-cibernetica"
+    },
+    {
+      "prova_id": "bdmg-2024-c03-engenharias",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bdmg-2024-c03-engenharias"
+    },
+    {
+      "prova_id": "bdmg-2024-c04-sistemas-arquitetura-solucoes-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bdmg-2024-c04-sistemas-arquitetura-solucoes-dados"
+    },
+    {
+      "prova_id": "mp-go-servidor-2024-c05-analista-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mp-go-servidor-2024-c05-analista-informatica"
+    },
+    {
+      "prova_id": "mpo-2024-cg-bloco-comum",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mpo-2024-cg-bloco-comum"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c04-analise-sistemas",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mp-to-servidor-2024-c04-analise-sistemas"
+    },
+    {
+      "prova_id": "mp-to-servidor-2024-c19-tecnico-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mp-to-servidor-2024-c19-tecnico-informatica"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c01-analista-informatica-area-atuacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pc-df-adm-2024-c01-analista-informatica-area-atuacao"
+    },
+    {
+      "prova_id": "pc-df-adm-2024-c03-analista-informatica-area-atuacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pc-df-adm-2024-c03-analista-informatica-area-atuacao"
+    },
+    {
+      "prova_id": "stj-2024-c18-apoio-especializado-especialidade-su",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py stj-2024-c18-apoio-especializado-especialidade-su"
+    },
+    {
+      "prova_id": "trt10-2024-c11-apoio-especializado-especialidade-te",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py trt10-2024-c11-apoio-especializado-especialidade-te"
+    },
+    {
+      "prova_id": "petrobras-ns-2021-c04-analista-sistemas-engenharia-softwar",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py petrobras-ns-2021-c04-analista-sistemas-engenharia-softwar"
+    },
+    {
+      "prova_id": "tce-sc-auditor-2021-c01-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-sc-auditor-2021-c01-administracao"
+    },
+    {
+      "prova_id": "fub-2025-c14-sistemas-telecomunicacoes",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py fub-2025-c14-sistemas-telecomunicacoes"
+    },
+    {
+      "prova_id": "fub-2025-c18-tecnico-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py fub-2025-c18-tecnico-tecnologia-informacao"
+    },
+    {
+      "prova_id": "stm-2025-c03-apoio-especializado-especialidade-an",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py stm-2025-c03-apoio-especializado-especialidade-an"
+    },
+    {
+      "prova_id": "stm-2025-c06-apoio-especializado-especialidade-su",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py stm-2025-c06-apoio-especializado-especialidade-su"
+    },
+    {
+      "prova_id": "susep-2025-c04-tecnologia-informacao-ciencia-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py susep-2025-c04-tecnologia-informacao-ciencia-dados"
+    },
+    {
+      "prova_id": "secont-es-2022-c01-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py secont-es-2022-c01-administracao"
+    },
+    {
+      "prova_id": "bcb-2023-c02-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py bcb-2023-c02-tecnologia-informacao"
+    },
+    {
+      "prova_id": "cge-rj-2023-cg-bloco-comum",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cge-rj-2023-cg-bloco-comum"
+    },
+    {
+      "prova_id": "cnmp-2023-c09-tecnologia-informacao-comunicacao-es",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnmp-2023-c09-tecnologia-informacao-comunicacao-es"
+    },
+    {
+      "prova_id": "tce-pa-2016-c38-planejamento-especialidade-economia",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c38-planejamento-especialidade-economia"
+    },
+    {
+      "prova_id": "tce-pa-2016-c37-planejamento-especialidade-administr",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c37-planejamento-especialidade-administr"
+    },
+    {
+      "prova_id": "tce-pa-2016-c20-fiscalizacao-especialidade-administr",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c20-fiscalizacao-especialidade-administr"
+    },
+    {
+      "prova_id": "tce-pa-2016-c03-administrativa-especialidade-adminis",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-c03-administrativa-especialidade-adminis"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-fiscalizacao-especialidade-administr",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-x-fiscalizacao-especialidade-administr"
+    },
+    {
+      "prova_id": "tce-pa-2016-x-administrativa-especialidade-adminis",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pa-2016-x-administrativa-especialidade-adminis"
+    },
+    {
+      "prova_id": "tce-pe-2017-c04-administracao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-pe-2017-c04-administracao"
+    },
+    {
+      "prova_id": "anatel-2024-c02-ciencias-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anatel-2024-c02-ciencias-dados"
+    },
+    {
+      "prova_id": "anm-2024-c22-qualquer-area-formacao-fiscalizacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py anm-2024-c22-qualquer-area-formacao-fiscalizacao"
+    },
+    {
+      "prova_id": "cnj-2024-c02-apoio-especializado-especialidade-an",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnj-2024-c02-apoio-especializado-especialidade-an"
+    },
+    {
+      "prova_id": "cnj-2024-c08-apoio-especializado-especialidade-pr",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnj-2024-c08-apoio-especializado-especialidade-pr"
+    },
+    {
+      "prova_id": "codevasf-2024-x-prova-objetiva-conhecimentos-basicos",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-x-prova-objetiva-conhecimentos-basicos"
+    },
+    {
+      "prova_id": "codevasf-2024-c02-contabilidade",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c02-contabilidade"
+    },
+    {
+      "prova_id": "codevasf-2024-c03-economia",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c03-economia"
+    },
+    {
+      "prova_id": "codevasf-2024-c04-engenharia-civil",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c04-engenharia-civil"
+    },
+    {
+      "prova_id": "codevasf-2024-c05-engenharia-mecanica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c05-engenharia-mecanica"
+    },
+    {
+      "prova_id": "codevasf-2024-c06-engenharia-pesca-aquicultura",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c06-engenharia-pesca-aquicultura"
+    },
+    {
+      "prova_id": "codevasf-2024-c07-estatistica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c07-estatistica"
+    },
+    {
+      "prova_id": "codevasf-2024-c08-geologia",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c08-geologia"
+    },
+    {
+      "prova_id": "codevasf-2024-c09-jornalismo",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c09-jornalismo"
+    },
+    {
+      "prova_id": "codevasf-2024-c10-publicidade-propaganda",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c10-publicidade-propaganda"
+    },
+    {
+      "prova_id": "codevasf-2024-c11-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py codevasf-2024-c11-tecnologia-informacao"
+    },
+    {
+      "prova_id": "cpnuje-2024-c17-apoio-especializado-especialidade-te",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cpnuje-2024-c17-apoio-especializado-especialidade-te"
+    },
+    {
+      "prova_id": "cpnuje-2024-c21-apoio-especializado-especialidade-pr",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cpnuje-2024-c21-apoio-especializado-especialidade-pr"
+    },
+    {
+      "prova_id": "funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py funpresp-exe-2024-c08-estatistica-ciencia-dados-inovacao"
+    },
+    {
+      "prova_id": "pref-cachoeiro-adm-2024-c01-analista-sistemas",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pref-cachoeiro-adm-2024-c01-analista-sistemas"
+    },
+    {
+      "prova_id": "pref-cachoeiro-adm-2024-c26-tecnico-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py pref-cachoeiro-adm-2024-c26-tecnico-informatica"
+    },
+    {
+      "prova_id": "seplag-ce-2024-cg-bloco-comum",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py seplag-ce-2024-cg-bloco-comum"
+    },
+    {
+      "prova_id": "tc-df-procurador-2024-c01-procurador-ministerio-publico-contas",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tc-df-procurador-2024-c01-procurador-ministerio-publico-contas"
+    },
+    {
+      "prova_id": "tce-ac-2024-x-prova-objetiva-conhecimentos-basicos",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-x-prova-objetiva-conhecimentos-basicos"
+    },
+    {
+      "prova_id": "tce-ac-2024-c02-contabilidade",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c02-contabilidade"
+    },
+    {
+      "prova_id": "tce-ac-2024-c03-direito",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c03-direito"
+    },
+    {
+      "prova_id": "tce-ac-2024-c04-engenharia-civil",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c04-engenharia-civil"
+    },
+    {
+      "prova_id": "tce-ac-2024-c05-pedagogia",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c05-pedagogia"
+    },
+    {
+      "prova_id": "tce-ac-2024-c13-direito",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c13-direito"
+    },
+    {
+      "prova_id": "tce-ac-2024-c15-arquitetura",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c15-arquitetura"
+    },
+    {
+      "prova_id": "tce-ac-2024-c16-contabilidade",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c16-contabilidade"
+    },
+    {
+      "prova_id": "tce-ac-2024-c17-direito",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c17-direito"
+    },
+    {
+      "prova_id": "tce-ac-2024-c18-engenharia-civil",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c18-engenharia-civil"
+    },
+    {
+      "prova_id": "tce-ac-2024-c19-tecnico-administrativo-especialidade",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py tce-ac-2024-c19-tecnico-administrativo-especialidade"
+    },
+    {
+      "prova_id": "trf6-2024-c02-apoio-especializado-especialidade-an",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py trf6-2024-c02-apoio-especializado-especialidade-an"
+    },
+    {
+      "prova_id": "trf6-2024-c22-apoio-especializado-especialidade-te",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py trf6-2024-c22-apoio-especializado-especialidade-te"
+    },
+    {
+      "prova_id": "cau-mg-2025-c05-assistente-fiscalizacao-atendimento",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cau-mg-2025-c05-assistente-fiscalizacao-atendimento"
+    },
+    {
+      "prova_id": "fub-2025-c03-auditor",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py fub-2025-c03-auditor"
+    },
+    {
+      "prova_id": "banco-do-nordeste-2022-c02-infraestrutura-seguranca-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py banco-do-nordeste-2022-c02-infraestrutura-seguranca-informacao"
+    },
+    {
+      "prova_id": "mcom-2022-c01-tecnicas-complexidade-gerencial-tecn",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py mcom-2022-c01-tecnicas-complexidade-gerencial-tecn"
+    },
+    {
+      "prova_id": "capes-2023-c05-informatica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py capes-2023-c05-informatica"
+    },
+    {
+      "prova_id": "cau-br-2023-c03-analista-infraestrutura-tecnologia-i",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cau-br-2023-c03-analista-infraestrutura-tecnologia-i"
+    },
+    {
+      "prova_id": "cau-br-2023-c10-assistente-tecnologia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cau-br-2023-c10-assistente-tecnologia-informacao"
+    },
+    {
+      "prova_id": "cnpq-2023-c03-gestao-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnpq-2023-c03-gestao-dados"
+    },
+    {
+      "prova_id": "cnpq-2023-c07-infraestrutura",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cnpq-2023-c07-infraestrutura"
+    },
+    {
+      "prova_id": "cti-2023-c06-tecnologias-habilitadoras-area-atuac",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py cti-2023-c06-tecnologias-habilitadoras-area-atuac"
+    },
+    {
+      "prova_id": "dataprev-2023-c02-advocacia",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c02-advocacia"
+    },
+    {
+      "prova_id": "dataprev-2023-c03-analise-negocio",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c03-analise-negocio"
+    },
+    {
+      "prova_id": "dataprev-2023-c04-arquitetura-engenharia-tecnologica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c04-arquitetura-engenharia-tecnologica"
+    },
+    {
+      "prova_id": "dataprev-2023-c05-comunicacao-social",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c05-comunicacao-social"
+    },
+    {
+      "prova_id": "dataprev-2023-c06-contabilidade",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c06-contabilidade"
+    },
+    {
+      "prova_id": "dataprev-2023-c08-engenharia-civil",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c08-engenharia-civil"
+    },
+    {
+      "prova_id": "dataprev-2023-c11-engenheiro-dados",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c11-engenheiro-dados"
+    },
+    {
+      "prova_id": "dataprev-2023-c13-gestao-pessoas",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c13-gestao-pessoas"
+    },
+    {
+      "prova_id": "dataprev-2023-c14-gestao-servicos-tic",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c14-gestao-servicos-tic"
+    },
+    {
+      "prova_id": "dataprev-2023-c15-gestao-economico-financeira",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c15-gestao-economico-financeira"
+    },
+    {
+      "prova_id": "dataprev-2023-c16-infraestrutura-operacoes-facilities",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c16-infraestrutura-operacoes-facilities"
+    },
+    {
+      "prova_id": "dataprev-2023-c17-inteligencia-informacao",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c17-inteligencia-informacao"
+    },
+    {
+      "prova_id": "dataprev-2023-c18-logistica-aquisicoes-contratos",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c18-logistica-aquisicoes-contratos"
+    },
+    {
+      "prova_id": "dataprev-2023-c20-seguranca",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c20-seguranca"
+    },
+    {
+      "prova_id": "dataprev-2023-c21-sustentacao-tecnologica",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py dataprev-2023-c21-sustentacao-tecnologica"
+    },
+    {
+      "prova_id": "inpi-2023-c12-p1-biologia-celular-molecular",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c12-p1-biologia-celular-molecular"
+    },
+    {
+      "prova_id": "inpi-2023-c14-p3-redes-comunicacao-sem",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c14-p3-redes-comunicacao-sem"
+    },
+    {
+      "prova_id": "inpi-2023-c15-p4-processamento-sinais-processament",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py inpi-2023-c15-p4-processamento-sinais-processament"
+    },
+    {
+      "prova_id": "sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce",
+      "etapa": "classificacao_semantica",
+      "acao": "classificar e validar estruturalmente",
+      "comando": "python scripts/validar_lotes.py sefin-fortaleza-ce-2023-c02-ciencia-computacao-informatica-proce"
+    },
+    {
+      "prova_id": "tce-rj-analista-2021-c01-especialidade-tecnologia-informacao",
+      "etapa": "verificacao_independente",
+      "acao": "sortear amostra, verificar sem ver classificação e comparar",
+      "comando": "python banco.py prova amostra tce-rj-analista-2021-c01-especialidade-tecnologia-informacao"
+    },
+    {
+      "prova_id": "dataprev-2023-c19-seguranca-cibernetica",
+      "etapa": "verificacao_independente",
+      "acao": "sortear amostra, verificar sem ver classificação e comparar",
+      "comando": "python banco.py prova amostra dataprev-2023-c19-seguranca-cibernetica"
+    },
+    {
+      "prova_id": "trf6-2024-c03-apoio-especializado-especialidade-an",
+      "etapa": "verificacao_independente",
+      "acao": "sortear amostra, verificar sem ver classificação e comparar",
+      "comando": "python banco.py prova amostra trf6-2024-c03-apoio-especializado-especialidade-an"
+    },
+    {
+      "prova_id": "banco-do-nordeste-2022-c01-desenvolvimento-sistemas",
+      "etapa": "verificacao_independente",
+      "acao": "sortear amostra, verificar sem ver classificação e comparar",
+      "comando": "python banco.py prova amostra banco-do-nordeste-2022-c01-desenvolvimento-sistemas"
+    }
+  ],
+  "blocos_sem_ordem_confiavel": [
+    "P2",
+    "P3"
+  ]
+}

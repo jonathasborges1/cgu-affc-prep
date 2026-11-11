@@ -1,0 +1,8 @@
+{
+  "concluida": true,
+  "itens": 300,
+  "concordancia": 0.69,
+  "divergencias": 93,
+  "divergencias_pendentes": 0,
+  "rotulos_auditados": "fila\\calibracao-p2-descartados.rotulos-auditados.json"
+}

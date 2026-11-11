@@ -1,0 +1,349 @@
+     658006_01N588237
+
+                                  -- CONHECIMENTO
+                           BLOCO I
+Quanto aos conceitos relativos à arquitetura de dados, julgue os
+itens a seguir.
+51 O desenvolvimento de soluções inicia pela modelagem de
+     dados conceitual, que é feita geralmente pelo gestor de dados
+     de negócio ou outro profissional acompanhado de sua
+     supervisão e(ou) orientação.
+52 No modelo físico de dados, todas as informações coletadas
+     são convertidas em modelos relacionais e modelos de
+     negócios. Durante a modelagem física, os objetos são
+     definidos no denominado nível de esquema, logo, não
+     depende do software que já está sendo usado na organização.
+53 Em normalização de banco de dados, na terceira forma
+     normal os valores em um registro que não fazem parte da
+     chave desse registro não pertencem à tabela; em geral,
+     sempre que o conteúdo de um grupo de campos se aplica a
+     mais de um único registro na tabela, recomenda-se colocar
+     esses campos em uma tabela separada.
+54 Integridade referencial ocorre quando se liga duas tabelas
+     por suas chaves primarias de forma íntegra.
+55 Modelagem multidimensional de banco de dados é uma
+     técnica usada para o auxílio às consultas do data warehouse,
+     nas mais diferentes perspectivas. A visão multidimensional
+     permite o uso mais intuitivo para o processamento analítico
+     pelas ferramentas OLAP (on-line analytical processing).
+56 A abordagem relacional e entidade-relacionamento permitem
+     modelar os dados em diferentes níveis de abstração; a
+     engenharia reversa de arquivos é um processo que permite a
+     obtenção de um modelo lógico não relacional a partir de um
+     modelo lógico relacional.
+57 O comando a seguir, em SQL, está sintaticamente correto e
+     permite criar uma tabela de nome turma.
+
+     CREATE TABLE turma (
+              idturma INTEGER(4) NOT NULL
+     AUTO_INCREMENT,
+              capacidade INTEGER(2) NOT NULL,
+              idProfessor INTEGER(4) NOT NULL,
+              PRIMARY KEY (idturma),
+              FOREIGN              KEY         (idProfessor)
+     REFERENCES professor(idProfessor),
+              UNIQUE KEY idturma (idturma)
+     )
+58   O principal objetivo de um sistema de gerenciamento de
+     banco de dados (SGDB) é retirar da aplicação cliente a
+     responsabilidade de gerenciar o acesso, a persistência, a
+     manipulação e a organização dos dados.
+59   Em transações de bancos de dados, ACID (Atomicity,
+     Consistency, Isolation, Durability) é um conjunto de
+     propriedades importantes para garantir a integridade e a
+     segurança dos dados, além de ser responsável pelo
+     armazenamento em plataformas de cloud computing.
+60   Entre outras funcionalidades, uma stored procedure pode
+     melhorar o desempenho de um banco de dados e criar tarefas
+     agendadas; procedimentos de sistema são armazenados no
+     banco de dados padrão do SQL Server e executam as tarefas
+     administrativas, a partir de qualquer banco de dados.
+61   A principal diferença entre bancos de dados relacionais e
+     bancos de dados NoSQL está na questão da segurança dos
+     dados e das transações; os bancos de dados NoSql são
+     imunes a ataques de injeção SQL.
+62   O ETL (Extract Transform Load) possui uma área de
+     preparação de dados localizada entre as fontes de dados e os
+     destinos de dados, que geralmente são data warehouses, data
+     marts ou outros repositórios de dados; uma staging area é
+     usada para o processamento de dados durante o processo de
+     ETL.
+
+                      CEBRASPE | PETROBRAS – Edital: 2021
+
+OS ESPECÍFICOS --
+ 63 Data lakes são grandes armazenadores de informações,
+    vindas de diversas fontes, na qual diversos usuários podem
+    ter acesso para fazer a análise e coletar insights importantes
+    para o negócio.
+ 64 Os modelos multidimensionais de banco de dados
+    usualmente possuem esquemas mais complexos que os dos
+    modelos relacionais utilizados nos sistemas que processam
+    transações on-line.
+
+ Acerca de gestão de portfólio e Scrum, julgue os itens
+ subsequentes.
+ 65   A gestão de portfólio envolve desde o nível estratégico até as
+      gerências da organização, mapeando as oportunidades mais
+      relevantes, alocando recursos e priorizando projetos em
+      detrimento de outros.
+ 66   A escolha das ferramentas e métodos utilizados na
+      metodologia de gestão de portfólio é etapa importante e
+      conta com forte participação dos stakeholders envolvidos.
+ 67   O scrum master tem a responsabilidade de avaliar, após cada
+      sprint, a necessidade de mudar algo no rumo do projeto ou
+      reorganizar as prioridades para as próximas sprints.
+ 68   Scrum é uma metodologia ou um conjunto práticas de
+      engenharia de software para criar produtos.
+ 69   O backlog do produto é uma lista priorizada cujos itens de
+      maior importância ficam no topo e, portanto, devem ser mais
+      detalhados.
+
+ A respeito de escopo em projetos ágeis, Scrum e Kanban, julgue
+ os próximos itens.
+ 70   Em ambientes voláteis, o escopo do projeto pode mudar com
+      frequência, o que leva a adoção de sprints menores; em
+      ambientes estáveis, adota-se sprints maiores.
+ 71   No Scrum, para cada sprint o time de desenvolvimento
+      realiza uma reunião de curta duração, na qual se faz
+      necessária a presença do product owner e do scrum master.
+ 72   Transparência, inspeção e adaptação são pilares do Scrum
+      que provêm do controle empírico de processos.
+ 73   Os gargalos podem surgir em uma ou mais etapas do fluxo,
+      por isso, uma das práticas do Kanban é o constante
+      gerenciamento do fluxo.
+ 74   O evento timeboxed (sprint), em Scrum, é executado em sala
+      fechada e tem duração indeterminada.
+ 75   Kanban é uma metodologia ágil para desenvolvimento de
+      software.
+
+ Com relação à gestão de projetos, julgue os itens a seguir,
+ considerando o PMBOK 6.a edição.
+ 76 Em gerenciamento de projetos, uma EAP tem o intuito de
+    subdividir as principais entregas, criando componentes
+    menores e de fácil gerência.
+ 77 O processo de realizar o controle integrado de mudanças é
+    conduzido do início ao término do projeto e é de
+    responsabilidade do patrocinador.
+ 78 Em um escritório de projetos do tipo de suporte, assume-se o
+    controle dos projetos pelo seu gerenciamento direto; os
+    gerentes designados subordinam-se a esse escritório.
+
+    658006_01N588237
+
+                           BLOCO II
+Julgue os próximos itens, relativos à gestão e governança em TI.
+79 A governança e gestão de TIC são importantes instrumentos
+    para o sucesso da organização: a primeira define a direção
+    por meio de priorizações, monitorando o desempenho e a
+    conformidade; a segunda é responsável pelo planejamento,
+    desenvolvimento e execução das atividades definidas na
+    governança.
+80 O serviço de TIC possui dois conceitos intrínsecos: a
+    garantia, que está afeta à capacidade de atender as
+    necessidades dos clientes; e a utilidade, relacionada à
+    disponibilidade e desempenho de acordo com os requisitos
+    dos clientes.
+81 O gerenciamento de serviços visa fornecer valor aos clientes
+    na forma de serviços, por meio de processos com fulcro de
+    facilitar o atingimento dos resultados que os clientes
+    almejam.
+Julgue os itens subsequentes, com base na Lei Geral de Proteção
+de Dados (Lei n.º 13.709/2018).
+82 Qualquer informação relacionada à pessoa natural
+    identificada ou identificável é considerado como dado
+    pessoal sensível.
+83 Configura-se um dado anonimizado quando, ao se utilizar
+    meios técnicos com sucesso, se perdeu a possibilidade de
+    associação direta de um dado a um indivíduo, de modo que
+    esse indivíduo não possa ser identificado.
+84 Ainda que seja para cumprimento de obrigação regulatória
+    pelo controlador do dado, o titular deve consentir
+    previamente a sua utilização.
+Julgue os seguintes itens, relativos à engenharia de software.
+85 Os casos de uso podem ser considerados uma técnica de
+    descoberta de requisitos; eles são documentados por um
+    diagrama de casos de uso de alto nível, no qual se descrevem
+    os atores — pessoas ou outros sistemas — e as interações do
+    sistema.
+86 Na técnica etnografia utiliza-se um conjunto predefinido de
+    questões; a equipe de engenharia de requisitos explora essa
+    série de questões com os stakeholders do sistema, de modo a
+    obter a compreensão de suas necessidades.
+87 Teste fumaça é uma abordagem de teste de integração usada
+    à medida que os produtos de software são desenvolvidos;
+    esse teste permite à equipe realizar a verificação no software
+    frequentemente, conforme novos componentes são a ele
+    acrescentados.
+88 No modelo de desenvolvimento Waterfall, a partir da coleta
+    de requisitos e da elaboração do projeto desenvolve-se uma
+    implementação inicial, que é apresentada para a apreciação
+    dos usuários; esse ciclo continua com a criação de várias
+    versões, até que o sistema final seja desenvolvido por meio
+    da execução das etapas de desenvolvimento e testes de forma
+    intercalada.
+89 O modelo de desenvolvimento de software prototipação é
+    dirigido a riscos contendo etapas que são executadas na
+    forma de evolução, cada uma contendo planejamento,
+    definição de requisitos, projeto e sistema final, em que cada
+    evolução representa uma versão do software.
+90 No paradigma orientado a objetos, os modelos de sequência
+    podem ser representados por meio de diagrama de sequência
+    da UML que descreve a sequência de interações de objetos
+    de forma dinâmica.
+91 Os processos de verificação e validação de um sistema
+    devem demonstrar que ele atende à sua especificação e que o
+    seu comportamento suporta os requisitos do cliente, por
+    meio da busca de erros na especificação ou de projeto.
+
+                    CEBRASPE | PETROBRAS – Edital: 2021
+
+Com relação a user experience (UX), julgue os itens a seguir.
+92 A usabilidade pode ser vista como medida e como qualidade:
+   no primeiro caso, trata como um produto pode ser usado por
+   usuários específicos para alcançar objetivos determinados
+   com eficiência e satisfação; no segundo, trata sobre o uso de
+   um sistema a partir das necessidades de determinado usuário.
+93 No contexto da experiência do usuário, especialmente no que
+   se refere à acessibilidade, convém tanto entender as
+   limitações e as habilidades dos tipos de usuários quanto estar
+   ciente das especificidades de cada um desses tipos, com
+   fulcro a alcançar o acesso à informação desses usuários com
+   diferentes habilidades em uma variedade de contextos de
+   uso.
+94 A “história de usuário”, ainda que seja importante para
+   elicitação de requisitos, não pode ser utilizada como
+   ferramenta para a definição e a melhoria do design de
+   experiência do usuário (UX), uma vez que elementos como
+   planejamento e pesquisa são encontrados somente na UX.
+95 O modelo padrão para intercâmbio de dados na web
+   conhecido como resource description framework (RDF)
+   facilita a mesclagem de dados, mesmo que os esquemas
+   subjacentes sejam diferentes, permitindo a evolução dos
+   esquemas ao longo do tempo, sem a obrigatoriedade que
+   todos os consumidores dos dados sejam alterados.
+96 Um mínimo produto viável (MVP) deve conter os mínimos
+   detalhes para a alteração de um produto existente, permitindo
+   que o time de desenvolvimento obtenha o projeto mais
+   próximo do produto final.
+97 A landing page de um projeto de MVP é a página oficial do
+   projeto; nela os visitantes podem consultar a apresentação de
+   dados sobre o desenvolvimento do produto na forma de
+   relatórios ou dashboards.
+98 No ciclo de vida de desenvolvimento de um produto, caso se
+   opte pela utilização do Design Thinking, deve-se excluir a
+   prototipação, haja vista serem abordagens antagônicas; a
+   primeira utiliza a lógica da ideação; e a segunda, a da
+   experimentação.
+99 O Design Thinking utiliza a lógica abdutiva, na qual o time
+   de desenvolvimento pode identificar problemas e
+   contradições na solução por meio de ciclos de geração de
+   ideias.
+                          BLOCO III
+A respeito de análise de dados, business intelligence (BI), OLAP
+e data warehouse (DW), julgue os itens subsequentes.
+100 Tecnologias como o IBM Watson tornam possível a geração
+    de valor a partir de coleções de informações relativas a
+    operações da organização, seus clientes, procedimentos
+    internos e interações com funcionários.
+101 O processo de BI se baseia na transformação de dados em
+    informações, depois em decisões e, por fim, em ações.
+102 A implementação correta dos processos de acesso a dados,
+    federação de dados e captura de mudanças possibilita o
+    acesso a essas informações por meio de um leque de
+    ferramentas ETL.
+103 OLAP é uma técnica de análise de dados que tem o
+    proposito de desempenhar funções empresariais cotidianas.
+104 DW representa um sistema que fornece armazenamento para
+    dados que serão usados para análise, possibilitando embasar
+    e agilizar tomadas de decisões.
+Quanto a dados estruturados e não estruturados, julgue os itens
+subsecutivos.
+105 Os dados não estruturados são utilizados por algoritmos de
+    mineração e classificados em numéricos ou categóricos.
+106 A mineração de dados oferece previsões instantâneas, mas
+    requer uma base de dados dedicada e separada.
+
+    658006_01N588237
+
+       Uma frase afirmativa que possa ser classificada em
+verdadeira ou falsa é uma proposição. Para formular composições
+de proposições simples, a lógica matemática faz uso de alguns
+conectivos padronizados: a conjunção (e, indicada por ˄); a
+disjunção (ou, indicada por ˅); a condicional (se… então,
+indicada por →); e a bicondicional (se, e somente se,
+indicada por ↔). Também tem-se a negação, indicada por ¬, que
+age sobre uma proposição sozinha, negando seu sentido.
+Algumas sentenças, denominadas sentenças abertas, não são
+consideradas proposições porque seu valor-verdade depende de
+uma ou mais variáveis; elas podem ser transformadas em
+proposições pelo uso de um quantificador universal (para
+qualquer x) ou de um quantificador existencial (existe
+x).
+Considerando essas informações, e que ℤ representa o conjunto
+dos números inteiros, julgue os itens seguintes.
+107 A seguinte afirmação é uma proposição: A quantidade de
+    formigas no planeta Terra é maior que a quantidade de grãos
+    de areia.
+108 A negação da proposição Para qualquer x  ℤ, é
+    verdadeiro que x2 = 4 → x = 2 é a proposição
+    Existe x  ℤ tal que x2 = 4 ˄ x ≠ 2.
+109 A proposição [(p → r) ˄ (q → r)] → [r → (p ˅ q)] é sempre
+    verdadeira, independentemente do valor-verdade das
+    proposições p, q e r.
+Uma sequência de chaves lógicas (A, B, C, D, E) funciona de
+modo condicional: cada chave pode estar aberta ou fechada, não
+havendo terceiro estado possível. As regras de funcionamento das
+chaves determinam que:
+• se a chave A está aberta, então a chave B está aberta;
+• se a chave B está aberta, então a chave C está aberta;
+• se a chave B está aberta, então a chave D está aberta;
+• se a chave C ou a chave D estão abertas, então a chave E está
+aberta.
+Na busca por um sistema de diagnóstico que determine, por meio
+do menor número de observações possível, o estado das cinco
+chaves, observou-se que, atualmente, a chave E está fechada.
+Com referência à situação descrita, julgue os próximos itens.
+110 A chave C pode estar aberta.
+111 É impossível determinar o estado atual de todas as chaves.
+112 A chave D está fechada, com certeza.
+113 A chave B está fechada, com certeza.
+
+No que se refere à gestão de identidade e acesso, DLP e gestão de
+vulnerabilidades, julgue os itens a seguir.
+114 Do ponto de vista da administração de segurança, o modelo
+    de controle de acesso discricionário é indicado para
+    organizações com alta rotatividade de colaboradores.
+115 Segundo a ISO 27002, quando uma correção de
+    vulnerabilidade é disponibilizada, convém que sejam
+    avaliados os riscos associados à sua instalação em
+    comparação com os riscos associados à exploração da
+    vulnerabilidade.
+116 Na técnica de DLP denominada keyword matching,
+    assinaturas exclusivas são definidas para os arquivos
+    classificados como sensíveis e os processos de saída de
+    dados da rede ou dos computadores são verificados em busca
+    de assinaturas correspondentes.
+
+                   CEBRASPE | PETROBRAS – Edital: 2021
+
+Acerca de VPN e firewall, e considerando as normas ISO 31000,
+ISO 22301 e ISO 27002, julgue os itens que se seguem.
+117 Em uma organização que implementa a funcionalidade de
+    VPN incorporada ao sistema de firewall, os pacotes que
+    chegam pela VPN passam diretamente pelo firewall e são
+    decriptados no computador de destino pelo software cliente
+    de VPN.
+118 De acordo com a ISO 31000, o registro e o relato do
+    processo de gestão de risco e de seus resultados visam
+    fornecer informações para a tomada de decisão.
+119 De acordo com a ISO 27002, é diretriz que os métodos de
+    gerenciamento de projetos empregados estabeleçam a
+    segurança da informação como parte integrante de todas as
+    fases metodológicas dos projetos.
+120 Segundo a ISO 22301, os planos de continuidade de
+    negócios devem conter detalhes para gerenciar as
+    consequências de uma disrupção, considerando a estimativa
+    de perdas financeiras de longo prazo.
+Espaço livre
+

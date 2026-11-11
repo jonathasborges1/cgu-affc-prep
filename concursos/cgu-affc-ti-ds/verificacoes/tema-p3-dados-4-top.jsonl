@@ -1,0 +1,6 @@
+{"item": "1", "edital": "P3·DADOS 4.2", "relevancia": "alta", "nucleo_id": "n-cripto-hibrida-assimetrica-troca-chave", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "6", "edital": "P3·DADOS 4.2", "relevancia": "media", "nucleo_id": "n-https-certificado-tls", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "7", "edital": "P3·DADOS 4.2", "relevancia": "media", "nucleo_id": "n-voip-cripto-chave-publica-compartilhada", "tags": ["ABSOLUTO", "ESCOPO"], "nivel": "medio"}
+{"item": "9", "edital": "P3·DADOS 4.1", "relevancia": "media", "nucleo_id": "n-lgpd-acesso-titular-sem-autorizacao-anpd", "tags": ["EXCECAO_OMITIDA", "CONCEITO_MISTURADO"], "nivel": "medio"}
+{"item": "12", "edital": "P3·DADOS 4.2", "relevancia": "baixa", "nucleo_id": "n-assinatura-digital-icp-brasil-mp2200", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "20", "edital": "P3·DADOS 4.2", "relevancia": "media", "nucleo_id": "n-hash-integridade-transmissao", "tags": ["NORMA_LITERAL"], "nivel": "medio"}

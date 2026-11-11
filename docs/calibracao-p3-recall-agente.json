@@ -1,0 +1,143 @@
+{
+  "arquivo": "fila\\calibracao-p3-revisao-agente.jsonl",
+  "n": 120,
+  "metodo": "amostra estratificada ponderada",
+  "topicos": {
+    "P3·ARQ 2": {
+      "n_rotulado": 2,
+      "tp_ponderado": 105.86666666666666,
+      "preditos_ponderado": 105.86666666666666,
+      "reais_ponderado": 457.95,
+      "precisao": 1.0,
+      "recall": 0.23117516468318958
+    },
+    "P3·ARQ 3": {
+      "n_rotulado": 4,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 211.73333333333332,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P3·ARQ 4": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 52.93333333333333,
+      "reais_ponderado": 651.2333333333332,
+      "precisao": 0.0,
+      "recall": 0.0
+    },
+    "P3·ARQ 5": {
+      "n_rotulado": 3,
+      "tp_ponderado": 105.86666666666666,
+      "preditos_ponderado": 158.79999999999998,
+      "reais_ponderado": 616.75,
+      "precisao": 0.6666666666666667,
+      "recall": 0.17165247939467637
+    },
+    "P3·DADOS 1": {
+      "n_rotulado": 7,
+      "tp_ponderado": 158.79999999999998,
+      "preditos_ponderado": 370.5333333333333,
+      "reais_ponderado": 370.5333333333333,
+      "precisao": 0.42857142857142855,
+      "recall": 0.42857142857142855
+    },
+    "P3·DADOS 2": {
+      "n_rotulado": 8,
+      "tp_ponderado": 105.86666666666666,
+      "preditos_ponderado": 423.46666666666664,
+      "reais_ponderado": 158.79999999999998,
+      "precisao": 0.25,
+      "recall": 0.6666666666666667
+    },
+    "P3·DADOS 3": {
+      "n_rotulado": 5,
+      "tp_ponderado": 158.79999999999998,
+      "preditos_ponderado": 264.66666666666663,
+      "reais_ponderado": 510.8833333333333,
+      "precisao": 0.6,
+      "recall": 0.3108341761002186
+    },
+    "P3·DADOS 4": {
+      "n_rotulado": 2,
+      "tp_ponderado": 105.86666666666666,
+      "preditos_ponderado": 105.86666666666666,
+      "reais_ponderado": 1109.1833333333332,
+      "precisao": 1.0,
+      "recall": 0.09544559811272559
+    },
+    "P3·ENG 1": {
+      "n_rotulado": 6,
+      "tp_ponderado": 52.93333333333333,
+      "preditos_ponderado": 317.59999999999997,
+      "reais_ponderado": 352.0833333333333,
+      "precisao": 0.16666666666666669,
+      "recall": 0.15034319526627218
+    },
+    "P3·ENG 2": {
+      "n_rotulado": 3,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 158.79999999999998,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P3·ENG 4": {
+      "n_rotulado": 2,
+      "tp_ponderado": 52.93333333333333,
+      "preditos_ponderado": 105.86666666666666,
+      "reais_ponderado": 352.0833333333333,
+      "precisao": 0.5,
+      "recall": 0.15034319526627218
+    },
+    "P3·ENG 5": {
+      "n_rotulado": 1,
+      "tp_ponderado": 0,
+      "preditos_ponderado": 52.93333333333333,
+      "reais_ponderado": 0,
+      "precisao": 0.0,
+      "recall": null
+    },
+    "P3·SEG 1": {
+      "n_rotulado": 3,
+      "tp_ponderado": 158.79999999999998,
+      "preditos_ponderado": 158.79999999999998,
+      "reais_ponderado": 1056.25,
+      "precisao": 1.0,
+      "recall": 0.15034319526627218
+    },
+    "P3·SEG 2": {
+      "n_rotulado": 1,
+      "tp_ponderado": 52.93333333333333,
+      "preditos_ponderado": 52.93333333333333,
+      "reais_ponderado": 457.95,
+      "precisao": 1.0,
+      "recall": 0.11558758234159479
+    },
+    "P3·SEG 3": {
+      "n_rotulado": 2,
+      "tp_ponderado": 52.93333333333333,
+      "preditos_ponderado": 105.86666666666666,
+      "reais_ponderado": 352.0833333333333,
+      "precisao": 0.5,
+      "recall": 0.15034319526627218
+    },
+    "P3·SEG 4": {
+      "n_rotulado": 2,
+      "tp_ponderado": 52.93333333333333,
+      "preditos_ponderado": 105.86666666666666,
+      "reais_ponderado": 352.0833333333333,
+      "precisao": 0.5,
+      "recall": 0.15034319526627218
+    },
+    "P3·SEG 5": {
+      "n_rotulado": 8,
+      "tp_ponderado": 211.73333333333332,
+      "preditos_ponderado": 423.46666666666664,
+      "reais_ponderado": 211.73333333333332,
+      "precisao": 0.5,
+      "recall": 1.0
+    }
+  }
+}

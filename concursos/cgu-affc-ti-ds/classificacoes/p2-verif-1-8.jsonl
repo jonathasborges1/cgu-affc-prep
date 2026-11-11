@@ -1,0 +1,50 @@
+{"id":"v1-8-01","codigo":"P2·GOV 1","rel":"alta","motivo":"conselho e supervisão de riscos"}
+{"id":"v1-8-02","codigo":"P2·AUD 2","rel":"alta","motivo":"planejamento baseado em risco"}
+{"id":"v1-8-03","codigo":"OUTRO","rel":"fora","motivo":"SINASE"}
+{"id":"v1-8-04","codigo":"OUTRO","rel":"fora","motivo":"civil"}
+{"id":"v1-8-05","codigo":"P2·EVID 5","rel":"baixa","motivo":"categorias de IA"}
+{"id":"v1-8-06","codigo":"OUTRO","rel":"fora","motivo":"estatística"}
+{"id":"v1-8-07","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-8-08","codigo":"OUTRO","rel":"fora","motivo":"processos"}
+{"id":"v1-8-09","codigo":"OUTRO","rel":"fora","motivo":"contabilidade"}
+{"id":"v1-8-10","codigo":"OUTRO","rel":"fora","motivo":"SIEM"}
+{"id":"v1-8-11","codigo":"OUTRO","rel":"fora","motivo":"constitucional estadual"}
+{"id":"v1-8-12","codigo":"OUTRO","rel":"fora","motivo":"agronomia"}
+{"id":"v1-8-13","codigo":"P2·TRANSP 3","rel":"media","motivo":"linguagem acessível e clara"}
+{"id":"v1-8-14","codigo":"OUTRO","rel":"fora","motivo":"tribunal de contas"}
+{"id":"v1-8-15","codigo":"P2·TRANSP 1","rel":"media","motivo":"sigilo previsto em lei e órgãos de controle"}
+{"id":"v1-8-16","codigo":"OUTRO","rel":"fora","motivo":"português"}
+{"id":"v1-8-17","codigo":"OUTRO","rel":"fora","motivo":"assédio (texto truncado)"}
+{"id":"v1-8-18","codigo":"OUTRO","rel":"fora","motivo":"eficiência"}
+{"id":"v1-8-19","codigo":"P2·TRANSP 3","rel":"alta","motivo":"ouvidoria"}
+{"id":"v1-8-20","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-8-21","codigo":"P2·GOV 2","rel":"alta","motivo":"identificação de riscos"}
+{"id":"v1-8-22","codigo":"OUTRO","rel":"fora","motivo":"modelagem"}
+{"id":"v1-8-23","codigo":"P2·DIR 3","rel":"media","motivo":"poder-dever de controlar atos"}
+{"id":"v1-8-24","codigo":"OUTRO","rel":"fora","motivo":"corrupção (P1)"}
+{"id":"v1-8-25","codigo":"OUTRO","rel":"fora","motivo":"contagem de pontos"}
+{"id":"v1-8-26","codigo":"P2·GOV 1","rel":"media","motivo":"responsabilidade sobre riscos"}
+{"id":"v1-8-27","codigo":"OUTRO","rel":"fora","motivo":"constitucional"}
+{"id":"v1-8-28","codigo":"P2·DIR 3","rel":"baixa","motivo":"recursos no tribunal de contas"}
+{"id":"v1-8-29","codigo":"OUTRO","rel":"fora","motivo":"modelagem"}
+{"id":"v1-8-30","codigo":"P2·TRANSP 1","rel":"alta","motivo":"e-SIC"}
+{"id":"v1-8-31","codigo":"OUTRO","rel":"fora","motivo":"mineração de dados"}
+{"id":"v1-8-32","codigo":"P2·TRANSP 4","rel":"alta","motivo":"participação no PPA"}
+{"id":"v1-8-33","codigo":"P2·TRANSP 4","rel":"media","motivo":"governo aberto e transparência"}
+{"id":"v1-8-34","codigo":"OUTRO","rel":"fora","motivo":"redes neurais"}
+{"id":"v1-8-35","codigo":"OUTRO","rel":"fora","motivo":"comunicação"}
+{"id":"v1-8-36","codigo":"P2·EVID 2","rel":"media","motivo":"outlier e medidas descritivas"}
+{"id":"v1-8-37","codigo":"P2·GOV 1","rel":"alta","motivo":"elementos de governança"}
+{"id":"v1-8-38","codigo":"P2·GOV 2","rel":"baixa","motivo":"característica de controle"}
+{"id":"v1-8-39","codigo":"OUTRO","rel":"fora","motivo":"continuidade"}
+{"id":"v1-8-40","codigo":"OUTRO","rel":"fora","motivo":"arquivo"}
+{"id":"v1-8-41","codigo":"OUTRO","rel":"fora","motivo":"ambiental"}
+{"id":"v1-8-42","codigo":"OUTRO","rel":"fora","motivo":"obras"}
+{"id":"v1-8-43","codigo":"OUTRO","rel":"fora","motivo":"contratos"}
+{"id":"v1-8-44","codigo":"OUTRO","rel":"fora","motivo":"fundo de pensão"}
+{"id":"v1-8-45","codigo":"OUTRO","rel":"fora","motivo":"orçamento"}
+{"id":"v1-8-46","codigo":"P2·TRANSP 5","rel":"baixa","motivo":"liberdade de informação"}
+{"id":"v1-8-47","codigo":"P2·GOV 2","rel":"alta","motivo":"conluio e segregação"}
+{"id":"v1-8-48","codigo":"OUTRO","rel":"fora","motivo":"guindaste"}
+{"id":"v1-8-49","codigo":"P2·TRANSP 2","rel":"alta","motivo":"consentimento e informação pessoal"}
+{"id":"v1-8-50","codigo":"P2·TRANSP 2","rel":"alta","motivo":"dados sensíveis"}

@@ -1,0 +1,365 @@
+-- CONHECIMENTO
+A respeito do padrão MVC (model-view-controller), julgue os
+itens a seguir.
+O padrão MVC usa o princípio da inversão de controle (IoC)
+para delegar a responsabilidade de criar e gerenciar os
+objetos de model, view e controller para um objeto interno.
+52 No padrão MVC, uma mesma lógica de negócios pode ter
+diferentes interfaces de usuário.
+51
+
+Acerca da arquitetura de sistemas de N camadas e das APIs,
+julgue os próximos itens.
+Na arquitetura de sistemas em N camadas, o sistema é
+dividido em camadas lógicas, cada uma com uma
+responsabilidade específica, como apresentação, negócio e
+dados.
+54 O princípio HATEOAS é utilizado pela API REST para
+fornecer links entre os recursos e facilitar a navegação do
+cliente.
+55 Uma API REST utiliza somente o formato XML para
+representar os recursos e as respostas do servidor.
+53
+
+Com relação a barramento de serviços corporativos (EBS), e dos
+aspectos de segurança e versatilidade do API Gateway, julgue os
+itens subsequentes.
+Uma das vantagens de se usar um API Gateway é que ele
+permite implementar a segurança da API em um único
+ponto, em vez de em cada serviço individual.
+57 A execução de integrações entre aplicações, usando-se um
+formato canônico de mensagem, geralmente XML, e
+protocolos de rede padrão, como SOAP/HTTP ou
+JSON/HTTP, pode ser realizada por um ESB.
+56
+
+Julgue os itens subsequentes, a respeito das ferramentas de
+DevOps e das soluções mobile.
+O Jenkins é uma ferramenta de integração contínua de
+código aberto que pode ser instalada e configurada em
+qualquer servidor, enquanto o Travis CI é uma ferramenta de
+integração contínua hospedada na nuvem que se integra com
+o GitHub.
+59 A arquitetura de microfrontends é uma abordagem
+arquitetural que permite integrar diferentes aplicações web
+ou mobile em uma única interface, compartilhando as
+mesmas tecnologia e equipe de desenvolvimento.
+60 O Ansible é uma ferramenta de gerenciamento de
+configuração que requer um agente instalado nos nós
+gerenciados, enquanto o Puppet e o Chef não requerem um
+agente em cada nó.
+58
+
+Quanto ao gerenciamento de configuração do software e aos
+serviços de mensageria, julgue os itens a seguir.
+Nos serviços de mensageria, a comunicação síncrona via
+HTTP é mais adequada para cenários de alta concorrência do
+que a comunicação assíncrona.
+62 Em um projeto de software que utilize a ferramenta Git para
+controle de versão, é recomendável que cada desenvolvedor
+trabalhe em sua própria branch local e faça merge com a
+branch master apenas quando o código estiver testado e
+revisado.
+61
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+OS ESPECÍFICOS -Julgue os próximos itens, relativos a práticas ágeis de
+desenvolvimento de software e a processo interativo e
+incremental.
+Um dos princípios ágeis direciona os clientes do negócio a
+trabalharem
+diariamente
+em
+conjunto
+com
+os
+desenvolvedores ao longo de todo o projeto.
+64 A XP (Extreme Programming) estimula o uso de cartões
+classe-responsabilidade-colaborador (CRC) para identificar e
+organizar como deve ser realizada a refatoração com vistas a
+melhorar o software.
+65 Quando se utiliza um modelo incremental, frequentemente o
+primeiro incremento é um produto essencial; após esse
+primeiro, se libera uma série de incrementos, que oferecem,
+progressivamente, maior funcionalidade ao cliente à medida
+que cada incremento é entregue.
+66 A XP recomenda a criação de protótipos operacionais,
+denominados soluções pontuais, que devem ser
+implementados e avaliados.
+63
+
+Julgue os itens subsequentes, relativos a Kanban e Scrum.
+Na sprint planning, o product owner planeja o trabalho
+necessário para criar um incremento do produto que atenda à
+definição de pronto.
+68 Os artefatos do Scrum representam valor; ou seja, cada um
+deles contém um compromisso, como, por exemplo, a meta
+do produto é compromisso para o incremento.
+69 A figura a seguir descreve um Kanban de forma visual,
+mostrando a produtividade da equipe esforço (eixo-y) até o
+último dia da sprint (eixo-x), ou seja, esse Kanban liga os
+dias da sprint com o trabalho restante.
+67
+
+Julgue os próximos itens, relativos a testes de software.
+Considerando que o teste funcional objetiva determinar se
+um recurso funciona corretamente sem problemas, é possível
+automatizar esse tipo de teste mesmo que o sistema seja web,
+em que é possível simular os retornos esperados.
+71 Um conceito-chave na atividade de codificação na XP, ainda
+que incompatível com a execução de testes unitários, é a
+programação em pares, em que duas pessoas trabalham
+juntas em uma mesma estação de trabalho para criar código.
+72 Considerada uma técnica sistemática para construir a
+arquitetura de software concomitantemente à realização de
+testes para descobrir erros associados às interfaces, o teste de
+integração realiza testes a partir de componentes testados em
+unidade.
+70
+
+
+Acerca das linguagens e tecnologias de programação, julgue os
+itens subsequentes.
+73 A semântica de uma linguagem de programação estabelece
+como os comandos devem ser representados textualmente,
+de forma que possam ser reconhecidos pelo compilador ou
+interpretador.
+74 Um escalonamento de tarefas preemptivo deixa de ser
+executado em um processador nos seguintes casos: término,
+execução de operação de IO ou liberação explícita da tarefa.
+75 Na programação orientada a objetos, a abstração é a
+característica que permite a utilização de um código ou
+função sem a necessidade de conhecer detalhes sobre sua
+implementação.
+76 Threads são porções de um programa que, mesmo
+interligados e concorrentes, podem ser executados de forma
+paralela, como em sistemas multitarefa.
+Julgue os itens a seguir, a respeito de segurança, criptografia e
+automação.
+77 A criptografia de chave assimétrica utiliza duas chaves,
+privada e pública; ambas podem ser usadas para cifrar uma
+mensagem.
+78 O algoritmo RSA utiliza a função matemática Totiente de
+Euler para gerar chaves criptográficas assimétricas públicas e
+privadas.
+79 Entre os exemplos de uso da RPA (Robot Process
+Automation), estão reconhecimento de voz, conversão de voz
+em texto e gerenciamento remoto de infraestrutura.
+80 Um certificado digital do tipo A1 armazena a chave no
+próprio equipamento do usuário; no tipo A3, a chave é
+armazenada em dispositivos físicos portáteis, como tokens e
+cartões.
+Julgue os itens a seguir, relativos à inteligência artificial (IA).
+81 O reconhecimento facial por imagens nas redes sociais é
+embasado no aprendizado de máquina chamado
+deep learning, que simula a rede neural do cérebro humano.
+82 O denominado motor de inferência é o núcleo dos sistemas
+de IA que oferece soluções possíveis para um problema
+apresentado.
+83 Em uma rede neural artificial, o valor de entrada de cada
+neurônio é calculado pelo produto matemático das saídas dos
+neurônios da camada inferior.
+84 Em machine learning, os sistemas podem usar aprendizado
+do tipo supervisionado, não supervisionado, autônomo ou
+gerenciado.
+Julgue os itens a seguir, que tratam de computação em nuvem.
+85 O componente middleware é gerenciado pelo cliente no IaaS
+(Infraestrutura como Serviço) e no PaaS (Plataforma como
+Serviço), enquanto no SaaS (Programa como Serviço), esse
+componente é gerenciado pelo provedor de serviços de
+nuvem.
+86 Nuvens privadas são geralmente definidas como ambientes
+dedicados a um usuário final, mas, de forma geral, pode-se
+dizer que toda nuvem se torna privada quando a TI
+subjacente é dedicada e o cliente tem acesso totalmente
+isolado a ela.
+87 As equipes de segurança têm visibilidade limitada das cargas
+de trabalho executadas em ofertas de serviços de nuvem
+privada, o que dificulta garantir a proteção.
+88 A técnica de load balance é uma das estratégias possíveis de
+se estabelecer a implementação de alta disponibilidade em
+uma infraestrutura de nuvem.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Julgue os itens subsequentes, relativos aos componentes centrais
+da arquitetura em nuvem.
+89
+
+A aquisição de subscrições em serviços em nuvem permite
+que as organizações tenham acesso a tecnologias de ponta,
+requerendo, no entanto, investimentos em infraestrutura e na
+contratação de especialistas para gerenciá-las e atualizá-las
+regularmente.
+
+90
+
+A fim de proporcionar mais disponibilidade em relação aos
+recursos de uma zona, recursos regionais são implantados de
+forma redundante em várias zonas de uma região.
+
+Com relação à tecnologia de computação em nuvem, julgue os
+itens a seguir.
+91
+
+Em ambientes de nuvem privada, a segurança é executada
+por provedores de serviços de nuvem com servidores
+compartilhados por vários locatários.
+
+92
+
+O gerenciamento de acesso e identidade (IAM) na nuvem
+inclui recursos como interface de controle de acesso único,
+segurança aprimorada e controle de acesso em nível de
+recurso.
+
+93
+
+A segurança da nuvem, em sua base, é composta das
+seguintes categorias: segurança de dados; gerenciamento de
+acesso e identidade; governança; retenção de dados e
+planejamento de continuidade de negócios; e compliance
+jurídico.
+
+A respeito de IaC (Infrastructure as Code), julgue os próximos
+itens.
+94
+
+IaC é a prática de gerenciar e aprovisionar a infraestrutura
+por meio de hardware, software e processos manuais.
+
+95
+
+A IaC declarativa permite que um desenvolvedor descreva
+todas as etapas para configurar os recursos e chegar ao
+sistema e ao estado de execução desejados.
+
+96
+
+IaC lida com o aprovisionamento de processamento,
+armazenamento e rede na camada de infraestrutura.
+
+Julgue os seguintes itens, com relação à auditoria em logs.
+97
+
+Por meio de análise de registro de eventos (logs), é possível
+investigar violações de políticas de segurança e garantir a
+conformidade com os requisitos regulamentares.
+
+98
+
+Nem todos os dispositivos de rede, serviços em nuvem e
+aplicativos emitem registros para fins de auditoria; é
+necessário fazer uma configuração a fim de que esses
+eventos fiquem registrados, de preferência em blockchain,
+para fins de imutabilidade.
+
+Julgue os itens subsequentes, relativos a sistemas criptográficos
+simétricos.
+99
+
+A segurança em sistemas criptográficos
+independe do tamanho da chave.
+
+simétricos
+
+100 Os sistemas criptográficos simétricos também são chamados
+
+de sistema de segredo compartilhado, seja entre duas ou mais
+partes, visto que o segredo compartilhado pode ser utilizado
+para manter uma informação confidencial entre as partes na
+comunicação.
+
+
+Julgue os próximos itens, a respeito de XSS (cross-site scripting).
+101 Stored XSS é caracterizado quando determinado código
+malicioso é armazenado no servidor, mas não é exibido para
+os usuários posteriormente.
+102 https://www.apenasexemplo.com.br/?name=<scrip
+t>alert(1)</script> é um exemplo de XSS Reflected e
+
+será executado no navegador do usuário.
+
+No que se refere ao funcionamento de proxy em organizações,
+julgue os itens a seguir.
+103 Filtros em proxies podem ser configurados para impedir o
+acesso a determinados sítios ou serviços da web que violam
+uma política da organização.
+104 Proxies transparentes servem como um canal entre os
+clientes e a Internet; por característica, são incapazes de
+interceptar as conexões realizadas, já que são transparentes
+para os usuários.
+Acerca de keyloggers e suas características, julgue os itens
+subsequentes.
+105 Um keylogger com base em hyperversor é simples de ser
+detectado, pois, por padrão, as funções de teclado de
+hyperversor ecoam para o terminal do administrador de
+sistema.
+106 De maneira geral, keyloggers são códigos maliciosos usados
+para capturar informações à medida que existe alguma
+interação do usuário com o teclado; esses códigos podem
+estar inseridos em software ou até mesmo hardware
+específico.
+Considerando as normas ISO/IEC 27001 e ISO/IEC 27002,
+julgue os seguintes itens.
+107 Na ISO/IEC 27002, são apresentados vários tipos de controle
+de criptografia.
+108 A ISO/IEC 27001 apresenta os requisitos necessários para
+estabelecer, implementar, manter e melhorar continuamente
+um sistema de gestão da segurança da informação dentro do
+contexto da organização.
+A respeito de segurança de redes sem fio, julgue os itens
+seguintes.
+109 O WPS (Wi-Fi Protected Setup) é um método de distribuição
+de chaves de autenticação.
+110 O modo WPA-PSK foi projetado para uso corporativo e
+requer um servidor de autenticação.
+Julgue os próximos itens, relativos a conceitos de rede de
+computadores, elementos de interconexão de redes de
+computadores e noções dos modelos de referência OSI.
+111 O cabeamento de par trançado categoria 5 consiste em dois
+fios isolados e trançados, e quanto maior a quantidade de
+voltas nesse par, melhor a qualidade do sinal por distâncias
+maiores.
+112 Em uma rede local LAN com fio, o padrão (Ethernet) é
+o IEEE 802.11 e, em uma rede local sem fios (wi-fi), o
+padrão é o IEEE 802.3.
+113 A camada física trata da transmissão de bits normais,
+devendo o projeto da rede garantir que, quando um lado
+enviar um bit 1, o outro lado o receberá como bit 1, não
+como bit 0.
+114 Hubs são dispositivos de rede localizados na camada de
+aplicação que amplificam o sinal de entrada.
+115 As VLANs no padrão IEEE 802.1q foram criadas para
+ajudar no gerenciamento de LANs, permitindo que a
+topologia física seja dividida em diferentes topologias
+lógicas.
+
+
+CEBRASPE – CAU/BR – Edital: 2023
+
+Julgue os itens subsequentes, relacionados a noções dos modelos
+de referência OSI, noções dos padrões IEEE 802.1, IEEE 802.3,
+IEEE 802.11 a/b/g/n/ac e arquitetura e pilhas de protocolo TCP/IP.
+116 Serviços como controle de diálogo, gerenciamento de tokens,
+sincronização e o protocolo HTTP são ofertados na camada
+de aplicação.
+117 O campo Tamanho nos quadros Ethernet informa ao sistema
+operacional o momento que o processo deve receber um
+pacote IPv4.
+118 Para que o método de transmissão sem fio 802.11n alcançasse
+velocidade mínima de 100 Mbps, o comitê IEEE dobrou os
+canais de 20 MHz para 40 MHz.
+119 As conexões TCP são do tipo fluxo de mensagens,
+full-duplex e ponto a ponto, sendo nelas admitidos
+processos de multicasting ou broadcasting.
+120 O protocolo de datagrama do usuário (UDP), não orientado a
+conexão, fornece uma interface para o protocolo IP com
+recurso adicional de demultiplexação de vários processos
+que utilizam as portas e detecção opcional de erro fim a fim.
+Espaço livre
+
+

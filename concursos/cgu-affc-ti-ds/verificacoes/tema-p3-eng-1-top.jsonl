@@ -1,0 +1,6 @@
+{"item": "9", "edital": "P3·ENG 4.1", "relevancia": "alta", "nucleo_id": "n-prototipacao-validacao-requisitos", "tags": ["NORMA_LITERAL"], "nivel": "facil"}
+{"item": "10", "edital": "P3·ENG 4.1", "relevancia": "media", "nucleo_id": "n-prototipacao-limitacoes-design", "tags": ["NORMA_LITERAL"], "nivel": "dificil"}
+{"item": "12", "edital": "P3·ARQ 5.1", "relevancia": "media", "nucleo_id": "n-saas-vs-paas", "tags": ["TROCA_TERMO"], "nivel": "medio"}
+{"item": "14", "edital": "P3·SEG 4.2", "relevancia": "baixa", "nucleo_id": "n-xp-pares-historias-usuario", "tags": ["NORMA_LITERAL"], "nivel": "medio"}
+{"item": "15", "edital": "P3·ENG 1.2", "relevancia": "alta", "nucleo_id": "n-requisitos-funcionais-nao-funcionais", "tags": ["INVERSAO"], "nivel": "medio"}
+{"item": "17", "edital": "P3·ENG 4.1", "relevancia": "media", "nucleo_id": "n-prototipo-nao-produto-final", "tags": ["TROCA_TERMO"], "nivel": "medio"}

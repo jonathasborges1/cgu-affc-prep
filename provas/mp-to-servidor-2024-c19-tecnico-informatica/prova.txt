@@ -1,0 +1,392 @@
+-- CONHECIMENTO
+A respeito de Red Hat Enterprise Linux e Oracle Linux 9, julgue
+os itens a seguir.
+O resultado da execução do comando sudo watch -n 1
+mpstat é a execução do comando mpstat repetidamente a
+cada segundo, em tempo real, e o monitoramento da saída do
+referido comando.
+52 Cada zona de firewall, nas políticas, é associada a um
+conjunto específico de regras que determinam o tráfego
+permitido de forma unidirecional e com monitoramento de
+estado, sendo o retorno do tráfego permitido implicitamente
+devido à filtragem com monitoramento de estado pelo
+firewalld.
+53 O comando nftables é utilizado para configurar e editar as
+tabelas internas do sistema de arquivos NFS.
+51
+
+Acerca do Windows 10, julgue os próximos itens.
+54 O Microsoft Intune é um serviço de nuvem capaz de coletar
+diagnósticos, coletando logs de dispositivos corporativos
+sem ocasionar interrupções para o usuário final.
+55 O SetupDiag é uma ferramenta de linha de comando que
+fornece um diagnóstico completo de problemas nos
+processos de inicialização do subsistema do Windows para
+Linux (WSL).
+A respeito do Windows Server 2019 e do Active Directory,
+julgue os itens seguintes.
+56 Uma conta Administrador desativada ainda pode ser usada,
+no Active Directory, para obter acesso a um controlador de
+domínio utilizando-se o modo de segurança.
+57 O Insights do Sistema é um recurso que reúne funcionalidades
+preditivas, cada uma com suporte de um modelo de
+machine learning, que analisa localmente os dados do
+sistema, como contadores de desempenho e eventos,
+permitindo que se entenda como os servidores estão
+funcionando, de modo a ajudar a reduzir as despesas
+operacionais associadas ao gerenciamento reativo de
+problemas nas implantações do Windows Server.
+58 No Active Directory, uma conta permite que um usuário faça
+login em computadores, redes e domínios utilizando
+identificadores distintos, a fim de ser autenticado por esses
+recursos dentro da organização.
+59 A criação de contas de usuário local no controlador de
+domínio antes da instalação dos serviços de domínio Active
+Directory é impossível.
+60 A conta Administrador do Active Directory tem associação
+com os grupos de segurança padrão, e esses grupos de
+segurança garantem que se possam controlar os direitos de
+administrador sem que se altere cada conta de administrador.
+No que se refere ao Microsoft PowerShell, julgue os itens a
+seguir.
+61 O Pacote MSI, apesar de ser limitado, é a melhor opção,
+entre as disponíveis, para se instalar o PowerShell no
+Windows para usuários casuais.
+62 A estrutura de gerenciamento de DSC (desired state
+configuration) permite gerenciar a infraestrutura corporativa
+com código para ajudar a implantar configurações usando-se
+modelos de push ou pull.
+63 O PowerShell aceita e retorna objetos .NET, além de incluir
+comandos de encadeamento que usam a funcionalidade
+pipeline.
+
+
+CEBRASPE – MPTO – Edital: 2024
+
+OS ESPECÍFICOS -Julgue os itens a seguir, relativos ao Windows Server Update
+Service (WSUS).
+64 As políticas de grupo controlam quando o Windows Update
+Agent verifica e instala atualizações.
+65 Podem-se atribuir computadores a grupos de computadores
+usando-se o método de direcionamento do lado do servidor
+(server-side targeting), em que se utiliza a política de grupo
+ou se editam as configurações de registro nos computadores
+clientes para permitir que esses computadores se adicionem
+automaticamente aos grupos de computadores criados
+anteriormente.
+À luz do disposto na norma ABNT NBR ISO/IEC 27001, julgue
+os itens a seguir.
+66 A política de segurança da informação, que deve ser
+aprovada pela alta direção da organização, deve
+ser documentada e comunicada a todos os funcionários.
+67 Segundo exigência normativa, todas as organizações devem
+aplicar os mesmos controles de segurança da informação.
+68 A alta direção de uma organização deve estar diretamente
+envolvida na governança do sistema de gestão de segurança
+da informação (SGSI), garantindo alinhamento com os
+objetivos estratégicos da organização.
+69 Nessa norma, são descritas de forma detalhada as tecnologias
+de segurança da informação que devem ser utilizadas,
+principalmente, para os controles de segurança da
+informação previstos no sistema de gestão de segurança
+da informação (SGSI).
+70 São necessárias revisões periódicas e auditorias do sistema
+de gestão de segurança da informação (SGSI) para avaliar se
+ele continua alinhado com os objetivos de segurança da
+informação.
+Em relação ao gerenciamento de riscos, julgue os itens seguintes.
+71 Para que se caracterize a existência de vulnerabilidade, é
+necessária a ocorrência de uma ameaça ativa que seja
+considerada risco para a segurança da informação.
+72 Um evento que venha a causar impacto negativo na
+confidencialidade de uma informação pode ser considerado
+uma ameaça.
+Com base na norma ABNT NBR ISO/IEC 27002, julgue os itens
+a seguir.
+73 Os direitos de acesso de todos os funcionários ao sistema de
+dados da organização devem ser retirados logo após o
+encerramento de suas atividades.
+74 Avaliações de risco são obrigatórias na implementação do
+SGSI, não sendo mais necessárias nas etapas de revisão do
+referido sistema.
+75 Recomenda-se que todas as senhas sejam armazenadas em
+um repositório da organização em formato de texto claro.
+Considerando o que a norma ABNT NBR ISO 31000:2018
+preconiza a respeito da gestão de riscos, julgue os itens a seguir.
+76 Como ação de tratamento de um risco, pode-se remover a
+fonte causadora do risco ou compartilhar o risco, por
+exemplo, por meio de contratos ou compra de seguro.
+77 O processo de gestão de riscos envolve a aplicação
+sistemática de planejamento, execução, controle e
+encerramento dos riscos.
+78 O gerenciamento de riscos baseia-se em princípios, estrutura
+e processos, considerados os contextos externo e interno da
+organização, o comportamento humano e os fatores culturais.
+
+
+A respeito do ITIL v4, julgue os itens seguintes.
+79
+
+Fluxos e processos de valor, informação e tecnologia são
+dimensões do sistema de valor de serviço (SVS).
+
+80
+
+As atividades da cadeia de valor são as seguintes: engajar
+pessoas, capacitá-las e motivá-las para a criação de valor no
+cumprimento da estratégia da empresa.
+
+81
+
+O gerenciamento do talento e da força de trabalho constitui
+prática de gerenciamento técnico.
+
+Julgue os itens subsequentes, relativos ao COBIT 2019.
+82
+
+No nível 2 do COBIT, que atribui níveis de capacidade a
+todas as atividades do processo, um processo atinge sua
+finalidade pela aplicação de um conjunto básico, porém
+completo, de atividades que podem ser caracterizadas
+como realizadas.
+
+83
+
+A adaptação da área de TI às necessidades da empresa está
+associada a um dos princípios definidos no framework
+de governança.
+
+84
+
+O objetivo de governança e gestão denominado “entrega de
+benefícios assegurada” visa garantir que as necessidades de
+recursos da organização sejam atendidas da melhor forma,
+de modo a otimizar os custos da TI e proporcionar uma
+maior realização de benefícios e mudanças futuras.
+
+85
+
+Avaliar, dirigir e monitorar são ações relacionadas ao
+domínio dos objetivos de governança, ao passo que alinhar,
+planejar e organizar estão relacionadas ao domínio dos
+objetivos de gerenciamento.
+
+Julgue os próximos itens, relativos a conceitos de computação em
+nuvem.
+86
+
+No PaaS, o usuário, e não o provedor, tem como
+responsabilidade instalar, gerenciar e monitorar os serviços
+para operações de infraestrutura de TI.
+
+87
+
+Tratando-se de SaaS, o provedor é responsável por
+provisionar e fornecer ferramentas de desenvolvimento, com
+vistas a gerenciar o processamento físico e o armazenamento
+para permitir que o usuário utilize o serviço.
+
+88
+
+Em se tratando de IaaS, enquanto o consumidor usa serviço
+para operações de processos de negócios, cabe ao provedor
+instalar e gerenciar o aplicativo de software em uma
+infraestrutura em nuvem.
+
+Julgue os próximos itens, relativos a modelos de computação em
+nuvem.
+89
+
+Nuvem pública é caracterizada pela composição de duas ou
+mais nuvens que permanecem entidades únicas, unidas por
+tecnologia padronizada, de modo que possa ser
+disponibilizada ao público em geral.
+
+90
+
+Nuvem híbrida é aquela compartilhada por diversas
+organizações ou por uma federação de nuvens privadas
+pertencentes a entidades com mesmos fins ou objetivos e
+gerenciada por essas organizações, que vendem seus serviços
+em nuvem.
+
+91
+
+A nuvem privada é aquela operada exclusivamente para uma
+organização, gerenciada por terceiros.
+
+
+CEBRASPE – MPTO – Edital: 2024
+
+Julgue os próximos itens, relativos a benefícios da computação
+em nuvem.
+92
+
+Os três objetivos de cibersegurança — confidencialidade,
+integridade e disponibilidade — são particularmente
+relevantes para a computação em nuvem, especialmente no
+que refere à proteção contra acidentes, desastres naturais e
+perda externa de serviço.
+
+93
+
+A elasticidade é um benefício comum para nuvens públicas e
+privadas, diferentemente da alta disponibilidade, a qual
+compõe apenas a nuvem privada, uma vez que a pública está
+mais afeta à rápida implementação dos serviços a serem
+disponibilizados aos usuários.
+
+94
+
+A escalabilidade linear e a utilização on-demand são
+componentes da elasticidade, que se relaciona à existência de
+recursos ilimitados para o usuário, que podem ser adquiridos
+em qualquer quantidade e a qualquer momento de forma
+rápida.
+
+Julgue os próximos itens, relativos a segurança e componentes de
+uma arquitetura em nuvem.
+95
+
+O gerenciamento de identidade no contexto de nuvem se
+concentra em definir quem pode acessar o recurso por meio
+da especificação de permissões, podendo-se adotar o acesso
+negado por padrão e concedê-lo apenas quando for
+necessário.
+
+96
+
+Zonas de disponibilidade em uma arquitetura em nuvem são
+grupos separados de datacenters dentro de determinada
+região, zonas essas que devem estar próximas o suficiente
+para ter conexões de baixa latência com outras zonas de
+disponibilidade.
+
+97
+
+Zonas de disponibilidade que são compostas por um ou mais
+datacenters distintos proporcionam aos clientes a capacidade
+de operar aplicativos com alta disponibilidade e com
+tolerância a falhas.
+
+98
+
+As zonas têm conexões de rede de muita largura de banda
+com outras zonas na mesma região, sendo uma coleção de
+zonas conhecida como regiões.
+
+99
+
+Os usuários são responsáveis pela privacidade dos seus
+dados quando operam serviços em nuvem, sendo os
+provedores de nuvem, nesse caso, responsáveis apenas por
+proteger a coleta e o processamento de dados; por isso, o
+usuário deve garantir a privacidade de comunicação de dados
+pessoais.
+
+100 Uma zona de disponibilidade pode conter várias regiões,
+
+como ocorre, por exemplo com a AZ-América do Sul, uma
+zona de disponibilidade que contém regiões como a
+Rg-Brasil e a Rg-Chile, as quais são isoladas
+e independentes entre si, mas interligadas, podendo cada
+uma conter vários domínios, de modo que sejam tolerantes a
+falhas simultâneas.
+
+
+A respeito do Windows Server e do Active Directory, julgue os
+próximos itens.
+101 O Windows Server utiliza sistema de arquivos NTFS (new
+
+technology file system) para gerenciamento de volumes de
+dados em servidores de arquivos e é capaz de suportar
+controle de cotas.
+102 No Active Directory, quando um usuário é eliminado,
+
+automaticamente são removidas todas as permissões
+e acessos que esse usuário tinha em recursos de rede,
+arquivos e pastas compartilhadas.
+103 O Windows Server pode ser configurado para distribuir
+
+automaticamente endereços IP para computadores em uma
+rede.
+104 Por meio do Active Directory, pode-se gerenciar usuários e
+
+grupos dentro de um único domínio somente, mas não
+múltiplos domínios; para isso, deve ser utilizada uma
+solução de gerenciamento de identidade.
+105 O Windows Server permite a implementação de DNSSEC
+
+que adiciona uma camada de segurança para consultas DNS.
+106 O uso de políticas de grupo é suportado pelo Active
+
+Directory para executar ações automaticamente nos
+computadores do domínio controlado, devendo novas
+atualizações de segurança ser obrigatoriamente aplicadas
+com autorização do usuário do computador.
+A respeito do TCP/IP, julgue os itens subsequentes.
+107 O endereço IP é composto por quatro octetos em sua versão
+
+IPv4, e cada octeto varia de 0 a 255, possibilitando
+a identificação única de dispositivos em uma rede.
+108 O protocolo SSL/TLS opera na camada de transporte do
+
+modelo TCP/IP, criptografando dados diretamente entre os
+protocolos TCP e IP.
+109 A camada de aplicação é responsável pelo roteamento de
+
+pacotes entre redes.
+110 O protocolo TCP é considerado orientado a conexão, pois
+
+estabelece uma conexão e garante a entrega dos dados.
+Acerca de pacote de escritório e de browsers, julgue os próximos
+itens.
+111 Na concepção das planilhas do Excel, foi adotada a premissa
+
+de que as linhas fossem menos numerosas que as colunas,
+razão por que se utilizam letras para referenciar as linhas e
+números para referenciar as colunas.
+112 O Word permite a inserção de elementos do tipo tabela no
+
+corpo de um documento, o que pode facilitar a organização
+das informações a serem apresentadas.
+113 O Google Chrome permite a utilização de diferentes perfis
+
+de usuário, o que possibilita separar informações de pessoas
+diferentes ou da mesma pessoa.
+114 No Word, utilizando-se as opções de Cabeçalho e Rodapé, é
+
+possível inserir informações no cabeçalho e no rodapé do
+documento, as quais serão iguais em todas as páginas do
+documento editado.
+
+
+CEBRASPE – MPTO – Edital: 2024
+
+Julgue os itens subsequentes, relativos a conceitos, serviços e
+tecnologias relacionados a Internet e correio eletrônico, a
+spyware e criptografia.
+115 O uso de criptografia end-to-end busca garantir que somente
+o emissor e o receptor da mensagem consigam acessar o seu
+conteúdo.
+116 Softwares de adware são exemplos de spyware e são
+utilizados para coletar informações sobre hábitos e interesses
+do usuário.
+117 O protocolo FTP é amplamente utilizado nas versões mais
+recentes dos navegadores Chrome e Edge.
+118 Considere que, ao enviar um e-mail para um grupo de
+destinatários, Ana tenha utilizado a opção CCO para incluir
+Bruno como destinatário. Nessa situação, Bruno não
+conseguirá ver quem mais recebeu o e-mail.
+A respeito de banco de dados, julgue os próximos itens.
+119 O modelo conceitual de um banco de dados concebido por
+meio da abordagem entidade-relacionamento é usualmente
+representado por meio do diagrama entidade-relacionamento
+(DER), que capta as necessidades de armazenamento de
+dados para o contexto específico.
+120 Os bancos de dados que têm a arquitetura orientada a objeto
+armazenam os dados em tabelas com seus respectivos
+atributos.
+Espaço livre
+
+

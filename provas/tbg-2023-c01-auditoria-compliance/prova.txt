@@ -1,0 +1,324 @@
+     88800101658749
+
+                                  -- CONHECIMENTO
+                           BLOCO I
+Julgue os itens a seguir, de acordo com a Lei n.º 12.846/2013
+(Lei de Anticorrupção Brasileira).
+31   Os dirigentes de empresas privadas são responsabilizados
+     por atos ilícitos contra a administração pública na medida
+     da sua culpabilidade.
+32   Na aplicação de sanções por atos lesivos contra a
+     administração pública, é levada em consideração a vantagem
+     auferida pelo infrator, e não a sua situação econômica.
+33   Obter vantagens indevidas a partir da manipulação do
+     equilíbrio econômico-financeiro dos contratos celebrados
+     com a administração pública constitui ato lesivo ao
+     patrimônio público.
+34   O acordo de leniência não exime a pessoa jurídica da
+     obrigação de reparar integralmente o dano causado à
+     administração pública.
+35   O processo administrativo para apuração da responsabilidade
+     de pessoa jurídica contra ato lesivo à administração pública
+     deve ser conduzido por comissão composta por pelo menos
+     três servidores estáveis.
+
+A respeito da prevenção e da gestão de riscos de compliance,
+julgue os itens subsequentes.
+36   Os mecanismos utilizados no processo de lavagem de
+     dinheiro se resumem à colocação dos recursos ilícitos no
+     sistema econômico e à sua ocultação.
+37   O suporte da alta administração constitui um dos parâmetros
+     de avaliação dos programas de integridade organizacional.
+38   Os riscos socioambientais não geram danos à imagem
+     organizacional, mas, quando materializados, podem suscitar
+     penalidades por descumprimento da legislação ambiental.
+39   A definição de regras claras, políticas, códigos, valores e
+     princípios contribui para a implementação da cultura de
+     compliance organizacional.
+40   O risco de compliance trabalhista na organização deve ser
+     monitorado com a finalidade de avaliar, por exemplo, as
+     questões de saúde e de segurança no trabalho.
+
+Julgue os itens que se seguem, relativos ao conceito, ao objetivo,
+à periodicidade e à elaboração das principais demonstrações
+contábeis previstas na legislação societária e nas normas
+contábeis brasileiras.
+41   O objetivo das demonstrações contábeis é fornecer
+     informações úteis para a tomada de decisão econômica pelos
+     usuários dessas informações.
+42   Ao final de cada exercício civil, deve ser levantado o balanço
+     patrimonial do respectivo período.
+43   A elaboração da demonstração dos lucros ou prejuízos
+     acumulados é facultativa.
+44   A demonstração do resultado do exercício, elaborada de
+     forma dedutiva, apresenta resultados abrangentes que
+     afetaram a posição patrimonial dos sócios durante o
+     respectivo exercício.
+45   A demonstração das origens e aplicações de recursos, extinta
+     pela Lei n.º 11.638/2007, visava demonstrar as modificações
+     na posição financeira da companhia.
+
+                               CEBRASPE – TBG – Edital: 2023
+
+OS ESPECÍFICOS --
+ Em relação à análise econômico-financeira das entidades
+ contábeis, julgue os itens a seguir.
+ 46   A análise econômico-financeira tem por objetivo examinar, a
+      partir de informações passadas, a situação presente e a
+      perspectiva futura de uma entidade.
+ 47   Se determinada entidade calcula um indicador de
+      endividamento a partir da divisão de seus recursos de
+      terceiros totais pelo seu patrimônio líquido, então, quando o
+      resultado dessa divisão for igual a meio, haverá equilíbrio
+      entre os capitais que financiam os investimentos da entidade.
+ 48   A análise em perspectiva é característica da análise
+      horizontal, ao passo que a análise vertical realiza uma análise
+      estática.
+ 49   O índice de liquidez corrente é um indicativo dinâmico da
+      capacidade de pagamento das obrigações de curto prazo de
+      uma entidade contábil.
+ 50   Se uma entidade contábil possui um grau de imobilização
+      dos recursos próprios de 0,75, então, nessas condições,
+      25% dos ativos circulantes da entidade são financiados com
+      recursos próprios.
+
+ Julgue os itens a seguir, a respeito do conceito de auditoria
+ interna, sua missão, seus ramos de atuação e suas modalidades,
+ bem como da natureza do trabalho, do planejamento e da
+ execução dos trabalhos de campo.
+ 51 A auditoria interna compreende os exames, as análises e as
+    avaliações estruturados para a avaliação da integridade, da
+    adequação, da eficácia e da eficiência dos processos, com o
+    objetivo de adotar decisões estratégicas para a administração
+    da entidade.
+ 52 O planejamento do trabalho da auditoria interna deve ser
+    documentado, mas é desnecessário formalizar todos os
+    programas de trabalho.
+ 53 O planejamento do trabalho da auditoria interna deve
+    considerar os fatores relevantes para a sua execução,
+    inclusive o conhecimento detalhado da política e dos
+    instrumentos de gestão de riscos da entidade e a natureza dos
+    procedimentos de auditoria a serem aplicados, além de dever
+    abordar as providências tomadas em relação a auditorias
+    anteriores.
+ Em relação a riscos, materialidade e testes de auditoria, julgue os
+ seguintes itens.
+ 54 Os testes de observância realizados para a avaliação do
+    controle interno são executados exclusivamente por meio
+    dos procedimentos de observação e confirmação.
+ 55 A análise dos riscos da auditoria interna deve ser realizada
+    na fase de execução dos trabalhos, depois de concluído o
+    planejamento.
+ 56 A materialidade, na auditoria interna, refere-se à importância
+    ou relevância dos erros ou omissões identificados nos
+    procedimentos de auditoria, considerando-se o impacto que
+    eles podem ter na tomada de decisão da administração da
+    entidade.
+ 57 Os testes substantivos têm como principal objetivo verificar
+    a adequação dos controles internos estabelecidos pela
+    administração da entidade.
+
+    88800101658749
+
+No que diz respeito a erros, fraudes, amostragem e normas
+relativas ao relatório de auditoria, julgue os itens subsecutivos.
+58 Na auditoria interna, atos intencionais destinados a
+     manipular informações financeiras ou apropriação indevida
+     de recursos da entidade são indicativos de fraude; por sua
+     vez, equívocos não intencionais na elaboração das
+     demonstrações financeiras são considerados erros.
+59 A população, na auditoria interna, é o conjunto total de
+     elementos que estão sujeitos à avaliação; a amostra, por sua
+     vez, é uma parte representativa da população, selecionada
+     para exame com o objetivo de obter conclusões sobre a
+     totalidade da população.
+60 O relatório de auditoria interna deve conter informações
+     sobre o objetivo e a extensão dos trabalhos; a metodologia
+     adotada; os principais procedimentos de auditoria aplicados
+     e sua extensão; eventuais limitações ao alcance dos
+     procedimentos de auditoria; a descrição dos fatos
+     constatados e as evidências encontradas; os riscos associados
+     aos fatos constatados; e as conclusões e recomendações
+     resultantes das constatações.
+Relativamente às características gerais do padrão COSO, julgue
+os itens que se seguem.
+61 Ambiente de controle é a estrutura da organização sobre a
+     qual se aplicam os procedimentos de controle interno.
+62 As atividades de controle compreendem políticas e
+     procedimentos relacionados à gestão de riscos e têm a
+     finalidade de garantir que as respostas aos riscos sejam
+     executadas.
+63 A gestão eficaz de riscos implica um equilíbrio entre
+     exposições a riscos, ganhos e custos.
+No que se refere aos principais tipos de controles de riscos,
+julgue os itens subsequentes.
+64 A alta administração de uma companhia, ao confrontar os
+    desempenhos atingidos com os desempenhos orçados,
+    realiza uma atividade de controle preventiva.
+65 Os manuais internos de procedimentos desenvolvidos para
+    uso do corpo de colaboradores de uma entidade contribuem
+    para a gestão preventiva dos riscos.
+66 A proteção física dos bens de uma entidade permite a
+    detecção dos riscos sofridos por esses bens.
+Com relação aos indicadores de fraude e à segregação de
+funções, julgue os itens a seguir.
+67 Segregar funções melhora a efetividade dos controles
+    internos.
+68 Para mitigar o risco de fraudes, o gerente que autoriza as
+    vendas a crédito deve controlar os recebimentos
+    efetivamente realizados.
+69 Considere-se que um funcionário de uma grande empresa,
+    com mais de 20 anos de serviço, tenha saído em férias nas
+    quais percorreu boa parte da Europa, e que tenha voltado
+    com presentes para todos os colegas de trabalho; considere,
+    ainda, que ele tenha informado, quando de seu retorno, sua
+    mudança de residência para um bairro luxuoso. Nessa
+    situação, estão presentes todos os indícios que comprovam a
+    ocorrência de uma fraude.
+70 Considere-se que um servidor público, responsável por um
+    processo de compra pública, seja irmão do fornecedor
+    vendedor da licitação; nessa situação, evidencia-se uma
+    fraude no processo.
+
+                              CEBRASPE – TBG – Edital: 2023
+
+                           BLOCO II
+No que diz respeito aos programas                 de   integridade
+organizacionais, julgue os itens seguintes.
+71   Uma forma de a alta administração apoiar o programa de
+     integridade organizacional é patrociná-lo perante os públicos
+     interno e externo e solicitar o comprometimento de todos os
+     colaboradores e das partes interessadas.
+72   Diferentemente do abuso de posição ou de poder em favor de
+     interesses privados, o conflito de interesses não chega a
+     constituir transgressão à integridade organizacional.
+73   Além de atuar como mitigador de riscos de integridade, a
+     due diligence torna possível identificar oportunidades e
+     agregar conhecimento ao nicho de negócio.
+74   A denominada linha ética proporciona o recebimento de
+     denúncias internas e externas e estabelece mecanismo
+     de proteção capaz de evitar qualquer retaliação à pessoa que
+     utilizar o canal de denúncia organizacional.
+75   O background check encerra-se nas pesquisas de distribuição
+     de ações judiciais e na consulta de processos administrativos
+     e da situação cadastral do quadro societário referentes ao
+     ente com o qual a organização almeja desenvolver relações
+     negociais.
+
+Julgue os itens a seguir, em relação à auditoria de itens do
+balanço regulados pela legislação societária brasileira, às
+empresas públicas e à governança corporativa.
+76   Na auditoria do ativo permanente, deve ser considerada
+     inadequada a existência de saldos identificados em contas
+     relativas a direitos que tenham por objeto bens incorpóreos
+     destinados à manutenção da companhia ou exercidos com
+     essa finalidade.
+77   A Lei Sarbanes-Oxley estabelece a necessidade de avaliação
+     e certificação dos mecanismos de controles dos relatórios
+     financeiros, bem como regras para o monitoramento e a
+     supervisão das atividades relacionadas à governança
+     corporativa das empresas, com vistas ao fortalecimento das
+     práticas de transparência e qualidade da informação
+     financeira.
+78   A legislação societária brasileira permite que a demonstração
+     dos fluxos de caixa evidencie as alterações ocorridas no
+     saldo de caixa e equivalentes de caixa, em três fluxos: das
+     operações; dos financiamentos; e dos investimentos.
+79   Deve ser considerada irregularidade a existência, no balanço
+     patrimonial, de um instrumento financeiro com avaliação
+     obtida a partir de cálculos matemáticos ou estatísticos para a
+     definição do seu valor justo.
+80   O estatuto jurídico das empresas públicas, sociedades de
+     economia mista e suas subsidiárias, definido em lei federal,
+     se aplica apenas às empresas públicas federais, excluídas,
+     portanto, as estaduais, municipais e do Distrito Federal.
+
+     88800101658749
+
+Julgue os itens seguintes, relacionados a procedimentos contábeis
+aplicáveis às companhias abertas.
+81   Na elaboração da demonstração dos fluxos de caixa pelo
+     método indireto, as companhias abertas devem, entre outros
+     ajustes, eliminar os efeitos da depreciação e do resultado da
+     equivalência patrimonial sobre o lucro líquido ou prejuízo do
+     período para fins de determinação do valor do fluxo de caixa
+     líquido advindo das atividades operacionais.
+82   Pelo método da equivalência patrimonial, os recursos
+     distribuídos como dividendos pela investida reduzem o valor
+     contábil do investimento registrado como ativo pela
+     investidora.
+83   De acordo com a legislação societária, as contas
+     representativas de empréstimos concedidos a acionistas por
+     empresas comerciais devem ser classificadas no ativo
+     circulante ou no ativo realizável a longo prazo, a depender
+     dos prazos para que esses empréstimos se tornem realizáveis.
+84   As demonstrações contábeis consolidadas devem ser
+     elaboradas de modo a refletirem as políticas contábeis
+     adotadas em cada entidade que compõe o grupo econômico.
+85   O procedimento contábil de redução do custo dos estoques
+     ao seu valor realizável líquido é um indicativo de que o
+     investimento efetuado nos referidos ativos pode não ser mais
+     recuperável.
+
+                          BLOCO III
+Julgue os itens a seguir, relativos às disposições da Lei Geral de
+Proteção de Dados (LGPD).
+86   Dado pessoal é a informação da pessoa natural identificada
+     ou identificável, enquanto sensíveis são os demais dados
+     vinculados à pessoa e não utilizados na sua identificação.
+87   Para combater a criminalidade, o Ministério da Justiça
+     poderá utilizar lista com dados pessoais levantada por
+     qualquer pessoa de direito privado.
+88   O tríplice apoio para proteção de dados inclui o direito
+     fundamental de liberdade, o direito de privacidade e o livre
+     desenvolvimento da pessoa natural.
+
+Considerando o regime fiscal brasileiro, julgue os itens seguintes.
+89   Os royalties a serem recolhidos por empresa concessionária
+     contratada para explorar petróleo têm alíquota máxima de
+     15% sobre o valor da produção do campo.
+90   A contribuição para PIS/COFINS incide sobre o total das
+     receitas auferidas pela pessoa jurídica, incluídas as ajustadas
+     ao valor presente, quando for o caso.
+91   As deduções sobre o valor pago da contribuição de intervenção
+     no domínio econômico sobre importação e comercialização de
+     petróleo e seus derivados (CIDE-combustíveis) devem ser feitas
+     por espécie de produto de importado.
+92   Incide ICMS sobre produto importado especificamente para
+     ser doado a instituição filantrópica.
+93   O contribuinte do ISS recolhe, no máximo, 5% sobre o preço
+     do serviço.
+
+                            CEBRASPE – TBG – Edital: 2023
+Considerando as normas de elaboração e acompanhamento do
+plano anual de atividades das auditorias internas emitido pela
+Controladoria-Geral da União (CGU), julgue os itens a seguir.
+94 A CGU é o ente responsável pela divulgação da prestação de
+    contas anual das unidades de auditoria interna singulares da
+    administração indireta do Poder Executivo federal.
+95 No Poder Executivo federal, pela competência vigente, a
+    Secretaria-Geral da Casa Civil, por meio da Secretaria de
+    Controle Interno da Presidência da República, supervisiona
+    tecnicamente a atividade de auditoria interna da CGU e as de
+    suas controladorias regionais presentes em cada estado.
+96 O dirigente máximo da unidade auditada é competente para
+    ratificar o plano anual de auditoria interna do exercício de
+    referência.
+97 O resultado do Programa de Dispêndios Globais e Melhoria
+    da Qualidade dos Gastos deve integrar o relatório anual de
+    atividades de auditoria interna elaborado pela unidade de
+    auditoria interna governamental do ente gestor do programa.
+No que concerne à atuação do Estado (como empreendedor) com
+o propósito de exercer atividades de interesse público, conforme
+regulamentado pelo Decreto n.º 8.945/2016, julgue os próximos
+itens.
+98 É obrigatória a divulgação da remuneração dos conselheiros
+     fiscais das empresas estatais.
+99 Grupo econômico formado por empresas públicas e
+     sociedades de economia mista — estas dotadas de
+     personalidade jurídica própria — caracteriza conglomerado
+     estatal.
+100 Sociedade de economia mista pode transformar-se em
+     empresa pública.
+Espaço livre
+

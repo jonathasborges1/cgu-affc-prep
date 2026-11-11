@@ -1,0 +1,320 @@
+                                    -- CONHECIMENTO
+Julgue os itens seguintes, a respeito da padronização de arquivos
+de modelos 3D.
+51 Os      dados 3D armazenados no formato PLY
+    (polygon file format) são organizados como uma lista
+    simples de triplas (x,y,z) para os vértices e uma lista de faces
+    descritas por índices em uma lista de vértices.
+52 O padrão STL (standard tesselation language) é um dos
+    formatos mais utilizados para armazenamento e manipulação
+    de dados 3D, por sua simplicidade e grande compatibilidade
+    com softwares, como, por exemplo, CAD/CAM, e
+    hardwares, a exemplo de impressoras 3D.
+53 O formato de arquivo STL (standard tesselation language)
+    para armazenamento de dados 3D, assim como os demais
+    tipos de formatos para o mesmo fim, possui um cabeçalho na
+    sua versão em binário, com o total de 128 caracteres.
+54 Uma desvantagem do formato PLY (polygon file format) de
+    padronização de arquivos 3D é não permitir armazenamento
+    de atributos de dados utilizados na sua representação visual,
+    como cor, textura e propriedade dos materiais.
+55 No formato de arquivo OBJ (object file format), é possível
+    armazenar dados da geometria 3D e textura, que são cruciais
+    para aplicações que buscam realismo visual.
+Com base nos conceitos de representação de modelos
+tridimensionais (3D), julgue os itens a seguir.
+56 A multiplataforma de ray-tracing, denominada POV-Ray
+     (persistence of vision raytracer) não permite a síntese de
+     imagens fotorrealistas, que são geradas a partir da execução
+     de programas que descrevem cenas tridimensionais
+     compostas de objetos e luzes.
+57 Em uma transformação afim (affine transformation), o uso
+     de uma matriz de transformação em coordenadas
+     homogêneas M (composta por elementos reais diferentes de
+     zero) em que o determinante da submatriz superior-esquerda
+     de dimensões 3x3 seja igual a zero implica a realização de
+     uma operação de rotação com mudança de escala.
+58 O processo de modelagem 3D que utiliza splines de base
+     racional não uniforme (NURBS – non-uniform rational basis
+     splines) é ideal para a modelagem de móveis com detalhes e
+     curvas complexos.
+59 A transformação afim (affine transformation) representada
+     pela equação matricial a seguir descreve uma translação em
+     coordenadas homogêneas de tx e ty, unidades na direção das
+     coordenadas dos pontos x e y, respectivamente.
+
+                         ‫ݔ‬′     1   0   ‫ݐ‬௫ ‫ݔ‬
+                        ൥‫ݕ‬′൩ = ൥0   1   ‫ݐ‬௬ ൩ ቈ‫ݕ‬቉
+                         1      0   0   1 1
+
+60 É possível projetar qualquer entidade tridimensional mesmo
+   sem a obtenção de suas coordenadas em relação ao sistema
+   de referência da câmera virtual.
+61 A renderização 3D é o processo de gerar uma imagem, não
+   obrigatoriamente fotorrealista, em 2D, a partir de modelos
+   tridimensionais.
+62 O mapeamento de relevo (bump mapping) aplicado em
+   entidades tridimensionais é ineficaz para a construção de
+   cenários complexos, pois ele reduz a qualidade de sua
+   aparência visual em decorrência da alteração da sua
+   geometria.
+63 A seleção de faces visíveis (face culling) é uma técnica de
+   otimização que reduz o custo computacional da renderização
+   de polígonos em uma entidade 3D.
+
+                                CEBRASPE – CTI – Edital: 2023
+
+OS ESPECÍFICOS --
+ 64   A aplicação de técnicas avançadas de iluminação e
+      sombreamento, como sombras dinâmicas, reflexões e
+      refrações, não interferem no custo computacional do
+      processo de renderização da entidade tridimensional.
+ 65   O grau de detalhamento de uma entidade tridimensional
+      pode ser aumentado desde que esta seja dividida em um
+      número maior de polígonos formantes, o que não altera o
+      custo computacional no processo de renderização.
+
+ Quanto aos modelos matemáticos utilizados em simulação
+ computacional, julgue os itens a seguir.
+ 66   Um modelo, que é uma simplificação do mundo real, deve
+      exclusivamente apresentar um comportamento semelhante ao
+      do sistema modelado.
+ 67   Um modelo é classificado como determinístico quando não
+      contém nenhuma variável aleatória.
+ 68   O modelo de simulação estática diferencia-se do modelo de
+      simulação dinâmica por representar um sistema e como ele
+      se comporta em função dos eventos passados, e com o
+      decorrer do tempo.
+
+ Julgue os itens a seguir, relativos à simulação computacional.
+ 69   Uma simulação que estuda um sistema em um intervalo de
+      tempo com datas de início e término definidas é classificada
+      como simulação terminante.
+ 70   A simulação computacional consiste na aplicação de um
+      grupo específico de métodos matemáticos empregados em
+      computadores, em que se pode utilizar diversos métodos,
+      como o analítico, por ser mais eficiente do que o empírico,
+      pois está ligado a uma avaliação mais direta dos acertos e das
+      falhas do experimento.
+
+ Quanto a gêmeos digitais, julgue os itens seguintes.
+ 71   Quando dois ou mais componentes são executados juntos,
+      formam o que se conhece como sistema gêmeo, que permite
+      estudar a interação entre esses componentes, criando uma
+      coleção importante de dados de desempenho que podem ser
+      processados e, assim, transformados em insights executáveis.
+ 72   Componentes gêmeos, ativos gêmeos, sistemas gêmeos e
+      processos gêmeos são exemplos de tipos de gêmeos digitais.
+ 73   Uma das principais soluções que compõem o conceito de
+      gêmeos digitais é a inteligência artificial, composta por
+      sensores sem fio, conectados via rede, que enviam dados
+      coletados, de forma constante, para monitoramento.
+ 74   Um gêmeo digital é um modelo virtual projetado para
+      representar com precisão um objeto físico que poderá ser
+      usado para executar simulações, estudar problemas de
+      desempenho e gerar possíveis melhorias, que poderão ser
+      aplicadas no objeto físico original.
+ 75   São necessários muitos dados de funcionamento do ativo que
+      pretende ser modelado para a construção de um gêmeo
+      digital. Nesse contexto, a tecnologia facilitadora mais
+      importante no processo de coleta de dados é a Internet das
+      coisas ou IoT (Internet of things).
+
+Acerca da manufatura aditiva e de seu uso em aplicações da área
+de saúde, julgue os itens a seguir.
+76   Na área médica, a precisão dos biomodelos obtidos por
+     manufatura aditiva depende não somente da qualidade das
+     imagens médicas adquiridas, mas também da qualidade do
+     tratamento realizado nessas imagens.
+77   A precisão e o acabamento superficial das peças obtidas com
+     a manufatura aditiva são superiores aos das obtidas por
+     usinagem com sistema de controle numérico.
+78   Na manufatura aditiva, a fabricação é feita por meio da
+     adição sucessiva de material na forma de camadas, com
+     informações obtidas de uma representação geométrica
+     computacional 3D do objeto.
+79   Biomodelos criados com manufatura aditiva podem ser
+     utilizados no planejamento cirúrgico, servindo como
+     referência durante a cirurgia.
+80   Uma limitação inerente ao processo de manufatura aditiva
+     consiste no fato de que os objetos fabricados têm
+     características de porosidade e flexibilidade uniformes ao
+     longo da peça, o que é reflexo das propriedades do material
+     utilizado na fabricação.
+
+Com base nos princípios da formação de imagens médicas,
+julgue os próximos itens.
+81   Na ultrassonografia Doppler, a velocidade do sangue ou do
+     tecido é estimada com base na amplitude dos pulsos
+     refletidos.
+82   No espalhamento Rayleigh, o fóton transfere parte de sua
+     energia para ejetar um elétron do átomo, e um fóton de
+     energia menor é emitido.
+83   Na radiografia, o endurecimento de feixe pode ser obtido por
+     meio de um filtro de alumínio, que, frequentemente
+     complementado por um filtro de cobre, remove do feixe os
+     fótons de baixa energia, os quais, embora transfiram energia
+     aos pacientes, não são úteis para o processo de formação da
+     imagem.
+84   A constante T2 está associada ao tempo de recuperação da
+     componente longitudinal do sinal de ressonância magnética.
+85   Na tomografia computadorizada, um sinograma pode ser
+     construído a partir de um conjunto de projeções, sendo cada
+     projeção obtida usando-se um ângulo de incidência diferente
+     para o feixe de raios X.
+86   A retroprojeção filtrada é um método para a redução de ruído
+     do sinograma.
+87   Tanto na tomografia computadorizada quanto no SPECT, os
+     detectores devem ser otimizados para sensibilidade, isto é,
+     devem ser capazes de detectar um grande número de fótons
+     em um curto intervalo de tempo.
+88   No imageamento por ressonância magnética, uma das
+     utilidades dos gradientes magnéticos é codificar, no sinal
+     detectado, informação espacial acerca do objeto.
+
+                               CEBRASPE – CTI – Edital: 2023
+Considerando os fundamentos de imagens médicas 3D, julgue os
+itens subsequentes.
+89 Na tomografia helicoidal, a posição do paciente em relação
+     ao gantry deve ser mantida fixa durante a rotação do tubo de
+     raios X.
+90 Na ressonância magnética, as imagens 3D são obtidas a
+     partir de múltiplas aquisições 2D, pois a região excitada é
+     inerentemente estreita.
+91 A tomografia volumétrica pode ser realizada utilizando-se
+     feixe em forma de cone e múltiplas fileiras de detectores.
+92 Na ultrassonografia, as imagens 3D podem ser obtidas por
+     meio da rotação ou oscilação de um transdutor de arranjo
+     faseado unidimensional.
+93 Na ultrassonografia 3D, o uso de um transdutor de arranjo
+     faseado bidimensional pode tornar dispensável o movimento
+     mecânico do transdutor.
+94 Na tomografia circular (também conhecida como
+     “escaneamento axial”), a distância entre aquisições axiais
+     consecutivas deve ser, no mínimo, igual à largura do feixe de
+     raios X.
+Julgue os seguintes itens, à luz dos princípios da segmentação de
+imagens.
+95 A técnica de watershed baseia-se em agrupar pixels com
+    níveis de cinza parecidos, de forma iterativa, iniciando-se a
+    partir de pontos semente.
+96 Na técnica de watershed, as linhas divisórias entre as regiões
+    são aquelas cujos pontos estão associados a um único
+    mínimo local.
+97 Um filtro gaussiano pode ser usado para melhorar o
+    contraste das imagens.
+98 As bordas entre regiões de uma imagem podem ser realçadas
+    usando-se operadores diferenciais, como o laplaciano ou
+    uma aproximação deste.
+99 Na segmentação baseada em limiar (thresholding), os
+    elementos da imagem são separados em função de uma faixa
+    de níveis de cinza, com valores mínimos e máximos.
+100 Na técnica baseada em classificação estatística de pixels, é
+    definido um modelo estatístico para cada classe de tecido
+    (por exemplo, massa branca, massa cinzenta e líquido
+    cefalorraquidiano), em seguida, os pixels são atribuídos à
+    classe mais verossímil.
+Uma das tecnologias usadas para a fabricação de produtos para a
+saúde é a de fusão de leito de pó, por meio de uma fonte de
+energia. A esse respeito, julgue os itens a seguir.
+101 Os parâmetros críticos do controle da câmara de fabricação
+    em leito de pó são: concentração de impurezas, pressão do
+    vácuo, temperatura, fluxo de gás (perfil de velocidade), taxa
+    de carregamento do pó por camada e morfologia do pó.
+102 O processamento em manufatura aditiva de pós-metálicos
+    inclui a atomização a plasma ou a gás em uma atmosfera de
+    argônio ou nitrogênio.
+103 Na fusão seletiva a laser, a sinterização a laser de metal e a
+    fusão por feixe de elétrons, que promovem a fusão seletiva
+    em camadas estacionárias sucessivas de pó metálico,
+    distinguem-se dos processos de manufatura aditiva de
+    pós-metálicos em que o material é alimentado
+    simultaneamente com a fonte de calor.
+104 A remoção pela usinagem por eletroerosão a fio é facilitada
+    devido à retenção de pó e à ação de corte irregular no
+    processo.
+105 O efeito curl do material pode ser reduzido com tratamento
+    térmico subsequente ao processo de manufatura aditiva.
+
+Em relação às tecnologias de manufatura aditiva com o
+envolvimento de materiais poliméricos, julgue os próximos itens.
+106 Os polímeros utilizados na tecnologia de fabricação por
+    filamento fundido são sensíveis a variações de temperatura,
+    sendo necessário que estejam em estado vítreo.
+107 No processo de fabricação por filamento fundido, a
+    anisotropia é insignificante em comparação a outras
+    tecnologias de manufatura aditiva.
+108 Na fusão de leito de pó, a poliamida é o material mais
+    comum, embora seja também possível a utilização de
+    elastômeros, poliamida reforçada com vidro ou outros
+    materiais.
+109 Nas tecnologias e nos processos de manufatura aditiva que
+    envolvem polímeros, as estruturas de balanço são facilmente
+    removíveis.
+110 No processo de jateamento, os materiais são submetidos à
+    fotopolimerização em uma cuba por meio de feixes de
+    energia no formato de seções transversais da peça.
+
+A tecnologia de manufatura aditiva em defeitos craniofaciais
+pode ser aplicada na área de reconstrução (criação de dispositivos
+de fixação implantáveis cirurgicamente para melhorar o
+tratamento), na de reabilitação (criação de próteses para restaurar
+a aparência ou proteger tecidos danificados) e na de regeneração
+(uso de engenharia tecidual para tratar tais defeitos). A partir
+dessas informações, julgue os seguintes itens.
+111 São propriedades de nanomateriais de engenharia a serem
+    categorizados     no   contexto       de     ensaios   toxicológicos:
+    composição      química,       pureza,     tamanho     do   objeto e
+    distribuição do tamanho, forma, área superficial, carga
+    superficial solubilidade e dispersabilidade.
+112 No design paramétrico, o projetista formaliza as restrições e
+    os objetivos necessários para um design satisfatório em
+    sistemas especializados e define sistemas de otimização para
+    satisfazer algoritmicamente esses requisitos.
+113 O design generativo fornece uma capacidade habilitadora do
+    projeto de manufatura aditiva de peças de forma para a
+    concepção de implantes complexos personalizados para
+    pacientes.
+114 O aço inoxidável e a liga de titânio são materiais que
+    apresentam      alto   nível     de      biocompatibilidade,   sendo
+    promissores no desenvolvimento de próteses mais leves.
+115 Uma prótese é considerada biocompatível quando os
+    materiais em contato com os tecidos vivos do paciente
+    provocam pouca alergia ou uma baixa experiência tóxica ou
+    irritante.
+
+                               CEBRASPE – CTI – Edital: 2023
+A análise numérica robusta de estruturas de treliça na fabricação
+aditiva pode proporcionar uma profunda compreensão das bases
+fundamentais      para    a    resposta   mecânica     observada
+experimentalmente. A respeito desse assunto, julgue os itens
+subsequentes.
+116 Pequenos artefatos geométricos em pequena escala podem
+     implicar variações significativas na resposta mecânica
+     observada, consequentemente, representações simplificadas
+     da geometria da treliça de manufatura aditiva podem resultar
+     em previsões errôneas.
+117 Existem poucos dados sobre a resposta à fadiga de estruturas
+     de treliça fabricadas por adição, devido à natureza
+     relativamente recente das tecnologias de fabricação aditiva e
+     ao significativo esforço técnico necessário para a aquisição
+     de dados confiáveis de fadiga.
+118 Modelos numéricos de estruturas de treliça na manufatura
+     aditiva podem potencialmente exigir um número muito
+     grande de elementos finitos para simular a resposta
+     mecânica;      os    custos    computacionais     aumentam
+     exponencialmente com o número de elementos em uma
+     simulação específica, o que resulta em modelos numéricos
+     caros.
+119 A deformação plástica inicial observada na treliça por
+     manufatura aditiva está associada a concentrações de tensão
+     locais de tamanho mícron, no entanto a transferência de
+     carga em larga escala é determinada por características
+     geométricas que são várias ordens de magnitude maiores.
+120 A disponibilidade de dados confiáveis sobre as propriedades
+     dos materiais para estruturas de manufatura aditiva é alta;
+     além disso, a correlação entre os parâmetros de design para
+     manufatura aditiva e microestrutura fabricada é bem
+     compreendida.
+Espaço livre
+

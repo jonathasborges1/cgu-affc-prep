@@ -1,0 +1,506 @@
+{
+  "bloco": "P3",
+  "n": 60,
+  "status": "aguarda_classificacao_semantica",
+  "metodo": "deduplicacao por item e texto normalizado; sorteio sem reposicao dentro de tercis de score",
+  "semente": 20261109,
+  "populacao_elegivel": 157,
+  "populacao_por_estrato": {
+    "baixo": 52,
+    "medio": 52,
+    "alto": 53
+  },
+  "amostra_por_estrato": {
+    "baixo": 20,
+    "medio": 20,
+    "alto": 20
+  },
+  "peso_expansao_por_estrato": {
+    "baixo": 2.6,
+    "medio": 2.6,
+    "alto": 2.65
+  },
+  "excluidos_auditoria_anterior": 58,
+  "rotulos_ocultos": [
+    {
+      "id": "cego-v2-p3-001",
+      "origem": "v1-1-12",
+      "estrato": "baixo",
+      "score_original": 10.76,
+      "triagem": "P3·ARQ 4",
+      "edital_prov": "P3·ARQ 4.2"
+    },
+    {
+      "id": "cego-v2-p3-002",
+      "origem": "v1-11-01",
+      "estrato": "baixo",
+      "score_original": 10.42,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5.1"
+    },
+    {
+      "id": "cego-v2-p3-003",
+      "origem": "v1-11-11",
+      "estrato": "baixo",
+      "score_original": 11.11,
+      "triagem": "P3·DADOS 2",
+      "edital_prov": "P3·DADOS 2.1"
+    },
+    {
+      "id": "cego-v2-p3-004",
+      "origem": "v1-11-14",
+      "estrato": "baixo",
+      "score_original": 10.67,
+      "triagem": "P3·SEG 1",
+      "edital_prov": "P3·SEG 1.4"
+    },
+    {
+      "id": "cego-v2-p3-005",
+      "origem": "v1-12-10",
+      "estrato": "baixo",
+      "score_original": 10.89,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5.1"
+    },
+    {
+      "id": "cego-v2-p3-006",
+      "origem": "v1-12-14",
+      "estrato": "baixo",
+      "score_original": 10.77,
+      "triagem": "P3·SEG 2",
+      "edital_prov": "P3·SEG 2.3"
+    },
+    {
+      "id": "cego-v2-p3-007",
+      "origem": "v1-13-15",
+      "estrato": "baixo",
+      "score_original": 10.77,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.4"
+    },
+    {
+      "id": "cego-v2-p3-008",
+      "origem": "v1-14-12",
+      "estrato": "baixo",
+      "score_original": 10.47,
+      "triagem": "P3·DADOS 3",
+      "edital_prov": "P3·DADOS 3.4"
+    },
+    {
+      "id": "cego-v2-p3-009",
+      "origem": "v1-15-01",
+      "estrato": "baixo",
+      "score_original": 10.36,
+      "triagem": "P3·ENG 2",
+      "edital_prov": "P3·ENG 2.4"
+    },
+    {
+      "id": "cego-v2-p3-010",
+      "origem": "v1-3-02",
+      "estrato": "baixo",
+      "score_original": 10.81,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2"
+    },
+    {
+      "id": "cego-v2-p3-011",
+      "origem": "v1-3-08",
+      "estrato": "baixo",
+      "score_original": 10.73,
+      "triagem": "P3·ARQ 1",
+      "edital_prov": "P3·ARQ 1.7"
+    },
+    {
+      "id": "cego-v2-p3-012",
+      "origem": "v1-4-04",
+      "estrato": "baixo",
+      "score_original": 10.49,
+      "triagem": "P3·ARQ 3",
+      "edital_prov": "P3·ARQ 3.3"
+    },
+    {
+      "id": "cego-v2-p3-013",
+      "origem": "v1-4-12",
+      "estrato": "baixo",
+      "score_original": 10.44,
+      "triagem": "P3·DADOS 3",
+      "edital_prov": "P3·DADOS 3.4"
+    },
+    {
+      "id": "cego-v2-p3-014",
+      "origem": "v1-5-12",
+      "estrato": "baixo",
+      "score_original": 11.01,
+      "triagem": "P3·ARQ 1",
+      "edital_prov": "P3·ARQ 1.7"
+    },
+    {
+      "id": "cego-v2-p3-015",
+      "origem": "v1-6-11",
+      "estrato": "baixo",
+      "score_original": 10.75,
+      "triagem": "P3·SEG 4",
+      "edital_prov": "P3·SEG 4.1"
+    },
+    {
+      "id": "cego-v2-p3-016",
+      "origem": "v1-6-12",
+      "estrato": "baixo",
+      "score_original": 11.02,
+      "triagem": "P3·SEG 4",
+      "edital_prov": "P3·SEG 4.2"
+    },
+    {
+      "id": "cego-v2-p3-017",
+      "origem": "v1-7-03",
+      "estrato": "baixo",
+      "score_original": 11.11,
+      "triagem": "P3·DADOS 2",
+      "edital_prov": "P3·DADOS 2.1"
+    },
+    {
+      "id": "cego-v2-p3-018",
+      "origem": "v1-7-15",
+      "estrato": "baixo",
+      "score_original": 10.7,
+      "triagem": "P3·ENG 1",
+      "edital_prov": "P3·ENG 1.4"
+    },
+    {
+      "id": "cego-v2-p3-019",
+      "origem": "v1-8-14",
+      "estrato": "baixo",
+      "score_original": 11.11,
+      "triagem": "P3·DADOS 2",
+      "edital_prov": "P3·DADOS 2.1"
+    },
+    {
+      "id": "cego-v2-p3-020",
+      "origem": "v1-9-14",
+      "estrato": "baixo",
+      "score_original": 10.75,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.6"
+    },
+    {
+      "id": "cego-v2-p3-021",
+      "origem": "v1-10-11",
+      "estrato": "medio",
+      "score_original": 12.62,
+      "triagem": "P3·SEG 3",
+      "edital_prov": "P3·SEG 3"
+    },
+    {
+      "id": "cego-v2-p3-022",
+      "origem": "v1-10-12",
+      "estrato": "medio",
+      "score_original": 11.85,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.2"
+    },
+    {
+      "id": "cego-v2-p3-023",
+      "origem": "v1-12-08",
+      "estrato": "medio",
+      "score_original": 11.84,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.2"
+    },
+    {
+      "id": "cego-v2-p3-024",
+      "origem": "v1-12-13",
+      "estrato": "medio",
+      "score_original": 12.99,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.4"
+    },
+    {
+      "id": "cego-v2-p3-025",
+      "origem": "v1-13-03",
+      "estrato": "medio",
+      "score_original": 11.85,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5.1"
+    },
+    {
+      "id": "cego-v2-p3-026",
+      "origem": "v1-13-05",
+      "estrato": "medio",
+      "score_original": 11.41,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2.4"
+    },
+    {
+      "id": "cego-v2-p3-027",
+      "origem": "v1-13-12",
+      "estrato": "medio",
+      "score_original": 11.32,
+      "triagem": "P3·DADOS 2",
+      "edital_prov": "P3·DADOS 2.3"
+    },
+    {
+      "id": "cego-v2-p3-028",
+      "origem": "v1-13-14",
+      "estrato": "medio",
+      "score_original": 12.61,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.2"
+    },
+    {
+      "id": "cego-v2-p3-029",
+      "origem": "v1-14-04",
+      "estrato": "medio",
+      "score_original": 11.73,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2.3"
+    },
+    {
+      "id": "cego-v2-p3-030",
+      "origem": "v1-15-05",
+      "estrato": "medio",
+      "score_original": 12.91,
+      "triagem": "P3·ENG 2",
+      "edital_prov": "P3·ENG 2.1"
+    },
+    {
+      "id": "cego-v2-p3-031",
+      "origem": "v1-2-14",
+      "estrato": "medio",
+      "score_original": 12.93,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4"
+    },
+    {
+      "id": "cego-v2-p3-032",
+      "origem": "v1-3-10",
+      "estrato": "medio",
+      "score_original": 11.36,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5.1"
+    },
+    {
+      "id": "cego-v2-p3-033",
+      "origem": "v1-3-15",
+      "estrato": "medio",
+      "score_original": 12.57,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.6"
+    },
+    {
+      "id": "cego-v2-p3-034",
+      "origem": "v1-4-01",
+      "estrato": "medio",
+      "score_original": 11.23,
+      "triagem": "P3·SEG 3",
+      "edital_prov": "P3·SEG 3.4"
+    },
+    {
+      "id": "cego-v2-p3-035",
+      "origem": "v1-4-02",
+      "estrato": "medio",
+      "score_original": 13.0,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2.3"
+    },
+    {
+      "id": "cego-v2-p3-036",
+      "origem": "v1-4-03",
+      "estrato": "medio",
+      "score_original": 11.14,
+      "triagem": "P3·SEG 4",
+      "edital_prov": "P3·SEG 4.2"
+    },
+    {
+      "id": "cego-v2-p3-037",
+      "origem": "v1-5-02",
+      "estrato": "medio",
+      "score_original": 11.97,
+      "triagem": "P3·ARQ 3",
+      "edital_prov": "P3·ARQ 3"
+    },
+    {
+      "id": "cego-v2-p3-038",
+      "origem": "v1-5-05",
+      "estrato": "medio",
+      "score_original": 13.03,
+      "triagem": "P3·SEG 2",
+      "edital_prov": "P3·SEG 2.2"
+    },
+    {
+      "id": "cego-v2-p3-039",
+      "origem": "v1-6-04",
+      "estrato": "medio",
+      "score_original": 11.86,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.4"
+    },
+    {
+      "id": "cego-v2-p3-040",
+      "origem": "v1-8-09",
+      "estrato": "medio",
+      "score_original": 11.31,
+      "triagem": "P3·SEG 4",
+      "edital_prov": "P3·SEG 4"
+    },
+    {
+      "id": "cego-v2-p3-041",
+      "origem": "v1-1-05",
+      "estrato": "alto",
+      "score_original": 13.99,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2.3"
+    },
+    {
+      "id": "cego-v2-p3-042",
+      "origem": "v1-1-13",
+      "estrato": "alto",
+      "score_original": 13.42,
+      "triagem": "P3·DADOS 3",
+      "edital_prov": "P3·DADOS 3.6"
+    },
+    {
+      "id": "cego-v2-p3-043",
+      "origem": "v1-1-15",
+      "estrato": "alto",
+      "score_original": 13.54,
+      "triagem": "P3·ARQ 4",
+      "edital_prov": "P3·ARQ 4.2"
+    },
+    {
+      "id": "cego-v2-p3-044",
+      "origem": "v1-10-03",
+      "estrato": "alto",
+      "score_original": 13.5,
+      "triagem": "P3·ARQ 4",
+      "edital_prov": "P3·ARQ 4.1"
+    },
+    {
+      "id": "cego-v2-p3-045",
+      "origem": "v1-10-04",
+      "estrato": "alto",
+      "score_original": 14.04,
+      "triagem": "P3·SEG 5",
+      "edital_prov": "P3·SEG 5"
+    },
+    {
+      "id": "cego-v2-p3-046",
+      "origem": "v1-11-03",
+      "estrato": "alto",
+      "score_original": 14.66,
+      "triagem": "P3·SEG 1",
+      "edital_prov": "P3·SEG 1.2"
+    },
+    {
+      "id": "cego-v2-p3-047",
+      "origem": "v1-11-10",
+      "estrato": "alto",
+      "score_original": 15.8,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5.1"
+    },
+    {
+      "id": "cego-v2-p3-048",
+      "origem": "v1-12-05",
+      "estrato": "alto",
+      "score_original": 14.51,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.2"
+    },
+    {
+      "id": "cego-v2-p3-049",
+      "origem": "v1-12-06",
+      "estrato": "alto",
+      "score_original": 15.68,
+      "triagem": "P3·DADOS 3",
+      "edital_prov": "P3·DADOS 3.7"
+    },
+    {
+      "id": "cego-v2-p3-050",
+      "origem": "v1-14-01",
+      "estrato": "alto",
+      "score_original": 15.01,
+      "triagem": "P3·ARQ 3",
+      "edital_prov": "P3·ARQ 3.3"
+    },
+    {
+      "id": "cego-v2-p3-051",
+      "origem": "v1-14-15",
+      "estrato": "alto",
+      "score_original": 13.44,
+      "triagem": "P3·DADOS 3",
+      "edital_prov": "P3·DADOS 3.4"
+    },
+    {
+      "id": "cego-v2-p3-052",
+      "origem": "v1-15-03",
+      "estrato": "alto",
+      "score_original": 14.87,
+      "triagem": "P3·ARQ 5",
+      "edital_prov": "P3·ARQ 5"
+    },
+    {
+      "id": "cego-v2-p3-053",
+      "origem": "v1-15-11",
+      "estrato": "alto",
+      "score_original": 15.37,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.9"
+    },
+    {
+      "id": "cego-v2-p3-054",
+      "origem": "v1-3-09",
+      "estrato": "alto",
+      "score_original": 15.67,
+      "triagem": "P3·SEG 1",
+      "edital_prov": "P3·SEG 1.4"
+    },
+    {
+      "id": "cego-v2-p3-055",
+      "origem": "v1-3-14",
+      "estrato": "alto",
+      "score_original": 13.78,
+      "triagem": "P3·ARQ 4",
+      "edital_prov": "P3·ARQ 4.1"
+    },
+    {
+      "id": "cego-v2-p3-056",
+      "origem": "v1-4-05",
+      "estrato": "alto",
+      "score_original": 14.78,
+      "triagem": "P3·ARQ 2",
+      "edital_prov": "P3·ARQ 2.8"
+    },
+    {
+      "id": "cego-v2-p3-057",
+      "origem": "v1-4-15",
+      "estrato": "alto",
+      "score_original": 13.57,
+      "triagem": "P3·DADOS 4",
+      "edital_prov": "P3·DADOS 4.5"
+    },
+    {
+      "id": "cego-v2-p3-058",
+      "origem": "v1-5-11",
+      "estrato": "alto",
+      "score_original": 15.2,
+      "triagem": "P3·ENG 2",
+      "edital_prov": "P3·ENG 2.1"
+    },
+    {
+      "id": "cego-v2-p3-059",
+      "origem": "v1-6-09",
+      "estrato": "alto",
+      "score_original": 13.36,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.2"
+    },
+    {
+      "id": "cego-v2-p3-060",
+      "origem": "v1-8-01",
+      "estrato": "alto",
+      "score_original": 13.09,
+      "triagem": "P3·DADOS 1",
+      "edital_prov": "P3·DADOS 1.8"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+||251TCEPA_034_01N804027||
+
+CONHECIMENTO
+Com relação a gerenciamento de requisitos, julgue os itens a seguir.
+51
+
+Requisitos não funcionais descrevem o que o sistema deve
+fazer, quais são suas principais funcionalidades, como deve
+reagir a entradas específicas e como se comportar em
+determinadas situações.
+
+52
+
+Para melhor compreensão e controle das mudanças dos
+requisitos de um sistema, o documento de requisitos explicita
+os requisitos de usuário de um sistema e fornece uma
+especificação detalhada dos requisitos de sistema a serem
+utilizados pelos diagramas de caso de uso explicitando como
+é a interação entre atores e como o sistema funcionará.
+
+No que se refere ao ciclo de vida do software e às metodologias
+para o seu desenvolvimento, julgue os próximos itens.
+53
+
+No Scrum, práticas de estimativa como burndown e
+burncomplete, em conjunto com gráficos de barra, são úteis
+para estabelecer o burndown baseline e auxiliar o time de
+desenvolvimento a gerir a complexidade do projeto.
+
+54
+
+Em XP (Extreme Programming), as user stories não objetivam
+definir o escopo global do sistema, mas avaliar a complexidade
+de cada uma de suas partes a fim serem estimados prazos na
+perspectiva dos usuários ou clientes do sistema.
+
+Acerca do MPS–BR, julgue os itens subsecutivos.
+55
+
+A cada nível de maturidade, é atribuído um conjunto de perfis
+de processos que auxiliam a organização na compreensão dos
+esforços de melhoria voltados para a obtenção dos resultados
+esperados dos processos e dos atributos de processo
+estabelecidos para aquele nível.
+
+56
+
+O nível de maturidade G é composto pelos processos gerência
+de projetos e gerência de requisitos e tem, entre outros
+propósitos, estabelecer e manter planos que definam as
+atividades, os recursos e as responsabilidades do projeto.
+
+57
+
+A capacidade do processo é representada por um conjunto de
+atributos de processo descrito em termos de resultados
+esperados; atingindo a unidade organizacional maior nível de
+capacidade para desempenhar o processo à medida que evolui
+nos níveis de maturidade.
+
+58
+
+A escala de maturidade se inicia no nível G e progride até
+o nível A, sendo alcançado determinado nível de maturidade
+do MR–MPS–SW quando são atendidos os propósitos
+e resultados esperados tanto dos processos quanto dos
+atributos de processo estabelecidos para aquele nível.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+OS ESPECÍFICOS
+A respeito de métricas e estimativas de software, julgue os
+seguintes itens.
+59
+
+Arquivo lógico interno (ALI) é um grupo de dados
+logicamente relacionados, reconhecidos pelos usuários,
+mantidos por meio de um processo elementar de outra
+aplicação e referenciado pela aplicação que está sendo contada.
+
+60
+
+Uma aplicação com dois AIEs complexos, dois ALIs
+complexos e três EEs complexas terá, após o processo de
+contagem, 33 pontos por função.
+
+61
+
+A contagem estimativa por pontos de função (CEPF) objetiva
+conhecer o desempenho do sistema a partir dos requisitos
+funcionais do projeto e da identificação dos possíveis arquivos
+lógicos internos (ALI), entradas externas (EE), consultas
+externas (CE) e saídas externas (SE).
+
+A propósito de análise e projeto orientados a objetos, julgue
+os itens subsequentes.
+62
+
+Na UML, a representação de uma classe de objetos ocorre por
+meio de um retângulo em que há a seguinte representação: na
+parte superior, os atributos de objeto; e na parte inferior, as
+operações associadas ao objeto.
+
+63
+
+O diagrama de objetos representa os objetos que foram
+instanciados das classes, e as dependências demonstram que
+objetos de uma classe estão ligados a objetos de outras classes.
+
+64
+
+Na UML, modelos de sequência evidenciam agrupamentos
+lógicos de objetos em subsistemas, e modelos estáticos, como
+os de máquina de estado, destacam como objetos mudam de
+estado em resposta a eventos.
+
+65
+
+Objetos são componentes reusáveis, pois encapsulam um
+conjunto de atributos e operações que fornecem serviços
+a outros objetos.
+
+No que concerne a testes de software, julgue os itens que se
+seguem.
+66
+
+Testes de aceitação buscam garantir que o sistema opere com
+cargas de trabalho variáveis, visto que o aumento progressivo
+dessas cargas leva à compreensão do momento em que
+o desempenho se tornará inaceitável.
+
+67
+
+Na aplicação de versões mais recentes do software, caso seja
+verificada a ocorrência de novos defeitos em componentes
+já analisados, os testes de unidade rejeitarão o software,
+interpretando ter havido violação das assinaturas de entrada
+e saída.
+
+68
+
+Testes de integração buscam assegurar que o sistema opere
+com a carga necessária, pois, ao aumentá-la progressivamente,
+pode-se avaliar se as interações entre componentes são
+satisfatórias.
+
+
+||251TCEPA_034_01N804027||
+
+No que se refere ao desenvolvimento de sistemas e às linguagens de
+programação Java e JavaScript, julgue os itens a seguir.
+69
+
+O Ruby é uma linguagem flexível que permite aos seus
+usuários alterar partes da linguagem.
+
+70
+
+O fato de as expressões lambda terem sido excluídas do
+Java 8 possibilitou que a linguagem Java ficasse mais flexível
+e que a implementação de seu código se tornasse mais precisa.
+
+71
+
+Diferentemente do que ocorre com o JavaScript, as aplicações
+Java são executadas em uma máquina virtual ou em
+um browser.
+
+72
+
+O Eclipse permite, por meio da visão Servers, adicionar
+e remover projetos de um servidor, criar e excluir servidores,
+inicializar e interromper servidores bem como reinicializar
+o servidor em modo debug.
+
+73
+
+Empresa de desenvolvimento que opte pela utilização do
+Hibernate em seus sistemas enfrentará dificuldades à medida
+que seus projetos forem crescendo, devido ao fato de o
+Hibernate ser considerado inapropriado para a execução de
+trabalhos em uma arquitetura altamente escalável.
+
+Julgue os itens que se seguem, relativamente a desenvolvimento de
+sistemas web.
+74
+
+O Single Page Application, modelo de desenvolvimento de
+aplicações para Web e dispositivos móveis, utiliza templates
+que rodam basicamente no lado do cliente.
+
+75
+
+O elemento <canvas> do HTML5 especifica uma forma
+padrão para inserir um vídeo em uma página da Web.
+
+76
+
+Após a incorporação do jQuery ao HTML5, o
+desenvolvimento de funcionalidades por meio dessa biblioteca
+JavaScript ficou limitado a aplicações para dispositivos
+móveis.
+
+77
+
+O WebSocket permite o desenvolvimento de diversas
+aplicações em tempo real como, por exemplo, aplicações de
+bate-papo, jogos online com múltiplos jogadores e mapas
+interativos.
+
+Com relação ao desenvolvimento de aplicações que utilizam
+o .NET Framework, julgue os itens subsequentes.
+78
+
+O ADO.NET é uma linguagem de scripts que fornece
+funcionalidades similares ao JavaScript para os
+desenvolvedores do .NET Framework.
+
+79
+
+A arquitetura dos recursos do AJAX no ASP.NET é
+constituída por bibliotecas de script de cliente e de
+componentes do servidor.
+
+80
+
+No LINQ to SQL, o modelo de dados de um banco de dados
+relacional é mapeado para um modelo de objeto expresso na
+linguagem de programação do desenvolvedor.
+
+No que concerne à programação avançada em PHP 5 e à utilização
+de frameworks de programação, julgue os itens subsecutivos.
+81
+
+A principal funcionalidade do framework Symfony é permitir
+ao PHP a comunicação bidirecional por meio de canais
+full-duplex sobre um único soquete.
+
+82
+
+Em PHP 5, a função count é utilizada para retornar o número
+de elementos de um array.
+
+83
+
+As instruções echo e print, do PHP 5, são utilizadas para
+viabilizar a saída de dados na tela.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+No que diz respeito ao desenvolvimento de aplicativos móveis,
+julgue os próximos itens.
+84
+
+O desenvolvimento de aplicações iOS exige conhecimentos de
+linguagem de programação Java, visto que os programas
+desenvolvidos são compilados em byte codes e executados em
+sua máquina virtual.
+
+85
+
+O Android, sistema operacional Linux multiusuário em que
+cada aplicativo é visto como um usuário diferente, atribui
+a cada aplicativo uma identidade de usuário exclusiva.
+
+Acerca da arquitetura orientada a serviço (SOA), julgue os itens que
+se seguem.
+86
+
+Os quatro atores necessários à composição do ciclo de vida
+de uma solução SOA incluem o arquiteto SOA, que
+é o responsável por mapear os processos de negócio.
+
+87
+
+SOA promove o desacoplamento entre as camadas de
+visão, aplicação, integração e negócio, disponibilizando
+as funcionalidades dessas camadas para todos os processos de
+negócio e aplicações da organização. Isso permite a migração
+para ambientes operacionais de melhor custo-benefício, sem
+a necessidade de recodificação dos consumidores das funções.
+
+88
+
+Esse tipo de arquitetura permite às empresas conectar novos
+serviços ou melhorar os serviços existentes de forma granular,
+a fim de enfrentar os novos requisitos de negócios, por meio da
+disponibilização dos serviços para consumo em diferentes
+canais.
+
+89
+
+No modelo operacional triangular, um dos três elementos da
+SOA é o registro do serviço, que determina o comportamento
+do dono do serviço e é o responsável por fornecer toda
+a infraestrutura de acesso e responder a requisições internas
+e externas.
+
+90
+
+Em um modelo SOA, os desenvolvedores criam novas
+aplicações organizando uma coleção de serviços, em vez de
+construir um programa de software inteiro, o que elimina
+redundâncias de código em múltiplas aplicações, como, por
+exemplo, no pedido de um empréstimo bancário simples, que
+compreende um conjunto de serviços.
+
+Tendo em vista que o Modelo de Acessibilidade em Governo
+Eletrônico (e-Mag) tem a função de nortear o desenvolvimento
+e a adaptação de conteúdos digitais do governo federal, de modo
+a garantir o acesso a todas as pessoas, julgue os itens a seguir.
+91
+
+Uma das recomendações de acessibilidade do e-Mag é a
+implementação da funcionalidade conhecida como migalha de
+pão, que permite ao usuário saber qual o caminho percorrido
+até chegar à página em que ele se encontra, na forma de links
+navegáveis organizados hierarquicamente.
+
+92
+
+O e-Mag recomenda que informações inseridas em formulários
+de entrada de dados sejam gravadas sem confirmação
+do usuário, desde que elas sejam validadas antes da gravação,
+o que torna sua utilização mais rápida.
+
+93
+
+As recomendações do e-Mag são suficientes para o
+desenvolvimento de ambientes online de acordo com os
+padrões web e com diretrizes de acessibilidade, de modo que
+elas substituem, sem nenhuma perda, os padrões web
+internacionais definidos pelo W3C.
+
+
+||251TCEPA_034_01N804027||
+
+Acerca de análise estática de código-fonte, uma das práticas que
+verifica a qualidade do código e pode ser realizada antes da
+execução do software, julgue os próximos itens.
+94
+
+A ferramenta SonarQube permite analisar a qualidade dos
+códigos-fontes que envolvem linguagens de computador
+e de dispositivos móveis e abrange categorias como padrões
+de codificação, testes e identificação de erros.
+
+95
+
+De acordo com as práticas de clean code, comentários em um
+código-fonte servem para compensar um código mal escrito,
+devendo, portanto, ser evitados.
+
+96
+
+No contexto de clean code, o conceito de objetos é semelhante
+ao de estruturas de dados, devendo os dados e as funções ficar
+expostos para permitir a inclusão de novos dados e de novas
+funções.
+
+97
+
+As práticas de clean code recomendam que as funções tenham,
+no máximo, vinte linhas, e até dois níveis de indentação.
+
+Acerca do padrão XML (Extensible Markup Language), julgue os
+itens subsecutivos.
+98
+
+Em um documento XML, deve haver diferenciação entre letras
+maiúsculas e minúsculas e os comentários devem ter a seguinte
+sintaxe: <!--comentario-->.
+
+99
+
+Um arquivo XML deve conter, no máximo, 1.024 tags. Se o
+uso de uma quantidade maior de tags for necessário, deve-se
+adotar o seguinte recurso, a fim de aumentar a quantidade de
+tags referenciadas pelo arquivo XML principal: um arquivo
+XML fazer referência a outro.
+
+Web service é um software que, armazenado em um computador,
+pode ser acessado por outro software em outro computador por
+meio de uma rede. A partir dessa afirmação, julgue os itens
+subsequentes.
+100
+
+Ao se usar o protocolo SOAP (simple object access protocol),
+cada solicitação e cada resposta são colocadas em um envelope
+SOAP, nos momentos de invocação e retorno de um web
+service, respectivamente.
+
+101
+
+O formato JSON (JavaScript Object Notation) é uma
+especialização do XML e pode ser utilizado para representar
+dados.
+
+102
+
+Para que um web service funcione corretamente, os softwares
+cliente/servidor devem ser escritos na mesma linguagem.
+
+Julgue os itens a seguir, em relação a data warehouse e
+data mining.
+103
+
+Data warehouse é um repositório de dados dinâmico, que sofre
+alterações frequentes, de modo a permitir que sejam feitas
+consultas em base de dados constantemente atualizada.
+
+104
+
+No contexto de data mining, o processo de descoberta de
+conhecimento em base de dados consiste na extração não
+trivial de conhecimento previamente desconhecido e
+potencialmente útil.
+
+Julgue o seguinte item, que versa sobre o Crystal Reports.
+105
+
+Crystal Reports é um software que auxilia no processo de
+criação de animações interativas usando-se a tecnologia flash.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Julgue os itens que se seguem, relativos a modelagem de dados.
+106
+
+Projeção é uma operação binária que realiza a junção de duas
+tabelas e gera, como resultado, uma tabela com todas as
+combinações dos atributos de entrada.
+
+107
+
+No modelo relacional de dados, uma relação é um conjunto de
+tuplas sem ordenação definida.
+
+108
+
+Na cardinalidade binária, as ocorrências envolvem duas
+entidades, com acesso limitado a até dois registros.
+
+109
+
+Dois diagramas de entidade de relacionamento são
+equivalentes se possuem entidades e relacionamentos que
+geram o mesmo esquema de banco de dados.
+
+110
+
+No modelo relacional de dados, uma tabela é um conjunto
+ordenado de campos.
+
+Julgue os itens subsequentes, no que se refere a sistemas de
+gerenciamento de bancos de dados (SGBD).
+111
+
+O otimizador de consultas do SGBD é responsável por
+verificar se a expressão de definição de dados está de acordo
+com as regras de otimização da linguagem.
+
+112
+
+A principal característica da abordagem de banco de dados
+consiste em apresentar as ferramentas de acesso físico
+dependentes da plataforma de armazenamento.
+
+113
+
+Independência lógica de dados refere-se à capacidade de
+alterar o esquema conceitual sem a necessidade de alterar os
+esquemas externos ou os programas de aplicação.
+
+Espaço livre
+
+
+||251TCEPA_034_01N804027||
+
+A respeito de algoritmos e estruturas de dados, julgue os próximos
+itens.
+114
+
+Fila de prioridades é um tipo abstrato de dados que permite
+executar algumas operações: por exemplo, a operação
+INSERT (S,x) insere o elemento x no conjunto S e
+a operação MAXIMUM(S) retorna o elemento de S que possui
+a maior chave.
+
+115
+
+O algoritmo de ordenamento por inserção tem o menor número
+de trocas quando o vetor está ordenado de forma inversa
+à ordem do procedimento.
+
+116
+
+Árvore vermelho-preto é uma árvore de pesquisa binária que
+possui um bite extra de armazenamento por nó e garante que
+o comprimento de qualquer caminho da raiz até uma folha seja
+inferior ao dobro do comprimento dos demais caminhos.
+
+Julgue os itens seguintes, acerca de comandos SQL.
+117
+
+O comando seguinte altera a informação do salário dos
+funcionários do setor de vendas aumentando-o em 15%.
+update
+tabela_salario
+set
+salario
+salario*1.15 where setor='vendas'
+
+118
+
+=
+
+O comando a seguir exclui da tabela pessoas o registro de
+pessoas cujo nome começa com as letras ca.
+delete from pessoas where nome like 'ca%'
+
+Julgue o próximo item, relativo à linguagem de definição
+de dados (DDL).
+119
+
+A expressão DDL abaixo cria a tabela referente ao diagrama de
+entidade e relacionamento apresentado a seguir.
+create table tribunal(
+tribunal_codigo integer ,
+tribunal_descricao varchar(100),
+tribunal_pai integer primary key,
+constraint fk_tribunal
+foreign key (tribunal_codigo )
+references tribunal
+)
+
+Julgue o item subsecutivo, em relação à ferramenta SAP Business
+Objects Enterprise InfoView.
+120
+
+InfoView é uma ferramenta constituída de um software
+ou hardware que é capaz de interceptar e registrar o tráfego
+de dados em uma rede de computadores.
+
+
+CESPE | CEBRASPE – TCE/PA – Aplicação: 2016
+
+Espaço livre
+
+

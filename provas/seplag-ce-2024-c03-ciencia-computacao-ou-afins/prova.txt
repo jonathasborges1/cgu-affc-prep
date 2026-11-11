@@ -1,0 +1,334 @@
+                              -- CONHECIMENTOS
+     LEGISLAÇÃO FEDERAL E ESTADUAL DO CEARÁ
+            ESPECÍFICA SOBRE A TEMÁTICA
+       (LEIS, DECRETOS E DEMAIS NORMATIVAS
+           DISPONIBILIZADAS NA INTERNET)
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de
+Dados Pessoais – LGPD), julgue os itens a seguir.
+91   É desnecessário o consentimento do titular dos dados caso o
+     tratamento destes seja necessário para atender a interesse
+     legítimo do controlador, salvo no caso de prevalecerem
+     direitos e liberdades fundamentais do titular que exijam a
+     proteção de seus dados.
+92   Segundo a LGPD, o tratamento de dados pessoais deve
+     observar, entre outros, o princípio da finalidade, segundo o
+     qual deve ser atestada a compatibilidade do tratamento com
+     as finalidades informadas ao titular, de acordo com o
+     contexto do tratamento.
+93   É obrigatório que os controladores nomeiem um encarregado
+     pelo tratamento de dados pessoais, que atuará como canal de
+     comunicação entre o controlador, os titulares dos dados e a
+     Autoridade Nacional de Proteção de Dados (ANPD).
+94   A disposição sobre padrões de interoperabilidade para fins
+     de portabilidade é de responsabilidade do custodiante, não
+     devendo a autoridade nacional dispor a esse respeito.
+95   O tratamento de dados sensíveis pode ocorrer sem o
+     consentimento do titular quando for indispensável para o
+     cumprimento de obrigação legal ou regulatória do
+     controlador.
+96   Na realização de estudos em saúde pública, todos os
+     envolvidos poderão ter acesso a bases de dados pessoais,
+     podendo estes ser tratados por entidades públicas, privadas,
+     civis e militares em qualquer esfera.
+
+                 ANÁLISE, DESENHO E
+              AUTOMAÇÃO DE PROCESSOS
+
+Em relação a BPM (business process management), julgue os
+próximos itens.
+97  Segundo o princípio do holismo, o BPM não deve ter um
+    foco isolado em áreas específicas de uma organização, mas
+    sim ser executado em toda a empresa ou cadeia de
+    abastecimento; além disso, não deve ser concebido apenas
+    como um exercício de modelagem, mas como uma
+    abordagem holística que compreende aspectos estratégicos,
+    metodológicos, técnicos e sociais.
+98 BPM do tipo centrado na integração, de que é exemplo a
+    criação de um contrato legal, tem como objetivo principal
+    melhorar a precisão e a velocidade dos fluxos de trabalho de
+    geração de documentos.
+99 No âmbito do BPM, denomina-se swimlane o gráfico que
+    mostra a dependência entre eventos: quando visualizado, o
+    swimlane mostra quais eventos serão impactados se um
+    evento específico for atrasado.
+100 O estado do negócio BPM to-be designa a situação atual dos
+    processos, de modo que o mapeamento dos processos to-be
+    visa diagnosticar como eles estão acontecendo na prática, no
+    cotidiano da empresa.
+
+                      CEBRASPE – SEPLAG/CE – Edital: 2024
+
+ESPECIALIZADOS --
+Julgue os itens a seguir, a respeito de RPA (robotic process
+automation).
+101 O objetivo da implementação de RPA nos chatbots é reduzir
+    cada vez mais a intervenção humana, o que pode garantir
+    agilidade e comodidade ao consumidor na hora de esclarecer
+    suas dúvidas.
+102 RPA é o processo pelo qual um bot usa uma combinação de
+    automação, visão computacional e aprendizado de máquina
+    para automatizar tarefas repetitivas e de alto volume,
+    baseadas em regras e acionadas por gatilhos.
+                ARQUITETURA DE
+          DESENVOLVIMENTO DE SOFTWARE
+Considerando linguagens de programação, julgue os itens que
+se seguem.
+103 O código Java a seguir, após executado, apresentará 140
+    como resultado.
+
+    public class Main{
+      public static void main(String[] args) {
+        int soma=0;
+        for (int i = 5; i >= 1; i--) {
+          for (int j = 1; j <= i; j++) {
+            soma += j*i;
+          }
+        }
+        System.out.println(soma);
+      }
+    }
+
+104 Considere o código Python a seguir.
+
+    x = ("laranja","lima","taiti")
+    y = ["laranja","lima","taiti"]
+    print (type(x))
+    print (type(y))
+
+    Esse código, após executado, apresentará o seguinte
+    resultado.
+
+    <class 'list'>
+    <class 'array'>
+
+
+Acerca de engenharia de software, julgue os itens seguintes.
+105 A análise de pontos de função analisa o software
+    quantificando as tarefas e os serviços que ele fornece ao
+    usuário, primordialmente com base no projeto lógico.
+106 O teste de unidade focaliza a verificação de aceitação do
+    servidor de aplicação, ou seja, verifica se o software está
+    sendo bem implementado pelo usuário.
+107 Os diagramas de implementação em UML mostram os
+    relacionamentos entre os componentes de software e de
+    hardware no sistema e a distribuição física do
+    processamento.
+Julgue o próximo item, a respeito da e-MAG 3.1.
+108 De acordo com a e-MAG 3.1, recomenda-se organizar o
+    código HTML de forma semântica e lógica, apresentando os
+    elementos em uma ordem que seja compreensível e que
+    corresponda ao conteúdo desejado.
+
+                           DEVOPS
+Julgue os próximos itens, relativos ao DevOps.
+109 A prática continuous delivery permite que as alterações do
+    código sejam automaticamente preparadas para uma
+    liberação para produção e possibilita automatizar testes,
+    inclusive os de unidade e de carga, por exemplo.
+110 Continuous integration é uma prática de desenvolvimento de
+    software do DevOps cujo objetivo é encontrar e investigar
+    erros mais rapidamente, por meio de processo de criação e
+    testes automáticos de código, sempre que um desenvolvedor
+    da equipe realizar alterações de código, para o controle
+    de versão.
+111 Registry Docker é uma ferramenta que favorece a definição e
+    a execução de aplicativos nos contêineres a partir do controle
+    do que será executado pelos aplicativos; para isso, utiliza um
+    único arquivo de configuração YAML, o qual permite iniciar
+    os serviços gerenciados pelo arquivo.
+112 O DevOps é uma metodologia que abrange as fases de
+    planejamento, desenvolvimento, entrega e operações de uma
+    solução de software, e nessa metodologia cada fase depende
+    das outras.
+113 No Kubernetes, o comando kubectl get nodes permite
+    que se crie um pod, com configuração padrão, no nó em que
+    está conectado, sem a necessidade de se atribuir um rótulo
+    para esse nó.
+114 Os contêineres são padronizáveis, o que permite a inclusão
+    das dependências necessárias para sua execução, na qual, por
+    exemplo, cada nó em um cluster Kubernetes executa os
+    contêineres.
+                   GESTÃO DE PRODUTO
+Julgue os próximos itens, referentes à qualidade de software.
+115 A metodologia MPSBR, que é voltada para a área de
+    desenvolvimento de sistemas, enfatiza o uso das principais
+    abordagens internacionais direcionadas para a definição, a
+    avaliação e a melhoria dos processos de software, o que a
+    torna compatível com as práticas do CMMI.
+116 No processo de avaliação da qualidade de software, são
+    observadas diversas características, como aquela em que se
+    espera que o software seja repetível, ou seja, devem ser
+    obtidos resultados idênticos ao se avaliar um mesmo produto
+    repetidas vezes, considerada a mesma especificação da
+    avaliação, sendo esta realizada por outro avaliador.
+117 No conceito de usabilidade, considera-se que a experiência
+    do usuário, além das qualidades técnicas do software, é fator
+    determinante para a construção de sistemas de maior
+    qualidade, pois a participação do usuário pode facilitar a
+    compreensão dos seus desejos quanto ao software que está
+    sendo desenvolvido.
+118 No nível organizacional, a equipe de gerenciamento de
+    qualidade de software deve ocupar-se do estabelecimento de
+    um framework de processos organizacionais e padrões que
+    levem a softwares de alta qualidade, ou seja, a equipe deve
+    assumir a responsabilidade de definir processos de
+    desenvolvimento do software e padrões que devem ser
+    usados, bem como elaborar a documentação relacionada.
+119 Na metodologia MPSBR, o nível de maturidade denominado
+    parcialmente definido é aquele em que se avalia o
+    desempenho dos processos, além de sua gerência
+    quantitativa; em processos desse nível, devem ser utilizadas
+    técnicas estatísticas e outras técnicas quantitativas para se
+    determinar ou prever o alcance de objetivos.
+
+                      CEBRASPE – SEPLAG/CE – Edital: 2024
+Julgue o item seguinte, a respeito das semelhanças entre os
+modelos CMMI e MPSBR.
+120 O modelo CMMI varia do nível 1 ao 5, enquanto o MPSBR
+    varia do nível G ao A; no entanto, os níveis G, E e D não
+    existem no modelo CMMI, assim como o nível 1 do CMMI
+    não é definido no MPSBR, sendo correto concluir que os
+    modelos convergem somente em quatro níveis.
+BIG DATA & ANALYTICS, BUSINESS INTELLIGENCE,
+INTELIGÊNCIA ARTIFICIAL, INTERNET DAS COISAS E
+NUVEM COMPUTACIONAL: I BIG DATA &ANALYTICS
+No que se refere a Big Data e analytics, julgue os itens a seguir.
+121 Em Big Data, um pipeline de dados visa refinar e limpar os
+    dados brutos, facilitando a utilização desses dados pelos
+    usuários finais.
+122 No CRISP-DM, os modelos de dados são definidos na etapa
+    de preparação de dados, com a utilização de técnicas de
+    machine learning.
+123 Em bancos de dados, uma visão (view) é uma tabela virtual,
+    que não existe fisicamente, e representa uma relação entre as
+    linhas de uma ou mais tabelas físicas.
+124 Um dos Vs de Big Data corresponde a velocidade, à qual é
+    aplicada a característica ACID, que garante, entre outras
+    coisas, a atomicidade das transações no banco de dados.
+125 Embora seja viável, a coleta de dados não estruturados
+    torna-se ineficiente quando esses dados são modelados em
+    tabelas convencionais.
+126 Nas técnicas de classificação e clusterização de dados, as
+    classes, ou categorias, devem existir previamente à sua
+    aplicação.
+                 ORIENTAÇÕES A SERVIÇO
+Acerca de gerenciamento de API, de RESTful e de ITIL 4, julgue
+os itens subsequentes.
+127 Um API gateway atua como um ponto central de entrada
+    para várias APIs e desempenha um papel importante na
+    simplificação da gestão de tráfego, autenticação, autorização
+    e monitoramento das chamadas de API.
+128 Na prática de desenvolvimento e gestão de software do
+    ITIL 4, as duas abordagens geralmente aceitas para o
+    desenvolvimento de software são os métodos cascata e agile.
+129 OAuth é um protocolo de autorização utilizado na
+    API RESTful que permite que aplicativos obtenham acesso
+    limitado a recursos, por meio da inserção do nome e da
+    senha do usuário no cabeçalho da solicitação a ser enviada.
+No que se refere a ferramentas de integração assíncronas, julgue
+os itens a seguir.
+130 Os brokers são os componentes individuais do Kafka que
+    gerenciam o armazenamento e a replicação dos dados, sendo
+    cada broker responsável por hospedar apenas uma partição
+    de tópicos.
+131 O monitoramento do serviço ActiveMQ Classic em uma
+    máquina local é realizado por meio de uma console web
+    acessada a partir de uma URL.
+A respeito do ITIL 4, julgue o item a seguir.
+132 O gerenciamento de nível de serviço auxilia na definição de
+    metas para os níveis de serviço, bem como abrange todas as
+    atividades associadas ao monitoramento.
+
+  SEGURANÇA DA INFORMAÇÃO, SEGURANÇA DE
+   DATACENTER, SEGURANÇA DE DISPOSITIVOS,
+              DISPONIBILIDADE
+Considerando o envio de um arquivo de um remetente para um
+receptor, julgue os itens a seguir, com base nos princípios de
+segurança da informação.
+133 Caso o conteúdo do arquivo enviado seja visualizado não só
+    pelo receptor, mas também por outro usuário que, sem as
+    permissões necessárias, o acesse a partir de computador
+    diferente do computador do receptor, isso implicará violação
+    ao princípio da disponibilidade.
+134 Se o conteúdo do arquivo enviado for alterado
+    indevidamente antes de sua chegada ao receptor, a
+    integridade do arquivo terá sido violada.
+
+Com base na NBR ISO/IEC 27001:2013, julgue os itens que
+se seguem.
+135 A política para gerenciamento de chaves pode contemplar,
+    por exemplo, o tempo de vida das chaves criptográficas.
+136 Na classificação de informações, devem ser considerados
+    fatores como o valor da informação e os requisitos legais de
+    classificação, entre outros.
+137 Em conformidade com a referida norma, um usuário pode
+    acessar informações e serviços de rede de uma empresa que
+    não tenham sido especificamente autorizados para uso de
+    acordo com a política de controle de acesso da empresa,
+    desde que o faça com o conhecimento do time de tecnologia
+    da informação dessa entidade.
+
+Acerca de SAML e JWT, julgue o item a seguir.
+138 O SAML, assim como o JWT, utiliza JSON para formatar as
+    afirmações de segurança.
+
+                 SISTEMAS DISTRIBUÍDOS
+Em relação a sistemas distribuídos, julgue os itens seguintes.
+139 Os sistemas desenvolvidos de acordo com os ePING
+    (padrões de interoperabilidade) devem possuir registros
+    históricos (logs) para permitir auditorias e provas materiais.
+140 No padrão de arquitetura MVC (model-view-controller), os
+    aplicativos são divididos em modelos, exibições e
+    componentes; nesse padrão, as solicitações de usuário são
+    encaminhadas para um controlador, que é responsável por
+    trabalhar com o modelo para executar as ações do usuário,
+    bem como por escolher a exibição a ser apresentada para
+    o usuário.
+141 Uma role do sistema gerenciador de banco de dados faz que
+    a lógica de negócios seja armazenada no banco de dados,
+    podendo o código do aplicativo executar as roles em vez de
+    atualizar diretamente as relações de banco de dados.
+142 Filtro Bloom é uma estrutura de dados com uso eficiente de
+    espaço que pode ser utilizada para testar se um elemento é
+    membro de um conjunto; no entanto, os índices do filtro
+    Bloom suportam apenas consultas de igualdade, sendo mais
+    úteis quando uma tabela possui muitos atributos e as
+    consultas testam combinações arbitrárias deles.
+143 O termo middleware é usado para designar uma camada de
+    software responsável pela interface com o usuário, como as
+    camadas de apresentação e visualização.
+
+                     CEBRASPE – SEPLAG/CE – Edital: 2024
+Julgue o próximo item, relativo aos conceitos de servidores web.
+144 Considere que, a fim de otimizar um servidor web, tenha se
+    decidido transformá-lo em um servidor multithread. Nesse
+    caso, se esse servidor consistir em um módulo de front end
+    que aceita todas as solicitações recebidas e k módulos de
+    processamento, então k + 1 threads pertencerão ao mesmo
+    processo, de forma que todos os módulos de processamento
+    terão acesso ao cache dentro do espaço de endereços do
+    processo.
+                REDE DE COMPUTADORES
+No que se refere a rede de computadores, julgue os itens que se
+seguem.
+145 A camada de enlace de dados do modelo OSI corresponde às
+    tecnologias usadas para conectar duas máquinas em uma
+    rede onde já existe uma camada física.
+146 O vetor de inicialização do WEP é considerado seguro por
+    garantir a randomização dos dados cifrados em uma
+    comunicação realizada no padrão IEEE 802.11.
+147 A camada de sessão do modelo OSI visa garantir que os
+    pacotes de dados cheguem ao seu destino na ordem correta,
+    sem perdas ou erros.
+148 No TCP, que faz parte da camada de transporte do TCP/IP, é
+    necessário que ocorra o 3-way-handshake, que é um
+    protocolo orientado à conexão.
+149 O UDP, que faz parte da camada de transporte do TCP/IP,
+    utiliza o ICMP, da camada de rede, como forma de verificar
+    a conectividade entre hosts.
+A respeito de sistemas de comunicação de dados, julgue o item
+seguinte.
+150 Um sistema de comunicação de dados é composto por três
+    elementos, sendo eles o emissor, o receptor e a mensagem.
+Espaço livre
+

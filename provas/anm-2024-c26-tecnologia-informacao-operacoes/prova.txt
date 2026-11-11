@@ -1,0 +1,328 @@
+CEBRASPE – ANM – Edital: 2024
+
+-- CONHECIMENTOS ESPECÍFICOS -Julgue os itens a seguir, relativos ao ITIL v4.
+51 O ITIL v4 suporta abordagens diferentes de trabalho como
+ágil, DevOps e Lean.
+52 Obter/construir é uma atividade da cadeia de valor a qual
+garante que os componentes do serviço estejam disponíveis
+quando forem necessários.
+53 A investigação da causa raiz de incidentes para evitar que no
+futuro aconteçam novamente os mesmos tipos de incidente é
+de responsabilidade da prática de gerenciamento de
+problemas.
+54 Entre as quatro dimensões de gerenciamento de serviços, a
+gestão financeira está incluída para manutenção dos serviços
+e alinhada ao negócio da organização.
+Com base na Lei nº 13.709/2018 (LGPD), julgue os próximos
+itens.
+55 Pessoa natural ou jurídica que realiza o tratamento de dados
+pessoais em nome do operador é denominada de controlador.
+56 O tratamento de dados pessoais de crianças pode ser
+realizado, desde que siga o recomendado no Estatuto da
+Criança e do Adolescente.
+Considerando o Decreto n.º 7.579/2011 (Sistema de
+Administração dos Recursos de Tecnologia da Informação –
+SISP, do Poder Executivo Federal), julgue os itens seguintes.
+57 Empresas estatais federais não estão aderentes ao SISP por
+possuírem autonomia e regulamentação apropriada e
+específica para cada segmento.
+58 Uma das finalidades do SISP é estimular o uso racional dos
+recursos de tecnologia da informação.
+A respeito de design thinking, julgue os itens que se seguem.
+59 A empatia é um componente central no design thinking, pois
+sua elaboração envolve a compreensão profunda das
+experiências e emoções dos usuários.
+60 O design thinking, uma abordagem linear que segue uma
+sequência definida de etapas, possibilita que as iterações ou
+revisões sejam feitas somente ao final das etapas.
+No que se refere a contratações e orçamento públicos, e à Lei
+n.º 14.133/2021, julgue os itens a seguir.
+61 Em contratações realizadas por instituição científica,
+tecnológica e de inovação (ICT) pública ou por agência de
+fomento, demonstrada inequívoca vantagem à administração,
+configura hipótese de inexigibilidade de licitação a
+contratação que tenha por objeto a transferência de
+tecnologia ou licenciamento de direito de uso ou de
+exploração de criação protegida.
+62 A alta administração de órgãos públicos é responsável pela
+governança de contratações públicas, de modo a monitorar
+processos licitatórios e respectivos contratos, assegurando o
+alinhamento dessas contratações às leis orçamentárias.
+63 Caracterizada pelo planejamento, a fase homologatória do
+procedimento licitatório deve ser compatibilizada com as leis
+orçamentárias.
+64 Repactuação é o modo de manutenção do equilíbrio
+econômico-financeiro pelo qual se aplica o índice de
+correção monetária previsto em contrato, retratando-se a
+variação efetiva do custo de produção, porém, admitindo-se
+índices específicos ou setoriais.
+65 O julgamento por técnica e preço é compulsório em
+licitações que envolvam bens e serviços especiais de
+tecnologia da informação e comunicação.
+66 Podem restringir-se a bens e serviços desenvolvidos no país
+as licitações voltadas a sistemas de tecnologia de informação
+e comunicação estratégicos.
+
+Com relação à Lei n.º 14.133/2021 e às Instruções Normativas
+SGD/ME n.º 94/2022 e SEGES/ME n.º 65/2021, n.º 58/2022 e
+n.º 81/2022, julgue os itens subsequentes.
+67 Exceto em licitações cujo critério de julgamento seja o maior
+desconto, orçamentos estimados para contratações poderão
+ser sigilosos, desde que justificado e não haja prejuízos à
+divulgação de quantitativos detalhados e demais informações
+essenciais para elaboração de propostas.
+68 Embora disposto que a definição do objeto de contratação
+deve ser precisa, clara e suficiente, são vedadas
+especificações excessivas, irrelevantes ou desnecessárias que
+limitem ou frustrem a competição ou a realização do
+fornecimento da solução.
+69 Como condição para conclusão de contratos administrativos,
+a administração pública poderá exigir certificação por
+organização independente acreditada pelo Instituto Nacional
+de Metrologia, Qualidade e Tecnologia.
+70 Durante a fase de gestão do contrato, a equipe de
+planejamento da contratação deve proceder às ações de
+gerenciamento de riscos e produzir o mapa de gerenciamento
+de riscos.
+Julgue os itens a seguir, acerca de conceitos, políticas e gestão de
+riscos relacionados à segurança da informação.
+71 O propósito das políticas de segurança da informação
+organizacionais é assegurar adequação contínua, suficiência,
+efetividade da direção de gestão e suporte à segurança da
+informação de acordo com requisitos comerciais, legais,
+estatutários, regulamentares e contratuais.
+72 Para efeitos de classificação, informações compartilhadas
+entre organizações devem manter seus estados e atributos de
+classificação inalterados, independentemente de seu contexto
+em cada organização, mesmo que seus esquemas de
+classificação sejam diferentes.
+73 Conforme a ABNT NBR ISO/IEC 27005, na avaliação de
+probabilidade de análise de riscos de segurança da
+informação, a fonte de incerteza de avaliação sistêmica é
+aquela que deriva do uso de ferramentas que inevitavelmente
+modelam eventos de forma simples.
+Acerca de hashes, ICP-Brasil, métodos de autenticação e
+autenticação baseada em múltiplos fatores, julgue os itens que
+se seguem.
+74 A utilização de múltiplo fator de autenticação (MFA),
+combinando uma senha e um código de autenticação enviado
+por SMS, garante blindagem contra ataques embasados em
+engenharia social, mesmo que o atacante tenha acesso a
+informações pessoais sensíveis da vítima.
+75 Algoritmos de hash modernos, como o SHA-256, eliminam
+sistematicamente a possibilidade de colisões devido à sua
+alta capacidade de processamento, garantindo que entradas
+diferentes gerem saídas únicas indefinidamente.
+76 No método de autenticação por token, usuários fornecem
+tokens exclusivos e individuais, gerados por um sistema ou
+serviço, válidos por tempo limitado, oferecendo maior
+segurança em comparação a autenticações por senha,
+especialmente contra reutilizações indevidas.
+77 Na ICP-Brasil, autoridades certificadoras de segundo nível
+podem ser órgãos públicos ou privados, sendo responsáveis
+pelo processo de distribuição, gerenciamento e emissão de
+certificados digitais para outras entidades, como autoridades
+de registro.
+
+CEBRASPE – ANM – Edital: 2024
+
+Julgue os próximos itens, a respeito de ataques de negação de
+serviço, controles CIS, gerenciamento de incidentes de segurança
+da informação e gestão de riscos e continuidade de negócio.
+78 Considerando que os riscos, em sua maior parte, são
+estáticos, o monitoramento permanente de cenários de
+eventos, valores de ativos, ameaças e vulnerabilidades é
+desnecessário, podendo ser realizado essencialmente em
+ciclos periódicos de dois a três anos, conforme o tipo de
+negócio da organização.
+79 De acordo com o controle CIS 03, no que se refere a dados, é
+importante para a organização desenvolver processos que
+incluam frameworks de gestão, diretrizes de classificação e
+requisitos de proteção, manuseio, retenção e descarte.
+80 Um dos métodos usados em ataques PDoS consiste em
+explorar vulnerabilidades de um sistema ou dispositivo para
+substituir seu software básico por uma imagem corrompida
+de firmware, inviabilizando, assim, o funcionamento do
+dispositivo ou do sistema inteiro.
+Julgue os itens a seguir, relativos a redes neurais artificiais.
+81 Nas redes neurais multicamadas, quando se aumenta
+significativamente a dimensão da rede neural, o esforço
+computacional para sua implementação tem um aumento
+insignificante.
+82 Os nós de origem na camada de entrada da rede neural, isto
+é, na primeira camada oculta, fornecem os respectivos
+elementos do padrão de ativação (vetor de entrada), que
+constituem os sinais de entrada aplicados aos neurônios (nós
+de computação) na segunda camada.
+83 Uma rede neural feedforward se distingue das demais pela
+presença de uma ou mais camadas ocultas, cujos nós de
+computação são chamados de neurônios ocultos ou unidades
+ocultas, devido ao fato de que essa parte da rede neural não é
+vista diretamente da entrada ou saída da rede.
+No que se refere a inteligências artificiais (IAs) generativas e
+discriminativas, julgue os itens seguintes.
+84 Para aplicações do mundo real, como geração de imagens, as
+distribuições são extremamente complexas, e o aprendizado
+profundo não conseguiu melhorar o desempenho dos
+modelos generativos, por isso se tem optado por investir em
+uma classe importante de modelos de linguagem de grande
+escala (LLMs — large language models) autorregressivos
+baseados em transformadores.
+85 O aprendizado nas IAs discriminativas é realizado a partir da
+probabilidade condicional p(x|y).
+86 Uma IA generativa cujo aprendizado é realizado a partir da
+distribuição de probabilidade conjunta p(x,y), em que x é o
+dado de entrada e y é o rótulo que se queira classificar, pode
+gerar mais amostras por si só artificialmente, com base em
+suposições a respeito da distribuição de dados.
+87 Um prompt é um conjunto de instruções que o modelo
+generativo utiliza para prever a resposta desejada.
+88 A equação a seguir é utilizada no algoritmo de Naive Bayes
+para modelar explicitamente a distribuição real de cada
+classe.
+arg max{p(x|y)∙p(y)}
+Modelos generativos autorregressivos, modelos baseados em
+fluxo, modelos baseados em inversão frequencial e modelos
+baseados em energia são os principais grupos em que se
+divide a modelagem generativa profunda.
+90 Uma vez que uma GAN (generative adversarial network) é
+treinada, a rede discriminadora é descartada e a rede
+geradora pode ser utilizada para sintetizar novos exemplos
+no espaço de dados por amostragem do espaço latente e
+propagação dessas amostras pela rede geradora treinada.
+89
+
+Com referência à Portaria SGD/MGI n.º 5.950/2023, acerca do
+modelo de contratação de software e de serviços de computação
+em nuvem, julgue os itens a seguir.
+91 A licença perpétua concede ao usuário o direito de usar o
+software por tempo determinado, bem como o acesso a
+atualizações e suporte técnico por tempo indeterminado.
+92 Conforme entendimento da Súmula TCU n.º 269, não é
+devido o uso de métrica de remuneração cuja medição não
+seja passível de verificação.
+93 É permitida a contratação de software, desde que sua
+disponibilização seja por meio de cessão definitiva de
+direitos de uso.
+De acordo com a Portaria SGD/MGI n.º 2.715/2023, julgue os
+itens subsequentes.
+94 No que se refere a modalidades de disponibilização de
+infraestrutura computacional, a segurança da informação e a
+privacidade são diretrizes a serem consideradas.
+95 Thin client consiste em dispositivo utilizado em abordagem
+de computação do tipo cliente/servidor, em que dados e
+aplicativos são executados e armazenados no servidor.
+96 Serviços relacionados a estações de trabalho são
+considerados incomuns devido à ausência de padrões de
+mercado.
+Considerando o modelo de contratação de serviços de operação
+de infraestrutura e atendimento a usuários estabelecido pela
+Portaria SGD/MGI n.º 1.070/2023, julgue os próximos itens.
+97 Preconiza-se que a operação de infraestrutura de TIC seja
+serviço fundamental para garantia de disponibilidade e
+segurança de recursos tecnológicos necessários à sustentação
+de quaisquer serviços embasados em TIC.
+98 Recomenda-se dar por irrelevante o valor máximo da
+contratação por ser suficiente utilizar como base o valor
+médio de pesquisas salariais de preços.
+No que concerne à Portaria SGD/MGI n.º 370/2023, julgue os
+seguintes itens, acerca de serviços de outsourcing de impressão.
+99 São escopos do modelo estabelecido pela portaria os serviços
+gráficos, a serigrafia e a gestão eletrônica de documentos.
+100 Impressoras 3D são equipamentos que transformam arquivos
+3D digitais em peças físicas por meio da sobreposição de
+várias camadas de certo material.
+No que se refere a camadas de protocolos e serviços, julgue os
+itens a seguir.
+101 No algoritmo Token Bucket, utilizado na camada de
+transporte para o controle de congestionamento, cada um dos
+tokens define um pacote de tamanho fixo cujo valor é o
+tamanho do bucket.
+102 O ICMP é utilizado pela aplicação Ping e está localizado na
+camada de aplicação da pilha TCP/IP.
+103 Na camada de transporte, o algoritmo Leaky Bucket, entre
+outras funções, controla a taxa na qual o tráfego é enviado
+para a rede.
+104 No modelo de referência OSI, a camada de aplicação na
+pilha TCP/IP executa tarefas que incluem, além da própria
+camada de aplicação, as camadas de sessão e de
+apresentação.
+Em relação ao algoritmo de roteamento OSPF, julgue os itens
+que se seguem.
+105 Roteadores ou servidores de acesso embasados em OSPF
+podem ser configurados com todos os valores de parâmetros
+padrão do protocolo.
+106 O OSPF foi projetado para redes IP e suporta o IPV4 e
+subredes.
+
+CEBRASPE – ANM – Edital: 2024
+
+A respeito de VLAN e NAT (Network Address Translation),
+julgue os próximos itens.
+107 NAT é um processo que pode ser realizado em um roteador
+de borda ou em um firewall; esse processo converte o
+endereço IP de destino em outro endereço IP de origem
+quando se cumprem os requisitos determinados pelo
+administrador da rede.
+108 No padrão IEEE 802.1q, o quadro original da rede Ethernet é
+encapsulado e modificado, com a inclusão de 16 bytes
+adicionais, para identificar a VLAN no cabeçalho.
+109 O conceito de endereço global em NAT corresponde a
+qualquer endereço que apareça na parte externa da rede que
+está sujeita a tradução.
+110 O padrão IEEE 802.1q não suporta o FCS (frame check
+sequence).
+Acerca de configuração e administração de Windows Server 2019,
+Active Directory, LDAP, GPO (group policy objects) e arquitetura
+de computadores, julgue os itens a seguir.
+111 As memórias empregadas em PCs, como a DRAM, têm alta
+performance e baixa capacidade de armazenamento, como a
+memória integrada de discos rígidos (HDD) ou sistemas de
+caches L1, L2 e L3 integrados ao processador.
+112 Para habilitar a lixeira no Active Directory, tanto é
+necessário ser membro do grupo administrador como o nível
+funcional da floresta não deve ser mais baixo do que o
+Windows Server 2008 R2.
+113 O LDAP é um protocolo para pesquisa e gerenciamento de
+diretórios que utiliza o HTTP como base de funcionamento e
+opera na porta 80 TCP ou UDP.
+114 Firmware, um software desenvolvido geralmente em
+linguagem de baixo nível, é um conjunto de instruções
+programadas e permanentemente gravadas em um
+dispositivo de hardware, como uma placa de vídeo, BIOS ou
+discos rígidos.
+115 Um GPO é uma infraestrutura hierárquica que permite
+realizar alterações nos objetos de uma rede, como usuários,
+bloqueando o acesso ao armazenamento removível de sua
+estação de trabalho.
+Julgue os próximos itens, relativos a conceitos de balanceamento
+de carga, failover, fundamentos da computação em nuvem,
+backup e RAID.
+116 No modelo de operação do RAID 5, são usados dois discos.
+No primeiro armazenam-se dados e no segundo armazena-se
+uma cópia exata do primeiro. Em caso de falha do primeiro
+disco, a controladora automaticamente chaveia para
+o segundo disco.
+117 O failover é a transferência da carga de trabalho de um
+sistema primário para um sistema secundário em caso de
+falha no sistema primário.
+118 Recuperação de dados mais rápida (montagem e busca dos
+dados), falhas no restore, acesso aleatório, otimização para
+pesquisa e múltiplos servidores acessando dados de forma
+simultânea são as vantagens de um backup executado em
+uma unidade de fita em relação ao realizado em uma unidade
+de disco rígido (HDD).
+119 Uma das estratégias de failover mais empregadas no
+mercado é a tomada de controle mútuo, na qual um sistema
+primário processa toda a carga de trabalho enquanto um
+sistema secundário está inativo, ou em modo de espera,
+pronto para assumir o controle da carga de trabalho se
+houver falha no sistema primário.
+120 Serviço sob demanda, pool de recursos, elasticidade rápida,
+amplo acesso aos serviços de rede e medição de serviços são
+características essenciais de um modelo de computação em
+nuvem.
+
+Espaço livre
+
+

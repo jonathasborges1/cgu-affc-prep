@@ -1,0 +1,405 @@
+-- CONHECIMENTO
+Julgue os itens subsequentes, relativos ao PMBOK 7.ª edição.
+O domínio de desempenho da incerteza trata das atividades e
+funções associadas a riscos e incertezas, e seu resultado
+esperado é a capacidade de antecipar ameaças e
+oportunidades.
+52 Enquanto as operações podem apoiar e influenciar
+diretamente portfólios e projetos, estes podem influenciar
+uns aos outros, bem como as operações.
+51
+
+Julgue os próximos itens, relativos à gestão e ao gerenciamento
+de riscos.
+Se uma organização passar a responsabilidade de uma
+ameaça a terceiros para gerenciar o risco e suportar o
+impacto, então, caso ocorra outra ameaça, esse cenário pode
+ser classificado como mitigação de risco, uma das estratégias
+da gestão de riscos.
+54 Na gestão de riscos, as ameaças são as fraquezas de um ativo
+ou controle que podem ser exploradas e, então, ocasionar um
+evento indesejado.
+53
+
+Internet: <blog.iprocess.com.br> (com adaptações).
+
+Com base na figura precedente, julgue os itens a seguir, relativos
+a BPMN.
+55
+
+Conforme o símbolo indicado por #2 na figura, quando uma
+das atividades — Anexar negativa civil, Anexar
+negativa
+criminal ou Anexar
+negativa
+de
+débitos — for concluída, será executado o processo
+Analisar validade dos documentos.
+
+56
+
+De acordo com o símbolo identificado por #1 na figura, o
+fluxo fará que os processos Anexar negativa civil,
+Anexar negativa criminal e Anexar negativa de
+débitos sejam executados sempre, todos em paralelo, ou
+seja, permite que processos múltiplos ocorram ao mesmo
+tempo.
+
+Julgue os itens seguintes, relativos a metodologias ágeis.
+O manifesto ágil é uma das referências para metodologias
+ágeis de software, em que se valoriza indivíduos e interações
+em detrimento de processos e ferramentas, assim como o
+software em funcionamento é mais importante que a
+documentação abrangente.
+58 Nas metodologias adaptativas, incluindo-se a ágil, adota-se
+um cronograma baseado em fluxo que não utiliza um ciclo
+de vida ou fases, pois o objetivo dessas metodologias é
+otimizar o fluxo de entregas com base na capacidade de
+recursos e materiais.
+57
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+OS ESPECÍFICOS -Com base na Instrução Normativa SGD n.º 05/2021, julgue os
+itens subsecutivos.
+59 É necessário submeter à Secretaria de Governo Digital do
+Ministério da Economia solicitação para aprovação dos
+projetos conduzidos pela Central de Compras da Secretaria
+de Gestão da Secretaria Especial de Desburocratização,
+Gestão e Governo Digital do Ministério da Economia.
+60 A Secretaria de Governo Digital do Ministério da Economia
+poderá dar início, de ofício, a processo de aprovação das
+contratações relativas a bens e serviços de TIC, solicitando
+do órgão interessado, caso julgue necessário, estudo técnico
+preliminar ou termo de referência.
+À luz da Instrução Normativa SGD n.º 94/2022, julgue os
+próximos itens.
+61 Gestor do contrato é um representante da área administrativa,
+indicado pela autoridade competente dessa área, com a
+atribuição de fiscalizar o contrato quanto aos seus aspectos
+administrativos.
+62 Tanto a gestão de processos de tecnologia da informação e
+comunicação (TIC) quanto a gestão de segurança da
+informação não poderão ser objeto de contratação.
+No que se refere à gestão da qualidade e à gestão documental,
+julgue os itens subsequentes.
+63 A gestão documental também abrange a decisão de
+eliminação ou guarda permanente dos documentos.
+64 A implementação do planejamento da qualidade, da garantia
+da qualidade, do controle da qualidade e da melhoria da
+qualidade é conhecida como gerenciamento total da
+qualidade.
+65 A gestão da qualidade é o exercício em que se supervisionam
+as atividades, as tarefas e os processos utilizados na criação
+de um produto ou serviço para que possam ser mantidos em
+um padrão alto e consistente.
+A respeito de gestão de relacionamento e gestão estratégica,
+julgue os itens seguintes.
+66 CRM (Customer Relationship Management) é um software
+que, focado na satisfação do cliente, visa ao cadastro
+adequado de uma base de dados de clientes para futuras
+novas interações.
+67 Planejamento estratégico é uma forma de se acrescentar
+novos elementos de reflexão e ação sistemática e continuada,
+a fim de avaliar a situação e acompanhar e gerenciar os
+passos de implementação.
+68 A gestão estratégica tem foco em ações estratégicas em todas
+as áreas da organização, exigindo uma avaliação sistemática
+da situação enfrentada, a elaboração de projetos de mudança
+das estratégias estabelecidas, o acompanhamento da
+implementação e o monitoramento dos resultados.
+Quanto à tecnologia da informação (TI) na administração
+pública, julgue os itens subsecutivos.
+69 O Sistema de Administração de Recursos de Tecnologia da
+Informação (SISP) foi instituído com o objetivo de organizar
+a operação, o controle, a supervisão e a coordenação dos
+recursos de informação e informática da administração
+direta, autárquica e fundacional do Poder Executivo Federal.
+70 A administração pública prima pela melhor gestão dos
+recursos de TI e pela maior qualidade na prestação de
+serviços aos cidadãos; assim, criou o planejamento
+estratégico de TI, que é o instrumento que permite nortear e
+acompanhar a atuação da área de tecnologia da informação e
+comunicações (TIC), definindo estratégias e plano de ação
+para implementá-las.
+
+
+Julgue os itens a seguir, relativos ao Programa de Governo
+Eletrônico e sua evolução junto à transformação digital.
+71 O Programa de Governo Eletrônico iniciou-se no ano 2000;
+no entanto, somente em 2016 ocorreu a implantação de um
+novo paradigma de gestão pública e de relacionamento entre
+o Estado brasileiro e a sociedade, por meio da publicação da
+Estratégia de Governança Digital (EGD).
+72 Um dos princípios da Estratégia de Governo Digital é a
+consolidação de um governo integrado, que visa ampliar a
+oferta de serviços digitais e retirar do cidadão o ônus do
+deslocamento e da apresentação de documentos, por meio da
+integração de dados e serviços da União, dos estados e do
+Distrito Federal.
+73 A automação de serviços, ferramenta disponível para a
+transformação digital, apresenta como um de seus benefícios
+a disponibilização do serviço no portal gov.br, com login
+específico da instituição à qual o serviço pertence.
+74 A transformação digital no governo corresponde à oferta de
+um serviço público de qualidade com menor dispêndio de
+tempo e dinheiro por parte do cidadão.
+Acerca de dados abertos, de análise de negócios e de
+gerenciamento de produtos, julgue os itens subsequentes.
+75 O gerente de produto é a pessoa que identifica as
+necessidades do cliente e os objetivos de negócios,
+gerenciando o produto ao estabelecer o equilíbrio das
+necessidades de três áreas distintas: experiência do usuário,
+tecnologia e negócios.
+76 Os órgãos e as entidades da administração pública federal
+direta, autárquica e fundacional são obrigados a publicar
+anualmente seus planos de dados abertos.
+77 Sob a óptica da análise de negócios, uma solução
+corresponde ao conjunto de mudanças feitas no estado atual
+de uma organização com o intuito de permitir que ela atenda
+a uma necessidade do negócio, resolva um problema ou se
+beneficie de uma oportunidade.
+Julgue os itens a seguir, a respeito de design thinking, de gestão
+por processos e de ciclo PDCA.
+78 Na etapa de protótipo do design thinking, a equipe seleciona
+oficialmente as ideias mais produtivas à resolução do
+problema por meio do uso de ferramentas como
+brainstorming, cardápio de ideias e matriz de
+posicionamento.
+79 O ciclo PDCA, cuja motivação é aperfeiçoar, refinar ou
+inovar, foca em comparar algo real com algo desejável, em
+que a única possibilidade é o diagnóstico de um desvio, que
+caracteriza um gatilho para análise.
+80 Na gestão por processos, a transformação de processos
+acontece com base na modelagem AS-IS e nas melhorias
+propostas dos modelos TO-BE, ou seja, a transformação é a
+realização prática do desenho aprovado, incluindo-se as
+melhorias implementadas.
+Acerca de governança corporativa, julgue os itens a seguir.
+81 A maioria das companhias brasileiras de grande porte
+apresenta uma estrutura de propriedade difusa, com elevada
+dispersão da base acionária e separação clara entre
+propriedade e controle.
+82 Governança corporativa corresponde ao conjunto de
+princípios, práticas, regras explícitas e normas tácitas que
+regem os relacionamentos entre acionistas, conselheiros,
+executivos e colaboradores, determinando o propósito e os
+estilos de liderança predominantes em uma organização.
+83 Cooperação entre os colaboradores e promoção do interesse
+coletivo da organização, bem como diversidade, inclusão e
+direitos humanos, são princípios de boa governança.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+No que se refere ao COBIT 2019, julgue os itens seguintes.
+84
+
+Sistema de governança de ponta a ponta, abordagem
+holística e sistema de governança dinâmico são princípios do
+sistema de governança do modelo COBIT 2019.
+
+85
+
+Conforme o COBIT 2019, os habilitadores interagem entre si
+para criar uma forma abrangente e holística de governança
+que contribua para um sistema de governança.
+
+86
+
+No COBIT 2019, os objetivos de governança são agrupados
+no domínio construir, adquirir e implementar (na sigla em
+inglês, BAI — build, acquire and implement).
+
+Julgue os itens que se seguem, a respeito da ITIL 4.
+87
+
+As quatro dimensões de gerenciamento de serviço definidas
+pela ITIL 4 são: organizações e pessoas; informação e
+tecnologia; parceiros e fornecedores; e fluxos de valor e
+processos.
+
+88
+
+Cadeia de valor de serviço, práticas, princípios orientadores,
+governança e melhoria contínua são os principais
+componentes do sistema de valores de serviço da ITIL 4.
+
+89
+
+Produto, na ITIL 4, é um meio de permitir a cocriação de
+valor, a fim de facilitar os resultados que o cliente deseja
+alcançar, sem que ele tenha de gerenciar custos e riscos
+específicos.
+
+Com base na norma ABNT NBR ISO 38500, julgue os itens
+subsecutivos.
+90
+
+Convém que as estruturas de governança avaliem
+regularmente a conformidade interna da organização com o
+seu framework de governança de tecnologia da
+informação (TI) e até que ponto a TI atende às obrigações
+(regulamentares, legislativas, contratuais) e às políticas
+internas.
+
+91
+
+Monitorar a conformidade com as políticas e o desempenho
+em relação às estratégias é uma das principais tarefas por
+meio das quais as estruturas de governança administram a
+tecnologia da informação.
+
+Julgue os próximos itens, relativos ao ciclo PDCA, ao
+planejamento estratégico e à estratégia organizacional.
+92
+
+Entre as estratégias de crescimento, que visam aumentar a
+escala, o alcance e o impacto de uma empresa no mercado, o
+crescimento orgânico é a estratégia que inclui fusões,
+aquisições e parcerias com outras empresas, permitindo a
+entrada em novos mercados.
+
+93
+
+No ciclo PDCA, a ferramenta 5W2H costuma ser usada na
+análise do processo, que é a etapa realizada com o intuito de
+identificar a causa raiz do problema identificado.
+
+94
+
+No ciclo PDCA, é necessário padronizar todas as ações que
+tenham proporcionado benefícios concretos e comprovados
+na etapa de verificação, para que o trabalho realizado não
+seja esquecido ou perdido futuramente.
+
+95
+
+Planejamento estratégico de tecnologia da informação (TI) é
+um empreendimento complexo e crítico que exige uma
+estreita coordenação com as unidades de negócios da
+organização; a ausência ou presença da capacidade de TI
+pouco influencia no atingimento dos objetivos estratégicos.
+
+
+O conselho de administração de determinada organização,
+ao aprovar a implantação de um sistema de governança, resolveu
+pela instalação de um comitê de auditoria em detrimento da
+constituição de um conselho fiscal, e decidiu pela contratação de
+uma empresa terceirizada para atuar como auditoria interna.
+A partir desse cenário hipotético, julgue os itens a seguir.
+96 O conselho de administração, por ser o órgão responsável
+pela aprovação da implantação do sistema de governança,
+não é um componente da estrutura de governança da
+organização.
+97 A organização não poderia dispensar a constituição de um
+conselho fiscal, pois ele é parte integrante de um sistema de
+governança e possui atribuições definidas em lei.
+98 Por ser uma atividade sensível e estratégica para a
+governança de uma organização, a auditoria interna deve ser
+realizada e composta integralmente de membros da própria
+organização.
+99 O comitê de auditoria deve prestar contas diretamente ao
+diretor presidente da organização.
+100 Ainda que exista um comitê de auditoria, é recomendável a
+contratação de um auditor independente a fim de avaliar os
+controles internos utilizados pela administração para a
+elaboração de demonstrativos financeiros.
+No que se refere a riscos e compliance e à gestão de riscos em
+tecnologia da informação (TI), julgue os itens seguintes.
+101 Existe risco de agenciamento quando, por exemplo, o
+administrador de uma organização tem o poder de alocar
+recursos da empresa e produzir informações relacionadas às
+suas decisões.
+102 O comitê de auditoria deve dar suporte ao conselho de
+administração na supervisão da estrutura e das atividades de
+gerenciamento de riscos.
+103 As ações relacionadas a compliance devem estar
+fundamentadas em critérios éticos refletidos no código de
+conduta da organização.
+104 Os gestores de TI são responsáveis pela decisão a respeito da
+implantação de um sistema de governança de TI.
+105 Compete ao comitê de gestão de riscos aprovar políticas
+específicas que estabeleçam os limites aceitáveis para a
+exposição de riscos da organização.
+106 A área de gestão de riscos na governança de TI deve ter um
+entendimento claro dos limites de aceitação de exposição de
+riscos da empresa.
+Julgue os itens a seguir, relativos à gestão de desempenho e à
+gestão de recursos.
+107 A aquisição de produtos e serviços de TI é um dos princípios
+da gestão de recursos, assim como a contratação de força de
+trabalho que considere o equilíbrio entre benefícios,
+oportunidades, custos e riscos.
+108 A gestão de desempenho na governança corporativa de TI
+deriva do princípio de que é necessário que a organização
+considere as capacidades atuais e futuras de TI para garantir
+que as necessidades futuras do negócio sejam satisfeitas.
+109 Quando se trata de governança corporativa de TI, há vários
+modelos ou frameworks que podem ser adotados e(ou)
+adaptados pelas organizações.
+110 Uma vez aprovado o plano de aquisição de TI, compete aos
+auditores realizar a fiscalização da execução do plano, sendo
+prescindível o monitoramento, por parte dos dirigentes da
+organização, dos investimentos realizados.
+
+
+CEBRASPE – CNPq – Edital: 2023
+
+Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+111 O projeto básico, documento constitutivo da primeira etapa
+
+do planejamento de uma contratação, dá a base para o
+anteprojeto e caracteriza o interesse público na contratação.
+112 Na contratação de projetos e serviços de desenvolvimento de
+
+softwares, os autores devem ceder à administração pública
+todos os direitos patrimoniais a eles relativos; assim, os
+softwares poderão ser livremente alterados e utilizados em
+outras ocasiões, sem necessidade de novas autorizações por
+parte dos autores.
+Julgue os itens a seguir, considerando a Lei n.º 12.527/2011
+(Lei de Acesso à Informação), o Decreto n.º 7.845, o Decreto
+n.º 7.724, e suas alterações.
+113 O Decreto n.º 7.724 inclui autarquias e sociedades de
+
+economia mista na sua abrangência.
+114 A Lei n.º 12.527/2011 reconhece a obrigatoriedade de
+
+consentimento para divulgação de informações pessoais
+quando estas forem necessárias à prevenção e diagnóstico
+médico, quando o interessado estiver física ou legalmente
+incapaz, com a finalidade única e exclusiva de tratamento
+médico.
+115 O
+
+Decreto n.º 7.845 tem por objetivo regulamentar
+
+exclusivamente procedimentos para credenciar e tratar
+segurança da informação classificada como confidencial no
+âmbito do Poder Executivo federal.
+Com base na Lei n.º 12.737/2012 (Lei de Delitos Informáticos),
+julgue os itens a seguir.
+116 Multa financeira e atuação em trabalhos sociais são as penas
+
+previstas para interrupção ou perturbação de serviço de
+informação de utilidade pública.
+117 Configura-se como crime divulgar informações de forma não
+
+autorizada, obtidas por meio de invasão.
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados),
+julgue os itens subsecutivos.
+118 Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais
+
+tem assegurado o direto de obter informações a respeito do
+tratamento dos seus dados.
+119 A Lei Geral de Proteção de Dados aborda o tratamento de
+
+dados pessoais e se aplica também à administração pública.
+120 Os dados que forem anonimizados serão considerados dados
+
+pessoais para os fins da Lei Geral de Proteção de Dados
+independente se a anonimização possa ser revertida ou não.
+
+
